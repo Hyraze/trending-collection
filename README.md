@@ -1,4 +1,4 @@
-#Gitrepos Trending Daily
+# Gitrepos Trending Daily
 
 <i>Save the daily trending Github respositories</i>
 
