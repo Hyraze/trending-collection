@@ -6,6 +6,10 @@ import codecs
 from pyquery import PyQuery as pq
 
 def createMarkdown(date, filename):
+    folder_name = date.split('-')[0]
+    if not os.path.exists(folder_name):
+        os.mkdir(folder_name)
+    filename = os.path.join(folder_name, filename)
     with open(filename, 'w') as f:
         f.write("## " + date + "\n")
 
@@ -30,6 +34,8 @@ def scrape(language, filename):
     assert r.status_code == 200
     d = pq(r.content)
     items = d('div.Box article.Box-row')
+    folder_name = filename.split('-')[0]
+    filename = os.path.join(folder_name, filename)
     with codecs.open(filename, "a", "utf-8") as f:
         f.write('\n#### {language}\n'.format(language=language))
 
