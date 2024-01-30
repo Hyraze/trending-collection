@@ -59,6 +59,7 @@ def job():
     scrape('swift', filename)
     scrape('javascript', filename)
     scrape('go', filename)
+    scrape('rust', filename)
     # gitAddCommitPush(strdate, filename)
 
 
