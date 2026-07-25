@@ -4,6 +4,7 @@ import requests
 import datetime
 import codecs
 from pyquery import PyQuery as pq
+from readme_generator import update_readme
 
 def createMarkdown(date, filename):
     folder_name = date.split('-')[0]
@@ -60,6 +61,8 @@ def job():
     scrape('javascript', filename)
     scrape('go', filename)
     scrape('rust', filename)
+    scrape('typescript', filename)
+    update_readme()
     # gitAddCommitPush(strdate, filename)
 
 
