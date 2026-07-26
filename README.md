@@ -2,7 +2,7 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3386-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3387-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
@@ -11,6 +11,24 @@ _Top 3 per language · [view full day →](./2026/2026-07-26.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 🐍 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 🐍 | Kronos: A Foundation Model for the Language of Financial Markets |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 🐍 | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [block/buzz](https://github.com/block/buzz) | 🦀 | A hive mind communication platform |
+| [Automattic/harper](https://github.com/Automattic/harper) | 🦀 | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
+| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 🦀 | Empowering everyone to host fast and efficient Minecraft servers. |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | ⚡ | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⚡ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | ⚡ | Stremio - Freedom to Stream |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🐹 | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | 🐹 | Pretty fancy and modern terminal file manager |
+| [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | 🐹 | Staging repo for development of native port of TypeScript |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 🍎 | bluetooth mesh chat, IRC vibes |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 🍎 | macOS video editor built for AI |
+| [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) | 🍎 | Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source. |
+| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 🔷 | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔷 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 🔷 | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌 |
 
 ---
 
@@ -18,6 +36,7 @@ _Top 3 per language · [view full day →](./2026/2026-07-26.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-07-26](./2026/2026-07-26.md) | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | [buzz](https://github.com/block/buzz) | [ego-lite](https://github.com/citrolabs/ego-lite) | [open-code-review](https://github.com/alibaba/open-code-review) | [bitchat](https://github.com/permissionlesstech/bitchat) | [Instatic](https://github.com/CoreBunch/Instatic) |
 | [2026-07-25](./2026/2026-07-25.md) | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | [buzz](https://github.com/block/buzz) | [ego-lite](https://github.com/citrolabs/ego-lite) | [superfile](https://github.com/yorukot/superfile) | [palmier-pro](https://github.com/palmier-io/palmier-pro) | — |
 | [2026-07-24](./2026/2026-07-24.md) | [Kronos](https://github.com/shiyu-coder/Kronos) | [buzz](https://github.com/block/buzz) | [ego-lite](https://github.com/citrolabs/ego-lite) | [open-code-review](https://github.com/alibaba/open-code-review) | [open-vibe-island](https://github.com/Octane0411/open-vibe-island) | — |
 | [2026-07-23](./2026/2026-07-23.md) | [Kronos](https://github.com/shiyu-coder/Kronos) | [RuView](https://github.com/ruvnet/RuView) | [tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | [croc](https://github.com/schollz/croc) | [open-vibe-island](https://github.com/Octane0411/open-vibe-island) | — |
@@ -35,7 +54,7 @@ _Most days on trending, all time_
 |---|---|
 | [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2230 |
 | [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) | 2013 |
-| [vapor/vapor](https://github.com/vapor/vapor) | 1718 |
+| [vapor/vapor](https://github.com/vapor/vapor) | 1719 |
 | [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1486 |
 | [danielgindi/Charts](https://github.com/danielgindi/Charts) | 1442 |
 | [realm/SwiftLint](https://github.com/realm/SwiftLint) | 1363 |
@@ -51,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
-| [ovexro/dockpanel](https://github.com/ovexro/dockpanel) | 🦀 | 2026-07-25 | Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel. |
-| [supabitapp/supacode](https://github.com/supabitapp/supacode) | 🍎 | 2026-07-24 | worktree coding agents command center. |
-| [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) | 🍎 | 2026-07-24 | Synchronized multi-client state for AI agent sessions |
-| [google/GTMAppAuth](https://github.com/google/GTMAppAuth) | 🍎 | 2026-07-24 | Apple platforms SDK for using AppAuth with Google libraries. |
-| [himself65/finance-skills](https://github.com/himself65/finance-skills) | ⚡ | 2026-07-24 | A collection of skills for AI financial analysis. |
-| [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) | ⚡ | 2026-07-24 | Chrome扩展：支持Codex / kiro / Grok注册、验证码获取、CPA/sub回调验证与自动恢复 |
-| [HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill) | ⚡ | 2026-07-23 | 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done. |
-| [sandeco/reversa](https://github.com/sandeco/reversa) | ⚡ | 2026-07-23 | Transform legacy systems into executable specifications for AI coding agents |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🐹 | 2026-07-23 | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| [Julian-adv/OpenMMO](https://github.com/Julian-adv/OpenMMO) | 🦀 | 2026-07-23 |  |
+| [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) | 🍎 | 2026-07-26 | SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO |
+| [Sanyam-G/switch](https://github.com/Sanyam-G/switch) | 🍎 | 2026-07-26 | A keyboard-driven window switcher for macOS. Notarized. Free. |
+| [BazedFrog/SongGeneration-Studio](https://github.com/BazedFrog/SongGeneration-Studio) | ⚡ | 2026-07-26 | Clean, polished interface for Tencent’s SongGeneration. Create songs from text prompts or reference audio, with batch processing and smart model selection. Minimum Requirement: 10GB of VRAM |
+| [TechyCSR/OpenCluely](https://github.com/TechyCSR/OpenCluely) | ⚡ | 2026-07-26 | OpenCluely is a free, open source Cluely (alternative), built for technical interviews like DSA, OAs, and CP. It offers an invisible overlay, real-time AI help, Smart Image Processing for question capture, and multi-language support : 100% customizable and private. |
+| [evolution-foundation/evolution-go](https://github.com/evolution-foundation/evolution-go) | 🐹 | 2026-07-26 | Evolution API / Evolution Go is an open-source WhatsApp integration API |
+| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 🔷 | 2026-07-26 | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔷 | 2026-07-26 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 🔷 | 2026-07-26 | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌 |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔷 | 2026-07-26 | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
+| [microsoft/inshellisense](https://github.com/microsoft/inshellisense) | 🔷 | 2026-07-26 | IDE style command line auto complete |
 
 ---
 
