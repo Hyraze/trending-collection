@@ -56,10 +56,32 @@ def parse_trending_html(html) -> list[dict]:
         href = element('.lh-condensed a').attr('href')
         if not href:
             continue
+            
+        repo_url = 'https://github.com' + href
+        title = element('.lh-condensed a').text().replace('\n', '').strip()
+        description = element('p.col-9').text().strip()
+        
+        language = element('span[itemprop="programmingLanguage"]').text().strip()
+        language_color_style = element('span.repo-language-color').attr('style') or ''
+        language_color = language_color_style.replace('background-color:', '').strip().strip(';') if language_color_style else None
+        
+        stars_text = element('a[href$="/stargazers"]').text().strip()
+        stars = int(stars_text.replace(',', '')) if stars_text else 0
+        
+        forks_text = element('a[href$="/forks"]').text().strip()
+        forks = int(forks_text.replace(',', '')) if forks_text else 0
+        
+        added_stars_text = element('span.float-sm-right').text().strip()
+        
         repos.append({
-            'title': element('.lh-condensed a').text(),
-            'url': 'https://github.com' + href,
-            'description': element('p.col-9').text(),
+            'title': title,
+            'url': repo_url,
+            'description': description,
+            'language': language,
+            'languageColor': language_color,
+            'stars': stars,
+            'forks': forks,
+            'added_stars': added_stars_text
         })
     return repos
 
@@ -156,7 +178,11 @@ def write_api_json(root: str, sections: dict[str, list[dict]], since: str = 'dai
                 "title": repo.get('title', ''),
                 "url": repo.get('url', ''),
                 "description": repo.get('description', ''),
-                "language": language,
+                "language": repo.get('language') or language,
+                "languageColor": repo.get('languageColor', ''),
+                "stars": repo.get('stars', 0),
+                "forks": repo.get('forks', 0),
+                "added_stars": repo.get('added_stars', '')
             }
             items.append(item)
             

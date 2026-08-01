@@ -71,11 +71,21 @@ def test_parse_trending_html_extracts_repos():
             "title": "astral-sh / uv",
             "url": "https://github.com/astral-sh/uv",
             "description": "An extremely fast Python package manager",
+            "language": "",
+            "languageColor": None,
+            "stars": 0,
+            "forks": 0,
+            "added_stars": "",
         },
         {
             "title": "psf / black",
             "url": "https://github.com/psf/black",
             "description": "The uncompromising code formatter",
+            "language": "",
+            "languageColor": None,
+            "stars": 0,
+            "forks": 0,
+            "added_stars": "",
         },
     ]
 
@@ -90,7 +100,16 @@ def test_parse_trending_html_handles_missing_description():
     """
 
     assert parse_trending_html(html) == [
-        {"title": "a / b", "url": "https://github.com/a/b", "description": ""}
+        {
+            "title": "a / b",
+            "url": "https://github.com/a/b",
+            "description": "",
+            "language": "",
+            "languageColor": None,
+            "stars": 0,
+            "forks": 0,
+            "added_stars": "",
+        }
     ]
 
 
