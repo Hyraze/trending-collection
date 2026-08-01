@@ -63,7 +63,7 @@ def parse_trending_html(html) -> list[dict]:
     return repos
 
 
-def scrape(session: requests.Session, language: str, is_featured: bool = False) -> list[dict]:
+def scrape(session: requests.Session, language: str) -> list[dict]:
     """Fetch one trending language page.
 
     Raises ScrapeError when a featured page yields no repositories.
@@ -75,7 +75,7 @@ def scrape(session: requests.Session, language: str, is_featured: bool = False) 
 
     repos = parse_trending_html(response.content)
     if not repos:
-        if is_featured:
+        if language in LANGUAGES:
             raise ScrapeError(
                 'no repositories parsed for {language} — selector rot or blocked request'.format(
                     language=language
@@ -189,7 +189,7 @@ def job(root: str = '.', today: datetime.date | None = None) -> str:
     for i, language in enumerate(all_languages):
         is_featured = language in LANGUAGES
         try:
-            repos = scrape(session, language, is_featured)
+            repos = scrape(session, language)
             if repos:
                 sections[language] = repos
                 if is_featured:
