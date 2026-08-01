@@ -1,70 +1,187 @@
-import os
-import time
-import requests
+"""Scrape GitHub trending repositories and archive them as daily Markdown files."""
+
 import datetime
-import codecs
+import logging
+import os
+import tempfile
+import json
+
+import requests
 from pyquery import PyQuery as pq
-from readme_generator import update_readme
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
-def createMarkdown(date, filename):
-    folder_name = date.split('-')[0]
-    if not os.path.exists(folder_name):
-        os.mkdir(folder_name)
-    filename = os.path.join(folder_name, filename)
-    with open(filename, 'w') as f:
-        f.write("## " + date + "\n")
+from readme_generator import LANGUAGES, update_readme
 
-def gitAddCommitPush(date, filename):
-    git_add = 'git add {filename}'.format(filename=filename)
-    git_commit = 'git commit -m "{date}"'.format(date=date)
-    git_push = 'git push -u origin main'
-    os.system(git_add)
-    os.system(git_commit)
-    os.system(git_push)
+REQUEST_TIMEOUT = 30
+RETRY_TOTAL = 4
+RETRY_BACKOFF = 2
+RETRY_STATUSES = (429, 500, 502, 503, 504)
 
-def scrape(language, filename):
-    HEADERS = {
-        'User-Agent'		: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0',
-        'Accept'			: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Encoding'	: 'gzip,deflate,sdch',
-        'Accept-Language'	: 'zh-CN,zh;q=0.8'
-    }
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+}
 
+logger = logging.getLogger(__name__)
+
+
+class ScrapeError(RuntimeError):
+    """Raised when a trending page yields no repositories."""
+
+
+def make_session() -> requests.Session:
+    """Session that retries transient failures with exponential backoff."""
+    session = requests.Session()
+    retry = Retry(
+        total=RETRY_TOTAL,
+        backoff_factor=RETRY_BACKOFF,
+        status_forcelist=RETRY_STATUSES,
+        allowed_methods=frozenset(['GET']),
+        raise_on_status=False,
+    )
+    session.mount('https://', HTTPAdapter(max_retries=retry))
+    return session
+
+
+def parse_trending_html(html) -> list[dict]:
+    """Extract repository entries from a GitHub trending page."""
+    document = pq(html)
+    repos = []
+    for item in document('div.Box article.Box-row'):
+        element = pq(item)
+        href = element('.lh-condensed a').attr('href')
+        if not href:
+            continue
+        repos.append({
+            'title': element('.lh-condensed a').text(),
+            'url': 'https://github.com' + href,
+            'description': element('p.col-9').text(),
+        })
+    return repos
+
+
+def scrape(session: requests.Session, language: str) -> list[dict]:
+    """Fetch one trending language page.
+
+    Raises ScrapeError when the page parses to zero repositories, which means
+    either GitHub changed its markup or the request was blocked. Failing loudly
+    keeps empty sections out of the archive.
+    """
     url = 'https://github.com/trending/{language}'.format(language=language)
-    r = requests.get(url, headers=HEADERS)
-    assert r.status_code == 200
-    d = pq(r.content)
-    items = d('div.Box article.Box-row')
-    folder_name = filename.split('-')[0]
-    filename = os.path.join(folder_name, filename)
-    with codecs.open(filename, "a", "utf-8") as f:
-        f.write('\n#### {language}\n'.format(language=language))
+    response = session.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+    response.raise_for_status()
 
-        for item in items:
-            i = pq(item)
-            title = i(".lh-condensed a").text()
-            owner = i(".lh-condensed span.text-normal").text()
-            description = i("p.col-9").text()
-            url = i(".lh-condensed a").attr("href")
-            url = "https://github.com" + url
-            # ownerImg = i("p.repo-list-meta a img").attr("src")
-            # print(ownerImg)
-            f.write(u"* [{title}]({url}):{description}\n".format(title=title, url=url, description=description))
+    repos = parse_trending_html(response.content)
+    if not repos:
+        raise ScrapeError(
+            'no repositories parsed for {language} — selector rot or blocked request'.format(
+                language=language
+            )
+        )
+    return repos
 
 
-def job():
-    strdate = datetime.datetime.now().strftime('%Y-%m-%d')
-    filename = '{date}.md'.format(date=strdate)
-    createMarkdown(strdate, filename)
-    scrape('python', filename)
-    scrape('swift', filename)
-    scrape('javascript', filename)
-    scrape('go', filename)
-    scrape('rust', filename)
-    scrape('typescript', filename)
-    update_readme()
-    # gitAddCommitPush(strdate, filename)
+def render_day(date: str, languages: list[str], sections: dict[str, list[dict]]) -> str:
+    """Render the daily archive file. Format must stay stable — readme_generator parses it."""
+    lines = ['## {date}\n'.format(date=date)]
+    for language in languages:
+        repos = sections.get(language)
+        if not repos:
+            continue
+        lines.append('\n#### {language}\n'.format(language=language))
+        for repo in repos:
+            lines.append('* [{title}]({url}):{description}\n'.format(**repo))
+    return ''.join(lines)
+
+
+def write_day(root: str, date: str, content: str) -> str:
+    """Write the day file atomically so a crash can never leave a partial archive."""
+    year_dir = os.path.join(root, date.split('-')[0])
+    os.makedirs(year_dir, exist_ok=True)
+    target = os.path.join(year_dir, '{date}.md'.format(date=date))
+
+    handle, temp_path = tempfile.mkstemp(dir=year_dir, suffix='.tmp')
+    try:
+        with os.fdopen(handle, 'w', encoding='utf-8') as f:
+            f.write(content)
+        os.replace(temp_path, target)
+    except BaseException:
+        if os.path.exists(temp_path):
+            os.remove(temp_path)
+        raise
+    return target
+
+
+def write_api_json(root: str, sections: dict[str, list[dict]]) -> None:
+    """Generate JSON API files for each language and an all.json."""
+    api_dir = os.path.join(root, 'api', 'daily')
+    os.makedirs(api_dir, exist_ok=True)
+    
+    pub_date = datetime.datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
+    all_items = []
+    
+    for language, repos in sections.items():
+        if not repos:
+            continue
+            
+        items = []
+        for repo in repos:
+            item = {
+                "title": repo.get('title', ''),
+                "url": repo.get('url', ''),
+                "description": repo.get('description', ''),
+                "language": language,
+            }
+            items.append(item)
+            all_items.append(item)
+            
+        lang_data = {
+            "title": f"GitHub {language.capitalize()} Languages Daily Trending",
+            "description": f"Daily Trending of {language.capitalize()} Languages in GitHub",
+            "link": "https://github.com/trending",
+            "pubDate": pub_date,
+            "items": items
+        }
+        
+        with open(os.path.join(api_dir, f"{language}.json"), 'w', encoding='utf-8') as f:
+            json.dump(lang_data, f, indent=2, ensure_ascii=False)
+            
+    # Write all.json
+    all_data = {
+        "title": "GitHub Daily Trending",
+        "description": "Daily Trending of All Languages in GitHub",
+        "link": "https://github.com/trending",
+        "pubDate": pub_date,
+        "items": all_items
+    }
+    with open(os.path.join(api_dir, "all.json"), 'w', encoding='utf-8') as f:
+        json.dump(all_data, f, indent=2, ensure_ascii=False)
+
+
+def job(root: str = '.', today: datetime.date | None = None) -> str:
+    """Scrape every language, then write the archive and refresh the README.
+
+    Every language must succeed before anything is written — a partial day would
+    be committed by CI and permanently pollute the archive.
+    """
+    today = today or datetime.date.today()
+    date = today.strftime('%Y-%m-%d')
+    session = make_session()
+
+    sections = {}
+    for language in LANGUAGES:
+        sections[language] = scrape(session, language)
+        logger.info('%s: %d repositories', language, len(sections[language]))
+
+    path = write_day(root, date, render_day(date, LANGUAGES, sections))
+    write_api_json(root, sections)
+    update_readme(root=root, today=today)
+    logger.info('wrote %s and api json files', path)
+    return path
 
 
 if __name__ == '__main__':
+    logging.basicConfig(level=logging.INFO, format='%(levelname)s %(message)s')
     job()
