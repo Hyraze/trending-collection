@@ -1,0 +1,152 @@
+{
+  "title": "GitHub Vim-script Languages Daily Trending",
+  "description": "Daily Trending of Vim-script Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "items": [
+    {
+      "title": "neovim / neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "vim-script"
+    },
+    {
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
+      "language": "vim-script"
+    },
+    {
+      "title": "vim / vim",
+      "url": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "vim-script"
+    },
+    {
+      "title": "dense-analysis / ale",
+      "url": "https://github.com/dense-analysis/ale",
+      "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
+      "language": "vim-script"
+    },
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "vim-script"
+    },
+    {
+      "title": "rbong / vim-flog",
+      "url": "https://github.com/rbong/vim-flog",
+      "description": "A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.",
+      "language": "vim-script"
+    },
+    {
+      "title": "morhetz / gruvbox",
+      "url": "https://github.com/morhetz/gruvbox",
+      "description": "Retro groove color scheme for Vim",
+      "language": "vim-script"
+    },
+    {
+      "title": "junegunn / vim-easy-align",
+      "url": "https://github.com/junegunn/vim-easy-align",
+      "description": "🌻 A Vim alignment plugin",
+      "language": "vim-script"
+    },
+    {
+      "title": "tpope / vim-eunuch",
+      "url": "https://github.com/tpope/vim-eunuch",
+      "description": "eunuch.vim: Helpers for UNIX",
+      "language": "vim-script"
+    },
+    {
+      "title": "fatih / vim-go",
+      "url": "https://github.com/fatih/vim-go",
+      "description": "Go development plugin for Vim",
+      "language": "vim-script"
+    },
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "vim-script"
+    },
+    {
+      "title": "rust-lang / rust.vim",
+      "url": "https://github.com/rust-lang/rust.vim",
+      "description": "Vim configuration for Rust.",
+      "language": "vim-script"
+    },
+    {
+      "title": "leafgarland / typescript-vim",
+      "url": "https://github.com/leafgarland/typescript-vim",
+      "description": "Typescript syntax files for Vim",
+      "language": "vim-script"
+    },
+    {
+      "title": "vim-syntastic / syntastic",
+      "url": "https://github.com/vim-syntastic/syntastic",
+      "description": "Syntax checking hacks for vim",
+      "language": "vim-script"
+    },
+    {
+      "title": "tpope / vim-abolish",
+      "url": "https://github.com/tpope/vim-abolish",
+      "description": "abolish.vim: Work with several variants of a word at once",
+      "language": "vim-script"
+    },
+    {
+      "title": "ryanoasis / vim-devicons",
+      "url": "https://github.com/ryanoasis/vim-devicons",
+      "description": "Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more",
+      "language": "vim-script"
+    },
+    {
+      "title": "prabirshrestha / vim-lsp",
+      "url": "https://github.com/prabirshrestha/vim-lsp",
+      "description": "async language server protocol plugin for vim and neovim",
+      "language": "vim-script"
+    },
+    {
+      "title": "sainnhe / everforest",
+      "url": "https://github.com/sainnhe/everforest",
+      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
+      "language": "vim-script"
+    },
+    {
+      "title": "preservim / nerdcommenter",
+      "url": "https://github.com/preservim/nerdcommenter",
+      "description": "Vim plugin for intensely nerdy commenting powers",
+      "language": "vim-script"
+    },
+    {
+      "title": "mattn / vim-lsp-settings",
+      "url": "https://github.com/mattn/vim-lsp-settings",
+      "description": "Auto configurations for Language Server for vim-lsp",
+      "language": "vim-script"
+    },
+    {
+      "title": "vim-airline / vim-airline-themes",
+      "url": "https://github.com/vim-airline/vim-airline-themes",
+      "description": "A collection of themes for vim-airline",
+      "language": "vim-script"
+    },
+    {
+      "title": "VundleVim / Vundle.vim",
+      "url": "https://github.com/VundleVim/Vundle.vim",
+      "description": "Vundle, the plug-in manager for Vim",
+      "language": "vim-script"
+    },
+    {
+      "title": "mhinz / vim-signify",
+      "url": "https://github.com/mhinz/vim-signify",
+      "description": "➕ Show a diff using Vim its sign column.",
+      "language": "vim-script"
+    },
+    {
+      "title": "easymotion / vim-easymotion",
+      "url": "https://github.com/easymotion/vim-easymotion",
+      "description": "Vim motions on speed!",
+      "language": "vim-script"
+    }
+  ]
+}

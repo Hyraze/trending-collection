@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Erlang Languages Daily Trending</title>
+  <description>Daily Trending of Erlang Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:03:09 GMT</pubDate>
+  <item>
+    <title>erlang / otp</title>
+    <link>https://github.com/erlang/otp</link>
+    <description>Erlang/OTP</description>
+  </item>
+  <item>
+    <title>emqx / emqx</title>
+    <link>https://github.com/emqx/emqx</link>
+    <description>The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles</description>
+  </item>
+  <item>
+    <title>apache / couchdb</title>
+    <link>https://github.com/apache/couchdb</link>
+    <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
+  </item>
+  <item>
+    <title>blt / port_compiler</title>
+    <link>https://github.com/blt/port_compiler</link>
+    <description>A rebar3 port compiler</description>
+  </item>
+  <item>
+    <title>eproxus / meck</title>
+    <link>https://github.com/eproxus/meck</link>
+    <description>A mocking library for Erlang</description>
+  </item>
+  <item>
+    <title>processone / ejabberd</title>
+    <link>https://github.com/processone/ejabberd</link>
+    <description>Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</description>
+  </item>
+  <item>
+    <title>ninenines / cowboy</title>
+    <link>https://github.com/ninenines/cowboy</link>
+    <description>Small, fast, modern HTTP server for Erlang/OTP.</description>
+  </item>
+  <item>
+    <title>rabbitmq / rabbitmq-delayed-message-exchange</title>
+    <link>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</link>
+    <description>Delayed Messaging for RabbitMQ</description>
+  </item>
+</channel>
+</rss>

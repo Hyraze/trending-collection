@@ -1,0 +1,140 @@
+{
+  "title": "GitHub Rust Languages Daily Trending",
+  "description": "Daily Trending of Rust Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "items": [
+    {
+      "title": "Zackriya-Solutions / meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+      "language": "rust"
+    },
+    {
+      "title": "1jehuang / jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "language": "rust"
+    },
+    {
+      "title": "TencentCloud / CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "rust"
+    },
+    {
+      "title": "cjpais / Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "rust"
+    },
+    {
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+      "language": "rust"
+    },
+    {
+      "title": "Pumpkin-MC / Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "rust"
+    },
+    {
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "rust"
+    },
+    {
+      "title": "atuinsh / atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Making your shell magical",
+      "language": "rust"
+    },
+    {
+      "title": "apache / datafusion",
+      "url": "https://github.com/apache/datafusion",
+      "description": "Apache DataFusion SQL Query Engine",
+      "language": "rust"
+    },
+    {
+      "title": "Automattic / harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "rust"
+    },
+    {
+      "title": "dani-garcia / vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "rust"
+    },
+    {
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "rust"
+    },
+    {
+      "title": "DioxusLabs / dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "rust"
+    },
+    {
+      "title": "andrewrabert / jellium-desktop",
+      "url": "https://github.com/andrewrabert/jellium-desktop",
+      "description": "An unofficial desktop client for Jellyfin",
+      "language": "rust"
+    },
+    {
+      "title": "wealthfolio / wealthfolio",
+      "url": "https://github.com/wealthfolio/wealthfolio",
+      "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
+      "language": "rust"
+    },
+    {
+      "title": "rust-lang / rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "rust"
+    },
+    {
+      "title": "tonhowtf / omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "rust"
+    },
+    {
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "rust"
+    },
+    {
+      "title": "raine / workmux",
+      "url": "https://github.com/raine/workmux",
+      "description": "git worktrees + tmux windows for zero-friction parallel dev",
+      "language": "rust"
+    },
+    {
+      "title": "screenpipe / screenpipe",
+      "url": "https://github.com/screenpipe/screenpipe",
+      "description": "YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
+      "language": "rust"
+    },
+    {
+      "title": "tokio-rs / tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "rust"
+    },
+    {
+      "title": "biomejs / biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "rust"
+    }
+  ]
+}

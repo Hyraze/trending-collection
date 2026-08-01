@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Vim-script Languages Daily Trending</title>
+  <description>Daily Trending of Vim-script Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:03:09 GMT</pubDate>
+  <item>
+    <title>vim / vim</title>
+    <link>https://github.com/vim/vim</link>
+    <description>The official Vim repository</description>
+  </item>
+  <item>
+    <title>neovim / neovim</title>
+    <link>https://github.com/neovim/neovim</link>
+    <description>Vim-fork focused on extensibility and usability</description>
+  </item>
+  <item>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
+  </item>
+  <item>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
+  </item>
+  <item>
+    <title>sainnhe / everforest</title>
+    <link>https://github.com/sainnhe/everforest</link>
+    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
+  </item>
+  <item>
+    <title>fatih / vim-go</title>
+    <link>https://github.com/fatih/vim-go</link>
+    <description>Go development plugin for Vim</description>
+  </item>
+  <item>
+    <title>kristijanhusak / vim-dadbod-ui</title>
+    <link>https://github.com/kristijanhusak/vim-dadbod-ui</link>
+    <description>Simple UI for https://github.com/tpope/vim-dadbod</description>
+  </item>
+  <item>
+    <title>dense-analysis / ale</title>
+    <link>https://github.com/dense-analysis/ale</link>
+    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
+  </item>
+  <item>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+  </item>
+  <item>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
+  </item>
+  <item>
+    <title>editorconfig / editorconfig-vim</title>
+    <link>https://github.com/editorconfig/editorconfig-vim</link>
+    <description>EditorConfig plugin for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-rhubarb</title>
+    <link>https://github.com/tpope/vim-rhubarb</link>
+    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
+  </item>
+  <item>
+    <title>preservim / nerdtree</title>
+    <link>https://github.com/preservim/nerdtree</link>
+    <description>A tree explorer plugin for vim.</description>
+  </item>
+  <item>
+    <title>tpope / vim-abolish</title>
+    <link>https://github.com/tpope/vim-abolish</link>
+    <description>abolish.vim: Work with several variants of a word at once</description>
+  </item>
+  <item>
+    <title>easymotion / vim-easymotion</title>
+    <link>https://github.com/easymotion/vim-easymotion</link>
+    <description>Vim motions on speed!</description>
+  </item>
+  <item>
+    <title>amix / vimrc</title>
+    <link>https://github.com/amix/vimrc</link>
+    <description>The ultimate Vim configuration (vimrc)</description>
+  </item>
+  <item>
+    <title>godlygeek / tabular</title>
+    <link>https://github.com/godlygeek/tabular</link>
+    <description>Vim script for text filtering and alignment</description>
+  </item>
+  <item>
+    <title>hrsh7th / vim-vsnip</title>
+    <link>https://github.com/hrsh7th/vim-vsnip</link>
+    <description>Snippet plugin for vim/nvim that supports LSP/VSCode&#x27;s snippet format.</description>
+  </item>
+  <item>
+    <title>mhinz / vim-galore</title>
+    <link>https://github.com/mhinz/vim-galore</link>
+    <description>🎓 All things Vim!</description>
+  </item>
+  <item>
+    <title>mg979 / vim-visual-multi</title>
+    <link>https://github.com/mg979/vim-visual-multi</link>
+    <description>Multiple cursors plugin for vim/neovim</description>
+  </item>
+</channel>
+</rss>

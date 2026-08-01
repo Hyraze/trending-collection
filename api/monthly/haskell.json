@@ -1,0 +1,86 @@
+{
+  "title": "GitHub Haskell Languages Daily Trending",
+  "description": "Daily Trending of Haskell Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "items": [
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "haskell"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "haskell"
+    },
+    {
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "haskell"
+    },
+    {
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "language": "haskell"
+    },
+    {
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "language": "haskell"
+    },
+    {
+      "title": "haskell / cabal",
+      "url": "https://github.com/haskell/cabal",
+      "description": "Official upstream development repository for Cabal and cabal-install",
+      "language": "haskell"
+    },
+    {
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "language": "haskell"
+    },
+    {
+      "title": "elm / compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "haskell"
+    },
+    {
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "haskell"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "haskell"
+    },
+    {
+      "title": "mtolly / onyx",
+      "url": "https://github.com/mtolly/onyx",
+      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
+      "language": "haskell"
+    },
+    {
+      "title": "simonmichael / hledger",
+      "url": "https://github.com/simonmichael/hledger",
+      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "language": "haskell"
+    },
+    {
+      "title": "clash-lang / clash-compiler",
+      "url": "https://github.com/clash-lang/clash-compiler",
+      "description": "Haskell to VHDL/Verilog/SystemVerilog compiler",
+      "language": "haskell"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "GitHub Plpgsql Languages Daily Trending",
+  "description": "Daily Trending of Plpgsql Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "items": [
+    {
+      "title": "DataDog / storedog",
+      "url": "https://github.com/DataDog/storedog",
+      "description": "",
+      "language": "plpgsql"
+    },
+    {
+      "title": "Snowflake-Labs / modern-data-engineering-snowflake",
+      "url": "https://github.com/Snowflake-Labs/modern-data-engineering-snowflake",
+      "description": "Companion repository that goes along with Snowflake's \"Introduction to Modern Data Engineering with Snowflake\" course on Coursera",
+      "language": "plpgsql"
+    },
+    {
+      "title": "pgpartman / pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL",
+      "language": "plpgsql"
+    },
+    {
+      "title": "guchengwuyue / yshop-drink",
+      "url": "https://github.com/guchengwuyue/yshop-drink",
+      "description": "yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统",
+      "language": "plpgsql"
+    },
+    {
+      "title": "openmaptiles / openmaptiles",
+      "url": "https://github.com/openmaptiles/openmaptiles",
+      "description": "OpenMapTiles Vector Tile Schema Implementation",
+      "language": "plpgsql"
+    },
+    {
+      "title": "pgmq / pgmq",
+      "url": "https://github.com/pgmq/pgmq",
+      "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
+      "language": "plpgsql"
+    },
+    {
+      "title": "postgis / postgis",
+      "url": "https://github.com/postgis/postgis",
+      "description": "PostGIS spatial database extension to PostgreSQL [mirror]",
+      "language": "plpgsql"
+    },
+    {
+      "title": "sbdchd / squawk",
+      "url": "https://github.com/sbdchd/squawk",
+      "description": "🐘 Linter for Postgres migrations & SQL",
+      "language": "plpgsql"
+    }
+  ]
+}

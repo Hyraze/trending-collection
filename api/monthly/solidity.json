@@ -1,0 +1,116 @@
+{
+  "title": "GitHub Solidity Languages Daily Trending",
+  "description": "Daily Trending of Solidity Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "items": [
+    {
+      "title": "OpenZeppelin / openzeppelin-contracts",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+      "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+      "language": "solidity"
+    },
+    {
+      "title": "ethereum / ERCs",
+      "url": "https://github.com/ethereum/ERCs",
+      "description": "The Ethereum Request for Comment repository",
+      "language": "solidity"
+    },
+    {
+      "title": "a16z / erc4626-tests",
+      "url": "https://github.com/a16z/erc4626-tests",
+      "description": "ERC4626 Property Tests",
+      "language": "solidity"
+    },
+    {
+      "title": "dapphub / ds-test",
+      "url": "https://github.com/dapphub/ds-test",
+      "description": "Assertions, equality checks and other test helpers",
+      "language": "solidity"
+    },
+    {
+      "title": "foundry-rs / forge-std",
+      "url": "https://github.com/foundry-rs/forge-std",
+      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "language": "solidity"
+    },
+    {
+      "title": "transmissions11 / solmate",
+      "url": "https://github.com/transmissions11/solmate",
+      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+      "language": "solidity"
+    },
+    {
+      "title": "Vectorized / solady",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets.",
+      "language": "solidity"
+    },
+    {
+      "title": "dmfxyz / murky",
+      "url": "https://github.com/dmfxyz/murky",
+      "description": "Merkle Proof Generator and Validator in Solidity",
+      "language": "solidity"
+    },
+    {
+      "title": "Uniswap / permit2",
+      "url": "https://github.com/Uniswap/permit2",
+      "description": "🔑🔑🔑 next generation token approvals mechanism",
+      "language": "solidity"
+    },
+    {
+      "title": "Arachnid / solidity-stringutils",
+      "url": "https://github.com/Arachnid/solidity-stringutils",
+      "description": "Basic string utilities for Solidity",
+      "language": "solidity"
+    },
+    {
+      "title": "aave / aave-v4",
+      "url": "https://github.com/aave/aave-v4",
+      "description": "Aave V4",
+      "language": "solidity"
+    },
+    {
+      "title": "Uniswap / v4-periphery",
+      "url": "https://github.com/Uniswap/v4-periphery",
+      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
+      "language": "solidity"
+    },
+    {
+      "title": "morpho-org / vault-v2",
+      "url": "https://github.com/morpho-org/vault-v2",
+      "description": "Morpho Vault V2",
+      "language": "solidity"
+    },
+    {
+      "title": "OpenZeppelin / openzeppelin-foundry-upgrades",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades",
+      "description": "Foundry library for deploying and managing upgradeable contracts",
+      "language": "solidity"
+    },
+    {
+      "title": "aave-dao / aave-v3-origin",
+      "url": "https://github.com/aave-dao/aave-v3-origin",
+      "description": "Aave v3.6 protocol",
+      "language": "solidity"
+    },
+    {
+      "title": "base / contracts",
+      "url": "https://github.com/base/contracts",
+      "description": "",
+      "language": "solidity"
+    },
+    {
+      "title": "matter-labs / era-contracts",
+      "url": "https://github.com/matter-labs/era-contracts",
+      "description": "Smart Contract Submodule For zkSync Era",
+      "language": "solidity"
+    },
+    {
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "language": "solidity"
+    }
+  ]
+}

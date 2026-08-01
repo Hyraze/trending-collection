@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Systemverilog Languages Daily Trending</title>
+  <description>Daily Trending of Systemverilog Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:03:09 GMT</pubDate>
+  <item>
+    <title>verilator / verilator</title>
+    <link>https://github.com/verilator/verilator</link>
+    <description>Verilator open-source SystemVerilog simulator and lint system</description>
+  </item>
+  <item>
+    <title>lowRISC / opentitan</title>
+    <link>https://github.com/lowRISC/opentitan</link>
+    <description>OpenTitan: Open source silicon root of trust</description>
+  </item>
+  <item>
+    <title>lowRISC / ibex</title>
+    <link>https://github.com/lowRISC/ibex</link>
+    <description>Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)</description>
+  </item>
+  <item>
+    <title>openhwgroup / cvw</title>
+    <link>https://github.com/openhwgroup/cvw</link>
+    <description>CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.</description>
+  </item>
+  <item>
+    <title>adam-maj / tiny-gpu</title>
+    <link>https://github.com/adam-maj/tiny-gpu</link>
+    <description>A minimal GPU design in Verilog to learn how GPUs work from the ground up</description>
+  </item>
+</channel>
+</rss>

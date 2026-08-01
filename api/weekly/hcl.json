@@ -1,0 +1,68 @@
+{
+  "title": "GitHub Hcl Languages Daily Trending",
+  "description": "Daily Trending of Hcl Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "items": [
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "hcl"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "hcl"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "hcl"
+    },
+    {
+      "title": "hashicorp / terraform-provider-awscc",
+      "url": "https://github.com/hashicorp/terraform-provider-awscc",
+      "description": "Terraform AWS Cloud Control provider",
+      "language": "hcl"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "language": "hcl"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "hcl"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-iam",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
+      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "language": "hcl"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "language": "hcl"
+    },
+    {
+      "title": "cashapp / hermit-packages",
+      "url": "https://github.com/cashapp/hermit-packages",
+      "description": "Hermit manages isolated, self-bootstrapping sets of tools in software projects.",
+      "language": "hcl"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-ecs",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
+      "description": "Terraform module to create AWS ECS resources 🇺🇦",
+      "language": "hcl"
+    }
+  ]
+}

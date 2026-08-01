@@ -1,0 +1,32 @@
+{
+  "title": "GitHub Tsql Languages Daily Trending",
+  "description": "Daily Trending of Tsql Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "items": [
+    {
+      "title": "microsoft / fhir-server",
+      "url": "https://github.com/microsoft/fhir-server",
+      "description": "A service that implements the FHIR standard",
+      "language": "tsql"
+    },
+    {
+      "title": "BrentOzarULTD / SQL-Server-First-Responder-Kit",
+      "url": "https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit",
+      "description": "sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.",
+      "language": "tsql"
+    },
+    {
+      "title": "lerocha / chinook-database",
+      "url": "https://github.com/lerocha/chinook-database",
+      "description": "Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2",
+      "language": "tsql"
+    },
+    {
+      "title": "amachanic / sp_whoisactive",
+      "url": "https://github.com/amachanic/sp_whoisactive",
+      "description": "sp_whoisactive",
+      "language": "tsql"
+    }
+  ]
+}

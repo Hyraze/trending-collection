@@ -1,0 +1,44 @@
+{
+  "title": "GitHub Bicep Languages Daily Trending",
+  "description": "Daily Trending of Bicep Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "items": [
+    {
+      "title": "MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator",
+      "url": "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator",
+      "description": "AZ-104 Microsoft Azure Administrator",
+      "language": "bicep"
+    },
+    {
+      "title": "Azure / bicep",
+      "url": "https://github.com/Azure/bicep",
+      "description": "Bicep is a declarative language for describing and deploying Azure resources",
+      "language": "bicep"
+    },
+    {
+      "title": "Azure / azure-quickstart-templates",
+      "url": "https://github.com/Azure/azure-quickstart-templates",
+      "description": "Azure Quickstart Templates",
+      "language": "bicep"
+    },
+    {
+      "title": "microsoft-foundry / foundry-samples",
+      "url": "https://github.com/microsoft-foundry/foundry-samples",
+      "description": "Embedded samples in Azure AI Foundry docs",
+      "language": "bicep"
+    },
+    {
+      "title": "Azure / bicep-registry-modules",
+      "url": "https://github.com/Azure/bicep-registry-modules",
+      "description": "Bicep registry modules",
+      "language": "bicep"
+    },
+    {
+      "title": "microsoft / azure-container-apps",
+      "url": "https://github.com/microsoft/azure-container-apps",
+      "description": "Roadmap and issues for Azure Container Apps",
+      "language": "bicep"
+    }
+  ]
+}

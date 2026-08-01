@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Verilog Languages Daily Trending</title>
+  <description>Daily Trending of Verilog Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:03:09 GMT</pubDate>
+  <item>
+    <title>The-OpenROAD-Project / OpenROAD</title>
+    <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
+    <description>OpenROAD&#x27;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</description>
+  </item>
+  <item>
+    <title>YosysHQ / picorv32</title>
+    <link>https://github.com/YosysHQ/picorv32</link>
+    <description>PicoRV32 - A Size-Optimized RISC-V CPU</description>
+  </item>
+  <item>
+    <title>OSCPU / yosys-sta</title>
+    <link>https://github.com/OSCPU/yosys-sta</link>
+    <description></description>
+  </item>
+  <item>
+    <title>OpenPOWERFoundation / a2o</title>
+    <link>https://github.com/OpenPOWERFoundation/a2o</link>
+    <description>The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue. It is now being updated for compliancy and integration into open projects.</description>
+  </item>
+  <item>
+    <title>The-OpenROAD-Project / OpenROAD-flow-scripts</title>
+    <link>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</link>
+    <description>OpenROAD&#x27;s scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/</description>
+  </item>
+  <item>
+    <title>EttusResearch / uhd</title>
+    <link>https://github.com/EttusResearch/uhd</link>
+    <description>The USRP™ Hardware Driver Repository</description>
+  </item>
+  <item>
+    <title>vortexgpgpu / vortex</title>
+    <link>https://github.com/vortexgpgpu/vortex</link>
+    <description></description>
+  </item>
+  <item>
+    <title>The-OpenROAD-Project / OpenSTA</title>
+    <link>https://github.com/The-OpenROAD-Project/OpenSTA</link>
+    <description>OpenSTA engine</description>
+  </item>
+  <item>
+    <title>analogdevicesinc / hdl</title>
+    <link>https://github.com/analogdevicesinc/hdl</link>
+    <description>HDL libraries and projects</description>
+  </item>
+</channel>
+</rss>

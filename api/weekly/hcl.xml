@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Hcl Languages Daily Trending</title>
+  <description>Daily Trending of Hcl Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:01:02 GMT</pubDate>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-eks</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
+    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-vpc</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>hashicorp / terraform-provider-awscc</title>
+    <link>https://github.com/hashicorp/terraform-provider-awscc</link>
+    <description>Terraform AWS Cloud Control provider</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+    <description>Configures opinionated GKE clusters</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-iam</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-iam</link>
+    <description>Terraform module to create AWS IAM resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-lambda</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
+  </item>
+  <item>
+    <title>cashapp / hermit-packages</title>
+    <link>https://github.com/cashapp/hermit-packages</link>
+    <description>Hermit manages isolated, self-bootstrapping sets of tools in software projects.</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-ecs</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-ecs</link>
+    <description>Terraform module to create AWS ECS resources 🇺🇦</description>
+  </item>
+</channel>
+</rss>

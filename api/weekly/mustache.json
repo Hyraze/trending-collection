@@ -1,0 +1,86 @@
+{
+  "title": "GitHub Mustache Languages Daily Trending",
+  "description": "Daily Trending of Mustache Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "items": [
+    {
+      "title": "temporalio / helm-charts",
+      "url": "https://github.com/temporalio/helm-charts",
+      "description": "Temporal Helm charts",
+      "language": "mustache"
+    },
+    {
+      "title": "renovatebot / helm-charts",
+      "url": "https://github.com/renovatebot/helm-charts",
+      "description": "",
+      "language": "mustache"
+    },
+    {
+      "title": "amzn / selling-partner-api-models",
+      "url": "https://github.com/amzn/selling-partner-api-models",
+      "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
+      "language": "mustache"
+    },
+    {
+      "title": "swagger-api / swagger-codegen",
+      "url": "https://github.com/swagger-api/swagger-codegen",
+      "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
+      "language": "mustache"
+    },
+    {
+      "title": "prometheus-community / helm-charts",
+      "url": "https://github.com/prometheus-community/helm-charts",
+      "description": "Prometheus community Helm charts",
+      "language": "mustache"
+    },
+    {
+      "title": "Kong / charts",
+      "url": "https://github.com/Kong/charts",
+      "description": "Helm charts for Kong",
+      "language": "mustache"
+    },
+    {
+      "title": "goharbor / harbor-helm",
+      "url": "https://github.com/goharbor/harbor-helm",
+      "description": "The helm chart to deploy Harbor",
+      "language": "mustache"
+    },
+    {
+      "title": "jenkinsci / helm-charts",
+      "url": "https://github.com/jenkinsci/helm-charts",
+      "description": "Jenkins helm charts",
+      "language": "mustache"
+    },
+    {
+      "title": "aws / eks-charts",
+      "url": "https://github.com/aws/eks-charts",
+      "description": "Amazon EKS Helm chart repository",
+      "language": "mustache"
+    },
+    {
+      "title": "argoproj / argo-helm",
+      "url": "https://github.com/argoproj/argo-helm",
+      "description": "ArgoProj Helm Charts",
+      "language": "mustache"
+    },
+    {
+      "title": "netbox-community / netbox-chart",
+      "url": "https://github.com/netbox-community/netbox-chart",
+      "description": "A Helm chart for NetBox",
+      "language": "mustache"
+    },
+    {
+      "title": "codefresh-contrib / gitops-certification-examples",
+      "url": "https://github.com/codefresh-contrib/gitops-certification-examples",
+      "description": "GitOps Certification Level 1 examples",
+      "language": "mustache"
+    },
+    {
+      "title": "thmsgbrt / thmsgbrt",
+      "url": "https://github.com/thmsgbrt/thmsgbrt",
+      "description": "My awesome README.md",
+      "language": "mustache"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Elixir Languages Daily Trending</title>
+  <description>Daily Trending of Elixir Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 16:58:55 GMT</pubDate>
+  <item>
+    <title>openai / symphony</title>
+    <link>https://github.com/openai/symphony</link>
+    <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
+  </item>
+  <item>
+    <title>blockscout / blockscout</title>
+    <link>https://github.com/blockscout/blockscout</link>
+    <description>Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</description>
+  </item>
+  <item>
+    <title>phoenixframework / phoenix</title>
+    <link>https://github.com/phoenixframework/phoenix</link>
+    <description>Peace of mind from prototype to production</description>
+  </item>
+  <item>
+    <title>supabase / realtime</title>
+    <link>https://github.com/supabase/realtime</link>
+    <description>Broadcast, Presence, and Postgres Changes via WebSockets</description>
+  </item>
+  <item>
+    <title>teslamate-org / teslamate</title>
+    <link>https://github.com/teslamate-org/teslamate</link>
+    <description>A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</description>
+  </item>
+  <item>
+    <title>plausible / analytics</title>
+    <link>https://github.com/plausible/analytics</link>
+    <description>Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.</description>
+  </item>
+  <item>
+    <title>duffelhq / paginator</title>
+    <link>https://github.com/duffelhq/paginator</link>
+    <description>Cursor-based pagination for Elixir Ecto</description>
+  </item>
+  <item>
+    <title>ntrepid8 / ex_crypto</title>
+    <link>https://github.com/ntrepid8/ex_crypto</link>
+    <description>Wrapper around the Erlang crypto module for Elixir.</description>
+  </item>
+  <item>
+    <title>hexpm / hex</title>
+    <link>https://github.com/hexpm/hex</link>
+    <description>Package manager for the Erlang ecosystem.</description>
+  </item>
+  <item>
+    <title>OffchainLabs / blockscout</title>
+    <link>https://github.com/OffchainLabs/blockscout</link>
+    <description></description>
+  </item>
+  <item>
+    <title>supabase / supavisor</title>
+    <link>https://github.com/supabase/supavisor</link>
+    <description>A cloud-native, multi-tenant Postgres connection pooler.</description>
+  </item>
+  <item>
+    <title>kieraneglin / pinchflat</title>
+    <link>https://github.com/kieraneglin/pinchflat</link>
+    <description>Your next YouTube media manager</description>
+  </item>
+  <item>
+    <title>open-telemetry / opentelemetry-erlang-contrib</title>
+    <link>https://github.com/open-telemetry/opentelemetry-erlang-contrib</link>
+    <description>OpenTelemetry instrumentation for Erlang &amp; Elixir</description>
+  </item>
+  <item>
+    <title>elixir-lang / elixir</title>
+    <link>https://github.com/elixir-lang/elixir</link>
+    <description>Simple from zero to scale</description>
+  </item>
+</channel>
+</rss>

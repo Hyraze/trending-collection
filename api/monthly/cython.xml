@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Cython Languages Daily Trending</title>
+  <description>Daily Trending of Cython Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:03:09 GMT</pubDate>
+  <item>
+    <title>cython / cython</title>
+    <link>https://github.com/cython/cython</link>
+    <description>The most widely used Python to C compiler</description>
+  </item>
+  <item>
+    <title>TA-Lib / ta-lib-python</title>
+    <link>https://github.com/TA-Lib/ta-lib-python</link>
+    <description>Python wrapper for TA-Lib (http://ta-lib.org/).</description>
+  </item>
+  <item>
+    <title>NVIDIA / cuda-python</title>
+    <link>https://github.com/NVIDIA/cuda-python</link>
+    <description>CUDA Python: Performance meets Productivity</description>
+  </item>
+  <item>
+    <title>MagicStack / uvloop</title>
+    <link>https://github.com/MagicStack/uvloop</link>
+    <description>Ultra fast asyncio event loop.</description>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub D Languages Daily Trending</title>
+  <description>Daily Trending of D Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:03:09 GMT</pubDate>
+  <item>
+    <title>dlang / dmd</title>
+    <link>https://github.com/dlang/dmd</link>
+    <description>dmd D Programming Language compiler</description>
+  </item>
+  <item>
+    <title>abraunegg / onedrive</title>
+    <link>https://github.com/abraunegg/onedrive</link>
+    <description>OneDrive Client for Linux</description>
+  </item>
+  <item>
+    <title>gnunn1 / tilix</title>
+    <link>https://github.com/gnunn1/tilix</link>
+    <description>A tiling terminal emulator for Linux using GTK+ 3</description>
+  </item>
+</channel>
+</rss>

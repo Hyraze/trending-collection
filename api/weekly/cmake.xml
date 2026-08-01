@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Cmake Languages Daily Trending</title>
+  <description>Daily Trending of Cmake Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:01:02 GMT</pubDate>
+  <item>
+    <title>microsoft / vcpkg</title>
+    <link>https://github.com/microsoft/vcpkg</link>
+    <description>C++ Library Manager for Windows, Linux, and MacOS</description>
+  </item>
+  <item>
+    <title>shinchiro / mpv-winbuild-cmake</title>
+    <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
+    <description>CMake-based MinGW-w64 Cross Toolchain</description>
+  </item>
+  <item>
+    <title>leetal / ios-cmake</title>
+    <link>https://github.com/leetal/ios-cmake</link>
+    <description>A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development</description>
+  </item>
+  <item>
+    <title>steinbergmedia / vst3sdk</title>
+    <link>https://github.com/steinbergmedia/vst3sdk</link>
+    <description>VST 3 Plug-In SDK</description>
+  </item>
+  <item>
+    <title>minecraft-linux / mcpelauncher-manifest</title>
+    <link>https://github.com/minecraft-linux/mcpelauncher-manifest</link>
+    <description>The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.</description>
+  </item>
+  <item>
+    <title>KiCad / kicad-footprints</title>
+    <link>https://github.com/KiCad/kicad-footprints</link>
+    <description>Official KiCad Footprint Libraries for Kicad version 5</description>
+  </item>
+  <item>
+    <title>flathub / shared-modules</title>
+    <link>https://github.com/flathub/shared-modules</link>
+    <description>Common Flatpak modules that can be used as a git submodule</description>
+  </item>
+  <item>
+    <title>corrosion-rs / corrosion</title>
+    <link>https://github.com/corrosion-rs/corrosion</link>
+    <description>Marrying Rust and CMake - Easy Rust and C/C++ Integration!</description>
+  </item>
+  <item>
+    <title>arsenm / sanitizers-cmake</title>
+    <link>https://github.com/arsenm/sanitizers-cmake</link>
+    <description>CMake modules to help use sanitizers</description>
+  </item>
+  <item>
+    <title>KiCad / kicad-symbols</title>
+    <link>https://github.com/KiCad/kicad-symbols</link>
+    <description>Official KiCad schematic symbol libraries for Kicad 5</description>
+  </item>
+  <item>
+    <title>ecmwf / ecbuild</title>
+    <link>https://github.com/ecmwf/ecbuild</link>
+    <description>A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</description>
+  </item>
+  <item>
+    <title>Andersama / obs-asio</title>
+    <link>https://github.com/Andersama/obs-asio</link>
+    <description>ASIO plugin for OBS-Studio</description>
+  </item>
+  <item>
+    <title>vector-of-bool / cmrc</title>
+    <link>https://github.com/vector-of-bool/cmrc</link>
+    <description>A Resource Compiler in a Single CMake Script</description>
+  </item>
+</channel>
+</rss>

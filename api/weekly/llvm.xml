@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Llvm Languages Daily Trending</title>
+  <description>Daily Trending of Llvm Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:01:02 GMT</pubDate>
+  <item>
+    <title>llvm / llvm-project</title>
+    <link>https://github.com/llvm/llvm-project</link>
+    <description>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</description>
+  </item>
+  <item>
+    <title>intel / llvm</title>
+    <link>https://github.com/intel/llvm</link>
+    <description>Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.</description>
+  </item>
+  <item>
+    <title>google / clspv</title>
+    <link>https://github.com/google/clspv</link>
+    <description>Clspv is a compiler for OpenCL C to Vulkan compute shaders</description>
+  </item>
+</channel>
+</rss>

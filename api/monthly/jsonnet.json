@@ -1,0 +1,32 @@
+{
+  "title": "GitHub Jsonnet Languages Daily Trending",
+  "description": "Daily Trending of Jsonnet Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "items": [
+    {
+      "title": "kubernetes-monitoring / kubernetes-mixin",
+      "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
+      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
+      "language": "jsonnet"
+    },
+    {
+      "title": "prometheus-operator / kube-prometheus",
+      "url": "https://github.com/prometheus-operator/kube-prometheus",
+      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
+      "language": "jsonnet"
+    },
+    {
+      "title": "argoproj / argocd-example-apps",
+      "url": "https://github.com/argoproj/argocd-example-apps",
+      "description": "Example Apps to Demonstrate Argo CD",
+      "language": "jsonnet"
+    },
+    {
+      "title": "google / jsonnet",
+      "url": "https://github.com/google/jsonnet",
+      "description": "Jsonnet - The data templating language",
+      "language": "jsonnet"
+    }
+  ]
+}

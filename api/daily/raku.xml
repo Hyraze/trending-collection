@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Raku Languages Daily Trending</title>
+  <description>Daily Trending of Raku Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 16:58:55 GMT</pubDate>
+  <item>
+    <title>Kong / lua-kong-nginx-module</title>
+    <link>https://github.com/Kong/lua-kong-nginx-module</link>
+    <description>Nginx C module to allow deeper control of Nginx behaviors by Kong Lua code</description>
+  </item>
+  <item>
+    <title>Kong / lua-resty-lmdb</title>
+    <link>https://github.com/Kong/lua-resty-lmdb</link>
+    <description>Safe API for manipulating LMDB databases using OpenResty/Lua.</description>
+  </item>
+</channel>
+</rss>

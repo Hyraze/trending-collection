@@ -1,0 +1,26 @@
+{
+  "title": "GitHub D Languages Daily Trending",
+  "description": "Daily Trending of D Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "items": [
+    {
+      "title": "dlang / dmd",
+      "url": "https://github.com/dlang/dmd",
+      "description": "dmd D Programming Language compiler",
+      "language": "d"
+    },
+    {
+      "title": "abraunegg / onedrive",
+      "url": "https://github.com/abraunegg/onedrive",
+      "description": "OneDrive Client for Linux",
+      "language": "d"
+    },
+    {
+      "title": "gnunn1 / tilix",
+      "url": "https://github.com/gnunn1/tilix",
+      "description": "A tiling terminal emulator for Linux using GTK+ 3",
+      "language": "d"
+    }
+  ]
+}

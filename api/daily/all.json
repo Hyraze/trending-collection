@@ -2,8 +2,14 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:20:24 GMT",
+  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
   "items": [
+    {
+      "title": "abapGit / abapGit",
+      "url": "https://github.com/abapGit/abapGit",
+      "description": "Git client for ABAP",
+      "language": "abap"
+    },
     {
       "title": "Pr-Mex / vanessa-automation",
       "url": "https://github.com/Pr-Mex/vanessa-automation",
@@ -15,12 +21,6 @@
       "url": "https://github.com/cpr1c/tools_ui_1c",
       "description": "Универсальные инструменты 1С для управляемых форм",
       "language": "1c-enterprise"
-    },
-    {
-      "title": "abapGit / abapGit",
-      "url": "https://github.com/abapGit/abapGit",
-      "description": "Git client for ABAP",
-      "language": "abap"
     },
     {
       "title": "microsoft / BCApps",
@@ -75,6 +75,42 @@
       "url": "https://github.com/jongpie/NebulaLogger",
       "description": "The most robust observability solution for Salesforce experts. Built 100% natively on the platform, and designed to work seamlessly with Apex, Lightning Components, Flow, OmniStudio, and integrations.",
       "language": "apex"
+    },
+    {
+      "title": "tabler / tabler",
+      "url": "https://github.com/tabler/tabler",
+      "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
+      "language": "astro"
+    },
+    {
+      "title": "saicaca / fuwari",
+      "url": "https://github.com/saicaca/fuwari",
+      "description": "✨A static blog template built with Astro.",
+      "language": "astro"
+    },
+    {
+      "title": "JustGoodUI / dante-astro-theme",
+      "url": "https://github.com/JustGoodUI/dante-astro-theme",
+      "description": "Dante, a single-author blog and portfolio theme for Astro.js.",
+      "language": "astro"
+    },
+    {
+      "title": "ColorlibHQ / AdminLTE",
+      "url": "https://github.com/ColorlibHQ/AdminLTE",
+      "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
+      "language": "astro"
+    },
+    {
+      "title": "CuteLeaf / Firefly",
+      "url": "https://github.com/CuteLeaf/Firefly",
+      "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
+      "language": "astro"
+    },
+    {
+      "title": "jcalado / voxdmr-site",
+      "url": "https://github.com/jcalado/voxdmr-site",
+      "description": "voxDMR: Apps for DMR talkgroups.",
+      "language": "astro"
     },
     {
       "title": "openhwgroup / cva6",
@@ -165,42 +201,6 @@
       "url": "https://github.com/leachim6/hello-world",
       "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
       "language": "assembly"
-    },
-    {
-      "title": "tabler / tabler",
-      "url": "https://github.com/tabler/tabler",
-      "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
-      "language": "astro"
-    },
-    {
-      "title": "saicaca / fuwari",
-      "url": "https://github.com/saicaca/fuwari",
-      "description": "✨A static blog template built with Astro.",
-      "language": "astro"
-    },
-    {
-      "title": "JustGoodUI / dante-astro-theme",
-      "url": "https://github.com/JustGoodUI/dante-astro-theme",
-      "description": "Dante, a single-author blog and portfolio theme for Astro.js.",
-      "language": "astro"
-    },
-    {
-      "title": "ColorlibHQ / AdminLTE",
-      "url": "https://github.com/ColorlibHQ/AdminLTE",
-      "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
-      "language": "astro"
-    },
-    {
-      "title": "CuteLeaf / Firefly",
-      "url": "https://github.com/CuteLeaf/Firefly",
-      "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
-      "language": "astro"
-    },
-    {
-      "title": "jcalado / voxdmr-site",
-      "url": "https://github.com/jcalado/voxdmr-site",
-      "description": "voxDMR: Apps for DMR talkgroups.",
-      "language": "astro"
     },
     {
       "title": "ivelchampion249 / FishSol-Macro",
@@ -311,6 +311,12 @@
       "language": "bikeshed"
     },
     {
+      "title": "laravel / laravel",
+      "url": "https://github.com/laravel/laravel",
+      "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
+      "language": "blade"
+    },
+    {
       "title": "qualcomm-linux / meta-qcom",
       "url": "https://github.com/qualcomm-linux/meta-qcom",
       "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
@@ -399,12 +405,6 @@
       "url": "https://github.com/Freescale/meta-freescale",
       "description": "Layer containing NXP hardware support metadata",
       "language": "bitbake"
-    },
-    {
-      "title": "laravel / laravel",
-      "url": "https://github.com/laravel/laravel",
-      "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
-      "language": "blade"
     },
     {
       "title": "antirez / ds4",
@@ -1553,6 +1553,24 @@
       "language": "fortran"
     },
     {
+      "title": "bambosan / mirai",
+      "url": "https://github.com/bambosan/mirai",
+      "description": "A Vibrant Visual Shader for MCBE",
+      "language": "glsl"
+    },
+    {
+      "title": "libretro / glsl-shaders",
+      "url": "https://github.com/libretro/glsl-shaders",
+      "description": "This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.",
+      "language": "glsl"
+    },
+    {
+      "title": "HaringPro / Revelation",
+      "url": "https://github.com/HaringPro/Revelation",
+      "description": "An explorative shaderpack for Minecraft: Java Edition",
+      "language": "glsl"
+    },
+    {
       "title": "godotengine / godot-demo-projects",
       "url": "https://github.com/godotengine/godot-demo-projects",
       "description": "Demonstration and Template Projects",
@@ -1623,24 +1641,6 @@
       "url": "https://github.com/dialogic-godot/dialogic",
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "gdscript"
-    },
-    {
-      "title": "bambosan / mirai",
-      "url": "https://github.com/bambosan/mirai",
-      "description": "A Vibrant Visual Shader for MCBE",
-      "language": "glsl"
-    },
-    {
-      "title": "libretro / glsl-shaders",
-      "url": "https://github.com/libretro/glsl-shaders",
-      "description": "This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.",
-      "language": "glsl"
-    },
-    {
-      "title": "HaringPro / Revelation",
-      "url": "https://github.com/HaringPro/Revelation",
-      "description": "An explorative shaderpack for Minecraft: Java Edition",
-      "language": "glsl"
     },
     {
       "title": "github / gh-stack",
@@ -1775,6 +1775,36 @@
       "language": "groovy"
     },
     {
+      "title": "Blinue / Magpie",
+      "url": "https://github.com/Blinue/Magpie",
+      "description": "A general-purpose window upscaler for Windows 10/11.",
+      "language": "hlsl"
+    },
+    {
+      "title": "JamesCJ60 / Universal-x86-Tuning-Utility",
+      "url": "https://github.com/JamesCJ60/Universal-x86-Tuning-Utility",
+      "description": "Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.",
+      "language": "hlsl"
+    },
+    {
+      "title": "clshortfuse / renodx",
+      "url": "https://github.com/clshortfuse/renodx",
+      "description": "Renovation Engine for DirectX Games",
+      "language": "hlsl"
+    },
+    {
+      "title": "leotorrez / ZZMI-Package",
+      "url": "https://github.com/leotorrez/ZZMI-Package",
+      "description": "NOT INTENDED FOR WIDE USE",
+      "language": "hlsl"
+    },
+    {
+      "title": "ray-cast / ray-mmd",
+      "url": "https://github.com/ray-cast/ray-mmd",
+      "description": "🎨 The project is designed to create a physically-based rendering at mikumikudance.",
+      "language": "hlsl"
+    },
+    {
       "title": "terraform-aws-modules / terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
@@ -1851,36 +1881,6 @@
       "url": "https://github.com/cloudposse/terraform-aws-alb",
       "description": "Terraform module to provision a standard ALB for HTTP/HTTP traffic",
       "language": "hcl"
-    },
-    {
-      "title": "Blinue / Magpie",
-      "url": "https://github.com/Blinue/Magpie",
-      "description": "A general-purpose window upscaler for Windows 10/11.",
-      "language": "hlsl"
-    },
-    {
-      "title": "JamesCJ60 / Universal-x86-Tuning-Utility",
-      "url": "https://github.com/JamesCJ60/Universal-x86-Tuning-Utility",
-      "description": "Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.",
-      "language": "hlsl"
-    },
-    {
-      "title": "clshortfuse / renodx",
-      "url": "https://github.com/clshortfuse/renodx",
-      "description": "Renovation Engine for DirectX Games",
-      "language": "hlsl"
-    },
-    {
-      "title": "leotorrez / ZZMI-Package",
-      "url": "https://github.com/leotorrez/ZZMI-Package",
-      "description": "NOT INTENDED FOR WIDE USE",
-      "language": "hlsl"
-    },
-    {
-      "title": "ray-cast / ray-mmd",
-      "url": "https://github.com/ray-cast/ray-mmd",
-      "description": "🎨 The project is designed to create a physically-based rendering at mikumikudance.",
-      "language": "hlsl"
     },
     {
       "title": "cipher387 / osint_stuff_tool_collection",
@@ -2261,6 +2261,18 @@
       "language": "julia"
     },
     {
+      "title": "ublue-os / bazzite",
+      "url": "https://github.com/ublue-os/bazzite",
+      "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
+      "language": "just"
+    },
+    {
+      "title": "pop-os / cosmic-epoch",
+      "url": "https://github.com/pop-os/cosmic-epoch",
+      "description": "Next generation Cosmic desktop environment",
+      "language": "just"
+    },
+    {
       "title": "microsoft / AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
@@ -2363,16 +2375,22 @@
       "language": "jupyter-notebook"
     },
     {
-      "title": "ublue-os / bazzite",
-      "url": "https://github.com/ublue-os/bazzite",
-      "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
-      "language": "just"
+      "title": "llvm / llvm-project",
+      "url": "https://github.com/llvm/llvm-project",
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "language": "llvm"
     },
     {
-      "title": "pop-os / cosmic-epoch",
-      "url": "https://github.com/pop-os/cosmic-epoch",
-      "description": "Next generation Cosmic desktop environment",
-      "language": "just"
+      "title": "intel / llvm",
+      "url": "https://github.com/intel/llvm",
+      "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
+      "language": "llvm"
+    },
+    {
+      "title": "microsoft / llvm",
+      "url": "https://github.com/microsoft/llvm",
+      "description": "Fork of the LLVM Compiler Infrastructure",
+      "language": "llvm"
     },
     {
       "title": "JingMatrix / Vector",
@@ -2475,24 +2493,6 @@
       "url": "https://github.com/duckduckgo/Android",
       "description": "DuckDuckGo Android App",
       "language": "kotlin"
-    },
-    {
-      "title": "llvm / llvm-project",
-      "url": "https://github.com/llvm/llvm-project",
-      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "language": "llvm"
-    },
-    {
-      "title": "intel / llvm",
-      "url": "https://github.com/intel/llvm",
-      "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
-      "language": "llvm"
-    },
-    {
-      "title": "microsoft / llvm",
-      "url": "https://github.com/microsoft/llvm",
-      "description": "Fork of the LLVM Compiler Infrastructure",
-      "language": "llvm"
     },
     {
       "title": "harbor-framework / terminal-bench-science",
@@ -2681,6 +2681,36 @@
       "language": "matlab"
     },
     {
+      "title": "triton-lang / triton",
+      "url": "https://github.com/triton-lang/triton",
+      "description": "Development repository for the Triton language and compiler",
+      "language": "mlir"
+    },
+    {
+      "title": "intel / intel-xpu-backend-for-triton",
+      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
+      "description": "OpenAI Triton backend for Intel® GPUs",
+      "language": "mlir"
+    },
+    {
+      "title": "triton-lang / triton-ascend",
+      "url": "https://github.com/triton-lang/triton-ascend",
+      "description": "Triton language and compiler for Ascend NPU",
+      "language": "mlir"
+    },
+    {
+      "title": "openxla / stablehlo",
+      "url": "https://github.com/openxla/stablehlo",
+      "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
+      "language": "mlir"
+    },
+    {
+      "title": "ROCm / rocMLIR",
+      "url": "https://github.com/ROCm/rocMLIR",
+      "description": "",
+      "language": "mlir"
+    },
+    {
       "title": "cloudflare / cloudflare-docs",
       "url": "https://github.com/cloudflare/cloudflare-docs",
       "description": "Cloudflare’s documentation",
@@ -2793,36 +2823,6 @@
       "url": "https://github.com/smartcontractkit/documentation",
       "description": "https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators",
       "language": "mdx"
-    },
-    {
-      "title": "triton-lang / triton",
-      "url": "https://github.com/triton-lang/triton",
-      "description": "Development repository for the Triton language and compiler",
-      "language": "mlir"
-    },
-    {
-      "title": "intel / intel-xpu-backend-for-triton",
-      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
-      "description": "OpenAI Triton backend for Intel® GPUs",
-      "language": "mlir"
-    },
-    {
-      "title": "triton-lang / triton-ascend",
-      "url": "https://github.com/triton-lang/triton-ascend",
-      "description": "Triton language and compiler for Ascend NPU",
-      "language": "mlir"
-    },
-    {
-      "title": "openxla / stablehlo",
-      "url": "https://github.com/openxla/stablehlo",
-      "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
-      "language": "mlir"
-    },
-    {
-      "title": "ROCm / rocMLIR",
-      "url": "https://github.com/ROCm/rocMLIR",
-      "description": "",
-      "language": "mlir"
     },
     {
       "title": "deepseek-ai / DeepSeek-LLM",
@@ -3167,6 +3167,12 @@
       "language": "nim"
     },
     {
+      "title": "xdesro / personalsit.es",
+      "url": "https://github.com/xdesro/personalsit.es",
+      "description": "📇 A little directory of people's personal sites",
+      "language": "nunjucks"
+    },
+    {
       "title": "nix-community / home-manager",
       "url": "https://github.com/nix-community/home-manager",
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
@@ -3233,12 +3239,6 @@
       "language": "nix"
     },
     {
-      "title": "xdesro / personalsit.es",
-      "url": "https://github.com/xdesro/personalsit.es",
-      "description": "📇 A little directory of people's personal sites",
-      "language": "nunjucks"
-    },
-    {
       "title": "mitchellh / vouch",
       "url": "https://github.com/mitchellh/vouch",
       "description": "A community trust management system based on explicit vouches to participate.",
@@ -3303,6 +3303,24 @@
       "url": "https://github.com/cryspen/hax",
       "description": "A Rust verification tool",
       "language": "ocaml"
+    },
+    {
+      "title": "microsoft / onnxruntime-swift-package-manager",
+      "url": "https://github.com/microsoft/onnxruntime-swift-package-manager",
+      "description": "A light-weight repository for providing Swift Package Manager support for ONNX Runtime.",
+      "language": "objective-c++"
+    },
+    {
+      "title": "KhronosGroup / MoltenVK",
+      "url": "https://github.com/KhronosGroup/MoltenVK",
+      "description": "MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.",
+      "language": "objective-c++"
+    },
+    {
+      "title": "odin-lang / Odin",
+      "url": "https://github.com/odin-lang/Odin",
+      "description": "Odin Programming Language",
+      "language": "odin"
     },
     {
       "title": "sparkle-project / Sparkle",
@@ -3395,24 +3413,6 @@
       "language": "objective-c"
     },
     {
-      "title": "microsoft / onnxruntime-swift-package-manager",
-      "url": "https://github.com/microsoft/onnxruntime-swift-package-manager",
-      "description": "A light-weight repository for providing Swift Package Manager support for ONNX Runtime.",
-      "language": "objective-c++"
-    },
-    {
-      "title": "KhronosGroup / MoltenVK",
-      "url": "https://github.com/KhronosGroup/MoltenVK",
-      "description": "MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.",
-      "language": "objective-c++"
-    },
-    {
-      "title": "odin-lang / Odin",
-      "url": "https://github.com/odin-lang/Odin",
-      "description": "Odin Programming Language",
-      "language": "odin"
-    },
-    {
       "title": "open-policy-agent / gatekeeper-library",
       "url": "https://github.com/open-policy-agent/gatekeeper-library",
       "description": "📚 The OPA Gatekeeper policy library",
@@ -3447,6 +3447,48 @@
       "url": "https://github.com/benchflow-ai/skillsbench",
       "description": "SkillsBench evaluates how well skills work and how effective agents are at using them.",
       "language": "pddl"
+    },
+    {
+      "title": "NawfalMotii79 / PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "plsql"
+    },
+    {
+      "title": "DataDog / storedog",
+      "url": "https://github.com/DataDog/storedog",
+      "description": "",
+      "language": "plpgsql"
+    },
+    {
+      "title": "Snowflake-Labs / modern-data-engineering-snowflake",
+      "url": "https://github.com/Snowflake-Labs/modern-data-engineering-snowflake",
+      "description": "Companion repository that goes along with Snowflake's \"Introduction to Modern Data Engineering with Snowflake\" course on Coursera",
+      "language": "plpgsql"
+    },
+    {
+      "title": "thanglequoc / vietnamese-provinces-database",
+      "url": "https://github.com/thanglequoc/vietnamese-provinces-database",
+      "description": "Comprehensive SQL and GIS datasets for Vietnamese administrative units, including provinces, districts, wards, and geospatial boundaries.",
+      "language": "plpgsql"
+    },
+    {
+      "title": "NikolayS / PgQue",
+      "url": "https://github.com/NikolayS/PgQue",
+      "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev",
+      "language": "plpgsql"
+    },
+    {
+      "title": "pgpartman / pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL",
+      "language": "plpgsql"
+    },
+    {
+      "title": "pgmq / pgmq",
+      "url": "https://github.com/pgmq/pgmq",
+      "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
+      "language": "plpgsql"
     },
     {
       "title": "nextcloud / all-in-one",
@@ -3575,48 +3617,6 @@
       "language": "php"
     },
     {
-      "title": "NawfalMotii79 / PLFM_RADAR",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "language": "plsql"
-    },
-    {
-      "title": "DataDog / storedog",
-      "url": "https://github.com/DataDog/storedog",
-      "description": "",
-      "language": "plpgsql"
-    },
-    {
-      "title": "Snowflake-Labs / modern-data-engineering-snowflake",
-      "url": "https://github.com/Snowflake-Labs/modern-data-engineering-snowflake",
-      "description": "Companion repository that goes along with Snowflake's \"Introduction to Modern Data Engineering with Snowflake\" course on Coursera",
-      "language": "plpgsql"
-    },
-    {
-      "title": "thanglequoc / vietnamese-provinces-database",
-      "url": "https://github.com/thanglequoc/vietnamese-provinces-database",
-      "description": "Comprehensive SQL and GIS datasets for Vietnamese administrative units, including provinces, districts, wards, and geospatial boundaries.",
-      "language": "plpgsql"
-    },
-    {
-      "title": "NikolayS / PgQue",
-      "url": "https://github.com/NikolayS/PgQue",
-      "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev",
-      "language": "plpgsql"
-    },
-    {
-      "title": "pgpartman / pg_partman",
-      "url": "https://github.com/pgpartman/pg_partman",
-      "description": "Partition management extension for PostgreSQL",
-      "language": "plpgsql"
-    },
-    {
-      "title": "pgmq / pgmq",
-      "url": "https://github.com/pgmq/pgmq",
-      "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
-      "language": "plpgsql"
-    },
-    {
       "title": "MinLL / SkyrimNet-GamePlugin",
       "url": "https://github.com/MinLL/SkyrimNet-GamePlugin",
       "description": "Public facing files for SkyrimNet",
@@ -3725,6 +3725,18 @@
       "language": "perl"
     },
     {
+      "title": "Vinpink2 / June-Ultra",
+      "url": "https://github.com/Vinpink2/June-Ultra",
+      "description": "June Ultra (Official) Repository.",
+      "language": "procfile"
+    },
+    {
+      "title": "nasa-jpl / open-source-rover",
+      "url": "https://github.com/nasa-jpl/open-source-rover",
+      "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+      "language": "prolog"
+    },
+    {
       "title": "zhaoxuya520 / reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
@@ -3815,16 +3827,10 @@
       "language": "powershell"
     },
     {
-      "title": "Vinpink2 / June-Ultra",
-      "url": "https://github.com/Vinpink2/June-Ultra",
-      "description": "June Ultra (Official) Repository.",
-      "language": "procfile"
-    },
-    {
-      "title": "nasa-jpl / open-source-rover",
-      "url": "https://github.com/nasa-jpl/open-source-rover",
-      "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
-      "language": "prolog"
+      "title": "nsneverhax / guitar-hero-3-deluxe",
+      "url": "https://github.com/nsneverhax/guitar-hero-3-deluxe",
+      "description": "QoL enhancements and additions to Guitar Hero 3",
+      "language": "q#"
     },
     {
       "title": "paperswithbacktest / awesome-systematic-trading",
@@ -3927,12 +3933,6 @@
       "url": "https://github.com/github/awesome-copilot",
       "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
       "language": "python"
-    },
-    {
-      "title": "nsneverhax / guitar-hero-3-deluxe",
-      "url": "https://github.com/nsneverhax/guitar-hero-3-deluxe",
-      "description": "QoL enhancements and additions to Guitar Hero 3",
-      "language": "q#"
     },
     {
       "title": "end-4 / dots-hyprland",
@@ -4187,90 +4187,6 @@
       "language": "ruby"
     },
     {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "rust"
-    },
-    {
-      "title": "sharkdp / bat",
-      "url": "https://github.com/sharkdp/bat",
-      "description": "A cat(1) clone with wings.",
-      "language": "rust"
-    },
-    {
-      "title": "agavra / tuicr",
-      "url": "https://github.com/agavra/tuicr",
-      "description": "a code review TUI with vim keybindings",
-      "language": "rust"
-    },
-    {
-      "title": "cjpais / Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "language": "rust"
-    },
-    {
-      "title": "farion1231 / cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-      "language": "rust"
-    },
-    {
-      "title": "stalwartlabs / stalwart",
-      "url": "https://github.com/stalwartlabs/stalwart",
-      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
-      "language": "rust"
-    },
-    {
-      "title": "servo / servo",
-      "url": "https://github.com/servo/servo",
-      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-      "language": "rust"
-    },
-    {
-      "title": "sinelaw / fresh",
-      "url": "https://github.com/sinelaw/fresh",
-      "description": "Terminal based IDE & text editor: easy, powerful and fast",
-      "language": "rust"
-    },
-    {
-      "title": "ai-dynamo / dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "language": "rust"
-    },
-    {
-      "title": "rustfs / rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "language": "rust"
-    },
-    {
-      "title": "zed-industries / zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "language": "rust"
-    },
-    {
-      "title": "clockworklabs / SpacetimeDB",
-      "url": "https://github.com/clockworklabs/SpacetimeDB",
-      "description": "Development at the speed of light",
-      "language": "rust"
-    },
-    {
-      "title": "BurntSushi / ripgrep",
-      "url": "https://github.com/BurntSushi/ripgrep",
-      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-      "language": "rust"
-    },
-    {
-      "title": "googleworkspace / cli",
-      "url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "language": "rust"
-    },
-    {
       "title": "academicpages / academicpages.github.io",
       "url": "https://github.com/academicpages/academicpages.github.io",
       "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
@@ -4359,6 +4275,90 @@
       "url": "https://github.com/angelbruni/Geckium",
       "description": "Chrome 1 - 58 theme for Firefox 115+",
       "language": "scss"
+    },
+    {
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "rust"
+    },
+    {
+      "title": "sharkdp / bat",
+      "url": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "rust"
+    },
+    {
+      "title": "agavra / tuicr",
+      "url": "https://github.com/agavra/tuicr",
+      "description": "a code review TUI with vim keybindings",
+      "language": "rust"
+    },
+    {
+      "title": "cjpais / Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "rust"
+    },
+    {
+      "title": "farion1231 / cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "language": "rust"
+    },
+    {
+      "title": "stalwartlabs / stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "language": "rust"
+    },
+    {
+      "title": "servo / servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "rust"
+    },
+    {
+      "title": "sinelaw / fresh",
+      "url": "https://github.com/sinelaw/fresh",
+      "description": "Terminal based IDE & text editor: easy, powerful and fast",
+      "language": "rust"
+    },
+    {
+      "title": "ai-dynamo / dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "rust"
+    },
+    {
+      "title": "rustfs / rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "rust"
+    },
+    {
+      "title": "zed-industries / zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "rust"
+    },
+    {
+      "title": "clockworklabs / SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Development at the speed of light",
+      "language": "rust"
+    },
+    {
+      "title": "BurntSushi / ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "language": "rust"
+    },
+    {
+      "title": "googleworkspace / cli",
+      "url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "language": "rust"
     },
     {
       "title": "tandpfun / skill-icons",
@@ -4661,6 +4661,12 @@
       "language": "smali"
     },
     {
+      "title": "sidpalas / devops-directive-kubernetes-course",
+      "url": "https://github.com/sidpalas/devops-directive-kubernetes-course",
+      "description": "This is the companion repo for the DevOps Directive \"Kubernetes: Beginner to Pro\" course!",
+      "language": "smarty"
+    },
+    {
       "title": "j-brant / SmaCC",
       "url": "https://github.com/j-brant/SmaCC",
       "description": "",
@@ -4679,16 +4685,16 @@
       "language": "smalltalk"
     },
     {
-      "title": "sidpalas / devops-directive-kubernetes-course",
-      "url": "https://github.com/sidpalas/devops-directive-kubernetes-course",
-      "description": "This is the companion repo for the DevOps Directive \"Kubernetes: Beginner to Pro\" course!",
-      "language": "smarty"
-    },
-    {
       "title": "smithy-lang / smithy-swift",
       "url": "https://github.com/smithy-lang/smithy-swift",
       "description": "",
       "language": "smithy"
+    },
+    {
+      "title": "Seeed-Projects / reBot-DevArm",
+      "url": "https://github.com/Seeed-Projects/reBot-DevArm",
+      "description": "Open Source Robotic Arm for All Developers",
+      "language": "standard-ml"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -4785,12 +4791,6 @@
       "url": "https://github.com/Uniswap/permit2",
       "description": "🔑🔑🔑 next generation token approvals mechanism",
       "language": "solidity"
-    },
-    {
-      "title": "Seeed-Projects / reBot-DevArm",
-      "url": "https://github.com/Seeed-Projects/reBot-DevArm",
-      "description": "Open Source Robotic Arm for All Developers",
-      "language": "standard-ml"
     },
     {
       "title": "GoogleContainerTools / distroless",
@@ -4961,90 +4961,6 @@
       "language": "svelte"
     },
     {
-      "title": "FluidInference / FluidAudio",
-      "url": "https://github.com/FluidInference/FluidAudio",
-      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
-      "language": "swift"
-    },
-    {
-      "title": "LiveContainer / LiveContainer",
-      "url": "https://github.com/LiveContainer/LiveContainer",
-      "description": "Run iOS apps without actually installing them!",
-      "language": "swift"
-    },
-    {
-      "title": "hamed-elfayome / Claude-Usage-Tracker",
-      "url": "https://github.com/hamed-elfayome/Claude-Usage-Tracker",
-      "description": "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.",
-      "language": "swift"
-    },
-    {
-      "title": "signalapp / Signal-iOS",
-      "url": "https://github.com/signalapp/Signal-iOS",
-      "description": "A private messenger for iOS.",
-      "language": "swift"
-    },
-    {
-      "title": "Lakr233 / vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
-      "language": "swift"
-    },
-    {
-      "title": "nikitabobko / AeroSpace",
-      "url": "https://github.com/nikitabobko/AeroSpace",
-      "description": "AeroSpace is an i3-like tiling window manager for macOS",
-      "language": "swift"
-    },
-    {
-      "title": "jameslockman / Griffin-PowerMate-Driver",
-      "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
-      "description": "A modern driver for the Griffin PowerMate",
-      "language": "swift"
-    },
-    {
-      "title": "mozilla-mobile / firefox-ios",
-      "url": "https://github.com/mozilla-mobile/firefox-ios",
-      "description": "Firefox for iOS",
-      "language": "swift"
-    },
-    {
-      "title": "Octane0411 / open-vibe-island",
-      "url": "https://github.com/Octane0411/open-vibe-island",
-      "description": "The open-source alternative to vibe-island, designed for heavy code agent users, supporting cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm. 开源的vibe-island替代品，为重度code agent用户设计，支持cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm",
-      "language": "swift"
-    },
-    {
-      "title": "altic-dev / FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
-      "language": "swift"
-    },
-    {
-      "title": "Starmel / OpenSuperWhisper",
-      "url": "https://github.com/Starmel/OpenSuperWhisper",
-      "description": "macOS dictation app",
-      "language": "swift"
-    },
-    {
-      "title": "tddworks / ClaudeBar",
-      "url": "https://github.com/tddworks/ClaudeBar",
-      "description": "A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.",
-      "language": "swift"
-    },
-    {
-      "title": "jordanbaird / Ice",
-      "url": "https://github.com/jordanbaird/Ice",
-      "description": "Powerful menu bar manager for macOS",
-      "language": "swift"
-    },
-    {
-      "title": "microsoft / agent-host-protocol",
-      "url": "https://github.com/microsoft/agent-host-protocol",
-      "description": "Synchronized multi-client state for AI agent sessions",
-      "language": "swift"
-    },
-    {
       "title": "verilator / verilator",
       "url": "https://github.com/verilator/verilator",
       "description": "Verilator open-source SystemVerilog simulator and lint system",
@@ -5127,6 +5043,90 @@
       "url": "https://github.com/pulp-platform/axi_riscv_atomics",
       "description": "AXI Adapter(s) for RISC-V Atomic Operations",
       "language": "systemverilog"
+    },
+    {
+      "title": "FluidInference / FluidAudio",
+      "url": "https://github.com/FluidInference/FluidAudio",
+      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
+      "language": "swift"
+    },
+    {
+      "title": "LiveContainer / LiveContainer",
+      "url": "https://github.com/LiveContainer/LiveContainer",
+      "description": "Run iOS apps without actually installing them!",
+      "language": "swift"
+    },
+    {
+      "title": "hamed-elfayome / Claude-Usage-Tracker",
+      "url": "https://github.com/hamed-elfayome/Claude-Usage-Tracker",
+      "description": "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.",
+      "language": "swift"
+    },
+    {
+      "title": "signalapp / Signal-iOS",
+      "url": "https://github.com/signalapp/Signal-iOS",
+      "description": "A private messenger for iOS.",
+      "language": "swift"
+    },
+    {
+      "title": "Lakr233 / vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "language": "swift"
+    },
+    {
+      "title": "nikitabobko / AeroSpace",
+      "url": "https://github.com/nikitabobko/AeroSpace",
+      "description": "AeroSpace is an i3-like tiling window manager for macOS",
+      "language": "swift"
+    },
+    {
+      "title": "jameslockman / Griffin-PowerMate-Driver",
+      "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+      "description": "A modern driver for the Griffin PowerMate",
+      "language": "swift"
+    },
+    {
+      "title": "mozilla-mobile / firefox-ios",
+      "url": "https://github.com/mozilla-mobile/firefox-ios",
+      "description": "Firefox for iOS",
+      "language": "swift"
+    },
+    {
+      "title": "Octane0411 / open-vibe-island",
+      "url": "https://github.com/Octane0411/open-vibe-island",
+      "description": "The open-source alternative to vibe-island, designed for heavy code agent users, supporting cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm. 开源的vibe-island替代品，为重度code agent用户设计，支持cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm",
+      "language": "swift"
+    },
+    {
+      "title": "altic-dev / FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "language": "swift"
+    },
+    {
+      "title": "Starmel / OpenSuperWhisper",
+      "url": "https://github.com/Starmel/OpenSuperWhisper",
+      "description": "macOS dictation app",
+      "language": "swift"
+    },
+    {
+      "title": "tddworks / ClaudeBar",
+      "url": "https://github.com/tddworks/ClaudeBar",
+      "description": "A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.",
+      "language": "swift"
+    },
+    {
+      "title": "jordanbaird / Ice",
+      "url": "https://github.com/jordanbaird/Ice",
+      "description": "Powerful menu bar manager for macOS",
+      "language": "swift"
+    },
+    {
+      "title": "microsoft / agent-host-protocol",
+      "url": "https://github.com/microsoft/agent-host-protocol",
+      "description": "Synchronized multi-client state for AI agent sessions",
+      "language": "swift"
     },
     {
       "title": "microsoft / fhir-server",
@@ -5231,6 +5231,12 @@
       "language": "thrift"
     },
     {
+      "title": "cetz-package / cetz",
+      "url": "https://github.com/cetz-package/cetz",
+      "description": "CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.",
+      "language": "typst"
+    },
+    {
       "title": "usekaneo / kaneo",
       "url": "https://github.com/usekaneo/kaneo",
       "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
@@ -5315,12 +5321,6 @@
       "language": "typescript"
     },
     {
-      "title": "cetz-package / cetz",
-      "url": "https://github.com/cetz-package/cetz",
-      "description": "CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.",
-      "language": "typst"
-    },
-    {
       "title": "vlang / v",
       "url": "https://github.com/vlang/v",
       "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
@@ -5385,6 +5385,12 @@
       "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
       "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
       "language": "verilog"
+    },
+    {
+      "title": "fmz200 / wool_scripts",
+      "url": "https://github.com/fmz200/wool_scripts",
+      "description": "收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的配置与去广告规则。",
+      "language": "vim-snippet"
     },
     {
       "title": "tpope / vim-fugitive",
@@ -5487,12 +5493,6 @@
       "url": "https://github.com/hashivim/vim-terraform",
       "description": "basic vim/terraform integration",
       "language": "vim-script"
-    },
-    {
-      "title": "fmz200 / wool_scripts",
-      "url": "https://github.com/fmz200/wool_scripts",
-      "description": "收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的配置与去广告规则。",
-      "language": "vim-snippet"
     },
     {
       "title": "keleus / BewlyCat",
@@ -5603,24 +5603,6 @@
       "language": "xslt"
     },
     {
-      "title": "aquaproj / aqua-registry",
-      "url": "https://github.com/aquaproj/aqua-registry",
-      "description": "aqua's Standard Registry",
-      "language": "yaml"
-    },
-    {
-      "title": "stashapp / CommunityScrapers",
-      "url": "https://github.com/stashapp/CommunityScrapers",
-      "description": "This is a public repository containing scrapers created by the Stash Community.",
-      "language": "yaml"
-    },
-    {
-      "title": "kubeflow / community-distribution",
-      "url": "https://github.com/kubeflow/community-distribution",
-      "description": "Kubeflow Community Distribution",
-      "language": "yaml"
-    },
-    {
       "title": "chainguard-dev / malcontent",
       "url": "https://github.com/chainguard-dev/malcontent",
       "description": "#supply #chain #attack #detection",
@@ -5637,6 +5619,24 @@
       "url": "https://github.com/sophoslabs/IoCs",
       "description": "Sophos-originated indicators-of-compromise from published reports",
       "language": "yara"
+    },
+    {
+      "title": "aquaproj / aqua-registry",
+      "url": "https://github.com/aquaproj/aqua-registry",
+      "description": "aqua's Standard Registry",
+      "language": "yaml"
+    },
+    {
+      "title": "stashapp / CommunityScrapers",
+      "url": "https://github.com/stashapp/CommunityScrapers",
+      "description": "This is a public repository containing scrapers created by the Stash Community.",
+      "language": "yaml"
+    },
+    {
+      "title": "kubeflow / community-distribution",
+      "url": "https://github.com/kubeflow/community-distribution",
+      "description": "Kubeflow Community Distribution",
+      "language": "yaml"
     },
     {
       "title": "pa1nki113r / Project_Brutality",

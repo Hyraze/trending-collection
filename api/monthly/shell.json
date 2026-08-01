@@ -1,0 +1,116 @@
+{
+  "title": "GitHub Shell Languages Daily Trending",
+  "description": "Daily Trending of Shell Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "items": [
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "shell"
+    },
+    {
+      "title": "cloudflare / skills",
+      "url": "https://github.com/cloudflare/skills",
+      "description": "Skills for teaching agents how to build on Cloudflare.",
+      "language": "shell"
+    },
+    {
+      "title": "pystardust / ani-cli",
+      "url": "https://github.com/pystardust/ani-cli",
+      "description": "A cli tool to browse and play anime",
+      "language": "shell"
+    },
+    {
+      "title": "fujibee / agmsg",
+      "url": "https://github.com/fujibee/agmsg",
+      "description": "Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.",
+      "language": "shell"
+    },
+    {
+      "title": "ohmyzsh / ohmyzsh",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "language": "shell"
+    },
+    {
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "shell"
+    },
+    {
+      "title": "jqssun / android-titanium-browser",
+      "url": "https://github.com/jqssun/android-titanium-browser",
+      "description": "Secure open-source Android browser with support for extensions",
+      "language": "shell"
+    },
+    {
+      "title": "termux / termux-packages",
+      "url": "https://github.com/termux/termux-packages",
+      "description": "A package build system for Termux.",
+      "language": "shell"
+    },
+    {
+      "title": "PrismML-Eng / Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "shell"
+    },
+    {
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "shell"
+    },
+    {
+      "title": "1N3 / Sn1per",
+      "url": "https://github.com/1N3/Sn1per",
+      "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
+      "language": "shell"
+    },
+    {
+      "title": "themactep / thingino-firmware",
+      "url": "https://github.com/themactep/thingino-firmware",
+      "description": "Open-source firmware for Ingenic SoC IP cameras",
+      "language": "shell"
+    },
+    {
+      "title": "assafdori / bypass-mdm",
+      "url": "https://github.com/assafdori/bypass-mdm",
+      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
+      "language": "shell"
+    },
+    {
+      "title": "acmesh-official / acme.sh",
+      "url": "https://github.com/acmesh-official/acme.sh",
+      "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
+      "language": "shell"
+    },
+    {
+      "title": "CISOfy / lynis",
+      "url": "https://github.com/CISOfy/lynis",
+      "description": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+      "language": "shell"
+    },
+    {
+      "title": "ophub / amlogic-s9xxx-armbian",
+      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
+      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+      "language": "shell"
+    },
+    {
+      "title": "docker-mailserver / docker-mailserver",
+      "url": "https://github.com/docker-mailserver/docker-mailserver",
+      "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",
+      "language": "shell"
+    },
+    {
+      "title": "bats-core / bats-core",
+      "url": "https://github.com/bats-core/bats-core",
+      "description": "Bash Automated Testing System",
+      "language": "shell"
+    }
+  ]
+}

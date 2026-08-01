@@ -1,0 +1,80 @@
+{
+  "title": "GitHub Elixir Languages Daily Trending",
+  "description": "Daily Trending of Elixir Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "items": [
+    {
+      "title": "elixir-lang / elixir",
+      "url": "https://github.com/elixir-lang/elixir",
+      "description": "Simple from zero to scale",
+      "language": "elixir"
+    },
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "elixir"
+    },
+    {
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+      "language": "elixir"
+    },
+    {
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
+      "language": "elixir"
+    },
+    {
+      "title": "phoenixframework / phoenix_live_view",
+      "url": "https://github.com/phoenixframework/phoenix_live_view",
+      "description": "Rich, real-time user experiences with server-rendered HTML",
+      "language": "elixir"
+    },
+    {
+      "title": "elixir-lsp / elixir_sense",
+      "url": "https://github.com/elixir-lsp/elixir_sense",
+      "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
+      "language": "elixir"
+    },
+    {
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "elixir"
+    },
+    {
+      "title": "supabase / realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "elixir"
+    },
+    {
+      "title": "icoretech / codex-pooler",
+      "url": "https://github.com/icoretech/codex-pooler",
+      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
+      "language": "elixir"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-erlang-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-erlang-contrib",
+      "description": "OpenTelemetry instrumentation for Erlang & Elixir",
+      "language": "elixir"
+    },
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "elixir"
+    },
+    {
+      "title": "elixir-lsp / elixir-ls",
+      "url": "https://github.com/elixir-lsp/elixir-ls",
+      "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+      "language": "elixir"
+    }
+  ]
+}

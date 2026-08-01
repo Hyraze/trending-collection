@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Rust Languages Daily Trending</title>
+  <description>Daily Trending of Rust Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:03:09 GMT</pubDate>
+  <item>
+    <title>Zackriya-Solutions / meetily</title>
+    <link>https://github.com/Zackriya-Solutions/meetily</link>
+    <description>Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes</description>
+  </item>
+  <item>
+    <title>1jehuang / jcode</title>
+    <link>https://github.com/1jehuang/jcode</link>
+    <description>The most RAM efficient harness</description>
+  </item>
+  <item>
+    <title>TencentCloud / CubeSandbox</title>
+    <link>https://github.com/TencentCloud/CubeSandbox</link>
+    <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
+  </item>
+  <item>
+    <title>cjpais / Handy</title>
+    <link>https://github.com/cjpais/Handy</link>
+    <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+  </item>
+  <item>
+    <title>t8y2 / dbx</title>
+    <link>https://github.com/t8y2/dbx</link>
+    <description>20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</description>
+  </item>
+  <item>
+    <title>Pumpkin-MC / Pumpkin</title>
+    <link>https://github.com/Pumpkin-MC/Pumpkin</link>
+    <description>Empowering everyone to host fast and efficient Minecraft servers.</description>
+  </item>
+  <item>
+    <title>openai / codex</title>
+    <link>https://github.com/openai/codex</link>
+    <description>Lightweight coding agent that runs in your terminal</description>
+  </item>
+  <item>
+    <title>atuinsh / atuin</title>
+    <link>https://github.com/atuinsh/atuin</link>
+    <description>✨ Making your shell magical</description>
+  </item>
+  <item>
+    <title>apache / datafusion</title>
+    <link>https://github.com/apache/datafusion</link>
+    <description>Apache DataFusion SQL Query Engine</description>
+  </item>
+  <item>
+    <title>Automattic / harper</title>
+    <link>https://github.com/Automattic/harper</link>
+    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
+  </item>
+  <item>
+    <title>dani-garcia / vaultwarden</title>
+    <link>https://github.com/dani-garcia/vaultwarden</link>
+    <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
+  </item>
+  <item>
+    <title>max-sixty / worktrunk</title>
+    <link>https://github.com/max-sixty/worktrunk</link>
+    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+  </item>
+  <item>
+    <title>DioxusLabs / dioxus</title>
+    <link>https://github.com/DioxusLabs/dioxus</link>
+    <description>Fullstack app framework for web, desktop, and mobile.</description>
+  </item>
+  <item>
+    <title>andrewrabert / jellium-desktop</title>
+    <link>https://github.com/andrewrabert/jellium-desktop</link>
+    <description>An unofficial desktop client for Jellyfin</description>
+  </item>
+  <item>
+    <title>wealthfolio / wealthfolio</title>
+    <link>https://github.com/wealthfolio/wealthfolio</link>
+    <description>A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.</description>
+  </item>
+  <item>
+    <title>rust-lang / rust</title>
+    <link>https://github.com/rust-lang/rust</link>
+    <description>Empowering everyone to build reliable and efficient software.</description>
+  </item>
+  <item>
+    <title>tonhowtf / omniget</title>
+    <link>https://github.com/tonhowtf/omniget</link>
+    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
+  </item>
+  <item>
+    <title>rustdesk / rustdesk</title>
+    <link>https://github.com/rustdesk/rustdesk</link>
+    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+  </item>
+  <item>
+    <title>raine / workmux</title>
+    <link>https://github.com/raine/workmux</link>
+    <description>git worktrees + tmux windows for zero-friction parallel dev</description>
+  </item>
+  <item>
+    <title>screenpipe / screenpipe</title>
+    <link>https://github.com/screenpipe/screenpipe</link>
+    <description>YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps</description>
+  </item>
+  <item>
+    <title>tokio-rs / tokio</title>
+    <link>https://github.com/tokio-rs/tokio</link>
+    <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
+  </item>
+  <item>
+    <title>biomejs / biome</title>
+    <link>https://github.com/biomejs/biome</link>
+    <description>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</description>
+  </item>
+</channel>
+</rss>

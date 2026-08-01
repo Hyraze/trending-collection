@@ -1,0 +1,110 @@
+{
+  "title": "GitHub Elixir Languages Daily Trending",
+  "description": "Daily Trending of Elixir Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "items": [
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "elixir"
+    },
+    {
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+      "language": "elixir"
+    },
+    {
+      "title": "elixir-lang / elixir",
+      "url": "https://github.com/elixir-lang/elixir",
+      "description": "Simple from zero to scale",
+      "language": "elixir"
+    },
+    {
+      "title": "openai / symphony",
+      "url": "https://github.com/openai/symphony",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "language": "elixir"
+    },
+    {
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
+      "language": "elixir"
+    },
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "elixir"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-erlang-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-erlang-contrib",
+      "description": "OpenTelemetry instrumentation for Erlang & Elixir",
+      "language": "elixir"
+    },
+    {
+      "title": "ntrepid8 / ex_crypto",
+      "url": "https://github.com/ntrepid8/ex_crypto",
+      "description": "Wrapper around the Erlang crypto module for Elixir.",
+      "language": "elixir"
+    },
+    {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "elixir"
+    },
+    {
+      "title": "supabase / realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "elixir"
+    },
+    {
+      "title": "expert-lsp / expert",
+      "url": "https://github.com/expert-lsp/expert",
+      "description": "Official Elixir Language Server Protocol implementation",
+      "language": "elixir"
+    },
+    {
+      "title": "duffelhq / paginator",
+      "url": "https://github.com/duffelhq/paginator",
+      "description": "Cursor-based pagination for Elixir Ecto",
+      "language": "elixir"
+    },
+    {
+      "title": "sequinstream / sequin",
+      "url": "https://github.com/sequinstream/sequin",
+      "description": "Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more",
+      "language": "elixir"
+    },
+    {
+      "title": "supabase / supavisor",
+      "url": "https://github.com/supabase/supavisor",
+      "description": "A cloud-native, multi-tenant Postgres connection pooler.",
+      "language": "elixir"
+    },
+    {
+      "title": "phoenixframework / phoenix_live_view",
+      "url": "https://github.com/phoenixframework/phoenix_live_view",
+      "description": "Rich, real-time user experiences with server-rendered HTML",
+      "language": "elixir"
+    },
+    {
+      "title": "ash-project / ash",
+      "url": "https://github.com/ash-project/ash",
+      "description": "A declarative, extensible framework for building Elixir applications.",
+      "language": "elixir"
+    },
+    {
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "elixir"
+    }
+  ]
+}

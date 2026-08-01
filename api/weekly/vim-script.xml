@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Vim-script Languages Daily Trending</title>
+  <description>Daily Trending of Vim-script Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:01:02 GMT</pubDate>
+  <item>
+    <title>neovim / neovim</title>
+    <link>https://github.com/neovim/neovim</link>
+    <description>Vim-fork focused on extensibility and usability</description>
+  </item>
+  <item>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
+  </item>
+  <item>
+    <title>vim / vim</title>
+    <link>https://github.com/vim/vim</link>
+    <description>The official Vim repository</description>
+  </item>
+  <item>
+    <title>dense-analysis / ale</title>
+    <link>https://github.com/dense-analysis/ale</link>
+    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
+  </item>
+  <item>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
+  </item>
+  <item>
+    <title>rbong / vim-flog</title>
+    <link>https://github.com/rbong/vim-flog</link>
+    <description>A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.</description>
+  </item>
+  <item>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
+  </item>
+  <item>
+    <title>junegunn / vim-easy-align</title>
+    <link>https://github.com/junegunn/vim-easy-align</link>
+    <description>🌻 A Vim alignment plugin</description>
+  </item>
+  <item>
+    <title>tpope / vim-eunuch</title>
+    <link>https://github.com/tpope/vim-eunuch</link>
+    <description>eunuch.vim: Helpers for UNIX</description>
+  </item>
+  <item>
+    <title>fatih / vim-go</title>
+    <link>https://github.com/fatih/vim-go</link>
+    <description>Go development plugin for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+  </item>
+  <item>
+    <title>rust-lang / rust.vim</title>
+    <link>https://github.com/rust-lang/rust.vim</link>
+    <description>Vim configuration for Rust.</description>
+  </item>
+  <item>
+    <title>leafgarland / typescript-vim</title>
+    <link>https://github.com/leafgarland/typescript-vim</link>
+    <description>Typescript syntax files for Vim</description>
+  </item>
+  <item>
+    <title>vim-syntastic / syntastic</title>
+    <link>https://github.com/vim-syntastic/syntastic</link>
+    <description>Syntax checking hacks for vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-abolish</title>
+    <link>https://github.com/tpope/vim-abolish</link>
+    <description>abolish.vim: Work with several variants of a word at once</description>
+  </item>
+  <item>
+    <title>ryanoasis / vim-devicons</title>
+    <link>https://github.com/ryanoasis/vim-devicons</link>
+    <description>Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more</description>
+  </item>
+  <item>
+    <title>prabirshrestha / vim-lsp</title>
+    <link>https://github.com/prabirshrestha/vim-lsp</link>
+    <description>async language server protocol plugin for vim and neovim</description>
+  </item>
+  <item>
+    <title>sainnhe / everforest</title>
+    <link>https://github.com/sainnhe/everforest</link>
+    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
+  </item>
+  <item>
+    <title>preservim / nerdcommenter</title>
+    <link>https://github.com/preservim/nerdcommenter</link>
+    <description>Vim plugin for intensely nerdy commenting powers</description>
+  </item>
+  <item>
+    <title>mattn / vim-lsp-settings</title>
+    <link>https://github.com/mattn/vim-lsp-settings</link>
+    <description>Auto configurations for Language Server for vim-lsp</description>
+  </item>
+  <item>
+    <title>vim-airline / vim-airline-themes</title>
+    <link>https://github.com/vim-airline/vim-airline-themes</link>
+    <description>A collection of themes for vim-airline</description>
+  </item>
+  <item>
+    <title>VundleVim / Vundle.vim</title>
+    <link>https://github.com/VundleVim/Vundle.vim</link>
+    <description>Vundle, the plug-in manager for Vim</description>
+  </item>
+  <item>
+    <title>mhinz / vim-signify</title>
+    <link>https://github.com/mhinz/vim-signify</link>
+    <description>➕ Show a diff using Vim its sign column.</description>
+  </item>
+  <item>
+    <title>easymotion / vim-easymotion</title>
+    <link>https://github.com/easymotion/vim-easymotion</link>
+    <description>Vim motions on speed!</description>
+  </item>
+</channel>
+</rss>

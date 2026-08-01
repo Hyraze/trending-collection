@@ -1,0 +1,44 @@
+{
+  "title": "GitHub Mlir Languages Daily Trending",
+  "description": "Daily Trending of Mlir Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "items": [
+    {
+      "title": "triton-lang / triton-ascend",
+      "url": "https://github.com/triton-lang/triton-ascend",
+      "description": "Triton language and compiler for Ascend NPU",
+      "language": "mlir"
+    },
+    {
+      "title": "triton-lang / triton",
+      "url": "https://github.com/triton-lang/triton",
+      "description": "Development repository for the Triton language and compiler",
+      "language": "mlir"
+    },
+    {
+      "title": "intel / intel-xpu-backend-for-triton",
+      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
+      "description": "OpenAI Triton backend for Intel® GPUs",
+      "language": "mlir"
+    },
+    {
+      "title": "facebookexperimental / triton",
+      "url": "https://github.com/facebookexperimental/triton",
+      "description": "Github mirror of trition-lang/triton repo.",
+      "language": "mlir"
+    },
+    {
+      "title": "tenstorrent / tt-mlir",
+      "url": "https://github.com/tenstorrent/tt-mlir",
+      "description": "Tenstorrent MLIR compiler",
+      "language": "mlir"
+    },
+    {
+      "title": "ROCm / rocMLIR",
+      "url": "https://github.com/ROCm/rocMLIR",
+      "description": "",
+      "language": "mlir"
+    }
+  ]
+}

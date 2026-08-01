@@ -1,0 +1,98 @@
+{
+  "title": "GitHub Emacs-lisp Languages Daily Trending",
+  "description": "Daily Trending of Emacs-lisp Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "items": [
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "dnouri / pi-coding-agent",
+      "url": "https://github.com/dnouri/pi-coding-agent",
+      "description": "Emacs frontend for the Pi coding agent",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "bbatsov / projectile",
+      "url": "https://github.com/bbatsov/projectile",
+      "description": "Project Interaction Library for Emacs",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "dakra / ghostel",
+      "url": "https://github.com/dakra/ghostel",
+      "description": "Terminal emulator powered by libghostty",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "syl20bnr / spacemacs",
+      "url": "https://github.com/syl20bnr/spacemacs",
+      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "emacs-lsp / lsp-mode",
+      "url": "https://github.com/emacs-lsp/lsp-mode",
+      "description": "Emacs client/library for the Language Server Protocol",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "rust-lang / rust-mode",
+      "url": "https://github.com/rust-lang/rust-mode",
+      "description": "Emacs configuration for Rust",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "melpa / melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "doomemacs / modules",
+      "url": "https://github.com/doomemacs/modules",
+      "description": "Official module library for Doom Emacs",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "magit / magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "clojure-emacs / cider",
+      "url": "https://github.com/clojure-emacs/cider",
+      "description": "The Clojure Interactive Development Environment that Rocks for Emacs",
+      "language": "emacs-lisp"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": "GitHub Starlark Languages Daily Trending",
+  "description": "Daily Trending of Starlark Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "items": [
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "starlark"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "starlark"
+    },
+    {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "starlark"
+    },
+    {
+      "title": "uber / hermetic_cc_toolchain",
+      "url": "https://github.com/uber/hermetic_cc_toolchain",
+      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
+      "language": "starlark"
+    },
+    {
+      "title": "openconfig / gnoi",
+      "url": "https://github.com/openconfig/gnoi",
+      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
+      "language": "starlark"
+    },
+    {
+      "title": "bazel-contrib / rules_distroless",
+      "url": "https://github.com/bazel-contrib/rules_distroless",
+      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
+      "language": "starlark"
+    },
+    {
+      "title": "google / bazel-common",
+      "url": "https://github.com/google/bazel-common",
+      "description": "Common functionality for some Google open-source libraries that are built with Bazel",
+      "language": "starlark"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "starlark"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "starlark"
+    },
+    {
+      "title": "googleapis / api-common-protos",
+      "url": "https://github.com/googleapis/api-common-protos",
+      "description": "A standard library for use in specifying protocol buffer APIs.",
+      "language": "starlark"
+    },
+    {
+      "title": "bazel-contrib / rules_perl",
+      "url": "https://github.com/bazel-contrib/rules_perl",
+      "description": "Perl rules for Bazel",
+      "language": "starlark"
+    },
+    {
+      "title": "bazel-contrib / toolchains_llvm",
+      "url": "https://github.com/bazel-contrib/toolchains_llvm",
+      "description": "LLVM toolchain for bazel",
+      "language": "starlark"
+    },
+    {
+      "title": "bazelbuild / rules_cc",
+      "url": "https://github.com/bazelbuild/rules_cc",
+      "description": "C++ Rules for Bazel",
+      "language": "starlark"
+    },
+    {
+      "title": "aspect-build / rules_lint",
+      "url": "https://github.com/aspect-build/rules_lint",
+      "description": "Run static analysis tools with Bazel",
+      "language": "starlark"
+    },
+    {
+      "title": "bazel-contrib / rules_foreign_cc",
+      "url": "https://github.com/bazel-contrib/rules_foreign_cc",
+      "description": "Build rules for interfacing with \"foreign\" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)",
+      "language": "starlark"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "starlark"
+    },
+    {
+      "title": "tidbyt / community",
+      "url": "https://github.com/tidbyt/community",
+      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "language": "starlark"
+    },
+    {
+      "title": "salesforce / rules_spring",
+      "url": "https://github.com/salesforce/rules_spring",
+      "description": "Bazel rule for building Spring Boot apps as a deployable jar",
+      "language": "starlark"
+    }
+  ]
+}

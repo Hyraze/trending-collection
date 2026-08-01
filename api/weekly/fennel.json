@@ -1,0 +1,20 @@
+{
+  "title": "GitHub Fennel Languages Daily Trending",
+  "description": "Daily Trending of Fennel Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "items": [
+    {
+      "title": "Olical / conjure",
+      "url": "https://github.com/Olical/conjure",
+      "description": "Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)",
+      "language": "fennel"
+    },
+    {
+      "title": "nyoom-engineering / oxocarbon.nvim",
+      "url": "https://github.com/nyoom-engineering/oxocarbon.nvim",
+      "description": "A dark and light Neovim theme written in fennel, inspired by IBM Carbon.",
+      "language": "fennel"
+    }
+  ]
+}

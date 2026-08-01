@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Cuda Languages Daily Trending</title>
+  <description>Daily Trending of Cuda Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:01:02 GMT</pubDate>
+  <item>
+    <title>deepseek-ai / DeepEP</title>
+    <link>https://github.com/deepseek-ai/DeepEP</link>
+    <description>DeepEP: an efficient expert-parallel communication library</description>
+  </item>
+  <item>
+    <title>thu-ml / SageAttention</title>
+    <link>https://github.com/thu-ml/SageAttention</link>
+    <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
+  </item>
+  <item>
+    <title>NVIDIA / nccl-tests</title>
+    <link>https://github.com/NVIDIA/nccl-tests</link>
+    <description>NCCL Tests</description>
+  </item>
+  <item>
+    <title>deepseek-ai / DeepGEMM</title>
+    <link>https://github.com/deepseek-ai/DeepGEMM</link>
+    <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
+  </item>
+  <item>
+    <title>BBuf / how-to-optim-algorithm-in-cuda</title>
+    <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
+    <description>how to optimize some algorithm in cuda.</description>
+  </item>
+  <item>
+    <title>NVIDIA / cuvs</title>
+    <link>https://github.com/NVIDIA/cuvs</link>
+    <description>cuVS - a library for vector search and clustering on the GPU</description>
+  </item>
+  <item>
+    <title>NVIDIA / nvbench</title>
+    <link>https://github.com/NVIDIA/nvbench</link>
+    <description>CUDA Kernel Benchmarking Library</description>
+  </item>
+  <item>
+    <title>karpathy / llm.c</title>
+    <link>https://github.com/karpathy/llm.c</link>
+    <description>LLM training in simple, raw C/CUDA</description>
+  </item>
+  <item>
+    <title>NVlabs / instant-ngp</title>
+    <link>https://github.com/NVlabs/instant-ngp</link>
+    <description>Instant neural graphics primitives: lightning fast NeRF and more</description>
+  </item>
+  <item>
+    <title>alibaba / rtp-llm</title>
+    <link>https://github.com/alibaba/rtp-llm</link>
+    <description>RTP-LLM: Alibaba&#x27;s high-performance LLM inference engine for diverse applications.</description>
+  </item>
+  <item>
+    <title>Dao-AILab / causal-conv1d</title>
+    <link>https://github.com/Dao-AILab/causal-conv1d</link>
+    <description>Causal depthwise conv1d in CUDA, with a PyTorch interface</description>
+  </item>
+  <item>
+    <title>mirage-project / mirage</title>
+    <link>https://github.com/mirage-project/mirage</link>
+    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
+  </item>
+  <item>
+    <title>HigherOrderCO / HVM2</title>
+    <link>https://github.com/HigherOrderCO/HVM2</link>
+    <description>A massively parallel, optimal functional runtime in Rust</description>
+  </item>
+  <item>
+    <title>NVIDIA / cuopt</title>
+    <link>https://github.com/NVIDIA/cuopt</link>
+    <description>GPU accelerated decision optimization</description>
+  </item>
+  <item>
+    <title>NVIDIA / cub</title>
+    <link>https://github.com/NVIDIA/cub</link>
+    <description>[ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl</description>
+  </item>
+  <item>
+    <title>rapidsai / cugraph</title>
+    <link>https://github.com/rapidsai/cugraph</link>
+    <description>cuGraph - RAPIDS Graph Analytics Library</description>
+  </item>
+</channel>
+</rss>

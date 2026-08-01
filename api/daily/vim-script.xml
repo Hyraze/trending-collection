@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Vim-script Languages Daily Trending</title>
+  <description>Daily Trending of Vim-script Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 16:58:55 GMT</pubDate>
+  <item>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+  </item>
+  <item>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
+  </item>
+  <item>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
+  </item>
+  <item>
+    <title>neovim / neovim</title>
+    <link>https://github.com/neovim/neovim</link>
+    <description>Vim-fork focused on extensibility and usability</description>
+  </item>
+  <item>
+    <title>pangloss / vim-javascript</title>
+    <link>https://github.com/pangloss/vim-javascript</link>
+    <description>Vastly improved Javascript indentation and syntax support in Vim.</description>
+  </item>
+  <item>
+    <title>chrisbra / csv.vim</title>
+    <link>https://github.com/chrisbra/csv.vim</link>
+    <description>A Filetype plugin for csv files</description>
+  </item>
+  <item>
+    <title>vim-test / vim-test</title>
+    <link>https://github.com/vim-test/vim-test</link>
+    <description>Run your tests at the speed of thought</description>
+  </item>
+  <item>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
+  </item>
+  <item>
+    <title>vim / vim</title>
+    <link>https://github.com/vim/vim</link>
+    <description>The official Vim repository</description>
+  </item>
+  <item>
+    <title>sainnhe / everforest</title>
+    <link>https://github.com/sainnhe/everforest</link>
+    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-sensible</title>
+    <link>https://github.com/tpope/vim-sensible</link>
+    <description>sensible.vim: Defaults everyone can agree on</description>
+  </item>
+  <item>
+    <title>mattn / vim-lsp-settings</title>
+    <link>https://github.com/mattn/vim-lsp-settings</link>
+    <description>Auto configurations for Language Server for vim-lsp</description>
+  </item>
+  <item>
+    <title>easymotion / vim-easymotion</title>
+    <link>https://github.com/easymotion/vim-easymotion</link>
+    <description>Vim motions on speed!</description>
+  </item>
+  <item>
+    <title>tpope / vim-abolish</title>
+    <link>https://github.com/tpope/vim-abolish</link>
+    <description>abolish.vim: Work with several variants of a word at once</description>
+  </item>
+  <item>
+    <title>dense-analysis / ale</title>
+    <link>https://github.com/dense-analysis/ale</link>
+    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
+  </item>
+  <item>
+    <title>tpope / vim-unimpaired</title>
+    <link>https://github.com/tpope/vim-unimpaired</link>
+    <description>unimpaired.vim: Pairs of handy bracket mappings</description>
+  </item>
+  <item>
+    <title>hashivim / vim-terraform</title>
+    <link>https://github.com/hashivim/vim-terraform</link>
+    <description>basic vim/terraform integration</description>
+  </item>
+</channel>
+</rss>

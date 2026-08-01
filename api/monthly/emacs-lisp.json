@@ -1,0 +1,122 @@
+{
+  "title": "GitHub Emacs-lisp Languages Daily Trending",
+  "description": "Daily Trending of Emacs-lisp Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "items": [
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "dakra / ghostel",
+      "url": "https://github.com/dakra/ghostel",
+      "description": "Terminal emulator powered by libghostty",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "syl20bnr / spacemacs",
+      "url": "https://github.com/syl20bnr/spacemacs",
+      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "doomemacs / modules",
+      "url": "https://github.com/doomemacs/modules",
+      "description": "Official module library for Doom Emacs",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "magit / magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "melpa / melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "flycheck / flycheck",
+      "url": "https://github.com/flycheck/flycheck",
+      "description": "On the fly syntax checking for GNU Emacs",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "jrblevin / markdown-mode",
+      "url": "https://github.com/jrblevin/markdown-mode",
+      "description": "Emacs Markdown Mode",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "qjcg / awesome-typst",
+      "url": "https://github.com/qjcg/awesome-typst",
+      "description": "Awesome Typst Links",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "seagle0128 / doom-modeline",
+      "url": "https://github.com/seagle0128/doom-modeline",
+      "description": "A fancy and fast mode-line inspired by minimalism design.",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "dimitri / el-get",
+      "url": "https://github.com/dimitri/el-get",
+      "description": "Manage the external elisp bits and pieces upon which you depend!",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "abo-abo / hydra",
+      "url": "https://github.com/abo-abo/hydra",
+      "description": "make Emacs bindings that stick around",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "tumashu / posframe",
+      "url": "https://github.com/tumashu/posframe",
+      "description": "Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "magit / transient",
+      "url": "https://github.com/magit/transient",
+      "description": "Transient commands",
+      "language": "emacs-lisp"
+    },
+    {
+      "title": "rainstormstudio / nerd-icons.el",
+      "url": "https://github.com/rainstormstudio/nerd-icons.el",
+      "description": "",
+      "language": "emacs-lisp"
+    }
+  ]
+}

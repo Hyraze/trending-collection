@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>GitHub Json Languages Daily Trending</title>
+  <description>Daily Trending of Json Languages in GitHub</description>
+  <link>https://github.com/trending</link>
+  <pubDate>Sat, 01 Aug 2026 17:01:02 GMT</pubDate>
+  <item>
+    <title>mdn / browser-compat-data</title>
+    <link>https://github.com/mdn/browser-compat-data</link>
+    <description>Browser compatibility data for Web technologies as displayed on MDN</description>
+  </item>
+  <item>
+    <title>Fyrd / caniuse</title>
+    <link>https://github.com/Fyrd/caniuse</link>
+    <description>Raw browser/feature support data from caniuse.com</description>
+  </item>
+  <item>
+    <title>osmlab / name-suggestion-index</title>
+    <link>https://github.com/osmlab/name-suggestion-index</link>
+    <description>Canonical common brand names, operators, transit, and flags for OpenStreetMap.</description>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,56 @@
+{
+  "title": "GitHub Erlang Languages Daily Trending",
+  "description": "Daily Trending of Erlang Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "items": [
+    {
+      "title": "erlang / otp",
+      "url": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "erlang"
+    },
+    {
+      "title": "emqx / emqx",
+      "url": "https://github.com/emqx/emqx",
+      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+      "language": "erlang"
+    },
+    {
+      "title": "apache / couchdb",
+      "url": "https://github.com/apache/couchdb",
+      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+      "language": "erlang"
+    },
+    {
+      "title": "blt / port_compiler",
+      "url": "https://github.com/blt/port_compiler",
+      "description": "A rebar3 port compiler",
+      "language": "erlang"
+    },
+    {
+      "title": "eproxus / meck",
+      "url": "https://github.com/eproxus/meck",
+      "description": "A mocking library for Erlang",
+      "language": "erlang"
+    },
+    {
+      "title": "processone / ejabberd",
+      "url": "https://github.com/processone/ejabberd",
+      "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+      "language": "erlang"
+    },
+    {
+      "title": "ninenines / cowboy",
+      "url": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "erlang"
+    },
+    {
+      "title": "rabbitmq / rabbitmq-delayed-message-exchange",
+      "url": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+      "description": "Delayed Messaging for RabbitMQ",
+      "language": "erlang"
+    }
+  ]
+}
