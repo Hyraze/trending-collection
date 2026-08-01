@@ -70,9 +70,12 @@ def scrape(session: requests.Session, language: str, since: str = 'daily') -> li
     Raises ScrapeError when a featured page yields no repositories on a daily scrape.
     Non-featured languages just return an empty list.
     """
-    url = 'https://github.com/trending/{language}?since={since}'.format(
-        language=language, since=since
-    )
+    if language == 'all':
+        url = 'https://github.com/trending?since={since}'.format(since=since)
+    else:
+        url = 'https://github.com/trending/{language}?since={since}'.format(
+            language=language, since=since
+        )
     response = session.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
     response.raise_for_status()
 
@@ -156,10 +159,14 @@ def write_api_json(root: str, sections: dict[str, list[dict]], since: str = 'dai
                 "language": language,
             }
             items.append(item)
-            all_items.append(item)
             
-        title = f"GitHub {language.capitalize()} Languages Daily Trending"
-        desc = f"Daily Trending of {language.capitalize()} Languages in GitHub"
+        if language == 'all':
+            title = "GitHub Daily Trending"
+            desc = "Daily Trending of All Languages in GitHub"
+        else:
+            title = f"GitHub {language.capitalize()} Languages Daily Trending"
+            desc = f"Daily Trending of {language.capitalize()} Languages in GitHub"
+            
         link = "https://github.com/trending"
         
         lang_data = {
@@ -175,22 +182,7 @@ def write_api_json(root: str, sections: dict[str, list[dict]], since: str = 'dai
             
         with open(os.path.join(api_dir, f"{language}.xml"), 'w', encoding='utf-8') as f:
             f.write(generate_rss(title, desc, link, pub_date, items))
-            
-    # Write all.json and all.xml
-    all_title = "GitHub Daily Trending"
-    all_desc = "Daily Trending of All Languages in GitHub"
-    all_data = {
-        "title": all_title,
-        "description": all_desc,
-        "link": link,
-        "pubDate": pub_date,
-        "items": all_items
-    }
-    with open(os.path.join(api_dir, "all.json"), 'w', encoding='utf-8') as f:
-        json.dump(all_data, f, indent=2, ensure_ascii=False)
-        
-    with open(os.path.join(api_dir, "all.xml"), 'w', encoding='utf-8') as f:
-        f.write(generate_rss(all_title, all_desc, link, pub_date, all_items))
+
 
 
 def job(root: str = '.', today: datetime.date | None = None) -> str:
@@ -215,6 +207,9 @@ def job(root: str = '.', today: datetime.date | None = None) -> str:
     for lang in LANGUAGES:
         if lang not in all_languages:
             all_languages.insert(0, lang)
+            
+    if 'all' not in all_languages:
+        all_languages.insert(0, 'all')
 
     def scrape_lang(language: str, since: str):
         try:
