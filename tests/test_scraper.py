@@ -103,7 +103,7 @@ def test_scrape_sends_timeout():
     scrape(session, "python")
 
     url, kwargs = session.calls[0]
-    assert url == "https://github.com/trending/python"
+    assert url == "https://github.com/trending/python?since=daily"
     assert kwargs["timeout"] == pytest.approx(30)
 
 
@@ -199,7 +199,7 @@ def test_job_writes_nothing_when_a_later_language_fails(tmp_path, monkeypatch):
     """A partial day must never reach disk — CI would commit it into the archive."""
     import gitreposcraper
 
-    def fake_scrape(session, language):
+    def fake_scrape(session, language, since="daily"):
         if language == "go":
             raise ScrapeError("boom")
         return [{"title": "a / b", "url": "https://github.com/a/b", "description": "d"}]

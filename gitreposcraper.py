@@ -5,8 +5,8 @@ import logging
 import os
 import tempfile
 import json
-import time
 import html
+import concurrent.futures
 
 import requests
 from pyquery import PyQuery as pq
@@ -64,19 +64,21 @@ def parse_trending_html(html) -> list[dict]:
     return repos
 
 
-def scrape(session: requests.Session, language: str) -> list[dict]:
+def scrape(session: requests.Session, language: str, since: str = 'daily') -> list[dict]:
     """Fetch one trending language page.
 
-    Raises ScrapeError when a featured page yields no repositories.
+    Raises ScrapeError when a featured page yields no repositories on a daily scrape.
     Non-featured languages just return an empty list.
     """
-    url = 'https://github.com/trending/{language}'.format(language=language)
+    url = 'https://github.com/trending/{language}?since={since}'.format(
+        language=language, since=since
+    )
     response = session.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
     response.raise_for_status()
 
     repos = parse_trending_html(response.content)
     if not repos:
-        if language in LANGUAGES:
+        if language in LANGUAGES and since == 'daily':
             raise ScrapeError(
                 'no repositories parsed for {language} — selector rot or blocked request'.format(
                     language=language
@@ -117,9 +119,9 @@ def write_day(root: str, date: str, content: str) -> str:
     return target
 
 
-def write_api_json(root: str, sections: dict[str, list[dict]]) -> None:
+def write_api_json(root: str, sections: dict[str, list[dict]], since: str = 'daily') -> None:
     """Generate JSON and XML (RSS) API files for each language and an all.json/xml."""
-    api_dir = os.path.join(root, 'api', 'daily')
+    api_dir = os.path.join(root, 'api', since)
     os.makedirs(api_dir, exist_ok=True)
     
     pub_date = datetime.datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
@@ -214,26 +216,35 @@ def job(root: str = '.', today: datetime.date | None = None) -> str:
         if lang not in all_languages:
             all_languages.insert(0, lang)
 
-    sections = {}
-    for i, language in enumerate(all_languages):
-        is_featured = language in LANGUAGES
+    def scrape_lang(language: str, since: str):
         try:
-            repos = scrape(session, language)
-            if repos:
-                sections[language] = repos
-                if is_featured:
-                    logger.info('%s: %d repositories', language, len(repos))
+            return language, scrape(session, language, since)
         except Exception as e:
-            if is_featured:
+            if language in LANGUAGES and since == 'daily':
                 raise e
-            logger.warning('Failed to scrape %s: %s', language, e)
-            
-        time.sleep(0.5)  # Be nice to GitHub rate limits
+            logger.warning('Failed to scrape %s (%s): %s', language, since, e)
+            return language, []
 
-    path = write_day(root, date, render_day(date, LANGUAGES, sections))
-    write_api_json(root, sections)
-    update_readme(root=root, today=today)
-    logger.info('wrote %s and api json files', path)
+    path = ""
+    for since in ['daily', 'weekly', 'monthly']:
+        sections = {}
+        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+            futures = {executor.submit(scrape_lang, lang, since): lang for lang in all_languages}
+            for future in concurrent.futures.as_completed(futures):
+                language, repos = future.result()
+                if repos:
+                    sections[language] = repos
+                    if language in LANGUAGES:
+                        logger.info('%s (%s): %d repositories', language, since, len(repos))
+                        
+        if since == 'daily':
+            path = write_day(root, date, render_day(date, LANGUAGES, sections))
+            update_readme(root=root, today=today)
+            logger.info('wrote %s', path)
+            
+        write_api_json(root, sections, since)
+        logger.info('wrote api files for %s', since)
+        
     return path
 
 
