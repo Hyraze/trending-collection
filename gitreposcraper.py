@@ -5,6 +5,7 @@ import logging
 import os
 import tempfile
 import json
+import time
 
 import requests
 from pyquery import PyQuery as pq
@@ -62,12 +63,11 @@ def parse_trending_html(html) -> list[dict]:
     return repos
 
 
-def scrape(session: requests.Session, language: str) -> list[dict]:
+def scrape(session: requests.Session, language: str, is_featured: bool = False) -> list[dict]:
     """Fetch one trending language page.
 
-    Raises ScrapeError when the page parses to zero repositories, which means
-    either GitHub changed its markup or the request was blocked. Failing loudly
-    keeps empty sections out of the archive.
+    Raises ScrapeError when a featured page yields no repositories.
+    Non-featured languages just return an empty list.
     """
     url = 'https://github.com/trending/{language}'.format(language=language)
     response = session.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
@@ -75,11 +75,13 @@ def scrape(session: requests.Session, language: str) -> list[dict]:
 
     repos = parse_trending_html(response.content)
     if not repos:
-        raise ScrapeError(
-            'no repositories parsed for {language} — selector rot or blocked request'.format(
-                language=language
+        if is_featured:
+            raise ScrapeError(
+                'no repositories parsed for {language} — selector rot or blocked request'.format(
+                    language=language
+                )
             )
-        )
+        return []
     return repos
 
 
@@ -161,19 +163,43 @@ def write_api_json(root: str, sections: dict[str, list[dict]]) -> None:
 
 
 def job(root: str = '.', today: datetime.date | None = None) -> str:
-    """Scrape every language, then write the archive and refresh the README.
-
-    Every language must succeed before anything is written — a partial day would
-    be committed by CI and permanently pollute the archive.
+    """Scrape all languages, then write the archive and refresh the README.
+    
+    Featured languages (used in README) must succeed, otherwise we fail loudly.
+    Non-featured languages are scraped for the JSON API but failure is ignored.
     """
     today = today or datetime.date.today()
     date = today.strftime('%Y-%m-%d')
     session = make_session()
 
+    all_languages = []
+    langs_file = os.path.join(root, 'languages.json')
+    if os.path.exists(langs_file):
+        with open(langs_file, 'r', encoding='utf-8') as f:
+            for item in json.load(f):
+                if item.get('aliases'):
+                    all_languages.append(item['aliases'][0])
+                    
+    # Ensure featured languages are always present
+    for lang in LANGUAGES:
+        if lang not in all_languages:
+            all_languages.insert(0, lang)
+
     sections = {}
-    for language in LANGUAGES:
-        sections[language] = scrape(session, language)
-        logger.info('%s: %d repositories', language, len(sections[language]))
+    for i, language in enumerate(all_languages):
+        is_featured = language in LANGUAGES
+        try:
+            repos = scrape(session, language, is_featured)
+            if repos:
+                sections[language] = repos
+                if is_featured:
+                    logger.info('%s: %d repositories', language, len(repos))
+        except Exception as e:
+            if is_featured:
+                raise e
+            logger.warning('Failed to scrape %s: %s', language, e)
+            
+        time.sleep(0.5)  # Be nice to GitHub rate limits
 
     path = write_day(root, date, render_day(date, LANGUAGES, sections))
     write_api_json(root, sections)
