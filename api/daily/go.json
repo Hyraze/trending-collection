@@ -1,0 +1,134 @@
+{
+  "title": "GitHub Go Languages Daily Trending",
+  "description": "Daily Trending of Go Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 15:55:34 GMT",
+  "items": [
+    {
+      "title": "github / gh-stack",
+      "url": "https://github.com/github/gh-stack",
+      "description": "GitHub Stacked PRs",
+      "language": "go"
+    },
+    {
+      "title": "junegunn / fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "go"
+    },
+    {
+      "title": "Gentleman-Programming / gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "",
+      "language": "go"
+    },
+    {
+      "title": "cli / cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "go"
+    },
+    {
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "The open source control plane for agentic engineering.",
+      "language": "go"
+    },
+    {
+      "title": "traefik / traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "go"
+    },
+    {
+      "title": "gtsteffaniak / filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "go"
+    },
+    {
+      "title": "Ed1s0nZ / CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
+      "language": "go"
+    },
+    {
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "go"
+    },
+    {
+      "title": "MHSanaei / 3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
+      "language": "go"
+    },
+    {
+      "title": "binwiederhier / ntfy",
+      "url": "https://github.com/binwiederhier/ntfy",
+      "description": "Send push notifications to your phone or desktop using PUT/POST",
+      "language": "go"
+    },
+    {
+      "title": "XTLS / Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "go"
+    },
+    {
+      "title": "aquasecurity / trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "go"
+    },
+    {
+      "title": "pranshuparmar / witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "go"
+    },
+    {
+      "title": "caddyserver / caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "go"
+    },
+    {
+      "title": "terrastruct / d2",
+      "url": "https://github.com/terrastruct/d2",
+      "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+      "language": "go"
+    },
+    {
+      "title": "prometheus / prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "go"
+    },
+    {
+      "title": "googleapis / mcp-toolbox",
+      "url": "https://github.com/googleapis/mcp-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "go"
+    },
+    {
+      "title": "esengine / DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "go"
+    },
+    {
+      "title": "siderolabs / talos",
+      "url": "https://github.com/siderolabs/talos",
+      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "language": "go"
+    },
+    {
+      "title": "trpc-group / trpc-agent-go",
+      "url": "https://github.com/trpc-group/trpc-agent-go",
+      "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
+      "language": "go"
+    }
+  ]
+}
