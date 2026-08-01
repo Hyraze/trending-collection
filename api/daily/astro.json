@@ -1,0 +1,44 @@
+{
+  "title": "GitHub Astro Languages Daily Trending",
+  "description": "Daily Trending of Astro Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 16:20:24 GMT",
+  "items": [
+    {
+      "title": "tabler / tabler",
+      "url": "https://github.com/tabler/tabler",
+      "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
+      "language": "astro"
+    },
+    {
+      "title": "saicaca / fuwari",
+      "url": "https://github.com/saicaca/fuwari",
+      "description": "✨A static blog template built with Astro.",
+      "language": "astro"
+    },
+    {
+      "title": "JustGoodUI / dante-astro-theme",
+      "url": "https://github.com/JustGoodUI/dante-astro-theme",
+      "description": "Dante, a single-author blog and portfolio theme for Astro.js.",
+      "language": "astro"
+    },
+    {
+      "title": "ColorlibHQ / AdminLTE",
+      "url": "https://github.com/ColorlibHQ/AdminLTE",
+      "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
+      "language": "astro"
+    },
+    {
+      "title": "CuteLeaf / Firefly",
+      "url": "https://github.com/CuteLeaf/Firefly",
+      "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
+      "language": "astro"
+    },
+    {
+      "title": "jcalado / voxdmr-site",
+      "url": "https://github.com/jcalado/voxdmr-site",
+      "description": "voxDMR: Apps for DMR talkgroups.",
+      "language": "astro"
+    }
+  ]
+}

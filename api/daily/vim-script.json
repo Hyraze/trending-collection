@@ -1,0 +1,110 @@
+{
+  "title": "GitHub Vim-script Languages Daily Trending",
+  "description": "Daily Trending of Vim-script Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 16:20:24 GMT",
+  "items": [
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "vim-script"
+    },
+    {
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
+      "language": "vim-script"
+    },
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "vim-script"
+    },
+    {
+      "title": "neovim / neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "vim-script"
+    },
+    {
+      "title": "pangloss / vim-javascript",
+      "url": "https://github.com/pangloss/vim-javascript",
+      "description": "Vastly improved Javascript indentation and syntax support in Vim.",
+      "language": "vim-script"
+    },
+    {
+      "title": "chrisbra / csv.vim",
+      "url": "https://github.com/chrisbra/csv.vim",
+      "description": "A Filetype plugin for csv files",
+      "language": "vim-script"
+    },
+    {
+      "title": "vim-test / vim-test",
+      "url": "https://github.com/vim-test/vim-test",
+      "description": "Run your tests at the speed of thought",
+      "language": "vim-script"
+    },
+    {
+      "title": "morhetz / gruvbox",
+      "url": "https://github.com/morhetz/gruvbox",
+      "description": "Retro groove color scheme for Vim",
+      "language": "vim-script"
+    },
+    {
+      "title": "vim / vim",
+      "url": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "vim-script"
+    },
+    {
+      "title": "sainnhe / everforest",
+      "url": "https://github.com/sainnhe/everforest",
+      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
+      "language": "vim-script"
+    },
+    {
+      "title": "tpope / vim-sensible",
+      "url": "https://github.com/tpope/vim-sensible",
+      "description": "sensible.vim: Defaults everyone can agree on",
+      "language": "vim-script"
+    },
+    {
+      "title": "mattn / vim-lsp-settings",
+      "url": "https://github.com/mattn/vim-lsp-settings",
+      "description": "Auto configurations for Language Server for vim-lsp",
+      "language": "vim-script"
+    },
+    {
+      "title": "easymotion / vim-easymotion",
+      "url": "https://github.com/easymotion/vim-easymotion",
+      "description": "Vim motions on speed!",
+      "language": "vim-script"
+    },
+    {
+      "title": "tpope / vim-abolish",
+      "url": "https://github.com/tpope/vim-abolish",
+      "description": "abolish.vim: Work with several variants of a word at once",
+      "language": "vim-script"
+    },
+    {
+      "title": "dense-analysis / ale",
+      "url": "https://github.com/dense-analysis/ale",
+      "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
+      "language": "vim-script"
+    },
+    {
+      "title": "tpope / vim-unimpaired",
+      "url": "https://github.com/tpope/vim-unimpaired",
+      "description": "unimpaired.vim: Pairs of handy bracket mappings",
+      "language": "vim-script"
+    },
+    {
+      "title": "hashivim / vim-terraform",
+      "url": "https://github.com/hashivim/vim-terraform",
+      "description": "basic vim/terraform integration",
+      "language": "vim-script"
+    }
+  ]
+}

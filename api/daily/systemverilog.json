@@ -1,0 +1,92 @@
+{
+  "title": "GitHub Systemverilog Languages Daily Trending",
+  "description": "Daily Trending of Systemverilog Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 16:20:24 GMT",
+  "items": [
+    {
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "systemverilog"
+    },
+    {
+      "title": "adam-maj / tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "systemverilog"
+    },
+    {
+      "title": "lowRISC / opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
+      "language": "systemverilog"
+    },
+    {
+      "title": "bsc-loca / sargantana",
+      "url": "https://github.com/bsc-loca/sargantana",
+      "description": "",
+      "language": "systemverilog"
+    },
+    {
+      "title": "lowRISC / ethernet",
+      "url": "https://github.com/lowRISC/ethernet",
+      "description": "Open-source memory-mapped Ethernet MAC for FPGA with RGMII interface",
+      "language": "systemverilog"
+    },
+    {
+      "title": "chipsalliance / caliptra-rtl",
+      "url": "https://github.com/chipsalliance/caliptra-rtl",
+      "description": "HW Design Collateral for Caliptra RoT IP",
+      "language": "systemverilog"
+    },
+    {
+      "title": "pulp-platform / axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "language": "systemverilog"
+    },
+    {
+      "title": "chipsalliance / i3c-core",
+      "url": "https://github.com/chipsalliance/i3c-core",
+      "description": "",
+      "language": "systemverilog"
+    },
+    {
+      "title": "openhwgroup / cvw",
+      "url": "https://github.com/openhwgroup/cvw",
+      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+      "language": "systemverilog"
+    },
+    {
+      "title": "pulp-platform / common_cells",
+      "url": "https://github.com/pulp-platform/common_cells",
+      "description": "Common SystemVerilog components",
+      "language": "systemverilog"
+    },
+    {
+      "title": "lowRISC / ibex",
+      "url": "https://github.com/lowRISC/ibex",
+      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "language": "systemverilog"
+    },
+    {
+      "title": "chipsalliance / adams-bridge",
+      "url": "https://github.com/chipsalliance/adams-bridge",
+      "description": "Post-Quantum Cryptography IP Core (Crystals-Dilithium)",
+      "language": "systemverilog"
+    },
+    {
+      "title": "chipsalliance / caliptra-ss",
+      "url": "https://github.com/chipsalliance/caliptra-ss",
+      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
+      "language": "systemverilog"
+    },
+    {
+      "title": "pulp-platform / axi_riscv_atomics",
+      "url": "https://github.com/pulp-platform/axi_riscv_atomics",
+      "description": "AXI Adapter(s) for RISC-V Atomic Operations",
+      "language": "systemverilog"
+    }
+  ]
+}

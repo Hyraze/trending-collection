@@ -1,0 +1,44 @@
+{
+  "title": "GitHub Verilog Languages Daily Trending",
+  "description": "Daily Trending of Verilog Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 16:20:24 GMT",
+  "items": [
+    {
+      "title": "analogdevicesinc / hdl",
+      "url": "https://github.com/analogdevicesinc/hdl",
+      "description": "HDL libraries and projects",
+      "language": "verilog"
+    },
+    {
+      "title": "YosysHQ / picorv32",
+      "url": "https://github.com/YosysHQ/picorv32",
+      "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
+      "language": "verilog"
+    },
+    {
+      "title": "vortexgpgpu / vortex",
+      "url": "https://github.com/vortexgpgpu/vortex",
+      "description": "",
+      "language": "verilog"
+    },
+    {
+      "title": "The-OpenROAD-Project / OpenROAD",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+      "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+      "language": "verilog"
+    },
+    {
+      "title": "EttusResearch / uhd",
+      "url": "https://github.com/EttusResearch/uhd",
+      "description": "The USRP™ Hardware Driver Repository",
+      "language": "verilog"
+    },
+    {
+      "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
+      "language": "verilog"
+    }
+  ]
+}

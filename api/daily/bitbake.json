@@ -1,0 +1,98 @@
+{
+  "title": "GitHub Bitbake Languages Daily Trending",
+  "description": "Daily Trending of Bitbake Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 16:20:24 GMT",
+  "items": [
+    {
+      "title": "qualcomm-linux / meta-qcom",
+      "url": "https://github.com/qualcomm-linux/meta-qcom",
+      "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
+      "language": "bitbake"
+    },
+    {
+      "title": "sbabic / meta-swupdate",
+      "url": "https://github.com/sbabic/meta-swupdate",
+      "description": "Yocto receipes to generate a swupdate rootfilesystem as initrd",
+      "language": "bitbake"
+    },
+    {
+      "title": "aws4embeddedlinux / meta-aws",
+      "url": "https://github.com/aws4embeddedlinux/meta-aws",
+      "description": "The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.",
+      "language": "bitbake"
+    },
+    {
+      "title": "openembedded / meta-openembedded",
+      "url": "https://github.com/openembedded/meta-openembedded",
+      "description": "",
+      "language": "bitbake"
+    },
+    {
+      "title": "mendersoftware / meta-mender",
+      "url": "https://github.com/mendersoftware/meta-mender",
+      "description": "Yocto Project meta layer for the Mender client",
+      "language": "bitbake"
+    },
+    {
+      "title": "OE4T / meta-tegra",
+      "url": "https://github.com/OE4T/meta-tegra",
+      "description": "BSP layer for NVIDIA Jetson platforms, based on L4T",
+      "language": "bitbake"
+    },
+    {
+      "title": "rauc / meta-rauc",
+      "url": "https://github.com/rauc/meta-rauc",
+      "description": "Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework",
+      "language": "bitbake"
+    },
+    {
+      "title": "kraj / meta-clang",
+      "url": "https://github.com/kraj/meta-clang",
+      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
+      "language": "bitbake"
+    },
+    {
+      "title": "nxp-imx / meta-imx",
+      "url": "https://github.com/nxp-imx/meta-imx",
+      "description": "i.MX Yocto Project i.MX BSP Layer",
+      "language": "bitbake"
+    },
+    {
+      "title": "OSSystems / meta-browser",
+      "url": "https://github.com/OSSystems/meta-browser",
+      "description": "OpenEmbedded/Yocto BSP layer for Web Browsers",
+      "language": "bitbake"
+    },
+    {
+      "title": "meta-qt5 / meta-qt5",
+      "url": "https://github.com/meta-qt5/meta-qt5",
+      "description": "QT5 layer for openembedded",
+      "language": "bitbake"
+    },
+    {
+      "title": "ros / meta-ros",
+      "url": "https://github.com/ros/meta-ros",
+      "description": "OpenEmbedded Layers for ROS 1 and ROS 2",
+      "language": "bitbake"
+    },
+    {
+      "title": "openembedded / openembedded-core",
+      "url": "https://github.com/openembedded/openembedded-core",
+      "description": "The official Git repository is at https://git.openembedded.org/openembedded-core/.",
+      "language": "bitbake"
+    },
+    {
+      "title": "rust-embedded / meta-rust-bin",
+      "url": "https://github.com/rust-embedded/meta-rust-bin",
+      "description": "Yocto layer for installing Rust toolchain from pre-built binaries",
+      "language": "bitbake"
+    },
+    {
+      "title": "Freescale / meta-freescale",
+      "url": "https://github.com/Freescale/meta-freescale",
+      "description": "Layer containing NXP hardware support metadata",
+      "language": "bitbake"
+    }
+  ]
+}

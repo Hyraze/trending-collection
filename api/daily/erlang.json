@@ -1,0 +1,80 @@
+{
+  "title": "GitHub Erlang Languages Daily Trending",
+  "description": "Daily Trending of Erlang Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 16:20:24 GMT",
+  "items": [
+    {
+      "title": "WhatsApp / erlfmt",
+      "url": "https://github.com/WhatsApp/erlfmt",
+      "description": "An automated code formatter for Erlang",
+      "language": "erlang"
+    },
+    {
+      "title": "erlang-lager / lager",
+      "url": "https://github.com/erlang-lager/lager",
+      "description": "A logging framework for Erlang/OTP",
+      "language": "erlang"
+    },
+    {
+      "title": "ninenines / cowboy",
+      "url": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "erlang"
+    },
+    {
+      "title": "emqx / emqx",
+      "url": "https://github.com/emqx/emqx",
+      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+      "language": "erlang"
+    },
+    {
+      "title": "ninenines / ranch",
+      "url": "https://github.com/ninenines/ranch",
+      "description": "Socket acceptor pool for TCP protocols.",
+      "language": "erlang"
+    },
+    {
+      "title": "eproxus / meck",
+      "url": "https://github.com/eproxus/meck",
+      "description": "A mocking library for Erlang",
+      "language": "erlang"
+    },
+    {
+      "title": "blt / port_compiler",
+      "url": "https://github.com/blt/port_compiler",
+      "description": "A rebar3 port compiler",
+      "language": "erlang"
+    },
+    {
+      "title": "ninenines / cowlib",
+      "url": "https://github.com/ninenines/cowlib",
+      "description": "Support library for manipulating Web protocols.",
+      "language": "erlang"
+    },
+    {
+      "title": "proper-testing / proper",
+      "url": "https://github.com/proper-testing/proper",
+      "description": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+      "language": "erlang"
+    },
+    {
+      "title": "potatosalad / erlang-jose",
+      "url": "https://github.com/potatosalad/erlang-jose",
+      "description": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+      "language": "erlang"
+    },
+    {
+      "title": "erlang / otp",
+      "url": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "erlang"
+    },
+    {
+      "title": "talentdeficit / jsx",
+      "url": "https://github.com/talentdeficit/jsx",
+      "description": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+      "language": "erlang"
+    }
+  ]
+}

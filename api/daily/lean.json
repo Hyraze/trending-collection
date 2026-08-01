@@ -1,0 +1,38 @@
+{
+  "title": "GitHub Lean Languages Daily Trending",
+  "description": "Daily Trending of Lean Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 16:20:24 GMT",
+  "items": [
+    {
+      "title": "harbor-framework / terminal-bench-science",
+      "url": "https://github.com/harbor-framework/terminal-bench-science",
+      "description": "Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
+      "language": "lean"
+    },
+    {
+      "title": "leanprover / lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
+      "language": "lean"
+    },
+    {
+      "title": "leanprover-community / iris-lean",
+      "url": "https://github.com/leanprover-community/iris-lean",
+      "description": "Lean 4 port of Iris, a higher-order concurrent separation logic framework",
+      "language": "lean"
+    },
+    {
+      "title": "digama0 / lean4lean",
+      "url": "https://github.com/digama0/lean4lean",
+      "description": "Lean 4 kernel / 'external checker' written in Lean 4",
+      "language": "lean"
+    },
+    {
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
+      "language": "lean"
+    }
+  ]
+}

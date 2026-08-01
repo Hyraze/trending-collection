@@ -1,0 +1,86 @@
+{
+  "title": "GitHub Fortran Languages Daily Trending",
+  "description": "Daily Trending of Fortran Languages in GitHub",
+  "link": "https://github.com/trending",
+  "pubDate": "Sat, 01 Aug 2026 16:20:24 GMT",
+  "items": [
+    {
+      "title": "GEOS-ESM / MAPL",
+      "url": "https://github.com/GEOS-ESM/MAPL",
+      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
+      "language": "fortran"
+    },
+    {
+      "title": "MetOffice / lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
+      "language": "fortran"
+    },
+    {
+      "title": "GEOS-ESM / GOCART",
+      "url": "https://github.com/GEOS-ESM/GOCART",
+      "description": "GOCART Aerosol model including process library and framework interfaces (MAPL, NUOPC, and CCPP)",
+      "language": "fortran"
+    },
+    {
+      "title": "ecmwf / fckit",
+      "url": "https://github.com/ecmwf/fckit",
+      "description": "A Fortran toolkit for interoperating Fortran with C/C++",
+      "language": "fortran"
+    },
+    {
+      "title": "ecmwf-ifs / ectrans",
+      "url": "https://github.com/ecmwf-ifs/ectrans",
+      "description": "Efficient and scalable spectral transforms",
+      "language": "fortran"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "fortran"
+    },
+    {
+      "title": "ufs-community / ufs-weather-model",
+      "url": "https://github.com/ufs-community/ufs-weather-model",
+      "description": "UFS Weather Model",
+      "language": "fortran"
+    },
+    {
+      "title": "MetOffice / lfric_apps",
+      "url": "https://github.com/MetOffice/lfric_apps",
+      "description": "LFRic Applications",
+      "language": "fortran"
+    },
+    {
+      "title": "OpenFAST / openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "language": "fortran"
+    },
+    {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "fortran"
+    },
+    {
+      "title": "firemodels / fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "fortran"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "fortran"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "fortran"
+    }
+  ]
+}
