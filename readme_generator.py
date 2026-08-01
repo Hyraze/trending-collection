@@ -217,6 +217,39 @@ def render_readme(today_entries, last7, hall_of_fame, new_this_month, total_days
     archive_links = ' · '.join(f'[{y}](./{y}/)' for y in sorted(year_list, reverse=True))
     lines += ['## 🗄 Archive', '', archive_links, '']
 
+    # API & RSS Usage
+    lines += [
+        '## 🚀 JSON API & RSS Feeds',
+        '_This repository provides a free, static JSON API and RSS feeds for GitHub Trending repositories, supporting 700+ languages._',
+        '',
+        '### Endpoints',
+        '- **JSON (All)**: `https://cdn.jsdelivr.net/gh/Hyraze/trending-collection@main/api/daily/all.json`',
+        '- **JSON (Specific)**: `https://cdn.jsdelivr.net/gh/Hyraze/trending-collection@main/api/daily/{language}.json`',
+        '- **RSS (All)**: `https://cdn.jsdelivr.net/gh/Hyraze/trending-collection@main/api/daily/all.xml`',
+        '- **RSS (Specific)**: `https://cdn.jsdelivr.net/gh/Hyraze/trending-collection@main/api/daily/{language}.xml`',
+        '',
+        '> Replace `{language}` with the lowercase language name (e.g., `python`, `c++`, `javascript`). For spaces, use hyphens (e.g., `1c-enterprise`). We support all 700+ GitHub languages.',
+        '',
+        '### Example Response (`python.json`)',
+        '```json',
+        '{',
+        '  "title": "GitHub Python Languages Daily Trending",',
+        '  "description": "Daily Trending of Python Languages in GitHub",',
+        '  "link": "https://github.com/trending",',
+        '  "pubDate": "Sat, 01 Aug 2026 14:36:06 GMT",',
+        '  "items": [',
+        '    {',
+        '      "title": "user/repo",',
+        '      "url": "https://github.com/user/repo",',
+        '      "description": "Repository description here",',
+        '      "language": "python"',
+        '    }',
+        '  ]',
+        '}',
+        '```',
+        ''
+    ]
+
     return '\n'.join(lines)
 
 

@@ -6,6 +6,7 @@ import os
 import tempfile
 import json
 import time
+import html
 
 import requests
 from pyquery import PyQuery as pq
@@ -117,12 +118,28 @@ def write_day(root: str, date: str, content: str) -> str:
 
 
 def write_api_json(root: str, sections: dict[str, list[dict]]) -> None:
-    """Generate JSON API files for each language and an all.json."""
+    """Generate JSON and XML (RSS) API files for each language and an all.json/xml."""
     api_dir = os.path.join(root, 'api', 'daily')
     os.makedirs(api_dir, exist_ok=True)
     
     pub_date = datetime.datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
     all_items = []
+    
+    def generate_rss(title, desc, link, pub_date, items):
+        xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0">', '<channel>']
+        xml.append(f'  <title>{html.escape(title)}</title>')
+        xml.append(f'  <description>{html.escape(desc)}</description>')
+        xml.append(f'  <link>{html.escape(link)}</link>')
+        xml.append(f'  <pubDate>{pub_date}</pubDate>')
+        for item in items:
+            xml.append('  <item>')
+            xml.append(f'    <title>{html.escape(item["title"])}</title>')
+            xml.append(f'    <link>{html.escape(item["url"])}</link>')
+            xml.append(f'    <description>{html.escape(item["description"])}</description>')
+            xml.append('  </item>')
+        xml.append('</channel>')
+        xml.append('</rss>')
+        return '\n'.join(xml)
     
     for language, repos in sections.items():
         if not repos:
@@ -139,10 +156,14 @@ def write_api_json(root: str, sections: dict[str, list[dict]]) -> None:
             items.append(item)
             all_items.append(item)
             
+        title = f"GitHub {language.capitalize()} Languages Daily Trending"
+        desc = f"Daily Trending of {language.capitalize()} Languages in GitHub"
+        link = "https://github.com/trending"
+        
         lang_data = {
-            "title": f"GitHub {language.capitalize()} Languages Daily Trending",
-            "description": f"Daily Trending of {language.capitalize()} Languages in GitHub",
-            "link": "https://github.com/trending",
+            "title": title,
+            "description": desc,
+            "link": link,
             "pubDate": pub_date,
             "items": items
         }
@@ -150,16 +171,24 @@ def write_api_json(root: str, sections: dict[str, list[dict]]) -> None:
         with open(os.path.join(api_dir, f"{language}.json"), 'w', encoding='utf-8') as f:
             json.dump(lang_data, f, indent=2, ensure_ascii=False)
             
-    # Write all.json
+        with open(os.path.join(api_dir, f"{language}.xml"), 'w', encoding='utf-8') as f:
+            f.write(generate_rss(title, desc, link, pub_date, items))
+            
+    # Write all.json and all.xml
+    all_title = "GitHub Daily Trending"
+    all_desc = "Daily Trending of All Languages in GitHub"
     all_data = {
-        "title": "GitHub Daily Trending",
-        "description": "Daily Trending of All Languages in GitHub",
-        "link": "https://github.com/trending",
+        "title": all_title,
+        "description": all_desc,
+        "link": link,
         "pubDate": pub_date,
         "items": all_items
     }
     with open(os.path.join(api_dir, "all.json"), 'w', encoding='utf-8') as f:
         json.dump(all_data, f, indent=2, ensure_ascii=False)
+        
+    with open(os.path.join(api_dir, "all.xml"), 'w', encoding='utf-8') as f:
+        f.write(generate_rss(all_title, all_desc, link, pub_date, all_items))
 
 
 def job(root: str = '.', today: datetime.date | None = None) -> str:
