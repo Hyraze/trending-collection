@@ -124,7 +124,7 @@ def write_api_json(root: str, sections: dict[str, list[dict]], since: str = 'dai
     api_dir = os.path.join(root, 'api', since)
     os.makedirs(api_dir, exist_ok=True)
     
-    pub_date = datetime.datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
+    pub_date = datetime.datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
     all_items = []
     
     def generate_rss(title, desc, link, pub_date, items):
