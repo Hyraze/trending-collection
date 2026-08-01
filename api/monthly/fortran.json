@@ -2,91 +2,147 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "wrf-model / WRF",
       "url": "https://github.com/wrf-model/WRF",
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1723,
+      "forks": 867,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "firemodels / fds",
       "url": "https://github.com/firemodels/fds",
       "description": "Fire Dynamics Simulator",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 856,
+      "forks": 687,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "OpenFAST / openfast",
       "url": "https://github.com/OpenFAST/openfast",
       "description": "Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 942,
+      "forks": 532,
+      "added_stars": "18 stars this month"
     },
     {
       "title": "MCSclimate / MCT",
       "url": "https://github.com/MCSclimate/MCT",
       "description": "Model Coupling Tookit",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 54,
+      "forks": 19,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "MetOffice / lfric_core",
       "url": "https://github.com/MetOffice/lfric_core",
       "description": "LFRic Infrastructure",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 26,
+      "forks": 67,
+      "added_stars": "1 star this month"
     },
     {
       "title": "MITgcm / MITgcm",
       "url": "https://github.com/MITgcm/MITgcm",
       "description": "M.I.T General Circulation Model master code and documentation repository",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 403,
+      "forks": 293,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "cp2k / cp2k",
       "url": "https://github.com/cp2k/cp2k",
       "description": "Quantum chemistry and solid state physics software package",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1175,
+      "forks": 492,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "MetOffice / lfric_apps",
       "url": "https://github.com/MetOffice/lfric_apps",
       "description": "LFRic Applications",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 31,
+      "forks": 108,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "NGEET / fates",
       "url": "https://github.com/NGEET/fates",
       "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 129,
+      "forks": 109,
+      "added_stars": "1 star this month"
     },
     {
       "title": "ElmerCSC / elmerfem",
       "url": "https://github.com/ElmerCSC/elmerfem",
       "description": "Official git repository of Elmer FEM software",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1646,
+      "forks": 390,
+      "added_stars": "32 stars this month"
     },
     {
       "title": "JuliaPackaging / Yggdrasil",
       "url": "https://github.com/JuliaPackaging/Yggdrasil",
       "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 401,
+      "forks": 744,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "grimme-lab / xtb",
       "url": "https://github.com/grimme-lab/xtb",
       "description": "Semiempirical Extended Tight-Binding Program Package",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 822,
+      "forks": 201,
+      "added_stars": "16 stars this month"
     },
     {
       "title": "E3SM-Project / E3SM",
       "url": "https://github.com/E3SM-Project/E3SM",
       "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 436,
+      "forks": 474,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "ecmwf / fckit",
       "url": "https://github.com/ecmwf/fckit",
       "description": "A Fortran toolkit for interoperating Fortran with C/C++",
-      "language": "fortran"
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 48,
+      "forks": 21,
+      "added_stars": "0 stars this month"
     }
   ]
 }

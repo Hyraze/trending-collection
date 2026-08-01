@@ -2,115 +2,187 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 198731,
+      "forks": 17119,
+      "added_stars": "47,107 stars this month"
     },
     {
       "title": "cloudflare / skills",
       "url": "https://github.com/cloudflare/skills",
       "description": "Skills for teaching agents how to build on Cloudflare.",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2522,
+      "forks": 239,
+      "added_stars": "520 stars this month"
     },
     {
       "title": "pystardust / ani-cli",
       "url": "https://github.com/pystardust/ani-cli",
       "description": "A cli tool to browse and play anime",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 13401,
+      "forks": 848,
+      "added_stars": "688 stars this month"
     },
     {
       "title": "fujibee / agmsg",
       "url": "https://github.com/fujibee/agmsg",
       "description": "Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1366,
+      "forks": 124,
+      "added_stars": "445 stars this month"
     },
     {
       "title": "ohmyzsh / ohmyzsh",
       "url": "https://github.com/ohmyzsh/ohmyzsh",
       "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 188937,
+      "forks": 26530,
+      "added_stars": "1,129 stars this month"
     },
     {
       "title": "nvm-sh / nvm",
       "url": "https://github.com/nvm-sh/nvm",
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 94311,
+      "forks": 10306,
+      "added_stars": "473 stars this month"
     },
     {
       "title": "jqssun / android-titanium-browser",
       "url": "https://github.com/jqssun/android-titanium-browser",
       "description": "Secure open-source Android browser with support for extensions",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1824,
+      "forks": 66,
+      "added_stars": "508 stars this month"
     },
     {
       "title": "termux / termux-packages",
       "url": "https://github.com/termux/termux-packages",
       "description": "A package build system for Termux.",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 16699,
+      "forks": 4271,
+      "added_stars": "229 stars this month"
     },
     {
       "title": "PrismML-Eng / Bonsai-demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "description": "Bonsai Demo",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2131,
+      "forks": 216,
+      "added_stars": "1,264 stars this month"
     },
     {
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 264738,
+      "forks": 23635,
+      "added_stars": "22,966 stars this month"
     },
     {
       "title": "1N3 / Sn1per",
       "url": "https://github.com/1N3/Sn1per",
       "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 10678,
+      "forks": 2137,
+      "added_stars": "449 stars this month"
     },
     {
       "title": "themactep / thingino-firmware",
       "url": "https://github.com/themactep/thingino-firmware",
       "description": "Open-source firmware for Ingenic SoC IP cameras",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1913,
+      "forks": 275,
+      "added_stars": "145 stars this month"
     },
     {
       "title": "assafdori / bypass-mdm",
       "url": "https://github.com/assafdori/bypass-mdm",
       "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2030,
+      "forks": 483,
+      "added_stars": "163 stars this month"
     },
     {
       "title": "acmesh-official / acme.sh",
       "url": "https://github.com/acmesh-official/acme.sh",
       "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 47365,
+      "forks": 5648,
+      "added_stars": "380 stars this month"
     },
     {
       "title": "CISOfy / lynis",
       "url": "https://github.com/CISOfy/lynis",
       "description": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 16091,
+      "forks": 1617,
+      "added_stars": "244 stars this month"
     },
     {
       "title": "ophub / amlogic-s9xxx-armbian",
       "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
       "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9541,
+      "forks": 3066,
+      "added_stars": "180 stars this month"
     },
     {
       "title": "docker-mailserver / docker-mailserver",
       "url": "https://github.com/docker-mailserver/docker-mailserver",
       "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 18650,
+      "forks": 2036,
+      "added_stars": "231 stars this month"
     },
     {
       "title": "bats-core / bats-core",
       "url": "https://github.com/bats-core/bats-core",
       "description": "Bash Automated Testing System",
-      "language": "shell"
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 6185,
+      "forks": 486,
+      "added_stars": "56 stars this month"
     }
   ]
 }

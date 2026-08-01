@@ -2,103 +2,167 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepEP",
       "url": "https://github.com/deepseek-ai/DeepEP",
       "description": "DeepEP: an efficient expert-parallel communication library",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 9930,
+      "forks": 1358,
+      "added_stars": "44 stars this week"
     },
     {
       "title": "thu-ml / SageAttention",
       "url": "https://github.com/thu-ml/SageAttention",
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3526,
+      "forks": 447,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "NVIDIA / nccl-tests",
       "url": "https://github.com/NVIDIA/nccl-tests",
       "description": "NCCL Tests",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1611,
+      "forks": 395,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
       "url": "https://github.com/deepseek-ai/DeepGEMM",
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 7595,
+      "forks": 1140,
+      "added_stars": "39 stars this week"
     },
     {
       "title": "BBuf / how-to-optim-algorithm-in-cuda",
       "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
       "description": "how to optimize some algorithm in cuda.",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3176,
+      "forks": 287,
+      "added_stars": "29 stars this week"
     },
     {
       "title": "NVIDIA / cuvs",
       "url": "https://github.com/NVIDIA/cuvs",
       "description": "cuVS - a library for vector search and clustering on the GPU",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 829,
+      "forks": 215,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "NVIDIA / nvbench",
       "url": "https://github.com/NVIDIA/nvbench",
       "description": "CUDA Kernel Benchmarking Library",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 914,
+      "forks": 115,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "karpathy / llm.c",
       "url": "https://github.com/karpathy/llm.c",
       "description": "LLM training in simple, raw C/CUDA",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 30690,
+      "forks": 3712,
+      "added_stars": "61 stars this week"
     },
     {
       "title": "NVlabs / instant-ngp",
       "url": "https://github.com/NVlabs/instant-ngp",
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 17509,
+      "forks": 2066,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "alibaba / rtp-llm",
       "url": "https://github.com/alibaba/rtp-llm",
       "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1292,
+      "forks": 249,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "Dao-AILab / causal-conv1d",
       "url": "https://github.com/Dao-AILab/causal-conv1d",
       "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 928,
+      "forks": 204,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "mirage-project / mirage",
       "url": "https://github.com/mirage-project/mirage",
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2401,
+      "forks": 236,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "HigherOrderCO / HVM2",
       "url": "https://github.com/HigherOrderCO/HVM2",
       "description": "A massively parallel, optimal functional runtime in Rust",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 11334,
+      "forks": 439,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "NVIDIA / cuopt",
       "url": "https://github.com/NVIDIA/cuopt",
       "description": "GPU accelerated decision optimization",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 993,
+      "forks": 217,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "NVIDIA / cub",
       "url": "https://github.com/NVIDIA/cub",
       "description": "[ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1841,
+      "forks": 463,
+      "added_stars": "1 star this week"
     },
     {
       "title": "rapidsai / cugraph",
       "url": "https://github.com/rapidsai/cugraph",
       "description": "cuGraph - RAPIDS Graph Analytics Library",
-      "language": "cuda"
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2216,
+      "forks": 364,
+      "added_stars": "2 stars this week"
     }
   ]
 }

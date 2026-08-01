@@ -2,13 +2,17 @@
   "title": "GitHub Prolog Languages Daily Trending",
   "description": "Daily Trending of Prolog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "nasa-jpl / open-source-rover",
       "url": "https://github.com/nasa-jpl/open-source-rover",
       "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
-      "language": "prolog"
+      "language": "Prolog",
+      "languageColor": "#74283c",
+      "stars": 9550,
+      "forks": 1483,
+      "added_stars": "75 stars this month"
     }
   ]
 }

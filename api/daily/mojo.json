@@ -2,13 +2,17 @@
   "title": "GitHub Mojo Languages Daily Trending",
   "description": "Daily Trending of Mojo Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "modular / modular",
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "mojo"
+      "language": "Mojo",
+      "languageColor": "#ff4c1f",
+      "stars": 26640,
+      "forks": 2897,
+      "added_stars": "4 stars today"
     }
   ]
 }

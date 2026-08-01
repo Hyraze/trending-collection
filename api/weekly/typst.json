@@ -2,13 +2,17 @@
   "title": "GitHub Typst Languages Daily Trending",
   "description": "Daily Trending of Typst Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "touying-typ / touying",
       "url": "https://github.com/touying-typ/touying",
       "description": "Touying is a powerful package for creating presentation slides in Typst.",
-      "language": "typst"
+      "language": "Typst",
+      "languageColor": "#239dad",
+      "stars": 2263,
+      "forks": 83,
+      "added_stars": "11 stars this week"
     }
   ]
 }

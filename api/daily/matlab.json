@@ -2,19 +2,27 @@
   "title": "GitHub Matlab Languages Daily Trending",
   "description": "Daily Trending of Matlab Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "fieldtrip / fieldtrip",
       "url": "https://github.com/fieldtrip/fieldtrip",
       "description": "The MATLAB toolbox for MEG, EEG and iEEG analysis",
-      "language": "matlab"
+      "language": "MATLAB",
+      "languageColor": "#e16737",
+      "stars": 981,
+      "forks": 768,
+      "added_stars": "0 stars today"
     },
     {
       "title": "TadasBaltrusaitis / OpenFace",
       "url": "https://github.com/TadasBaltrusaitis/OpenFace",
       "description": "OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.",
-      "language": "matlab"
+      "language": "MATLAB",
+      "languageColor": "#e16737",
+      "stars": 7723,
+      "forks": 1913,
+      "added_stars": "1 star today"
     }
   ]
 }

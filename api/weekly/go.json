@@ -2,139 +2,227 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17407,
+      "forks": 1185,
+      "added_stars": "4,746 stars this week"
     },
     {
       "title": "yorukot / superfile",
       "url": "https://github.com/yorukot/superfile",
       "description": "Pretty fancy and modern terminal file manager",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 22069,
+      "forks": 744,
+      "added_stars": "2,748 stars this week"
     },
     {
       "title": "cli / cli",
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 45564,
+      "forks": 8801,
+      "added_stars": "179 stars this week"
     },
     {
       "title": "ollama / ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 177512,
+      "forks": 17225,
+      "added_stars": "756 stars this week"
     },
     {
       "title": "benbjohnson / litestream",
       "url": "https://github.com/benbjohnson/litestream",
       "description": "Streaming replication for SQLite.",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14154,
+      "forks": 384,
+      "added_stars": "194 stars this week"
     },
     {
       "title": "github / gh-stack",
       "url": "https://github.com/github/gh-stack",
       "description": "GitHub Stacked PRs",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 752,
+      "forks": 32,
+      "added_stars": "127 stars this week"
     },
     {
       "title": "github / gh-aw",
       "url": "https://github.com/github/gh-aw",
       "description": "GitHub Agentic Workflows",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4848,
+      "forks": 475,
+      "added_stars": "45 stars this week"
     },
     {
       "title": "wavetermdev / waveterm",
       "url": "https://github.com/wavetermdev/waveterm",
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 21888,
+      "forks": 1085,
+      "added_stars": "121 stars this week"
     },
     {
       "title": "Wei-Shaw / sub2api",
       "url": "https://github.com/Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 35510,
+      "forks": 7286,
+      "added_stars": "1,463 stars this week"
     },
     {
       "title": "evolution-foundation / evolution-go",
       "url": "https://github.com/evolution-foundation/evolution-go",
       "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 579,
+      "forks": 312,
+      "added_stars": "90 stars this week"
     },
     {
       "title": "infiniflow / ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 86566,
+      "forks": 10170,
+      "added_stars": "663 stars this week"
     },
     {
       "title": "rclone / rclone",
       "url": "https://github.com/rclone/rclone",
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 58868,
+      "forks": 5276,
+      "added_stars": "204 stars this week"
     },
     {
       "title": "grafana / gcx",
       "url": "https://github.com/grafana/gcx",
       "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 514,
+      "forks": 40,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "hatchet-dev / hatchet",
       "url": "https://github.com/hatchet-dev/hatchet",
       "description": "🪓 An orchestration engine for background tasks, AI agents, and durable workflows",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7646,
+      "forks": 459,
+      "added_stars": "63 stars this week"
     },
     {
       "title": "traefik / traefik",
       "url": "https://github.com/traefik/traefik",
       "description": "The Cloud Native Application Proxy",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 64217,
+      "forks": 6113,
+      "added_stars": "124 stars this week"
     },
     {
       "title": "micro-editor / micro",
       "url": "https://github.com/micro-editor/micro",
       "description": "A modern and intuitive terminal-based text editor",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 29249,
+      "forks": 1348,
+      "added_stars": "158 stars this week"
     },
     {
       "title": "xpzouying / xiaohongshu-mcp",
       "url": "https://github.com/xpzouying/xiaohongshu-mcp",
       "description": "MCP for xiaohongshu.com",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15018,
+      "forks": 2207,
+      "added_stars": "187 stars this week"
     },
     {
       "title": "Ed1s0nZ / CyberStrikeAI",
       "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
       "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5453,
+      "forks": 873,
+      "added_stars": "165 stars this week"
     },
     {
       "title": "temporalio / temporal",
       "url": "https://github.com/temporalio/temporal",
       "description": "Temporal service",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 22027,
+      "forks": 1785,
+      "added_stars": "197 stars this week"
     },
     {
       "title": "moby / moby",
       "url": "https://github.com/moby/moby",
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 71942,
+      "forks": 19109,
+      "added_stars": "68 stars this week"
     },
     {
       "title": "grafana / alloy",
       "url": "https://github.com/grafana/alloy",
       "description": "OpenTelemetry Collector distribution with programmable pipelines",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3399,
+      "forks": 674,
+      "added_stars": "34 stars this week"
     },
     {
       "title": "podman-container-tools / podman",
       "url": "https://github.com/podman-container-tools/podman",
       "description": "Podman: A tool for managing OCI containers and pods.",
-      "language": "go"
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 32418,
+      "forks": 3253,
+      "added_stars": "69 stars this week"
     }
   ]
 }

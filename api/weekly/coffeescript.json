@@ -2,19 +2,27 @@
   "title": "GitHub Coffeescript Languages Daily Trending",
   "description": "Daily Trending of Coffeescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "FelisCatus / SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
       "description": "No longer maintained, see pinned issues",
-      "language": "coffeescript"
+      "language": "CoffeeScript",
+      "languageColor": "#244776",
+      "stars": 22592,
+      "forks": 3616,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "ccd0 / 4chan-x",
       "url": "https://github.com/ccd0/4chan-x",
       "description": "Adds various features to anonymous imageboards.",
-      "language": "coffeescript"
+      "language": "CoffeeScript",
+      "languageColor": "#244776",
+      "stars": 1148,
+      "forks": 156,
+      "added_stars": "2 stars this week"
     }
   ]
 }

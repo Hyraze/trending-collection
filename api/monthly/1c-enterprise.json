@@ -2,19 +2,27 @@
   "title": "GitHub 1c-enterprise Languages Daily Trending",
   "description": "Daily Trending of 1c-enterprise Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "Pr-Mex / vanessa-automation",
       "url": "https://github.com/Pr-Mex/vanessa-automation",
       "description": "BDD в 1С",
-      "language": "1c-enterprise"
+      "language": "1C Enterprise",
+      "languageColor": "#814CCC",
+      "stars": 674,
+      "forks": 237,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "cpr1c / tools_ui_1c",
       "url": "https://github.com/cpr1c/tools_ui_1c",
       "description": "Универсальные инструменты 1С для управляемых форм",
-      "language": "1c-enterprise"
+      "language": "1C Enterprise",
+      "languageColor": "#814CCC",
+      "stars": 1090,
+      "forks": 281,
+      "added_stars": "21 stars this month"
     }
   ]
 }

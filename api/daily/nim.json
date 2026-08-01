@@ -2,13 +2,17 @@
   "title": "GitHub Nim Languages Daily Trending",
   "description": "Daily Trending of Nim Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "zedeus / nitter",
       "url": "https://github.com/zedeus/nitter",
       "description": "Alternative Twitter front-end",
-      "language": "nim"
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 13377,
+      "forks": 748,
+      "added_stars": "8 stars today"
     }
   ]
 }

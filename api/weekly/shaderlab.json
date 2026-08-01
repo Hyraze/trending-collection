@@ -2,37 +2,57 @@
   "title": "GitHub Shaderlab Languages Daily Trending",
   "description": "Daily Trending of Shaderlab Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "shinyflvre / Mate-Engine",
       "url": "https://github.com/shinyflvre/Mate-Engine",
       "description": "A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.",
-      "language": "shaderlab"
+      "language": "ShaderLab",
+      "languageColor": "#222c37",
+      "stars": 3476,
+      "forks": 290,
+      "added_stars": "41 stars this week"
     },
     {
       "title": "poiyomi / PoiyomiToonShader",
       "url": "https://github.com/poiyomi/PoiyomiToonShader",
       "description": "A feature rich toon shader for unity and VR Chat",
-      "language": "shaderlab"
+      "language": "ShaderLab",
+      "languageColor": "#222c37",
+      "stars": 1641,
+      "forks": 202,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "mob-sakai / SoftMaskForUGUI",
       "url": "https://github.com/mob-sakai/SoftMaskForUGUI",
       "description": "Enhance Unity UI (uGUI) with advanced soft-masking features to create more visually appealing effects!",
-      "language": "shaderlab"
+      "language": "ShaderLab",
+      "languageColor": "#222c37",
+      "stars": 2780,
+      "forks": 316,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "Another-Axiom / GT_CustomMapExample",
       "url": "https://github.com/Another-Axiom/GT_CustomMapExample",
       "description": "Public example Unity project for building and exporting custom GT maps",
-      "language": "shaderlab"
+      "language": "ShaderLab",
+      "languageColor": "#222c37",
+      "stars": 46,
+      "forks": 21,
+      "added_stars": "1 star this week"
     },
     {
       "title": "lilxyzw / lilToon",
       "url": "https://github.com/lilxyzw/lilToon",
       "description": "Feature-rich shaders for avatars",
-      "language": "shaderlab"
+      "language": "ShaderLab",
+      "languageColor": "#222c37",
+      "stars": 1513,
+      "forks": 178,
+      "added_stars": "10 stars this week"
     }
   ]
 }

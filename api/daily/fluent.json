@@ -2,19 +2,27 @@
   "title": "GitHub Fluent Languages Daily Trending",
   "description": "Daily Trending of Fluent Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "qarmin / czkawka",
       "url": "https://github.com/qarmin/czkawka",
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
-      "language": "fluent"
+      "language": "Fluent",
+      "languageColor": "#ffcc33",
+      "stars": 32440,
+      "forks": 1121,
+      "added_stars": "21 stars today"
     },
     {
       "title": "SlimeVR / SlimeVR-Server",
       "url": "https://github.com/SlimeVR/SlimeVR-Server",
       "description": "Server app for SlimeVR ecosystem",
-      "language": "fluent"
+      "language": "Fluent",
+      "languageColor": "#ffcc33",
+      "stars": 1025,
+      "forks": 242,
+      "added_stars": "1 star today"
     }
   ]
 }

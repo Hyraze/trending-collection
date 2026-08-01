@@ -2,13 +2,17 @@
   "title": "GitHub Nesc Languages Daily Trending",
   "description": "Daily Trending of Nesc Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "bdring / Grbl_Esp32",
       "url": "https://github.com/bdring/Grbl_Esp32",
       "description": "A port of Grbl CNC Firmware for ESP32",
-      "language": "nesc"
+      "language": "nesC",
+      "languageColor": "#94B0C7",
+      "stars": 1961,
+      "forks": 590,
+      "added_stars": "4 stars this week"
     }
   ]
 }

@@ -2,13 +2,17 @@
   "title": "GitHub Sqf Languages Daily Trending",
   "description": "Daily Trending of Sqf Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "acemod / ACE3",
       "url": "https://github.com/acemod/ACE3",
       "description": "Open-source realism mod for Arma 3",
-      "language": "sqf"
+      "language": "SQF",
+      "languageColor": "#3F3F3F",
+      "stars": 1098,
+      "forks": 762,
+      "added_stars": "7 stars this month"
     }
   ]
 }

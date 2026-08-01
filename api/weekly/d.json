@@ -2,37 +2,57 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "abraunegg / onedrive",
       "url": "https://github.com/abraunegg/onedrive",
       "description": "OneDrive Client for Linux",
-      "language": "d"
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 12656,
+      "forks": 913,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "Dadoum / Sideloader",
       "url": "https://github.com/Dadoum/Sideloader",
       "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
-      "language": "d"
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 985,
+      "forks": 138,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "Dadoum / anisette-v3-server",
       "url": "https://github.com/Dadoum/anisette-v3-server",
       "description": "sidestore's anisette-v3 compatible server",
-      "language": "d"
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 524,
+      "forks": 2286,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "dlang / dmd",
       "url": "https://github.com/dlang/dmd",
       "description": "dmd D Programming Language compiler",
-      "language": "d"
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 3293,
+      "forks": 710,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "dlang / phobos",
       "url": "https://github.com/dlang/phobos",
       "description": "The standard library of the D programming language",
-      "language": "d"
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 1253,
+      "forks": 772,
+      "added_stars": "1 star this week"
     }
   ]
 }

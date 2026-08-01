@@ -2,19 +2,27 @@
   "title": "GitHub Nunjucks Languages Daily Trending",
   "description": "Daily Trending of Nunjucks Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "GoogleChrome / web.dev",
       "url": "https://github.com/GoogleChrome/web.dev",
       "description": "The frontend, backend, and content source code for web.dev",
-      "language": "nunjucks"
+      "language": "Nunjucks",
+      "languageColor": "#3d8137",
+      "stars": 3613,
+      "forks": 1543,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "alphagov / govuk-design-system",
       "url": "https://github.com/alphagov/govuk-design-system",
       "description": "One place for service teams to find styles, components and patterns for designing government services.",
-      "language": "nunjucks"
+      "language": "Nunjucks",
+      "languageColor": "#3d8137",
+      "stars": 654,
+      "forks": 275,
+      "added_stars": "14 stars this month"
     }
   ]
 }

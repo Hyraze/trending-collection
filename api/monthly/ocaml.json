@@ -2,61 +2,97 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "ocaml / ocaml",
       "url": "https://github.com/ocaml/ocaml",
       "description": "The core OCaml system: compilers, runtime system, base libraries",
-      "language": "ocaml"
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 6505,
+      "forks": 1359,
+      "added_stars": "228 stars this month"
     },
     {
       "title": "semgrep / semgrep",
       "url": "https://github.com/semgrep/semgrep",
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
-      "language": "ocaml"
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 16074,
+      "forks": 1009,
+      "added_stars": "406 stars this month"
     },
     {
       "title": "opengrep / opengrep",
       "url": "https://github.com/opengrep/opengrep",
       "description": "🔎 Static code analysis engine to find security issues in code.",
-      "language": "ocaml"
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 2860,
+      "forks": 233,
+      "added_stars": "134 stars this month"
     },
     {
       "title": "MLstate / opalang",
       "url": "https://github.com/MLstate/opalang",
       "description": "The Opa Language for Web Application Development",
-      "language": "ocaml"
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 1265,
+      "forks": 127,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "MinaProtocol / mina",
       "url": "https://github.com/MinaProtocol/mina",
       "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
-      "language": "ocaml"
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 2116,
+      "forks": 583,
+      "added_stars": "8 stars this month"
     },
     {
       "title": "rocq-prover / rocq",
       "url": "https://github.com/rocq-prover/rocq",
       "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
-      "language": "ocaml"
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 5540,
+      "forks": 745,
+      "added_stars": "48 stars this month"
     },
     {
       "title": "AeneasVerif / aeneas",
       "url": "https://github.com/AeneasVerif/aeneas",
       "description": "A verification toolchain for Rust programs",
-      "language": "ocaml"
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 885,
+      "forks": 92,
+      "added_stars": "62 stars this month"
     },
     {
       "title": "bcpierce00 / unison",
       "url": "https://github.com/bcpierce00/unison",
       "description": "Unison file synchronizer",
-      "language": "ocaml"
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 5417,
+      "forks": 272,
+      "added_stars": "48 stars this month"
     },
     {
       "title": "semgrep / ocaml-tree-sitter-core",
       "url": "https://github.com/semgrep/ocaml-tree-sitter-core",
       "description": "OCaml code generator and runtime library for handling typed tree-sitter CSTs",
-      "language": "ocaml"
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 55,
+      "forks": 11,
+      "added_stars": "2 stars this month"
     }
   ]
 }

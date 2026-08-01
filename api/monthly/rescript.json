@@ -2,13 +2,17 @@
   "title": "GitHub Rescript Languages Daily Trending",
   "description": "Daily Trending of Rescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "rescript-lang / rescript",
       "url": "https://github.com/rescript-lang/rescript",
       "description": "ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.",
-      "language": "rescript"
+      "language": "ReScript",
+      "languageColor": "#ed5051",
+      "stars": 7428,
+      "forks": 485,
+      "added_stars": "31 stars this month"
     }
   ]
 }

@@ -2,13 +2,17 @@
   "title": "GitHub Gap Languages Daily Trending",
   "description": "Daily Trending of Gap Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "gap-system / gap",
       "url": "https://github.com/gap-system/gap",
       "description": "Main development repository for GAP - Groups, Algorithms, Programming, a System for Computational Discrete Algebra",
-      "language": "gap"
+      "language": "GAP",
+      "languageColor": "#0000cc",
+      "stars": 992,
+      "forks": 185,
+      "added_stars": "3 stars this week"
     }
   ]
 }

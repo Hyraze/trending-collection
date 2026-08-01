@@ -2,61 +2,97 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "The-OpenROAD-Project / OpenROAD",
       "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-      "language": "verilog"
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 2925,
+      "forks": 972,
+      "added_stars": "143 stars this month"
     },
     {
       "title": "YosysHQ / picorv32",
       "url": "https://github.com/YosysHQ/picorv32",
       "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
-      "language": "verilog"
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 4295,
+      "forks": 983,
+      "added_stars": "63 stars this month"
     },
     {
       "title": "OSCPU / yosys-sta",
       "url": "https://github.com/OSCPU/yosys-sta",
       "description": "",
-      "language": "verilog"
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 97,
+      "forks": 27,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "OpenPOWERFoundation / a2o",
       "url": "https://github.com/OpenPOWERFoundation/a2o",
       "description": "The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue. It is now being updated for compliancy and integration into open projects.",
-      "language": "verilog"
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 55,
+      "forks": 12,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
       "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
       "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
-      "language": "verilog"
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 696,
+      "forks": 516,
+      "added_stars": "34 stars this month"
     },
     {
       "title": "EttusResearch / uhd",
       "url": "https://github.com/EttusResearch/uhd",
       "description": "The USRP™ Hardware Driver Repository",
-      "language": "verilog"
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 1256,
+      "forks": 774,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "vortexgpgpu / vortex",
       "url": "https://github.com/vortexgpgpu/vortex",
       "description": "",
-      "language": "verilog"
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 2181,
+      "forks": 515,
+      "added_stars": "55 stars this month"
     },
     {
       "title": "The-OpenROAD-Project / OpenSTA",
       "url": "https://github.com/The-OpenROAD-Project/OpenSTA",
       "description": "OpenSTA engine",
-      "language": "verilog"
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 595,
+      "forks": 262,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "analogdevicesinc / hdl",
       "url": "https://github.com/analogdevicesinc/hdl",
       "description": "HDL libraries and projects",
-      "language": "verilog"
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 1982,
+      "forks": 1669,
+      "added_stars": "28 stars this month"
     }
   ]
 }

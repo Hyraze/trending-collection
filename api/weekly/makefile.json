@@ -2,103 +2,167 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "openwrt / packages",
       "url": "https://github.com/openwrt/packages",
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4568,
+      "forks": 3931,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "deepseek-ai / DeepSeek-LLM",
       "url": "https://github.com/deepseek-ai/DeepSeek-LLM",
       "description": "DeepSeek LLM: Let there be answers",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7178,
+      "forks": 1230,
+      "added_stars": "40 stars this week"
     },
     {
       "title": "ROCKNIX / distribution",
       "url": "https://github.com/ROCKNIX/distribution",
       "description": "",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1455,
+      "forks": 318,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "PartialVolume / shredos.x86_64",
       "url": "https://github.com/PartialVolume/shredos.x86_64",
       "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 3097,
+      "forks": 139,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "open-telemetry / opentelemetry-proto",
       "url": "https://github.com/open-telemetry/opentelemetry-proto",
       "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 798,
+      "forks": 318,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "awesome-selfhosted / awesome-selfhosted-data",
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
       "description": "machine-readable data for https://awesome-selfhosted.net",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1083,
+      "forks": 1217,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "geneontology / go-ontology",
       "url": "https://github.com/geneontology/go-ontology",
       "description": "Source ontology files for the Gene Ontology",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 249,
+      "forks": 47,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "dbt-labs / dbt-utils",
       "url": "https://github.com/dbt-labs/dbt-utils",
       "description": "Utility functions for dbt projects.",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1784,
+      "forks": 630,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "golang-standards / project-layout",
       "url": "https://github.com/golang-standards/project-layout",
       "description": "Standard Go Project Layout",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 56374,
+      "forks": 5430,
+      "added_stars": "50 stars this week"
     },
     {
       "title": "foostan / crkbd",
       "url": "https://github.com/foostan/crkbd",
       "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7574,
+      "forks": 1096,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "upbound / build",
       "url": "https://github.com/upbound/build",
       "description": "Upbound build and CI scripts",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 67,
+      "forks": 80,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "Ysurac / openmptcprouter",
       "url": "https://github.com/Ysurac/openmptcprouter",
       "description": "OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 2443,
+      "forks": 348,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "HaveAGitGat / Tdarr",
       "url": "https://github.com/HaveAGitGat/Tdarr",
       "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4252,
+      "forks": 120,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "open-telemetry / opentelemetry-specification",
       "url": "https://github.com/open-telemetry/opentelemetry-specification",
       "description": "Specifications for OpenTelemetry",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4294,
+      "forks": 992,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "roboyoshi / datacurator-filetree",
       "url": "https://github.com/roboyoshi/datacurator-filetree",
       "description": "a standard filetree for /r/datacurator [ and r/datahoarder ]",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1642,
+      "forks": 135,
+      "added_stars": "1 star this week"
     },
     {
       "title": "cncf / people",
       "url": "https://github.com/cncf/people",
       "description": "Stores the data that will populate the various people listings on cncf.io",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 173,
+      "forks": 642,
+      "added_stars": "1 star this week"
     }
   ]
 }

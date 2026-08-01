@@ -2,13 +2,17 @@
   "title": "GitHub Squirrel Languages Daily Trending",
   "description": "Daily Trending of Squirrel Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "Battle-Brothers-Legends / Legends-public",
       "url": "https://github.com/Battle-Brothers-Legends/Legends-public",
       "description": "",
-      "language": "squirrel"
+      "language": "Squirrel",
+      "languageColor": "#800000",
+      "stars": 74,
+      "forks": 36,
+      "added_stars": "1 star this week"
     }
   ]
 }

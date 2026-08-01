@@ -2,13 +2,17 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "rundeck / rundeck",
       "url": "https://github.com/rundeck/rundeck",
       "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
-      "language": "groovy"
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 6250,
+      "forks": 984,
+      "added_stars": "2 stars today"
     }
   ]
 }

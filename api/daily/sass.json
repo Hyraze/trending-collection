@@ -2,13 +2,17 @@
   "title": "GitHub Sass Languages Daily Trending",
   "description": "Daily Trending of Sass Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "readthedocs / sphinx_rtd_theme",
       "url": "https://github.com/readthedocs/sphinx_rtd_theme",
       "description": "Sphinx theme from Read the Docs",
-      "language": "sass"
+      "language": "Sass",
+      "languageColor": "#a53b70",
+      "stars": 5075,
+      "forks": 1839,
+      "added_stars": "0 stars today"
     }
   ]
 }

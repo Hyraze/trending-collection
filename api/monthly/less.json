@@ -2,25 +2,37 @@
   "title": "GitHub Less Languages Daily Trending",
   "description": "Daily Trending of Less Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "jerrykuku / luci-theme-argon",
       "url": "https://github.com/jerrykuku/luci-theme-argon",
       "description": "Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.",
-      "language": "less"
+      "language": "Less",
+      "languageColor": "#1d365d",
+      "stars": 5402,
+      "forks": 942,
+      "added_stars": "64 stars this month"
     },
     {
       "title": "Remix-Design / RemixIcon",
       "url": "https://github.com/Remix-Design/RemixIcon",
       "description": "Open source neutral style icon system",
-      "language": "less"
+      "language": "Less",
+      "languageColor": "#1d365d",
+      "stars": 8261,
+      "forks": 554,
+      "added_stars": "69 stars this month"
     },
     {
       "title": "catppuccin / userstyles",
       "url": "https://github.com/catppuccin/userstyles",
       "description": "🖌 Soothing pastel userstyles",
-      "language": "less"
+      "language": "Less",
+      "languageColor": "#1d365d",
+      "stars": 1101,
+      "forks": 290,
+      "added_stars": "11 stars this month"
     }
   ]
 }

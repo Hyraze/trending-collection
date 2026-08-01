@@ -2,43 +2,67 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "tabler / tabler",
       "url": "https://github.com/tabler/tabler",
       "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
-      "language": "astro"
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 41393,
+      "forks": 4395,
+      "added_stars": "4 stars today"
     },
     {
       "title": "saicaca / fuwari",
       "url": "https://github.com/saicaca/fuwari",
       "description": "✨A static blog template built with Astro.",
-      "language": "astro"
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 4853,
+      "forks": 1236,
+      "added_stars": "5 stars today"
     },
     {
       "title": "JustGoodUI / dante-astro-theme",
       "url": "https://github.com/JustGoodUI/dante-astro-theme",
       "description": "Dante, a single-author blog and portfolio theme for Astro.js.",
-      "language": "astro"
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 499,
+      "forks": 324,
+      "added_stars": "0 stars today"
     },
     {
       "title": "ColorlibHQ / AdminLTE",
       "url": "https://github.com/ColorlibHQ/AdminLTE",
       "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
-      "language": "astro"
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 45539,
+      "forks": 18182,
+      "added_stars": "2 stars today"
     },
     {
       "title": "CuteLeaf / Firefly",
       "url": "https://github.com/CuteLeaf/Firefly",
       "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
-      "language": "astro"
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 1785,
+      "forks": 1352,
+      "added_stars": "6 stars today"
     },
     {
       "title": "jcalado / voxdmr-site",
       "url": "https://github.com/jcalado/voxdmr-site",
       "description": "voxDMR: Apps for DMR talkgroups.",
-      "language": "astro"
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 35,
+      "forks": 6,
+      "added_stars": "0 stars today"
     }
   ]
 }

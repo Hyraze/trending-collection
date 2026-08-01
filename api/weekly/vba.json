@@ -2,13 +2,17 @@
   "title": "GitHub Vba Languages Daily Trending",
   "description": "Daily Trending of Vba Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "joyfullservice / msaccess-vcs-addin",
       "url": "https://github.com/joyfullservice/msaccess-vcs-addin",
       "description": "Synchronize your Access Forms, Macros, Modules, Queries, Reports, and more with a version control system.",
-      "language": "vba"
+      "language": "VBA",
+      "languageColor": "#867db1",
+      "stars": 345,
+      "forks": 73,
+      "added_stars": "3 stars this week"
     }
   ]
 }

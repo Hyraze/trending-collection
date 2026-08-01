@@ -2,13 +2,17 @@
   "title": "GitHub Gsc Languages Daily Trending",
   "description": "Daily Trending of Gsc Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "builtbybel / CleanmgrPlus",
       "url": "https://github.com/builtbybel/CleanmgrPlus",
       "description": "🐾 A Improved Replacement for Microsoft Disk Cleanup",
-      "language": "gsc"
+      "language": "GSC",
+      "languageColor": "#FF6800",
+      "stars": 754,
+      "forks": 68,
+      "added_stars": "1 star this month"
     }
   ]
 }

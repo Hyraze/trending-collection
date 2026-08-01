@@ -2,67 +2,107 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 4989,
+      "forks": 4403,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2075,
+      "forks": 1253,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3252,
+      "forks": 4631,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "hashicorp / terraform-provider-awscc",
       "url": "https://github.com/hashicorp/terraform-provider-awscc",
       "description": "Terraform AWS Cloud Control provider",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 313,
+      "forks": 151,
+      "added_stars": "1 star this week"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
       "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
       "description": "Configures opinionated GKE clusters",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1277,
+      "forks": 1274,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
       "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 582,
+      "forks": 3808,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-iam",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
       "description": "Terraform module to create AWS IAM resources 🇺🇦",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 865,
+      "forks": 1107,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1045,
+      "forks": 771,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "cashapp / hermit-packages",
       "url": "https://github.com/cashapp/hermit-packages",
       "description": "Hermit manages isolated, self-bootstrapping sets of tools in software projects.",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 159,
+      "forks": 185,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-ecs",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
       "description": "Terraform module to create AWS ECS resources 🇺🇦",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 674,
+      "forks": 666,
+      "added_stars": "0 stars this week"
     }
   ]
 }

@@ -2,31 +2,47 @@
   "title": "GitHub Shaderlab Languages Daily Trending",
   "description": "Daily Trending of Shaderlab Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "shinyflvre / Mate-Engine",
       "url": "https://github.com/shinyflvre/Mate-Engine",
       "description": "A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.",
-      "language": "shaderlab"
+      "language": "ShaderLab",
+      "languageColor": "#222c37",
+      "stars": 3476,
+      "forks": 290,
+      "added_stars": "158 stars this month"
     },
     {
       "title": "mob-sakai / SoftMaskForUGUI",
       "url": "https://github.com/mob-sakai/SoftMaskForUGUI",
       "description": "Enhance Unity UI (uGUI) with advanced soft-masking features to create more visually appealing effects!",
-      "language": "shaderlab"
+      "language": "ShaderLab",
+      "languageColor": "#222c37",
+      "stars": 2780,
+      "forks": 316,
+      "added_stars": "24 stars this month"
     },
     {
       "title": "poiyomi / PoiyomiToonShader",
       "url": "https://github.com/poiyomi/PoiyomiToonShader",
       "description": "A feature rich toon shader for unity and VR Chat",
-      "language": "shaderlab"
+      "language": "ShaderLab",
+      "languageColor": "#222c37",
+      "stars": 1641,
+      "forks": 202,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "lilxyzw / lilToon",
       "url": "https://github.com/lilxyzw/lilToon",
       "description": "Feature-rich shaders for avatars",
-      "language": "shaderlab"
+      "language": "ShaderLab",
+      "languageColor": "#222c37",
+      "stars": 1513,
+      "forks": 178,
+      "added_stars": "39 stars this month"
     }
   ]
 }

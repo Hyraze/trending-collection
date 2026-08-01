@@ -2,13 +2,17 @@
   "title": "GitHub Apex Languages Daily Trending",
   "description": "Daily Trending of Apex Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "jongpie / NebulaLogger",
       "url": "https://github.com/jongpie/NebulaLogger",
       "description": "The most robust observability solution for Salesforce experts. Built 100% natively on the platform, and designed to work seamlessly with Apex, Lightning Components, Flow, OmniStudio, and integrations.",
-      "language": "apex"
+      "language": "Apex",
+      "languageColor": "#1797c0",
+      "stars": 952,
+      "forks": 240,
+      "added_stars": "0 stars today"
     }
   ]
 }

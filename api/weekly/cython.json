@@ -2,25 +2,37 @@
   "title": "GitHub Cython Languages Daily Trending",
   "description": "Daily Trending of Cython Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "TA-Lib / ta-lib-python",
       "url": "https://github.com/TA-Lib/ta-lib-python",
       "description": "Python wrapper for TA-Lib (http://ta-lib.org/).",
-      "language": "cython"
+      "language": "Cython",
+      "languageColor": "#fedf5b",
+      "stars": 12159,
+      "forks": 1993,
+      "added_stars": "26 stars this week"
     },
     {
       "title": "NVIDIA / cuda-python",
       "url": "https://github.com/NVIDIA/cuda-python",
       "description": "CUDA Python: Performance meets Productivity",
-      "language": "cython"
+      "language": "Cython",
+      "languageColor": "#fedf5b",
+      "stars": 3329,
+      "forks": 315,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "cython / cython",
       "url": "https://github.com/cython/cython",
       "description": "The most widely used Python to C compiler",
-      "language": "cython"
+      "language": "Cython",
+      "languageColor": "#fedf5b",
+      "stars": 10802,
+      "forks": 1617,
+      "added_stars": "6 stars this week"
     }
   ]
 }

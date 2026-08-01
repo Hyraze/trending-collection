@@ -2,97 +2,157 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "GoogleContainerTools / distroless",
       "url": "https://github.com/GoogleContainerTools/distroless",
       "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 22899,
+      "forks": 1414,
+      "added_stars": "6 stars today"
     },
     {
       "title": "googleapis / googleapis",
       "url": "https://github.com/googleapis/googleapis",
       "description": "Public interface definitions of Google APIs.",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8661,
+      "forks": 2611,
+      "added_stars": "4 stars today"
     },
     {
       "title": "bazelbuild / rules_rust",
       "url": "https://github.com/bazelbuild/rules_rust",
       "description": "Rust rules for Bazel",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 826,
+      "forks": 634,
+      "added_stars": "1 star today"
     },
     {
       "title": "googleapis / api-common-protos",
       "url": "https://github.com/googleapis/api-common-protos",
       "description": "A standard library for use in specifying protocol buffer APIs.",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 265,
+      "forks": 59,
+      "added_stars": "0 stars today"
     },
     {
       "title": "tilt-dev / tilt-extensions",
       "url": "https://github.com/tilt-dev/tilt-extensions",
       "description": "Extensions for Tilt",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 242,
+      "forks": 191,
+      "added_stars": "0 stars today"
     },
     {
       "title": "openconfig / gnoi",
       "url": "https://github.com/openconfig/gnoi",
       "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 192,
+      "forks": 86,
+      "added_stars": "0 stars today"
     },
     {
       "title": "bazel-contrib / rules_distroless",
       "url": "https://github.com/bazel-contrib/rules_distroless",
       "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 100,
+      "forks": 70,
+      "added_stars": "0 stars today"
     },
     {
       "title": "grpc / grpc-proto",
       "url": "https://github.com/grpc/grpc-proto",
       "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 293,
+      "forks": 115,
+      "added_stars": "0 stars today"
     },
     {
       "title": "google / bazel-common",
       "url": "https://github.com/google/bazel-common",
       "description": "Common functionality for some Google open-source libraries that are built with Bazel",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 90,
+      "forks": 45,
+      "added_stars": "0 stars today"
     },
     {
       "title": "salesforce / rules_spring",
       "url": "https://github.com/salesforce/rules_spring",
       "description": "Bazel rule for building Spring Boot apps as a deployable jar",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 257,
+      "forks": 57,
+      "added_stars": "0 stars today"
     },
     {
       "title": "aspect-build / rules_py",
       "url": "https://github.com/aspect-build/rules_py",
       "description": "More compatible Bazel rules for running Python tools and building Python projects",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 143,
+      "forks": 97,
+      "added_stars": "0 stars today"
     },
     {
       "title": "coinbase / rules_ruby",
       "url": "https://github.com/coinbase/rules_ruby",
       "description": "Bazel Ruby Rules",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 30,
+      "forks": 12,
+      "added_stars": "0 stars today"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
       "url": "https://github.com/bazelbuild/bazel-central-registry",
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 378,
+      "forks": 828,
+      "added_stars": "0 stars today"
     },
     {
       "title": "cncf / xds",
       "url": "https://github.com/cncf/xds",
       "description": "xDS API Working Group",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 271,
+      "forks": 84,
+      "added_stars": "0 stars today"
     },
     {
       "title": "cel-expr / cel-spec",
       "url": "https://github.com/cel-expr/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
-      "language": "starlark"
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3918,
+      "forks": 304,
+      "added_stars": "2 stars today"
     }
   ]
 }

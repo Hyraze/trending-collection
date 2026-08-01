@@ -2,55 +2,87 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "erlang / otp",
       "url": "https://github.com/erlang/otp",
       "description": "Erlang/OTP",
-      "language": "erlang"
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 12315,
+      "forks": 3203,
+      "added_stars": "228 stars this month"
     },
     {
       "title": "emqx / emqx",
       "url": "https://github.com/emqx/emqx",
       "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
-      "language": "erlang"
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 16580,
+      "forks": 2541,
+      "added_stars": "153 stars this month"
     },
     {
       "title": "apache / couchdb",
       "url": "https://github.com/apache/couchdb",
       "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
-      "language": "erlang"
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 6932,
+      "forks": 1077,
+      "added_stars": "27 stars this month"
     },
     {
       "title": "blt / port_compiler",
       "url": "https://github.com/blt/port_compiler",
       "description": "A rebar3 port compiler",
-      "language": "erlang"
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 69,
+      "forks": 40,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "eproxus / meck",
       "url": "https://github.com/eproxus/meck",
       "description": "A mocking library for Erlang",
-      "language": "erlang"
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 839,
+      "forks": 230,
+      "added_stars": "1 star this month"
     },
     {
       "title": "processone / ejabberd",
       "url": "https://github.com/processone/ejabberd",
       "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
-      "language": "erlang"
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 6712,
+      "forks": 1547,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "ninenines / cowboy",
       "url": "https://github.com/ninenines/cowboy",
       "description": "Small, fast, modern HTTP server for Erlang/OTP.",
-      "language": "erlang"
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 7521,
+      "forks": 1168,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "rabbitmq / rabbitmq-delayed-message-exchange",
       "url": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
       "description": "Delayed Messaging for RabbitMQ",
-      "language": "erlang"
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 2312,
+      "forks": 160,
+      "added_stars": "3 stars this month"
     }
   ]
 }

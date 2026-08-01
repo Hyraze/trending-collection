@@ -2,115 +2,187 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepSeek-LLM",
       "url": "https://github.com/deepseek-ai/DeepSeek-LLM",
       "description": "DeepSeek LLM: Let there be answers",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7178,
+      "forks": 1230,
+      "added_stars": "265 stars this month"
     },
     {
       "title": "mindsdb / mindshub",
       "url": "https://github.com/mindsdb/mindshub",
       "description": "Make AI do actual work. Swap the model anytime — keep everything you've built.",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 39510,
+      "forks": 6226,
+      "added_stars": "202 stars this month"
     },
     {
       "title": "golang-standards / project-layout",
       "url": "https://github.com/golang-standards/project-layout",
       "description": "Standard Go Project Layout",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 56374,
+      "forks": 5430,
+      "added_stars": "214 stars this month"
     },
     {
       "title": "openwrt / packages",
       "url": "https://github.com/openwrt/packages",
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4568,
+      "forks": 3931,
+      "added_stars": "47 stars this month"
     },
     {
       "title": "foostan / crkbd",
       "url": "https://github.com/foostan/crkbd",
       "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7574,
+      "forks": 1096,
+      "added_stars": "85 stars this month"
     },
     {
       "title": "LibreELEC / LibreELEC.tv",
       "url": "https://github.com/LibreELEC/LibreELEC.tv",
       "description": "Just enough OS for KODI",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 2789,
+      "forks": 1192,
+      "added_stars": "18 stars this month"
     },
     {
       "title": "open-telemetry / opentelemetry-proto",
       "url": "https://github.com/open-telemetry/opentelemetry-proto",
       "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 798,
+      "forks": 318,
+      "added_stars": "1 star this month"
     },
     {
       "title": "ROCKNIX / distribution",
       "url": "https://github.com/ROCKNIX/distribution",
       "description": "",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1455,
+      "forks": 318,
+      "added_stars": "74 stars this month"
     },
     {
       "title": "HaveAGitGat / Tdarr",
       "url": "https://github.com/HaveAGitGat/Tdarr",
       "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4252,
+      "forks": 120,
+      "added_stars": "70 stars this month"
     },
     {
       "title": "freebsd / freebsd-ports",
       "url": "https://github.com/freebsd/freebsd-ports",
       "description": "FreeBSD ports tree (read-only mirror)",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1192,
+      "forks": 863,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "NetBSD / pkgsrc",
       "url": "https://github.com/NetBSD/pkgsrc",
       "description": "Automatic conversion of the NetBSD pkgsrc CVS module, use with care",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 395,
+      "forks": 182,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "geneontology / go-ontology",
       "url": "https://github.com/geneontology/go-ontology",
       "description": "Source ontology files for the Gene Ontology",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 249,
+      "forks": 47,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "awesome-selfhosted / awesome-selfhosted-data",
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
       "description": "machine-readable data for https://awesome-selfhosted.net",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1083,
+      "forks": 1217,
+      "added_stars": "60 stars this month"
     },
     {
       "title": "Ysurac / openmptcprouter",
       "url": "https://github.com/Ysurac/openmptcprouter",
       "description": "OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 2443,
+      "forks": 348,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "open-telemetry / opentelemetry-specification",
       "url": "https://github.com/open-telemetry/opentelemetry-specification",
       "description": "Specifications for OpenTelemetry",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4294,
+      "forks": 992,
+      "added_stars": "31 stars this month"
     },
     {
       "title": "cncf / people",
       "url": "https://github.com/cncf/people",
       "description": "Stores the data that will populate the various people listings on cncf.io",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 173,
+      "forks": 642,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "jobbole / awesome-python-cn",
       "url": "https://github.com/jobbole/awesome-python-cn",
       "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 30523,
+      "forks": 7946,
+      "added_stars": "95 stars this month"
     },
     {
       "title": "PartialVolume / shredos.x86_64",
       "url": "https://github.com/PartialVolume/shredos.x86_64",
       "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
-      "language": "makefile"
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 3097,
+      "forks": 139,
+      "added_stars": "47 stars this month"
     }
   ]
 }

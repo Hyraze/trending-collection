@@ -2,25 +2,37 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "aquaproj / aqua-registry",
       "url": "https://github.com/aquaproj/aqua-registry",
       "description": "aqua's Standard Registry",
-      "language": "yaml"
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 361,
+      "forks": 378,
+      "added_stars": "0 stars today"
     },
     {
       "title": "stashapp / CommunityScrapers",
       "url": "https://github.com/stashapp/CommunityScrapers",
       "description": "This is a public repository containing scrapers created by the Stash Community.",
-      "language": "yaml"
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 827,
+      "forks": 518,
+      "added_stars": "0 stars today"
     },
     {
       "title": "kubeflow / community-distribution",
       "url": "https://github.com/kubeflow/community-distribution",
       "description": "Kubeflow Community Distribution",
-      "language": "yaml"
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 1029,
+      "forks": 1069,
+      "added_stars": "0 stars today"
     }
   ]
 }

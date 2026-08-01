@@ -2,13 +2,17 @@
   "title": "GitHub Crystal Languages Daily Trending",
   "description": "Daily Trending of Crystal Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "iv-org / invidious",
       "url": "https://github.com/iv-org/invidious",
       "description": "Invidious is an alternative front-end to YouTube",
-      "language": "crystal"
+      "language": "Crystal",
+      "languageColor": "#000100",
+      "stars": 21533,
+      "forks": 2426,
+      "added_stars": "361 stars today"
     }
   ]
 }

@@ -2,25 +2,37 @@
   "title": "GitHub Papyrus Languages Daily Trending",
   "description": "Daily Trending of Papyrus Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "MinLL / SkyrimNet-GamePlugin",
       "url": "https://github.com/MinLL/SkyrimNet-GamePlugin",
       "description": "Public facing files for SkyrimNet",
-      "language": "papyrus"
+      "language": "Papyrus",
+      "languageColor": "#6600cc",
+      "stars": 277,
+      "forks": 41,
+      "added_stars": "30 stars this month"
     },
     {
       "title": "eeveelo / SexLab",
       "url": "https://github.com/eeveelo/SexLab",
       "description": "",
-      "language": "papyrus"
+      "language": "Papyrus",
+      "languageColor": "#6600cc",
+      "stars": 80,
+      "forks": 43,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "ProbablyManuel / requiem",
       "url": "https://github.com/ProbablyManuel/requiem",
       "description": "",
-      "language": "papyrus"
+      "language": "Papyrus",
+      "languageColor": "#6600cc",
+      "stars": 44,
+      "forks": 5,
+      "added_stars": "1 star this month"
     }
   ]
 }

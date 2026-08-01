@@ -2,13 +2,17 @@
   "title": "GitHub Rich-text-format Languages Daily Trending",
   "description": "Daily Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "mathoudebine / turing-smart-screen-python",
       "url": "https://github.com/mathoudebine/turing-smart-screen-python",
       "description": "Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen / TURZX",
-      "language": "rich-text-format"
+      "language": "Rich Text Format",
+      "languageColor": "#ccc",
+      "stars": 2182,
+      "forks": 388,
+      "added_stars": "1 star today"
     }
   ]
 }

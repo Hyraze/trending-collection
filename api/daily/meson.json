@@ -2,13 +2,17 @@
   "title": "GitHub Meson Languages Daily Trending",
   "description": "Daily Trending of Meson Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "frida / frida",
       "url": "https://github.com/frida/frida",
       "description": "Clone this repo to build Frida",
-      "language": "meson"
+      "language": "Meson",
+      "languageColor": "#007800",
+      "stars": 21491,
+      "forks": 2176,
+      "added_stars": "8 stars today"
     }
   ]
 }

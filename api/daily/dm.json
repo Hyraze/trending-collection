@@ -2,19 +2,27 @@
   "title": "GitHub Dm Languages Daily Trending",
   "description": "Daily Trending of Dm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "cmss13-devs / cmss13",
       "url": "https://github.com/cmss13-devs/cmss13",
       "description": "Contains the code for CM-SS13",
-      "language": "dm"
+      "language": "DM",
+      "languageColor": "#447265",
+      "stars": 172,
+      "forks": 933,
+      "added_stars": "0 stars today"
     },
     {
       "title": "TauCetiStation / TauCetiClassic",
       "url": "https://github.com/TauCetiStation/TauCetiClassic",
       "description": "Франкенштейн жив",
-      "language": "dm"
+      "language": "DM",
+      "languageColor": "#447265",
+      "stars": 158,
+      "forks": 442,
+      "added_stars": "0 stars today"
     }
   ]
 }

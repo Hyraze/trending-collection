@@ -2,31 +2,47 @@
   "title": "GitHub Yara Languages Daily Trending",
   "description": "Daily Trending of Yara Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "mthcht / awesome-lists",
       "url": "https://github.com/mthcht/awesome-lists",
       "description": "Awesome Security lists for SOC/CERT/CTI",
-      "language": "yara"
+      "language": "YARA",
+      "languageColor": "#220000",
+      "stars": 1836,
+      "forks": 224,
+      "added_stars": "163 stars this month"
     },
     {
       "title": "magicsword-io / LOLDrivers",
       "url": "https://github.com/magicsword-io/LOLDrivers",
       "description": "Living Off The Land Drivers",
-      "language": "yara"
+      "language": "YARA",
+      "languageColor": "#220000",
+      "stars": 1720,
+      "forks": 219,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "Yara-Rules / rules",
       "url": "https://github.com/Yara-Rules/rules",
       "description": "Repository of yara rules",
-      "language": "yara"
+      "language": "YARA",
+      "languageColor": "#220000",
+      "stars": 4863,
+      "forks": 1064,
+      "added_stars": "35 stars this month"
     },
     {
       "title": "Neo23x0 / signature-base",
       "url": "https://github.com/Neo23x0/signature-base",
       "description": "YARA signature and IOC database for my scanners and tools",
-      "language": "yara"
+      "language": "YARA",
+      "languageColor": "#220000",
+      "stars": 2997,
+      "forks": 673,
+      "added_stars": "17 stars this month"
     }
   ]
 }

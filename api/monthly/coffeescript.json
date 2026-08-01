@@ -2,25 +2,37 @@
   "title": "GitHub Coffeescript Languages Daily Trending",
   "description": "Daily Trending of Coffeescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "ccd0 / 4chan-x",
       "url": "https://github.com/ccd0/4chan-x",
       "description": "Adds various features to anonymous imageboards.",
-      "language": "coffeescript"
+      "language": "CoffeeScript",
+      "languageColor": "#244776",
+      "stars": 1148,
+      "forks": 156,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "dropbox / zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript"
+      "language": "CoffeeScript",
+      "languageColor": "#244776",
+      "stars": 16013,
+      "forks": 995,
+      "added_stars": "32 stars this month"
     },
     {
       "title": "FelisCatus / SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
       "description": "No longer maintained, see pinned issues",
-      "language": "coffeescript"
+      "language": "CoffeeScript",
+      "languageColor": "#244776",
+      "stars": 22592,
+      "forks": 3616,
+      "added_stars": "49 stars this month"
     }
   ]
 }

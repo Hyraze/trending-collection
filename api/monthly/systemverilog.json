@@ -2,37 +2,57 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "verilator / verilator",
       "url": "https://github.com/verilator/verilator",
       "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3797,
+      "forks": 864,
+      "added_stars": "89 stars this month"
     },
     {
       "title": "lowRISC / opentitan",
       "url": "https://github.com/lowRISC/opentitan",
       "description": "OpenTitan: Open source silicon root of trust",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3572,
+      "forks": 1075,
+      "added_stars": "71 stars this month"
     },
     {
       "title": "lowRISC / ibex",
       "url": "https://github.com/lowRISC/ibex",
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 1997,
+      "forks": 780,
+      "added_stars": "63 stars this month"
     },
     {
       "title": "openhwgroup / cvw",
       "url": "https://github.com/openhwgroup/cvw",
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 590,
+      "forks": 548,
+      "added_stars": "33 stars this month"
     },
     {
       "title": "adam-maj / tiny-gpu",
       "url": "https://github.com/adam-maj/tiny-gpu",
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 12796,
+      "forks": 1228,
+      "added_stars": "149 stars this month"
     }
   ]
 }

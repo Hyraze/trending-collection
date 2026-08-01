@@ -2,31 +2,47 @@
   "title": "GitHub Openscad Languages Daily Trending",
   "description": "Daily Trending of Openscad Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "BelfrySCAD / BOSL2",
       "url": "https://github.com/BelfrySCAD/BOSL2",
       "description": "The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA",
-      "language": "openscad"
+      "language": "OpenSCAD",
+      "languageColor": "#e5cd45",
+      "stars": 2296,
+      "forks": 201,
+      "added_stars": "64 stars this month"
     },
     {
       "title": "MicrosoftDocs / windows-driver-docs",
       "url": "https://github.com/MicrosoftDocs/windows-driver-docs",
       "description": "The official Windows Driver Kit documentation sources",
-      "language": "openscad"
+      "language": "OpenSCAD",
+      "languageColor": "#e5cd45",
+      "stars": 1056,
+      "forks": 863,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "VoronDesign / VoronUsers",
       "url": "https://github.com/VoronDesign/VoronUsers",
       "description": "Voron Community mods",
-      "language": "openscad"
+      "language": "OpenSCAD",
+      "languageColor": "#e5cd45",
+      "stars": 3325,
+      "forks": 1850,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "maduce / fosscad-repo",
       "url": "https://github.com/maduce/fosscad-repo",
       "description": "Official FOSSCAD Library Repository",
-      "language": "openscad"
+      "language": "OpenSCAD",
+      "languageColor": "#e5cd45",
+      "stars": 1825,
+      "forks": 1065,
+      "added_stars": "15 stars this month"
     }
   ]
 }

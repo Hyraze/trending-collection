@@ -2,85 +2,137 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 4989,
+      "forks": 4403,
+      "added_stars": "2 stars today"
     },
     {
       "title": "semgrep / semgrep-rules",
       "url": "https://github.com/semgrep/semgrep-rules",
       "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1217,
+      "forks": 567,
+      "added_stars": "0 stars today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
       "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 582,
+      "forks": 3808,
+      "added_stars": "0 stars today"
     },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2075,
+      "forks": 1253,
+      "added_stars": "3 stars today"
     },
     {
       "title": "bridgecrewio / checkov-action",
       "url": "https://github.com/bridgecrewio/checkov-action",
       "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 312,
+      "forks": 114,
+      "added_stars": "0 stars today"
     },
     {
       "title": "cloudposse / terraform-aws-lb-s3-bucket",
       "url": "https://github.com/cloudposse/terraform-aws-lb-s3-bucket",
       "description": "Terraform module to provision an S3 bucket with built in IAM policy to allow AWS Load Balancers to ship access logs",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 45,
+      "forks": 33,
+      "added_stars": "0 stars today"
     },
     {
       "title": "cloudposse / terraform-aws-s3-log-storage",
       "url": "https://github.com/cloudposse/terraform-aws-s3-log-storage",
       "description": "This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 121,
+      "forks": 106,
+      "added_stars": "0 stars today"
     },
     {
       "title": "cloudposse / terraform-aws-dynamic-subnets",
       "url": "https://github.com/cloudposse/terraform-aws-dynamic-subnets",
       "description": "Terraform module for public and private subnets provisioning in existing VPC",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 211,
+      "forks": 163,
+      "added_stars": "0 stars today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-ecs",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
       "description": "Terraform module to create AWS ECS resources 🇺🇦",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 674,
+      "forks": 666,
+      "added_stars": "0 stars today"
     },
     {
       "title": "chainguard-images / images",
       "url": "https://github.com/chainguard-images/images",
       "description": "Public Chainguard Images",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 685,
+      "forks": 175,
+      "added_stars": "1 star today"
     },
     {
       "title": "cloudposse / terraform-aws-cloudfront-s3-cdn",
       "url": "https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn",
       "description": "Terraform module to easily provision CloudFront CDN backed by an S3 origin",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 287,
+      "forks": 254,
+      "added_stars": "0 stars today"
     },
     {
       "title": "cloudposse / terraform-aws-ecs-container-definition",
       "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
       "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 350,
+      "forks": 239,
+      "added_stars": "0 stars today"
     },
     {
       "title": "cloudposse / terraform-aws-alb",
       "url": "https://github.com/cloudposse/terraform-aws-alb",
       "description": "Terraform module to provision a standard ALB for HTTP/HTTP traffic",
-      "language": "hcl"
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 116,
+      "forks": 120,
+      "added_stars": "0 stars today"
     }
   ]
 }

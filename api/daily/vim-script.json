@@ -2,109 +2,177 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "tpope / vim-fugitive",
       "url": "https://github.com/tpope/vim-fugitive",
       "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21748,
+      "forks": 1073,
+      "added_stars": "5 stars today"
     },
     {
       "title": "junegunn / vim-plug",
       "url": "https://github.com/junegunn/vim-plug",
       "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 35736,
+      "forks": 1936,
+      "added_stars": "4 stars today"
     },
     {
       "title": "github / copilot.vim",
       "url": "https://github.com/github/copilot.vim",
       "description": "Neovim plugin for GitHub Copilot",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11657,
+      "forks": 786,
+      "added_stars": "3 stars today"
     },
     {
       "title": "neovim / neovim",
       "url": "https://github.com/neovim/neovim",
       "description": "Vim-fork focused on extensibility and usability",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 101439,
+      "forks": 7003,
+      "added_stars": "28 stars today"
     },
     {
       "title": "pangloss / vim-javascript",
       "url": "https://github.com/pangloss/vim-javascript",
       "description": "Vastly improved Javascript indentation and syntax support in Vim.",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 3786,
+      "forks": 351,
+      "added_stars": "0 stars today"
     },
     {
       "title": "chrisbra / csv.vim",
       "url": "https://github.com/chrisbra/csv.vim",
       "description": "A Filetype plugin for csv files",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 1325,
+      "forks": 66,
+      "added_stars": "0 stars today"
     },
     {
       "title": "vim-test / vim-test",
       "url": "https://github.com/vim-test/vim-test",
       "description": "Run your tests at the speed of thought",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 3163,
+      "forks": 410,
+      "added_stars": "0 stars today"
     },
     {
       "title": "morhetz / gruvbox",
       "url": "https://github.com/morhetz/gruvbox",
       "description": "Retro groove color scheme for Vim",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 15651,
+      "forks": 1127,
+      "added_stars": "4 stars today"
     },
     {
       "title": "vim / vim",
       "url": "https://github.com/vim/vim",
       "description": "The official Vim repository",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 40690,
+      "forks": 6103,
+      "added_stars": "7 stars today"
     },
     {
       "title": "sainnhe / everforest",
       "url": "https://github.com/sainnhe/everforest",
       "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 4139,
+      "forks": 147,
+      "added_stars": "2 stars today"
     },
     {
       "title": "tpope / vim-sensible",
       "url": "https://github.com/tpope/vim-sensible",
       "description": "sensible.vim: Defaults everyone can agree on",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 5294,
+      "forks": 272,
+      "added_stars": "1 star today"
     },
     {
       "title": "mattn / vim-lsp-settings",
       "url": "https://github.com/mattn/vim-lsp-settings",
       "description": "Auto configurations for Language Server for vim-lsp",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 1414,
+      "forks": 248,
+      "added_stars": "0 stars today"
     },
     {
       "title": "easymotion / vim-easymotion",
       "url": "https://github.com/easymotion/vim-easymotion",
       "description": "Vim motions on speed!",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 7737,
+      "forks": 364,
+      "added_stars": "0 stars today"
     },
     {
       "title": "tpope / vim-abolish",
       "url": "https://github.com/tpope/vim-abolish",
       "description": "abolish.vim: Work with several variants of a word at once",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 2956,
+      "forks": 94,
+      "added_stars": "0 stars today"
     },
     {
       "title": "dense-analysis / ale",
       "url": "https://github.com/dense-analysis/ale",
       "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 14017,
+      "forks": 1483,
+      "added_stars": "0 stars today"
     },
     {
       "title": "tpope / vim-unimpaired",
       "url": "https://github.com/tpope/vim-unimpaired",
       "description": "unimpaired.vim: Pairs of handy bracket mappings",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 3464,
+      "forks": 206,
+      "added_stars": "0 stars today"
     },
     {
       "title": "hashivim / vim-terraform",
       "url": "https://github.com/hashivim/vim-terraform",
       "description": "basic vim/terraform integration",
-      "language": "vim-script"
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 1109,
+      "forks": 111,
+      "added_stars": "0 stars today"
     }
   ]
 }

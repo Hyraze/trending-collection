@@ -2,13 +2,17 @@
   "title": "GitHub G-code Languages Daily Trending",
   "description": "Daily Trending of G-code Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "kliment / Printrun",
       "url": "https://github.com/kliment/Printrun",
       "description": "Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software",
-      "language": "g-code"
+      "language": "G-code",
+      "languageColor": "#D08CF2",
+      "stars": 2606,
+      "forks": 1008,
+      "added_stars": "10 stars this month"
     }
   ]
 }

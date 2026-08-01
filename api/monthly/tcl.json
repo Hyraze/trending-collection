@@ -2,31 +2,47 @@
   "title": "GitHub Tcl Languages Daily Trending",
   "description": "Daily Trending of Tcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "macports / macports-ports",
       "url": "https://github.com/macports/macports-ports",
       "description": "The MacPorts ports tree",
-      "language": "tcl"
+      "language": "Tcl",
+      "languageColor": "#e4cc98",
+      "stars": 1820,
+      "forks": 1527,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "Digilent / digilent-xdc",
       "url": "https://github.com/Digilent/digilent-xdc",
       "description": "A collection of Master XDC files for Digilent FPGA and Zynq boards.",
-      "language": "tcl"
+      "language": "Tcl",
+      "languageColor": "#e4cc98",
+      "stars": 700,
+      "forks": 583,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "macports / macports-base",
       "url": "https://github.com/macports/macports-base",
       "description": "The MacPorts command-line client",
-      "language": "tcl"
+      "language": "Tcl",
+      "languageColor": "#e4cc98",
+      "stars": 1017,
+      "forks": 285,
+      "added_stars": "8 stars this month"
     },
     {
       "title": "BRL-CAD / brlcad",
       "url": "https://github.com/BRL-CAD/brlcad",
       "description": "BRL-CAD is a powerful cross-platform open source combinatorial solid modeling system",
-      "language": "tcl"
+      "language": "Tcl",
+      "languageColor": "#e4cc98",
+      "stars": 1009,
+      "forks": 230,
+      "added_stars": "11 stars this month"
     }
   ]
 }

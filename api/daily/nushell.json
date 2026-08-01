@@ -2,13 +2,17 @@
   "title": "GitHub Nushell Languages Daily Trending",
   "description": "Daily Trending of Nushell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "mitchellh / vouch",
       "url": "https://github.com/mitchellh/vouch",
       "description": "A community trust management system based on explicit vouches to participate.",
-      "language": "nushell"
+      "language": "Nushell",
+      "languageColor": "#4E9906",
+      "stars": 5027,
+      "forks": 92,
+      "added_stars": "2 stars today"
     }
   ]
 }

@@ -2,61 +2,97 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "gpuweb / gpuweb",
       "url": "https://github.com/gpuweb/gpuweb",
       "description": "Where the GPU for the Web work happens!",
-      "language": "bikeshed"
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 5445,
+      "forks": 376,
+      "added_stars": "32 stars this month"
     },
     {
       "title": "patcg-individual-drafts / topics",
       "url": "https://github.com/patcg-individual-drafts/topics",
       "description": "The Topics API",
-      "language": "bikeshed"
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 872,
+      "forks": 887,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "webmachinelearning / webmcp",
       "url": "https://github.com/webmachinelearning/webmcp",
       "description": "🤖 WebMCP",
-      "language": "bikeshed"
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 2912,
+      "forks": 187,
+      "added_stars": "196 stars this month"
     },
     {
       "title": "w3c / webappsec-permissions-policy",
       "url": "https://github.com/w3c/webappsec-permissions-policy",
       "description": "A mechanism to selectively enable and disable browser features and APIs",
-      "language": "bikeshed"
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 429,
+      "forks": 180,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "w3c / csswg-drafts",
       "url": "https://github.com/w3c/csswg-drafts",
       "description": "CSS Working Group Editor Drafts",
-      "language": "bikeshed"
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 4854,
+      "forks": 802,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "immersive-web / webxr",
       "url": "https://github.com/immersive-web/webxr",
       "description": "Repository for the WebXR Device API Specification.",
-      "language": "bikeshed"
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 3146,
+      "forks": 425,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "WICG / first-party-sets",
       "url": "https://github.com/WICG/first-party-sets",
       "description": "",
-      "language": "bikeshed"
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 398,
+      "forks": 166,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "w3c / webextensions",
       "url": "https://github.com/w3c/webextensions",
       "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
-      "language": "bikeshed"
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 705,
+      "forks": 90,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "patcg-individual-drafts / private-aggregation-api",
       "url": "https://github.com/patcg-individual-drafts/private-aggregation-api",
       "description": "Explainer for proposed web platform API",
-      "language": "bikeshed"
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 62,
+      "forks": 36,
+      "added_stars": "1 star this month"
     }
   ]
 }

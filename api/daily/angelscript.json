@@ -2,13 +2,17 @@
   "title": "GitHub Angelscript Languages Daily Trending",
   "description": "Daily Trending of Angelscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "chen310 / BilibiliPotPlayer",
       "url": "https://github.com/chen310/BilibiliPotPlayer",
       "description": "PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐",
-      "language": "angelscript"
+      "language": "AngelScript",
+      "languageColor": "#C7D7DC",
+      "stars": 2378,
+      "forks": 87,
+      "added_stars": "1 star today"
     }
   ]
 }

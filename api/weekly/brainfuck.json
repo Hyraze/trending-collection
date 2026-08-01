@@ -2,13 +2,17 @@
   "title": "GitHub Brainfuck Languages Daily Trending",
   "description": "Daily Trending of Brainfuck Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "demisto / dockerfiles",
       "url": "https://github.com/demisto/dockerfiles",
       "description": "Demisto's Dockerfiles and Image Build Management",
-      "language": "brainfuck"
+      "language": "Brainfuck",
+      "languageColor": "#2F2530",
+      "stars": 89,
+      "forks": 166,
+      "added_stars": "0 stars this week"
     }
   ]
 }

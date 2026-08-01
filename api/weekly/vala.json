@@ -2,49 +2,77 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "tkashkin / GameHub",
       "url": "https://github.com/tkashkin/GameHub",
       "description": "All your games in one place",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 2817,
+      "forks": 206,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "Vysp3r / ProtonPlus",
       "url": "https://github.com/Vysp3r/ProtonPlus",
       "description": "A modern compatibility tools manager",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 1648,
+      "forks": 49,
+      "added_stars": "27 stars this week"
     },
     {
       "title": "linuxmint / timeshift",
       "url": "https://github.com/linuxmint/timeshift",
       "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 4208,
+      "forks": 151,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "kem-a / AppManager",
       "url": "https://github.com/kem-a/AppManager",
       "description": "MacOS style AppImage installer and management application",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 1250,
+      "forks": 27,
+      "added_stars": "35 stars this week"
     },
     {
       "title": "christianloopp / komorebi",
       "url": "https://github.com/christianloopp/komorebi",
       "description": "A beautiful and customizable wallpapers manager for Linux",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 3746,
+      "forks": 257,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "BuddiesOfBudgie / budgie-desktop",
       "url": "https://github.com/BuddiesOfBudgie/budgie-desktop",
       "description": "Budgie Desktop is a familiar, modern desktop environment.",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 1325,
+      "forks": 64,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "alainm23 / planify",
       "url": "https://github.com/alainm23/planify",
       "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 5507,
+      "forks": 318,
+      "added_stars": "12 stars this week"
     }
   ]
 }

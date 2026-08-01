@@ -2,109 +2,177 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "koreader / koreader",
       "url": "https://github.com/koreader/koreader",
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 28292,
+      "forks": 1818,
+      "added_stars": "296 stars this week"
     },
     {
       "title": "PathOfBuildingCommunity / PathOfBuilding",
       "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
       "description": "Offline build planner for Path of Exile.",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 5394,
+      "forks": 2383,
+      "added_stars": "27 stars this week"
     },
     {
       "title": "beyond-all-reason / Beyond-All-Reason",
       "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
       "description": "Main game repository for Beyond All Reason.",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 4116,
+      "forks": 652,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "apache / apisix",
       "url": "https://github.com/apache/apisix",
       "description": "The Cloud-Native API Gateway and AI Gateway",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 16939,
+      "forks": 2909,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "Footagesus / WindUI",
       "url": "https://github.com/Footagesus/WindUI",
       "description": "WindUI is a open source UI library for Roblox Script Hubs",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 313,
+      "forks": 302,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "ibhagwan / fzf-lua",
       "url": "https://github.com/ibhagwan/fzf-lua",
       "description": "Improved fzf.vim written in lua",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 4394,
+      "forks": 262,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "yetone / avante.nvim",
       "url": "https://github.com/yetone/avante.nvim",
       "description": "Use your Neovim like using Cursor AI IDE!",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 18082,
+      "forks": 847,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "neovim / nvim-lspconfig",
       "url": "https://github.com/neovim/nvim-lspconfig",
       "description": "Quickstart configs for Nvim LSP",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 13821,
+      "forks": 2474,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "LazyVim / LazyVim",
       "url": "https://github.com/LazyVim/LazyVim",
       "description": "Neovim config for the lazy",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 27070,
+      "forks": 1812,
+      "added_stars": "80 stars this week"
     },
     {
       "title": "catppuccin / nvim",
       "url": "https://github.com/catppuccin/nvim",
       "description": "🍨 Soothing pastel theme for Neovim",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 7555,
+      "forks": 337,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "id577 / FS25_AdvancedDamageSystem",
       "url": "https://github.com/id577/FS25_AdvancedDamageSystem",
       "description": "Advanced Damage System mod for Farming Simulator 25",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 243,
+      "forks": 17,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "opentibiabr / canary",
       "url": "https://github.com/opentibiabr/canary",
       "description": "Canary Server 15.25 for OpenTibia community.",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 619,
+      "forks": 865,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "jitsi / docker-jitsi-meet",
       "url": "https://github.com/jitsi/docker-jitsi-meet",
       "description": "Jitsi Meet on Docker",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 3590,
+      "forks": 1566,
+      "added_stars": "1 star this week"
     },
     {
       "title": "AndyHazz / bookshelf.koplugin",
       "url": "https://github.com/AndyHazz/bookshelf.koplugin",
       "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 496,
+      "forks": 18,
+      "added_stars": "63 stars this week"
     },
     {
       "title": "Kong / kong",
       "url": "https://github.com/Kong/kong",
       "description": "🦍 The API and AI Gateway",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 43898,
+      "forks": 5194,
+      "added_stars": "52 stars this week"
     },
     {
       "title": "AnthonyGress / zen_ui.koplugin",
       "url": "https://github.com/AnthonyGress/zen_ui.koplugin",
       "description": "A clean, minimal UI for KOReader",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 417,
+      "forks": 30,
+      "added_stars": "44 stars this week"
     },
     {
       "title": "esmuellert / codediff.nvim",
       "url": "https://github.com/esmuellert/codediff.nvim",
       "description": "A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.",
-      "language": "lua"
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 1496,
+      "forks": 88,
+      "added_stars": "15 stars this week"
     }
   ]
 }

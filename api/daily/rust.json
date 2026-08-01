@@ -2,91 +2,147 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "openai / codex",
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 103098,
+      "forks": 15530,
+      "added_stars": "204 stars today"
     },
     {
       "title": "sharkdp / bat",
       "url": "https://github.com/sharkdp/bat",
       "description": "A cat(1) clone with wings.",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 59972,
+      "forks": 1613,
+      "added_stars": "14 stars today"
     },
     {
       "title": "agavra / tuicr",
       "url": "https://github.com/agavra/tuicr",
       "description": "a code review TUI with vim keybindings",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2248,
+      "forks": 177,
+      "added_stars": "223 stars today"
     },
     {
       "title": "cjpais / Handy",
       "url": "https://github.com/cjpais/Handy",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 28355,
+      "forks": 2478,
+      "added_stars": "146 stars today"
     },
     {
       "title": "farion1231 / cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 123220,
+      "forks": 8334,
+      "added_stars": "342 stars today"
     },
     {
       "title": "stalwartlabs / stalwart",
       "url": "https://github.com/stalwartlabs/stalwart",
       "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 13954,
+      "forks": 858,
+      "added_stars": "18 stars today"
     },
     {
       "title": "servo / servo",
       "url": "https://github.com/servo/servo",
       "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 37554,
+      "forks": 3727,
+      "added_stars": "17 stars today"
     },
     {
       "title": "sinelaw / fresh",
       "url": "https://github.com/sinelaw/fresh",
       "description": "Terminal based IDE & text editor: easy, powerful and fast",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8064,
+      "forks": 296,
+      "added_stars": "33 stars today"
     },
     {
       "title": "ai-dynamo / dynamo",
       "url": "https://github.com/ai-dynamo/dynamo",
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7652,
+      "forks": 1393,
+      "added_stars": "6 stars today"
     },
     {
       "title": "rustfs / rustfs",
       "url": "https://github.com/rustfs/rustfs",
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 30530,
+      "forks": 1350,
+      "added_stars": "52 stars today"
     },
     {
       "title": "zed-industries / zed",
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 87870,
+      "forks": 9826,
+      "added_stars": "57 stars today"
     },
     {
       "title": "clockworklabs / SpacetimeDB",
       "url": "https://github.com/clockworklabs/SpacetimeDB",
       "description": "Development at the speed of light",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 24963,
+      "forks": 1033,
+      "added_stars": "10 stars today"
     },
     {
       "title": "BurntSushi / ripgrep",
       "url": "https://github.com/BurntSushi/ripgrep",
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 66795,
+      "forks": 2688,
+      "added_stars": "36 stars today"
     },
     {
       "title": "googleworkspace / cli",
       "url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "language": "rust"
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 30136,
+      "forks": 1763,
+      "added_stars": "36 stars today"
     }
   ]
 }

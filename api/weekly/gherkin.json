@@ -2,19 +2,27 @@
   "title": "GitHub Gherkin Languages Daily Trending",
   "description": "Daily Trending of Gherkin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "git-town / git-town",
       "url": "https://github.com/git-town/git-town",
       "description": "Git branches made easy",
-      "language": "gherkin"
+      "language": "Gherkin",
+      "languageColor": "#5B2063",
+      "stars": 3358,
+      "forks": 161,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "scality / Zenko",
       "url": "https://github.com/scality/Zenko",
       "description": "Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.",
-      "language": "gherkin"
+      "language": "Gherkin",
+      "languageColor": "#5B2063",
+      "stars": 669,
+      "forks": 92,
+      "added_stars": "0 stars this week"
     }
   ]
 }

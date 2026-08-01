@@ -2,13 +2,17 @@
   "title": "GitHub Smarty Languages Daily Trending",
   "description": "Daily Trending of Smarty Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "sidpalas / devops-directive-kubernetes-course",
       "url": "https://github.com/sidpalas/devops-directive-kubernetes-course",
       "description": "This is the companion repo for the DevOps Directive \"Kubernetes: Beginner to Pro\" course!",
-      "language": "smarty"
+      "language": "Smarty",
+      "languageColor": "#f0c040",
+      "stars": 1945,
+      "forks": 884,
+      "added_stars": "0 stars today"
     }
   ]
 }

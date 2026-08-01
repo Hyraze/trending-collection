@@ -2,85 +2,137 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
       "url": "https://github.com/microsoft/vcpkg",
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 27319,
+      "forks": 7656,
+      "added_stars": "30 stars this week"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
       "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
       "description": "CMake-based MinGW-w64 Cross Toolchain",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1671,
+      "forks": 224,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "leetal / ios-cmake",
       "url": "https://github.com/leetal/ios-cmake",
       "description": "A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS & tvOS C/C++/Obj-C++ development",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 2173,
+      "forks": 463,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "steinbergmedia / vst3sdk",
       "url": "https://github.com/steinbergmedia/vst3sdk",
       "description": "VST 3 Plug-In SDK",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 2307,
+      "forks": 223,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "minecraft-linux / mcpelauncher-manifest",
       "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
       "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1602,
+      "forks": 127,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "KiCad / kicad-footprints",
       "url": "https://github.com/KiCad/kicad-footprints",
       "description": "Official KiCad Footprint Libraries for Kicad version 5",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 688,
+      "forks": 699,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "flathub / shared-modules",
       "url": "https://github.com/flathub/shared-modules",
       "description": "Common Flatpak modules that can be used as a git submodule",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 170,
+      "forks": 106,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "corrosion-rs / corrosion",
       "url": "https://github.com/corrosion-rs/corrosion",
       "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1474,
+      "forks": 149,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "arsenm / sanitizers-cmake",
       "url": "https://github.com/arsenm/sanitizers-cmake",
       "description": "CMake modules to help use sanitizers",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 411,
+      "forks": 74,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "KiCad / kicad-symbols",
       "url": "https://github.com/KiCad/kicad-symbols",
       "description": "Official KiCad schematic symbol libraries for Kicad 5",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 764,
+      "forks": 724,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "ecmwf / ecbuild",
       "url": "https://github.com/ecmwf/ecbuild",
       "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 39,
+      "forks": 41,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "Andersama / obs-asio",
       "url": "https://github.com/Andersama/obs-asio",
       "description": "ASIO plugin for OBS-Studio",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 833,
+      "forks": 53,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "vector-of-bool / cmrc",
       "url": "https://github.com/vector-of-bool/cmrc",
       "description": "A Resource Compiler in a Single CMake Script",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 776,
+      "forks": 82,
+      "added_stars": "0 stars this week"
     }
   ]
 }

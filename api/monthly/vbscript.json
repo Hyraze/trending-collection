@@ -2,25 +2,37 @@
   "title": "GitHub Vbscript Languages Daily Trending",
   "description": "Daily Trending of Vbscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "abbodi1406 / vcredist",
       "url": "https://github.com/abbodi1406/vcredist",
       "description": "AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes",
-      "language": "vbscript"
+      "language": "VBScript",
+      "languageColor": "#15dcdc",
+      "stars": 7979,
+      "forks": 426,
+      "added_stars": "147 stars this month"
     },
     {
       "title": "Da2dalus / The-MALWARE-Repo",
       "url": "https://github.com/Da2dalus/The-MALWARE-Repo",
       "description": "A repository full of malware samples.",
-      "language": "vbscript"
+      "language": "VBScript",
+      "languageColor": "#15dcdc",
+      "stars": 1667,
+      "forks": 388,
+      "added_stars": "24 stars this month"
     },
     {
       "title": "pyenv-win / pyenv-win",
       "url": "https://github.com/pyenv-win/pyenv-win",
       "description": "pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.",
-      "language": "vbscript"
+      "language": "VBScript",
+      "languageColor": "#15dcdc",
+      "stars": 7350,
+      "forks": 589,
+      "added_stars": "40 stars this month"
     }
   ]
 }

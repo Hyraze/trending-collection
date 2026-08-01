@@ -2,13 +2,17 @@
   "title": "GitHub Abap Languages Daily Trending",
   "description": "Daily Trending of Abap Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "abapGit / abapGit",
       "url": "https://github.com/abapGit/abapGit",
       "description": "Git client for ABAP",
-      "language": "abap"
+      "language": "ABAP",
+      "languageColor": "#E8274B",
+      "stars": 1889,
+      "forks": 616,
+      "added_stars": "2 stars today"
     }
   ]
 }

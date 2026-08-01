@@ -2,13 +2,17 @@
   "title": "GitHub Svg Languages Daily Trending",
   "description": "Daily Trending of Svg Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "tandpfun / skill-icons",
       "url": "https://github.com/tandpfun/skill-icons",
       "description": "Showcase your skills on your Github readme or resumé with ease ✨",
-      "language": "svg"
+      "language": "SVG",
+      "languageColor": "#ff9900",
+      "stars": 12847,
+      "forks": 1662,
+      "added_stars": "45 stars this week"
     }
   ]
 }

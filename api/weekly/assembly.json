@@ -2,127 +2,207 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "pret / pokered",
       "url": "https://github.com/pret/pokered",
       "description": "Disassembly of Pokémon Red/Blue",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 4845,
+      "forks": 1272,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "ROCm / rocm-libraries",
       "url": "https://github.com/ROCm/rocm-libraries",
       "description": "super repo for rocm libraries",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 393,
+      "forks": 354,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "Rangi42 / polishedcrystal",
       "url": "https://github.com/Rangi42/polishedcrystal",
       "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1591,
+      "forks": 328,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "openhwgroup / cva6",
       "url": "https://github.com/openhwgroup/cva6",
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3050,
+      "forks": 991,
+      "added_stars": "20 stars this week"
     },
     {
       "title": "aws / aws-lc",
       "url": "https://github.com/aws/aws-lc",
       "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 810,
+      "forks": 199,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "RibShark / OmniDrive",
       "url": "https://github.com/RibShark/OmniDrive",
       "description": "",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1004,
+      "forks": 50,
+      "added_stars": "29 stars this week"
     },
     {
       "title": "BLAKE3-team / BLAKE3",
       "url": "https://github.com/BLAKE3-team/BLAKE3",
       "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 6349,
+      "forks": 468,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "JSsixtyfour / smashremix",
       "url": "https://github.com/JSsixtyfour/smashremix",
       "description": "",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 936,
+      "forks": 76,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "apple / swift-crypto",
       "url": "https://github.com/apple/swift-crypto",
       "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1707,
+      "forks": 215,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "apple / swift-nio-ssl",
       "url": "https://github.com/apple/swift-nio-ssl",
       "description": "TLS Support for SwiftNIO, based on BoringSSL.",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 432,
+      "forks": 169,
+      "added_stars": "1 star this week"
     },
     {
       "title": "cirosantilli / x86-bare-metal-examples",
       "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
       "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 5329,
+      "forks": 427,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "pret / pokecrystal",
       "url": "https://github.com/pret/pokecrystal",
       "description": "Disassembly of Pokémon Crystal",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2480,
+      "forks": 961,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "riscv / riscv-arch-test",
       "url": "https://github.com/riscv/riscv-arch-test",
       "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 758,
+      "forks": 342,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "pq-code-package / mldsa-native",
       "url": "https://github.com/pq-code-package/mldsa-native",
       "description": "Secure, fast, and portable C90 implementation of ML-DSA / FIPS 204",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 98,
+      "forks": 54,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "apache / arrow-go",
       "url": "https://github.com/apache/arrow-go",
       "description": "Official Go implementation of Apache Arrow",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 391,
+      "forks": 135,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "supranational / blst",
       "url": "https://github.com/supranational/blst",
       "description": "Multilingual BLS12-381 signature library",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 569,
+      "forks": 233,
+      "added_stars": "1 star this week"
     },
     {
       "title": "PRoX2011 / x16-PRos",
       "url": "https://github.com/PRoX2011/x16-PRos",
       "description": "Simple 16 bit (real mode) operating system writen in NASM from scratch",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 594,
+      "forks": 50,
+      "added_stars": "27 stars this week"
     },
     {
       "title": "espressif / esp-dl",
       "url": "https://github.com/espressif/esp-dl",
       "description": "Espressif deep-learning library for AIoT applications",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1096,
+      "forks": 218,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "bitdump / BLHeli",
       "url": "https://github.com/bitdump/BLHeli",
       "description": "BLHeli for brushless ESC firmware",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2224,
+      "forks": 1144,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "cemu-project / cemu_graphic_packs",
       "url": "https://github.com/cemu-project/cemu_graphic_packs",
       "description": "Community Graphic Packs for Cemu",
-      "language": "assembly"
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1463,
+      "forks": 597,
+      "added_stars": "3 stars this week"
     }
   ]
 }

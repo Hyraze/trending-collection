@@ -2,55 +2,87 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "prometheus-community / helm-charts",
       "url": "https://github.com/prometheus-community/helm-charts",
       "description": "Prometheus community Helm charts",
-      "language": "mustache"
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 6164,
+      "forks": 5378,
+      "added_stars": "0 stars today"
     },
     {
       "title": "argoproj / argo-helm",
       "url": "https://github.com/argoproj/argo-helm",
       "description": "ArgoProj Helm Charts",
-      "language": "mustache"
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 2339,
+      "forks": 2100,
+      "added_stars": "0 stars today"
     },
     {
       "title": "aws / eks-charts",
       "url": "https://github.com/aws/eks-charts",
       "description": "Amazon EKS Helm chart repository",
-      "language": "mustache"
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 1302,
+      "forks": 1082,
+      "added_stars": "0 stars today"
     },
     {
       "title": "jenkinsci / helm-charts",
       "url": "https://github.com/jenkinsci/helm-charts",
       "description": "Jenkins helm charts",
-      "language": "mustache"
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 657,
+      "forks": 929,
+      "added_stars": "0 stars today"
     },
     {
       "title": "amzn / selling-partner-api-models",
       "url": "https://github.com/amzn/selling-partner-api-models",
       "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
-      "language": "mustache"
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 882,
+      "forks": 792,
+      "added_stars": "1 star today"
     },
     {
       "title": "netbox-community / netbox-chart",
       "url": "https://github.com/netbox-community/netbox-chart",
       "description": "A Helm chart for NetBox",
-      "language": "mustache"
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 350,
+      "forks": 183,
+      "added_stars": "0 stars today"
     },
     {
       "title": "temporalio / helm-charts",
       "url": "https://github.com/temporalio/helm-charts",
       "description": "Temporal Helm charts",
-      "language": "mustache"
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 554,
+      "forks": 447,
+      "added_stars": "0 stars today"
     },
     {
       "title": "thmsgbrt / thmsgbrt",
       "url": "https://github.com/thmsgbrt/thmsgbrt",
       "description": "My awesome README.md",
-      "language": "mustache"
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 538,
+      "forks": 1378,
+      "added_stars": "1 star today"
     }
   ]
 }

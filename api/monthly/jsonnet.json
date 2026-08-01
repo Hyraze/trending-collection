@@ -2,31 +2,47 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "kubernetes-monitoring / kubernetes-mixin",
       "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
       "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
-      "language": "jsonnet"
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 2433,
+      "forks": 641,
+      "added_stars": "16 stars this month"
     },
     {
       "title": "prometheus-operator / kube-prometheus",
       "url": "https://github.com/prometheus-operator/kube-prometheus",
       "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
-      "language": "jsonnet"
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 7712,
+      "forks": 2044,
+      "added_stars": "35 stars this month"
     },
     {
       "title": "argoproj / argocd-example-apps",
       "url": "https://github.com/argoproj/argocd-example-apps",
       "description": "Example Apps to Demonstrate Argo CD",
-      "language": "jsonnet"
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 2149,
+      "forks": 10145,
+      "added_stars": "18 stars this month"
     },
     {
       "title": "google / jsonnet",
       "url": "https://github.com/google/jsonnet",
       "description": "Jsonnet - The data templating language",
-      "language": "jsonnet"
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 7548,
+      "forks": 473,
+      "added_stars": "24 stars this month"
     }
   ]
 }

@@ -2,13 +2,17 @@
   "title": "GitHub Robotframework Languages Daily Trending",
   "description": "Daily Trending of Robotframework Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "renode / renode",
       "url": "https://github.com/renode/renode",
       "description": "Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems",
-      "language": "robotframework"
+      "language": "RobotFramework",
+      "languageColor": "#00c0b5",
+      "stars": 2694,
+      "forks": 470,
+      "added_stars": "19 stars this week"
     }
   ]
 }

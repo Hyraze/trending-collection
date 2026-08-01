@@ -2,13 +2,17 @@
   "title": "GitHub Typst Languages Daily Trending",
   "description": "Daily Trending of Typst Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "cetz-package / cetz",
       "url": "https://github.com/cetz-package/cetz",
       "description": "CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.",
-      "language": "typst"
+      "language": "Typst",
+      "languageColor": "#239dad",
+      "stars": 1804,
+      "forks": 81,
+      "added_stars": "0 stars today"
     }
   ]
 }

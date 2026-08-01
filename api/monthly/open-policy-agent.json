@@ -2,19 +2,27 @@
   "title": "GitHub Open-policy-agent Languages Daily Trending",
   "description": "Daily Trending of Open-policy-agent Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "Azure / azure-policy",
       "url": "https://github.com/Azure/azure-policy",
       "description": "Repository for Azure Resource Policy built-in definitions and samples",
-      "language": "open-policy-agent"
+      "language": "Open Policy Agent",
+      "languageColor": "#7d9199",
+      "stars": 1688,
+      "forks": 1154,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "Checkmarx / kics",
       "url": "https://github.com/Checkmarx/kics",
       "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
-      "language": "open-policy-agent"
+      "language": "Open Policy Agent",
+      "languageColor": "#7d9199",
+      "stars": 2680,
+      "forks": 379,
+      "added_stars": "23 stars this month"
     }
   ]
 }

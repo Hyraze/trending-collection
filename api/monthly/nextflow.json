@@ -2,19 +2,27 @@
   "title": "GitHub Nextflow Languages Daily Trending",
   "description": "Daily Trending of Nextflow Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "nf-core / rnaseq",
       "url": "https://github.com/nf-core/rnaseq",
       "description": "RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.",
-      "language": "nextflow"
+      "language": "Nextflow",
+      "languageColor": "#3ac486",
+      "stars": 1348,
+      "forks": 886,
+      "added_stars": "26 stars this month"
     },
     {
       "title": "nf-core / modules",
       "url": "https://github.com/nf-core/modules",
       "description": "Repository to host tool-specific module files for the Nextflow DSL2 community!",
-      "language": "nextflow"
+      "language": "Nextflow",
+      "languageColor": "#3ac486",
+      "stars": 423,
+      "forks": 1086,
+      "added_stars": "5 stars this month"
     }
   ]
 }

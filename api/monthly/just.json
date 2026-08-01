@@ -2,31 +2,47 @@
   "title": "GitHub Just Languages Daily Trending",
   "description": "Daily Trending of Just Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "pop-os / cosmic-epoch",
       "url": "https://github.com/pop-os/cosmic-epoch",
       "description": "Next generation Cosmic desktop environment",
-      "language": "just"
+      "language": "Just",
+      "languageColor": "#384d54",
+      "stars": 6560,
+      "forks": 205,
+      "added_stars": "224 stars this month"
     },
     {
       "title": "ublue-os / bazzite",
       "url": "https://github.com/ublue-os/bazzite",
       "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
-      "language": "just"
+      "language": "Just",
+      "languageColor": "#384d54",
+      "stars": 8867,
+      "forks": 1010,
+      "added_stars": "219 stars this month"
     },
     {
       "title": "ublue-os / image-template",
       "url": "https://github.com/ublue-os/image-template",
       "description": "Build your own custom Universal Blue Image!",
-      "language": "just"
+      "language": "Just",
+      "languageColor": "#384d54",
+      "stars": 813,
+      "forks": 180,
+      "added_stars": "28 stars this month"
     },
     {
       "title": "catppuccin / zed",
       "url": "https://github.com/catppuccin/zed",
       "description": "🦀 Soothing pastel theme for Zed",
-      "language": "just"
+      "language": "Just",
+      "languageColor": "#384d54",
+      "stars": 872,
+      "forks": 34,
+      "added_stars": "17 stars this month"
     }
   ]
 }

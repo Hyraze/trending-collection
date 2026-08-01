@@ -2,13 +2,17 @@
   "title": "GitHub Coffeescript Languages Daily Trending",
   "description": "Daily Trending of Coffeescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "dropbox / zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript"
+      "language": "CoffeeScript",
+      "languageColor": "#244776",
+      "stars": 16013,
+      "forks": 995,
+      "added_stars": "0 stars today"
     }
   ]
 }

@@ -2,67 +2,107 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
       "url": "https://github.com/microsoft/vcpkg",
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 27319,
+      "forks": 7656,
+      "added_stars": "137 stars this month"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
       "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
       "description": "CMake-based MinGW-w64 Cross Toolchain",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1671,
+      "forks": 224,
+      "added_stars": "63 stars this month"
     },
     {
       "title": "KIT-MRT / mrt_cmake_modules",
       "url": "https://github.com/KIT-MRT/mrt_cmake_modules",
       "description": "Automated catkin project handling framework",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 44,
+      "forks": 28,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "Andersama / obs-asio",
       "url": "https://github.com/Andersama/obs-asio",
       "description": "ASIO plugin for OBS-Studio",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 833,
+      "forks": 53,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "minecraft-linux / mcpelauncher-manifest",
       "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
       "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1602,
+      "forks": 127,
+      "added_stars": "39 stars this month"
     },
     {
       "title": "KiCad / kicad-footprints",
       "url": "https://github.com/KiCad/kicad-footprints",
       "description": "Official KiCad Footprint Libraries for Kicad version 5",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 688,
+      "forks": 699,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "leetal / ios-cmake",
       "url": "https://github.com/leetal/ios-cmake",
       "description": "A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS & tvOS C/C++/Obj-C++ development",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 2173,
+      "forks": 463,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "editorconfig / editorconfig-core-test",
       "url": "https://github.com/editorconfig/editorconfig-core-test",
       "description": "Testings for EditorConfig Core",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 36,
+      "forks": 26,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "justinmk / tree-sitter-ini",
       "url": "https://github.com/justinmk/tree-sitter-ini",
       "description": "tree-sitter grammar/parser for INI files",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 36,
+      "forks": 15,
+      "added_stars": "1 star this month"
     },
     {
       "title": "arsenm / sanitizers-cmake",
       "url": "https://github.com/arsenm/sanitizers-cmake",
       "description": "CMake modules to help use sanitizers",
-      "language": "cmake"
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 411,
+      "forks": 74,
+      "added_stars": "1 star this month"
     }
   ]
 }

@@ -2,43 +2,67 @@
   "title": "GitHub Objective-c++ Languages Daily Trending",
   "description": "Daily Trending of Objective-c++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "KhronosGroup / MoltenVK",
       "url": "https://github.com/KhronosGroup/MoltenVK",
       "description": "MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.",
-      "language": "objective-c++"
+      "language": "Objective-C++",
+      "languageColor": "#6866fb",
+      "stars": 5767,
+      "forks": 537,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "microsoft / onnxruntime-swift-package-manager",
       "url": "https://github.com/microsoft/onnxruntime-swift-package-manager",
       "description": "A light-weight repository for providing Swift Package Manager support for ONNX Runtime.",
-      "language": "objective-c++"
+      "language": "Objective-C++",
+      "languageColor": "#6866fb",
+      "stars": 99,
+      "forks": 56,
+      "added_stars": "1 star this week"
     },
     {
       "title": "gree / unity-webview",
       "url": "https://github.com/gree/unity-webview",
       "description": "",
-      "language": "objective-c++"
+      "language": "Objective-C++",
+      "languageColor": "#6866fb",
+      "stars": 2647,
+      "forks": 733,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "callstack / liquid-glass",
       "url": "https://github.com/callstack/liquid-glass",
       "description": "Liquid Glass in React Native",
-      "language": "objective-c++"
+      "language": "Objective-C++",
+      "languageColor": "#6866fb",
+      "stars": 1598,
+      "forks": 59,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "sbmpost / AutoRaise",
       "url": "https://github.com/sbmpost/AutoRaise",
       "description": "AutoRaise (and focus) a window when hovering over it with the mouse",
-      "language": "objective-c++"
+      "language": "Objective-C++",
+      "languageColor": "#6866fb",
+      "stars": 2747,
+      "forks": 119,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "thusvill / LiveWallpaperMacOS",
       "url": "https://github.com/thusvill/LiveWallpaperMacOS",
       "description": "This is a Opensource Live wallpaper solution for MacOS",
-      "language": "objective-c++"
+      "language": "Objective-C++",
+      "languageColor": "#6866fb",
+      "stars": 904,
+      "forks": 48,
+      "added_stars": "7 stars this week"
     }
   ]
 }

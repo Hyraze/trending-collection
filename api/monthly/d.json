@@ -2,25 +2,37 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "dlang / dmd",
       "url": "https://github.com/dlang/dmd",
       "description": "dmd D Programming Language compiler",
-      "language": "d"
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 3293,
+      "forks": 710,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "abraunegg / onedrive",
       "url": "https://github.com/abraunegg/onedrive",
       "description": "OneDrive Client for Linux",
-      "language": "d"
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 12656,
+      "forks": 913,
+      "added_stars": "95 stars this month"
     },
     {
       "title": "gnunn1 / tilix",
       "url": "https://github.com/gnunn1/tilix",
       "description": "A tiling terminal emulator for Linux using GTK+ 3",
-      "language": "d"
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 5704,
+      "forks": 321,
+      "added_stars": "14 stars this month"
     }
   ]
 }

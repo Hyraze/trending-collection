@@ -2,13 +2,17 @@
   "title": "GitHub Pony Languages Daily Trending",
   "description": "Daily Trending of Pony Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "ponylang / ponyc",
       "url": "https://github.com/ponylang/ponyc",
       "description": "Pony is an open-source, actor-model, capabilities-secure, high performance programming language",
-      "language": "pony"
+      "language": "Pony",
+      "languageColor": "#ccc",
+      "stars": 6149,
+      "forks": 438,
+      "added_stars": "20 stars this month"
     }
   ]
 }

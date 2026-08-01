@@ -2,13 +2,17 @@
   "title": "GitHub Vhdl Languages Daily Trending",
   "description": "Daily Trending of Vhdl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "ghdl / ghdl",
       "url": "https://github.com/ghdl/ghdl",
       "description": "VHDL 2008/93/87 simulator",
-      "language": "vhdl"
+      "language": "VHDL",
+      "languageColor": "#adb2cb",
+      "stars": 2853,
+      "forks": 421,
+      "added_stars": "0 stars today"
     }
   ]
 }

@@ -2,43 +2,67 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "DataDog / storedog",
       "url": "https://github.com/DataDog/storedog",
       "description": "",
-      "language": "plpgsql"
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 31,
+      "forks": 37,
+      "added_stars": "0 stars today"
     },
     {
       "title": "Snowflake-Labs / modern-data-engineering-snowflake",
       "url": "https://github.com/Snowflake-Labs/modern-data-engineering-snowflake",
       "description": "Companion repository that goes along with Snowflake's \"Introduction to Modern Data Engineering with Snowflake\" course on Coursera",
-      "language": "plpgsql"
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 190,
+      "forks": 260,
+      "added_stars": "1 star today"
     },
     {
       "title": "thanglequoc / vietnamese-provinces-database",
       "url": "https://github.com/thanglequoc/vietnamese-provinces-database",
       "description": "Comprehensive SQL and GIS datasets for Vietnamese administrative units, including provinces, districts, wards, and geospatial boundaries.",
-      "language": "plpgsql"
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 1731,
+      "forks": 413,
+      "added_stars": "4 stars today"
     },
     {
       "title": "NikolayS / PgQue",
       "url": "https://github.com/NikolayS/PgQue",
       "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev",
-      "language": "plpgsql"
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 1768,
+      "forks": 38,
+      "added_stars": "6 stars today"
     },
     {
       "title": "pgpartman / pg_partman",
       "url": "https://github.com/pgpartman/pg_partman",
       "description": "Partition management extension for PostgreSQL",
-      "language": "plpgsql"
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 2783,
+      "forks": 317,
+      "added_stars": "3 stars today"
     },
     {
       "title": "pgmq / pgmq",
       "url": "https://github.com/pgmq/pgmq",
       "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
-      "language": "plpgsql"
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 5051,
+      "forks": 140,
+      "added_stars": "2 stars today"
     }
   ]
 }

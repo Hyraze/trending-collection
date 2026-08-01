@@ -2,37 +2,57 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "penpot / penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
-      "language": "clojure"
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 57924,
+      "forks": 3865,
+      "added_stars": "85 stars today"
     },
     {
       "title": "logseq / logseq",
       "url": "https://github.com/logseq/logseq",
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
-      "language": "clojure"
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 44189,
+      "forks": 2745,
+      "added_stars": "22 stars today"
     },
     {
       "title": "tonsky / FiraCode",
       "url": "https://github.com/tonsky/FiraCode",
       "description": "Free monospaced font with programming ligatures",
-      "language": "clojure"
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 81877,
+      "forks": 3193,
+      "added_stars": "4 stars today"
     },
     {
       "title": "metabase / metabase",
       "url": "https://github.com/metabase/metabase",
       "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
-      "language": "clojure"
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 48486,
+      "forks": 6700,
+      "added_stars": "18 stars today"
     },
     {
       "title": "cognitect-labs / test-runner",
       "url": "https://github.com/cognitect-labs/test-runner",
       "description": "A test runner for clojure.test",
-      "language": "clojure"
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 308,
+      "forks": 36,
+      "added_stars": "0 stars today"
     }
   ]
 }

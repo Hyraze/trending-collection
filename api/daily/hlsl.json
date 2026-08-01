@@ -2,37 +2,57 @@
   "title": "GitHub Hlsl Languages Daily Trending",
   "description": "Daily Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "Blinue / Magpie",
       "url": "https://github.com/Blinue/Magpie",
       "description": "A general-purpose window upscaler for Windows 10/11.",
-      "language": "hlsl"
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 14268,
+      "forks": 581,
+      "added_stars": "10 stars today"
     },
     {
       "title": "JamesCJ60 / Universal-x86-Tuning-Utility",
       "url": "https://github.com/JamesCJ60/Universal-x86-Tuning-Utility",
       "description": "Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.",
-      "language": "hlsl"
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 2734,
+      "forks": 88,
+      "added_stars": "2 stars today"
     },
     {
       "title": "clshortfuse / renodx",
       "url": "https://github.com/clshortfuse/renodx",
       "description": "Renovation Engine for DirectX Games",
-      "language": "hlsl"
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 1558,
+      "forks": 115,
+      "added_stars": "1 star today"
     },
     {
       "title": "leotorrez / ZZMI-Package",
       "url": "https://github.com/leotorrez/ZZMI-Package",
       "description": "NOT INTENDED FOR WIDE USE",
-      "language": "hlsl"
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 48,
+      "forks": 10,
+      "added_stars": "0 stars today"
     },
     {
       "title": "ray-cast / ray-mmd",
       "url": "https://github.com/ray-cast/ray-mmd",
       "description": "🎨 The project is designed to create a physically-based rendering at mikumikudance.",
-      "language": "hlsl"
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 1904,
+      "forks": 574,
+      "added_stars": "0 stars today"
     }
   ]
 }

@@ -2,43 +2,67 @@
   "title": "GitHub Nim Languages Daily Trending",
   "description": "Daily Trending of Nim Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "zedeus / nitter",
       "url": "https://github.com/zedeus/nitter",
       "description": "Alternative Twitter front-end",
-      "language": "nim"
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 13377,
+      "forks": 748,
+      "added_stars": "52 stars this week"
     },
     {
       "title": "nim-lang / Nim",
       "url": "https://github.com/nim-lang/Nim",
       "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
-      "language": "nim"
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 18145,
+      "forks": 1544,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "logos-messaging / logos-delivery",
       "url": "https://github.com/logos-messaging/logos-delivery",
       "description": "Logos Messaging protocols implemented in Nim",
-      "language": "nim"
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 249,
+      "forks": 86,
+      "added_stars": "1 star this week"
     },
     {
       "title": "nim-lang / packages",
       "url": "https://github.com/nim-lang/packages",
       "description": "List of packages for Nimble",
-      "language": "nim"
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 498,
+      "forks": 778,
+      "added_stars": "1 star this week"
     },
     {
       "title": "status-im / nimbus-eth1",
       "url": "https://github.com/status-im/nimbus-eth1",
       "description": "Nimbus: an Ethereum Execution Client for Resource-Restricted Devices",
-      "language": "nim"
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 625,
+      "forks": 160,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "status-im / nimbus-eth2",
       "url": "https://github.com/status-im/nimbus-eth2",
       "description": "Nim implementation of the Ethereum Beacon Chain",
-      "language": "nim"
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 660,
+      "forks": 328,
+      "added_stars": "4 stars this week"
     }
   ]
 }

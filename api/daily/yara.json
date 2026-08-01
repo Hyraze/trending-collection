@@ -2,25 +2,37 @@
   "title": "GitHub Yara Languages Daily Trending",
   "description": "Daily Trending of Yara Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "chainguard-dev / malcontent",
       "url": "https://github.com/chainguard-dev/malcontent",
       "description": "#supply #chain #attack #detection",
-      "language": "yara"
+      "language": "YARA",
+      "languageColor": "#220000",
+      "stars": 671,
+      "forks": 63,
+      "added_stars": "0 stars today"
     },
     {
       "title": "Yara-Rules / rules",
       "url": "https://github.com/Yara-Rules/rules",
       "description": "Repository of yara rules",
-      "language": "yara"
+      "language": "YARA",
+      "languageColor": "#220000",
+      "stars": 4863,
+      "forks": 1064,
+      "added_stars": "3 stars today"
     },
     {
       "title": "sophoslabs / IoCs",
       "url": "https://github.com/sophoslabs/IoCs",
       "description": "Sophos-originated indicators-of-compromise from published reports",
-      "language": "yara"
+      "language": "YARA",
+      "languageColor": "#220000",
+      "stars": 668,
+      "forks": 121,
+      "added_stars": "0 stars today"
     }
   ]
 }

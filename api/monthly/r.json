@@ -2,73 +2,117 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "satijalab / seurat",
       "url": "https://github.com/satijalab/seurat",
       "description": "R toolkit for single cell genomics",
-      "language": "r"
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 2779,
+      "forks": 994,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "tidyverse / dplyr",
       "url": "https://github.com/tidyverse/dplyr",
       "description": "dplyr: A grammar of data manipulation",
-      "language": "r"
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5050,
+      "forks": 2126,
+      "added_stars": "16 stars this month"
     },
     {
       "title": "tidyverse / ggplot2",
       "url": "https://github.com/tidyverse/ggplot2",
       "description": "An implementation of the Grammar of Graphics in R",
-      "language": "r"
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 6979,
+      "forks": 2130,
+      "added_stars": "26 stars this month"
     },
     {
       "title": "swirldev / swirl_courses",
       "url": "https://github.com/swirldev/swirl_courses",
       "description": "🎓 A collection of interactive courses for the swirl R package.",
-      "language": "r"
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 4574,
+      "forks": 7200,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "Rdatatable / data.table",
       "url": "https://github.com/Rdatatable/data.table",
       "description": "R's data.table package extends data.frame:",
-      "language": "r"
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 3905,
+      "forks": 1049,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "jinworks / CellChat",
       "url": "https://github.com/jinworks/CellChat",
       "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
-      "language": "r"
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 641,
+      "forks": 109,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "rdpeng / ProgrammingAssignment2",
       "url": "https://github.com/rdpeng/ProgrammingAssignment2",
       "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
-      "language": "r"
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 890,
+      "forks": 143406,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "rstudio / shiny",
       "url": "https://github.com/rstudio/shiny",
       "description": "Easy interactive web applications with R",
-      "language": "r"
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5673,
+      "forks": 1889,
+      "added_stars": "18 stars this month"
     },
     {
       "title": "sqjin / CellChat",
       "url": "https://github.com/sqjin/CellChat",
       "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",
-      "language": "r"
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 793,
+      "forks": 166,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "hadley / r4ds",
       "url": "https://github.com/hadley/r4ds",
       "description": "R for data science: a book",
-      "language": "r"
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5121,
+      "forks": 4434,
+      "added_stars": "54 stars this month"
     },
     {
       "title": "r-spatial / sf",
       "url": "https://github.com/r-spatial/sf",
       "description": "Simple Features for R",
-      "language": "r"
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 1440,
+      "forks": 301,
+      "added_stars": "5 stars this month"
     }
   ]
 }

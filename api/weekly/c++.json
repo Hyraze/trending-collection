@@ -2,151 +2,247 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "amnezia-vpn / amnezia-client",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "description": "Amnezia VPN Client (Desktop+Mobile)",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 14244,
+      "forks": 1057,
+      "added_stars": "1,234 stars this week"
     },
     {
       "title": "meshtastic / firmware",
       "url": "https://github.com/meshtastic/firmware",
       "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8037,
+      "forks": 2603,
+      "added_stars": "71 stars this week"
     },
     {
       "title": "geo-tp / ESP32-Bit-Pirate",
       "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 5252,
+      "forks": 421,
+      "added_stars": "525 stars this week"
     },
     {
       "title": "tensorflow / tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 196648,
+      "forks": 75764,
+      "added_stars": "232 stars this week"
     },
     {
       "title": "cifertech / ESP32-DIV",
       "url": "https://github.com/cifertech/ESP32-DIV",
       "description": "ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 3622,
+      "forks": 493,
+      "added_stars": "160 stars this week"
     },
     {
       "title": "electron / electron",
       "url": "https://github.com/electron/electron",
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 122283,
+      "forks": 17371,
+      "added_stars": "175 stars this week"
     },
     {
       "title": "protocolbuffers / protobuf",
       "url": "https://github.com/protocolbuffers/protobuf",
       "description": "Protocol Buffers - Google's data interchange format",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 71672,
+      "forks": 16204,
+      "added_stars": "60 stars this week"
     },
     {
       "title": "microsoft / onnxruntime",
       "url": "https://github.com/microsoft/onnxruntime",
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 21250,
+      "forks": 4091,
+      "added_stars": "67 stars this week"
     },
     {
       "title": "ValveSoftware / Proton",
       "url": "https://github.com/ValveSoftware/Proton",
       "description": "Compatibility tool for Steam Play based on Wine and additional components",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 32407,
+      "forks": 1550,
+      "added_stars": "93 stars this week"
     },
     {
       "title": "PX4 / PX4-Autopilot",
       "url": "https://github.com/PX4/PX4-Autopilot",
       "description": "PX4 Autopilot Software",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 12316,
+      "forks": 15801,
+      "added_stars": "81 stars this week"
     },
     {
       "title": "google-ai-edge / mediapipe",
       "url": "https://github.com/google-ai-edge/mediapipe",
       "description": "Cross-platform, customizable ML solutions for live and streaming media.",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 36416,
+      "forks": 6096,
+      "added_stars": "158 stars this week"
     },
     {
       "title": "microsoft / microsoft-ui-xaml",
       "url": "https://github.com/microsoft/microsoft-ui-xaml",
       "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 7802,
+      "forks": 869,
+      "added_stars": "30 stars this week"
     },
     {
       "title": "nlohmann / json",
       "url": "https://github.com/nlohmann/json",
       "description": "JSON for Modern C++",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 50256,
+      "forks": 7449,
+      "added_stars": "64 stars this week"
     },
     {
       "title": "microsoft / foundry-local",
       "url": "https://github.com/microsoft/foundry-local",
       "description": "",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2482,
+      "forks": 349,
+      "added_stars": "38 stars this week"
     },
     {
       "title": "prusa3d / PrusaSlicer",
       "url": "https://github.com/prusa3d/PrusaSlicer",
       "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 9210,
+      "forks": 2296,
+      "added_stars": "20 stars this week"
     },
     {
       "title": "v8 / v8",
       "url": "https://github.com/v8/v8",
       "description": "The official mirror of the V8 Git repository",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 25161,
+      "forks": 4312,
+      "added_stars": "29 stars this week"
     },
     {
       "title": "tdlib / td",
       "url": "https://github.com/tdlib/td",
       "description": "Cross-platform library for building Telegram clients",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8990,
+      "forks": 2115,
+      "added_stars": "26 stars this week"
     },
     {
       "title": "azahar-emu / azahar",
       "url": "https://github.com/azahar-emu/azahar",
       "description": "An open-source 3DS emulator project based on Citra.",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 7779,
+      "forks": 592,
+      "added_stars": "58 stars this week"
     },
     {
       "title": "ggml-org / llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 122321,
+      "forks": 21211,
+      "added_stars": "856 stars this week"
     },
     {
       "title": "wazuh / wazuh",
       "url": "https://github.com/wazuh/wazuh",
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16371,
+      "forks": 2410,
+      "added_stars": "94 stars this week"
     },
     {
       "title": "WinMerge / winmerge",
       "url": "https://github.com/WinMerge/winmerge",
       "description": "WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 9046,
+      "forks": 995,
+      "added_stars": "44 stars this week"
     },
     {
       "title": "Fincept-Corporation / FinceptTerminal",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 29397,
+      "forks": 4123,
+      "added_stars": "435 stars this week"
     },
     {
       "title": "hyprwm / Hyprland",
       "url": "https://github.com/hyprwm/Hyprland",
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 37691,
+      "forks": 1906,
+      "added_stars": "290 stars this week"
     },
     {
       "title": "esphome / esphome",
       "url": "https://github.com/esphome/esphome",
       "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-      "language": "c++"
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 11475,
+      "forks": 5505,
+      "added_stars": "47 stars this week"
     }
   ]
 }

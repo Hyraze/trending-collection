@@ -2,109 +2,177 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "antirez / ds4",
       "url": "https://github.com/antirez/ds4",
       "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 19730,
+      "forks": 1750,
+      "added_stars": "161 stars today"
     },
     {
       "title": "espressif / esp-idf",
       "url": "https://github.com/espressif/esp-idf",
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 18672,
+      "forks": 8409,
+      "added_stars": "9 stars today"
     },
     {
       "title": "Mbed-TLS / mbedtls",
       "url": "https://github.com/Mbed-TLS/mbedtls",
       "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 6847,
+      "forks": 2940,
+      "added_stars": "6 stars today"
     },
     {
       "title": "microsoft / PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 137350,
+      "forks": 8384,
+      "added_stars": "35 stars today"
     },
     {
       "title": "FreeRTOS / FreeRTOS-Kernel",
       "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
       "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4389,
+      "forks": 1583,
+      "added_stars": "4 stars today"
     },
     {
       "title": "DarkFlippers / unleashed-firmware",
       "url": "https://github.com/DarkFlippers/unleashed-firmware",
       "description": "Flipper Zero Unleashed Firmware",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 21964,
+      "forks": 1921,
+      "added_stars": "16 stars today"
     },
     {
       "title": "jqlang / jq",
       "url": "https://github.com/jqlang/jq",
       "description": "Command-line JSON processor",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 35307,
+      "forks": 1816,
+      "added_stars": "5 stars today"
     },
     {
       "title": "pgvector / pgvector",
       "url": "https://github.com/pgvector/pgvector",
       "description": "Open-source vector similarity search for Postgres",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 22432,
+      "forks": 1262,
+      "added_stars": "15 stars today"
     },
     {
       "title": "obsproject / obs-studio",
       "url": "https://github.com/obsproject/obs-studio",
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 74364,
+      "forks": 9510,
+      "added_stars": "52 stars today"
     },
     {
       "title": "erincatto / box3d",
       "url": "https://github.com/erincatto/box3d",
       "description": "Box3D is a 3D physics engine for games",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5749,
+      "forks": 282,
+      "added_stars": "49 stars today"
     },
     {
       "title": "RightNow-AI / picolm",
       "url": "https://github.com/RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1868,
+      "forks": 234,
+      "added_stars": "40 stars today"
     },
     {
       "title": "vedderb / bldc",
       "url": "https://github.com/vedderb/bldc",
       "description": "The VESC motor control firmware",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3307,
+      "forks": 1894,
+      "added_stars": "0 stars today"
     },
     {
       "title": "hrvach / deskhop",
       "url": "https://github.com/hrvach/deskhop",
       "description": "Fast Desktop Switching Device",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7827,
+      "forks": 284,
+      "added_stars": "26 stars today"
     },
     {
       "title": "glfw / glfw",
       "url": "https://github.com/glfw/glfw",
       "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 15224,
+      "forks": 5907,
+      "added_stars": "7 stars today"
     },
     {
       "title": "ThrowTheSwitch / Unity",
       "url": "https://github.com/ThrowTheSwitch/Unity",
       "description": "Simple unit testing for C",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5326,
+      "forks": 1124,
+      "added_stars": "0 stars today"
     },
     {
       "title": "lvgl / lvgl",
       "url": "https://github.com/lvgl/lvgl",
       "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 24271,
+      "forks": 4272,
+      "added_stars": "3 stars today"
     },
     {
       "title": "fluent / fluent-bit",
       "url": "https://github.com/fluent/fluent-bit",
       "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
-      "language": "c#"
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8003,
+      "forks": 1957,
+      "added_stars": "4 stars today"
     }
   ]
 }

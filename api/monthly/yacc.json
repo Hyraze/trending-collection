@@ -2,13 +2,17 @@
   "title": "GitHub Yacc Languages Daily Trending",
   "description": "Daily Trending of Yacc Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "tree-sitter / tree-sitter-agda",
       "url": "https://github.com/tree-sitter/tree-sitter-agda",
       "description": "Agda grammar for tree-sitter",
-      "language": "yacc"
+      "language": "Yacc",
+      "languageColor": "#4B6C4B",
+      "stars": 47,
+      "forks": 19,
+      "added_stars": "1 star this month"
     }
   ]
 }

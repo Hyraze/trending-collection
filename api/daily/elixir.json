@@ -2,91 +2,147 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "openai / symphony",
       "url": "https://github.com/openai/symphony",
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 26362,
+      "forks": 2666,
+      "added_stars": "26 stars today"
     },
     {
       "title": "blockscout / blockscout",
       "url": "https://github.com/blockscout/blockscout",
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4624,
+      "forks": 3127,
+      "added_stars": "2 stars today"
     },
     {
       "title": "phoenixframework / phoenix",
       "url": "https://github.com/phoenixframework/phoenix",
       "description": "Peace of mind from prototype to production",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 23102,
+      "forks": 3084,
+      "added_stars": "2 stars today"
     },
     {
       "title": "supabase / realtime",
       "url": "https://github.com/supabase/realtime",
       "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 7608,
+      "forks": 454,
+      "added_stars": "0 stars today"
     },
     {
       "title": "teslamate-org / teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 8792,
+      "forks": 995,
+      "added_stars": "2 stars today"
     },
     {
       "title": "plausible / analytics",
       "url": "https://github.com/plausible/analytics",
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 28272,
+      "forks": 1761,
+      "added_stars": "42 stars today"
     },
     {
       "title": "duffelhq / paginator",
       "url": "https://github.com/duffelhq/paginator",
       "description": "Cursor-based pagination for Elixir Ecto",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 822,
+      "forks": 102,
+      "added_stars": "0 stars today"
     },
     {
       "title": "ntrepid8 / ex_crypto",
       "url": "https://github.com/ntrepid8/ex_crypto",
       "description": "Wrapper around the Erlang crypto module for Elixir.",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 161,
+      "forks": 51,
+      "added_stars": "0 stars today"
     },
     {
       "title": "hexpm / hex",
       "url": "https://github.com/hexpm/hex",
       "description": "Package manager for the Erlang ecosystem.",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 1084,
+      "forks": 207,
+      "added_stars": "0 stars today"
     },
     {
       "title": "OffchainLabs / blockscout",
       "url": "https://github.com/OffchainLabs/blockscout",
       "description": "",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 58,
+      "forks": 24,
+      "added_stars": "0 stars today"
     },
     {
       "title": "supabase / supavisor",
       "url": "https://github.com/supabase/supavisor",
       "description": "A cloud-native, multi-tenant Postgres connection pooler.",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 2246,
+      "forks": 113,
+      "added_stars": "1 star today"
     },
     {
       "title": "kieraneglin / pinchflat",
       "url": "https://github.com/kieraneglin/pinchflat",
       "description": "Your next YouTube media manager",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5195,
+      "forks": 155,
+      "added_stars": "2 stars today"
     },
     {
       "title": "open-telemetry / opentelemetry-erlang-contrib",
       "url": "https://github.com/open-telemetry/opentelemetry-erlang-contrib",
       "description": "OpenTelemetry instrumentation for Erlang & Elixir",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 216,
+      "forks": 166,
+      "added_stars": "0 stars today"
     },
     {
       "title": "elixir-lang / elixir",
       "url": "https://github.com/elixir-lang/elixir",
       "description": "Simple from zero to scale",
-      "language": "elixir"
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 26588,
+      "forks": 3617,
+      "added_stars": "1 star today"
     }
   ]
 }

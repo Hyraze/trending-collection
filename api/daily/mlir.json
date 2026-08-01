@@ -2,37 +2,57 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
       "url": "https://github.com/triton-lang/triton",
       "description": "Development repository for the Triton language and compiler",
-      "language": "mlir"
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 19830,
+      "forks": 3066,
+      "added_stars": "11 stars today"
     },
     {
       "title": "intel / intel-xpu-backend-for-triton",
       "url": "https://github.com/intel/intel-xpu-backend-for-triton",
       "description": "OpenAI Triton backend for Intel® GPUs",
-      "language": "mlir"
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 263,
+      "forks": 106,
+      "added_stars": "0 stars today"
     },
     {
       "title": "triton-lang / triton-ascend",
       "url": "https://github.com/triton-lang/triton-ascend",
       "description": "Triton language and compiler for Ascend NPU",
-      "language": "mlir"
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 124,
+      "forks": 169,
+      "added_stars": "2 stars today"
     },
     {
       "title": "openxla / stablehlo",
       "url": "https://github.com/openxla/stablehlo",
       "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
-      "language": "mlir"
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 678,
+      "forks": 211,
+      "added_stars": "1 star today"
     },
     {
       "title": "ROCm / rocMLIR",
       "url": "https://github.com/ROCm/rocMLIR",
       "description": "",
-      "language": "mlir"
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 188,
+      "forks": 57,
+      "added_stars": "0 stars today"
     }
   ]
 }

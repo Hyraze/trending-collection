@@ -96,7 +96,11 @@ _This repository provides a free, static JSON API and RSS feeds for GitHub Trend
 - **RSS (All)**: `https://cdn.jsdelivr.net/gh/Hyraze/trending-collection@main/api/daily/all.xml`
 - **RSS (Specific)**: `https://cdn.jsdelivr.net/gh/Hyraze/trending-collection@main/api/daily/{language}.xml`
 
-> Replace `{language}` with the lowercase language name (e.g., `python`, `c++`, `javascript`). For spaces, use hyphens (e.g., `1c-enterprise`). We support all 700+ GitHub languages.
+### Language Registry
+You can fetch the complete list of supported `{language}` parameters (700+ languages) here:
+- **Languages List**: `https://cdn.jsdelivr.net/gh/Hyraze/trending-collection@main/languages.json`
+
+> Replace `{language}` with the lowercase language name (e.g., `python`, `c++`, `javascript`). For spaces, use hyphens (e.g., `1c-enterprise`).
 
 ### Example Response (`python.json`)
 ```json

@@ -2,31 +2,47 @@
   "title": "GitHub Webassembly Languages Daily Trending",
   "description": "Daily Trending of Webassembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "AssemblyScript / assemblyscript",
       "url": "https://github.com/AssemblyScript/assemblyscript",
       "description": "A TypeScript-like language for WebAssembly.",
-      "language": "webassembly"
+      "language": "WebAssembly",
+      "languageColor": "#04133b",
+      "stars": 17980,
+      "forks": 693,
+      "added_stars": "21 stars this week"
     },
     {
       "title": "iRath96 / webNBT",
       "url": "https://github.com/iRath96/webNBT",
       "description": "An HTML5 NBT-editor based on emscripten",
-      "language": "webassembly"
+      "language": "WebAssembly",
+      "languageColor": "#04133b",
+      "stars": 279,
+      "forks": 49,
+      "added_stars": "1 star this week"
     },
     {
       "title": "WebAssembly / binaryen",
       "url": "https://github.com/WebAssembly/binaryen",
       "description": "Optimizer and compiler/toolchain library for WebAssembly",
-      "language": "webassembly"
+      "language": "WebAssembly",
+      "languageColor": "#04133b",
+      "stars": 8586,
+      "forks": 869,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "WebAssembly / component-model",
       "url": "https://github.com/WebAssembly/component-model",
       "description": "Repository for design and specification of the Component Model",
-      "language": "webassembly"
+      "language": "WebAssembly",
+      "languageColor": "#04133b",
+      "stars": 1346,
+      "forks": 127,
+      "added_stars": "8 stars this week"
     }
   ]
 }

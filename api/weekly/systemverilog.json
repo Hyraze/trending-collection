@@ -2,67 +2,107 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "verilator / verilator",
       "url": "https://github.com/verilator/verilator",
       "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3797,
+      "forks": 864,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "lowRISC / opentitan",
       "url": "https://github.com/lowRISC/opentitan",
       "description": "OpenTitan: Open source silicon root of trust",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3572,
+      "forks": 1075,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "lowRISC / ibex",
       "url": "https://github.com/lowRISC/ibex",
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 1997,
+      "forks": 780,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "chipsalliance / caliptra-rtl",
       "url": "https://github.com/chipsalliance/caliptra-rtl",
       "description": "HW Design Collateral for Caliptra RoT IP",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 148,
+      "forks": 101,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "chipsalliance / i3c-core",
       "url": "https://github.com/chipsalliance/i3c-core",
       "description": "",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 54,
+      "forks": 34,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "chipsalliance / adams-bridge",
       "url": "https://github.com/chipsalliance/adams-bridge",
       "description": "Post-Quantum Cryptography IP Core (Crystals-Dilithium)",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 59,
+      "forks": 16,
+      "added_stars": "1 star this week"
     },
     {
       "title": "adam-maj / tiny-gpu",
       "url": "https://github.com/adam-maj/tiny-gpu",
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 12796,
+      "forks": 1228,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "bsc-loca / sargantana",
       "url": "https://github.com/bsc-loca/sargantana",
       "description": "",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 159,
+      "forks": 41,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "chipsalliance / Cores-VeeR-EL2",
       "url": "https://github.com/chipsalliance/Cores-VeeR-EL2",
       "description": "VeeR EL2 Core",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 343,
+      "forks": 107,
+      "added_stars": "1 star this week"
     },
     {
       "title": "openhwgroup / cvw",
       "url": "https://github.com/openhwgroup/cvw",
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-      "language": "systemverilog"
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 590,
+      "forks": 548,
+      "added_stars": "3 stars this week"
     }
   ]
 }

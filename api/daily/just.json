@@ -2,19 +2,27 @@
   "title": "GitHub Just Languages Daily Trending",
   "description": "Daily Trending of Just Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "ublue-os / bazzite",
       "url": "https://github.com/ublue-os/bazzite",
       "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
-      "language": "just"
+      "language": "Just",
+      "languageColor": "#384d54",
+      "stars": 8867,
+      "forks": 1010,
+      "added_stars": "6 stars today"
     },
     {
       "title": "pop-os / cosmic-epoch",
       "url": "https://github.com/pop-os/cosmic-epoch",
       "description": "Next generation Cosmic desktop environment",
-      "language": "just"
+      "language": "Just",
+      "languageColor": "#384d54",
+      "stars": 6560,
+      "forks": 205,
+      "added_stars": "10 stars today"
     }
   ]
 }

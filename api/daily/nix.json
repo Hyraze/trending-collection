@@ -2,73 +2,117 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "nix-community / home-manager",
       "url": "https://github.com/nix-community/home-manager",
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
-      "language": "nix"
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 10161,
+      "forks": 2447,
+      "added_stars": "8 stars today"
     },
     {
       "title": "supabase / postgres",
       "url": "https://github.com/supabase/postgres",
       "description": "Unmodified Postgres with some useful extensions",
-      "language": "nix"
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1767,
+      "forks": 258,
+      "added_stars": "0 stars today"
     },
     {
       "title": "NixOS / nixpkgs",
       "url": "https://github.com/NixOS/nixpkgs",
       "description": "Nix Packages collection & NixOS",
-      "language": "nix"
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 25612,
+      "forks": 19685,
+      "added_stars": "14 stars today"
     },
     {
       "title": "oxalica / rust-overlay",
       "url": "https://github.com/oxalica/rust-overlay",
       "description": "Pure and reproducible nix overlay of binary distributed rust toolchains",
-      "language": "nix"
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1533,
+      "forks": 88,
+      "added_stars": "0 stars today"
     },
     {
       "title": "nix-community / ethereum.nix",
       "url": "https://github.com/nix-community/ethereum.nix",
       "description": "Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon,@bbjubjub2494]",
-      "language": "nix"
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 154,
+      "forks": 45,
+      "added_stars": "0 stars today"
     },
     {
       "title": "nix-community / impermanence",
       "url": "https://github.com/nix-community/impermanence",
       "description": "Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]",
-      "language": "nix"
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1850,
+      "forks": 136,
+      "added_stars": "2 stars today"
     },
     {
       "title": "NixOS / nix.dev",
       "url": "https://github.com/NixOS/nix.dev",
       "description": "Official documentation for getting things done with Nix.",
-      "language": "nix"
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3895,
+      "forks": 335,
+      "added_stars": "3 stars today"
     },
     {
       "title": "nix-community / disko",
       "url": "https://github.com/nix-community/disko",
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
-      "language": "nix"
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3225,
+      "forks": 317,
+      "added_stars": "3 stars today"
     },
     {
       "title": "numtide / llm-agents.nix",
       "url": "https://github.com/numtide/llm-agents.nix",
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
-      "language": "nix"
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1682,
+      "forks": 188,
+      "added_stars": "4 stars today"
     },
     {
       "title": "nix-darwin / nix-darwin",
       "url": "https://github.com/nix-darwin/nix-darwin",
       "description": "Manage your macOS using Nix",
-      "language": "nix"
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 5768,
+      "forks": 653,
+      "added_stars": "1 star today"
     },
     {
       "title": "NixOS / nixos-hardware",
       "url": "https://github.com/NixOS/nixos-hardware",
       "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "nix"
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3234,
+      "forks": 956,
+      "added_stars": "0 stars today"
     }
   ]
 }

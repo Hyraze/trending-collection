@@ -2,13 +2,17 @@
   "title": "GitHub Chapel Languages Daily Trending",
   "description": "Daily Trending of Chapel Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "chapel-lang / chapel",
       "url": "https://github.com/chapel-lang/chapel",
       "description": "a Productive Parallel Programming Language",
-      "language": "chapel"
+      "language": "Chapel",
+      "languageColor": "#8dc63f",
+      "stars": 2014,
+      "forks": 448,
+      "added_stars": "0 stars today"
     }
   ]
 }

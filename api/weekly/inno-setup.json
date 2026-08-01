@@ -2,19 +2,27 @@
   "title": "GitHub Inno-setup Languages Daily Trending",
   "description": "Daily Trending of Inno-setup Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "CnCNet / cncnet-yr-client-package",
       "url": "https://github.com/CnCNet/cncnet-yr-client-package",
       "description": "The official CnCNet Yuri's Revenge package for online.",
-      "language": "inno-setup"
+      "language": "Inno Setup",
+      "languageColor": "#264b99",
+      "stars": 143,
+      "forks": 58,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "git-for-windows / build-extra",
       "url": "https://github.com/git-for-windows/build-extra",
       "description": "Additional files and scripts to help build Git for Windows on MSYS2.",
-      "language": "inno-setup"
+      "language": "Inno Setup",
+      "languageColor": "#264b99",
+      "stars": 677,
+      "forks": 652,
+      "added_stars": "0 stars this week"
     }
   ]
 }

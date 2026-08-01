@@ -2,19 +2,27 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "Dadoum / Sideloader",
       "url": "https://github.com/Dadoum/Sideloader",
       "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
-      "language": "d"
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 985,
+      "forks": 138,
+      "added_stars": "1 star today"
     },
     {
       "title": "abraunegg / onedrive",
       "url": "https://github.com/abraunegg/onedrive",
       "description": "OneDrive Client for Linux",
-      "language": "d"
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 12656,
+      "forks": 913,
+      "added_stars": "3 stars today"
     }
   ]
 }

@@ -2,13 +2,17 @@
   "title": "GitHub Handlebars Languages Daily Trending",
   "description": "Daily Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "elastic / integrations",
       "url": "https://github.com/elastic/integrations",
       "description": "",
-      "language": "handlebars"
+      "language": "Handlebars",
+      "languageColor": "#f7931e",
+      "stars": 330,
+      "forks": 619,
+      "added_stars": "0 stars today"
     }
   ]
 }

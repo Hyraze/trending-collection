@@ -2,49 +2,77 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "GTFOBins / GTFOBins.github.io",
       "url": "https://github.com/GTFOBins/GTFOBins.github.io",
       "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
-      "language": "yaml"
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 13506,
+      "forks": 1653,
+      "added_stars": "26 stars this week"
     },
     {
       "title": "aquaproj / aqua-registry",
       "url": "https://github.com/aquaproj/aqua-registry",
       "description": "aqua's Standard Registry",
-      "language": "yaml"
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 361,
+      "forks": 378,
+      "added_stars": "1 star this week"
     },
     {
       "title": "stashapp / CommunityScrapers",
       "url": "https://github.com/stashapp/CommunityScrapers",
       "description": "This is a public repository containing scrapers created by the Stash Community.",
-      "language": "yaml"
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 827,
+      "forks": 518,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "web-platform-dx / web-features",
       "url": "https://github.com/web-platform-dx/web-features",
       "description": "Exploring how to present Web platform features adoptability",
-      "language": "yaml"
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 890,
+      "forks": 308,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "usnistgov / macos_security",
       "url": "https://github.com/usnistgov/macos_security",
       "description": "macOS Security Compliance Project",
-      "language": "yaml"
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 2428,
+      "forks": 300,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "kubeflow / community-distribution",
       "url": "https://github.com/kubeflow/community-distribution",
       "description": "Kubeflow Community Distribution",
-      "language": "yaml"
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 1029,
+      "forks": 1069,
+      "added_stars": "1 star this week"
     },
     {
       "title": "sublime-security / sublime-rules",
       "url": "https://github.com/sublime-security/sublime-rules",
       "description": "Sublime rules for email attack detection, prevention, and threat hunting.",
-      "language": "yaml"
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 368,
+      "forks": 101,
+      "added_stars": "2 stars this week"
     }
   ]
 }

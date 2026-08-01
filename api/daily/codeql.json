@@ -2,13 +2,17 @@
   "title": "GitHub Codeql Languages Daily Trending",
   "description": "Daily Trending of Codeql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "github / codeql",
       "url": "https://github.com/github/codeql",
       "description": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security",
-      "language": "codeql"
+      "language": "CodeQL",
+      "languageColor": "#140f46",
+      "stars": 9896,
+      "forks": 2039,
+      "added_stars": "3 stars today"
     }
   ]
 }

@@ -2,43 +2,67 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "triton-lang / triton-ascend",
       "url": "https://github.com/triton-lang/triton-ascend",
       "description": "Triton language and compiler for Ascend NPU",
-      "language": "mlir"
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 124,
+      "forks": 169,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "triton-lang / triton",
       "url": "https://github.com/triton-lang/triton",
       "description": "Development repository for the Triton language and compiler",
-      "language": "mlir"
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 19830,
+      "forks": 3066,
+      "added_stars": "59 stars this week"
     },
     {
       "title": "intel / intel-xpu-backend-for-triton",
       "url": "https://github.com/intel/intel-xpu-backend-for-triton",
       "description": "OpenAI Triton backend for Intel® GPUs",
-      "language": "mlir"
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 263,
+      "forks": 106,
+      "added_stars": "1 star this week"
     },
     {
       "title": "facebookexperimental / triton",
       "url": "https://github.com/facebookexperimental/triton",
       "description": "Github mirror of trition-lang/triton repo.",
-      "language": "mlir"
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 182,
+      "forks": 63,
+      "added_stars": "1 star this week"
     },
     {
       "title": "tenstorrent / tt-mlir",
       "url": "https://github.com/tenstorrent/tt-mlir",
       "description": "Tenstorrent MLIR compiler",
-      "language": "mlir"
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 294,
+      "forks": 139,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "ROCm / rocMLIR",
       "url": "https://github.com/ROCm/rocMLIR",
       "description": "",
-      "language": "mlir"
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 188,
+      "forks": 57,
+      "added_stars": "3 stars this week"
     }
   ]
 }

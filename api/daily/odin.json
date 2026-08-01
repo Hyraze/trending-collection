@@ -2,13 +2,17 @@
   "title": "GitHub Odin Languages Daily Trending",
   "description": "Daily Trending of Odin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "odin-lang / Odin",
       "url": "https://github.com/odin-lang/Odin",
       "description": "Odin Programming Language",
-      "language": "odin"
+      "language": "Odin",
+      "languageColor": "#60AFFE",
+      "stars": 11567,
+      "forks": 1042,
+      "added_stars": "9 stars today"
     }
   ]
 }

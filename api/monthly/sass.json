@@ -2,19 +2,27 @@
   "title": "GitHub Sass Languages Daily Trending",
   "description": "Daily Trending of Sass Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "readthedocs / sphinx_rtd_theme",
       "url": "https://github.com/readthedocs/sphinx_rtd_theme",
       "description": "Sphinx theme from Read the Docs",
-      "language": "sass"
+      "language": "Sass",
+      "languageColor": "#a53b70",
+      "stars": 5075,
+      "forks": 1839,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "pradyunsg / furo",
       "url": "https://github.com/pradyunsg/furo",
       "description": "A clean customizable documentation theme for Sphinx",
-      "language": "sass"
+      "language": "Sass",
+      "languageColor": "#a53b70",
+      "stars": 3550,
+      "forks": 382,
+      "added_stars": "33 stars this month"
     }
   ]
 }

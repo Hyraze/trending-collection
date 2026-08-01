@@ -2,37 +2,57 @@
   "title": "GitHub Ejs Languages Daily Trending",
   "description": "Daily Trending of Ejs Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "github / haikus-for-codespaces",
       "url": "https://github.com/github/haikus-for-codespaces",
       "description": "",
-      "language": "ejs"
+      "language": "EJS",
+      "languageColor": "#a91e50",
+      "stars": 2820,
+      "forks": 4791,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "Fechin / reference",
       "url": "https://github.com/Fechin/reference",
       "description": "⭕ Share quick reference cheat sheet for developers.",
-      "language": "ejs"
+      "language": "EJS",
+      "languageColor": "#a91e50",
+      "stars": 10732,
+      "forks": 1314,
+      "added_stars": "29 stars this week"
     },
     {
       "title": "docker / multi-container-app",
       "url": "https://github.com/docker/multi-container-app",
       "description": "",
-      "language": "ejs"
+      "language": "EJS",
+      "languageColor": "#a91e50",
+      "stars": 228,
+      "forks": 650,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "LondheShubham153 / node-todo-cicd",
       "url": "https://github.com/LondheShubham153/node-todo-cicd",
       "description": "",
-      "language": "ejs"
+      "language": "EJS",
+      "languageColor": "#a91e50",
+      "stars": 276,
+      "forks": 6061,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "Ovi / DummyJSON",
       "url": "https://github.com/Ovi/DummyJSON",
       "description": "DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.",
-      "language": "ejs"
+      "language": "EJS",
+      "languageColor": "#a91e50",
+      "stars": 2877,
+      "forks": 301,
+      "added_stars": "5 stars this week"
     }
   ]
 }

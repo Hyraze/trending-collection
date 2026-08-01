@@ -2,49 +2,77 @@
   "title": "GitHub Smali Languages Daily Trending",
   "description": "Daily Trending of Smali Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "LittleSurvival / copymanga-copy20",
       "url": "https://github.com/LittleSurvival/copymanga-copy20",
       "description": "Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme",
-      "language": "smali"
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 2461,
+      "forks": 15,
+      "added_stars": "158 stars this month"
     },
     {
       "title": "Producdevity / gamehub-lite",
       "url": "https://github.com/Producdevity/gamehub-lite",
       "description": "GameHub Lite is a community-maintained modified version of GameHub for education purposes",
-      "language": "smali"
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 1886,
+      "forks": 53,
+      "added_stars": "115 stars this month"
     },
     {
       "title": "phhusson / treble_experimentations",
       "url": "https://github.com/phhusson/treble_experimentations",
       "description": "Notes about tinkering with Android Project Treble",
-      "language": "smali"
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 3580,
+      "forks": 700,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "sothx / xiaomi_pad_system_patch_additional_module",
       "url": "https://github.com/sothx/xiaomi_pad_system_patch_additional_module",
       "description": "",
-      "language": "smali"
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 43,
+      "forks": 210,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "vtosters / lite",
       "url": "https://github.com/vtosters/lite",
       "description": "Модифицированный клиент VK",
-      "language": "smali"
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 625,
+      "forks": 35,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "AhMyth / AhMyth-Android-RAT",
       "url": "https://github.com/AhMyth/AhMyth-Android-RAT",
       "description": "Android Remote Administration Tool",
-      "language": "smali"
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 5242,
+      "forks": 1869,
+      "added_stars": "53 stars this month"
     },
     {
       "title": "The412Banner / BannerHub",
       "url": "https://github.com/The412Banner/BannerHub",
       "description": "GameHub ReVanced — extended with GOG, Epic & Amazon game libraries, Component Manager, Winlator HUD, per-game controls & configs, and more. Built via apktool smali patching.",
-      "language": "smali"
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 437,
+      "forks": 24,
+      "added_stars": "54 stars this month"
     }
   ]
 }

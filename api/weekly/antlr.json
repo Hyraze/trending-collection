@@ -2,13 +2,17 @@
   "title": "GitHub Antlr Languages Daily Trending",
   "description": "Daily Trending of Antlr Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "antlr / grammars-v4",
       "url": "https://github.com/antlr/grammars-v4",
       "description": "Grammars written for ANTLR v4; expectation that the grammars are free of actions.",
-      "language": "antlr"
+      "language": "ANTLR",
+      "languageColor": "#9DC3FF",
+      "stars": 11048,
+      "forks": 3806,
+      "added_stars": "6 stars this week"
     }
   ]
 }

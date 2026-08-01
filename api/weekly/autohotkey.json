@@ -2,31 +2,47 @@
   "title": "GitHub Autohotkey Languages Daily Trending",
   "description": "Daily Trending of Autohotkey Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "NatroTeam / NatroMacro",
       "url": "https://github.com/NatroTeam/NatroMacro",
       "description": "A Bee Swarm Simulator macro for Windows",
-      "language": "autohotkey"
+      "language": "AutoHotkey",
+      "languageColor": "#6594b9",
+      "stars": 2386,
+      "forks": 231,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "ivelchampion249 / FishSol-Macro",
       "url": "https://github.com/ivelchampion249/FishSol-Macro",
       "description": "Works on 1920x1080, 2560x1440, and 1366x768. Must be on 100% zoom and Fullscreen. Firstly, you want to walk over to the Fisherman NPC (Captain Flarg), and open the sell menu and keep it open. After that, walk over to your favorite fishing spot. Press F1 to activate the macro, F2 to pause the macro, and F3 to force close.",
-      "language": "autohotkey"
+      "language": "AutoHotkey",
+      "languageColor": "#6594b9",
+      "stars": 25,
+      "forks": 10,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "Pulover / PuloversMacroCreator",
       "url": "https://github.com/Pulover/PuloversMacroCreator",
       "description": "Automation Utility - Recorder & Script Generator",
-      "language": "autohotkey"
+      "language": "AutoHotkey",
+      "languageColor": "#6594b9",
+      "stars": 2010,
+      "forks": 276,
+      "added_stars": "1 star this week"
     },
     {
       "title": "CemuUser8 / mouse2joystick_custom_CEMU",
       "url": "https://github.com/CemuUser8/mouse2joystick_custom_CEMU",
       "description": "An AutoHotkey Script to allow the use of Mouse and Keyboard control in CEMU. This uses vJoy and provides several additional features over regular keyboard control, like: the ability to control the camera with the mouse, toggle walking speed, in BotW use MouseWheel to change weapons, a separate Toggle key for ZL useful for locking onto a target …",
-      "language": "autohotkey"
+      "language": "AutoHotkey",
+      "languageColor": "#6594b9",
+      "stars": 213,
+      "forks": 56,
+      "added_stars": "0 stars this week"
     }
   ]
 }

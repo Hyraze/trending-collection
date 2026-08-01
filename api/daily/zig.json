@@ -2,109 +2,177 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "lightpanda-io / browser",
       "url": "https://github.com/lightpanda-io/browser",
       "description": "Lightpanda: the headless browser designed for AI and automation",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 33277,
+      "forks": 1512,
+      "added_stars": "75 stars today"
     },
     {
       "title": "ghostty-org / ghostty",
       "url": "https://github.com/ghostty-org/ghostty",
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 59061,
+      "forks": 3188,
+      "added_stars": "63 stars today"
     },
     {
       "title": "Seafoam-Labs / Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 949,
+      "forks": 76,
+      "added_stars": "12 stars today"
     },
     {
       "title": "Loongphy / codex-auth",
       "url": "https://github.com/Loongphy/codex-auth",
       "description": "A CLI tool to switch and manage Codex accounts",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2418,
+      "forks": 142,
+      "added_stars": "7 stars today"
     },
     {
       "title": "neurosnap / zmx",
       "url": "https://github.com/neurosnap/zmx",
       "description": "Session attach/detach for the terminal",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1979,
+      "forks": 134,
+      "added_stars": "5 stars today"
     },
     {
       "title": "riverwm / river",
       "url": "https://github.com/riverwm/river",
       "description": "[mirror] A non-monolithic Wayland compositor",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 4222,
+      "forks": 167,
+      "added_stars": "5 stars today"
     },
     {
       "title": "david-vanderson / dvui",
       "url": "https://github.com/david-vanderson/dvui",
       "description": "Immediate Zig GUI for Apps and Games",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1607,
+      "forks": 136,
+      "added_stars": "7 stars today"
     },
     {
       "title": "kristoff-it / zine",
       "url": "https://github.com/kristoff-it/zine",
       "description": "Fast, Scalable, Flexible Static Site Generator (SSG)",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1504,
+      "forks": 103,
+      "added_stars": "4 stars today"
     },
     {
       "title": "tigerbeetle / tigerbeetle",
       "url": "https://github.com/tigerbeetle/tigerbeetle",
       "description": "The financial transactions database designed for mission critical safety and performance.",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 16697,
+      "forks": 873,
+      "added_stars": "5 stars today"
     },
     {
       "title": "ZigEmbeddedGroup / microzig",
       "url": "https://github.com/ZigEmbeddedGroup/microzig",
       "description": "MicroZig is a toolbox for building embedded applications in Zig.",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2237,
+      "forks": 184,
+      "added_stars": "1 star today"
     },
     {
       "title": "roc-lang / roc",
       "url": "https://github.com/roc-lang/roc",
       "description": "A fast, friendly, functional language.",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 5905,
+      "forks": 405,
+      "added_stars": "5 stars today"
     },
     {
       "title": "vancluever / z2d",
       "url": "https://github.com/vancluever/z2d",
       "description": "Pure Zig 2D graphics library",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 282,
+      "forks": 17,
+      "added_stars": "3 stars today"
     },
     {
       "title": "zigtools / zls",
       "url": "https://github.com/zigtools/zls",
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 5049,
+      "forks": 443,
+      "added_stars": "3 stars today"
     },
     {
       "title": "xuzhougeng / wispterm",
       "url": "https://github.com/xuzhougeng/wispterm",
       "description": "A cross-platform terminal workspace for remote development and AI agent workflows, powered by libghostty-vt",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 356,
+      "forks": 24,
+      "added_stars": "1 star today"
     },
     {
       "title": "neurocyte / flow",
       "url": "https://github.com/neurocyte/flow",
       "description": "Flow Control: a programmer's text editor",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2147,
+      "forks": 113,
+      "added_stars": "2 stars today"
     },
     {
       "title": "PixelGuys / Cubyz",
       "url": "https://github.com/PixelGuys/Cubyz",
       "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 3594,
+      "forks": 232,
+      "added_stars": "1 star today"
     },
     {
       "title": "nullclaw / nullhub",
       "url": "https://github.com/nullclaw/nullhub",
       "description": "Management console for the Null ecosystem — install, configure, and monitor AI agents, orchestration workflows, task pipelines, and system health",
-      "language": "zig"
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1896,
+      "forks": 131,
+      "added_stars": "38 stars today"
     }
   ]
 }

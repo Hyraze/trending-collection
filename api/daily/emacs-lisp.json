@@ -2,61 +2,97 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 16:58:55 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
   "items": [
     {
       "title": "xenodium / agent-shell",
       "url": "https://github.com/xenodium/agent-shell",
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "emacs-lisp"
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1671,
+      "forks": 210,
+      "added_stars": "5 stars today"
     },
     {
       "title": "magit / transient",
       "url": "https://github.com/magit/transient",
       "description": "Transient commands",
-      "language": "emacs-lisp"
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 882,
+      "forks": 73,
+      "added_stars": "0 stars today"
     },
     {
       "title": "doomemacs / core",
       "url": "https://github.com/doomemacs/core",
       "description": "An Emacs framework for the stubborn martian hacker",
-      "language": "emacs-lisp"
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 22535,
+      "forks": 3163,
+      "added_stars": "6 stars today"
     },
     {
       "title": "dakra / ghostel",
       "url": "https://github.com/dakra/ghostel",
       "description": "Terminal emulator powered by libghostty",
-      "language": "emacs-lisp"
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 812,
+      "forks": 47,
+      "added_stars": "7 stars today"
     },
     {
       "title": "emacs-mirror / emacs",
       "url": "https://github.com/emacs-mirror/emacs",
       "description": "Mirror of GNU Emacs",
-      "language": "emacs-lisp"
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 5131,
+      "forks": 1391,
+      "added_stars": "2 stars today"
     },
     {
       "title": "karthink / gptel",
       "url": "https://github.com/karthink/gptel",
       "description": "A simple, extensible LLM client for Emacs",
-      "language": "emacs-lisp"
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3461,
+      "forks": 417,
+      "added_stars": "2 stars today"
     },
     {
       "title": "radian-software / straight.el",
       "url": "https://github.com/radian-software/straight.el",
       "description": "🍀 Next-generation, purely functional package manager for the Emacs hacker.",
-      "language": "emacs-lisp"
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3019,
+      "forks": 169,
+      "added_stars": "0 stars today"
     },
     {
       "title": "melpa / melpa",
       "url": "https://github.com/melpa/melpa",
       "description": "Recipes and build machinery for the biggest Emacs package repo",
-      "language": "emacs-lisp"
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2962,
+      "forks": 2788,
+      "added_stars": "0 stars today"
     },
     {
       "title": "flycheck / flycheck",
       "url": "https://github.com/flycheck/flycheck",
       "description": "On the fly syntax checking for GNU Emacs",
-      "language": "emacs-lisp"
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2527,
+      "forks": 460,
+      "added_stars": "0 stars today"
     }
   ]
 }

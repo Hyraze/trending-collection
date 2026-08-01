@@ -2,55 +2,87 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "kem-a / AppManager",
       "url": "https://github.com/kem-a/AppManager",
       "description": "MacOS style AppImage installer and management application",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 1250,
+      "forks": 27,
+      "added_stars": "296 stars this month"
     },
     {
       "title": "Vysp3r / ProtonPlus",
       "url": "https://github.com/Vysp3r/ProtonPlus",
       "description": "A modern compatibility tools manager",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 1648,
+      "forks": 49,
+      "added_stars": "93 stars this month"
     },
     {
       "title": "tkashkin / GameHub",
       "url": "https://github.com/tkashkin/GameHub",
       "description": "All your games in one place",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 2817,
+      "forks": 206,
+      "added_stars": "28 stars this month"
     },
     {
       "title": "BuddiesOfBudgie / budgie-desktop",
       "url": "https://github.com/BuddiesOfBudgie/budgie-desktop",
       "description": "Budgie Desktop is a familiar, modern desktop environment.",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 1325,
+      "forks": 64,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "christianloopp / komorebi",
       "url": "https://github.com/christianloopp/komorebi",
       "description": "A beautiful and customizable wallpapers manager for Linux",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 3746,
+      "forks": 257,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "linuxmint / timeshift",
       "url": "https://github.com/linuxmint/timeshift",
       "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 4208,
+      "forks": 151,
+      "added_stars": "59 stars this month"
     },
     {
       "title": "alainm23 / planify",
       "url": "https://github.com/alainm23/planify",
       "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 5507,
+      "forks": 318,
+      "added_stars": "86 stars this month"
     },
     {
       "title": "ErikReider / SwayNotificationCenter",
       "url": "https://github.com/ErikReider/SwayNotificationCenter",
       "description": "A simple GTK based notification daemon for any Wayland compositor",
-      "language": "vala"
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 2546,
+      "forks": 98,
+      "added_stars": "50 stars this month"
     }
   ]
 }

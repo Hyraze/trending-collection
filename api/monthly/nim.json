@@ -2,25 +2,37 @@
   "title": "GitHub Nim Languages Daily Trending",
   "description": "Daily Trending of Nim Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "zedeus / nitter",
       "url": "https://github.com/zedeus/nitter",
       "description": "Alternative Twitter front-end",
-      "language": "nim"
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 13377,
+      "forks": 748,
+      "added_stars": "219 stars this month"
     },
     {
       "title": "nim-lang / Nim",
       "url": "https://github.com/nim-lang/Nim",
       "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
-      "language": "nim"
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 18145,
+      "forks": 1544,
+      "added_stars": "101 stars this month"
     },
     {
       "title": "status-im / nimbus-eth2",
       "url": "https://github.com/status-im/nimbus-eth2",
       "description": "Nim implementation of the Ethereum Beacon Chain",
-      "language": "nim"
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 660,
+      "forks": 328,
+      "added_stars": "9 stars this month"
     }
   ]
 }

@@ -2,73 +2,117 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:03:09 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
   "items": [
     {
       "title": "leanprover-community / mathlib4",
       "url": "https://github.com/leanprover-community/mathlib4",
       "description": "The math library of Lean 4",
-      "language": "lean"
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 3739,
+      "forks": 1543,
+      "added_stars": "226 stars this month"
     },
     {
       "title": "leanprover / lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
-      "language": "lean"
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 8656,
+      "forks": 921,
+      "added_stars": "317 stars this month"
     },
     {
       "title": "google-deepmind / formal-conjectures",
       "url": "https://github.com/google-deepmind/formal-conjectures",
       "description": "A collection of formalized statements of conjectures in Lean.",
-      "language": "lean"
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1155,
+      "forks": 396,
+      "added_stars": "134 stars this month"
     },
     {
       "title": "harbor-framework / terminal-bench-science",
       "url": "https://github.com/harbor-framework/terminal-bench-science",
       "description": "Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
-      "language": "lean"
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 223,
+      "forks": 167,
+      "added_stars": "59 stars this month"
     },
     {
       "title": "leanprover-community / batteries",
       "url": "https://github.com/leanprover-community/batteries",
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
-      "language": "lean"
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 411,
+      "forks": 155,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "leanprover-community / LeanSearchClient",
       "url": "https://github.com/leanprover-community/LeanSearchClient",
       "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
-      "language": "lean"
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 35,
+      "forks": 9,
+      "added_stars": "1 star this month"
     },
     {
       "title": "leanprover / lean4-cli",
       "url": "https://github.com/leanprover/lean4-cli",
       "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
-      "language": "lean"
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 116,
+      "forks": 26,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "leanprover-community / plausible",
       "url": "https://github.com/leanprover-community/plausible",
       "description": "",
-      "language": "lean"
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 110,
+      "forks": 27,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "leanprover-community / ProofWidgets4",
       "url": "https://github.com/leanprover-community/ProofWidgets4",
       "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
-      "language": "lean"
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 221,
+      "forks": 45,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "leanprover-community / aesop",
       "url": "https://github.com/leanprover-community/aesop",
       "description": "White-box automation for Lean 4",
-      "language": "lean"
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 392,
+      "forks": 58,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "leanprover-community / quote4",
       "url": "https://github.com/leanprover-community/quote4",
       "description": "Intuitive, type-safe expression quotations for Lean 4.",
-      "language": "lean"
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 111,
+      "forks": 25,
+      "added_stars": "1 star this month"
     }
   ]
 }

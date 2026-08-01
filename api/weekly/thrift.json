@@ -2,13 +2,17 @@
   "title": "GitHub Thrift Languages Daily Trending",
   "description": "Daily Trending of Thrift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:01:02 GMT",
+  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
   "items": [
     {
       "title": "apache / parquet-format",
       "url": "https://github.com/apache/parquet-format",
       "description": "Apache Parquet Format",
-      "language": "thrift"
+      "language": "Thrift",
+      "languageColor": "#D12127",
+      "stars": 2511,
+      "forks": 500,
+      "added_stars": "9 stars this week"
     }
   ]
 }
