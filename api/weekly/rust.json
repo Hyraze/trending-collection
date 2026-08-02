@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
   "items": [
     {
       "title": "block / buzz",
@@ -10,9 +10,9 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20197,
-      "forks": 2081,
-      "added_stars": "10,558 stars this week"
+      "stars": 20575,
+      "forks": 2167,
+      "added_stars": "9,003 stars this week"
     },
     {
       "title": "1jehuang / jcode",
@@ -20,9 +20,9 @@
       "description": "The most RAM efficient harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14881,
-      "forks": 1653,
-      "added_stars": "3,351 stars this week"
+      "stars": 14995,
+      "forks": 1664,
+      "added_stars": "3,548 stars this week"
     },
     {
       "title": "tokio-rs / topcoat",
@@ -30,9 +30,9 @@
       "description": "A batteries-included framework for building web apps",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 4072,
-      "forks": 140,
-      "added_stars": "1,036 stars this week"
+      "stars": 4096,
+      "forks": 143,
+      "added_stars": "959 stars this week"
     },
     {
       "title": "Pumpkin-MC / Pumpkin",
@@ -40,9 +40,9 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10493,
-      "forks": 700,
-      "added_stars": "1,240 stars this week"
+      "stars": 10505,
+      "forks": 702,
+      "added_stars": "939 stars this week"
     },
     {
       "title": "Automattic / harper",
@@ -50,9 +50,9 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14077,
+      "stars": 14093,
       "forks": 542,
-      "added_stars": "1,206 stars this week"
+      "added_stars": "833 stars this week"
     },
     {
       "title": "astral-sh / uv",
@@ -60,9 +60,9 @@
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 88207,
+      "stars": 88215,
       "forks": 3426,
-      "added_stars": "377 stars this week"
+      "added_stars": "368 stars this week"
     },
     {
       "title": "dani-garcia / vaultwarden",
@@ -70,9 +70,9 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 64733,
-      "forks": 3072,
-      "added_stars": "544 stars this week"
+      "stars": 64763,
+      "forks": 3074,
+      "added_stars": "521 stars this week"
     },
     {
       "title": "max-sixty / worktrunk",
@@ -80,9 +80,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6235,
-      "forks": 224,
-      "added_stars": "233 stars this week"
+      "stars": 6244,
+      "forks": 225,
+      "added_stars": "236 stars this week"
     },
     {
       "title": "aaif-goose / goose",
@@ -90,9 +90,9 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 52062,
-      "forks": 5831,
-      "added_stars": "477 stars this week"
+      "stars": 52087,
+      "forks": 5839,
+      "added_stars": "451 stars this week"
     },
     {
       "title": "vectordotdev / vector",
@@ -100,9 +100,9 @@
       "description": "A high-performance observability data pipeline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 22270,
-      "forks": 2232,
-      "added_stars": "48 stars this week"
+      "stars": 22275,
+      "forks": 2233,
+      "added_stars": "51 stars this week"
     },
     {
       "title": "tonhowtf / omniget",
@@ -110,9 +110,9 @@
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8230,
-      "forks": 696,
-      "added_stars": "524 stars this week"
+      "stars": 8260,
+      "forks": 699,
+      "added_stars": "499 stars this week"
     },
     {
       "title": "ai-dynamo / dynamo",
@@ -120,9 +120,9 @@
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7652,
-      "forks": 1393,
-      "added_stars": "76 stars this week"
+      "stars": 7653,
+      "forks": 1392,
+      "added_stars": "75 stars this week"
     },
     {
       "title": "rustfs / rustfs",
@@ -130,9 +130,9 @@
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30530,
+      "stars": 30542,
       "forks": 1350,
-      "added_stars": "336 stars this week"
+      "added_stars": "357 stars this week"
     },
     {
       "title": "rustdesk / rustdesk",
@@ -140,8 +140,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 119378,
-      "forks": 18238,
+      "stars": 119402,
+      "forks": 18244,
       "added_stars": "597 stars this week"
     },
     {
@@ -150,9 +150,9 @@
       "description": "The programming language for agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8762,
+      "stars": 8767,
       "forks": 463,
-      "added_stars": "152 stars this week"
+      "added_stars": "168 stars this week"
     },
     {
       "title": "atuinsh / atuin",
@@ -160,9 +160,9 @@
       "description": "✨ Making your shell magical",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30954,
-      "forks": 913,
-      "added_stars": "213 stars this week"
+      "stars": 30957,
+      "forks": 915,
+      "added_stars": "212 stars this week"
     },
     {
       "title": "cjpais / Handy",
@@ -170,9 +170,9 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 28355,
-      "forks": 2478,
-      "added_stars": "844 stars this week"
+      "stars": 28393,
+      "forks": 2480,
+      "added_stars": "893 stars this week"
     },
     {
       "title": "openai / codex",
@@ -180,9 +180,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 103098,
-      "forks": 15530,
-      "added_stars": "1,816 stars this week"
+      "stars": 103183,
+      "forks": 15558,
+      "added_stars": "1,836 stars this week"
     },
     {
       "title": "zed-industries / zed",
@@ -190,9 +190,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 87870,
-      "forks": 9826,
-      "added_stars": "425 stars this week"
+      "stars": 87886,
+      "forks": 9830,
+      "added_stars": "423 stars this week"
     },
     {
       "title": "Dicklesworthstone / pi_agent_rust",
@@ -200,9 +200,9 @@
       "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1469,
+      "stars": 1475,
       "forks": 173,
-      "added_stars": "70 stars this week"
+      "added_stars": "71 stars this week"
     },
     {
       "title": "BurntSushi / ripgrep",
@@ -210,9 +210,9 @@
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 66795,
+      "stars": 66806,
       "forks": 2688,
-      "added_stars": "301 stars this week"
+      "added_stars": "308 stars this week"
     }
   ]
 }

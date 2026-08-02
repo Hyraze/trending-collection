@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,9 +10,9 @@
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 17407,
-      "forks": 1185,
-      "added_stars": "4,746 stars this week"
+      "stars": 17561,
+      "forks": 1193,
+      "added_stars": "4,708 stars this week"
     },
     {
       "title": "yorukot / superfile",
@@ -20,9 +20,9 @@
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22069,
-      "forks": 744,
-      "added_stars": "2,748 stars this week"
+      "stars": 22092,
+      "forks": 746,
+      "added_stars": "2,270 stars this week"
     },
     {
       "title": "cli / cli",
@@ -30,9 +30,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 45564,
-      "forks": 8801,
-      "added_stars": "179 stars this week"
+      "stars": 45581,
+      "forks": 8805,
+      "added_stars": "187 stars this week"
     },
     {
       "title": "ollama / ollama",
@@ -40,9 +40,9 @@
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 177512,
-      "forks": 17225,
-      "added_stars": "756 stars this week"
+      "stars": 177536,
+      "forks": 17231,
+      "added_stars": "768 stars this week"
     },
     {
       "title": "benbjohnson / litestream",
@@ -50,9 +50,9 @@
       "description": "Streaming replication for SQLite.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14154,
+      "stars": 14159,
       "forks": 384,
-      "added_stars": "194 stars this week"
+      "added_stars": "195 stars this week"
     },
     {
       "title": "github / gh-stack",
@@ -60,9 +60,9 @@
       "description": "GitHub Stacked PRs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 752,
-      "forks": 32,
-      "added_stars": "127 stars this week"
+      "stars": 852,
+      "forks": 38,
+      "added_stars": "212 stars this week"
     },
     {
       "title": "github / gh-aw",
@@ -72,7 +72,7 @@
       "languageColor": "#00ADD8",
       "stars": 4848,
       "forks": 475,
-      "added_stars": "45 stars this week"
+      "added_stars": "51 stars this week"
     },
     {
       "title": "wavetermdev / waveterm",
@@ -80,9 +80,9 @@
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 21888,
-      "forks": 1085,
-      "added_stars": "121 stars this week"
+      "stars": 21891,
+      "forks": 1086,
+      "added_stars": "118 stars this week"
     },
     {
       "title": "Wei-Shaw / sub2api",
@@ -90,9 +90,9 @@
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35510,
-      "forks": 7286,
-      "added_stars": "1,463 stars this week"
+      "stars": 35529,
+      "forks": 7290,
+      "added_stars": "1,376 stars this week"
     },
     {
       "title": "evolution-foundation / evolution-go",
@@ -100,9 +100,9 @@
       "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 579,
-      "forks": 312,
-      "added_stars": "90 stars this week"
+      "stars": 581,
+      "forks": 314,
+      "added_stars": "60 stars this week"
     },
     {
       "title": "infiniflow / ragflow",
@@ -110,9 +110,9 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 86566,
-      "forks": 10170,
-      "added_stars": "663 stars this week"
+      "stars": 86586,
+      "forks": 10174,
+      "added_stars": "633 stars this week"
     },
     {
       "title": "rclone / rclone",
@@ -120,8 +120,8 @@
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 58868,
-      "forks": 5276,
+      "stars": 58875,
+      "forks": 5277,
       "added_stars": "204 stars this week"
     },
     {
@@ -130,9 +130,9 @@
       "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 514,
+      "stars": 513,
       "forks": 40,
-      "added_stars": "32 stars this week"
+      "added_stars": "37 stars this week"
     },
     {
       "title": "hatchet-dev / hatchet",
@@ -140,7 +140,7 @@
       "description": "🪓 An orchestration engine for background tasks, AI agents, and durable workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7646,
+      "stars": 7648,
       "forks": 459,
       "added_stars": "63 stars this week"
     },
@@ -150,9 +150,9 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 64217,
+      "stars": 64228,
       "forks": 6113,
-      "added_stars": "124 stars this week"
+      "added_stars": "121 stars this week"
     },
     {
       "title": "micro-editor / micro",
@@ -160,9 +160,9 @@
       "description": "A modern and intuitive terminal-based text editor",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29249,
+      "stars": 29248,
       "forks": 1348,
-      "added_stars": "158 stars this week"
+      "added_stars": "161 stars this week"
     },
     {
       "title": "xpzouying / xiaohongshu-mcp",
@@ -170,9 +170,9 @@
       "description": "MCP for xiaohongshu.com",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15018,
-      "forks": 2207,
-      "added_stars": "187 stars this week"
+      "stars": 15021,
+      "forks": 2208,
+      "added_stars": "183 stars this week"
     },
     {
       "title": "Ed1s0nZ / CyberStrikeAI",
@@ -180,9 +180,9 @@
       "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5453,
-      "forks": 873,
-      "added_stars": "165 stars this week"
+      "stars": 5457,
+      "forks": 874,
+      "added_stars": "169 stars this week"
     },
     {
       "title": "temporalio / temporal",
@@ -190,9 +190,9 @@
       "description": "Temporal service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22027,
-      "forks": 1785,
-      "added_stars": "197 stars this week"
+      "stars": 22032,
+      "forks": 1786,
+      "added_stars": "198 stars this week"
     },
     {
       "title": "moby / moby",
@@ -200,9 +200,9 @@
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 71942,
-      "forks": 19109,
-      "added_stars": "68 stars this week"
+      "stars": 71948,
+      "forks": 19113,
+      "added_stars": "67 stars this week"
     },
     {
       "title": "grafana / alloy",
@@ -210,9 +210,9 @@
       "description": "OpenTelemetry Collector distribution with programmable pipelines",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3399,
+      "stars": 3404,
       "forks": 674,
-      "added_stars": "34 stars this week"
+      "added_stars": "32 stars this week"
     },
     {
       "title": "podman-container-tools / podman",
@@ -220,9 +220,9 @@
       "description": "Podman: A tool for managing OCI containers and pods.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32418,
-      "forks": 3253,
-      "added_stars": "69 stars this week"
+      "stars": 32427,
+      "forks": 3254,
+      "added_stars": "73 stars this week"
     }
   ]
 }

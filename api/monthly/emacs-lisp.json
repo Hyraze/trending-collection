@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
   "items": [
     {
       "title": "xenodium / agent-shell",
@@ -10,9 +10,9 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1671,
+      "stars": 1674,
       "forks": 210,
-      "added_stars": "217 stars this month"
+      "added_stars": "214 stars this month"
     },
     {
       "title": "dakra / ghostel",
@@ -20,7 +20,7 @@
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 812,
+      "stars": 815,
       "forks": 47,
       "added_stars": "233 stars this month"
     },
@@ -30,9 +30,9 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22535,
+      "stars": 22536,
       "forks": 3163,
-      "added_stars": "203 stars this month"
+      "added_stars": "195 stars this month"
     },
     {
       "title": "karthink / gptel",
@@ -40,8 +40,8 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3461,
-      "forks": 417,
+      "stars": 3462,
+      "forks": 418,
       "added_stars": "50 stars this month"
     },
     {
@@ -60,7 +60,7 @@
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 24571,
+      "stars": 24570,
       "forks": 4838,
       "added_stars": "34 stars this month"
     },
@@ -72,7 +72,7 @@
       "languageColor": "#c065db",
       "stars": 5131,
       "forks": 1391,
-      "added_stars": "41 stars this month"
+      "added_stars": "39 stars this month"
     },
     {
       "title": "doomemacs / modules",
@@ -82,7 +82,7 @@
       "languageColor": "#c065db",
       "stars": 49,
       "forks": 26,
-      "added_stars": "17 stars this month"
+      "added_stars": "16 stars this month"
     },
     {
       "title": "magit / magit",
@@ -90,9 +90,9 @@
       "description": "It's Magit! A Git Porcelain inside Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 7180,
+      "stars": 7181,
       "forks": 871,
-      "added_stars": "33 stars this month"
+      "added_stars": "35 stars this month"
     },
     {
       "title": "melpa / melpa",
@@ -102,7 +102,7 @@
       "languageColor": "#c065db",
       "stars": 2962,
       "forks": 2788,
-      "added_stars": "12 stars this month"
+      "added_stars": "11 stars this month"
     },
     {
       "title": "flycheck / flycheck",
@@ -132,7 +132,7 @@
       "languageColor": "#c065db",
       "stars": 3548,
       "forks": 166,
-      "added_stars": "53 stars this month"
+      "added_stars": "52 stars this month"
     },
     {
       "title": "seagle0128 / doom-modeline",
@@ -142,7 +142,7 @@
       "languageColor": "#c065db",
       "stars": 1517,
       "forks": 166,
-      "added_stars": "7 stars this month"
+      "added_stars": "8 stars this month"
     },
     {
       "title": "dimitri / el-get",
@@ -172,7 +172,7 @@
       "languageColor": "#c065db",
       "stars": 534,
       "forks": 63,
-      "added_stars": "4 stars this month"
+      "added_stars": "3 stars this month"
     },
     {
       "title": "magit / transient",
@@ -191,7 +191,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 322,
-      "forks": 47,
+      "forks": 48,
       "added_stars": "3 stars this month"
     }
   ]

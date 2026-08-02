@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
   "items": [
     {
       "title": "lightpanda-io / browser",
@@ -10,9 +10,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 33277,
-      "forks": 1512,
-      "added_stars": "75 stars today"
+      "stars": 33295,
+      "forks": 1516,
+      "added_stars": "54 stars today"
     },
     {
       "title": "ghostty-org / ghostty",
@@ -20,9 +20,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 59061,
-      "forks": 3188,
-      "added_stars": "63 stars today"
+      "stars": 59076,
+      "forks": 3187,
+      "added_stars": "55 stars today"
     },
     {
       "title": "Seafoam-Labs / Shelly-ALPM",
@@ -30,9 +30,9 @@
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 949,
-      "forks": 76,
-      "added_stars": "12 stars today"
+      "stars": 951,
+      "forks": 77,
+      "added_stars": "10 stars today"
     },
     {
       "title": "Loongphy / codex-auth",
@@ -50,9 +50,9 @@
       "description": "Session attach/detach for the terminal",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1979,
+      "stars": 1981,
       "forks": 134,
-      "added_stars": "5 stars today"
+      "added_stars": "4 stars today"
     },
     {
       "title": "riverwm / river",
@@ -62,7 +62,7 @@
       "languageColor": "#ec915c",
       "stars": 4222,
       "forks": 167,
-      "added_stars": "5 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "david-vanderson / dvui",
@@ -70,9 +70,9 @@
       "description": "Immediate Zig GUI for Apps and Games",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1607,
+      "stars": 1608,
       "forks": 136,
-      "added_stars": "7 stars today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "kristoff-it / zine",
@@ -80,9 +80,9 @@
       "description": "Fast, Scalable, Flexible Static Site Generator (SSG)",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1504,
+      "stars": 1505,
       "forks": 103,
-      "added_stars": "4 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "tigerbeetle / tigerbeetle",
@@ -90,8 +90,18 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 16697,
-      "forks": 873,
+      "stars": 16699,
+      "forks": 874,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "ddalcu / mlx-serve",
+      "url": "https://github.com/ddalcu/mlx-serve",
+      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 399,
+      "forks": 33,
       "added_stars": "5 stars today"
     },
     {
@@ -100,9 +110,9 @@
       "description": "MicroZig is a toolbox for building embedded applications in Zig.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2237,
+      "stars": 2238,
       "forks": 184,
-      "added_stars": "1 star today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "roc-lang / roc",
@@ -110,9 +120,9 @@
       "description": "A fast, friendly, functional language.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 5905,
+      "stars": 5904,
       "forks": 405,
-      "added_stars": "5 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "vancluever / z2d",
@@ -120,9 +130,9 @@
       "description": "Pure Zig 2D graphics library",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 282,
+      "stars": 285,
       "forks": 17,
-      "added_stars": "3 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "zigtools / zls",
@@ -130,7 +140,7 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 5049,
+      "stars": 5050,
       "forks": 443,
       "added_stars": "3 stars today"
     },
@@ -140,9 +150,9 @@
       "description": "A cross-platform terminal workspace for remote development and AI agent workflows, powered by libghostty-vt",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 356,
+      "stars": 357,
       "forks": 24,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "neurocyte / flow",
@@ -150,9 +160,9 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2147,
+      "stars": 2149,
       "forks": 113,
-      "added_stars": "2 stars today"
+      "added_stars": "4 stars today"
     },
     {
       "title": "PixelGuys / Cubyz",
@@ -160,9 +170,9 @@
       "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 3594,
+      "stars": 3595,
       "forks": 232,
-      "added_stars": "1 star today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "nullclaw / nullhub",
@@ -170,9 +180,9 @@
       "description": "Management console for the Null ecosystem — install, configure, and monitor AI agents, orchestration workflows, task pipelines, and system health",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1896,
+      "stars": 1905,
       "forks": 131,
-      "added_stars": "38 stars today"
+      "added_stars": "40 stars today"
     }
   ]
 }

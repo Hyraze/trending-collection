@@ -2,12 +2,12 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3393-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3394-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-08-01
-_Top 3 per language · [view full day →](./2026/2026-08-01.md)_
+## 🔥 Today's Trending — 2026-08-02
+_Top 3 per language · [view full day →](./2026/2026-08-02.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-08-01.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-08-02](./2026/2026-08-02.md) | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | [codex](https://github.com/openai/codex) | [k-skill](https://github.com/NomaDamas/k-skill) | [gh-stack](https://github.com/github/gh-stack) | [FluidAudio](https://github.com/FluidInference/FluidAudio) | [kaneo](https://github.com/usekaneo/kaneo) |
 | [2026-08-01](./2026/2026-08-01.md) | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | [codex](https://github.com/openai/codex) | [k-skill](https://github.com/NomaDamas/k-skill) | [gh-stack](https://github.com/github/gh-stack) | [FluidAudio](https://github.com/FluidInference/FluidAudio) | [kaneo](https://github.com/usekaneo/kaneo) |
 | [2026-07-31](./2026/2026-07-31.md) | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | [tuicr](https://github.com/agavra/tuicr) | [Baileys](https://github.com/WhiskeySockets/Baileys) | [argo-cd](https://github.com/argoproj/argo-cd) | [container](https://github.com/apple/container) | [openwork](https://github.com/different-ai/openwork) |
 | [2026-07-30](./2026/2026-07-30.md) | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | [jcode](https://github.com/1jehuang/jcode) | [ECC](https://github.com/affaan-m/ECC) | [open-code-review](https://github.com/alibaba/open-code-review) | [FineTune](https://github.com/ronitsingh10/FineTune) | [GeoLibre](https://github.com/opengeos/GeoLibre) |
 | [2026-07-29](./2026/2026-07-29.md) | [aisuite](https://github.com/andrewyng/aisuite) | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | [ECC](https://github.com/affaan-m/ECC) | [superfile](https://github.com/yorukot/superfile) | [bitchat](https://github.com/permissionlesstech/bitchat) | [editor](https://github.com/pascalorg/editor) |
 | [2026-07-28](./2026/2026-07-28.md) | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | [rust](https://github.com/rust-lang/rust) | [impeccable](https://github.com/pbakaus/impeccable) | [superfile](https://github.com/yorukot/superfile) | [bitchat](https://github.com/permissionlesstech/bitchat) | [airi](https://github.com/moeru-ai/airi) |
 | [2026-07-27](./2026/2026-07-27.md) | [Kronos](https://github.com/shiyu-coder/Kronos) | [buzz](https://github.com/block/buzz) | [ego-lite](https://github.com/citrolabs/ego-lite) | [superfile](https://github.com/yorukot/superfile) | [bitchat](https://github.com/permissionlesstech/bitchat) | [t3code](https://github.com/pingdotgg/t3code) |
-| [2026-07-26](./2026/2026-07-26.md) | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | [buzz](https://github.com/block/buzz) | [ego-lite](https://github.com/citrolabs/ego-lite) | [open-code-review](https://github.com/alibaba/open-code-review) | [bitchat](https://github.com/permissionlesstech/bitchat) | [Instatic](https://github.com/CoreBunch/Instatic) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---

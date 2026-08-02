@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,9 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 25612,
-      "forks": 19685,
-      "added_stars": "83 stars this week"
+      "stars": 25614,
+      "forks": 19687,
+      "added_stars": "85 stars this week"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -22,7 +22,7 @@
       "languageColor": "#7e7eff",
       "stars": 1682,
       "forks": 188,
-      "added_stars": "47 stars this week"
+      "added_stars": "46 stars this week"
     },
     {
       "title": "nix-darwin / nix-darwin",
@@ -30,9 +30,9 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 5768,
+      "stars": 5767,
       "forks": 653,
-      "added_stars": "38 stars this week"
+      "added_stars": "36 stars this week"
     },
     {
       "title": "nix-community / home-manager",
@@ -42,7 +42,7 @@
       "languageColor": "#7e7eff",
       "stars": 10161,
       "forks": 2447,
-      "added_stars": "32 stars this week"
+      "added_stars": "29 stars this week"
     },
     {
       "title": "supabase / postgres",
@@ -60,9 +60,9 @@
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3895,
+      "stars": 3896,
       "forks": 335,
-      "added_stars": "17 stars this week"
+      "added_stars": "14 stars this week"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -70,9 +70,9 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3234,
+      "stars": 3233,
       "forks": 956,
-      "added_stars": "6 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "hercules-ci / flake-parts",
@@ -82,7 +82,7 @@
       "languageColor": "#7e7eff",
       "stars": 1433,
       "forks": 77,
-      "added_stars": "7 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "Mic92 / sops-nix",
@@ -92,7 +92,7 @@
       "languageColor": "#7e7eff",
       "stars": 3066,
       "forks": 225,
-      "added_stars": "21 stars this week"
+      "added_stars": "20 stars this week"
     },
     {
       "title": "nix-community / disko",
@@ -100,9 +100,9 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3225,
-      "forks": 317,
-      "added_stars": "18 stars this week"
+      "stars": 3226,
+      "forks": 318,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "nix-community / ethereum.nix",
@@ -120,9 +120,9 @@
       "description": "Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3783,
+      "stars": 3781,
       "forks": 177,
-      "added_stars": "11 stars this week"
+      "added_stars": "10 stars this week"
     },
     {
       "title": "microvm-nix / microvm.nix",
@@ -132,7 +132,7 @@
       "languageColor": "#7e7eff",
       "stars": 2799,
       "forks": 219,
-      "added_stars": "21 stars this week"
+      "added_stars": "18 stars this week"
     },
     {
       "title": "numtide / system-manager",
@@ -140,9 +140,9 @@
       "description": "Manage system config using nix on any distro",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1661,
+      "stars": 1662,
       "forks": 56,
-      "added_stars": "11 stars this week"
+      "added_stars": "12 stars this week"
     }
   ]
 }

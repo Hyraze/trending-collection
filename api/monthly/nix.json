@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 25612,
-      "forks": 19685,
+      "stars": 25614,
+      "forks": 19687,
       "added_stars": "389 stars this month"
     },
     {
@@ -22,7 +22,7 @@
       "languageColor": "#7e7eff",
       "stars": 1682,
       "forks": 188,
-      "added_stars": "189 stars this month"
+      "added_stars": "191 stars this month"
     },
     {
       "title": "nix-community / home-manager",
@@ -32,7 +32,7 @@
       "languageColor": "#7e7eff",
       "stars": 10161,
       "forks": 2447,
-      "added_stars": "169 stars this month"
+      "added_stars": "161 stars this month"
     },
     {
       "title": "nix-darwin / nix-darwin",
@@ -40,9 +40,9 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 5768,
+      "stars": 5767,
       "forks": 653,
-      "added_stars": "163 stars this month"
+      "added_stars": "154 stars this month"
     },
     {
       "title": "NixOS / nix.dev",
@@ -50,9 +50,9 @@
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3895,
+      "stars": 3896,
       "forks": 335,
-      "added_stars": "59 stars this month"
+      "added_stars": "60 stars this month"
     },
     {
       "title": "Mic92 / sops-nix",
@@ -62,7 +62,7 @@
       "languageColor": "#7e7eff",
       "stars": 3066,
       "forks": 225,
-      "added_stars": "91 stars this month"
+      "added_stars": "93 stars this month"
     },
     {
       "title": "nix-community / disko",
@@ -70,9 +70,9 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3225,
-      "forks": 317,
-      "added_stars": "79 stars this month"
+      "stars": 3226,
+      "forks": 318,
+      "added_stars": "77 stars this month"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -80,7 +80,7 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3234,
+      "stars": 3233,
       "forks": 956,
       "added_stars": "54 stars this month"
     },
@@ -90,9 +90,9 @@
       "description": "Manage system config using nix on any distro",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1661,
+      "stars": 1662,
       "forks": 56,
-      "added_stars": "53 stars this month"
+      "added_stars": "55 stars this month"
     },
     {
       "title": "Misterio77 / nix-starter-configs",
@@ -100,9 +100,9 @@
       "description": "Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3783,
+      "stars": 3781,
       "forks": 177,
-      "added_stars": "50 stars this month"
+      "added_stars": "48 stars this month"
     },
     {
       "title": "ryantm / agenix",
@@ -110,7 +110,7 @@
       "description": "age-encrypted secrets for NixOS and Home manager",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2448,
+      "stars": 2447,
       "forks": 156,
       "added_stars": "44 stars this month"
     },
@@ -122,7 +122,7 @@
       "languageColor": "#7e7eff",
       "stars": 2799,
       "forks": 219,
-      "added_stars": "94 stars this month"
+      "added_stars": "90 stars this month"
     },
     {
       "title": "nix-community / NixOS-WSL",
@@ -132,7 +132,7 @@
       "languageColor": "#7e7eff",
       "stars": 3030,
       "forks": 161,
-      "added_stars": "49 stars this month"
+      "added_stars": "52 stars this month"
     },
     {
       "title": "sodiboo / niri-flake",
@@ -140,9 +140,9 @@
       "description": "Nix-native configuration for niri",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 953,
+      "stars": 954,
       "forks": 139,
-      "added_stars": "47 stars this month"
+      "added_stars": "46 stars this month"
     }
   ]
 }

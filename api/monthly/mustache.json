@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
   "items": [
     {
       "title": "prometheus-community / helm-charts",
@@ -11,8 +11,8 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": 6164,
-      "forks": 5378,
-      "added_stars": "25 stars this month"
+      "forks": 5379,
+      "added_stars": "24 stars this month"
     },
     {
       "title": "renovatebot / helm-charts",
@@ -22,7 +22,7 @@
       "languageColor": "#724b3b",
       "stars": 140,
       "forks": 83,
-      "added_stars": "2 stars this month"
+      "added_stars": "1 star this month"
     },
     {
       "title": "swagger-api / swagger-codegen",
@@ -30,8 +30,8 @@
       "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 17780,
-      "forks": 5970,
+      "stars": 17781,
+      "forks": 5968,
       "added_stars": "27 stars this month"
     },
     {
@@ -42,7 +42,7 @@
       "languageColor": "#724b3b",
       "stars": 882,
       "forks": 792,
-      "added_stars": "17 stars this month"
+      "added_stars": "16 stars this month"
     },
     {
       "title": "argoproj / argo-helm",
@@ -85,16 +85,6 @@
       "added_stars": "7 stars this month"
     },
     {
-      "title": "netbox-community / netbox-chart",
-      "url": "https://github.com/netbox-community/netbox-chart",
-      "description": "A Helm chart for NetBox",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 350,
-      "forks": 183,
-      "added_stars": "6 stars this month"
-    },
-    {
       "title": "goauthentik / helm",
       "url": "https://github.com/goauthentik/helm",
       "description": "Helm chart for authentik",
@@ -102,7 +92,7 @@
       "languageColor": "#724b3b",
       "stars": 180,
       "forks": 67,
-      "added_stars": "1 star this month"
+      "added_stars": "2 stars this month"
     }
   ]
 }

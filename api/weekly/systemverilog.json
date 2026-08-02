@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:43:50 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
   "items": [
     {
       "title": "verilator / verilator",
@@ -10,9 +10,9 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3797,
+      "stars": 3800,
       "forks": 864,
-      "added_stars": "24 stars this week"
+      "added_stars": "28 stars this week"
     },
     {
       "title": "lowRISC / opentitan",
@@ -20,9 +20,9 @@
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3572,
+      "stars": 3574,
       "forks": 1075,
-      "added_stars": "12 stars this week"
+      "added_stars": "13 stars this week"
     },
     {
       "title": "lowRISC / ibex",
@@ -32,7 +32,7 @@
       "languageColor": "#DAE1C2",
       "stars": 1997,
       "forks": 780,
-      "added_stars": "13 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "chipsalliance / caliptra-rtl",
@@ -62,7 +62,7 @@
       "languageColor": "#DAE1C2",
       "stars": 59,
       "forks": 16,
-      "added_stars": "1 star this week"
+      "added_stars": "0 stars this week"
     },
     {
       "title": "adam-maj / tiny-gpu",
@@ -72,7 +72,7 @@
       "languageColor": "#DAE1C2",
       "stars": 12796,
       "forks": 1228,
-      "added_stars": "25 stars this week"
+      "added_stars": "26 stars this week"
     },
     {
       "title": "bsc-loca / sargantana",
@@ -82,7 +82,7 @@
       "languageColor": "#DAE1C2",
       "stars": 159,
       "forks": 41,
-      "added_stars": "10 stars this week"
+      "added_stars": "9 stars this week"
     },
     {
       "title": "chipsalliance / Cores-VeeR-EL2",
@@ -100,9 +100,9 @@
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 590,
-      "forks": 548,
-      "added_stars": "3 stars this week"
+      "stars": 591,
+      "forks": 549,
+      "added_stars": "5 stars this week"
     }
   ]
 }

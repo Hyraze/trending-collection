@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
   "items": [
     {
       "title": "github / gh-stack",
@@ -10,9 +10,9 @@
       "description": "GitHub Stacked PRs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 752,
-      "forks": 32,
-      "added_stars": "90 stars today"
+      "stars": 852,
+      "forks": 38,
+      "added_stars": "46 stars today"
     },
     {
       "title": "junegunn / fzf",
@@ -20,9 +20,9 @@
       "description": "🌸 A command-line fuzzy finder",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 82109,
-      "forks": 2829,
-      "added_stars": "45 stars today"
+      "stars": 82129,
+      "forks": 2830,
+      "added_stars": "23 stars today"
     },
     {
       "title": "Gentleman-Programming / gentle-ai",
@@ -30,9 +30,9 @@
       "description": "",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5256,
-      "forks": 626,
-      "added_stars": "56 stars today"
+      "stars": 5283,
+      "forks": 628,
+      "added_stars": "58 stars today"
     },
     {
       "title": "cli / cli",
@@ -40,9 +40,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 45564,
-      "forks": 8801,
-      "added_stars": "25 stars today"
+      "stars": 45581,
+      "forks": 8805,
+      "added_stars": "24 stars today"
     },
     {
       "title": "superplanehq / superplane",
@@ -50,9 +50,9 @@
       "description": "The open source control plane for agentic engineering.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4380,
-      "forks": 415,
-      "added_stars": "21 stars today"
+      "stars": 4386,
+      "forks": 421,
+      "added_stars": "20 stars today"
     },
     {
       "title": "traefik / traefik",
@@ -60,9 +60,9 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 64217,
+      "stars": 64228,
       "forks": 6113,
-      "added_stars": "22 stars today"
+      "added_stars": "13 stars today"
     },
     {
       "title": "gtsteffaniak / filebrowser",
@@ -70,9 +70,9 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7611,
+      "stars": 7615,
       "forks": 399,
-      "added_stars": "14 stars today"
+      "added_stars": "13 stars today"
     },
     {
       "title": "Ed1s0nZ / CyberStrikeAI",
@@ -80,9 +80,9 @@
       "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5453,
-      "forks": 873,
-      "added_stars": "24 stars today"
+      "stars": 5457,
+      "forks": 874,
+      "added_stars": "27 stars today"
     },
     {
       "title": "multica-ai / multica",
@@ -90,9 +90,9 @@
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 43119,
-      "forks": 5467,
-      "added_stars": "209 stars today"
+      "stars": 43183,
+      "forks": 5472,
+      "added_stars": "211 stars today"
     },
     {
       "title": "MHSanaei / 3x-ui",
@@ -100,9 +100,9 @@
       "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 44066,
-      "forks": 8467,
-      "added_stars": "58 stars today"
+      "stars": 44086,
+      "forks": 8474,
+      "added_stars": "56 stars today"
     },
     {
       "title": "binwiederhier / ntfy",
@@ -110,9 +110,9 @@
       "description": "Send push notifications to your phone or desktop using PUT/POST",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32708,
-      "forks": 1476,
-      "added_stars": "128 stars today"
+      "stars": 32725,
+      "forks": 1479,
+      "added_stars": "119 stars today"
     },
     {
       "title": "XTLS / Xray-core",
@@ -120,9 +120,9 @@
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 40804,
-      "forks": 5735,
-      "added_stars": "29 stars today"
+      "stars": 40813,
+      "forks": 5738,
+      "added_stars": "24 stars today"
     },
     {
       "title": "aquasecurity / trivy",
@@ -130,7 +130,7 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37191,
+      "stars": 37200,
       "forks": 563,
       "added_stars": "26 stars today"
     },
@@ -140,9 +140,9 @@
       "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18439,
-      "forks": 583,
-      "added_stars": "49 stars today"
+      "stars": 18467,
+      "forks": 585,
+      "added_stars": "48 stars today"
     },
     {
       "title": "caddyserver / caddy",
@@ -150,19 +150,9 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 74551,
+      "stars": 74565,
       "forks": 4856,
-      "added_stars": "47 stars today"
-    },
-    {
-      "title": "terrastruct / d2",
-      "url": "https://github.com/terrastruct/d2",
-      "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 24820,
-      "forks": 712,
-      "added_stars": "15 stars today"
+      "added_stars": "34 stars today"
     },
     {
       "title": "prometheus / prometheus",
@@ -170,9 +160,9 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 65402,
-      "forks": 10728,
-      "added_stars": "19 stars today"
+      "stars": 65408,
+      "forks": 10732,
+      "added_stars": "16 stars today"
     },
     {
       "title": "googleapis / mcp-toolbox",
@@ -180,7 +170,7 @@
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16094,
+      "stars": 16097,
       "forks": 1667,
       "added_stars": "4 stars today"
     },
@@ -190,9 +180,9 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28501,
-      "forks": 1829,
-      "added_stars": "260 stars today"
+      "stars": 28598,
+      "forks": 1838,
+      "added_stars": "274 stars today"
     },
     {
       "title": "siderolabs / talos",
@@ -200,9 +190,9 @@
       "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10857,
+      "stars": 10859,
       "forks": 866,
-      "added_stars": "6 stars today"
+      "added_stars": "8 stars today"
     },
     {
       "title": "trpc-group / trpc-agent-go",
@@ -210,9 +200,9 @@
       "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1619,
+      "stars": 1625,
       "forks": 285,
-      "added_stars": "4 stars today"
+      "added_stars": "5 stars today"
     }
   ]
 }

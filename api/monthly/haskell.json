@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
   "items": [
     {
       "title": "simplex-chat / simplex-chat",
@@ -10,9 +10,9 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19153,
-      "forks": 1284,
-      "added_stars": "2,084 stars this month"
+      "stars": 19157,
+      "forks": 1290,
+      "added_stars": "1,869 stars this month"
     },
     {
       "title": "koalaman / shellcheck",
@@ -20,9 +20,9 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 39796,
+      "stars": 39798,
       "forks": 1937,
-      "added_stars": "195 stars this month"
+      "added_stars": "197 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -30,9 +30,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12327,
+      "stars": 12328,
       "forks": 502,
-      "added_stars": "81 stars this month"
+      "added_stars": "78 stars this month"
     },
     {
       "title": "agda / agda",
@@ -42,7 +42,7 @@
       "languageColor": "#5e5086",
       "stars": 2903,
       "forks": 419,
-      "added_stars": "26 stars this month"
+      "added_stars": "24 stars this month"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -50,9 +50,9 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1483,
+      "stars": 1486,
       "forks": 63,
-      "added_stars": "244 stars this month"
+      "added_stars": "241 stars this month"
     },
     {
       "title": "haskell / cabal",
@@ -62,7 +62,7 @@
       "languageColor": "#5e5086",
       "stars": 1743,
       "forks": 740,
-      "added_stars": "8 stars this month"
+      "added_stars": "7 stars this month"
     },
     {
       "title": "IntersectMBO / cardano-node",
@@ -90,7 +90,7 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 45636,
+      "stars": 45639,
       "forks": 3929,
       "added_stars": "548 stars this month"
     },
@@ -100,7 +100,7 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27486,
+      "stars": 27485,
       "forks": 1218,
       "added_stars": "122 stars this month"
     },
@@ -120,9 +120,9 @@
       "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4603,
-      "forks": 400,
-      "added_stars": "53 stars this month"
+      "stars": 4604,
+      "forks": 401,
+      "added_stars": "49 stars this month"
     },
     {
       "title": "clash-lang / clash-compiler",
@@ -132,7 +132,7 @@
       "languageColor": "#5e5086",
       "stars": 1604,
       "forks": 167,
-      "added_stars": "8 stars this month"
+      "added_stars": "10 stars this month"
     }
   ]
 }

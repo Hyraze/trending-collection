@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
   "items": [
     {
       "title": "ocaml / ocaml",
@@ -10,9 +10,9 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6505,
-      "forks": 1359,
-      "added_stars": "228 stars this month"
+      "stars": 6506,
+      "forks": 1361,
+      "added_stars": "229 stars this month"
     },
     {
       "title": "semgrep / semgrep",
@@ -20,9 +20,9 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 16074,
+      "stars": 16081,
       "forks": 1009,
-      "added_stars": "406 stars this month"
+      "added_stars": "405 stars this month"
     },
     {
       "title": "opengrep / opengrep",
@@ -30,9 +30,9 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 2860,
+      "stars": 2859,
       "forks": 233,
-      "added_stars": "134 stars this month"
+      "added_stars": "129 stars this month"
     },
     {
       "title": "MLstate / opalang",
@@ -40,7 +40,7 @@
       "description": "The Opa Language for Web Application Development",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1265,
+      "stars": 1264,
       "forks": 127,
       "added_stars": "4 stars this month"
     },
@@ -60,9 +60,9 @@
       "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 5540,
+      "stars": 5541,
       "forks": 745,
-      "added_stars": "48 stars this month"
+      "added_stars": "47 stars this month"
     },
     {
       "title": "AeneasVerif / aeneas",
@@ -71,7 +71,7 @@
       "language": "OCaml",
       "languageColor": "#ef7a08",
       "stars": 885,
-      "forks": 92,
+      "forks": 93,
       "added_stars": "62 stars this month"
     },
     {
@@ -82,7 +82,7 @@
       "languageColor": "#ef7a08",
       "stars": 5417,
       "forks": 272,
-      "added_stars": "48 stars this month"
+      "added_stars": "47 stars this month"
     },
     {
       "title": "semgrep / ocaml-tree-sitter-core",
@@ -92,7 +92,7 @@
       "languageColor": "#ef7a08",
       "stars": 55,
       "forks": 11,
-      "added_stars": "2 stars this month"
+      "added_stars": "1 star this month"
     }
   ]
 }

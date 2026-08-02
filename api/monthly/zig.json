@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:46:48 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
   "items": [
     {
       "title": "vercel-labs / native",
@@ -10,9 +10,9 @@
       "description": "Toolkit for building native desktop apps",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 7140,
+      "stars": 7154,
       "forks": 288,
-      "added_stars": "2,918 stars this month"
+      "added_stars": "2,951 stars this month"
     },
     {
       "title": "lightpanda-io / browser",
@@ -20,9 +20,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 33277,
-      "forks": 1512,
-      "added_stars": "1,816 stars this month"
+      "stars": 33295,
+      "forks": 1516,
+      "added_stars": "1,851 stars this month"
     },
     {
       "title": "ziglang / zig",
@@ -30,9 +30,9 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 43278,
-      "forks": 3177,
-      "added_stars": "586 stars this month"
+      "stars": 43280,
+      "forks": 3182,
+      "added_stars": "589 stars this month"
     },
     {
       "title": "tigerbeetle / tigerbeetle",
@@ -40,9 +40,9 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 16697,
-      "forks": 873,
-      "added_stars": "385 stars this month"
+      "stars": 16699,
+      "forks": 874,
+      "added_stars": "383 stars this month"
     },
     {
       "title": "ghostty-org / ghostty",
@@ -50,9 +50,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 59061,
-      "forks": 3188,
-      "added_stars": "1,817 stars this month"
+      "stars": 59077,
+      "forks": 3187,
+      "added_stars": "1,808 stars this month"
     },
     {
       "title": "roc-lang / roc",
@@ -60,9 +60,9 @@
       "description": "A fast, friendly, functional language.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 5905,
+      "stars": 5904,
       "forks": 405,
-      "added_stars": "171 stars this month"
+      "added_stars": "169 stars this month"
     },
     {
       "title": "nullclaw / nullclaw",
@@ -72,7 +72,7 @@
       "languageColor": "#ec915c",
       "stars": 7979,
       "forks": 930,
-      "added_stars": "279 stars this month"
+      "added_stars": "281 stars this month"
     },
     {
       "title": "zml / zml",
@@ -80,7 +80,7 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 3947,
+      "stars": 3948,
       "forks": 171,
       "added_stars": "243 stars this month"
     },
@@ -90,9 +90,9 @@
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 949,
-      "forks": 76,
-      "added_stars": "166 stars this month"
+      "stars": 951,
+      "forks": 77,
+      "added_stars": "169 stars this month"
     },
     {
       "title": "neurosnap / zmx",
@@ -100,9 +100,19 @@
       "description": "Session attach/detach for the terminal",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1979,
+      "stars": 1981,
       "forks": 134,
-      "added_stars": "271 stars this month"
+      "added_stars": "270 stars this month"
+    },
+    {
+      "title": "ddalcu / mlx-serve",
+      "url": "https://github.com/ddalcu/mlx-serve",
+      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 399,
+      "forks": 33,
+      "added_stars": "206 stars this month"
     },
     {
       "title": "jstrieb / github-stats",
@@ -111,8 +121,8 @@
       "language": "Zig",
       "languageColor": "#ec915c",
       "stars": 3516,
-      "forks": 773,
-      "added_stars": "24 stars this month"
+      "forks": 772,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "riverwm / river",
@@ -122,7 +132,7 @@
       "languageColor": "#ec915c",
       "stars": 4222,
       "forks": 167,
-      "added_stars": "65 stars this month"
+      "added_stars": "63 stars this month"
     },
     {
       "title": "PixelGuys / Cubyz",
@@ -130,9 +140,9 @@
       "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 3594,
+      "stars": 3595,
       "forks": 232,
-      "added_stars": "61 stars this month"
+      "added_stars": "60 stars this month"
     },
     {
       "title": "dmtrKovalenko / odiff",
@@ -142,7 +152,7 @@
       "languageColor": "#ec915c",
       "stars": 3131,
       "forks": 113,
-      "added_stars": "59 stars this month"
+      "added_stars": "57 stars this month"
     },
     {
       "title": "rockorager / libvaxis",
@@ -150,9 +160,9 @@
       "description": "a modern tui library written in zig",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1933,
+      "stars": 1934,
       "forks": 149,
-      "added_stars": "59 stars this month"
+      "added_stars": "57 stars this month"
     },
     {
       "title": "zigtools / zls",
@@ -160,9 +170,9 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 5049,
+      "stars": 5050,
       "forks": 443,
-      "added_stars": "88 stars this month"
+      "added_stars": "85 stars this month"
     },
     {
       "title": "Loongphy / codex-auth",
@@ -172,7 +182,7 @@
       "languageColor": "#ec915c",
       "stars": 2418,
       "forks": 142,
-      "added_stars": "233 stars this month"
+      "added_stars": "230 stars this month"
     },
     {
       "title": "zolotukhin / zinc",
@@ -180,9 +190,9 @@
       "description": "Zig INferenCe Engine — Local LLM inference on AMD GPUs and Apple Silicon",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 491,
+      "stars": 492,
       "forks": 20,
-      "added_stars": "81 stars this month"
+      "added_stars": "60 stars this month"
     },
     {
       "title": "david-vanderson / dvui",
@@ -190,9 +200,9 @@
       "description": "Immediate Zig GUI for Apps and Games",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1607,
+      "stars": 1608,
       "forks": 136,
-      "added_stars": "81 stars this month"
+      "added_stars": "78 stars this month"
     }
   ]
 }

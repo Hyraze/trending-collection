@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 01 Aug 2026 17:42:40 GMT",
+  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
   "items": [
     {
       "title": "hadolint / hadolint",
@@ -10,9 +10,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12327,
+      "stars": 12328,
       "forks": 502,
-      "added_stars": "3 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "PostgREST / postgrest",
@@ -20,9 +20,9 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27486,
+      "stars": 27485,
       "forks": 1218,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "jgm / pandoc",
@@ -30,7 +30,7 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 45636,
+      "stars": 45639,
       "forks": 3929,
       "added_stars": "13 stars today"
     },
@@ -40,9 +40,9 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 39796,
+      "stars": 39798,
       "forks": 1937,
-      "added_stars": "9 stars today"
+      "added_stars": "3 stars today"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -50,9 +50,9 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1483,
+      "stars": 1486,
       "forks": 63,
-      "added_stars": "6 stars today"
+      "added_stars": "3 stars today"
     },
     {
       "title": "simonmichael / hledger",
@@ -60,9 +60,9 @@
       "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4603,
-      "forks": 400,
-      "added_stars": "3 stars today"
+      "stars": 4604,
+      "forks": 401,
+      "added_stars": "2 stars today"
     },
     {
       "title": "cardano-foundation / cardano-wallet",
@@ -80,8 +80,8 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19153,
-      "forks": 1284,
+      "stars": 19157,
+      "forks": 1290,
       "added_stars": "17 stars today"
     }
   ]
