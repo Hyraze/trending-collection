@@ -2,7 +2,7 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "permissionlesstech / bitchat",
@@ -10,9 +10,9 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 34002,
-      "forks": 5423,
-      "added_stars": "7,929 stars this month"
+      "stars": 34205,
+      "forks": 5463,
+      "added_stars": "8,160 stars this month"
     },
     {
       "title": "diegosouzapw / OmniRoute",
@@ -20,9 +20,9 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 37208,
-      "forks": 4818,
-      "added_stars": "27,829 stars this month"
+      "stars": 38075,
+      "forks": 4970,
+      "added_stars": "27,721 stars this month"
     },
     {
       "title": "stablyai / orca",
@@ -30,19 +30,29 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 35283,
-      "forks": 2494,
-      "added_stars": "25,285 stars this month"
+      "stars": 36012,
+      "forks": 2533,
+      "added_stars": "25,091 stars this month"
     },
     {
       "title": "emilkowalski / skills",
       "url": "https://github.com/emilkowalski/skills",
-      "description": "Skills for Design Engineers.",
+      "description": "Skills for Designers and Engineers.",
       "language": "all",
       "languageColor": null,
-      "stars": 23715,
-      "forks": 1286,
-      "added_stars": "19,576 stars this month"
+      "stars": 24069,
+      "forks": 1303,
+      "added_stars": "19,563 stars this month"
+    },
+    {
+      "title": "tt-a1i / archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 8610,
+      "forks": 666,
+      "added_stars": "6,402 stars this month"
     },
     {
       "title": "Nutlope / hallmark",
@@ -50,19 +60,9 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 20623,
-      "forks": 1034,
-      "added_stars": "17,116 stars this month"
-    },
-    {
-      "title": "Zackriya-Solutions / meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 27878,
-      "forks": 2878,
-      "added_stars": "14,946 stars this month"
+      "stars": 20950,
+      "forks": 1054,
+      "added_stars": "17,319 stars this month"
     },
     {
       "title": "koala73 / worldmonitor",
@@ -70,19 +70,9 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 77861,
-      "forks": 11635,
-      "added_stars": "16,936 stars this month"
-    },
-    {
-      "title": "openai / codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 30883,
-      "forks": 2043,
-      "added_stars": "9,083 stars this month"
+      "stars": 78224,
+      "forks": 11693,
+      "added_stars": "17,164 stars this month"
     },
     {
       "title": "bradautomates / claude-video",
@@ -90,19 +80,19 @@
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13329,
-      "forks": 1303,
-      "added_stars": "10,493 stars this month"
+      "stars": 13514,
+      "forks": 1318,
+      "added_stars": "10,606 stars this month"
     },
     {
-      "title": "asgeirtj / system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 61883,
-      "forks": 10113,
-      "added_stars": "14,616 stars this month"
+      "title": "Zackriya-Solutions / meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 28031,
+      "forks": 2895,
+      "added_stars": "14,974 stars this month"
     },
     {
       "title": "iOfficeAI / OfficeCLI",
@@ -110,19 +100,39 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
       "languageColor": "#178600",
-      "stars": 24117,
-      "forks": 1627,
-      "added_stars": "15,871 stars this month"
+      "stars": 24437,
+      "forks": 1648,
+      "added_stars": "16,040 stars this month"
     },
     {
-      "title": "usestrix / strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 46492,
-      "forks": 4887,
-      "added_stars": "17,847 stars this month"
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 62030,
+      "forks": 10125,
+      "added_stars": "14,554 stars this month"
+    },
+    {
+      "title": "openai / codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 31016,
+      "forks": 2052,
+      "added_stars": "8,880 stars this month"
+    },
+    {
+      "title": "facebook / astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 11329,
+      "forks": 933,
+      "added_stars": "8,233 stars this month"
     },
     {
       "title": "huggingface / speech-to-speech",
@@ -130,9 +140,9 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10273,
-      "forks": 1256,
-      "added_stars": "5,231 stars this month"
+      "stars": 10521,
+      "forks": 1288,
+      "added_stars": "5,497 stars this month"
     },
     {
       "title": "wonderwhy-er / DesktopCommanderMCP",
@@ -140,59 +150,19 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9052,
-      "forks": 1050,
-      "added_stars": "2,949 stars this month"
+      "stars": 9088,
+      "forks": 1052,
+      "added_stars": "2,976 stars this month"
     },
     {
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "title": "usestrix / strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 129651,
-      "forks": 19127,
-      "added_stars": "13,797 stars this month"
-    },
-    {
-      "title": "OpenCut-app / OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 80392,
-      "forks": 7980,
-      "added_stars": "19,744 stars this month"
-    },
-    {
-      "title": "pbakaus / impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 53790,
-      "forks": 3202,
-      "added_stars": "11,229 stars this month"
-    },
-    {
-      "title": "HKUDS / DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 31836,
-      "forks": 4156,
-      "added_stars": "6,775 stars this month"
-    },
-    {
-      "title": "HKUDS / Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 29210,
-      "forks": 4694,
-      "added_stars": "13,093 stars this month"
+      "stars": 46711,
+      "forks": 4916,
+      "added_stars": "16,165 stars this month"
     },
     {
       "title": "1jehuang / jcode",
@@ -200,19 +170,59 @@
       "description": "The most RAM efficient harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14995,
-      "forks": 1664,
-      "added_stars": "6,915 stars this month"
+      "stars": 15333,
+      "forks": 1699,
+      "added_stars": "7,157 stars this month"
     },
     {
-      "title": "every-app / open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 129928,
+      "forks": 19170,
+      "added_stars": "13,958 stars this month"
+    },
+    {
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 54172,
+      "forks": 3217,
+      "added_stars": "11,349 stars this month"
+    },
+    {
+      "title": "OpenCut-app / OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10002,
-      "forks": 1144,
-      "added_stars": "6,034 stars this month"
+      "stars": 80605,
+      "forks": 8002,
+      "added_stars": "19,604 stars this month"
+    },
+    {
+      "title": "HKUDS / DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 32057,
+      "forks": 4188,
+      "added_stars": "6,905 stars this month"
+    },
+    {
+      "title": "Emily2040 / seedance-2.0",
+      "url": "https://github.com/Emily2040/seedance-2.0",
+      "description": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5955,
+      "forks": 895,
+      "added_stars": "4,195 stars this month"
     }
   ]
 }

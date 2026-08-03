@@ -2,27 +2,47 @@
   "title": "GitHub Batchfile Languages Daily Trending",
   "description": "Daily Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
+    {
+      "title": "ionuttbara / windows-defender-remover",
+      "url": "https://github.com/ionuttbara/windows-defender-remover",
+      "description": "A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 8135,
+      "forks": 518,
+      "added_stars": "5 stars today"
+    },
     {
       "title": "Flowseal / zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 31647,
-      "forks": 2440,
-      "added_stars": "25 stars today"
+      "stars": 31674,
+      "forks": 2443,
+      "added_stars": "31 stars today"
     },
     {
-      "title": "enhorse / java-interview",
-      "url": "https://github.com/enhorse/java-interview",
-      "description": "Вопросы и ответы к интервью Java разработчика",
+      "title": "shorthorn-project / One-Core-API-Binaries",
+      "url": "https://github.com/shorthorn-project/One-Core-API-Binaries",
+      "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 6170,
-      "forks": 2043,
-      "added_stars": "3 stars today"
+      "stars": 2221,
+      "forks": 98,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "AveYo / MediaCreationTool.bat",
+      "url": "https://github.com/AveYo/MediaCreationTool.bat",
+      "description": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 10269,
+      "forks": 3138,
+      "added_stars": "1 star today"
     },
     {
       "title": "RockBlack-VPN / ip-address",
@@ -30,39 +50,19 @@
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 2170,
+      "stars": 2171,
       "forks": 185,
-      "added_stars": "1 star today"
+      "added_stars": "3 stars today"
     },
     {
-      "title": "shlima / keneetic-antifilter",
-      "url": "https://github.com/shlima/keneetic-antifilter",
-      "description": "Правила маршрутизации youtube, instagram, chatgpt для роутеров keenetic",
+      "title": "MyOnee / R",
+      "url": "https://github.com/MyOnee/R",
+      "description": "Free RDP from Github Actions",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 459,
-      "forks": 23,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ionuttbara / windows-defender-remover",
-      "url": "https://github.com/ionuttbara/windows-defender-remover",
-      "description": "A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.",
-      "language": "Batchfile",
-      "languageColor": "#C1F12E",
-      "stars": 8133,
-      "forks": 518,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "Alex313031 / Thorium-Win",
-      "url": "https://github.com/Alex313031/Thorium-Win",
-      "description": "Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium",
-      "language": "Batchfile",
-      "languageColor": "#C1F12E",
-      "stars": 2495,
-      "forks": 53,
-      "added_stars": "2 stars today"
+      "stars": 63,
+      "forks": 846,
+      "added_stars": "0 stars today"
     }
   ]
 }

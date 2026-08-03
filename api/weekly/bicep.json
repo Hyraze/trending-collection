@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator",
@@ -10,19 +10,9 @@
       "description": "AZ-104 Microsoft Azure Administrator",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 4542,
-      "forks": 4483,
+      "stars": 4545,
+      "forks": 4485,
       "added_stars": "16 stars this week"
-    },
-    {
-      "title": "Azure / bicep",
-      "url": "https://github.com/Azure/bicep",
-      "description": "Bicep is a declarative language for describing and deploying Azure resources",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 3623,
-      "forks": 821,
-      "added_stars": "2 stars this week"
     },
     {
       "title": "Azure / bicep-registry-modules",
@@ -35,14 +25,14 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "Azure / azure-quickstart-templates",
-      "url": "https://github.com/Azure/azure-quickstart-templates",
-      "description": "Azure Quickstart Templates",
+      "title": "Azure / bicep",
+      "url": "https://github.com/Azure/bicep",
+      "description": "Bicep is a declarative language for describing and deploying Azure resources",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 14840,
-      "forks": 16209,
-      "added_stars": "6 stars this week"
+      "stars": 3623,
+      "forks": 821,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "microsoft-foundry / foundry-samples",
@@ -50,9 +40,19 @@
       "description": "Embedded samples in Azure AI Foundry docs",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 407,
-      "forks": 449,
-      "added_stars": "5 stars this week"
+      "stars": 409,
+      "forks": 450,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "Azure / azure-quickstart-templates",
+      "url": "https://github.com/Azure/azure-quickstart-templates",
+      "description": "Azure Quickstart Templates",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 14841,
+      "forks": 16211,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "microsoft / azure-container-apps",

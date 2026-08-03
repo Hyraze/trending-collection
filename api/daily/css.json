@@ -2,27 +2,47 @@
   "title": "GitHub Css Languages Daily Trending",
   "description": "Daily Trending of Css Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
+    {
+      "title": "vinceliuice / Orchis-theme",
+      "url": "https://github.com/vinceliuice/Orchis-theme",
+      "description": "Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": 4038,
+      "forks": 259,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "kepano / obsidian-minimal",
+      "url": "https://github.com/kepano/obsidian-minimal",
+      "description": "A distraction-free and highly customizable theme for Obsidian.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": 5296,
+      "forks": 267,
+      "added_stars": "4 stars today"
+    },
     {
       "title": "hkhcoder / vprofile-project",
       "url": "https://github.com/hkhcoder/vprofile-project",
       "description": "",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 1374,
-      "forks": 7528,
+      "stars": 1377,
+      "forks": 7530,
       "added_stars": "2 stars today"
     },
     {
-      "title": "ConardLi / garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "title": "zarazhangrui / codebase-to-course",
+      "url": "https://github.com/zarazhangrui/codebase-to-course",
+      "description": "A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 9984,
-      "forks": 1314,
-      "added_stars": "21 stars today"
+      "stars": 5317,
+      "forks": 539,
+      "added_stars": "2 stars today"
     },
     {
       "title": "opera-gaming / gxmods",
@@ -40,19 +60,29 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 20622,
-      "forks": 1034,
-      "added_stars": "255 stars today"
+      "stars": 20949,
+      "forks": 1054,
+      "added_stars": "274 stars today"
     },
     {
-      "title": "ryanoasis / nerd-fonts",
-      "url": "https://github.com/ryanoasis/nerd-fonts",
-      "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
+      "title": "vinceliuice / WhiteSur-gtk-theme",
+      "url": "https://github.com/vinceliuice/WhiteSur-gtk-theme",
+      "description": "MacOS like theme for all gtk based desktops",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 63916,
-      "forks": 3929,
-      "added_stars": "16 stars today"
+      "stars": 9140,
+      "forks": 732,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "Fabito02 / ChromaLeon",
+      "url": "https://github.com/Fabito02/ChromaLeon",
+      "description": "Change your GNOME Shell and GTK accent colors dynamically based on your wallpaper.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": 158,
+      "forks": 3,
+      "added_stars": "4 stars today"
     },
     {
       "title": "jothepro / doxygen-awesome-css",
@@ -60,49 +90,79 @@
       "description": "Custom CSS theme for doxygen html-documentation with lots of customization parameters.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 1396,
+      "stars": 1397,
       "forks": 142,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ZoranPandovski / awesome-testing-tools",
+      "url": "https://github.com/ZoranPandovski/awesome-testing-tools",
+      "description": "🚀 A curated list of awesome software testing tools, from unit and load to accessibility, Web3, and contract testing 🚀",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": 364,
+      "forks": 121,
       "added_stars": "0 stars today"
     },
     {
-      "title": "AnubisNekhet / AnuPpuccin",
-      "url": "https://github.com/AnubisNekhet/AnuPpuccin",
-      "description": "Personal theme for Obsidian",
+      "title": "HackTricks-wiki / hacktricks",
+      "url": "https://github.com/HackTricks-wiki/hacktricks",
+      "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 3334,
-      "forks": 221,
-      "added_stars": "1 star today"
+      "stars": 11973,
+      "forks": 3157,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "necolas / normalize.css",
-      "url": "https://github.com/necolas/normalize.css",
-      "description": "A modern alternative to CSS resets",
+      "title": "kepano / flexoki",
+      "url": "https://github.com/kepano/flexoki",
+      "description": "An inky color scheme for prose and code.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 53538,
-      "forks": 10351,
-      "added_stars": "1 star today"
+      "stars": 3608,
+      "forks": 122,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "isocpp / CppCoreGuidelines",
-      "url": "https://github.com/isocpp/CppCoreGuidelines",
-      "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+      "title": "missing-semester / missing-semester",
+      "url": "https://github.com/missing-semester/missing-semester",
+      "description": "The Missing Semester of Your CS Education 📚",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 45217,
-      "forks": 5551,
-      "added_stars": "5 stars today"
+      "stars": 5960,
+      "forks": 1416,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "vinceliuice / Orchis-theme",
-      "url": "https://github.com/vinceliuice/Orchis-theme",
-      "description": "Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.",
+      "title": "ConardLi / garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 4036,
-      "forks": 259,
-      "added_stars": "8 stars today"
+      "stars": 10008,
+      "forks": 1319,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "SAPTARSHI-coder / EaseMotion-css",
+      "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css",
+      "description": "Animation-first CSS framework with reusable UI components, modern effects, and zero dependencies. Lightweight, beginner-friendly, and open-source.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": 245,
+      "forks": 1019,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Diolinux / PhotoGIMP",
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": 17212,
+      "forks": 701,
+      "added_stars": "25 stars today"
     }
   ]
 }

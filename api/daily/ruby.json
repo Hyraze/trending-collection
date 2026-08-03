@@ -2,127 +2,27 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
-    {
-      "title": "chatwoot / chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 35318,
-      "forks": 8460,
-      "added_stars": "196 stars today"
-    },
-    {
-      "title": "opf / openproject",
-      "url": "https://github.com/opf/openproject",
-      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 15737,
-      "forks": 3398,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "ubicloud / ubicloud",
-      "url": "https://github.com/ubicloud/ubicloud",
-      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 12197,
-      "forks": 580,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "Homebrew / homebrew-cask",
-      "url": "https://github.com/Homebrew/homebrew-cask",
-      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 22135,
-      "forks": 11775,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "rails / solid_queue",
-      "url": "https://github.com/rails/solid_queue",
-      "description": "Database-backed Active Job backend",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 2471,
-      "forks": 245,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "discourse / discourse",
-      "url": "https://github.com/discourse/discourse",
-      "description": "A platform for community discussion. Free, open, simple.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 47576,
-      "forks": 8975,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "decidim / decidim",
-      "url": "https://github.com/decidim/decidim",
-      "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 1797,
-      "forks": 474,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "ruby / rubygems",
-      "url": "https://github.com/ruby/rubygems",
-      "description": "Library packaging and distribution for Ruby.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 3947,
-      "forks": 1929,
-      "added_stars": "1 star today"
-    },
     {
       "title": "we-promise / sure",
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 9226,
-      "forks": 315,
-      "added_stars": "17 stars today"
+      "stars": 9266,
+      "forks": 320,
+      "added_stars": "37 stars today"
     },
     {
-      "title": "github / explore",
-      "url": "https://github.com/github/explore",
-      "description": "Community-curated topic and collection pages on GitHub",
+      "title": "chatwoot / chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 4839,
-      "forks": 14409,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ytti / oxidized",
-      "url": "https://github.com/ytti/oxidized",
-      "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 3482,
-      "forks": 1049,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "hackclub / stardance",
-      "url": "https://github.com/hackclub/stardance",
-      "description": "The largest high school STEM event of the summer!",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 89,
-      "forks": 89,
-      "added_stars": "0 stars today"
+      "stars": 35416,
+      "forks": 8484,
+      "added_stars": "99 stars today"
     },
     {
       "title": "gitlabhq / gitlabhq",
@@ -130,9 +30,79 @@
       "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 24517,
+      "stars": 24521,
       "forks": 5925,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "rubocop / rubocop",
+      "url": "https://github.com/rubocop/rubocop",
+      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 12893,
+      "forks": 3117,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "rails / rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 58664,
+      "forks": 22300,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "rails / solid_queue",
+      "url": "https://github.com/rails/solid_queue",
+      "description": "Database-backed Active Job backend",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 2474,
+      "forks": 244,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "ruby / ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 23667,
+      "forks": 5624,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "Homebrew / brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The Package Manager for Everywhere",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 49036,
+      "forks": 11267,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "freeCodeCamp / devdocs",
+      "url": "https://github.com/freeCodeCamp/devdocs",
+      "description": "API Documentation Browser",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 39251,
+      "forks": 2617,
       "added_stars": "5 stars today"
+    },
+    {
+      "title": "ubicloud / ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 12201,
+      "forks": 580,
+      "added_stars": "4 stars today"
     },
     {
       "title": "rubysec / ruby-advisory-db",
@@ -145,53 +115,73 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "ruby / gem_rbs_collection",
-      "url": "https://github.com/ruby/gem_rbs_collection",
-      "description": "A collection of RBS for gems.",
+      "title": "dependabot / dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 303,
-      "forks": 134,
+      "stars": 5709,
+      "forks": 1474,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "openfoodfoundation / openfoodnetwork",
+      "url": "https://github.com/openfoodfoundation/openfoodnetwork",
+      "description": "Connect suppliers, distributors and consumers to trade local produce.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 1260,
+      "forks": 795,
       "added_stars": "0 stars today"
     },
     {
-      "title": "DataDog / datadog-api-client-ruby",
-      "url": "https://github.com/DataDog/datadog-api-client-ruby",
-      "description": "Ruby client for the Datadog API",
+      "title": "unsplash / comment-on-pr",
+      "url": "https://github.com/unsplash/comment-on-pr",
+      "description": "A GitHub Action to comment on the relevant open PR when a commit is pushed.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 44,
-      "forks": 20,
+      "stars": 152,
+      "forks": 84,
       "added_stars": "0 stars today"
     },
     {
-      "title": "DataDog / dd-trace-rb",
-      "url": "https://github.com/DataDog/dd-trace-rb",
-      "description": "Datadog's client library for Ruby",
+      "title": "docusealco / docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 410,
-      "forks": 411,
+      "stars": 18178,
+      "forks": 1809,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "publiclab / plots2",
+      "url": "https://github.com/publiclab/plots2",
+      "description": "a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! 🎈",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 1017,
+      "forks": 1871,
       "added_stars": "0 stars today"
     },
     {
-      "title": "riscv / riscv-unified-db",
-      "url": "https://github.com/riscv/riscv-unified-db",
-      "description": "Monorepo containing a machine-readable database of the RISC-V specification and artifact generation tools",
+      "title": "antiwork / gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "See what sticks",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 203,
-      "forks": 235,
-      "added_stars": "0 stars today"
+      "stars": 9508,
+      "forks": 2002,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "rubysec / bundler-audit",
-      "url": "https://github.com/rubysec/bundler-audit",
-      "description": "Patch-level verification for Bundler",
+      "title": "graphiti-api / graphiti",
+      "url": "https://github.com/graphiti-api/graphiti",
+      "description": "Stylish Graph APIs",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 2758,
-      "forks": 250,
+      "stars": 1057,
+      "forks": 155,
       "added_stars": "0 stars today"
     }
   ]

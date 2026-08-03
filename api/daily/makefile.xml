@@ -4,26 +4,11 @@
   <title>GitHub Makefile Languages Daily Trending</title>
   <description>Daily Trending of Makefile Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:22:49 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
   <item>
     <title>deepseek-ai / DeepSeek-LLM</title>
     <link>https://github.com/deepseek-ai/DeepSeek-LLM</link>
     <description>DeepSeek LLM: Let there be answers</description>
-  </item>
-  <item>
-    <title>open-telemetry / opentelemetry-proto</title>
-    <link>https://github.com/open-telemetry/opentelemetry-proto</link>
-    <description>OpenTelemetry protocol (OTLP) specification and Protobuf definitions</description>
-  </item>
-  <item>
-    <title>openwrt / packages</title>
-    <link>https://github.com/openwrt/packages</link>
-    <description>Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</description>
-  </item>
-  <item>
-    <title>golang-standards / project-layout</title>
-    <link>https://github.com/golang-standards/project-layout</link>
-    <description>Standard Go Project Layout</description>
   </item>
   <item>
     <title>ROCKNIX / distribution</title>
@@ -31,24 +16,34 @@
     <description></description>
   </item>
   <item>
-    <title>foostan / crkbd</title>
-    <link>https://github.com/foostan/crkbd</link>
-    <description>Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</description>
+    <title>container-storage-interface / spec</title>
+    <link>https://github.com/container-storage-interface/spec</link>
+    <description>Container Storage Interface (CSI) Specification.</description>
   </item>
   <item>
-    <title>twilio / twilio-oai</title>
-    <link>https://github.com/twilio/twilio-oai</link>
-    <description>The Twilio OpenAPI Specification</description>
+    <title>theupdateframework / theupdateframework.io</title>
+    <link>https://github.com/theupdateframework/theupdateframework.io</link>
+    <description>Website assets for TUF</description>
   </item>
   <item>
-    <title>open-telemetry / opentelemetry-specification</title>
-    <link>https://github.com/open-telemetry/opentelemetry-specification</link>
-    <description>Specifications for OpenTelemetry</description>
+    <title>sigstore / protobuf-specs</title>
+    <link>https://github.com/sigstore/protobuf-specs</link>
+    <description>Sigstore&#x27;s Protocol Buffer specifications</description>
   </item>
   <item>
-    <title>jobbole / awesome-python-cn</title>
-    <link>https://github.com/jobbole/awesome-python-cn</link>
-    <description>Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。</description>
+    <title>open-telemetry / opentelemetry-proto</title>
+    <link>https://github.com/open-telemetry/opentelemetry-proto</link>
+    <description>OpenTelemetry protocol (OTLP) specification and Protobuf definitions</description>
+  </item>
+  <item>
+    <title>upbound / build</title>
+    <link>https://github.com/upbound/build</link>
+    <description>Upbound build and CI scripts</description>
+  </item>
+  <item>
+    <title>mindsdb / mindshub</title>
+    <link>https://github.com/mindsdb/mindshub</link>
+    <description>Make AI do actual work. Swap the model anytime — keep everything you&#x27;ve built.</description>
   </item>
   <item>
     <title>SiftScience / sift-ios</title>
@@ -56,24 +51,9 @@
     <description>Sift iOS SDK</description>
   </item>
   <item>
-    <title>PartialVolume / shredos.x86_64</title>
-    <link>https://github.com/PartialVolume/shredos.x86_64</link>
-    <description>Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe</description>
-  </item>
-  <item>
-    <title>githubnext / agentics</title>
-    <link>https://github.com/githubnext/agentics</link>
-    <description>A sample pack of GitHub Agentic Workflows!</description>
-  </item>
-  <item>
-    <title>uber-go / guide</title>
-    <link>https://github.com/uber-go/guide</link>
-    <description>The Uber Go Style Guide.</description>
-  </item>
-  <item>
-    <title>dbt-labs / dbt-utils</title>
-    <link>https://github.com/dbt-labs/dbt-utils</link>
-    <description>Utility functions for dbt projects.</description>
+    <title>twilio / twilio-oai</title>
+    <link>https://github.com/twilio/twilio-oai</link>
+    <description>The Twilio OpenAPI Specification</description>
   </item>
 </channel>
 </rss>

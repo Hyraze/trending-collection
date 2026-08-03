@@ -4,16 +4,26 @@
   <title>GitHub Mustache Languages Daily Trending</title>
   <description>Daily Trending of Mustache Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:22:49 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <item>
+    <title>argoproj / argo-helm</title>
+    <link>https://github.com/argoproj/argo-helm</link>
+    <description>ArgoProj Helm Charts</description>
+  </item>
+  <item>
+    <title>temporalio / helm-charts</title>
+    <link>https://github.com/temporalio/helm-charts</link>
+    <description>Temporal Helm charts</description>
+  </item>
   <item>
     <title>prometheus-community / helm-charts</title>
     <link>https://github.com/prometheus-community/helm-charts</link>
     <description>Prometheus community Helm charts</description>
   </item>
   <item>
-    <title>argoproj / argo-helm</title>
-    <link>https://github.com/argoproj/argo-helm</link>
-    <description>ArgoProj Helm Charts</description>
+    <title>thmsgbrt / thmsgbrt</title>
+    <link>https://github.com/thmsgbrt/thmsgbrt</link>
+    <description>My awesome README.md</description>
   </item>
   <item>
     <title>aws / eks-charts</title>
@@ -24,21 +34,6 @@
     <title>jenkinsci / helm-charts</title>
     <link>https://github.com/jenkinsci/helm-charts</link>
     <description>Jenkins helm charts</description>
-  </item>
-  <item>
-    <title>amzn / selling-partner-api-models</title>
-    <link>https://github.com/amzn/selling-partner-api-models</link>
-    <description>This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.</description>
-  </item>
-  <item>
-    <title>temporalio / helm-charts</title>
-    <link>https://github.com/temporalio/helm-charts</link>
-    <description>Temporal Helm charts</description>
-  </item>
-  <item>
-    <title>thmsgbrt / thmsgbrt</title>
-    <link>https://github.com/thmsgbrt/thmsgbrt</link>
-    <description>My awesome README.md</description>
   </item>
 </channel>
 </rss>

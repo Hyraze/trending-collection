@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "obsproject / obs-studio",
@@ -10,19 +10,9 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 74386,
-      "forks": 9514,
-      "added_stars": "275 stars this week"
-    },
-    {
-      "title": "kingToolbox / WindTerm",
-      "url": "https://github.com/kingToolbox/WindTerm",
-      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 31823,
-      "forks": 2426,
-      "added_stars": "114 stars this week"
+      "stars": 74446,
+      "forks": 9530,
+      "added_stars": "320 stars this week"
     },
     {
       "title": "microsoft / PowerToys",
@@ -30,9 +20,9 @@
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 137364,
-      "forks": 8388,
-      "added_stars": "677 stars this week"
+      "stars": 137407,
+      "forks": 8392,
+      "added_stars": "702 stars this week"
     },
     {
       "title": "libretro / RetroArch",
@@ -40,19 +30,9 @@
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13450,
-      "forks": 2169,
-      "added_stars": "54 stars this week"
-    },
-    {
-      "title": "lvgl / lvgl",
-      "url": "https://github.com/lvgl/lvgl",
-      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 24273,
-      "forks": 4272,
-      "added_stars": "81 stars this week"
+      "stars": 13453,
+      "forks": 2170,
+      "added_stars": "52 stars this week"
     },
     {
       "title": "openwrt / openwrt",
@@ -60,9 +40,9 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27838,
-      "forks": 12712,
-      "added_stars": "198 stars this week"
+      "stars": 27852,
+      "forks": 12714,
+      "added_stars": "203 stars this week"
     },
     {
       "title": "redcanaryco / atomic-red-team",
@@ -70,19 +50,9 @@
       "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12339,
+      "stars": 12343,
       "forks": 3183,
-      "added_stars": "84 stars this week"
-    },
-    {
-      "title": "palera1n / palera1n",
-      "url": "https://github.com/palera1n/palera1n",
-      "description": "Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6428,
-      "forks": 776,
-      "added_stars": "51 stars this week"
+      "added_stars": "83 stars this week"
     },
     {
       "title": "madler / zlib",
@@ -90,19 +60,19 @@
       "description": "A massively spiffy yet delicately unobtrusive compression library.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6995,
-      "forks": 2821,
-      "added_stars": "16 stars this week"
+      "stars": 6996,
+      "forks": 2823,
+      "added_stars": "18 stars this week"
     },
     {
-      "title": "karpathy / llama2.c",
-      "url": "https://github.com/karpathy/llama2.c",
-      "description": "Inference Llama 2 in one file of pure C",
+      "title": "lvgl / lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 19876,
-      "forks": 2585,
-      "added_stars": "99 stars this week"
+      "stars": 24279,
+      "forks": 4274,
+      "added_stars": "75 stars this week"
     },
     {
       "title": "raysan5 / raylib",
@@ -110,39 +80,29 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34150,
-      "forks": 3221,
-      "added_stars": "121 stars this week"
+      "stars": 34157,
+      "forks": 3225,
+      "added_stars": "125 stars this week"
     },
     {
-      "title": "DarkFlippers / unleashed-firmware",
-      "url": "https://github.com/DarkFlippers/unleashed-firmware",
-      "description": "Flipper Zero Unleashed Firmware",
+      "title": "pgvector / pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 21967,
-      "forks": 1921,
-      "added_stars": "81 stars this week"
+      "stars": 22451,
+      "forks": 1266,
+      "added_stars": "110 stars this week"
     },
     {
-      "title": "darktable-org / darktable",
-      "url": "https://github.com/darktable-org/darktable",
-      "description": "darktable is an open source photography workflow application and raw developer",
+      "title": "palera1n / palera1n",
+      "url": "https://github.com/palera1n/palera1n",
+      "description": "Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12867,
-      "forks": 1385,
-      "added_stars": "71 stars this week"
-    },
-    {
-      "title": "sumatrapdfreader / sumatrapdf",
-      "url": "https://github.com/sumatrapdfreader/sumatrapdf",
-      "description": "SumatraPDF reader",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17229,
-      "forks": 2005,
-      "added_stars": "61 stars this week"
+      "stars": 6431,
+      "forks": 776,
+      "added_stars": "53 stars this week"
     },
     {
       "title": "termux / termux-x11",
@@ -150,39 +110,9 @@
       "description": "Termux X-server add-on.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4483,
-      "forks": 622,
-      "added_stars": "44 stars this week"
-    },
-    {
-      "title": "duixcom / Duix-Avatar",
-      "url": "https://github.com/duixcom/Duix-Avatar",
-      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14293,
-      "forks": 2401,
-      "added_stars": "128 stars this week"
-    },
-    {
-      "title": "henrypp / simplewall",
-      "url": "https://github.com/henrypp/simplewall",
-      "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 8744,
-      "forks": 641,
-      "added_stars": "89 stars this week"
-    },
-    {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 62337,
-      "forks": 28193,
-      "added_stars": "149 stars this week"
+      "stars": 4490,
+      "forks": 626,
+      "added_stars": "48 stars this week"
     },
     {
       "title": "brunodev85 / winlator",
@@ -190,9 +120,89 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 18433,
-      "forks": 1579,
-      "added_stars": "89 stars this week"
+      "stars": 18451,
+      "forks": 1583,
+      "added_stars": "94 stars this week"
+    },
+    {
+      "title": "DarkFlippers / unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 21981,
+      "forks": 1923,
+      "added_stars": "79 stars this week"
+    },
+    {
+      "title": "henrypp / simplewall",
+      "url": "https://github.com/henrypp/simplewall",
+      "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8759,
+      "forks": 641,
+      "added_stars": "96 stars this week"
+    },
+    {
+      "title": "kingToolbox / WindTerm",
+      "url": "https://github.com/kingToolbox/WindTerm",
+      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 31836,
+      "forks": 2427,
+      "added_stars": "110 stars this week"
+    },
+    {
+      "title": "espressif / esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 18687,
+      "forks": 8412,
+      "added_stars": "69 stars this week"
+    },
+    {
+      "title": "henrypp / memreduct",
+      "url": "https://github.com/henrypp/memreduct",
+      "description": "Lightweight real-time memory management application to monitor and clean system memory on your computer.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 10028,
+      "forks": 585,
+      "added_stars": "68 stars this week"
+    },
+    {
+      "title": "duixcom / Duix-Avatar",
+      "url": "https://github.com/duixcom/Duix-Avatar",
+      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 14303,
+      "forks": 2407,
+      "added_stars": "123 stars this week"
+    },
+    {
+      "title": "darktable-org / darktable",
+      "url": "https://github.com/darktable-org/darktable",
+      "description": "darktable is an open source photography workflow application and raw developer",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12880,
+      "forks": 1390,
+      "added_stars": "78 stars this week"
+    },
+    {
+      "title": "quickjs-ng / quickjs",
+      "url": "https://github.com/quickjs-ng/quickjs",
+      "description": "QuickJS, the Next Generation: a mighty JavaScript engine",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3501,
+      "forks": 341,
+      "added_stars": "79 stars this week"
     }
   ]
 }

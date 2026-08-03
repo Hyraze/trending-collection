@@ -4,7 +4,7 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:27:08 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
   <item>
     <title>deepseek-ai / DeepEP</title>
     <link>https://github.com/deepseek-ai/DeepEP</link>
@@ -14,11 +14,6 @@
     <title>deepseek-ai / DeepGEMM</title>
     <link>https://github.com/deepseek-ai/DeepGEMM</link>
     <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
-  </item>
-  <item>
-    <title>NVIDIA / cuvs</title>
-    <link>https://github.com/NVIDIA/cuvs</link>
-    <description>cuVS - a library for vector search and clustering on the GPU</description>
   </item>
   <item>
     <title>thu-ml / SageAttention</title>
@@ -34,6 +29,11 @@
     <title>rahul-goel / fused-ssim</title>
     <link>https://github.com/rahul-goel/fused-ssim</link>
     <description>Lightning fast differentiable SSIM.</description>
+  </item>
+  <item>
+    <title>NVIDIA / cuvs</title>
+    <link>https://github.com/NVIDIA/cuvs</link>
+    <description>cuVS - a library for vector search and clustering on the GPU</description>
   </item>
   <item>
     <title>karpathy / llm.c</title>
@@ -61,14 +61,19 @@
     <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
   </item>
   <item>
+    <title>Dao-AILab / causal-conv1d</title>
+    <link>https://github.com/Dao-AILab/causal-conv1d</link>
+    <description>Causal depthwise conv1d in CUDA, with a PyTorch interface</description>
+  </item>
+  <item>
     <title>NVIDIA / cuopt</title>
     <link>https://github.com/NVIDIA/cuopt</link>
     <description>GPU accelerated decision optimization</description>
   </item>
   <item>
-    <title>Dao-AILab / causal-conv1d</title>
-    <link>https://github.com/Dao-AILab/causal-conv1d</link>
-    <description>Causal depthwise conv1d in CUDA, with a PyTorch interface</description>
+    <title>NVIDIA / raft</title>
+    <link>https://github.com/NVIDIA/raft</link>
+    <description>RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</description>
   </item>
 </channel>
 </rss>

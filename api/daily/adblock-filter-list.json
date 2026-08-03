@@ -2,37 +2,27 @@
   "title": "GitHub Adblock-filter-list Languages Daily Trending",
   "description": "Daily Trending of Adblock-filter-list Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
-    {
-      "title": "easylist / easylist",
-      "url": "https://github.com/easylist/easylist",
-      "description": "EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)",
-      "language": "Adblock Filter List",
-      "languageColor": "#800000",
-      "stars": 3073,
-      "forks": 899,
-      "added_stars": "3 stars today"
-    },
     {
       "title": "uBlockOrigin / uAssets",
       "url": "https://github.com/uBlockOrigin/uAssets",
       "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 5914,
+      "stars": 5915,
       "forks": 1020,
-      "added_stars": "3 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "Stevoisiak / Stevos-AI-Blocklist",
-      "url": "https://github.com/Stevoisiak/Stevos-AI-Blocklist",
-      "description": "A filter list that hides website features which use Generative AI & content labeled as AI Generated.",
+      "title": "brave / adblock-lists",
+      "url": "https://github.com/brave/adblock-lists",
+      "description": "Maintains adblock lists that Brave uses",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 834,
-      "forks": 18,
-      "added_stars": "0 stars today"
+      "stars": 513,
+      "forks": 108,
+      "added_stars": "2 stars today"
     },
     {
       "title": "AdguardTeam / AdguardFilters",
@@ -40,9 +30,19 @@
       "description": "AdGuard Content Blocking Filters",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 4430,
+      "stars": 4431,
       "forks": 821,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "AdguardTeam / AdGuardSDNSFilter",
+      "url": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
+      "description": "AdGuard DNS filter",
+      "language": "Adblock Filter List",
+      "languageColor": "#800000",
+      "stars": 1324,
+      "forks": 183,
+      "added_stars": "0 stars today"
     }
   ]
 }

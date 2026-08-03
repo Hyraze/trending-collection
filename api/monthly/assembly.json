@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "chrislgarry / Apollo-11",
@@ -10,9 +10,9 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 71761,
+      "stars": 71786,
       "forks": 7955,
-      "added_stars": "3,650 stars this month"
+      "added_stars": "3,668 stars this month"
     },
     {
       "title": "ROCm / rocm-libraries",
@@ -21,7 +21,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 393,
-      "forks": 354,
+      "forks": 355,
       "added_stars": "24 stars this month"
     },
     {
@@ -30,9 +30,9 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4846,
-      "forks": 1271,
-      "added_stars": "66 stars this month"
+      "stars": 4849,
+      "forks": 1273,
+      "added_stars": "68 stars this month"
     },
     {
       "title": "openhwgroup / cva6",
@@ -40,19 +40,9 @@
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3050,
+      "stars": 3052,
       "forks": 991,
-      "added_stars": "66 stars this month"
-    },
-    {
-      "title": "Rangi42 / polishedcrystal",
-      "url": "https://github.com/Rangi42/polishedcrystal",
-      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1593,
-      "forks": 328,
-      "added_stars": "43 stars this month"
+      "added_stars": "65 stars this month"
     },
     {
       "title": "apple / swift-crypto",
@@ -60,7 +50,7 @@
       "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1708,
+      "stars": 1709,
       "forks": 215,
       "added_stars": "11 stars this month"
     },
@@ -75,14 +65,24 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
+      "title": "JSsixtyfour / smashremix",
+      "url": "https://github.com/JSsixtyfour/smashremix",
+      "description": "",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2480,
-      "forks": 962,
-      "added_stars": "28 stars this month"
+      "stars": 939,
+      "forks": 76,
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "Rangi42 / polishedcrystal",
+      "url": "https://github.com/Rangi42/polishedcrystal",
+      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1593,
+      "forks": 328,
+      "added_stars": "43 stars this month"
     },
     {
       "title": "aws / aws-lc",
@@ -90,29 +90,19 @@
       "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 810,
-      "forks": 199,
-      "added_stars": "22 stars this month"
+      "stars": 813,
+      "forks": 198,
+      "added_stars": "24 stars this month"
     },
     {
-      "title": "PRoX2011 / x16-PRos",
-      "url": "https://github.com/PRoX2011/x16-PRos",
-      "description": "Simple 16 bit (real mode) operating system writen in NASM from scratch",
+      "title": "pret / pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 595,
-      "forks": 50,
-      "added_stars": "146 stars this month"
-    },
-    {
-      "title": "livekit / rust-sdks",
-      "url": "https://github.com/livekit/rust-sdks",
-      "description": "LiveKit realtime and server SDKs for Rust",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 474,
-      "forks": 208,
-      "added_stars": "14 stars this month"
+      "stars": 2482,
+      "forks": 963,
+      "added_stars": "29 stars this month"
     },
     {
       "title": "cirosantilli / x86-bare-metal-examples",
@@ -125,6 +115,16 @@
       "added_stars": "25 stars this month"
     },
     {
+      "title": "riscv / riscv-arch-test",
+      "url": "https://github.com/riscv/riscv-arch-test",
+      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 762,
+      "forks": 342,
+      "added_stars": "29 stars this month"
+    },
+    {
       "title": "espressif / esp-dl",
       "url": "https://github.com/espressif/esp-dl",
       "description": "Espressif deep-learning library for AIoT applications",
@@ -132,27 +132,7 @@
       "languageColor": "#6E4C13",
       "stars": 1096,
       "forks": 218,
-      "added_stars": "33 stars this month"
-    },
-    {
-      "title": "JSsixtyfour / smashremix",
-      "url": "https://github.com/JSsixtyfour/smashremix",
-      "description": "",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 937,
-      "forks": 76,
-      "added_stars": "9 stars this month"
-    },
-    {
-      "title": "riscv / riscv-arch-test",
-      "url": "https://github.com/riscv/riscv-arch-test",
-      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 759,
-      "forks": 342,
-      "added_stars": "27 stars this month"
+      "added_stars": "30 stars this month"
     },
     {
       "title": "leachim6 / hello-world",
@@ -162,7 +142,27 @@
       "languageColor": "#6E4C13",
       "stars": 11906,
       "forks": 2111,
-      "added_stars": "37 stars this month"
+      "added_stars": "39 stars this month"
+    },
+    {
+      "title": "livekit / rust-sdks",
+      "url": "https://github.com/livekit/rust-sdks",
+      "description": "LiveKit realtime and server SDKs for Rust",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 474,
+      "forks": 207,
+      "added_stars": "14 stars this month"
+    },
+    {
+      "title": "SheerSt / pokewilds",
+      "url": "https://github.com/SheerSt/pokewilds",
+      "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2871,
+      "forks": 215,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "ebitengine / purego",
@@ -172,17 +172,17 @@
       "languageColor": "#6E4C13",
       "stars": 3759,
       "forks": 119,
-      "added_stars": "74 stars this month"
+      "added_stars": "70 stars this month"
     },
     {
-      "title": "SheerSt / pokewilds",
-      "url": "https://github.com/SheerSt/pokewilds",
-      "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
+      "title": "bitdump / BLHeli",
+      "url": "https://github.com/bitdump/BLHeli",
+      "description": "BLHeli for brushless ESC firmware",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2868,
-      "forks": 215,
-      "added_stars": "13 stars this month"
+      "stars": 2224,
+      "forks": 1145,
+      "added_stars": "12 stars this month"
     }
   ]
 }

@@ -2,17 +2,17 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "saadeghi / daisyui",
       "url": "https://github.com/saadeghi/daisyui",
       "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 41913,
-      "forks": 1668,
-      "added_stars": "768 stars this month"
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 41931,
+      "forks": 1669,
+      "added_stars": "766 stars this month"
     },
     {
       "title": "imputnet / cobalt",
@@ -20,9 +20,9 @@
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 41904,
-      "forks": 3598,
-      "added_stars": "655 stars this month"
+      "stars": 41916,
+      "forks": 3604,
+      "added_stars": "648 stars this month"
     },
     {
       "title": "open-webui / desktop",
@@ -30,7 +30,7 @@
       "description": "Open WebUI Desktop 🌐",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 2455,
+      "stars": 2462,
       "forks": 236,
       "added_stars": "248 stars this month"
     },
@@ -40,19 +40,9 @@
       "description": "Dockhand - Docker management you will like.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5450,
+      "stars": 5463,
       "forks": 212,
-      "added_stars": "404 stars this month"
-    },
-    {
-      "title": "seanmorley15 / AdventureLog",
-      "url": "https://github.com/seanmorley15/AdventureLog",
-      "description": "Self-hostable travel tracker and trip planner.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 3445,
-      "forks": 233,
-      "added_stars": "95 stars this month"
+      "added_stars": "411 stars this month"
     },
     {
       "title": "dbgate / dbgate",
@@ -60,19 +50,19 @@
       "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 7179,
-      "forks": 444,
-      "added_stars": "89 stars this month"
+      "stars": 7183,
+      "forks": 445,
+      "added_stars": "87 stars this month"
     },
     {
-      "title": "RaidOwl / homelab-hub",
-      "url": "https://github.com/RaidOwl/homelab-hub",
-      "description": "",
+      "title": "seanmorley15 / AdventureLog",
+      "url": "https://github.com/seanmorley15/AdventureLog",
+      "description": "Self-hostable travel tracker and trip planner.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 675,
-      "forks": 49,
-      "added_stars": "73 stars this month"
+      "stars": 3449,
+      "forks": 233,
+      "added_stars": "96 stars this month"
     },
     {
       "title": "jikan-me / website",
@@ -85,6 +75,16 @@
       "added_stars": "1 star this month"
     },
     {
+      "title": "RaidOwl / homelab-hub",
+      "url": "https://github.com/RaidOwl/homelab-hub",
+      "description": "",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 675,
+      "forks": 49,
+      "added_stars": "73 stars this month"
+    },
+    {
       "title": "dora-team / dora.dev",
       "url": "https://github.com/dora-team/dora.dev",
       "description": "Public-facing knowledge site: https://dora.dev",
@@ -92,7 +92,7 @@
       "languageColor": "#ff3e00",
       "stars": 171,
       "forks": 45,
-      "added_stars": "5 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "rajnandan1 / kener",
@@ -100,9 +100,9 @@
       "description": "Stunning status pages, batteries included!",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5081,
+      "stars": 5082,
       "forks": 288,
-      "added_stars": "67 stars this month"
+      "added_stars": "63 stars this month"
     },
     {
       "title": "mathesar-foundation / mathesar",
@@ -110,9 +110,9 @@
       "description": "An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5080,
+      "stars": 5081,
       "forks": 484,
-      "added_stars": "63 stars this month"
+      "added_stars": "62 stars this month"
     },
     {
       "title": "BetterDiscord / Installer",
@@ -130,19 +130,9 @@
       "description": "The next-generation file converter. Open source, fully local* and free forever.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 15321,
-      "forks": 813,
-      "added_stars": "140 stars this month"
-    },
-    {
-      "title": "ReVanced / revanced-website",
-      "url": "https://github.com/ReVanced/revanced-website",
-      "description": "🌐 Website for ReVanced",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 474,
-      "forks": 59,
-      "added_stars": "3 stars this month"
+      "stars": 15325,
+      "forks": 814,
+      "added_stars": "138 stars this month"
     },
     {
       "title": "PuruVJ / macos-web",
@@ -152,7 +142,17 @@
       "languageColor": "#ff3e00",
       "stars": 2651,
       "forks": 340,
-      "added_stars": "24 stars this month"
+      "added_stars": "25 stars this month"
+    },
+    {
+      "title": "ReVanced / revanced-website",
+      "url": "https://github.com/ReVanced/revanced-website",
+      "description": "🌐 Website for ReVanced",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 473,
+      "forks": 59,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "binimum / tidal-ui",
@@ -161,7 +161,7 @@
       "language": "Svelte",
       "languageColor": "#ff3e00",
       "stars": 1359,
-      "forks": 127,
+      "forks": 128,
       "added_stars": "2 stars this month"
     },
     {

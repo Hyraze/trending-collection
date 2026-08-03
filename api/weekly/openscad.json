@@ -2,18 +2,8 @@
   "title": "GitHub Openscad Languages Daily Trending",
   "description": "Daily Trending of Openscad Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
-    {
-      "title": "BelfrySCAD / BOSL2",
-      "url": "https://github.com/BelfrySCAD/BOSL2",
-      "description": "The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA",
-      "language": "OpenSCAD",
-      "languageColor": "#e5cd45",
-      "stars": 2297,
-      "forks": 201,
-      "added_stars": "12 stars this week"
-    },
     {
       "title": "MicrosoftDocs / windows-driver-docs",
       "url": "https://github.com/MicrosoftDocs/windows-driver-docs",
@@ -22,7 +12,17 @@
       "languageColor": "#e5cd45",
       "stars": 1056,
       "forks": 864,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "BelfrySCAD / BOSL2",
+      "url": "https://github.com/BelfrySCAD/BOSL2",
+      "description": "The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA",
+      "language": "OpenSCAD",
+      "languageColor": "#e5cd45",
+      "stars": 2298,
+      "forks": 201,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "VoronDesign / VoronUsers",
@@ -30,8 +30,8 @@
       "description": "Voron Community mods",
       "language": "OpenSCAD",
       "languageColor": "#e5cd45",
-      "stars": 3324,
-      "forks": 1850,
+      "stars": 3325,
+      "forks": 1849,
       "added_stars": "1 star this week"
     }
   ]

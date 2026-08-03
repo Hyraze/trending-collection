@@ -4,7 +4,7 @@
   <title>GitHub Mustache Languages Daily Trending</title>
   <description>Daily Trending of Mustache Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:27:08 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
   <item>
     <title>prometheus-community / helm-charts</title>
     <link>https://github.com/prometheus-community/helm-charts</link>
@@ -31,11 +31,6 @@
     <description>ArgoProj Helm Charts</description>
   </item>
   <item>
-    <title>aws / eks-charts</title>
-    <link>https://github.com/aws/eks-charts</link>
-    <description>Amazon EKS Helm chart repository</description>
-  </item>
-  <item>
     <title>temporalio / helm-charts</title>
     <link>https://github.com/temporalio/helm-charts</link>
     <description>Temporal Helm charts</description>
@@ -44,6 +39,11 @@
     <title>goharbor / harbor-helm</title>
     <link>https://github.com/goharbor/harbor-helm</link>
     <description>The helm chart to deploy Harbor</description>
+  </item>
+  <item>
+    <title>aws / eks-charts</title>
+    <link>https://github.com/aws/eks-charts</link>
+    <description>Amazon EKS Helm chart repository</description>
   </item>
   <item>
     <title>goauthentik / helm</title>

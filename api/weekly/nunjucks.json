@@ -2,7 +2,7 @@
   "title": "GitHub Nunjucks Languages Daily Trending",
   "description": "Daily Trending of Nunjucks Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "GoogleChrome / web.dev",
@@ -21,8 +21,18 @@
       "language": "Nunjucks",
       "languageColor": "#3d8137",
       "stars": 3874,
-      "forks": 597,
+      "forks": 598,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "xdesro / personalsit.es",
+      "url": "https://github.com/xdesro/personalsit.es",
+      "description": "📇 A little directory of people's personal sites",
+      "language": "Nunjucks",
+      "languageColor": "#3d8137",
+      "stars": 951,
+      "forks": 1011,
+      "added_stars": "1 star this week"
     }
   ]
 }

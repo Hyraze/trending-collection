@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "prometheus-community / helm-charts",
@@ -12,7 +12,7 @@
       "languageColor": "#724b3b",
       "stars": 6164,
       "forks": 5379,
-      "added_stars": "24 stars this month"
+      "added_stars": "22 stars this month"
     },
     {
       "title": "renovatebot / helm-charts",
@@ -31,8 +31,8 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": 17781,
-      "forks": 5968,
-      "added_stars": "27 stars this month"
+      "forks": 5967,
+      "added_stars": "28 stars this month"
     },
     {
       "title": "amzn / selling-partner-api-models",
@@ -50,19 +50,9 @@
       "description": "ArgoProj Helm Charts",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 2339,
+      "stars": 2338,
       "forks": 2100,
       "added_stars": "23 stars this month"
-    },
-    {
-      "title": "aws / eks-charts",
-      "url": "https://github.com/aws/eks-charts",
-      "description": "Amazon EKS Helm chart repository",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 1302,
-      "forks": 1082,
-      "added_stars": "4 stars this month"
     },
     {
       "title": "temporalio / helm-charts",
@@ -83,6 +73,16 @@
       "stars": 1509,
       "forks": 861,
       "added_stars": "7 stars this month"
+    },
+    {
+      "title": "aws / eks-charts",
+      "url": "https://github.com/aws/eks-charts",
+      "description": "Amazon EKS Helm chart repository",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 1302,
+      "forks": 1082,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "goauthentik / helm",

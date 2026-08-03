@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
       "title": "nix-community / home-manager",
@@ -10,19 +10,9 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10161,
-      "forks": 2447,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "supabase / postgres",
-      "url": "https://github.com/supabase/postgres",
-      "description": "Unmodified Postgres with some useful extensions",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1767,
-      "forks": 258,
-      "added_stars": "0 stars today"
+      "stars": 10164,
+      "forks": 2448,
+      "added_stars": "3 stars today"
     },
     {
       "title": "NixOS / nixpkgs",
@@ -30,19 +20,19 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 25614,
-      "forks": 19687,
-      "added_stars": "11 stars today"
+      "stars": 25632,
+      "forks": 19696,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "oxalica / rust-overlay",
-      "url": "https://github.com/oxalica/rust-overlay",
-      "description": "Pure and reproducible nix overlay of binary distributed rust toolchains",
+      "title": "nix-community / stylix",
+      "url": "https://github.com/nix-community/stylix",
+      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1533,
-      "forks": 88,
-      "added_stars": "0 stars today"
+      "stars": 2355,
+      "forks": 351,
+      "added_stars": "3 stars today"
     },
     {
       "title": "nix-community / ethereum.nix",
@@ -55,24 +45,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "nix-community / impermanence",
-      "url": "https://github.com/nix-community/impermanence",
-      "description": "Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]",
+      "title": "numtide / system-manager",
+      "url": "https://github.com/numtide/system-manager",
+      "description": "Manage system config using nix on any distro",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1850,
-      "forks": 136,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "NixOS / nix.dev",
-      "url": "https://github.com/NixOS/nix.dev",
-      "description": "Official documentation for getting things done with Nix.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3896,
-      "forks": 335,
-      "added_stars": "3 stars today"
+      "stars": 1663,
+      "forks": 56,
+      "added_stars": "1 star today"
     },
     {
       "title": "nix-community / disko",
@@ -82,7 +62,17 @@
       "languageColor": "#7e7eff",
       "stars": 3226,
       "forks": 318,
-      "added_stars": "3 stars today"
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "NixOS / nix.dev",
+      "url": "https://github.com/NixOS/nix.dev",
+      "description": "Official documentation for getting things done with Nix.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3898,
+      "forks": 336,
+      "added_stars": "1 star today"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -90,19 +80,29 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1682,
+      "stars": 1690,
       "forks": 188,
-      "added_stars": "4 stars today"
+      "added_stars": "8 stars today"
     },
     {
-      "title": "nix-darwin / nix-darwin",
-      "url": "https://github.com/nix-darwin/nix-darwin",
-      "description": "Manage your macOS using Nix",
+      "title": "oxalica / rust-overlay",
+      "url": "https://github.com/oxalica/rust-overlay",
+      "description": "Pure and reproducible nix overlay of binary distributed rust toolchains",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 5767,
-      "forks": 653,
-      "added_stars": "0 stars today"
+      "stars": 1535,
+      "forks": 88,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "Mic92 / sops-nix",
+      "url": "https://github.com/Mic92/sops-nix",
+      "description": "Atomic secret provisioning for NixOS based on sops",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3070,
+      "forks": 226,
+      "added_stars": "4 stars today"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -110,9 +110,39 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3233,
-      "forks": 956,
+      "stars": 3234,
+      "forks": 955,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "hercules-ci / flake-parts",
+      "url": "https://github.com/hercules-ci/flake-parts",
+      "description": "❄️ Simplify Nix Flakes with the module system",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1434,
+      "forks": 77,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "nix-darwin / nix-darwin",
+      "url": "https://github.com/nix-darwin/nix-darwin",
+      "description": "Manage your macOS using Nix",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 5770,
+      "forks": 654,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "supabase / postgres",
+      "url": "https://github.com/supabase/postgres",
+      "description": "Unmodified Postgres with some useful extensions",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1767,
+      "forks": 258,
+      "added_stars": "0 stars today"
     }
   ]
 }

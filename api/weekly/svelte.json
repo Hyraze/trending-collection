@@ -2,7 +2,7 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "Finsys / dockhand",
@@ -10,9 +10,9 @@
       "description": "Dockhand - Docker management you will like.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5450,
+      "stars": 5463,
       "forks": 212,
-      "added_stars": "150 stars this week"
+      "added_stars": "123 stars this week"
     },
     {
       "title": "open-webui / desktop",
@@ -20,29 +20,9 @@
       "description": "Open WebUI Desktop 🌐",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 2455,
+      "stars": 2462,
       "forks": 236,
       "added_stars": "63 stars this week"
-    },
-    {
-      "title": "rajnandan1 / kener",
-      "url": "https://github.com/rajnandan1/kener",
-      "description": "Stunning status pages, batteries included!",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 5081,
-      "forks": 288,
-      "added_stars": "17 stars this week"
-    },
-    {
-      "title": "saadeghi / daisyui",
-      "url": "https://github.com/saadeghi/daisyui",
-      "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 41913,
-      "forks": 1668,
-      "added_stars": "118 stars this week"
     },
     {
       "title": "imputnet / cobalt",
@@ -50,19 +30,39 @@
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 41904,
-      "forks": 3598,
-      "added_stars": "143 stars this week"
+      "stars": 41916,
+      "forks": 3604,
+      "added_stars": "144 stars this week"
     },
     {
-      "title": "mistweaverco / bananas",
-      "url": "https://github.com/mistweaverco/bananas",
-      "description": "Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.",
+      "title": "saadeghi / daisyui",
+      "url": "https://github.com/saadeghi/daisyui",
+      "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 41931,
+      "forks": 1669,
+      "added_stars": "122 stars this week"
+    },
+    {
+      "title": "rajnandan1 / kener",
+      "url": "https://github.com/rajnandan1/kener",
+      "description": "Stunning status pages, batteries included!",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 6508,
-      "forks": 283,
-      "added_stars": "67 stars this week"
+      "stars": 5082,
+      "forks": 288,
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "dbgate / dbgate",
+      "url": "https://github.com/dbgate/dbgate",
+      "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 7183,
+      "forks": 445,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "mathesar-foundation / mathesar",
@@ -70,9 +70,19 @@
       "description": "An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5080,
+      "stars": 5081,
       "forks": 484,
       "added_stars": "23 stars this week"
+    },
+    {
+      "title": "mistweaverco / bananas",
+      "url": "https://github.com/mistweaverco/bananas",
+      "description": "Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 6525,
+      "forks": 284,
+      "added_stars": "46 stars this week"
     },
     {
       "title": "jikan-me / website",
@@ -85,24 +95,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "dbgate / dbgate",
-      "url": "https://github.com/dbgate/dbgate",
-      "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 7179,
-      "forks": 444,
-      "added_stars": "10 stars this week"
-    },
-    {
       "title": "VERT-sh / VERT",
       "url": "https://github.com/VERT-sh/VERT",
       "description": "The next-generation file converter. Open source, fully local* and free forever.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 15321,
-      "forks": 813,
-      "added_stars": "34 stars this week"
+      "stars": 15325,
+      "forks": 814,
+      "added_stars": "38 stars this week"
     },
     {
       "title": "PuruVJ / macos-web",
@@ -112,27 +112,7 @@
       "languageColor": "#ff3e00",
       "stars": 2651,
       "forks": 340,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "brave / leo",
-      "url": "https://github.com/brave/leo",
-      "description": "Design tokens for the Brave's design system known as Leo",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 73,
-      "forks": 31,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "ReVanced / revanced-website",
-      "url": "https://github.com/ReVanced/revanced-website",
-      "description": "🌐 Website for ReVanced",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 474,
-      "forks": 59,
-      "added_stars": "0 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "dora-team / dora.dev",
@@ -142,7 +122,7 @@
       "languageColor": "#ff3e00",
       "stars": 171,
       "forks": 45,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "satisfactorymodding / SatisfactoryModManager",
@@ -155,14 +135,24 @@
       "added_stars": "2 stars this week"
     },
     {
+      "title": "ReVanced / revanced-website",
+      "url": "https://github.com/ReVanced/revanced-website",
+      "description": "🌐 Website for ReVanced",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 473,
+      "forks": 59,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "seanmorley15 / AdventureLog",
       "url": "https://github.com/seanmorley15/AdventureLog",
       "description": "Self-hostable travel tracker and trip planner.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 3445,
+      "stars": 3449,
       "forks": 233,
-      "added_stars": "18 stars this week"
+      "added_stars": "20 stars this week"
     },
     {
       "title": "Materialious / Materialious",
@@ -170,9 +160,9 @@
       "description": "Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 1098,
+      "stars": 1099,
       "forks": 64,
-      "added_stars": "6 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
       "title": "binimum / tidal-ui",
@@ -181,7 +171,7 @@
       "language": "Svelte",
       "languageColor": "#ff3e00",
       "stars": 1359,
-      "forks": 127,
+      "forks": 128,
       "added_stars": "0 stars this week"
     },
     {

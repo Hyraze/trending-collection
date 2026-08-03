@@ -2,28 +2,8 @@
   "title": "GitHub Less Languages Daily Trending",
   "description": "Daily Trending of Less Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
-    {
-      "title": "jerrykuku / luci-theme-argon",
-      "url": "https://github.com/jerrykuku/luci-theme-argon",
-      "description": "Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.",
-      "language": "Less",
-      "languageColor": "#1d365d",
-      "stars": 5402,
-      "forks": 942,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Tencent / tdesign-common",
-      "url": "https://github.com/Tencent/tdesign-common",
-      "description": "TDesign style/utils shared by multiple frameworks repo.",
-      "language": "Less",
-      "languageColor": "#1d365d",
-      "stars": 183,
-      "forks": 397,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "Remix-Design / RemixIcon",
       "url": "https://github.com/Remix-Design/RemixIcon",
@@ -32,7 +12,17 @@
       "languageColor": "#1d365d",
       "stars": 8263,
       "forks": 554,
-      "added_stars": "1 star today"
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "jerrykuku / luci-theme-argon",
+      "url": "https://github.com/jerrykuku/luci-theme-argon",
+      "description": "Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.",
+      "language": "Less",
+      "languageColor": "#1d365d",
+      "stars": 5405,
+      "forks": 944,
+      "added_stars": "3 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "xenodium / agent-shell",
@@ -10,9 +10,9 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1674,
+      "stars": 1683,
       "forks": 210,
-      "added_stars": "214 stars this month"
+      "added_stars": "218 stars this month"
     },
     {
       "title": "dakra / ghostel",
@@ -20,9 +20,9 @@
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 815,
-      "forks": 47,
-      "added_stars": "233 stars this month"
+      "stars": 818,
+      "forks": 48,
+      "added_stars": "231 stars this month"
     },
     {
       "title": "doomemacs / core",
@@ -30,9 +30,9 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22536,
-      "forks": 3163,
-      "added_stars": "195 stars this month"
+      "stars": 22544,
+      "forks": 3161,
+      "added_stars": "192 stars this month"
     },
     {
       "title": "karthink / gptel",
@@ -40,9 +40,9 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3462,
+      "stars": 3464,
       "forks": 418,
-      "added_stars": "50 stars this month"
+      "added_stars": "53 stars this month"
     },
     {
       "title": "google-coral / coralnpu",
@@ -50,9 +50,9 @@
       "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2489,
+      "stars": 2491,
       "forks": 317,
-      "added_stars": "63 stars this month"
+      "added_stars": "64 stars this month"
     },
     {
       "title": "syl20bnr / spacemacs",
@@ -62,7 +62,7 @@
       "languageColor": "#c065db",
       "stars": 24570,
       "forks": 4838,
-      "added_stars": "34 stars this month"
+      "added_stars": "33 stars this month"
     },
     {
       "title": "emacs-mirror / emacs",
@@ -70,7 +70,7 @@
       "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5131,
+      "stars": 5135,
       "forks": 1391,
       "added_stars": "39 stars this month"
     },
@@ -80,19 +80,9 @@
       "description": "Official module library for Doom Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 49,
+      "stars": 50,
       "forks": 26,
-      "added_stars": "16 stars this month"
-    },
-    {
-      "title": "magit / magit",
-      "url": "https://github.com/magit/magit",
-      "description": "It's Magit! A Git Porcelain inside Emacs.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 7181,
-      "forks": 871,
-      "added_stars": "35 stars this month"
+      "added_stars": "17 stars this month"
     },
     {
       "title": "melpa / melpa",
@@ -100,29 +90,19 @@
       "description": "Recipes and build machinery for the biggest Emacs package repo",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2962,
+      "stars": 2964,
       "forks": 2788,
-      "added_stars": "11 stars this month"
+      "added_stars": "12 stars this month"
     },
     {
-      "title": "flycheck / flycheck",
-      "url": "https://github.com/flycheck/flycheck",
-      "description": "On the fly syntax checking for GNU Emacs",
+      "title": "magit / magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2527,
-      "forks": 460,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "jrblevin / markdown-mode",
-      "url": "https://github.com/jrblevin/markdown-mode",
-      "description": "Emacs Markdown Mode",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1033,
-      "forks": 184,
-      "added_stars": "5 stars this month"
+      "stars": 7182,
+      "forks": 871,
+      "added_stars": "36 stars this month"
     },
     {
       "title": "qjcg / awesome-typst",
@@ -131,18 +111,28 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 3548,
-      "forks": 166,
-      "added_stars": "52 stars this month"
+      "forks": 165,
+      "added_stars": "51 stars this month"
     },
     {
-      "title": "seagle0128 / doom-modeline",
-      "url": "https://github.com/seagle0128/doom-modeline",
-      "description": "A fancy and fast mode-line inspired by minimalism design.",
+      "title": "flycheck / flycheck",
+      "url": "https://github.com/flycheck/flycheck",
+      "description": "On the fly syntax checking for GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1517,
-      "forks": 166,
-      "added_stars": "8 stars this month"
+      "stars": 2528,
+      "forks": 460,
+      "added_stars": "11 stars this month"
+    },
+    {
+      "title": "jrblevin / markdown-mode",
+      "url": "https://github.com/jrblevin/markdown-mode",
+      "description": "Emacs Markdown Mode",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1034,
+      "forks": 184,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "dimitri / el-get",
@@ -165,6 +155,16 @@
       "added_stars": "5 stars this month"
     },
     {
+      "title": "seagle0128 / doom-modeline",
+      "url": "https://github.com/seagle0128/doom-modeline",
+      "description": "A fancy and fast mode-line inspired by minimalism design.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1517,
+      "forks": 166,
+      "added_stars": "8 stars this month"
+    },
+    {
       "title": "tumashu / posframe",
       "url": "https://github.com/tumashu/posframe",
       "description": "Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!",
@@ -175,24 +175,14 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "magit / transient",
-      "url": "https://github.com/magit/transient",
-      "description": "Transient commands",
+      "title": "manzaltu / claude-code-ide.el",
+      "url": "https://github.com/manzaltu/claude-code-ide.el",
+      "description": "Claude Code IDE integration for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 882,
-      "forks": 73,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "rainstormstudio / nerd-icons.el",
-      "url": "https://github.com/rainstormstudio/nerd-icons.el",
-      "description": "",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 322,
-      "forks": 48,
-      "added_stars": "3 stars this month"
+      "stars": 1634,
+      "forks": 110,
+      "added_stars": "31 stars this month"
     }
   ]
 }

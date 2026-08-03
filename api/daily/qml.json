@@ -2,47 +2,17 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
-      "title": "end-4 / dots-hyprland",
-      "url": "https://github.com/end-4/dots-hyprland",
-      "description": "Usability-first dotfiles",
+      "title": "Darkkal44 / qylock",
+      "url": "https://github.com/Darkkal44/qylock",
+      "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 15397,
-      "forks": 1284,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "caelestia-dots / shell",
-      "url": "https://github.com/caelestia-dots/shell",
-      "description": "A fluid, morphing shell for your Linux desktop",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 10884,
-      "forks": 769,
+      "stars": 2395,
+      "forks": 95,
       "added_stars": "8 stars today"
-    },
-    {
-      "title": "Keyitdev / sddm-astronaut-theme",
-      "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
-      "description": "Series of modern looking themes for SDDM.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 3112,
-      "forks": 201,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "ilyamiro / imperative-dots",
-      "url": "https://github.com/ilyamiro/imperative-dots",
-      "description": "A collection of my dots for those who are not using NixOS with an install script.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 168,
-      "forks": 44,
-      "added_stars": "2 stars today"
     },
     {
       "title": "AvengeMedia / DankMaterialShell",
@@ -50,19 +20,29 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 7465,
+      "stars": 7478,
       "forks": 463,
-      "added_stars": "12 stars today"
+      "added_stars": "10 stars today"
     },
     {
-      "title": "Darkkal44 / qylock",
-      "url": "https://github.com/Darkkal44/qylock",
-      "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
+      "title": "end-4 / dots-hyprland",
+      "url": "https://github.com/end-4/dots-hyprland",
+      "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 2391,
-      "forks": 94,
-      "added_stars": "11 stars today"
+      "stars": 15408,
+      "forks": 1287,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "caelestia-dots / shell",
+      "url": "https://github.com/caelestia-dots/shell",
+      "description": "A fluid, morphing shell for your Linux desktop",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 10899,
+      "forks": 770,
+      "added_stars": "20 stars today"
     },
     {
       "title": "Swordfish90 / cool-retro-term",
@@ -70,9 +50,39 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 25853,
+      "stars": 25854,
       "forks": 996,
-      "added_stars": "8 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ilyamiro / imperative-dots",
+      "url": "https://github.com/ilyamiro/imperative-dots",
+      "description": "A collection of my dots for those who are not using NixOS with an install script.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 172,
+      "forks": 44,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "Keyitdev / sddm-astronaut-theme",
+      "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
+      "description": "Series of modern looking themes for SDDM.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 3115,
+      "forks": 201,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Axenide / Ambxst",
+      "url": "https://github.com/Axenide/Ambxst",
+      "description": "An Axtremely customizable shell.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 1705,
+      "forks": 110,
+      "added_stars": "4 stars today"
     },
     {
       "title": "snowarch / iNiR",
@@ -80,9 +90,29 @@
       "description": "A Niri shell illogical-impulse based - with some modifications..",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 1348,
-      "forks": 76,
-      "added_stars": "4 stars today"
+      "stars": 1356,
+      "forks": 77,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "liixini / skwd-wall",
+      "url": "https://github.com/liixini/skwd-wall",
+      "description": "An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 568,
+      "forks": 20,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "Shanu-Kumawat / quickshell-overview",
+      "url": "https://github.com/Shanu-Kumawat/quickshell-overview",
+      "description": "A standalone workspace overview module for Hyprland using Quickshell.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 457,
+      "forks": 28,
+      "added_stars": "0 stars today"
     },
     {
       "title": "mylinuxforwork / dotfiles",
@@ -91,8 +121,18 @@
       "language": "QML",
       "languageColor": "#44a51c",
       "stars": 4935,
-      "forks": 365,
-      "added_stars": "2 stars today"
+      "forks": 366,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "catsout / wallpaper-engine-kde-plugin",
+      "url": "https://github.com/catsout/wallpaper-engine-kde-plugin",
+      "description": "A kde wallpaper plugin integrating wallpaper engine",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 2729,
+      "forks": 120,
+      "added_stars": "0 stars today"
     }
   ]
 }

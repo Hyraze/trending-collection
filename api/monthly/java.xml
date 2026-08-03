@@ -4,16 +4,16 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:27:08 GMT</pubDate>
-  <item>
-    <title>Anuken / Mindustry</title>
-    <link>https://github.com/Anuken/Mindustry</link>
-    <description>The automation tower defense RTS</description>
-  </item>
+  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
   <item>
     <title>iflytek / skillhub</title>
     <link>https://github.com/iflytek/skillhub</link>
     <description>Self-hosted, open-source agent skill registry for enterprises. Publish &amp; version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.</description>
+  </item>
+  <item>
+    <title>Anuken / Mindustry</title>
+    <link>https://github.com/Anuken/Mindustry</link>
+    <description>The automation tower defense RTS</description>
   </item>
   <item>
     <title>jenkinsci / jenkins</title>
@@ -31,24 +31,14 @@
     <description>Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications</description>
   </item>
   <item>
-    <title>elastic / elasticsearch</title>
-    <link>https://github.com/elastic/elasticsearch</link>
-    <description>Free and Open Source, Distributed, RESTful Search Engine</description>
-  </item>
-  <item>
-    <title>apache / maven</title>
-    <link>https://github.com/apache/maven</link>
-    <description>Apache Maven core</description>
+    <title>OtterMind / Chat2DB</title>
+    <link>https://github.com/OtterMind/Chat2DB</link>
+    <description>🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</description>
   </item>
   <item>
     <title>modelcontextprotocol / java-sdk</title>
     <link>https://github.com/modelcontextprotocol/java-sdk</link>
     <description>The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI</description>
-  </item>
-  <item>
-    <title>OtterMind / Chat2DB</title>
-    <link>https://github.com/OtterMind/Chat2DB</link>
-    <description>🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</description>
   </item>
   <item>
     <title>skylot / jadx</title>
@@ -61,14 +51,14 @@
     <description>Multi-platform SDK for integrating GitHub Copilot Agent into apps and services</description>
   </item>
   <item>
-    <title>LawnchairLauncher / lawnchair</title>
-    <link>https://github.com/LawnchairLauncher/lawnchair</link>
-    <description>No clever tagline needed.</description>
-  </item>
-  <item>
     <title>spring-projects / spring-boot</title>
     <link>https://github.com/spring-projects/spring-boot</link>
     <description>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</description>
+  </item>
+  <item>
+    <title>LawnchairLauncher / lawnchair</title>
+    <link>https://github.com/LawnchairLauncher/lawnchair</link>
+    <description>No clever tagline needed.</description>
   </item>
   <item>
     <title>RikkaApps / Shizuku-API</title>
@@ -76,24 +66,19 @@
     <description>The API and the developer guide for Shizuku and Sui.</description>
   </item>
   <item>
-    <title>iluwatar / java-design-patterns</title>
-    <link>https://github.com/iluwatar/java-design-patterns</link>
-    <description>Design patterns implemented in Java</description>
-  </item>
-  <item>
     <title>termux / termux-app</title>
     <link>https://github.com/termux/termux-app</link>
     <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
   </item>
   <item>
-    <title>kunal-kushwaha / DSA-Bootcamp-Java</title>
-    <link>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java</link>
-    <description>This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms + interview preparation bootcamp of WeMakeDevs.</description>
-  </item>
-  <item>
     <title>NationalSecurityAgency / ghidra</title>
     <link>https://github.com/NationalSecurityAgency/ghidra</link>
     <description>Ghidra is a software reverse engineering (SRE) framework</description>
+  </item>
+  <item>
+    <title>kunal-kushwaha / DSA-Bootcamp-Java</title>
+    <link>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java</link>
+    <description>This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms + interview preparation bootcamp of WeMakeDevs.</description>
   </item>
   <item>
     <title>cryptomator / cryptomator</title>
@@ -111,14 +96,14 @@
     <description>Apache Fineract</description>
   </item>
   <item>
-    <title>microg / GmsCore</title>
-    <link>https://github.com/microg/GmsCore</link>
-    <description>Free implementation of Play Services</description>
+    <title>iluwatar / java-design-patterns</title>
+    <link>https://github.com/iluwatar/java-design-patterns</link>
+    <description>Design patterns implemented in Java</description>
   </item>
   <item>
-    <title>apache / cassandra</title>
-    <link>https://github.com/apache/cassandra</link>
-    <description>Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.</description>
+    <title>elastic / elasticsearch</title>
+    <link>https://github.com/elastic/elasticsearch</link>
+    <description>Free and Open Source, Distributed, RESTful Search Engine</description>
   </item>
   <item>
     <title>krahets / hello-algo</title>
@@ -126,9 +111,19 @@
     <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现</description>
   </item>
   <item>
-    <title>itwanger / toBeBetterJavaer</title>
-    <link>https://github.com/itwanger/toBeBetterJavaer</link>
-    <description>一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄</description>
+    <title>opensearch-project / OpenSearch</title>
+    <link>https://github.com/opensearch-project/OpenSearch</link>
+    <description>🔎 Open source distributed and RESTful search engine.</description>
+  </item>
+  <item>
+    <title>apache / cassandra</title>
+    <link>https://github.com/apache/cassandra</link>
+    <description>Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.</description>
+  </item>
+  <item>
+    <title>supertokens / supertokens-core</title>
+    <link>https://github.com/supertokens/supertokens-core</link>
+    <description>Open source alternative to Auth0 / Firebase Auth / AWS Cognito</description>
   </item>
 </channel>
 </rss>

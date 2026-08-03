@@ -2,17 +2,37 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
+    {
+      "title": "hi-godot / godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 1393,
+      "forks": 93,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "bitbrain / pandora",
+      "url": "https://github.com/bitbrain/pandora",
+      "description": "Godot 4 addon for RPG data management such items, inventories, spells, mobs, quests and NPCs.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 1095,
+      "forks": 41,
+      "added_stars": "1 star today"
+    },
     {
       "title": "godotengine / godot-demo-projects",
       "url": "https://github.com/godotengine/godot-demo-projects",
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 9270,
+      "stars": 9279,
       "forks": 2201,
-      "added_stars": "4 stars today"
+      "added_stars": "7 stars today"
     },
     {
       "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
@@ -20,8 +40,8 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2920,
-      "forks": 292,
+      "stars": 2929,
+      "forks": 291,
       "added_stars": "8 stars today"
     },
     {
@@ -32,47 +52,27 @@
       "languageColor": "#355570",
       "stars": 332,
       "forks": 121,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Orama-Interactive / Pixelorama",
-      "url": "https://github.com/Orama-Interactive/Pixelorama",
-      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 10036,
-      "forks": 531,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "Maaack / Godot-Game-Template",
-      "url": "https://github.com/Maaack/Godot-Game-Template",
-      "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 1567,
-      "forks": 102,
       "added_stars": "0 stars today"
     },
     {
-      "title": "bitwes / Gut",
-      "url": "https://github.com/bitwes/Gut",
-      "description": "Godot Unit Test. Unit testing tool for Godot Game Engine.",
+      "title": "GDQuest / learn-gdscript",
+      "url": "https://github.com/GDQuest/learn-gdscript",
+      "description": "Learn Godot's GDScript programming language from zero, right in your browser, for free.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2666,
-      "forks": 146,
-      "added_stars": "1 star today"
+      "stars": 2749,
+      "forks": 234,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "RodZill4 / material-maker",
-      "url": "https://github.com/RodZill4/material-maker",
-      "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
+      "title": "youichi-uda / godot-mcp-pro",
+      "url": "https://github.com/youichi-uda/godot-mcp-pro",
+      "description": "162 MCP tools for AI-powered Godot 4 development. Scene, animation, 3D, physics, particles, audio, shader, input simulation, runtime analysis, navigation, testing & more. $15 one-time.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 5785,
-      "forks": 362,
-      "added_stars": "3 stars today"
+      "stars": 542,
+      "forks": 72,
+      "added_stars": "2 stars today"
     },
     {
       "title": "bitbrain / beehave",
@@ -80,9 +80,19 @@
       "description": "🐝 behavior tree AI for Godot Engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 3207,
+      "stars": 3208,
       "forks": 165,
-      "added_stars": "2 stars today"
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "MudkipWorld / PNGTuber-Remix",
+      "url": "https://github.com/MudkipWorld/PNGTuber-Remix",
+      "description": "An Open-source PNGTubing app :D",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 353,
+      "forks": 50,
+      "added_stars": "1 star today"
     },
     {
       "title": "TheDuckCow / godot-road-generator",
@@ -90,29 +100,9 @@
       "description": "A Godot plugin for creating 3D highways/streets and lane-following traffic",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 1150,
+      "stars": 1153,
       "forks": 65,
       "added_stars": "2 stars today"
-    },
-    {
-      "title": "Bonkahe / SunshineClouds2",
-      "url": "https://github.com/Bonkahe/SunshineClouds2",
-      "description": "A procedural cloud system for Godot 4.4+",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 571,
-      "forks": 21,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hi-godot / godot-ai",
-      "url": "https://github.com/hi-godot/godot-ai",
-      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 1378,
-      "forks": 93,
-      "added_stars": "20 stars today"
     },
     {
       "title": "dialogic-godot / dialogic",
@@ -122,7 +112,7 @@
       "languageColor": "#355570",
       "stars": 5870,
       "forks": 340,
-      "added_stars": "3 stars today"
+      "added_stars": "2 stars today"
     }
   ]
 }

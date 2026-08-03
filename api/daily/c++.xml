@@ -4,16 +4,26 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:22:49 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <item>
+    <title>justcallmekoko / ESP32Marauder</title>
+    <link>https://github.com/justcallmekoko/ESP32Marauder</link>
+    <description>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</description>
+  </item>
+  <item>
+    <title>MaaAssistantArknights / MaaAssistantArknights</title>
+    <link>https://github.com/MaaAssistantArknights/MaaAssistantArknights</link>
+    <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
+  </item>
+  <item>
+    <title>ggml-org / whisper.cpp</title>
+    <link>https://github.com/ggml-org/whisper.cpp</link>
+    <description>Port of OpenAI&#x27;s Whisper model in C/C++</description>
+  </item>
   <item>
     <title>geo-tp / ESP32-Bit-Pirate</title>
     <link>https://github.com/geo-tp/ESP32-Bit-Pirate</link>
     <description>A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol</description>
-  </item>
-  <item>
-    <title>microsoft / microsoft-ui-xaml</title>
-    <link>https://github.com/microsoft/microsoft-ui-xaml</link>
-    <description>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</description>
   </item>
   <item>
     <title>ggml-org / llama.cpp</title>
@@ -21,9 +31,14 @@
     <description>LLM inference in C/C++</description>
   </item>
   <item>
-    <title>deepseek-ai / FlashMLA</title>
-    <link>https://github.com/deepseek-ai/FlashMLA</link>
-    <description>FlashMLA: Efficient Multi-head Latent Attention Kernels</description>
+    <title>sz3 / libcimbar</title>
+    <link>https://github.com/sz3/libcimbar</link>
+    <description>Optimized implementation for color-icon-matrix barcodes</description>
+  </item>
+  <item>
+    <title>grpc / grpc</title>
+    <link>https://github.com/grpc/grpc</link>
+    <description>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</description>
   </item>
   <item>
     <title>godotengine / godot</title>
@@ -31,89 +46,59 @@
     <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
   </item>
   <item>
-    <title>v8 / v8</title>
-    <link>https://github.com/v8/v8</link>
-    <description>The official mirror of the V8 Git repository</description>
+    <title>PrismLauncher / PrismLauncher</title>
+    <link>https://github.com/PrismLauncher/PrismLauncher</link>
+    <description>A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)</description>
   </item>
   <item>
-    <title>justcallmekoko / ESP32Marauder</title>
-    <link>https://github.com/justcallmekoko/ESP32Marauder</link>
-    <description>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</description>
+    <title>chriskohlhoff / asio</title>
+    <link>https://github.com/chriskohlhoff/asio</link>
+    <description>Asio C++ Library</description>
   </item>
   <item>
-    <title>microsoft / terminal</title>
-    <link>https://github.com/microsoft/terminal</link>
-    <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
+    <title>optiscaler / OptiScaler</title>
+    <link>https://github.com/optiscaler/OptiScaler</link>
+    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
   </item>
   <item>
-    <title>wazuh / wazuh</title>
-    <link>https://github.com/wazuh/wazuh</link>
-    <description>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</description>
+    <title>qbittorrent / qBittorrent</title>
+    <link>https://github.com/qbittorrent/qBittorrent</link>
+    <description>qBittorrent BitTorrent client</description>
   </item>
   <item>
-    <title>NVIDIA / cutlass</title>
-    <link>https://github.com/NVIDIA/cutlass</link>
-    <description>CUDA Templates and Python DSLs for High-Performance Linear Algebra</description>
+    <title>rizinorg / cutter</title>
+    <link>https://github.com/rizinorg/cutter</link>
+    <description>Free and Open Source Reverse Engineering Platform powered by rizin</description>
   </item>
   <item>
-    <title>duckdb / duckdb</title>
-    <link>https://github.com/duckdb/duckdb</link>
-    <description>DuckDB is an analytical in-process SQL database management system</description>
+    <title>jrouwe / JoltPhysics</title>
+    <link>https://github.com/jrouwe/JoltPhysics</link>
+    <description>A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.</description>
   </item>
   <item>
-    <title>dmlc / xgboost</title>
-    <link>https://github.com/dmlc/xgboost</link>
-    <description>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow</description>
+    <title>nasa / fprime</title>
+    <link>https://github.com/nasa/fprime</link>
+    <description>F´ - A flight software and embedded systems framework</description>
   </item>
   <item>
-    <title>MaaXYZ / MaaFramework</title>
-    <link>https://github.com/MaaXYZ/MaaFramework</link>
-    <description>基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition</description>
+    <title>lightvector / KataGo</title>
+    <link>https://github.com/lightvector/KataGo</link>
+    <description>GTP engine and self-play learning in Go</description>
   </item>
   <item>
-    <title>qpdf / qpdf</title>
-    <link>https://github.com/qpdf/qpdf</link>
-    <description>qpdf: A content-preserving PDF document transformer</description>
+    <title>barry-ran / QtScrcpy</title>
+    <link>https://github.com/barry-ran/QtScrcpy</link>
+    <description>Android real-time display control software</description>
   </item>
   <item>
-    <title>handy-computer / transcribe.cpp</title>
-    <link>https://github.com/handy-computer/transcribe.cpp</link>
-    <description>ggml speech-to-text inference for 16+ model families</description>
+    <title>ArduPilot / ardupilot</title>
+    <link>https://github.com/ArduPilot/ardupilot</link>
+    <description>ArduPlane, ArduCopter, ArduRover, ArduSub source</description>
   </item>
   <item>
-    <title>google / libphonenumber</title>
-    <link>https://github.com/google/libphonenumber</link>
-    <description>Google&#x27;s common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.</description>
-  </item>
-  <item>
-    <title>twelvesec / PwnPad</title>
-    <link>https://github.com/twelvesec/PwnPad</link>
-    <description>PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It features a range of challenges that walk users through key hardware security concepts, from PCB design to side-channel attacks.</description>
-  </item>
-  <item>
-    <title>ton-blockchain / ton</title>
-    <link>https://github.com/ton-blockchain/ton</link>
-    <description>Main TON monorepo</description>
-  </item>
-  <item>
-    <title>CLIUtils / CLI11</title>
-    <link>https://github.com/CLIUtils/CLI11</link>
-    <description>CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.</description>
-  </item>
-  <item>
-    <title>ArthurSonzogni / FTXUI</title>
-    <link>https://github.com/ArthurSonzogni/FTXUI</link>
-    <description>💻 C++ Functional Terminal User Interface. ❤️</description>
-  </item>
-  <item>
-    <title>google / re2</title>
-    <link>https://github.com/google/re2</link>
-    <description>RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.</description>
-  </item>
-  <item>
-    <title>hluk / CopyQ</title>
-    <link>https://github.com/hluk/CopyQ</link>
-    <description>Clipboard manager with advanced features</description>
+    <title>bitcoin / bitcoin</title>
+    <link>https://github.com/bitcoin/bitcoin</link>
+    <description>Bitcoin Core integration/staging tree</description>
   </item>
 </channel>
 </rss>

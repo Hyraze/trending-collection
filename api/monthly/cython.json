@@ -2,7 +2,7 @@
   "title": "GitHub Cython Languages Daily Trending",
   "description": "Daily Trending of Cython Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "cython / cython",
@@ -10,7 +10,7 @@
       "description": "The most widely used Python to C compiler",
       "language": "Cython",
       "languageColor": "#fedf5b",
-      "stars": 10802,
+      "stars": 10805,
       "forks": 1617,
       "added_stars": "38 stars this month"
     },
@@ -20,9 +20,9 @@
       "description": "Python wrapper for TA-Lib (http://ta-lib.org/).",
       "language": "Cython",
       "languageColor": "#fedf5b",
-      "stars": 12162,
+      "stars": 12165,
       "forks": 1993,
-      "added_stars": "97 stars this month"
+      "added_stars": "99 stars this month"
     },
     {
       "title": "NVIDIA / cuda-python",
@@ -30,9 +30,9 @@
       "description": "CUDA Python: Performance meets Productivity",
       "language": "Cython",
       "languageColor": "#fedf5b",
-      "stars": 3329,
-      "forks": 315,
-      "added_stars": "31 stars this month"
+      "stars": 3331,
+      "forks": 316,
+      "added_stars": "33 stars this month"
     },
     {
       "title": "MagicStack / uvloop",
@@ -40,9 +40,9 @@
       "description": "Ultra fast asyncio event loop.",
       "language": "Cython",
       "languageColor": "#fedf5b",
-      "stars": 11874,
+      "stars": 11873,
       "forks": 613,
-      "added_stars": "40 stars this month"
+      "added_stars": "38 stars this month"
     }
   ]
 }

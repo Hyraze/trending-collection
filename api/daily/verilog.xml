@@ -4,11 +4,11 @@
   <title>GitHub Verilog Languages Daily Trending</title>
   <description>Daily Trending of Verilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:22:49 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
   <item>
-    <title>analogdevicesinc / hdl</title>
-    <link>https://github.com/analogdevicesinc/hdl</link>
-    <description>HDL libraries and projects</description>
+    <title>The-OpenROAD-Project / OpenROAD</title>
+    <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
+    <description>OpenROAD&#x27;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</description>
   </item>
   <item>
     <title>YosysHQ / picorv32</title>
@@ -16,24 +16,19 @@
     <description>PicoRV32 - A Size-Optimized RISC-V CPU</description>
   </item>
   <item>
-    <title>vortexgpgpu / vortex</title>
-    <link>https://github.com/vortexgpgpu/vortex</link>
+    <title>analogdevicesinc / hdl</title>
+    <link>https://github.com/analogdevicesinc/hdl</link>
+    <description>HDL libraries and projects</description>
+  </item>
+  <item>
+    <title>OSCPU / yosys-sta</title>
+    <link>https://github.com/OSCPU/yosys-sta</link>
     <description></description>
   </item>
   <item>
-    <title>The-OpenROAD-Project / OpenROAD</title>
-    <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
-    <description>OpenROAD&#x27;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</description>
-  </item>
-  <item>
-    <title>EttusResearch / uhd</title>
-    <link>https://github.com/EttusResearch/uhd</link>
-    <description>The USRP™ Hardware Driver Repository</description>
-  </item>
-  <item>
-    <title>The-OpenROAD-Project / OpenROAD-flow-scripts</title>
-    <link>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</link>
-    <description>OpenROAD&#x27;s scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/</description>
+    <title>alexforencich / verilog-ethernet</title>
+    <link>https://github.com/alexforencich/verilog-ethernet</link>
+    <description>Verilog Ethernet components for FPGA implementation</description>
   </item>
 </channel>
 </rss>

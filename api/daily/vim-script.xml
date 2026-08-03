@@ -4,46 +4,11 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:22:49 GMT</pubDate>
-  <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
-  </item>
-  <item>
-    <title>junegunn / vim-plug</title>
-    <link>https://github.com/junegunn/vim-plug</link>
-    <description>🌺 Minimalist Vim Plugin Manager</description>
-  </item>
-  <item>
-    <title>github / copilot.vim</title>
-    <link>https://github.com/github/copilot.vim</link>
-    <description>Neovim plugin for GitHub Copilot</description>
-  </item>
+  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
     <description>Vim-fork focused on extensibility and usability</description>
-  </item>
-  <item>
-    <title>pangloss / vim-javascript</title>
-    <link>https://github.com/pangloss/vim-javascript</link>
-    <description>Vastly improved Javascript indentation and syntax support in Vim.</description>
-  </item>
-  <item>
-    <title>chrisbra / csv.vim</title>
-    <link>https://github.com/chrisbra/csv.vim</link>
-    <description>A Filetype plugin for csv files</description>
-  </item>
-  <item>
-    <title>vim-test / vim-test</title>
-    <link>https://github.com/vim-test/vim-test</link>
-    <description>Run your tests at the speed of thought</description>
-  </item>
-  <item>
-    <title>morhetz / gruvbox</title>
-    <link>https://github.com/morhetz/gruvbox</link>
-    <description>Retro groove color scheme for Vim</description>
   </item>
   <item>
     <title>vim / vim</title>
@@ -51,9 +16,9 @@
     <description>The official Vim repository</description>
   </item>
   <item>
-    <title>sainnhe / everforest</title>
-    <link>https://github.com/sainnhe/everforest</link>
-    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
+    <title>andymass / vim-matchup</title>
+    <link>https://github.com/andymass/vim-matchup</link>
+    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
   </item>
   <item>
     <title>tpope / vim-sensible</title>
@@ -61,34 +26,69 @@
     <description>sensible.vim: Defaults everyone can agree on</description>
   </item>
   <item>
-    <title>mattn / vim-lsp-settings</title>
-    <link>https://github.com/mattn/vim-lsp-settings</link>
-    <description>Auto configurations for Language Server for vim-lsp</description>
+    <title>chrisbra / csv.vim</title>
+    <link>https://github.com/chrisbra/csv.vim</link>
+    <description>A Filetype plugin for csv files</description>
   </item>
   <item>
-    <title>easymotion / vim-easymotion</title>
-    <link>https://github.com/easymotion/vim-easymotion</link>
-    <description>Vim motions on speed!</description>
+    <title>lambdalisue / vim-suda</title>
+    <link>https://github.com/lambdalisue/vim-suda</link>
+    <description>🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows</description>
   </item>
   <item>
-    <title>tpope / vim-abolish</title>
-    <link>https://github.com/tpope/vim-abolish</link>
-    <description>abolish.vim: Work with several variants of a word at once</description>
+    <title>sainnhe / everforest</title>
+    <link>https://github.com/sainnhe/everforest</link>
+    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
-    <title>dense-analysis / ale</title>
-    <link>https://github.com/dense-analysis/ale</link>
-    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
+    <title>tpope / vim-sleuth</title>
+    <link>https://github.com/tpope/vim-sleuth</link>
+    <description>sleuth.vim: Heuristically set buffer options</description>
   </item>
   <item>
-    <title>tpope / vim-unimpaired</title>
-    <link>https://github.com/tpope/vim-unimpaired</link>
-    <description>unimpaired.vim: Pairs of handy bracket mappings</description>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
-    <title>hashivim / vim-terraform</title>
-    <link>https://github.com/hashivim/vim-terraform</link>
-    <description>basic vim/terraform integration</description>
+    <title>altercation / vim-colors-solarized</title>
+    <link>https://github.com/altercation/vim-colors-solarized</link>
+    <description>precision colorscheme for the vim text editor</description>
+  </item>
+  <item>
+    <title>zenbones-theme / zenbones.nvim</title>
+    <link>https://github.com/zenbones-theme/zenbones.nvim</link>
+    <description>🪨 A collection of contrast-based Vim/Neovim colorschemes</description>
+  </item>
+  <item>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
+  </item>
+  <item>
+    <title>dhruvasagar / vim-table-mode</title>
+    <link>https://github.com/dhruvasagar/vim-table-mode</link>
+    <description>VIM Table Mode for instant table creation.</description>
+  </item>
+  <item>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
+  </item>
+  <item>
+    <title>vim-syntastic / syntastic</title>
+    <link>https://github.com/vim-syntastic/syntastic</link>
+    <description>Syntax checking hacks for vim</description>
+  </item>
+  <item>
+    <title>vim-test / vim-test</title>
+    <link>https://github.com/vim-test/vim-test</link>
+    <description>Run your tests at the speed of thought</description>
+  </item>
+  <item>
+    <title>tpope / vim-rhubarb</title>
+    <link>https://github.com/tpope/vim-rhubarb</link>
+    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
   </item>
 </channel>
 </rss>

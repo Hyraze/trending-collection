@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "verilator / verilator",
@@ -10,7 +10,7 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3800,
+      "stars": 3804,
       "forks": 864,
       "added_stars": "94 stars this month"
     },
@@ -20,9 +20,9 @@
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3574,
+      "stars": 3577,
       "forks": 1075,
-      "added_stars": "73 stars this month"
+      "added_stars": "74 stars this month"
     },
     {
       "title": "lowRISC / ibex",
@@ -30,9 +30,9 @@
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 1997,
-      "forks": 780,
-      "added_stars": "64 stars this month"
+      "stars": 1999,
+      "forks": 781,
+      "added_stars": "61 stars this month"
     },
     {
       "title": "openhwgroup / cvw",
@@ -40,9 +40,9 @@
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 591,
-      "forks": 549,
-      "added_stars": "35 stars this month"
+      "stars": 592,
+      "forks": 550,
+      "added_stars": "36 stars this month"
     },
     {
       "title": "adam-maj / tiny-gpu",
@@ -50,9 +50,19 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12796,
+      "stars": 12795,
       "forks": 1228,
-      "added_stars": "151 stars this month"
+      "added_stars": "148 stars this month"
+    },
+    {
+      "title": "chipsalliance / caliptra-rtl",
+      "url": "https://github.com/chipsalliance/caliptra-rtl",
+      "description": "HW Design Collateral for Caliptra RoT IP",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 148,
+      "forks": 101,
+      "added_stars": "4 stars this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "gradle / gradle",
@@ -10,9 +10,9 @@
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 18746,
+      "stars": 18750,
       "forks": 5294,
-      "added_stars": "36 stars this week"
+      "added_stars": "37 stars this week"
     },
     {
       "title": "nextflow-io / nextflow",
@@ -20,19 +20,9 @@
       "description": "A DSL for data-driven computational pipelines",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 3454,
+      "stars": 3453,
       "forks": 800,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "gravitee-io / issues",
-      "url": "https://github.com/gravitee-io/issues",
-      "description": "Gravitee.io - API Platform - Issues",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 68,
-      "forks": 28,
-      "added_stars": "0 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "rundeck / rundeck",
@@ -52,6 +42,26 @@
       "languageColor": "#4298b8",
       "stars": 2924,
       "forks": 972,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "gravitee-io / issues",
+      "url": "https://github.com/gravitee-io/issues",
+      "description": "Gravitee.io - API Platform - Issues",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 68,
+      "forks": 28,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "okta / okta-jwt-verifier-java",
+      "url": "https://github.com/okta/okta-jwt-verifier-java",
+      "description": "okta-jwt-verifier-java",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 96,
+      "forks": 39,
       "added_stars": "0 stars this week"
     }
   ]

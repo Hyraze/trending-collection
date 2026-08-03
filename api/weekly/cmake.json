@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27321,
+      "stars": 27324,
       "forks": 7657,
-      "added_stars": "31 stars this week"
+      "added_stars": "27 stars this week"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -20,8 +20,8 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1672,
-      "forks": 225,
+      "stars": 1675,
+      "forks": 227,
       "added_stars": "16 stars this week"
     },
     {
@@ -35,24 +35,14 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "steinbergmedia / vst3sdk",
-      "url": "https://github.com/steinbergmedia/vst3sdk",
-      "description": "VST 3 Plug-In SDK",
+      "title": "flathub / shared-modules",
+      "url": "https://github.com/flathub/shared-modules",
+      "description": "Common Flatpak modules that can be used as a git submodule",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 2307,
-      "forks": 223,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "minecraft-linux / mcpelauncher-manifest",
-      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
-      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1602,
-      "forks": 127,
-      "added_stars": "7 stars this week"
+      "stars": 170,
+      "forks": 106,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "KiCad / kicad-footprints",
@@ -65,14 +55,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "flathub / shared-modules",
-      "url": "https://github.com/flathub/shared-modules",
-      "description": "Common Flatpak modules that can be used as a git submodule",
+      "title": "minecraft-linux / mcpelauncher-manifest",
+      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 170,
-      "forks": 106,
-      "added_stars": "0 stars this week"
+      "stars": 1602,
+      "forks": 127,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "corrosion-rs / corrosion",
@@ -82,7 +72,7 @@
       "languageColor": "#DA3434",
       "stars": 1474,
       "forks": 149,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "arsenm / sanitizers-cmake",
@@ -92,6 +82,26 @@
       "languageColor": "#DA3434",
       "stars": 411,
       "forks": 74,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "steinbergmedia / vst3sdk",
+      "url": "https://github.com/steinbergmedia/vst3sdk",
+      "description": "VST 3 Plug-In SDK",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 2309,
+      "forks": 223,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "Andersama / obs-asio",
+      "url": "https://github.com/Andersama/obs-asio",
+      "description": "ASIO plugin for OBS-Studio",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 833,
+      "forks": 53,
       "added_stars": "0 stars this week"
     },
     {
@@ -115,23 +125,23 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Andersama / obs-asio",
-      "url": "https://github.com/Andersama/obs-asio",
-      "description": "ASIO plugin for OBS-Studio",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 833,
-      "forks": 53,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "vector-of-bool / cmrc",
       "url": "https://github.com/vector-of-bool/cmrc",
       "description": "A Resource Compiler in a Single CMake Script",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 776,
+      "stars": 777,
       "forks": 82,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "autowarefoundation / autoware_msgs",
+      "url": "https://github.com/autowarefoundation/autoware_msgs",
+      "description": "",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 44,
+      "forks": 72,
       "added_stars": "0 stars this week"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "gpuweb / gpuweb",
@@ -12,7 +12,27 @@
       "languageColor": "#5562ac",
       "stars": 5445,
       "forks": 376,
-      "added_stars": "30 stars this month"
+      "added_stars": "29 stars this month"
+    },
+    {
+      "title": "WICG / first-party-sets",
+      "url": "https://github.com/WICG/first-party-sets",
+      "description": "",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 398,
+      "forks": 166,
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "webmachinelearning / webmcp",
+      "url": "https://github.com/webmachinelearning/webmcp",
+      "description": "🤖 WebMCP",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 2920,
+      "forks": 187,
+      "added_stars": "197 stars this month"
     },
     {
       "title": "patcg-individual-drafts / topics",
@@ -21,18 +41,8 @@
       "language": "Bikeshed",
       "languageColor": "#5562ac",
       "stars": 872,
-      "forks": 887,
+      "forks": 888,
       "added_stars": "13 stars this month"
-    },
-    {
-      "title": "webmachinelearning / webmcp",
-      "url": "https://github.com/webmachinelearning/webmcp",
-      "description": "🤖 WebMCP",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 2915,
-      "forks": 187,
-      "added_stars": "193 stars this month"
     },
     {
       "title": "w3c / webappsec-permissions-policy",
@@ -50,7 +60,7 @@
       "description": "CSS Working Group Editor Drafts",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4854,
+      "stars": 4855,
       "forks": 803,
       "added_stars": "12 stars this month"
     },
@@ -61,18 +71,8 @@
       "language": "Bikeshed",
       "languageColor": "#5562ac",
       "stars": 3146,
-      "forks": 425,
+      "forks": 424,
       "added_stars": "5 stars this month"
-    },
-    {
-      "title": "WICG / first-party-sets",
-      "url": "https://github.com/WICG/first-party-sets",
-      "description": "",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 398,
-      "forks": 166,
-      "added_stars": "6 stars this month"
     },
     {
       "title": "w3c / webextensions",
@@ -82,17 +82,7 @@
       "languageColor": "#5562ac",
       "stars": 705,
       "forks": 90,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "patcg-individual-drafts / private-aggregation-api",
-      "url": "https://github.com/patcg-individual-drafts/private-aggregation-api",
-      "description": "Explainer for proposed web platform API",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 62,
-      "forks": 36,
-      "added_stars": "1 star this month"
+      "added_stars": "3 stars this month"
     }
   ]
 }

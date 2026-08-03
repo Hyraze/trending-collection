@@ -2,8 +2,18 @@
   "title": "GitHub Asl Languages Daily Trending",
   "description": "Daily Trending of Asl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
+    {
+      "title": "acpica / acpica",
+      "url": "https://github.com/acpica/acpica",
+      "description": "The ACPI Component Architecture (ACPICA) project provides an open-source operating system-independent implementation of the Advanced Configuration and Power Interface specification (ACPI). For detailed project information and downloads, go to https://www.acpica.org. For ACPICA contributor and source code licensing information, go to",
+      "language": "ASL",
+      "languageColor": "#ccc",
+      "stars": 629,
+      "forks": 425,
+      "added_stars": "3 stars this week"
+    },
     {
       "title": "dortania / Getting-Started-With-ACPI",
       "url": "https://github.com/dortania/Getting-Started-With-ACPI",
@@ -13,16 +23,6 @@
       "stars": 666,
       "forks": 485,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "acpica / acpica",
-      "url": "https://github.com/acpica/acpica",
-      "description": "The ACPI Component Architecture (ACPICA) project provides an open-source operating system-independent implementation of the Advanced Configuration and Power Interface specification (ACPI). For detailed project information and downloads, go to https://www.acpica.org. For ACPICA contributor and source code licensing information, go to",
-      "language": "ASL",
-      "languageColor": "#ccc",
-      "stars": 629,
-      "forks": 425,
-      "added_stars": "4 stars this week"
     }
   ]
 }

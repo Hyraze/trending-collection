@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
       "title": "cloudflare / cloudflare-docs",
@@ -10,29 +10,29 @@
       "description": "Cloudflare’s documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 5028,
-      "forks": 16174,
-      "added_stars": "4 stars today"
+      "stars": 5032,
+      "forks": 16185,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "twbs / bootstrap",
-      "url": "https://github.com/twbs/bootstrap",
-      "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+      "title": "DevCaress / guia-entrevistas-de-programacion",
+      "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
+      "description": "",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 174549,
-      "forks": 78696,
-      "added_stars": "7 stars today"
+      "stars": 7784,
+      "forks": 1070,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "npm / documentation",
-      "url": "https://github.com/npm/documentation",
-      "description": "Documentation for the npm registry, website, and command-line interface.",
+      "title": "huggingface / course",
+      "url": "https://github.com/huggingface/course",
+      "description": "The Hugging Face course on Transformers",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 693,
-      "forks": 4111,
-      "added_stars": "0 stars today"
+      "stars": 4104,
+      "forks": 1381,
+      "added_stars": "2 stars today"
     },
     {
       "title": "langfuse / langfuse-docs",
@@ -42,17 +42,17 @@
       "languageColor": "#fcb32c",
       "stars": 230,
       "forks": 274,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "huggingface / agents-course",
-      "url": "https://github.com/huggingface/agents-course",
-      "description": "This repository contains the Hugging Face Agents Course.",
+      "title": "freeCodeCamp / contribute",
+      "url": "https://github.com/freeCodeCamp/contribute",
+      "description": "Begin your contribution journey here.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 30590,
-      "forks": 2182,
-      "added_stars": "29 stars today"
+      "stars": 154,
+      "forks": 378,
+      "added_stars": "0 stars today"
     },
     {
       "title": "esphome / esphome.io",
@@ -61,118 +61,28 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 450,
-      "forks": 2347,
+      "forks": 2349,
       "added_stars": "0 stars today"
     },
     {
-      "title": "solana-foundation / solana-com",
-      "url": "https://github.com/solana-foundation/solana-com",
-      "description": "The solana.com website.",
+      "title": "huggingface / deep-rl-class",
+      "url": "https://github.com/huggingface/deep-rl-class",
+      "description": "This repo contains the Hugging Face Deep Reinforcement Learning Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 491,
-      "forks": 378,
+      "stars": 4976,
+      "forks": 808,
       "added_stars": "0 stars today"
     },
     {
-      "title": "AdguardTeam / KnowledgeBase",
-      "url": "https://github.com/AdguardTeam/KnowledgeBase",
-      "description": "AdGuard knowledge base",
+      "title": "hunvreus / basecoat",
+      "url": "https://github.com/hunvreus/basecoat",
+      "description": "A components library built with Tailwind CSS that works with any web stack.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 122,
-      "forks": 436,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "langchain-ai / docs",
-      "url": "https://github.com/langchain-ai/docs",
-      "description": "Unified LangChain documentation.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 386,
-      "forks": 2559,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "huggingface / course",
-      "url": "https://github.com/huggingface/course",
-      "description": "The Hugging Face course on Transformers",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 4102,
-      "forks": 1381,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "DevCaress / guia-entrevistas-de-programacion",
-      "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
-      "description": "",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 7783,
-      "forks": 1071,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "LibreChat-AI / librechat.ai",
-      "url": "https://github.com/LibreChat-AI/librechat.ai",
-      "description": "Official documentation, blog, and changelog for LibreChat. Built with Next.js and Fumadocs. Live at librechat.ai",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 611,
-      "forks": 443,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "enactic / openarm",
-      "url": "https://github.com/enactic/openarm",
-      "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 2789,
-      "forks": 307,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "microsoft / playwright.dev",
-      "url": "https://github.com/microsoft/playwright.dev",
-      "description": "Documentation website for Playwright",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 187,
-      "forks": 128,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "react / react-native-website",
-      "url": "https://github.com/react/react-native-website",
-      "description": "The React Native website and docs",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 2151,
-      "forks": 6254,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hashicorp / web-unified-docs",
-      "url": "https://github.com/hashicorp/web-unified-docs",
-      "description": "Hashicorp Unified Docs",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 76,
-      "forks": 250,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "withastro / docs",
-      "url": "https://github.com/withastro/docs",
-      "description": "Astro documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 1667,
-      "forks": 1867,
-      "added_stars": "2 stars today"
+      "stars": 4200,
+      "forks": 137,
+      "added_stars": "4 stars today"
     },
     {
       "title": "netbirdio / docs",
@@ -185,13 +95,103 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "smartcontractkit / documentation",
-      "url": "https://github.com/smartcontractkit/documentation",
-      "description": "https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators",
+      "title": "huggingface / agents-course",
+      "url": "https://github.com/huggingface/agents-course",
+      "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 525,
-      "forks": 471,
+      "stars": 30610,
+      "forks": 2184,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "dair-ai / Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 77212,
+      "forks": 8485,
+      "added_stars": "27 stars today"
+    },
+    {
+      "title": "microsoft / aspire.dev",
+      "url": "https://github.com/microsoft/aspire.dev",
+      "description": "The official website for all things aspire.dev.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 187,
+      "forks": 81,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "gpxstudio / gpx.studio",
+      "url": "https://github.com/gpxstudio/gpx.studio",
+      "description": "the online GPX file editor",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1142,
+      "forks": 248,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "expressjs / expressjs.com",
+      "url": "https://github.com/expressjs/expressjs.com",
+      "description": "The Express.js Website",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 5358,
+      "forks": 2227,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "react / react-native-website",
+      "url": "https://github.com/react/react-native-website",
+      "description": "The React Native website and docs",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 2151,
+      "forks": 6258,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "withastro / docs",
+      "url": "https://github.com/withastro/docs",
+      "description": "Astro documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1668,
+      "forks": 1868,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "kufu / smarthr-design-system",
+      "url": "https://github.com/kufu/smarthr-design-system",
+      "description": "",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 55,
+      "forks": 2,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "stellar / stellar-docs",
+      "url": "https://github.com/stellar/stellar-docs",
+      "description": "Documentation for Stellar",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 133,
+      "forks": 288,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "react-native-elements / react-native-elements",
+      "url": "https://github.com/react-native-elements/react-native-elements",
+      "description": "Cross-Platform React Native UI Toolkit",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 25847,
+      "forks": 4674,
       "added_stars": "0 stars today"
     }
   ]

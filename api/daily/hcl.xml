@@ -4,26 +4,16 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:22:49 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
   <item>
-    <title>terraform-aws-modules / terraform-aws-eks</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
+    <title>chainguard-images / images</title>
+    <link>https://github.com/chainguard-images/images</link>
+    <description>Public Chainguard Images</description>
   </item>
   <item>
-    <title>semgrep / semgrep-rules</title>
-    <link>https://github.com/semgrep/semgrep-rules</link>
-    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
-    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
-    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
+    <title>aws-ia / terraform-aws-mwaa</title>
+    <link>https://github.com/aws-ia/terraform-aws-mwaa</link>
+    <description>Terraform module for Amazon MWAA(Apache Airflow)</description>
   </item>
   <item>
     <title>bridgecrewio / checkov-action</title>
@@ -31,14 +21,24 @@
     <description>This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.</description>
   </item>
   <item>
-    <title>cloudposse / terraform-aws-lb-s3-bucket</title>
-    <link>https://github.com/cloudposse/terraform-aws-lb-s3-bucket</link>
-    <description>Terraform module to provision an S3 bucket with built in IAM policy to allow AWS Load Balancers to ship access logs</description>
+    <title>mysticaltech / terraform-hcloud-kube-hetzner</title>
+    <link>https://github.com/mysticaltech/terraform-hcloud-kube-hetzner</link>
+    <description>Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</description>
   </item>
   <item>
-    <title>cloudposse / terraform-aws-s3-log-storage</title>
-    <link>https://github.com/cloudposse/terraform-aws-s3-log-storage</link>
-    <description>This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail</description>
+    <title>cloudposse / terraform-aws-alb</title>
+    <link>https://github.com/cloudposse/terraform-aws-alb</link>
+    <description>Terraform module to provision a standard ALB for HTTP/HTTP traffic</description>
+  </item>
+  <item>
+    <title>cloudposse / terraform-aws-ecs-alb-service-task</title>
+    <link>https://github.com/cloudposse/terraform-aws-ecs-alb-service-task</link>
+    <description>Terraform module which implements an ECS service which exposes a web service via ALB.</description>
+  </item>
+  <item>
+    <title>GoogleCloudPlatform / terraform-google-artifact-registry</title>
+    <link>https://github.com/GoogleCloudPlatform/terraform-google-artifact-registry</link>
+    <description>Create and manage Artifact Registry repositories</description>
   </item>
   <item>
     <title>cloudposse / terraform-aws-dynamic-subnets</title>
@@ -46,29 +46,14 @@
     <description>Terraform module for public and private subnets provisioning in existing VPC</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-ecs</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-ecs</link>
-    <description>Terraform module to create AWS ECS resources 🇺🇦</description>
+    <title>hashicorp / setup-packer</title>
+    <link>https://github.com/hashicorp/setup-packer</link>
+    <description>Run HashiCorp Packer as part of your GitHub Actions Workflow</description>
   </item>
   <item>
-    <title>chainguard-images / images</title>
-    <link>https://github.com/chainguard-images/images</link>
-    <description>Public Chainguard Images</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-cloudfront-s3-cdn</title>
-    <link>https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn</link>
-    <description>Terraform module to easily provision CloudFront CDN backed by an S3 origin</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-ecs-container-definition</title>
-    <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
-    <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-alb</title>
-    <link>https://github.com/cloudposse/terraform-aws-alb</link>
-    <description>Terraform module to provision a standard ALB for HTTP/HTTP traffic</description>
+    <title>lgallard / terraform-aws-cognito-user-pool</title>
+    <link>https://github.com/lgallard/terraform-aws-cognito-user-pool</link>
+    <description>Terraform module to create Amazon Cognito User Pools, configure its attributes and resources such as app clients, domain, resource servers. Amazon Cognito User Pools provide a secure user directory that scales to hundreds of millions of users.</description>
   </item>
 </channel>
 </rss>

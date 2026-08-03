@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "satijalab / seurat",
@@ -12,7 +12,7 @@
       "languageColor": "#198CE7",
       "stars": 2782,
       "forks": 994,
-      "added_stars": "24 stars this month"
+      "added_stars": "25 stars this month"
     },
     {
       "title": "tidyverse / dplyr",
@@ -20,7 +20,7 @@
       "description": "dplyr: A grammar of data manipulation",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5050,
+      "stars": 5051,
       "forks": 2125,
       "added_stars": "18 stars this month"
     },
@@ -30,9 +30,9 @@
       "description": "An implementation of the Grammar of Graphics in R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 6980,
+      "stars": 6982,
       "forks": 2130,
-      "added_stars": "26 stars this month"
+      "added_stars": "28 stars this month"
     },
     {
       "title": "swirldev / swirl_courses",
@@ -52,7 +52,7 @@
       "languageColor": "#198CE7",
       "stars": 3905,
       "forks": 1049,
-      "added_stars": "14 stars this month"
+      "added_stars": "12 stars this month"
     },
     {
       "title": "jinworks / CellChat",
@@ -71,7 +71,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 890,
-      "forks": 143405,
+      "forks": 143402,
       "added_stars": "2 stars this month"
     },
     {
@@ -80,9 +80,19 @@
       "description": "Easy interactive web applications with R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5673,
+      "stars": 5674,
       "forks": 1889,
       "added_stars": "18 stars this month"
+    },
+    {
+      "title": "hadley / r4ds",
+      "url": "https://github.com/hadley/r4ds",
+      "description": "R for data science: a book",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5122,
+      "forks": 4434,
+      "added_stars": "50 stars this month"
     },
     {
       "title": "sqjin / CellChat",
@@ -95,23 +105,13 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "hadley / r4ds",
-      "url": "https://github.com/hadley/r4ds",
-      "description": "R for data science: a book",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5121,
-      "forks": 4434,
-      "added_stars": "51 stars this month"
-    },
-    {
       "title": "r-spatial / sf",
       "url": "https://github.com/r-spatial/sf",
       "description": "Simple Features for R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 1440,
-      "forks": 301,
+      "stars": 1441,
+      "forks": 302,
       "added_stars": "4 stars this month"
     }
   ]

@@ -2,96 +2,16 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
-      "title": "GEOS-ESM / MAPL",
-      "url": "https://github.com/GEOS-ESM/MAPL",
-      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
+      "title": "Reference-LAPACK / lapack",
+      "url": "https://github.com/Reference-LAPACK/lapack",
+      "description": "LAPACK development repository",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 43,
-      "forks": 25,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "MetOffice / lfric_core",
-      "url": "https://github.com/MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 26,
-      "forks": 67,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "GEOS-ESM / GOCART",
-      "url": "https://github.com/GEOS-ESM/GOCART",
-      "description": "GOCART Aerosol model including process library and framework interfaces (MAPL, NUOPC, and CCPP)",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 27,
-      "forks": 22,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ecmwf / fckit",
-      "url": "https://github.com/ecmwf/fckit",
-      "description": "A Fortran toolkit for interoperating Fortran with C/C++",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 48,
-      "forks": 21,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ecmwf-ifs / ectrans",
-      "url": "https://github.com/ecmwf-ifs/ectrans",
-      "description": "Efficient and scalable spectral transforms",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 26,
-      "forks": 61,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1646,
-      "forks": 390,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ufs-community / ufs-weather-model",
-      "url": "https://github.com/ufs-community/ufs-weather-model",
-      "description": "UFS Weather Model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 192,
-      "forks": 281,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "MetOffice / lfric_apps",
-      "url": "https://github.com/MetOffice/lfric_apps",
-      "description": "LFRic Applications",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 31,
-      "forks": 108,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "OpenFAST / openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 942,
-      "forks": 532,
+      "stars": 1882,
+      "forks": 511,
       "added_stars": "0 stars today"
     },
     {
@@ -105,34 +25,44 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "firemodels / fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
+      "title": "MCSclimate / MCT",
+      "url": "https://github.com/MCSclimate/MCT",
+      "description": "Model Coupling Tookit",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 856,
-      "forks": 687,
+      "stars": 54,
+      "forks": 19,
       "added_stars": "0 stars today"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "title": "GEOS-ESM / GOCART",
+      "url": "https://github.com/GEOS-ESM/GOCART",
+      "description": "GOCART Aerosol model including process library and framework interfaces (MAPL, NUOPC, and CCPP)",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1723,
-      "forks": 867,
+      "stars": 27,
+      "forks": 22,
       "added_stars": "0 stars today"
     },
     {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
+      "title": "NGEET / fates",
+      "url": "https://github.com/NGEET/fates",
+      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1175,
-      "forks": 492,
-      "added_stars": "1 star today"
+      "stars": 129,
+      "forks": 109,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ecmwf / fckit",
+      "url": "https://github.com/ecmwf/fckit",
+      "description": "A Fortran toolkit for interoperating Fortran with C/C++",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 48,
+      "forks": 21,
+      "added_stars": "0 stars today"
     }
   ]
 }

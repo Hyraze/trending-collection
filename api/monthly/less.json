@@ -2,7 +2,7 @@
   "title": "GitHub Less Languages Daily Trending",
   "description": "Daily Trending of Less Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "jerrykuku / luci-theme-argon",
@@ -10,9 +10,9 @@
       "description": "Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.",
       "language": "Less",
       "languageColor": "#1d365d",
-      "stars": 5402,
-      "forks": 942,
-      "added_stars": "63 stars this month"
+      "stars": 5405,
+      "forks": 944,
+      "added_stars": "62 stars this month"
     },
     {
       "title": "Remix-Design / RemixIcon",
@@ -22,7 +22,17 @@
       "languageColor": "#1d365d",
       "stars": 8263,
       "forks": 554,
-      "added_stars": "68 stars this month"
+      "added_stars": "67 stars this month"
+    },
+    {
+      "title": "Tencent / tdesign-common",
+      "url": "https://github.com/Tencent/tdesign-common",
+      "description": "TDesign style/utils shared by multiple frameworks repo.",
+      "language": "Less",
+      "languageColor": "#1d365d",
+      "stars": 183,
+      "forks": 397,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "catppuccin / userstyles",
@@ -30,9 +40,9 @@
       "description": "🖌 Soothing pastel userstyles",
       "language": "Less",
       "languageColor": "#1d365d",
-      "stars": 1102,
+      "stars": 1104,
       "forks": 289,
-      "added_stars": "13 stars this month"
+      "added_stars": "15 stars this month"
     }
   ]
 }

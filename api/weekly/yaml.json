@@ -2,18 +2,8 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
-    {
-      "title": "GTFOBins / GTFOBins.github.io",
-      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
-      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 13506,
-      "forks": 1653,
-      "added_stars": "22 stars this week"
-    },
     {
       "title": "aquaproj / aqua-registry",
       "url": "https://github.com/aquaproj/aqua-registry",
@@ -30,29 +20,19 @@
       "description": "This is a public repository containing scrapers created by the Stash Community.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 828,
+      "stars": 829,
       "forks": 519,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "web-platform-dx / web-features",
-      "url": "https://github.com/web-platform-dx/web-features",
-      "description": "Exploring how to present Web platform features adoptability",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 891,
-      "forks": 308,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "usnistgov / macos_security",
-      "url": "https://github.com/usnistgov/macos_security",
-      "description": "macOS Security Compliance Project",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 2428,
-      "forks": 300,
       "added_stars": "5 stars this week"
+    },
+    {
+      "title": "GTFOBins / GTFOBins.github.io",
+      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 13510,
+      "forks": 1655,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "kubeflow / community-distribution",
@@ -61,8 +41,28 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": 1029,
-      "forks": 1069,
+      "forks": 1068,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "usnistgov / macos_security",
+      "url": "https://github.com/usnistgov/macos_security",
+      "description": "macOS Security Compliance Project",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 2429,
+      "forks": 300,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "web-platform-dx / web-features",
+      "url": "https://github.com/web-platform-dx/web-features",
+      "description": "Exploring how to present Web platform features adoptability",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 892,
+      "forks": 308,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "sublime-security / sublime-rules",
@@ -72,7 +72,7 @@
       "languageColor": "#cb171e",
       "stars": 368,
       "forks": 101,
-      "added_stars": "2 stars this week"
+      "added_stars": "0 stars this week"
     }
   ]
 }

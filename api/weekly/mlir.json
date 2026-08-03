@@ -2,36 +2,36 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
-    {
-      "title": "triton-lang / triton-ascend",
-      "url": "https://github.com/triton-lang/triton-ascend",
-      "description": "Triton language and compiler for Ascend NPU",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 124,
-      "forks": 169,
-      "added_stars": "7 stars this week"
-    },
     {
       "title": "triton-lang / triton",
       "url": "https://github.com/triton-lang/triton",
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 19834,
+      "stars": 19841,
       "forks": 3069,
       "added_stars": "59 stars this week"
     },
     {
-      "title": "intel / intel-xpu-backend-for-triton",
-      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
-      "description": "OpenAI Triton backend for Intel® GPUs",
+      "title": "triton-lang / triton-ascend",
+      "url": "https://github.com/triton-lang/triton-ascend",
+      "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 263,
-      "forks": 106,
+      "stars": 125,
+      "forks": 169,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "tenstorrent / tt-mlir",
+      "url": "https://github.com/tenstorrent/tt-mlir",
+      "description": "Tenstorrent MLIR compiler",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 295,
+      "forks": 140,
       "added_stars": "1 star this week"
     },
     {
@@ -40,19 +40,9 @@
       "description": "Github mirror of trition-lang/triton repo.",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 182,
+      "stars": 183,
       "forks": 63,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "tenstorrent / tt-mlir",
-      "url": "https://github.com/tenstorrent/tt-mlir",
-      "description": "Tenstorrent MLIR compiler",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 294,
-      "forks": 139,
-      "added_stars": "0 stars this week"
     },
     {
       "title": "ROCm / rocMLIR",
@@ -63,6 +53,16 @@
       "stars": 188,
       "forks": 57,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "intel / intel-xpu-backend-for-triton",
+      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
+      "description": "OpenAI Triton backend for Intel® GPUs",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 263,
+      "forks": 106,
+      "added_stars": "1 star this week"
     }
   ]
 }

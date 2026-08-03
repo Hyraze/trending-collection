@@ -4,7 +4,7 @@
   <title>GitHub R Languages Daily Trending</title>
   <description>Daily Trending of R Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:24:59 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
   <item>
     <title>Rdatatable / data.table</title>
     <link>https://github.com/Rdatatable/data.table</link>
@@ -36,14 +36,14 @@
     <description>R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics</description>
   </item>
   <item>
+    <title>hadley / r4ds</title>
+    <link>https://github.com/hadley/r4ds</link>
+    <description>R for data science: a book</description>
+  </item>
+  <item>
     <title>sqjin / CellChat</title>
     <link>https://github.com/sqjin/CellChat</link>
     <description>R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data</description>
-  </item>
-  <item>
-    <title>posit-dev / skills</title>
-    <link>https://github.com/posit-dev/skills</link>
-    <description>A collection of Claude Skills from Posit</description>
   </item>
   <item>
     <title>rstudio / shiny</title>
@@ -51,14 +51,19 @@
     <description>Easy interactive web applications with R</description>
   </item>
   <item>
-    <title>nflverse / nflverse-data</title>
-    <link>https://github.com/nflverse/nflverse-data</link>
-    <description>Automated nflverse data repository</description>
+    <title>posit-dev / skills</title>
+    <link>https://github.com/posit-dev/skills</link>
+    <description>A collection of Claude Skills from Posit</description>
   </item>
   <item>
     <title>benjjneb / dada2</title>
     <link>https://github.com/benjjneb/dada2</link>
     <description>Accurate sample inference from amplicon data with single nucleotide resolution</description>
+  </item>
+  <item>
+    <title>nflverse / nflverse-data</title>
+    <link>https://github.com/nflverse/nflverse-data</link>
+    <description>Automated nflverse data repository</description>
   </item>
 </channel>
 </rss>

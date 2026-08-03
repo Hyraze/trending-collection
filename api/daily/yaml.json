@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
       "title": "aquaproj / aqua-registry",
@@ -20,8 +20,18 @@
       "description": "This is a public repository containing scrapers created by the Stash Community.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 828,
+      "stars": 829,
       "forks": 519,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "tyriis / home-ops",
+      "url": "https://github.com/tyriis/home-ops",
+      "description": "IaC for my HomeLab kubernetes cluster resources with Flux",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 80,
+      "forks": 4,
       "added_stars": "0 stars today"
     },
     {
@@ -31,7 +41,7 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": 1029,
-      "forks": 1069,
+      "forks": 1068,
       "added_stars": "0 stars today"
     }
   ]

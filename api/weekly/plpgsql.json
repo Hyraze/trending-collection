@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "DataDog / storedog",
@@ -30,9 +30,19 @@
       "description": "Partition management extension for PostgreSQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 2783,
+      "stars": 2785,
       "forks": 317,
       "added_stars": "10 stars this week"
+    },
+    {
+      "title": "pgmq / pgmq",
+      "url": "https://github.com/pgmq/pgmq",
+      "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 5053,
+      "forks": 140,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "guchengwuyue / yshop-drink",
@@ -40,8 +50,8 @@
       "description": "yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 1500,
-      "forks": 380,
+      "stars": 1504,
+      "forks": 382,
       "added_stars": "14 stars this week"
     },
     {
@@ -52,17 +62,7 @@
       "languageColor": "#336790",
       "stars": 3128,
       "forks": 671,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "pgmq / pgmq",
-      "url": "https://github.com/pgmq/pgmq",
-      "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 5051,
-      "forks": 140,
-      "added_stars": "16 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "postgis / postgis",
@@ -71,8 +71,8 @@
       "language": "PLpgSQL",
       "languageColor": "#336790",
       "stars": 2191,
-      "forks": 431,
-      "added_stars": "12 stars this week"
+      "forks": 432,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "sbdchd / squawk",
@@ -80,9 +80,9 @@
       "description": "🐘 Linter for Postgres migrations & SQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 1144,
+      "stars": 1146,
       "forks": 68,
-      "added_stars": "3 stars this week"
+      "added_stars": "5 stars this week"
     }
   ]
 }

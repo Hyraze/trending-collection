@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:24:59 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
   <item>
     <title>terraform-aws-modules / terraform-aws-eks</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
@@ -19,11 +19,6 @@
     <title>terraform-aws-modules / terraform-aws-vpc</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
     <description>Terraform module to create AWS VPC resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>hashicorp / terraform-provider-awscc</title>
-    <link>https://github.com/hashicorp/terraform-provider-awscc</link>
-    <description>Terraform AWS Cloud Control provider</description>
   </item>
   <item>
     <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
@@ -41,14 +36,14 @@
     <description>Terraform module to create AWS IAM resources 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-lambda</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
-    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
-  </item>
-  <item>
     <title>cashapp / hermit-packages</title>
     <link>https://github.com/cashapp/hermit-packages</link>
     <description>Hermit manages isolated, self-bootstrapping sets of tools in software projects.</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-lambda</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-ecs</title>

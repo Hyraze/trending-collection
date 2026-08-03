@@ -2,17 +2,17 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
-      "title": "temporalio / helm-charts",
-      "url": "https://github.com/temporalio/helm-charts",
-      "description": "Temporal Helm charts",
+      "title": "amzn / selling-partner-api-models",
+      "url": "https://github.com/amzn/selling-partner-api-models",
+      "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 554,
-      "forks": 447,
-      "added_stars": "1 star this week"
+      "stars": 882,
+      "forks": 792,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "renovatebot / helm-charts",
@@ -25,14 +25,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "amzn / selling-partner-api-models",
-      "url": "https://github.com/amzn/selling-partner-api-models",
-      "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
+      "title": "argoproj / argo-helm",
+      "url": "https://github.com/argoproj/argo-helm",
+      "description": "ArgoProj Helm Charts",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 882,
-      "forks": 792,
-      "added_stars": "6 stars this week"
+      "stars": 2338,
+      "forks": 2100,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "swagger-api / swagger-codegen",
@@ -40,8 +40,8 @@
       "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 17780,
-      "forks": 5968,
+      "stars": 17781,
+      "forks": 5967,
       "added_stars": "6 stars this week"
     },
     {
@@ -52,7 +52,17 @@
       "languageColor": "#724b3b",
       "stars": 6164,
       "forks": 5379,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "temporalio / helm-charts",
+      "url": "https://github.com/temporalio/helm-charts",
+      "description": "Temporal Helm charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 554,
+      "forks": 447,
+      "added_stars": "1 star this week"
     },
     {
       "title": "Kong / charts",
@@ -75,14 +85,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "jenkinsci / helm-charts",
-      "url": "https://github.com/jenkinsci/helm-charts",
-      "description": "Jenkins helm charts",
+      "title": "thmsgbrt / thmsgbrt",
+      "url": "https://github.com/thmsgbrt/thmsgbrt",
+      "description": "My awesome README.md",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 657,
-      "forks": 929,
-      "added_stars": "0 stars this week"
+      "stars": 538,
+      "forks": 1376,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "aws / eks-charts",
@@ -92,37 +102,17 @@
       "languageColor": "#724b3b",
       "stars": 1302,
       "forks": 1082,
-      "added_stars": "1 star this week"
+      "added_stars": "0 stars this week"
     },
     {
-      "title": "argoproj / argo-helm",
-      "url": "https://github.com/argoproj/argo-helm",
-      "description": "ArgoProj Helm Charts",
+      "title": "FairwindsOps / charts",
+      "url": "https://github.com/FairwindsOps/charts",
+      "description": "Fairwinds helm chart repository",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 2339,
-      "forks": 2100,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "codefresh-contrib / gitops-certification-examples",
-      "url": "https://github.com/codefresh-contrib/gitops-certification-examples",
-      "description": "GitOps Certification Level 1 examples",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 302,
-      "forks": 5942,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "thmsgbrt / thmsgbrt",
-      "url": "https://github.com/thmsgbrt/thmsgbrt",
-      "description": "My awesome README.md",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 538,
-      "forks": 1378,
-      "added_stars": "2 stars this week"
+      "stars": 154,
+      "forks": 178,
+      "added_stars": "0 stars this week"
     }
   ]
 }

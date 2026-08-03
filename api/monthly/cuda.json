@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepEP",
@@ -10,9 +10,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 9931,
+      "stars": 9933,
       "forks": 1359,
-      "added_stars": "151 stars this month"
+      "added_stars": "148 stars this month"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -20,9 +20,39 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7599,
-      "forks": 1141,
-      "added_stars": "142 stars this month"
+      "stars": 7607,
+      "forks": 1146,
+      "added_stars": "146 stars this month"
+    },
+    {
+      "title": "thu-ml / SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3529,
+      "forks": 447,
+      "added_stars": "75 stars this month"
+    },
+    {
+      "title": "alibaba / rtp-llm",
+      "url": "https://github.com/alibaba/rtp-llm",
+      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1293,
+      "forks": 249,
+      "added_stars": "48 stars this month"
+    },
+    {
+      "title": "rahul-goel / fused-ssim",
+      "url": "https://github.com/rahul-goel/fused-ssim",
+      "description": "Lightning fast differentiable SSIM.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 237,
+      "forks": 88,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -32,37 +62,7 @@
       "languageColor": "#3A4E3A",
       "stars": 829,
       "forks": 215,
-      "added_stars": "36 stars this month"
-    },
-    {
-      "title": "thu-ml / SageAttention",
-      "url": "https://github.com/thu-ml/SageAttention",
-      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3526,
-      "forks": 447,
-      "added_stars": "76 stars this month"
-    },
-    {
-      "title": "alibaba / rtp-llm",
-      "url": "https://github.com/alibaba/rtp-llm",
-      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1292,
-      "forks": 249,
-      "added_stars": "49 stars this month"
-    },
-    {
-      "title": "rahul-goel / fused-ssim",
-      "url": "https://github.com/rahul-goel/fused-ssim",
-      "description": "Lightning fast differentiable SSIM.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 237,
-      "forks": 87,
-      "added_stars": "7 stars this month"
+      "added_stars": "34 stars this month"
     },
     {
       "title": "karpathy / llm.c",
@@ -70,9 +70,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30696,
-      "forks": 3714,
-      "added_stars": "326 stars this month"
+      "stars": 30711,
+      "forks": 3716,
+      "added_stars": "318 stars this month"
     },
     {
       "title": "NVlabs / instant-ngp",
@@ -80,8 +80,8 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 17511,
-      "forks": 2066,
+      "stars": 17512,
+      "forks": 2065,
       "added_stars": "63 stars this month"
     },
     {
@@ -91,8 +91,8 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 1611,
-      "forks": 395,
-      "added_stars": "43 stars this month"
+      "forks": 396,
+      "added_stars": "38 stars this month"
     },
     {
       "title": "HazyResearch / ThunderKittens",
@@ -100,9 +100,9 @@
       "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3582,
+      "stars": 3587,
       "forks": 313,
-      "added_stars": "81 stars this month"
+      "added_stars": "85 stars this month"
     },
     {
       "title": "mirage-project / mirage",
@@ -111,18 +111,8 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 2401,
-      "forks": 236,
-      "added_stars": "56 stars this month"
-    },
-    {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 994,
-      "forks": 217,
-      "added_stars": "34 stars this month"
+      "forks": 237,
+      "added_stars": "53 stars this month"
     },
     {
       "title": "Dao-AILab / causal-conv1d",
@@ -132,7 +122,27 @@
       "languageColor": "#3A4E3A",
       "stars": 928,
       "forks": 204,
-      "added_stars": "19 stars this month"
+      "added_stars": "17 stars this month"
+    },
+    {
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 995,
+      "forks": 217,
+      "added_stars": "36 stars this month"
+    },
+    {
+      "title": "NVIDIA / raft",
+      "url": "https://github.com/NVIDIA/raft",
+      "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1034,
+      "forks": 245,
+      "added_stars": "15 stars this month"
     }
   ]
 }

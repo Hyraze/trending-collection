@@ -4,21 +4,56 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:22:49 GMT</pubDate>
-  <item>
-    <title>harbor-framework / terminal-bench-science</title>
-    <link>https://github.com/harbor-framework/terminal-bench-science</link>
-    <description>Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal</description>
-  </item>
+  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
   <item>
     <title>leanprover / lean4</title>
     <link>https://github.com/leanprover/lean4</link>
     <description>Lean 4 programming language and theorem prover</description>
   </item>
   <item>
-    <title>leanprover-community / iris-lean</title>
-    <link>https://github.com/leanprover-community/iris-lean</link>
-    <description>Lean 4 port of Iris, a higher-order concurrent separation logic framework</description>
+    <title>leanprover-community / mathlib4</title>
+    <link>https://github.com/leanprover-community/mathlib4</link>
+    <description>The math library of Lean 4</description>
+  </item>
+  <item>
+    <title>leanprover-community / LeanSearchClient</title>
+    <link>https://github.com/leanprover-community/LeanSearchClient</link>
+    <description>Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)</description>
+  </item>
+  <item>
+    <title>leanprover-community / ProofWidgets4</title>
+    <link>https://github.com/leanprover-community/ProofWidgets4</link>
+    <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
+  </item>
+  <item>
+    <title>leanprover-community / batteries</title>
+    <link>https://github.com/leanprover-community/batteries</link>
+    <description>The &quot;batteries included&quot; extended library for the Lean programming language and theorem prover</description>
+  </item>
+  <item>
+    <title>leanprover-community / quote4</title>
+    <link>https://github.com/leanprover-community/quote4</link>
+    <description>Intuitive, type-safe expression quotations for Lean 4.</description>
+  </item>
+  <item>
+    <title>leanprover-community / aesop</title>
+    <link>https://github.com/leanprover-community/aesop</link>
+    <description>White-box automation for Lean 4</description>
+  </item>
+  <item>
+    <title>leanprover-community / plausible</title>
+    <link>https://github.com/leanprover-community/plausible</link>
+    <description></description>
+  </item>
+  <item>
+    <title>leanprover / lean4-cli</title>
+    <link>https://github.com/leanprover/lean4-cli</link>
+    <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
+  </item>
+  <item>
+    <title>google-deepmind / formal-conjectures</title>
+    <link>https://github.com/google-deepmind/formal-conjectures</link>
+    <description>A collection of formalized statements of conjectures in Lean.</description>
   </item>
   <item>
     <title>digama0 / lean4lean</title>
@@ -26,9 +61,19 @@
     <description>Lean 4 kernel / &#x27;external checker&#x27; written in Lean 4</description>
   </item>
   <item>
-    <title>leanprover-community / mathlib4</title>
-    <link>https://github.com/leanprover-community/mathlib4</link>
-    <description>The math library of Lean 4</description>
+    <title>harbor-framework / terminal-bench-science</title>
+    <link>https://github.com/harbor-framework/terminal-bench-science</link>
+    <description>Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal</description>
+  </item>
+  <item>
+    <title>leanprover / verso</title>
+    <link>https://github.com/leanprover/verso</link>
+    <description>Lean documentation authoring tool</description>
+  </item>
+  <item>
+    <title>lfglabs-dev / verity</title>
+    <link>https://github.com/lfglabs-dev/verity</link>
+    <description>Formally verified smart contracts gives mathematical certainty across all inputs and execution paths. We bet that agents will make full formal verification practical.</description>
   </item>
 </channel>
 </rss>

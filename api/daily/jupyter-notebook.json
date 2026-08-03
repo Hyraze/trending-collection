@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
       "title": "microsoft / AI-For-Beginners",
@@ -10,139 +10,9 @@
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 57674,
-      "forks": 11398,
-      "added_stars": "949 stars today"
-    },
-    {
-      "title": "microsoft / generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 114328,
-      "forks": 61237,
-      "added_stars": "108 stars today"
-    },
-    {
-      "title": "mrdbourke / zero-to-mastery-ml",
-      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
-      "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 6579,
-      "forks": 4161,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "microsoft / mcp-for-beginners",
-      "url": "https://github.com/microsoft/mcp-for-beginners",
-      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 16875,
-      "forks": 5508,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "DataExpert-io / data-engineer-handbook",
-      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
-      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 42688,
-      "forks": 8004,
-      "added_stars": "46 stars today"
-    },
-    {
-      "title": "Infrasys-AI / AISystem",
-      "url": "https://github.com/Infrasys-AI/AISystem",
-      "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 17423,
-      "forks": 2448,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "facebookresearch / dinov3",
-      "url": "https://github.com/facebookresearch/dinov3",
-      "description": "Reference PyTorch implementation and models for DINOv3",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 11084,
-      "forks": 919,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "microsoft / ML-For-Beginners",
-      "url": "https://github.com/microsoft/ML-For-Beginners",
-      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 88867,
-      "forks": 21749,
-      "added_stars": "53 stars today"
-    },
-    {
-      "title": "facebookresearch / segment-anything",
-      "url": "https://github.com/facebookresearch/segment-anything",
-      "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 54631,
-      "forks": 6353,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "AI4Finance-Foundation / FinRobot",
-      "url": "https://github.com/AI4Finance-Foundation/FinRobot",
-      "description": "FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 7710,
-      "forks": 1299,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "AI4Finance-Foundation / FinRL",
-      "url": "https://github.com/AI4Finance-Foundation/FinRL",
-      "description": "FinRL®: Financial Reinforcement Learning. 🔥",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 15883,
-      "forks": 3446,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "ed-donner / agents",
-      "url": "https://github.com/ed-donner/agents",
-      "description": "Repo for the Complete Agentic AI Engineering Course",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 5828,
-      "forks": 4961,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "jackfrued / Python-100-Days",
-      "url": "https://github.com/jackfrued/Python-100-Days",
-      "description": "Python - 100天从新手到大师",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 184782,
-      "forks": 55685,
-      "added_stars": "36 stars today"
-    },
-    {
-      "title": "NVIDIA / cosmos",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 11339,
-      "forks": 801,
-      "added_stars": "12 stars today"
+      "stars": 59572,
+      "forks": 11694,
+      "added_stars": "2,629 stars today"
     },
     {
       "title": "lyogavin / airllm",
@@ -150,29 +20,119 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 24906,
-      "forks": 2808,
-      "added_stars": "242 stars today"
+      "stars": 25899,
+      "forks": 2898,
+      "added_stars": "819 stars today"
     },
     {
-      "title": "Infrasys-AI / AIInfra",
-      "url": "https://github.com/Infrasys-AI/AIInfra",
-      "description": "AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。",
+      "title": "microsoft / generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 7795,
-      "forks": 1005,
-      "added_stars": "7 stars today"
+      "stars": 114977,
+      "forks": 61327,
+      "added_stars": "588 stars today"
     },
     {
-      "title": "chiphuyen / aie-book",
-      "url": "https://github.com/chiphuyen/aie-book",
-      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+      "title": "DataExpert-io / data-engineer-handbook",
+      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 16826,
-      "forks": 2448,
-      "added_stars": "7 stars today"
+      "stars": 42768,
+      "forks": 8171,
+      "added_stars": "64 stars today"
+    },
+    {
+      "title": "Infrasys-AI / AISystem",
+      "url": "https://github.com/Infrasys-AI/AISystem",
+      "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 17442,
+      "forks": 2447,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "AI4Finance-Foundation / FinRL",
+      "url": "https://github.com/AI4Finance-Foundation/FinRL",
+      "description": "FinRL®: Financial Reinforcement Learning. 🔥",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 15898,
+      "forks": 3449,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "ed-donner / llm_engineering",
+      "url": "https://github.com/ed-donner/llm_engineering",
+      "description": "Repo to accompany my mastering LLM engineering course",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 6923,
+      "forks": 6761,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "mrdbourke / zero-to-mastery-ml",
+      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 6602,
+      "forks": 4166,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "microsoft / ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "18 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 71022,
+      "forks": 23536,
+      "added_stars": "85 stars today"
+    },
+    {
+      "title": "microsoft / ML-For-Beginners",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 88919,
+      "forks": 21770,
+      "added_stars": "51 stars today"
+    },
+    {
+      "title": "pathwaycom / llm-app",
+      "url": "https://github.com/pathwaycom/llm-app",
+      "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 59094,
+      "forks": 1463,
+      "added_stars": "160 stars today"
+    },
+    {
+      "title": "jackfrued / Python-100-Days",
+      "url": "https://github.com/jackfrued/Python-100-Days",
+      "description": "Python - 100天从新手到大师",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 184806,
+      "forks": 55687,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "ed-donner / agents",
+      "url": "https://github.com/ed-donner/agents",
+      "description": "Repo for the Complete Agentic AI Engineering Course",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 5841,
+      "forks": 4971,
+      "added_stars": "10 stars today"
     }
   ]
 }

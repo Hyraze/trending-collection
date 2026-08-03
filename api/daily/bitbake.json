@@ -2,26 +2,26 @@
   "title": "GitHub Bitbake Languages Daily Trending",
   "description": "Daily Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
-      "title": "qualcomm-linux / meta-qcom",
-      "url": "https://github.com/qualcomm-linux/meta-qcom",
-      "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
+      "title": "mendersoftware / meta-mender",
+      "url": "https://github.com/mendersoftware/meta-mender",
+      "description": "Yocto Project meta layer for the Mender client",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 152,
-      "forks": 328,
+      "stars": 189,
+      "forks": 216,
       "added_stars": "0 stars today"
     },
     {
-      "title": "sbabic / meta-swupdate",
-      "url": "https://github.com/sbabic/meta-swupdate",
-      "description": "Yocto receipes to generate a swupdate rootfilesystem as initrd",
+      "title": "Freescale / meta-freescale-3rdparty",
+      "url": "https://github.com/Freescale/meta-freescale-3rdparty",
+      "description": "OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 182,
-      "forks": 124,
+      "stars": 119,
+      "forks": 538,
       "added_stars": "0 stars today"
     },
     {
@@ -45,24 +45,34 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "mendersoftware / meta-mender",
-      "url": "https://github.com/mendersoftware/meta-mender",
-      "description": "Yocto Project meta layer for the Mender client",
+      "title": "ros / meta-ros",
+      "url": "https://github.com/ros/meta-ros",
+      "description": "OpenEmbedded Layers for ROS 1 and ROS 2",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 189,
-      "forks": 216,
+      "stars": 486,
+      "forks": 285,
       "added_stars": "0 stars today"
     },
     {
-      "title": "OE4T / meta-tegra",
-      "url": "https://github.com/OE4T/meta-tegra",
-      "description": "BSP layer for NVIDIA Jetson platforms, based on L4T",
+      "title": "meta-rust / meta-rust",
+      "url": "https://github.com/meta-rust/meta-rust",
+      "description": "OpenEmbedded/Yocto layer for Rust and Cargo",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 569,
-      "forks": 305,
-      "added_stars": "2 stars today"
+      "stars": 240,
+      "forks": 132,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "qualcomm-linux / meta-qcom",
+      "url": "https://github.com/qualcomm-linux/meta-qcom",
+      "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 153,
+      "forks": 329,
+      "added_stars": "0 stars today"
     },
     {
       "title": "rauc / meta-rauc",
@@ -71,37 +81,7 @@
       "language": "BitBake",
       "languageColor": "#00bce4",
       "stars": 225,
-      "forks": 113,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "kraj / meta-clang",
-      "url": "https://github.com/kraj/meta-clang",
-      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 197,
-      "forks": 248,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "nxp-imx / meta-imx",
-      "url": "https://github.com/nxp-imx/meta-imx",
-      "description": "i.MX Yocto Project i.MX BSP Layer",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 117,
-      "forks": 113,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "OSSystems / meta-browser",
-      "url": "https://github.com/OSSystems/meta-browser",
-      "description": "OpenEmbedded/Yocto BSP layer for Web Browsers",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 224,
-      "forks": 222,
+      "forks": 114,
       "added_stars": "0 stars today"
     },
     {
@@ -115,23 +95,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "ros / meta-ros",
-      "url": "https://github.com/ros/meta-ros",
-      "description": "OpenEmbedded Layers for ROS 1 and ROS 2",
+      "title": "OE4T / meta-tegra",
+      "url": "https://github.com/OE4T/meta-tegra",
+      "description": "BSP layer for NVIDIA Jetson platforms, based on L4T",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 486,
-      "forks": 285,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "openembedded / openembedded-core",
-      "url": "https://github.com/openembedded/openembedded-core",
-      "description": "The official Git repository is at https://git.openembedded.org/openembedded-core/.",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 460,
-      "forks": 571,
+      "stars": 569,
+      "forks": 305,
       "added_stars": "0 stars today"
     },
     {
@@ -145,6 +115,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "sbabic / meta-swupdate",
+      "url": "https://github.com/sbabic/meta-swupdate",
+      "description": "Yocto receipes to generate a swupdate rootfilesystem as initrd",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 182,
+      "forks": 124,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "Freescale / meta-freescale",
       "url": "https://github.com/Freescale/meta-freescale",
       "description": "Layer containing NXP hardware support metadata",
@@ -152,6 +132,26 @@
       "languageColor": "#00bce4",
       "stars": 216,
       "forks": 295,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "meta-flutter / meta-flutter",
+      "url": "https://github.com/meta-flutter/meta-flutter",
+      "description": "Yocto/OpenEmbedded layer for building Google Flutter applications, engine, and embedders (BitBake recipes)",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 204,
+      "forks": 91,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "kraj / meta-clang",
+      "url": "https://github.com/kraj/meta-clang",
+      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 197,
+      "forks": 248,
       "added_stars": "0 stars today"
     }
   ]

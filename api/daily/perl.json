@@ -2,16 +2,36 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
+    {
+      "title": "AlDanial / cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 23389,
+      "forks": 1120,
+      "added_stars": "7 stars today"
+    },
     {
       "title": "lm-sensors / lm-sensors",
       "url": "https://github.com/lm-sensors/lm-sensors",
       "description": "lm-sensors repository",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1127,
+      "stars": 1128,
       "forks": 298,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "znuny / Znuny",
+      "url": "https://github.com/znuny/Znuny",
+      "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 584,
+      "forks": 121,
       "added_stars": "0 stars today"
     },
     {
@@ -22,16 +42,16 @@
       "languageColor": "#0298c3",
       "stars": 259,
       "forks": 97,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "glpi-project / glpi-agent",
-      "url": "https://github.com/glpi-project/glpi-agent",
-      "description": "GLPI Agent",
+      "title": "manwar / perlweeklychallenge-club",
+      "url": "https://github.com/manwar/perlweeklychallenge-club",
+      "description": "Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 465,
-      "forks": 118,
+      "stars": 220,
+      "forks": 353,
       "added_stars": "0 stars today"
     },
     {
@@ -40,8 +60,18 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19633,
+      "stars": 19635,
       "forks": 2105,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "exiftool / exiftool",
+      "url": "https://github.com/exiftool/exiftool",
+      "description": "ExifTool meta information reader/writer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 4919,
+      "forks": 465,
       "added_stars": "1 star today"
     },
     {
@@ -50,9 +80,19 @@
       "description": "Cross-platform desktop GUI app to clean image metadata",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2538,
+      "stars": 2540,
       "forks": 160,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "holzschu / a-shell",
+      "url": "https://github.com/holzschu/a-shell",
+      "description": "A terminal for iOS, with multiple windows",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3846,
+      "forks": 200,
+      "added_stars": "0 stars today"
     },
     {
       "title": "OpenKore / openkore",
@@ -60,38 +100,18 @@
       "description": "A free/open source client and automation tool for Ragnarok Online",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1500,
-      "forks": 1215,
-      "added_stars": "0 stars today"
+      "stars": 1502,
+      "forks": 1216,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "adrienverge / openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
+      "title": "awsdocs / aws-cdk-guide",
+      "url": "https://github.com/awsdocs/aws-cdk-guide",
+      "description": "User guide for the AWS Cloud Development Kit (CDK).",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3373,
-      "forks": 375,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "AlDanial / cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 23383,
-      "forks": 1119,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "znuny / Znuny",
-      "url": "https://github.com/znuny/Znuny",
-      "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 584,
-      "forks": 120,
+      "stars": 365,
+      "forks": 230,
       "added_stars": "0 stars today"
     }
   ]

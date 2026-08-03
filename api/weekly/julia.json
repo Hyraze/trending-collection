@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "JuliaLang / julia",
@@ -10,9 +10,9 @@
       "description": "The Julia Programming Language",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 48962,
+      "stars": 48968,
       "forks": 5915,
-      "added_stars": "56 stars this week"
+      "added_stars": "46 stars this week"
     },
     {
       "title": "JuliaRegistries / General",
@@ -25,6 +25,16 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "MakieOrg / Makie.jl",
+      "url": "https://github.com/MakieOrg/Makie.jl",
+      "description": "Interactive data visualizations and plotting in Julia",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 2792,
+      "forks": 393,
+      "added_stars": "2 stars this week"
+    },
+    {
       "title": "CliMA / ClimaCoupler.jl",
       "url": "https://github.com/CliMA/ClimaCoupler.jl",
       "description": "ClimaCoupler: bringing atmosphere, land, and ocean together",
@@ -32,7 +42,7 @@
       "languageColor": "#a270ba",
       "stars": 46,
       "forks": 8,
-      "added_stars": "1 star this week"
+      "added_stars": "0 stars this week"
     },
     {
       "title": "CliMA / Oceananigans.jl",
@@ -42,26 +52,26 @@
       "languageColor": "#a270ba",
       "stars": 1388,
       "forks": 288,
-      "added_stars": "13 stars this week"
+      "added_stars": "10 stars this week"
     },
     {
-      "title": "MakieOrg / Makie.jl",
-      "url": "https://github.com/MakieOrg/Makie.jl",
-      "description": "Interactive data visualizations and plotting in Julia",
+      "title": "CliMA / ClimaAtmos.jl",
+      "url": "https://github.com/CliMA/ClimaAtmos.jl",
+      "description": "GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 2791,
-      "forks": 393,
+      "stars": 123,
+      "forks": 36,
       "added_stars": "2 stars this week"
     },
     {
-      "title": "SciML / OrdinaryDiffEq.jl",
-      "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
-      "description": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+      "title": "CliMA / ClimaCore.jl",
+      "url": "https://github.com/CliMA/ClimaCore.jl",
+      "description": "GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 665,
-      "forks": 271,
+      "stars": 114,
+      "forks": 18,
       "added_stars": "1 star this week"
     }
   ]

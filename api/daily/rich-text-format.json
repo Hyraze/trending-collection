@@ -2,7 +2,7 @@
   "title": "GitHub Rich-text-format Languages Daily Trending",
   "description": "Daily Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
       "title": "mathoudebine / turing-smart-screen-python",
@@ -10,9 +10,19 @@
       "description": "Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen / TURZX",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": 2185,
+      "stars": 2187,
       "forks": 388,
-      "added_stars": "3 stars today"
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "artur-graniszewski / DLSS-Enabler",
+      "url": "https://github.com/artur-graniszewski/DLSS-Enabler",
+      "description": "Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.",
+      "language": "Rich Text Format",
+      "languageColor": "#ccc",
+      "stars": 1279,
+      "forks": 36,
+      "added_stars": "1 star today"
     }
   ]
 }

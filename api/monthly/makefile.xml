@@ -4,7 +4,7 @@
   <title>GitHub Makefile Languages Daily Trending</title>
   <description>Daily Trending of Makefile Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:27:08 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
   <item>
     <title>deepseek-ai / DeepSeek-LLM</title>
     <link>https://github.com/deepseek-ai/DeepSeek-LLM</link>
@@ -16,14 +16,14 @@
     <description>Make AI do actual work. Swap the model anytime — keep everything you&#x27;ve built.</description>
   </item>
   <item>
-    <title>golang-standards / project-layout</title>
-    <link>https://github.com/golang-standards/project-layout</link>
-    <description>Standard Go Project Layout</description>
-  </item>
-  <item>
     <title>openwrt / packages</title>
     <link>https://github.com/openwrt/packages</link>
     <description>Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</description>
+  </item>
+  <item>
+    <title>HaveAGitGat / Tdarr</title>
+    <link>https://github.com/HaveAGitGat/Tdarr</link>
+    <description>Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux &amp; Docker)</description>
   </item>
   <item>
     <title>foostan / crkbd</title>
@@ -31,24 +31,19 @@
     <description>Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</description>
   </item>
   <item>
-    <title>LibreELEC / LibreELEC.tv</title>
-    <link>https://github.com/LibreELEC/LibreELEC.tv</link>
-    <description>Just enough OS for KODI</description>
-  </item>
-  <item>
-    <title>open-telemetry / opentelemetry-proto</title>
-    <link>https://github.com/open-telemetry/opentelemetry-proto</link>
-    <description>OpenTelemetry protocol (OTLP) specification and Protobuf definitions</description>
-  </item>
-  <item>
     <title>ROCKNIX / distribution</title>
     <link>https://github.com/ROCKNIX/distribution</link>
     <description></description>
   </item>
   <item>
-    <title>HaveAGitGat / Tdarr</title>
-    <link>https://github.com/HaveAGitGat/Tdarr</link>
-    <description>Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux &amp; Docker)</description>
+    <title>golang-standards / project-layout</title>
+    <link>https://github.com/golang-standards/project-layout</link>
+    <description>Standard Go Project Layout</description>
+  </item>
+  <item>
+    <title>open-telemetry / opentelemetry-proto</title>
+    <link>https://github.com/open-telemetry/opentelemetry-proto</link>
+    <description>OpenTelemetry protocol (OTLP) specification and Protobuf definitions</description>
   </item>
   <item>
     <title>freebsd / freebsd-ports</title>
@@ -81,6 +76,11 @@
     <description>Specifications for OpenTelemetry</description>
   </item>
   <item>
+    <title>LibreELEC / LibreELEC.tv</title>
+    <link>https://github.com/LibreELEC/LibreELEC.tv</link>
+    <description>Just enough OS for KODI</description>
+  </item>
+  <item>
     <title>cncf / people</title>
     <link>https://github.com/cncf/people</link>
     <description>Stores the data that will populate the various people listings on cncf.io</description>
@@ -94,6 +94,11 @@
     <title>PartialVolume / shredos.x86_64</title>
     <link>https://github.com/PartialVolume/shredos.x86_64</link>
     <description>Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe</description>
+  </item>
+  <item>
+    <title>WerWolv / Tesla-Menu</title>
+    <link>https://github.com/WerWolv/Tesla-Menu</link>
+    <description>The Nintendo Switch overlay menu</description>
   </item>
 </channel>
 </rss>

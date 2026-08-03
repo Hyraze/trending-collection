@@ -2,8 +2,18 @@
   "title": "GitHub Handlebars Languages Daily Trending",
   "description": "Daily Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
+    {
+      "title": "huggingface / hub-docs",
+      "url": "https://github.com/huggingface/hub-docs",
+      "description": "Docs of the Hugging Face Hub",
+      "language": "Handlebars",
+      "languageColor": "#f7931e",
+      "stars": 580,
+      "forks": 478,
+      "added_stars": "16 stars this month"
+    },
     {
       "title": "elastic / integrations",
       "url": "https://github.com/elastic/integrations",
@@ -15,24 +25,14 @@
       "added_stars": "7 stars this month"
     },
     {
-      "title": "huggingface / hub-docs",
-      "url": "https://github.com/huggingface/hub-docs",
-      "description": "Docs of the Hugging Face Hub",
-      "language": "Handlebars",
-      "languageColor": "#f7931e",
-      "stars": 579,
-      "forks": 478,
-      "added_stars": "16 stars this month"
-    },
-    {
       "title": "rust-lang / rust-by-example",
       "url": "https://github.com/rust-lang/rust-by-example",
       "description": "Learn Rust with examples (Live code editor included)",
       "language": "Handlebars",
       "languageColor": "#f7931e",
-      "stars": 8056,
-      "forks": 1561,
-      "added_stars": "41 stars this month"
+      "stars": 8060,
+      "forks": 1563,
+      "added_stars": "46 stars this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,9 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 25614,
-      "forks": 19687,
-      "added_stars": "85 stars this week"
+      "stars": 25632,
+      "forks": 19696,
+      "added_stars": "88 stars this week"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -20,19 +20,9 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1682,
+      "stars": 1690,
       "forks": 188,
-      "added_stars": "46 stars this week"
-    },
-    {
-      "title": "nix-darwin / nix-darwin",
-      "url": "https://github.com/nix-darwin/nix-darwin",
-      "description": "Manage your macOS using Nix",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 5767,
-      "forks": 653,
-      "added_stars": "36 stars this week"
+      "added_stars": "50 stars this week"
     },
     {
       "title": "nix-community / home-manager",
@@ -40,9 +30,19 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10161,
-      "forks": 2447,
+      "stars": 10164,
+      "forks": 2448,
       "added_stars": "29 stars this week"
+    },
+    {
+      "title": "nix-darwin / nix-darwin",
+      "url": "https://github.com/nix-darwin/nix-darwin",
+      "description": "Manage your macOS using Nix",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 5770,
+      "forks": 654,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "supabase / postgres",
@@ -52,17 +52,7 @@
       "languageColor": "#7e7eff",
       "stars": 1767,
       "forks": 258,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "NixOS / nix.dev",
-      "url": "https://github.com/NixOS/nix.dev",
-      "description": "Official documentation for getting things done with Nix.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3896,
-      "forks": 335,
-      "added_stars": "14 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -70,19 +60,9 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3233,
-      "forks": 956,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "hercules-ci / flake-parts",
-      "url": "https://github.com/hercules-ci/flake-parts",
-      "description": "❄️ Simplify Nix Flakes with the module system",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1433,
-      "forks": 77,
-      "added_stars": "8 stars this week"
+      "stars": 3234,
+      "forks": 955,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "Mic92 / sops-nix",
@@ -90,9 +70,39 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3066,
-      "forks": 225,
+      "stars": 3070,
+      "forks": 226,
       "added_stars": "20 stars this week"
+    },
+    {
+      "title": "NixOS / nix.dev",
+      "url": "https://github.com/NixOS/nix.dev",
+      "description": "Official documentation for getting things done with Nix.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3898,
+      "forks": 336,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "numtide / system-manager",
+      "url": "https://github.com/numtide/system-manager",
+      "description": "Manage system config using nix on any distro",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1663,
+      "forks": 56,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "chaotic-cx / nyx",
+      "url": "https://github.com/chaotic-cx/nyx",
+      "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 730,
+      "forks": 78,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "nix-community / disko",
@@ -102,17 +112,7 @@
       "languageColor": "#7e7eff",
       "stars": 3226,
       "forks": 318,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "nix-community / ethereum.nix",
-      "url": "https://github.com/nix-community/ethereum.nix",
-      "description": "Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon,@bbjubjub2494]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 154,
-      "forks": 45,
-      "added_stars": "0 stars this week"
+      "added_stars": "15 stars this week"
     },
     {
       "title": "Misterio77 / nix-starter-configs",
@@ -121,28 +121,8 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": 3781,
-      "forks": 177,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "microvm-nix / microvm.nix",
-      "url": "https://github.com/microvm-nix/microvm.nix",
-      "description": "NixOS MicroVMs",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2799,
-      "forks": 219,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "numtide / system-manager",
-      "url": "https://github.com/numtide/system-manager",
-      "description": "Manage system config using nix on any distro",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1662,
-      "forks": 56,
-      "added_stars": "12 stars this week"
+      "forks": 178,
+      "added_stars": "9 stars this week"
     }
   ]
 }

@@ -2,16 +2,36 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
-      "title": "Azure / bicep-registry-modules",
-      "url": "https://github.com/Azure/bicep-registry-modules",
-      "description": "Bicep registry modules",
+      "title": "MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator",
+      "url": "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator",
+      "description": "AZ-104 Microsoft Azure Administrator",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 734,
-      "forks": 557,
+      "stars": 4545,
+      "forks": 4485,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "Azure / azure-quickstart-templates",
+      "url": "https://github.com/Azure/azure-quickstart-templates",
+      "description": "Azure Quickstart Templates",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 14841,
+      "forks": 16211,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Azure / bicep",
+      "url": "https://github.com/Azure/bicep",
+      "description": "Bicep is a declarative language for describing and deploying Azure resources",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 3623,
+      "forks": 821,
       "added_stars": "0 stars today"
     },
     {
@@ -20,29 +40,9 @@
       "description": "Embedded samples in Azure AI Foundry docs",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 407,
-      "forks": 449,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator",
-      "url": "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator",
-      "description": "AZ-104 Microsoft Azure Administrator",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 4542,
-      "forks": 4483,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "microsoft / azure-container-apps",
-      "url": "https://github.com/microsoft/azure-container-apps",
-      "description": "Roadmap and issues for Azure Container Apps",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 443,
-      "forks": 54,
-      "added_stars": "0 stars today"
+      "stars": 409,
+      "forks": 450,
+      "added_stars": "1 star today"
     }
   ]
 }

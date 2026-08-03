@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "simplex-chat / simplex-chat",
@@ -10,19 +10,9 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19157,
+      "stars": 19169,
       "forks": 1290,
-      "added_stars": "1,869 stars this month"
-    },
-    {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 39798,
-      "forks": 1937,
-      "added_stars": "197 stars this month"
+      "added_stars": "1,773 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -30,19 +20,19 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12328,
+      "stars": 12330,
       "forks": 502,
-      "added_stars": "78 stars this month"
+      "added_stars": "79 stars this month"
     },
     {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2903,
-      "forks": 419,
-      "added_stars": "24 stars this month"
+      "stars": 39806,
+      "forks": 1937,
+      "added_stars": "205 stars this month"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -50,9 +40,19 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1486,
-      "forks": 63,
-      "added_stars": "241 stars this month"
+      "stars": 1492,
+      "forks": 64,
+      "added_stars": "240 stars this month"
+    },
+    {
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2905,
+      "forks": 419,
+      "added_stars": "23 stars this month"
     },
     {
       "title": "haskell / cabal",
@@ -61,8 +61,38 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 1743,
-      "forks": 740,
+      "forks": 741,
       "added_stars": "7 stars this month"
+    },
+    {
+      "title": "commercialhaskell / stack",
+      "url": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 4072,
+      "forks": 848,
+      "added_stars": "7 stars this month"
+    },
+    {
+      "title": "elm / compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 7849,
+      "forks": 687,
+      "added_stars": "58 stars this month"
+    },
+    {
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 45648,
+      "forks": 3930,
+      "added_stars": "537 stars this month"
     },
     {
       "title": "IntersectMBO / cardano-node",
@@ -75,34 +105,14 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "elm / compiler",
-      "url": "https://github.com/elm/compiler",
-      "description": "Compiler for Elm, a functional language for reliable webapps.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 7846,
-      "forks": 686,
-      "added_stars": "59 stars this month"
-    },
-    {
-      "title": "jgm / pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 45639,
-      "forks": 3929,
-      "added_stars": "548 stars this month"
-    },
-    {
       "title": "PostgREST / postgrest",
       "url": "https://github.com/PostgREST/postgrest",
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27485,
+      "stars": 27488,
       "forks": 1218,
-      "added_stars": "122 stars this month"
+      "added_stars": "120 stars this month"
     },
     {
       "title": "mtolly / onyx",
@@ -110,7 +120,7 @@
       "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 287,
+      "stars": 288,
       "forks": 22,
       "added_stars": "4 stars this month"
     },
@@ -122,17 +132,17 @@
       "languageColor": "#5e5086",
       "stars": 4604,
       "forks": 401,
-      "added_stars": "49 stars this month"
+      "added_stars": "50 stars this month"
     },
     {
-      "title": "clash-lang / clash-compiler",
-      "url": "https://github.com/clash-lang/clash-compiler",
-      "description": "Haskell to VHDL/Verilog/SystemVerilog compiler",
+      "title": "haskell / haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1604,
-      "forks": 167,
-      "added_stars": "10 stars this month"
+      "stars": 2942,
+      "forks": 451,
+      "added_stars": "11 stars this month"
     }
   ]
 }

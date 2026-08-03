@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "openwrt / packages",
@@ -12,17 +12,7 @@
       "languageColor": "#427819",
       "stars": 4568,
       "forks": 3931,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "deepseek-ai / DeepSeek-LLM",
-      "url": "https://github.com/deepseek-ai/DeepSeek-LLM",
-      "description": "DeepSeek LLM: Let there be answers",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 7178,
-      "forks": 1234,
-      "added_stars": "35 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "ROCKNIX / distribution",
@@ -30,19 +20,19 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1459,
-      "forks": 319,
+      "stars": 1462,
+      "forks": 322,
       "added_stars": "18 stars this week"
     },
     {
-      "title": "PartialVolume / shredos.x86_64",
-      "url": "https://github.com/PartialVolume/shredos.x86_64",
-      "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
+      "title": "golang-standards / project-layout",
+      "url": "https://github.com/golang-standards/project-layout",
+      "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 3097,
-      "forks": 138,
-      "added_stars": "9 stars this week"
+      "stars": 56377,
+      "forks": 5429,
+      "added_stars": "51 stars this week"
     },
     {
       "title": "open-telemetry / opentelemetry-proto",
@@ -50,19 +40,39 @@
       "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 799,
+      "stars": 800,
       "forks": 318,
       "added_stars": "2 stars this week"
     },
     {
-      "title": "awesome-selfhosted / awesome-selfhosted-data",
-      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
-      "description": "machine-readable data for https://awesome-selfhosted.net",
+      "title": "deepseek-ai / DeepSeek-LLM",
+      "url": "https://github.com/deepseek-ai/DeepSeek-LLM",
+      "description": "DeepSeek LLM: Let there be answers",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1083,
-      "forks": 1219,
-      "added_stars": "12 stars this week"
+      "stars": 7182,
+      "forks": 1235,
+      "added_stars": "31 stars this week"
+    },
+    {
+      "title": "foostan / crkbd",
+      "url": "https://github.com/foostan/crkbd",
+      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7574,
+      "forks": 1098,
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "HaveAGitGat / Tdarr",
+      "url": "https://github.com/HaveAGitGat/Tdarr",
+      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4254,
+      "forks": 120,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "geneontology / go-ontology",
@@ -80,29 +90,19 @@
       "description": "Utility functions for dbt projects.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1784,
+      "stars": 1785,
       "forks": 630,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "golang-standards / project-layout",
-      "url": "https://github.com/golang-standards/project-layout",
-      "description": "Standard Go Project Layout",
+      "title": "awesome-selfhosted / awesome-selfhosted-data",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
+      "description": "machine-readable data for https://awesome-selfhosted.net",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 56373,
-      "forks": 5430,
-      "added_stars": "53 stars this week"
-    },
-    {
-      "title": "foostan / crkbd",
-      "url": "https://github.com/foostan/crkbd",
-      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 7575,
-      "forks": 1096,
-      "added_stars": "23 stars this week"
+      "stars": 1085,
+      "forks": 1223,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "upbound / build",
@@ -115,44 +115,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Ysurac / openmptcprouter",
-      "url": "https://github.com/Ysurac/openmptcprouter",
-      "description": "OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 2443,
-      "forks": 348,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "HaveAGitGat / Tdarr",
-      "url": "https://github.com/HaveAGitGat/Tdarr",
-      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4253,
-      "forks": 120,
-      "added_stars": "18 stars this week"
-    },
-    {
       "title": "open-telemetry / opentelemetry-specification",
       "url": "https://github.com/open-telemetry/opentelemetry-specification",
       "description": "Specifications for OpenTelemetry",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4296,
+      "stars": 4298,
       "forks": 992,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "roboyoshi / datacurator-filetree",
-      "url": "https://github.com/roboyoshi/datacurator-filetree",
-      "description": "a standard filetree for /r/datacurator [ and r/datahoarder ]",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1642,
-      "forks": 135,
-      "added_stars": "1 star this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "cncf / people",
@@ -163,6 +133,26 @@
       "stars": 173,
       "forks": 642,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "Ysurac / openmptcprouter",
+      "url": "https://github.com/Ysurac/openmptcprouter",
+      "description": "OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 2445,
+      "forks": 348,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "PartialVolume / shredos.x86_64",
+      "url": "https://github.com/PartialVolume/shredos.x86_64",
+      "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 3098,
+      "forks": 138,
+      "added_stars": "8 stars this week"
     }
   ]
 }

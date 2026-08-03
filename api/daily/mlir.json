@@ -2,15 +2,35 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
+    {
+      "title": "openxla / stablehlo",
+      "url": "https://github.com/openxla/stablehlo",
+      "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 678,
+      "forks": 212,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "tenstorrent / tt-mlir",
+      "url": "https://github.com/tenstorrent/tt-mlir",
+      "description": "Tenstorrent MLIR compiler",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 295,
+      "forks": 140,
+      "added_stars": "1 star today"
+    },
     {
       "title": "triton-lang / triton",
       "url": "https://github.com/triton-lang/triton",
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 19834,
+      "stars": 19841,
       "forks": 3069,
       "added_stars": "6 stars today"
     },
@@ -25,26 +45,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "triton-lang / triton-ascend",
-      "url": "https://github.com/triton-lang/triton-ascend",
-      "description": "Triton language and compiler for Ascend NPU",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 124,
-      "forks": 169,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "openxla / stablehlo",
-      "url": "https://github.com/openxla/stablehlo",
-      "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 678,
-      "forks": 212,
-      "added_stars": "1 star today"
-    },
-    {
       "title": "ROCm / rocMLIR",
       "url": "https://github.com/ROCm/rocMLIR",
       "description": "",
@@ -52,6 +52,16 @@
       "languageColor": "#5EC8DB",
       "stars": 188,
       "forks": 57,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "triton-lang / triton-ascend",
+      "url": "https://github.com/triton-lang/triton-ascend",
+      "description": "Triton language and compiler for Ascend NPU",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 125,
+      "forks": 169,
       "added_stars": "0 stars today"
     }
   ]

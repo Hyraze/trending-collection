@@ -2,28 +2,8 @@
   "title": "GitHub Hlsl Languages Daily Trending",
   "description": "Daily Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
-    {
-      "title": "Blinue / Magpie",
-      "url": "https://github.com/Blinue/Magpie",
-      "description": "A general-purpose window upscaler for Windows 10/11.",
-      "language": "HLSL",
-      "languageColor": "#aace60",
-      "stars": 14269,
-      "forks": 581,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "JamesCJ60 / Universal-x86-Tuning-Utility",
-      "url": "https://github.com/JamesCJ60/Universal-x86-Tuning-Utility",
-      "description": "Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.",
-      "language": "HLSL",
-      "languageColor": "#aace60",
-      "stars": 2734,
-      "forks": 88,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "clshortfuse / renodx",
       "url": "https://github.com/clshortfuse/renodx",
@@ -32,7 +12,27 @@
       "languageColor": "#aace60",
       "stars": 1562,
       "forks": 115,
-      "added_stars": "4 stars today"
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Blinue / Magpie",
+      "url": "https://github.com/Blinue/Magpie",
+      "description": "A general-purpose window upscaler for Windows 10/11.",
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 14273,
+      "forks": 582,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "crosire / reshade-shaders",
+      "url": "https://github.com/crosire/reshade-shaders",
+      "description": "A collection of post-processing shaders written for ReShade.",
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 1185,
+      "forks": 422,
+      "added_stars": "0 stars today"
     },
     {
       "title": "leotorrez / ZZMI-Package",
@@ -40,9 +40,29 @@
       "description": "NOT INTENDED FOR WIDE USE",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 48,
+      "stars": 49,
       "forks": 10,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "RetroBat-Official / retrobat",
+      "url": "https://github.com/RetroBat-Official/retrobat",
+      "description": "RetroBat repository",
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 222,
+      "forks": 17,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "JamesCJ60 / Universal-x86-Tuning-Utility",
+      "url": "https://github.com/JamesCJ60/Universal-x86-Tuning-Utility",
+      "description": "Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.",
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 2735,
+      "forks": 88,
+      "added_stars": "1 star today"
     },
     {
       "title": "ray-cast / ray-mmd",
@@ -52,7 +72,7 @@
       "languageColor": "#aace60",
       "stars": 1904,
       "forks": 574,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     }
   ]
 }

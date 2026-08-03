@@ -4,11 +4,16 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:24:59 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
   <item>
     <title>alibaba / open-code-review</title>
     <link>https://github.com/alibaba/open-code-review</link>
-    <description>Open-source &amp; free — Battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+    <description>Open-source &amp; free — Battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+  </item>
+  <item>
+    <title>benbjohnson / litestream</title>
+    <link>https://github.com/benbjohnson/litestream</link>
+    <description>Streaming replication for SQLite.</description>
   </item>
   <item>
     <title>yorukot / superfile</title>
@@ -21,16 +26,6 @@
     <description>GitHub’s official command line tool</description>
   </item>
   <item>
-    <title>ollama / ollama</title>
-    <link>https://github.com/ollama/ollama</link>
-    <description>Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
-  </item>
-  <item>
-    <title>benbjohnson / litestream</title>
-    <link>https://github.com/benbjohnson/litestream</link>
-    <description>Streaming replication for SQLite.</description>
-  </item>
-  <item>
     <title>github / gh-stack</title>
     <link>https://github.com/github/gh-stack</link>
     <description>GitHub Stacked PRs</description>
@@ -41,19 +36,9 @@
     <description>GitHub Agentic Workflows</description>
   </item>
   <item>
-    <title>wavetermdev / waveterm</title>
-    <link>https://github.com/wavetermdev/waveterm</link>
-    <description>An open-source, AI-integrated, cross-platform terminal for seamless workflows</description>
-  </item>
-  <item>
-    <title>Wei-Shaw / sub2api</title>
-    <link>https://github.com/Wei-Shaw/sub2api</link>
-    <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
-  </item>
-  <item>
-    <title>evolution-foundation / evolution-go</title>
-    <link>https://github.com/evolution-foundation/evolution-go</link>
-    <description>Evolution API / Evolution Go is an open-source WhatsApp integration API</description>
+    <title>ollama / ollama</title>
+    <link>https://github.com/ollama/ollama</link>
+    <description>Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
   </item>
   <item>
     <title>infiniflow / ragflow</title>
@@ -61,19 +46,9 @@
     <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
   </item>
   <item>
-    <title>rclone / rclone</title>
-    <link>https://github.com/rclone/rclone</link>
-    <description>&quot;rsync for cloud storage&quot; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</description>
-  </item>
-  <item>
-    <title>grafana / gcx</title>
-    <link>https://github.com/grafana/gcx</link>
-    <description>A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.</description>
-  </item>
-  <item>
-    <title>hatchet-dev / hatchet</title>
-    <link>https://github.com/hatchet-dev/hatchet</link>
-    <description>🪓 An orchestration engine for background tasks, AI agents, and durable workflows</description>
+    <title>mudler / LocalAI</title>
+    <link>https://github.com/mudler/LocalAI</link>
+    <description>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</description>
   </item>
   <item>
     <title>traefik / traefik</title>
@@ -81,14 +56,44 @@
     <description>The Cloud Native Application Proxy</description>
   </item>
   <item>
+    <title>temporalio / temporal</title>
+    <link>https://github.com/temporalio/temporal</link>
+    <description>Temporal service</description>
+  </item>
+  <item>
+    <title>ccfos / nightingale</title>
+    <link>https://github.com/ccfos/nightingale</link>
+    <description>Nightingale is to monitoring and alerting what Grafana is to visualization.</description>
+  </item>
+  <item>
     <title>micro-editor / micro</title>
     <link>https://github.com/micro-editor/micro</link>
     <description>A modern and intuitive terminal-based text editor</description>
   </item>
   <item>
-    <title>xpzouying / xiaohongshu-mcp</title>
-    <link>https://github.com/xpzouying/xiaohongshu-mcp</link>
-    <description>MCP for xiaohongshu.com</description>
+    <title>evcc-io / evcc</title>
+    <link>https://github.com/evcc-io/evcc</link>
+    <description>solar charging ☀️🚘</description>
+  </item>
+  <item>
+    <title>getprobo / probo</title>
+    <link>https://github.com/getprobo/probo</link>
+    <description>Open source solutions for SOC2, GDPR, and ISO27001</description>
+  </item>
+  <item>
+    <title>grafana / gcx</title>
+    <link>https://github.com/grafana/gcx</link>
+    <description>A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.</description>
+  </item>
+  <item>
+    <title>gtsteffaniak / filebrowser</title>
+    <link>https://github.com/gtsteffaniak/filebrowser</link>
+    <description>📂 Web File Browser</description>
+  </item>
+  <item>
+    <title>evolution-foundation / evolution-go</title>
+    <link>https://github.com/evolution-foundation/evolution-go</link>
+    <description>Evolution API / Evolution Go is an open-source WhatsApp integration API</description>
   </item>
   <item>
     <title>Ed1s0nZ / CyberStrikeAI</title>
@@ -96,24 +101,19 @@
     <description>The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.</description>
   </item>
   <item>
-    <title>temporalio / temporal</title>
-    <link>https://github.com/temporalio/temporal</link>
-    <description>Temporal service</description>
+    <title>agent-substrate / substrate</title>
+    <link>https://github.com/agent-substrate/substrate</link>
+    <description>Agent Substrate: the core system</description>
   </item>
   <item>
-    <title>moby / moby</title>
-    <link>https://github.com/moby/moby</link>
-    <description>The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
+    <title>binwiederhier / ntfy</title>
+    <link>https://github.com/binwiederhier/ntfy</link>
+    <description>Send push notifications to your phone or desktop using PUT/POST</description>
   </item>
   <item>
-    <title>grafana / alloy</title>
-    <link>https://github.com/grafana/alloy</link>
-    <description>OpenTelemetry Collector distribution with programmable pipelines</description>
-  </item>
-  <item>
-    <title>podman-container-tools / podman</title>
-    <link>https://github.com/podman-container-tools/podman</link>
-    <description>Podman: A tool for managing OCI containers and pods.</description>
+    <title>Wei-Shaw / sub2api</title>
+    <link>https://github.com/Wei-Shaw/sub2api</link>
+    <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
   </item>
 </channel>
 </rss>

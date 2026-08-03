@@ -2,7 +2,7 @@
   "title": "GitHub Nim Languages Daily Trending",
   "description": "Daily Trending of Nim Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "zedeus / nitter",
@@ -10,9 +10,9 @@
       "description": "Alternative Twitter front-end",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 13379,
+      "stars": 13385,
       "forks": 748,
-      "added_stars": "47 stars this week"
+      "added_stars": "45 stars this week"
     },
     {
       "title": "nim-lang / Nim",
@@ -20,9 +20,9 @@
       "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 18150,
-      "forks": 1544,
-      "added_stars": "22 stars this week"
+      "stars": 18152,
+      "forks": 1545,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "logos-messaging / logos-delivery",
@@ -31,17 +31,7 @@
       "language": "Nim",
       "languageColor": "#ffc200",
       "stars": 249,
-      "forks": 86,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "nim-lang / packages",
-      "url": "https://github.com/nim-lang/packages",
-      "description": "List of packages for Nimble",
-      "language": "Nim",
-      "languageColor": "#ffc200",
-      "stars": 498,
-      "forks": 778,
+      "forks": 87,
       "added_stars": "0 stars this week"
     },
     {
@@ -52,6 +42,16 @@
       "languageColor": "#ffc200",
       "stars": 625,
       "forks": 160,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "status-im / nim-stew",
+      "url": "https://github.com/status-im/nim-stew",
+      "description": "stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 154,
+      "forks": 22,
       "added_stars": "0 stars this week"
     },
     {

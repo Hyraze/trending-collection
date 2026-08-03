@@ -2,97 +2,67 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
+    {
+      "title": "HarbourMasters / Lighthouse",
+      "url": "https://github.com/HarbourMasters/Lighthouse",
+      "description": "",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 253,
+      "forks": 19,
+      "added_stars": "65 stars today"
+    },
     {
       "title": "antirez / ds4",
       "url": "https://github.com/antirez/ds4",
       "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 19777,
-      "forks": 1758,
-      "added_stars": "150 stars today"
+      "stars": 20091,
+      "forks": 1782,
+      "added_stars": "139 stars today"
     },
     {
-      "title": "espressif / esp-idf",
-      "url": "https://github.com/espressif/esp-idf",
-      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 18678,
-      "forks": 8410,
-      "added_stars": "9 stars today"
+      "stars": 474,
+      "forks": 139,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "Mbed-TLS / mbedtls",
-      "url": "https://github.com/Mbed-TLS/mbedtls",
-      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "title": "meshcore-dev / MeshCore",
+      "url": "https://github.com/meshcore-dev/MeshCore",
+      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6847,
-      "forks": 2940,
-      "added_stars": "5 stars today"
+      "stars": 3363,
+      "forks": 1168,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "microsoft / PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "title": "xiaojieonly / Ehviewer_CN_SXJ",
+      "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+      "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 137365,
-      "forks": 8388,
-      "added_stars": "39 stars today"
+      "stars": 25801,
+      "forks": 682,
+      "added_stars": "32 stars today"
     },
     {
-      "title": "FreeRTOS / FreeRTOS-Kernel",
-      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
-      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "title": "nginx / nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4390,
-      "forks": 1584,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "DarkFlippers / unleashed-firmware",
-      "url": "https://github.com/DarkFlippers/unleashed-firmware",
-      "description": "Flipper Zero Unleashed Firmware",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 21967,
-      "forks": 1921,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "jqlang / jq",
-      "url": "https://github.com/jqlang/jq",
-      "description": "Command-line JSON processor",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 35310,
-      "forks": 1816,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "pgvector / pgvector",
-      "url": "https://github.com/pgvector/pgvector",
-      "description": "Open-source vector similarity search for Postgres",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 22439,
-      "forks": 1263,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "obsproject / obs-studio",
-      "url": "https://github.com/obsproject/obs-studio",
-      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 74386,
-      "forks": 9514,
-      "added_stars": "44 stars today"
+      "stars": 31317,
+      "forks": 8193,
+      "added_stars": "17 stars today"
     },
     {
       "title": "erincatto / box3d",
@@ -100,79 +70,109 @@
       "description": "Box3D is a 3D physics engine for games",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5756,
-      "forks": 282,
-      "added_stars": "42 stars today"
+      "stars": 5778,
+      "forks": 286,
+      "added_stars": "20 stars today"
     },
     {
-      "title": "RightNow-AI / picolm",
-      "url": "https://github.com/RightNow-AI/picolm",
-      "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "title": "brunodev85 / winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1876,
-      "forks": 234,
-      "added_stars": "39 stars today"
+      "stars": 18451,
+      "forks": 1583,
+      "added_stars": "17 stars today"
     },
     {
-      "title": "vedderb / bldc",
-      "url": "https://github.com/vedderb/bldc",
-      "description": "The VESC motor control firmware",
+      "title": "obsproject / obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3308,
-      "forks": 1895,
-      "added_stars": "0 stars today"
+      "stars": 74446,
+      "forks": 9530,
+      "added_stars": "74 stars today"
     },
     {
-      "title": "hrvach / deskhop",
-      "url": "https://github.com/hrvach/deskhop",
-      "description": "Fast Desktop Switching Device",
+      "title": "Klipper3d / klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7829,
-      "forks": 285,
-      "added_stars": "19 stars today"
+      "stars": 11787,
+      "forks": 5923,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "glfw / glfw",
-      "url": "https://github.com/glfw/glfw",
-      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "title": "mpv-player / mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 15224,
-      "forks": 5906,
-      "added_stars": "7 stars today"
+      "stars": 36308,
+      "forks": 3452,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "ThrowTheSwitch / Unity",
-      "url": "https://github.com/ThrowTheSwitch/Unity",
-      "description": "Simple unit testing for C",
+      "title": "TsudaKageyu / minhook",
+      "url": "https://github.com/TsudaKageyu/minhook",
+      "description": "The Minimalistic x86/x64 API Hooking Library for Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5328,
-      "forks": 1124,
-      "added_stars": "0 stars today"
+      "stars": 5896,
+      "forks": 1072,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "lvgl / lvgl",
-      "url": "https://github.com/lvgl/lvgl",
-      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+      "title": "libsdl-org / SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple DirectMedia Layer",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24273,
-      "forks": 4272,
-      "added_stars": "5 stars today"
+      "stars": 16243,
+      "forks": 2892,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "fluent / fluent-bit",
-      "url": "https://github.com/fluent/fluent-bit",
-      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "title": "olikraus / u8g2",
+      "url": "https://github.com/olikraus/u8g2",
+      "description": "U8glib library for monochrome displays, version 2",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8003,
-      "forks": 1957,
+      "stars": 6607,
+      "forks": 1216,
       "added_stars": "4 stars today"
+    },
+    {
+      "title": "lcdyk0517 / arkos4clone",
+      "url": "https://github.com/lcdyk0517/arkos4clone",
+      "description": "ArkOS for Unofficial Devices",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 609,
+      "forks": 317,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "bmax121 / KernelPatch",
+      "url": "https://github.com/bmax121/KernelPatch",
+      "description": "Patching and hooking the Linux kernel with only a stripped Linux kernel image.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1454,
+      "forks": 358,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "SanderMertens / flecs",
+      "url": "https://github.com/SanderMertens/flecs",
+      "description": "A fast entity component system (ECS) for C & C++",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8547,
+      "forks": 609,
+      "added_stars": "5 stars today"
     }
   ]
 }

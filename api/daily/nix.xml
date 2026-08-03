@@ -4,16 +4,11 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:22:49 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
   <item>
     <title>nix-community / home-manager</title>
     <link>https://github.com/nix-community/home-manager</link>
     <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
-  </item>
-  <item>
-    <title>supabase / postgres</title>
-    <link>https://github.com/supabase/postgres</link>
-    <description>Unmodified Postgres with some useful extensions</description>
   </item>
   <item>
     <title>NixOS / nixpkgs</title>
@@ -21,9 +16,9 @@
     <description>Nix Packages collection &amp; NixOS</description>
   </item>
   <item>
-    <title>oxalica / rust-overlay</title>
-    <link>https://github.com/oxalica/rust-overlay</link>
-    <description>Pure and reproducible nix overlay of binary distributed rust toolchains</description>
+    <title>nix-community / stylix</title>
+    <link>https://github.com/nix-community/stylix</link>
+    <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
   </item>
   <item>
     <title>nix-community / ethereum.nix</title>
@@ -31,14 +26,9 @@
     <description>Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon,@bbjubjub2494]</description>
   </item>
   <item>
-    <title>nix-community / impermanence</title>
-    <link>https://github.com/nix-community/impermanence</link>
-    <description>Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]</description>
-  </item>
-  <item>
-    <title>NixOS / nix.dev</title>
-    <link>https://github.com/NixOS/nix.dev</link>
-    <description>Official documentation for getting things done with Nix.</description>
+    <title>numtide / system-manager</title>
+    <link>https://github.com/numtide/system-manager</link>
+    <description>Manage system config using nix on any distro</description>
   </item>
   <item>
     <title>nix-community / disko</title>
@@ -46,9 +36,34 @@
     <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
   </item>
   <item>
+    <title>NixOS / nix.dev</title>
+    <link>https://github.com/NixOS/nix.dev</link>
+    <description>Official documentation for getting things done with Nix.</description>
+  </item>
+  <item>
     <title>numtide / llm-agents.nix</title>
     <link>https://github.com/numtide/llm-agents.nix</link>
     <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
+  </item>
+  <item>
+    <title>oxalica / rust-overlay</title>
+    <link>https://github.com/oxalica/rust-overlay</link>
+    <description>Pure and reproducible nix overlay of binary distributed rust toolchains</description>
+  </item>
+  <item>
+    <title>Mic92 / sops-nix</title>
+    <link>https://github.com/Mic92/sops-nix</link>
+    <description>Atomic secret provisioning for NixOS based on sops</description>
+  </item>
+  <item>
+    <title>NixOS / nixos-hardware</title>
+    <link>https://github.com/NixOS/nixos-hardware</link>
+    <description>A collection of NixOS modules covering hardware quirks.</description>
+  </item>
+  <item>
+    <title>hercules-ci / flake-parts</title>
+    <link>https://github.com/hercules-ci/flake-parts</link>
+    <description>❄️ Simplify Nix Flakes with the module system</description>
   </item>
   <item>
     <title>nix-darwin / nix-darwin</title>
@@ -56,9 +71,9 @@
     <description>Manage your macOS using Nix</description>
   </item>
   <item>
-    <title>NixOS / nixos-hardware</title>
-    <link>https://github.com/NixOS/nixos-hardware</link>
-    <description>A collection of NixOS modules covering hardware quirks.</description>
+    <title>supabase / postgres</title>
+    <link>https://github.com/supabase/postgres</link>
+    <description>Unmodified Postgres with some useful extensions</description>
   </item>
 </channel>
 </rss>

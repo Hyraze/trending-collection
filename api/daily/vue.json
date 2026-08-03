@@ -2,88 +2,8 @@
   "title": "GitHub Vue Languages Daily Trending",
   "description": "Daily Trending of Vue Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
-    {
-      "title": "keleus / BewlyCat",
-      "url": "https://github.com/keleus/BewlyCat",
-      "description": "BewlyCat——基于BewlyBewly开发的Bilibili拓展",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 3841,
-      "forks": 109,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "vbenjs / vue-vben-admin",
-      "url": "https://github.com/vbenjs/vue-vben-admin",
-      "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 33020,
-      "forks": 8900,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "Daymychen / art-design-pro",
-      "url": "https://github.com/Daymychen/art-design-pro",
-      "description": "A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 5662,
-      "forks": 1079,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "FreeTubeApp / FreeTube",
-      "url": "https://github.com/FreeTubeApp/FreeTube",
-      "description": "An Open Source YouTube app for privacy",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 21575,
-      "forks": 1463,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "CorentinTh / it-tools",
-      "url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX.",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 40040,
-      "forks": 5272,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "wux1an / wxapkg",
-      "url": "https://github.com/wux1an/wxapkg",
-      "description": "跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 3920,
-      "forks": 800,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "frappe / crm",
-      "url": "https://github.com/frappe/crm",
-      "description": "Fully featured, open source CRM",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 3052,
-      "forks": 1276,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "chenjigang4167 / testhub_platform",
-      "url": "https://github.com/chenjigang4167/testhub_platform",
-      "description": "AI-Powered Testing Platform",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 716,
-      "forks": 322,
-      "added_stars": "1 star today"
-    },
     {
       "title": "RikkaApps / websites",
       "url": "https://github.com/RikkaApps/websites",
@@ -91,18 +11,68 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": 425,
-      "forks": 55349,
+      "forks": 55585,
       "added_stars": "0 stars today"
     },
     {
-      "title": "vuejs / docs",
-      "url": "https://github.com/vuejs/docs",
-      "description": "📄 Documentation for Vue 3",
+      "title": "FreeTubeApp / FreeTube",
+      "url": "https://github.com/FreeTubeApp/FreeTube",
+      "description": "An Open Source YouTube app for privacy",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 3233,
-      "forks": 5038,
-      "added_stars": "0 stars today"
+      "stars": 21583,
+      "forks": 1464,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "keleus / BewlyCat",
+      "url": "https://github.com/keleus/BewlyCat",
+      "description": "BewlyCat——基于BewlyBewly开发的Bilibili拓展",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 3858,
+      "forks": 110,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "FoggedLens / deflock",
+      "url": "https://github.com/FoggedLens/deflock",
+      "description": "Crowdsourced tool for locating and reporting ALPRs",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 785,
+      "forks": 96,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "algerkong / AlgerMusicPlayer",
+      "url": "https://github.com/algerkong/AlgerMusicPlayer",
+      "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 16287,
+      "forks": 1329,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "vueComponent / ant-design-vue",
+      "url": "https://github.com/vueComponent/ant-design-vue",
+      "description": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 21608,
+      "forks": 3900,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ljxi / Cloudflare-R2-oss",
+      "url": "https://github.com/ljxi/Cloudflare-R2-oss",
+      "description": "利用Cloudflare R2 + Workers搭建在线网盘",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 482,
+      "forks": 1621,
+      "added_stars": "6 stars today"
     },
     {
       "title": "RLS-Modding / rls_career_overhaul",
@@ -115,13 +85,93 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "frappe / helpdesk",
-      "url": "https://github.com/frappe/helpdesk",
-      "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
+      "title": "Virtual-Browser / VirtualBrowser",
+      "url": "https://github.com/Virtual-Browser/VirtualBrowser",
+      "description": "Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 3277,
-      "forks": 897,
+      "stars": 3030,
+      "forks": 480,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "xiaoshengxianjun / 51mazi",
+      "url": "https://github.com/xiaoshengxianjun/51mazi",
+      "description": "我要码字，这可能会是最好用的小说写作软件。51mazi是一款基于 Electron + Vue 3 技术栈开发的桌面小说写作软件，专为小说创作者设计，它不仅集成了随机取名，小说地图设计、关系图谱、人物档案，时间线等创作辅助工具，还集成了AI写作、AI生成封面，AI生成人物图等AI辅助功能，此外，还支持网文小说下载，让小说创作变得更加高效和有趣。",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 420,
+      "forks": 65,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "CorentinTh / it-tools",
+      "url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 40056,
+      "forks": 5275,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "vuejs / docs",
+      "url": "https://github.com/vuejs/docs",
+      "description": "📄 Documentation for Vue 3",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 3234,
+      "forks": 5040,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "yuhonas / free-exercise-db",
+      "url": "https://github.com/yuhonas/free-exercise-db",
+      "description": "Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 1707,
+      "forks": 444,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "PanJiaChen / vue-element-admin",
+      "url": "https://github.com/PanJiaChen/vue-element-admin",
+      "description": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 90238,
+      "forks": 30375,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "julyx10 / lap",
+      "url": "https://github.com/julyx10/lap",
+      "description": "An offline-first photo manager for large local libraries",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 1400,
+      "forks": 62,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "vbenjs / vue-vben-admin",
+      "url": "https://github.com/vbenjs/vue-vben-admin",
+      "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 33023,
+      "forks": 8900,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "unovue / reka-ui",
+      "url": "https://github.com/unovue/reka-ui",
+      "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 6691,
+      "forks": 536,
       "added_stars": "3 stars today"
     },
     {
@@ -130,19 +180,19 @@
       "description": "Brown Dust 2 Mod Manager to help you manage mods.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 332,
+      "stars": 334,
       "forks": 18,
       "added_stars": "2 stars today"
     },
     {
-      "title": "frappe / builder",
-      "url": "https://github.com/frappe/builder",
-      "description": "Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly",
+      "title": "cfw-guide / ios.cfw.guide",
+      "url": "https://github.com/cfw-guide/ios.cfw.guide",
+      "description": "A complete iOS modding guide, from stock to jailbroken.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 2211,
-      "forks": 496,
-      "added_stars": "4 stars today"
+      "stars": 747,
+      "forks": 198,
+      "added_stars": "0 stars today"
     }
   ]
 }

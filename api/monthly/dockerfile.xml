@@ -4,11 +4,11 @@
   <title>GitHub Dockerfile Languages Daily Trending</title>
   <description>Daily Trending of Dockerfile Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:27:08 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
   <item>
-    <title>vulhub / vulhub</title>
-    <link>https://github.com/vulhub/vulhub</link>
-    <description>Pre-Built Vulnerable Environments Based on Docker-Compose</description>
+    <title>autowarefoundation / autoware</title>
+    <link>https://github.com/autowarefoundation/autoware</link>
+    <description>Autoware - the world&#x27;s leading open-source software project for autonomous driving</description>
   </item>
   <item>
     <title>goldbergyoni / nodebestpractices</title>
@@ -16,14 +16,9 @@
     <description>✅ The Node.js best practices list (July 2026)</description>
   </item>
   <item>
-    <title>autowarefoundation / autoware</title>
-    <link>https://github.com/autowarefoundation/autoware</link>
-    <description>Autoware - the world&#x27;s leading open-source software project for autonomous driving</description>
-  </item>
-  <item>
-    <title>freeCodeCamp / rdb-alpha</title>
-    <link>https://github.com/freeCodeCamp/rdb-alpha</link>
-    <description></description>
+    <title>vulhub / vulhub</title>
+    <link>https://github.com/vulhub/vulhub</link>
+    <description>Pre-Built Vulnerable Environments Based on Docker-Compose</description>
   </item>
   <item>
     <title>corretto / corretto-docker</title>
@@ -31,9 +26,9 @@
     <description>Dockerfiles for Amazon Corretto Official images.</description>
   </item>
   <item>
-    <title>piyushsachdeva / CKA-2024</title>
-    <link>https://github.com/piyushsachdeva/CKA-2024</link>
-    <description>This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.</description>
+    <title>freeCodeCamp / rdb-alpha</title>
+    <link>https://github.com/freeCodeCamp/rdb-alpha</link>
+    <description></description>
   </item>
   <item>
     <title>kubernetes-sigs / contributor-playground</title>
@@ -41,19 +36,9 @@
     <description></description>
   </item>
   <item>
-    <title>MicrosoftDocs / windows-powershell-docs</title>
-    <link>https://github.com/MicrosoftDocs/windows-powershell-docs</link>
-    <description>This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.</description>
-  </item>
-  <item>
-    <title>Gar-b-age / CookLikeHOC</title>
-    <link>https://github.com/Gar-b-age/CookLikeHOC</link>
-    <description>🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</description>
-  </item>
-  <item>
-    <title>docker-library / php</title>
-    <link>https://github.com/docker-library/php</link>
-    <description>Docker Official Image packaging for PHP</description>
+    <title>piyushsachdeva / CKA-2024</title>
+    <link>https://github.com/piyushsachdeva/CKA-2024</link>
+    <description>This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.</description>
   </item>
   <item>
     <title>microsoft / vscode-remote-release</title>
@@ -61,14 +46,19 @@
     <description>Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#x27;s full feature set.</description>
   </item>
   <item>
+    <title>MicrosoftDocs / windows-powershell-docs</title>
+    <link>https://github.com/MicrosoftDocs/windows-powershell-docs</link>
+    <description>This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.</description>
+  </item>
+  <item>
+    <title>docker-library / php</title>
+    <link>https://github.com/docker-library/php</link>
+    <description>Docker Official Image packaging for PHP</description>
+  </item>
+  <item>
     <title>aws-amplify / amplify-hosting</title>
     <link>https://github.com/aws-amplify/amplify-hosting</link>
     <description>AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.</description>
-  </item>
-  <item>
-    <title>kagisearch / kagi-docs</title>
-    <link>https://github.com/kagisearch/kagi-docs</link>
-    <description>Documentation for products made by Kagi Inc</description>
   </item>
   <item>
     <title>oxsecurity / megalinter</title>
@@ -76,14 +66,19 @@
     <description>🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</description>
   </item>
   <item>
+    <title>kagisearch / kagi-docs</title>
+    <link>https://github.com/kagisearch/kagi-docs</link>
+    <description>Documentation for products made by Kagi Inc</description>
+  </item>
+  <item>
     <title>linuxserver / docker-unifi-network-application</title>
     <link>https://github.com/linuxserver/docker-unifi-network-application</link>
     <description></description>
   </item>
   <item>
-    <title>dotnet / dotnet-docker</title>
-    <link>https://github.com/dotnet/dotnet-docker</link>
-    <description>Official container images for .NET</description>
+    <title>Gar-b-age / CookLikeHOC</title>
+    <link>https://github.com/Gar-b-age/CookLikeHOC</link>
+    <description>🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</description>
   </item>
 </channel>
 </rss>

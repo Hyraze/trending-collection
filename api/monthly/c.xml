@@ -4,7 +4,7 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:27:08 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
   <item>
     <title>erincatto / box3d</title>
     <link>https://github.com/erincatto/box3d</link>
@@ -36,14 +36,14 @@
     <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
   </item>
   <item>
-    <title>raysan5 / raylib</title>
-    <link>https://github.com/raysan5/raylib</link>
-    <description>A simple and easy-to-use library to enjoy videogames programming</description>
-  </item>
-  <item>
     <title>tr4m0ryp / tr4mpass</title>
     <link>https://github.com/tr4m0ryp/tr4mpass</link>
     <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
+  </item>
+  <item>
+    <title>raysan5 / raylib</title>
+    <link>https://github.com/raysan5/raylib</link>
+    <description>A simple and easy-to-use library to enjoy videogames programming</description>
   </item>
   <item>
     <title>Next-Flip / Momentum-Firmware</title>
@@ -56,14 +56,14 @@
     <description>Android application for running Windows applications with Wine and Box86/Box64</description>
   </item>
   <item>
+    <title>openwrt / openwrt</title>
+    <link>https://github.com/openwrt/openwrt</link>
+    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
+  </item>
+  <item>
     <title>ExpressLRS / ExpressLRS</title>
     <link>https://github.com/ExpressLRS/ExpressLRS</link>
     <description>High Performance Open Source Radio Control Link</description>
-  </item>
-  <item>
-    <title>libretro / RetroArch</title>
-    <link>https://github.com/libretro/RetroArch</link>
-    <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
   </item>
   <item>
     <title>lvgl / lvgl</title>
@@ -76,14 +76,14 @@
     <description>A free Windows-compatible Operating System</description>
   </item>
   <item>
-    <title>openwrt / openwrt</title>
-    <link>https://github.com/openwrt/openwrt</link>
-    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
+    <title>lz4 / lz4</title>
+    <link>https://github.com/lz4/lz4</link>
+    <description>Extremely Fast Compression algorithm</description>
   </item>
   <item>
-    <title>dorianborian / sesame-robot</title>
-    <link>https://github.com/dorianborian/sesame-robot</link>
-    <description>An open and affordable mini quadruped robot based on ESP32.</description>
+    <title>libretro / RetroArch</title>
+    <link>https://github.com/libretro/RetroArch</link>
+    <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
   </item>
   <item>
     <title>tmux / tmux</title>
@@ -91,24 +91,14 @@
     <description>tmux source code</description>
   </item>
   <item>
-    <title>systemd / systemd</title>
-    <link>https://github.com/systemd/systemd</link>
-    <description>The systemd System and Service Manager</description>
-  </item>
-  <item>
-    <title>lz4 / lz4</title>
-    <link>https://github.com/lz4/lz4</link>
-    <description>Extremely Fast Compression algorithm</description>
-  </item>
-  <item>
     <title>duixcom / Duix-Avatar</title>
     <link>https://github.com/duixcom/Duix-Avatar</link>
     <description>🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.</description>
   </item>
   <item>
-    <title>iovisor / bcc</title>
-    <link>https://github.com/iovisor/bcc</link>
-    <description>BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</description>
+    <title>aircrack-ng / aircrack-ng</title>
+    <link>https://github.com/aircrack-ng/aircrack-ng</link>
+    <description>WiFi security auditing tools suite</description>
   </item>
 </channel>
 </rss>

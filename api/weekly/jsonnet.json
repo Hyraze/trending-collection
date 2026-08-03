@@ -2,8 +2,18 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
+    {
+      "title": "prometheus-operator / kube-prometheus",
+      "url": "https://github.com/prometheus-operator/kube-prometheus",
+      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 7712,
+      "forks": 2044,
+      "added_stars": "8 stars this week"
+    },
     {
       "title": "kubernetes-monitoring / kubernetes-mixin",
       "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
@@ -13,16 +23,6 @@
       "stars": 2434,
       "forks": 641,
       "added_stars": "4 stars this week"
-    },
-    {
-      "title": "prometheus-operator / kube-prometheus",
-      "url": "https://github.com/prometheus-operator/kube-prometheus",
-      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 7712,
-      "forks": 2044,
-      "added_stars": "9 stars this week"
     },
     {
       "title": "grafana / writers-toolkit",
@@ -41,8 +41,8 @@
       "language": "Jsonnet",
       "languageColor": "#0064bd",
       "stars": 2149,
-      "forks": 10147,
-      "added_stars": "6 stars this week"
+      "forks": 10154,
+      "added_stars": "4 stars this week"
     }
   ]
 }

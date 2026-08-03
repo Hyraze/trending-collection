@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "elixir-lang / elixir",
@@ -10,9 +10,9 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26589,
+      "stars": 26591,
       "forks": 3619,
-      "added_stars": "282 stars this month"
+      "added_stars": "235 stars this month"
     },
     {
       "title": "blockscout / blockscout",
@@ -20,9 +20,9 @@
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 4624,
-      "forks": 3128,
-      "added_stars": "55 stars this month"
+      "stars": 4626,
+      "forks": 3130,
+      "added_stars": "54 stars this month"
     },
     {
       "title": "firezone / firezone",
@@ -30,9 +30,9 @@
       "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8980,
+      "stars": 8982,
       "forks": 439,
-      "added_stars": "281 stars this month"
+      "added_stars": "282 stars this month"
     },
     {
       "title": "phoenixframework / phoenix",
@@ -40,9 +40,9 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23102,
-      "forks": 3083,
-      "added_stars": "78 stars this month"
+      "stars": 23103,
+      "forks": 3084,
+      "added_stars": "76 stars this month"
     },
     {
       "title": "phoenixframework / phoenix_live_view",
@@ -52,7 +52,7 @@
       "languageColor": "#6e4a7e",
       "stars": 6809,
       "forks": 1051,
-      "added_stars": "36 stars this month"
+      "added_stars": "35 stars this month"
     },
     {
       "title": "elixir-lsp / elixir_sense",
@@ -65,14 +65,34 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "icoretech / codex-pooler",
+      "url": "https://github.com/icoretech/codex-pooler",
+      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 130,
+      "forks": 12,
+      "added_stars": "49 stars this month"
+    },
+    {
       "title": "kieraneglin / pinchflat",
       "url": "https://github.com/kieraneglin/pinchflat",
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5197,
+      "stars": 5201,
       "forks": 155,
-      "added_stars": "141 stars this month"
+      "added_stars": "134 stars this month"
+    },
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 28315,
+      "forks": 1766,
+      "added_stars": "913 stars this month"
     },
     {
       "title": "supabase / realtime",
@@ -85,16 +105,6 @@
       "added_stars": "20 stars this month"
     },
     {
-      "title": "icoretech / codex-pooler",
-      "url": "https://github.com/icoretech/codex-pooler",
-      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 130,
-      "forks": 12,
-      "added_stars": "51 stars this month"
-    },
-    {
       "title": "open-telemetry / opentelemetry-erlang-contrib",
       "url": "https://github.com/open-telemetry/opentelemetry-erlang-contrib",
       "description": "OpenTelemetry instrumentation for Erlang & Elixir",
@@ -105,24 +115,34 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "title": "beyond-all-reason / teiserver",
+      "url": "https://github.com/beyond-all-reason/teiserver",
+      "description": "Middleware server for online gaming",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 28289,
-      "forks": 1765,
-      "added_stars": "897 stars this month"
+      "stars": 102,
+      "forks": 103,
+      "added_stars": "3 stars this month"
     },
     {
-      "title": "elixir-lsp / elixir-ls",
-      "url": "https://github.com/elixir-lsp/elixir-ls",
-      "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+      "title": "expert-lsp / expert",
+      "url": "https://github.com/expert-lsp/expert",
+      "description": "Official Elixir Language Server Protocol implementation",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1769,
-      "forks": 227,
-      "added_stars": "8 stars this month"
+      "stars": 2029,
+      "forks": 108,
+      "added_stars": "17 stars this month"
+    },
+    {
+      "title": "openai / symphony",
+      "url": "https://github.com/openai/symphony",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 26383,
+      "forks": 2672,
+      "added_stars": "723 stars this month"
     }
   ]
 }

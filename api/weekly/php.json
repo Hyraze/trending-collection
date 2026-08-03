@@ -2,7 +2,7 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "grokability / snipe-it",
@@ -10,9 +10,9 @@
       "description": "A free open source IT asset/license management system",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 14669,
-      "forks": 3927,
-      "added_stars": "577 stars this week"
+      "stars": 14681,
+      "forks": 3932,
+      "added_stars": "584 stars this week"
     },
     {
       "title": "woocommerce / woocommerce",
@@ -21,8 +21,38 @@
       "language": "PHP",
       "languageColor": "#4F5D95",
       "stars": 10440,
-      "forks": 10680,
+      "forks": 10679,
       "added_stars": "38 stars this week"
+    },
+    {
+      "title": "nextcloud / all-in-one",
+      "url": "https://github.com/nextcloud/all-in-one",
+      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 10214,
+      "forks": 1077,
+      "added_stars": "54 stars this week"
+    },
+    {
+      "title": "matomo-org / matomo",
+      "url": "https://github.com/matomo-org/matomo",
+      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 21737,
+      "forks": 2883,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "DenverCoder1 / github-readme-streak-stats",
+      "url": "https://github.com/DenverCoder1/github-readme-streak-stats",
+      "description": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 7046,
+      "forks": 1603,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "laravel / framework",
@@ -31,28 +61,8 @@
       "language": "PHP",
       "languageColor": "#4F5D95",
       "stars": 34835,
-      "forks": 11929,
-      "added_stars": "32 stars this week"
-    },
-    {
-      "title": "matomo-org / matomo",
-      "url": "https://github.com/matomo-org/matomo",
-      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 21733,
-      "forks": 2882,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "DenverCoder1 / github-readme-streak-stats",
-      "url": "https://github.com/DenverCoder1/github-readme-streak-stats",
-      "description": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 7044,
-      "forks": 1601,
-      "added_stars": "34 stars this week"
+      "forks": 11932,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "filamentphp / filament",
@@ -60,49 +70,9 @@
       "description": "A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 31678,
+      "stars": 31685,
       "forks": 4195,
-      "added_stars": "111 stars this week"
-    },
-    {
-      "title": "nextcloud / all-in-one",
-      "url": "https://github.com/nextcloud/all-in-one",
-      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 10210,
-      "forks": 1076,
-      "added_stars": "55 stars this week"
-    },
-    {
-      "title": "WordPress / mcp-adapter",
-      "url": "https://github.com/WordPress/mcp-adapter",
-      "description": "An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 1513,
-      "forks": 172,
-      "added_stars": "31 stars this week"
-    },
-    {
-      "title": "pestphp / pest",
-      "url": "https://github.com/pestphp/pest",
-      "description": "The elegant testing framework for PHP developers and AI agents.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 11619,
-      "forks": 510,
-      "added_stars": "36 stars this week"
-    },
-    {
-      "title": "PrivateBin / PrivateBin",
-      "url": "https://github.com/PrivateBin/PrivateBin",
-      "description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 8495,
-      "forks": 1011,
-      "added_stars": "26 stars this week"
+      "added_stars": "106 stars this week"
     },
     {
       "title": "lizhipay / acg-faka",
@@ -110,39 +80,29 @@
       "description": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 5371,
+      "stars": 5377,
       "forks": 1059,
-      "added_stars": "53 stars this week"
+      "added_stars": "51 stars this week"
     },
     {
-      "title": "phpstan / phpstan",
-      "url": "https://github.com/phpstan/phpstan",
-      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "title": "pestphp / pest",
+      "url": "https://github.com/pestphp/pest",
+      "description": "The elegant testing framework for PHP developers and AI agents.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 14052,
-      "forks": 959,
-      "added_stars": "17 stars this week"
+      "stars": 11621,
+      "forks": 511,
+      "added_stars": "35 stars this week"
     },
     {
-      "title": "MISP / MISP",
-      "url": "https://github.com/MISP/MISP",
-      "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
+      "title": "PrivateBin / PrivateBin",
+      "url": "https://github.com/PrivateBin/PrivateBin",
+      "description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 6446,
-      "forks": 1620,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "glpi-project / glpi",
-      "url": "https://github.com/glpi-project/glpi",
-      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 6187,
-      "forks": 1761,
-      "added_stars": "24 stars this week"
+      "stars": 8499,
+      "forks": 1011,
+      "added_stars": "29 stars this week"
     },
     {
       "title": "elementor / elementor",
@@ -155,34 +115,54 @@
       "added_stars": "9 stars this week"
     },
     {
+      "title": "krayin / laravel-crm",
+      "url": "https://github.com/krayin/laravel-crm",
+      "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 23590,
+      "forks": 1551,
+      "added_stars": "92 stars this week"
+    },
+    {
+      "title": "WordPress / mcp-adapter",
+      "url": "https://github.com/WordPress/mcp-adapter",
+      "description": "An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 1519,
+      "forks": 172,
+      "added_stars": "34 stars this week"
+    },
+    {
+      "title": "phpstan / phpstan",
+      "url": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 14054,
+      "forks": 959,
+      "added_stars": "16 stars this week"
+    },
+    {
       "title": "Paymenter / Paymenter",
       "url": "https://github.com/Paymenter/Paymenter",
       "description": "Free and open-source webshop solution for hostings",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 2162,
-      "forks": 454,
-      "added_stars": "354 stars this week"
+      "stars": 2164,
+      "forks": 455,
+      "added_stars": "243 stars this week"
     },
     {
-      "title": "digininja / DVWA",
-      "url": "https://github.com/digininja/DVWA",
-      "description": "Damn Vulnerable Web Application (DVWA)",
+      "title": "glpi-project / glpi",
+      "url": "https://github.com/glpi-project/glpi",
+      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 13446,
-      "forks": 5022,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "nextcloud / server",
-      "url": "https://github.com/nextcloud/server",
-      "description": "☁️ Nextcloud server, a safe home for all your data",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 36313,
-      "forks": 5088,
-      "added_stars": "81 stars this week"
+      "stars": 6190,
+      "forks": 1763,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "easychen / opc-methodology",
@@ -190,9 +170,19 @@
       "description": "《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 16321,
+      "stars": 16324,
       "forks": 1868,
-      "added_stars": "58 stars this week"
+      "added_stars": "49 stars this week"
+    },
+    {
+      "title": "digininja / DVWA",
+      "url": "https://github.com/digininja/DVWA",
+      "description": "Damn Vulnerable Web Application (DVWA)",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 13447,
+      "forks": 5024,
+      "added_stars": "37 stars this week"
     },
     {
       "title": "firefly-iii / firefly-iii",
@@ -200,29 +190,49 @@
       "description": "Firefly III: a personal finances manager",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 24199,
-      "forks": 2236,
-      "added_stars": "81 stars this week"
+      "stars": 24215,
+      "forks": 2237,
+      "added_stars": "79 stars this week"
     },
     {
-      "title": "shopware / shopware",
-      "url": "https://github.com/shopware/shopware",
-      "description": "Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions",
+      "title": "SuiteCRM / SuiteCRM",
+      "url": "https://github.com/SuiteCRM/SuiteCRM",
+      "description": "SuiteCRM - Open source CRM for the world",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 3395,
-      "forks": 1193,
-      "added_stars": "1 star this week"
+      "stars": 5614,
+      "forks": 2388,
+      "added_stars": "20 stars this week"
     },
     {
-      "title": "espocrm / espocrm",
-      "url": "https://github.com/espocrm/espocrm",
-      "description": "EspoCRM – Open Source CRM Application",
+      "title": "laravel / boost",
+      "url": "https://github.com/laravel/boost",
+      "description": "Laravel-focused MCP server for augmenting your AI powered local development experience.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 3183,
-      "forks": 918,
-      "added_stars": "22 stars this week"
+      "stars": 3549,
+      "forks": 352,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "MISP / MISP",
+      "url": "https://github.com/MISP/MISP",
+      "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 6446,
+      "forks": 1620,
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "akaunting / akaunting",
+      "url": "https://github.com/akaunting/akaunting",
+      "description": "Online Accounting Software",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 10017,
+      "forks": 2959,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "openemr / openemr",
@@ -230,19 +240,19 @@
       "description": "The most popular open source electronic health records and medical practice management solution.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 5335,
+      "stars": 5336,
       "forks": 2997,
-      "added_stars": "25 stars this week"
+      "added_stars": "26 stars this week"
     },
     {
-      "title": "krayin / laravel-crm",
-      "url": "https://github.com/krayin/laravel-crm",
-      "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+      "title": "nilsteampassnet / TeamPass",
+      "url": "https://github.com/nilsteampassnet/TeamPass",
+      "description": "Collaborative Passwords Manager",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 23576,
-      "forks": 1550,
-      "added_stars": "89 stars this week"
+      "stars": 1818,
+      "forks": 571,
+      "added_stars": "18 stars this week"
     }
   ]
 }

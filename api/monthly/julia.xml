@@ -4,7 +4,7 @@
   <title>GitHub Julia Languages Daily Trending</title>
   <description>Daily Trending of Julia Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:27:08 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
   <item>
     <title>JuliaLang / julia</title>
     <link>https://github.com/JuliaLang/julia</link>
@@ -24,6 +24,11 @@
     <title>CliMA / Oceananigans.jl</title>
     <link>https://github.com/CliMA/Oceananigans.jl</link>
     <description>🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs</description>
+  </item>
+  <item>
+    <title>JuliaDiff / TaylorSeries.jl</title>
+    <link>https://github.com/JuliaDiff/TaylorSeries.jl</link>
+    <description>Taylor polynomial expansions in one and several independent variables.</description>
   </item>
 </channel>
 </rss>

@@ -4,16 +4,16 @@
   <title>GitHub Javascript Languages Daily Trending</title>
   <description>Daily Trending of Javascript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:27:08 GMT</pubDate>
-  <item>
-    <title>openai / codex-plugin-cc</title>
-    <link>https://github.com/openai/codex-plugin-cc</link>
-    <description>Use Codex from Claude Code to review code or delegate tasks.</description>
-  </item>
+  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
   <item>
     <title>asgeirtj / system_prompts_leaks</title>
     <link>https://github.com/asgeirtj/system_prompts_leaks</link>
     <description>Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.</description>
+  </item>
+  <item>
+    <title>openai / codex-plugin-cc</title>
+    <link>https://github.com/openai/codex-plugin-cc</link>
+    <description>Use Codex from Claude Code to review code or delegate tasks.</description>
   </item>
   <item>
     <title>pbakaus / impeccable</title>
@@ -21,14 +21,14 @@
     <description>The design language that makes your AI harness better at design.</description>
   </item>
   <item>
-    <title>JuliusBrussee / caveman</title>
-    <link>https://github.com/JuliusBrussee/caveman</link>
-    <description>🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman</description>
-  </item>
-  <item>
     <title>earthtojake / text-to-cad</title>
     <link>https://github.com/earthtojake/text-to-cad</link>
     <description>A library of agent skills for CAD, CAE and CAM</description>
+  </item>
+  <item>
+    <title>JuliusBrussee / caveman</title>
+    <link>https://github.com/JuliusBrussee/caveman</link>
+    <description>🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman</description>
   </item>
   <item>
     <title>kunchenguid / lavish-axi</title>
@@ -46,19 +46,9 @@
     <description>Fast and low overhead web framework, for Node.js</description>
   </item>
   <item>
-    <title>ilysenko / codex-desktop-linux</title>
-    <link>https://github.com/ilysenko/codex-desktop-linux</link>
-    <description>Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.</description>
-  </item>
-  <item>
     <title>nodejs / node</title>
     <link>https://github.com/nodejs/node</link>
     <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
-  </item>
-  <item>
-    <title>eslint / eslint</title>
-    <link>https://github.com/eslint/eslint</link>
-    <description>Find and fix problems in your JavaScript code.</description>
   </item>
   <item>
     <title>webtorrent / webtorrent</title>
@@ -66,24 +56,29 @@
     <description>⚡️ Streaming torrent client for the web</description>
   </item>
   <item>
+    <title>eslint / eslint</title>
+    <link>https://github.com/eslint/eslint</link>
+    <description>Find and fix problems in your JavaScript code.</description>
+  </item>
+  <item>
     <title>vercel / next.js</title>
     <link>https://github.com/vercel/next.js</link>
     <description>The React Framework</description>
   </item>
   <item>
-    <title>Leonxlnx / taste-skill</title>
-    <link>https://github.com/Leonxlnx/taste-skill</link>
-    <description>Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop</description>
-  </item>
-  <item>
-    <title>coreyhaines31 / marketingskills</title>
-    <link>https://github.com/coreyhaines31/marketingskills</link>
-    <description>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</description>
+    <title>ilysenko / codex-desktop-linux</title>
+    <link>https://github.com/ilysenko/codex-desktop-linux</link>
+    <description>Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.</description>
   </item>
   <item>
     <title>webpack / webpack</title>
     <link>https://github.com/webpack/webpack</link>
     <description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &quot;loaders&quot;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</description>
+  </item>
+  <item>
+    <title>tradesdontlie / tradingview-mcp</title>
+    <link>https://github.com/tradesdontlie/tradingview-mcp</link>
+    <description>AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation</description>
   </item>
   <item>
     <title>microsoft / power-platform-skills</title>
@@ -101,19 +96,19 @@
     <description>Prettier is an opinionated code formatter.</description>
   </item>
   <item>
-    <title>conorbronsdon / avoid-ai-writing</title>
-    <link>https://github.com/conorbronsdon/avoid-ai-writing</link>
-    <description>Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.</description>
-  </item>
-  <item>
     <title>bigskysoftware / htmx</title>
     <link>https://github.com/bigskysoftware/htmx</link>
     <description>&lt;/&gt; htmx - high power tools for HTML</description>
   </item>
   <item>
-    <title>fbsamples / whatsapp-business-jaspers-market</title>
-    <link>https://github.com/fbsamples/whatsapp-business-jaspers-market</link>
-    <description>Sample Whatsapp App - Jasper&#x27;s Market</description>
+    <title>Leonxlnx / taste-skill</title>
+    <link>https://github.com/Leonxlnx/taste-skill</link>
+    <description>Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop</description>
+  </item>
+  <item>
+    <title>conorbronsdon / avoid-ai-writing</title>
+    <link>https://github.com/conorbronsdon/avoid-ai-writing</link>
+    <description>Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.</description>
   </item>
 </channel>
 </rss>

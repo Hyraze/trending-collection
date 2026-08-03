@@ -2,48 +2,8 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
-    {
-      "title": "nextcloud / all-in-one",
-      "url": "https://github.com/nextcloud/all-in-one",
-      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 10210,
-      "forks": 1076,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "glpi-project / glpi",
-      "url": "https://github.com/glpi-project/glpi",
-      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 6187,
-      "forks": 1761,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "WordPress / wordpress-develop",
-      "url": "https://github.com/WordPress/wordpress-develop",
-      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 3393,
-      "forks": 3568,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "SuiteCRM / SuiteCRM",
-      "url": "https://github.com/SuiteCRM/SuiteCRM",
-      "description": "SuiteCRM - Open source CRM for the world",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 5611,
-      "forks": 2387,
-      "added_stars": "4 stars today"
-    },
     {
       "title": "symfony / symfony",
       "url": "https://github.com/symfony/symfony",
@@ -51,78 +11,48 @@
       "language": "PHP",
       "languageColor": "#4F5D95",
       "stars": 31114,
-      "forks": 9858,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "matomo-org / matomo",
-      "url": "https://github.com/matomo-org/matomo",
-      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 21733,
-      "forks": 2882,
+      "forks": 9857,
       "added_stars": "3 stars today"
     },
     {
-      "title": "laravel / framework",
-      "url": "https://github.com/laravel/framework",
-      "description": "Laravel is a web application framework with expressive, elegant syntax.",
+      "title": "osTicket / osTicket",
+      "url": "https://github.com/osTicket/osTicket",
+      "description": "The osTicket open source ticketing system official project repository, for versions 1.8 and later",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 34835,
-      "forks": 11929,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "firefly-iii / firefly-iii",
-      "url": "https://github.com/firefly-iii/firefly-iii",
-      "description": "Firefly III: a personal finances manager",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 24199,
-      "forks": 2236,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "alextselegidis / easyappointments",
-      "url": "https://github.com/alextselegidis/easyappointments",
-      "description": "📅 Easy!Appointments - Self Hosted Appointment Scheduler",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 4290,
-      "forks": 1543,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "freescout-help-desk / freescout",
-      "url": "https://github.com/freescout-help-desk/freescout",
-      "description": "FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 4451,
-      "forks": 696,
+      "stars": 3863,
+      "forks": 1829,
       "added_stars": "2 stars today"
     },
     {
-      "title": "WordPress / mcp-adapter",
-      "url": "https://github.com/WordPress/mcp-adapter",
-      "description": "An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.",
+      "title": "opnsense / core",
+      "url": "https://github.com/opnsense/core",
+      "description": "OPNsense GUI, API and systems backend",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 1513,
-      "forks": 172,
-      "added_stars": "5 stars today"
+      "stars": 4555,
+      "forks": 977,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "aureuserp / aureuserp",
-      "url": "https://github.com/aureuserp/aureuserp",
-      "description": "Free and Open Source ERP platform",
+      "title": "opensourcepos / opensourcepos",
+      "url": "https://github.com/opensourcepos/opensourcepos",
+      "description": "Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 11665,
-      "forks": 517,
-      "added_stars": "10 stars today"
+      "stars": 4322,
+      "forks": 2593,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "akaunting / akaunting",
+      "url": "https://github.com/akaunting/akaunting",
+      "description": "Online Accounting Software",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 10017,
+      "forks": 2959,
+      "added_stars": "3 stars today"
     },
     {
       "title": "cedar2025 / Xboard",
@@ -132,6 +62,116 @@
       "languageColor": "#4F5D95",
       "stars": 4604,
       "forks": 1299,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "filamentphp / filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 31685,
+      "forks": 4195,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "FreshRSS / FreshRSS",
+      "url": "https://github.com/FreshRSS/FreshRSS",
+      "description": "A free, self-hostable news aggregator…",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 15673,
+      "forks": 1236,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "nextcloud / server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 36320,
+      "forks": 5088,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "pkp / pkp-lib",
+      "url": "https://github.com/pkp/pkp-lib",
+      "description": "The library used by PKP's applications OJS, OMP and OPS, open source software for scholarly publishing.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 345,
+      "forks": 483,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "danielmiessler / SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 72578,
+      "forks": 25071,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "typecho / typecho",
+      "url": "https://github.com/typecho/typecho",
+      "description": "A PHP Blogging Platform. Simple and Powerful.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 12417,
+      "forks": 2125,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "SuiteCRM / SuiteCRM",
+      "url": "https://github.com/SuiteCRM/SuiteCRM",
+      "description": "SuiteCRM - Open source CRM for the world",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 5614,
+      "forks": 2388,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "opencart / opencart",
+      "url": "https://github.com/opencart/opencart",
+      "description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 8173,
+      "forks": 5059,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "openemr / openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 5336,
+      "forks": 2997,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "firefly-iii / firefly-iii",
+      "url": "https://github.com/firefly-iii/firefly-iii",
+      "description": "Firefly III: a personal finances manager",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 24215,
+      "forks": 2237,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "maajiko / Epay",
+      "url": "https://github.com/maajiko/Epay",
+      "description": "Epay彩虹易支付源码分享",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 566,
+      "forks": 287,
       "added_stars": "3 stars today"
     },
     {
@@ -140,79 +180,49 @@
       "description": "Free and open source laravel eCommerce platform",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 27899,
-      "forks": 3232,
-      "added_stars": "9 stars today"
+      "stars": 27913,
+      "forks": 3230,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "digininja / DVWA",
-      "url": "https://github.com/digininja/DVWA",
-      "description": "Damn Vulnerable Web Application (DVWA)",
+      "title": "DenverCoder1 / readme-typing-svg",
+      "url": "https://github.com/DenverCoder1/readme-typing-svg",
+      "description": "⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 13446,
-      "forks": 5022,
-      "added_stars": "1 star today"
+      "stars": 9159,
+      "forks": 1592,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "mahdiMGF2 / mirzabot",
-      "url": "https://github.com/mahdiMGF2/mirzabot",
-      "description": "bot pro for sell vpn",
+      "title": "consolidation / output-formatters",
+      "url": "https://github.com/consolidation/output-formatters",
+      "description": "Apply transformations to structured data to write output in different formats.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 620,
-      "forks": 314,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "espocrm / espocrm",
-      "url": "https://github.com/espocrm/espocrm",
-      "description": "EspoCRM – Open Source CRM Application",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 3183,
-      "forks": 918,
+      "stars": 195,
+      "forks": 15,
       "added_stars": "0 stars today"
     },
     {
-      "title": "Crinsane / LaravelShoppingcart",
-      "url": "https://github.com/Crinsane/LaravelShoppingcart",
-      "description": "A simple shopping cart implementation for Laravel",
+      "title": "consolidation / annotated-command",
+      "url": "https://github.com/consolidation/annotated-command",
+      "description": "Create Symfony Console commands from annotated command class methods.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 3704,
-      "forks": 1765,
+      "stars": 224,
+      "forks": 40,
       "added_stars": "0 stars today"
     },
     {
-      "title": "DataDog / dd-trace-php",
-      "url": "https://github.com/DataDog/dd-trace-php",
-      "description": "Datadog PHP Clients",
+      "title": "stecman / symfony-console-completion",
+      "url": "https://github.com/stecman/symfony-console-completion",
+      "description": "Automatic tab-key completion for Symfony console application options, arguments and parameters",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 558,
-      "forks": 182,
+      "stars": 421,
+      "forks": 26,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "hechoendrupal / drupal-console",
-      "url": "https://github.com/hechoendrupal/drupal-console",
-      "description": "The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 931,
-      "forks": 545,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "maajiko / Epay",
-      "url": "https://github.com/maajiko/Epay",
-      "description": "Epay彩虹易支付源码分享",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 563,
-      "forks": 285,
-      "added_stars": "2 stars today"
     }
   ]
 }

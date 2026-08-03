@@ -2,7 +2,7 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "abraunegg / onedrive",
@@ -10,19 +10,9 @@
       "description": "OneDrive Client for Linux",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 12659,
+      "stars": 12661,
       "forks": 913,
       "added_stars": "20 stars this week"
-    },
-    {
-      "title": "Dadoum / Sideloader",
-      "url": "https://github.com/Dadoum/Sideloader",
-      "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
-      "language": "D",
-      "languageColor": "#ba595e",
-      "stars": 985,
-      "forks": 138,
-      "added_stars": "10 stars this week"
     },
     {
       "title": "Dadoum / anisette-v3-server",
@@ -31,8 +21,18 @@
       "language": "D",
       "languageColor": "#ba595e",
       "stars": 524,
-      "forks": 2286,
-      "added_stars": "5 stars this week"
+      "forks": 2288,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "Dadoum / Sideloader",
+      "url": "https://github.com/Dadoum/Sideloader",
+      "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 988,
+      "forks": 139,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "dlang / dmd",
@@ -40,7 +40,7 @@
       "description": "dmd D Programming Language compiler",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 3293,
+      "stars": 3294,
       "forks": 710,
       "added_stars": "3 stars this week"
     },

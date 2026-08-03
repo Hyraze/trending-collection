@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "permissionlesstech / bitchat-android",
@@ -10,9 +10,9 @@
       "description": "decentralized mesh chat",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7220,
-      "forks": 1779,
-      "added_stars": "1,049 stars this week"
+      "stars": 7270,
+      "forks": 1791,
+      "added_stars": "928 stars this week"
     },
     {
       "title": "tiann / KernelSU",
@@ -20,19 +20,9 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 17573,
-      "forks": 3800,
-      "added_stars": "147 stars this week"
-    },
-    {
-      "title": "A-EDev / Flow",
-      "url": "https://github.com/A-EDev/Flow",
-      "description": "A modern, feature-rich YouTube and YouTube Music client with local recommendation for Android built with Jetpack Compose",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 1747,
-      "forks": 67,
-      "added_stars": "164 stars this week"
+      "stars": 17592,
+      "forks": 3802,
+      "added_stars": "151 stars this week"
     },
     {
       "title": "RikkaApps / Shizuku",
@@ -40,19 +30,9 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 28271,
-      "forks": 2773,
-      "added_stars": "341 stars this week"
-    },
-    {
-      "title": "embabel / embabel-agent",
-      "url": "https://github.com/embabel/embabel-agent",
-      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 3849,
-      "forks": 381,
-      "added_stars": "46 stars this week"
+      "stars": 28310,
+      "forks": 2776,
+      "added_stars": "330 stars this week"
     },
     {
       "title": "AAswordman / Operit",
@@ -60,29 +40,9 @@
       "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6395,
-      "forks": 519,
-      "added_stars": "321 stars this week"
-    },
-    {
-      "title": "amir1376 / ab-download-manager",
-      "url": "https://github.com/amir1376/ab-download-manager",
-      "description": "A Download Manager that speeds up your downloads",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 16971,
-      "forks": 884,
-      "added_stars": "165 stars this week"
-    },
-    {
-      "title": "wxxsfxyzm / InstallerX-Revived",
-      "url": "https://github.com/wxxsfxyzm/InstallerX-Revived",
-      "description": "More Expressive InstallerX !",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 5870,
-      "forks": 232,
-      "added_stars": "127 stars this week"
+      "stars": 6437,
+      "forks": 521,
+      "added_stars": "327 stars this week"
     },
     {
       "title": "zly2006 / zhihu-plus-plus",
@@ -90,9 +50,59 @@
       "description": "Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3578,
-      "forks": 173,
-      "added_stars": "126 stars this week"
+      "stars": 3588,
+      "forks": 174,
+      "added_stars": "123 stars this week"
+    },
+    {
+      "title": "tyron12233 / CodeAssist",
+      "url": "https://github.com/tyron12233/CodeAssist",
+      "description": "An IDE for building Android applicatons on Android.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 1593,
+      "forks": 374,
+      "added_stars": "72 stars this week"
+    },
+    {
+      "title": "embabel / embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 3876,
+      "forks": 387,
+      "added_stars": "55 stars this week"
+    },
+    {
+      "title": "amir1376 / ab-download-manager",
+      "url": "https://github.com/amir1376/ab-download-manager",
+      "description": "A Download Manager that speeds up your downloads",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 17014,
+      "forks": 886,
+      "added_stars": "180 stars this week"
+    },
+    {
+      "title": "ReVanced / revanced-manager",
+      "url": "https://github.com/ReVanced/revanced-manager",
+      "description": "💊 Application to use ReVanced on Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 28843,
+      "forks": 1119,
+      "added_stars": "127 stars this week"
+    },
+    {
+      "title": "A-EDev / Flow",
+      "url": "https://github.com/A-EDev/Flow",
+      "description": "A modern, feature-rich YouTube and YouTube Music client with local recommendation for Android built with Jetpack Compose",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 1768,
+      "forks": 68,
+      "added_stars": "170 stars this week"
     },
     {
       "title": "2dust / v2rayNG",
@@ -100,9 +110,9 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 60465,
-      "forks": 7860,
-      "added_stars": "438 stars this week"
+      "stars": 60514,
+      "forks": 7870,
+      "added_stars": "441 stars this week"
     },
     {
       "title": "deniscerri / ytdlnis",
@@ -110,69 +120,19 @@
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 9476,
-      "forks": 422,
-      "added_stars": "105 stars this week"
+      "stars": 9486,
+      "forks": 423,
+      "added_stars": "103 stars this week"
     },
     {
-      "title": "thejaustin / ShizukuPlus",
-      "url": "https://github.com/thejaustin/ShizukuPlus",
-      "description": "[ HOBBY PROJECT ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [WIP - Development slowed due to new job]",
+      "title": "wxxsfxyzm / InstallerX-Revived",
+      "url": "https://github.com/wxxsfxyzm/InstallerX-Revived",
+      "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 577,
-      "forks": 38,
-      "added_stars": "56 stars this week"
-    },
-    {
-      "title": "vayun-mathur / Modern-Apps",
-      "url": "https://github.com/vayun-mathur/Modern-Apps",
-      "description": "A full mobile ecosystem of 19 apps",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 631,
-      "forks": 35,
-      "added_stars": "64 stars this week"
-    },
-    {
-      "title": "JingMatrix / Vector",
-      "url": "https://github.com/JingMatrix/Vector",
-      "description": "Modern Xposed Framework",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 11941,
-      "forks": 800,
-      "added_stars": "97 stars this week"
-    },
-    {
-      "title": "meshtastic / Meshtastic-Android",
-      "url": "https://github.com/meshtastic/Meshtastic-Android",
-      "description": "Android application for Meshtastic",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 1761,
-      "forks": 497,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "EchoMusicApp / Echo-Music",
-      "url": "https://github.com/EchoMusicApp/Echo-Music",
-      "description": "A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuitive user experience.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 3080,
-      "forks": 184,
-      "added_stars": "297 stars this week"
-    },
-    {
-      "title": "maxrave-dev / SimpMusic",
-      "url": "https://github.com/maxrave-dev/SimpMusic",
-      "description": "A cross-platform music app using YouTube Music for backend",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 10206,
-      "forks": 501,
-      "added_stars": "140 stars this week"
+      "stars": 5957,
+      "forks": 234,
+      "added_stars": "173 stars this week"
     },
     {
       "title": "rikkahub / rikkahub",
@@ -180,9 +140,39 @@
       "description": "RikkaHub is an Android APP that supports for multiple LLM providers.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6558,
-      "forks": 520,
-      "added_stars": "238 stars this week"
+      "stars": 6577,
+      "forks": 519,
+      "added_stars": "227 stars this week"
+    },
+    {
+      "title": "JingMatrix / Vector",
+      "url": "https://github.com/JingMatrix/Vector",
+      "description": "Modern Xposed Framework",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 11952,
+      "forks": 802,
+      "added_stars": "101 stars this week"
+    },
+    {
+      "title": "maxrave-dev / SimpMusic",
+      "url": "https://github.com/maxrave-dev/SimpMusic",
+      "description": "A cross-platform music app using YouTube Music for backend",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 10224,
+      "forks": 503,
+      "added_stars": "138 stars this week"
+    },
+    {
+      "title": "EchoMusicApp / Echo-Music",
+      "url": "https://github.com/EchoMusicApp/Echo-Music",
+      "description": "A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuitive user experience.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 3101,
+      "forks": 188,
+      "added_stars": "284 stars this week"
     }
   ]
 }

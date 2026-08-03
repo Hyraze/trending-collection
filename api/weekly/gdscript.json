@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "hi-godot / godot-ai",
@@ -10,9 +10,19 @@
       "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 1378,
+      "stars": 1393,
       "forks": 93,
-      "added_stars": "148 stars this week"
+      "added_stars": "134 stars this week"
+    },
+    {
+      "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
+      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
+      "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 2929,
+      "forks": 291,
+      "added_stars": "83 stars this week"
     },
     {
       "title": "Orama-Interactive / Pixelorama",
@@ -20,9 +30,9 @@
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 10036,
-      "forks": 531,
-      "added_stars": "49 stars this week"
+      "stars": 10038,
+      "forks": 532,
+      "added_stars": "47 stars this week"
     },
     {
       "title": "Alexofp / BDCC",
@@ -32,17 +42,7 @@
       "languageColor": "#355570",
       "stars": 332,
       "forks": 121,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
-      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
-      "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 2920,
-      "forks": 292,
-      "added_stars": "76 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "godotengine / godot-demo-projects",
@@ -50,9 +50,9 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 9270,
+      "stars": 9279,
       "forks": 2201,
-      "added_stars": "38 stars this week"
+      "added_stars": "41 stars this week"
     },
     {
       "title": "dialogic-godot / dialogic",
@@ -62,37 +62,7 @@
       "languageColor": "#355570",
       "stars": 5870,
       "forks": 340,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "bitwes / Gut",
-      "url": "https://github.com/bitwes/Gut",
-      "description": "Godot Unit Test. Unit testing tool for Godot Game Engine.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 2666,
-      "forks": 146,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "Maaack / Godot-Game-Template",
-      "url": "https://github.com/Maaack/Godot-Game-Template",
-      "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 1567,
-      "forks": 102,
-      "added_stars": "15 stars this week"
-    },
-    {
-      "title": "MudkipWorld / PNGTuber-Remix",
-      "url": "https://github.com/MudkipWorld/PNGTuber-Remix",
-      "description": "An Open-source PNGTubing app :D",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 352,
-      "forks": 50,
-      "added_stars": "3 stars this week"
+      "added_stars": "26 stars this week"
     },
     {
       "title": "KsanaDock / Microverse",
@@ -102,7 +72,37 @@
       "languageColor": "#355570",
       "stars": 2434,
       "forks": 403,
-      "added_stars": "18 stars this week"
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "bitwes / Gut",
+      "url": "https://github.com/bitwes/Gut",
+      "description": "Godot Unit Test. Unit testing tool for Godot Game Engine.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 2670,
+      "forks": 147,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "MudkipWorld / PNGTuber-Remix",
+      "url": "https://github.com/MudkipWorld/PNGTuber-Remix",
+      "description": "An Open-source PNGTubing app :D",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 353,
+      "forks": 50,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "Maaack / Godot-Game-Template",
+      "url": "https://github.com/Maaack/Godot-Game-Template",
+      "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 1568,
+      "forks": 102,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "Rhythia / sound-space-plus",
@@ -110,19 +110,19 @@
       "description": "[Old Rhythia, now unmaintained] Rhythm-based aim game",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 239,
+      "stars": 240,
       "forks": 44,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "RodZill4 / material-maker",
-      "url": "https://github.com/RodZill4/material-maker",
-      "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
+      "title": "elliotfontaine / yard-godot",
+      "url": "https://github.com/elliotfontaine/yard-godot",
+      "description": "YARD is an editor plugin for Godot to manage resources and query them at runtime, with a table view in the editor as the cherry on top.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 5785,
-      "forks": 362,
-      "added_stars": "33 stars this week"
+      "stars": 302,
+      "forks": 18,
+      "added_stars": "12 stars this week"
     }
   ]
 }

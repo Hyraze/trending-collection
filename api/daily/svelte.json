@@ -2,47 +2,27 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
-    {
-      "title": "javedh-dev / tracktor",
-      "url": "https://github.com/javedh-dev/tracktor",
-      "description": "Vehicle Tracking Management System",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 980,
-      "forks": 69,
-      "added_stars": "3 stars today"
-    },
     {
       "title": "saadeghi / daisyui",
       "url": "https://github.com/saadeghi/daisyui",
       "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 41913,
-      "forks": 1668,
-      "added_stars": "22 stars today"
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 41931,
+      "forks": 1669,
+      "added_stars": "21 stars today"
     },
     {
-      "title": "open-webui / desktop",
-      "url": "https://github.com/open-webui/desktop",
-      "description": "Open WebUI Desktop 🌐",
+      "title": "imputnet / cobalt",
+      "url": "https://github.com/imputnet/cobalt",
+      "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 2455,
-      "forks": 236,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "Finsys / dockhand",
-      "url": "https://github.com/Finsys/dockhand",
-      "description": "Dockhand - Docker management you will like.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 5450,
-      "forks": 212,
-      "added_stars": "13 stars today"
+      "stars": 41916,
+      "forks": 3604,
+      "added_stars": "20 stars today"
     },
     {
       "title": "seanmorley15 / AdventureLog",
@@ -50,29 +30,39 @@
       "description": "Self-hostable travel tracker and trip planner.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 3445,
+      "stars": 3449,
       "forks": 233,
       "added_stars": "3 stars today"
     },
     {
-      "title": "rajnandan1 / kener",
-      "url": "https://github.com/rajnandan1/kener",
-      "description": "Stunning status pages, batteries included!",
+      "title": "Finsys / dockhand",
+      "url": "https://github.com/Finsys/dockhand",
+      "description": "Dockhand - Docker management you will like.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5081,
-      "forks": 288,
-      "added_stars": "0 stars today"
+      "stars": 5463,
+      "forks": 212,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "binimum / tidal-ui",
-      "url": "https://github.com/binimum/tidal-ui",
-      "description": "Simple Tidal frontend. Modified version on tidal.squid.wtf",
+      "title": "VERT-sh / VERT",
+      "url": "https://github.com/VERT-sh/VERT",
+      "description": "The next-generation file converter. Open source, fully local* and free forever.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 1359,
-      "forks": 127,
-      "added_stars": "0 stars today"
+      "stars": 15325,
+      "forks": 814,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "open-webui / desktop",
+      "url": "https://github.com/open-webui/desktop",
+      "description": "Open WebUI Desktop 🌐",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 2462,
+      "forks": 236,
+      "added_stars": "7 stars today"
     },
     {
       "title": "sveltejs / svelte.dev",
@@ -85,46 +75,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "nextcloud / passman-webextension",
-      "url": "https://github.com/nextcloud/passman-webextension",
-      "description": "Browser extension for the Passman Nextcloud app",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 118,
-      "forks": 49,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "imputnet / cobalt",
-      "url": "https://github.com/imputnet/cobalt",
-      "description": "best way to save what you love",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 41904,
-      "forks": 3598,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "dbgate / dbgate",
-      "url": "https://github.com/dbgate/dbgate",
-      "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 7179,
-      "forks": 444,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "VERT-sh / VERT",
-      "url": "https://github.com/VERT-sh/VERT",
-      "description": "The next-generation file converter. Open source, fully local* and free forever.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 15321,
-      "forks": 813,
-      "added_stars": "8 stars today"
-    },
-    {
       "title": "jikan-me / website",
       "url": "https://github.com/jikan-me/website",
       "description": "Website source for Jikan.moe",
@@ -133,6 +83,66 @@
       "stars": 53,
       "forks": 371,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "Bittu5134 / LOTM-Reader",
+      "url": "https://github.com/Bittu5134/LOTM-Reader",
+      "description": "LOTM-Reader is a community driven project to improve the reading experience of the readers.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 89,
+      "forks": 22,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "satisfactorymodding / SatisfactoryModManager",
+      "url": "https://github.com/satisfactorymodding/SatisfactoryModManager",
+      "description": "A mod manager for easy installation of mods and modloader for Satisfactory",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 490,
+      "forks": 92,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "binimum / tidal-ui",
+      "url": "https://github.com/binimum/tidal-ui",
+      "description": "Simple Tidal frontend. Modified version on tidal.squid.wtf",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 1359,
+      "forks": 128,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ReVanced / revanced-website",
+      "url": "https://github.com/ReVanced/revanced-website",
+      "description": "🌐 Website for ReVanced",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 473,
+      "forks": 59,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "dora-team / dora.dev",
+      "url": "https://github.com/dora-team/dora.dev",
+      "description": "Public-facing knowledge site: https://dora.dev",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 171,
+      "forks": 45,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "RaidOwl / homelab-hub",
+      "url": "https://github.com/RaidOwl/homelab-hub",
+      "description": "",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 675,
+      "forks": 49,
+      "added_stars": "1 star today"
     }
   ]
 }

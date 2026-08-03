@@ -2,7 +2,7 @@
   "title": "GitHub Llvm Languages Daily Trending",
   "description": "Daily Trending of Llvm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "llvm / llvm-project",
@@ -10,9 +10,9 @@
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 39587,
-      "forks": 18074,
-      "added_stars": "158 stars this week"
+      "stars": 39596,
+      "forks": 18084,
+      "added_stars": "147 stars this week"
     },
     {
       "title": "intel / llvm",
@@ -25,14 +25,24 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "google / clspv",
-      "url": "https://github.com/google/clspv",
-      "description": "Clspv is a compiler for OpenCL C to Vulkan compute shaders",
+      "title": "KhronosGroup / SPIRV-LLVM-Translator",
+      "url": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator",
+      "description": "A tool and a library for bi-directional translation between SPIR-V and LLVM IR",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 723,
-      "forks": 106,
-      "added_stars": "0 stars this week"
+      "stars": 621,
+      "forks": 274,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "EnzymeAD / Enzyme",
+      "url": "https://github.com/EnzymeAD/Enzyme",
+      "description": "High-performance automatic differentiation of LLVM and MLIR.",
+      "language": "LLVM",
+      "languageColor": "#185619",
+      "stars": 1659,
+      "forks": 181,
+      "added_stars": "8 stars this week"
     }
   ]
 }

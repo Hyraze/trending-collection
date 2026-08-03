@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:27:08 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
   <item>
     <title>vim / vim</title>
     <link>https://github.com/vim/vim</link>
@@ -36,19 +36,14 @@
     <description>Go development plugin for Vim</description>
   </item>
   <item>
-    <title>kristijanhusak / vim-dadbod-ui</title>
-    <link>https://github.com/kristijanhusak/vim-dadbod-ui</link>
-    <description>Simple UI for https://github.com/tpope/vim-dadbod</description>
-  </item>
-  <item>
     <title>dense-analysis / ale</title>
     <link>https://github.com/dense-analysis/ale</link>
     <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
   </item>
   <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+    <title>kristijanhusak / vim-dadbod-ui</title>
+    <link>https://github.com/kristijanhusak/vim-dadbod-ui</link>
+    <description>Simple UI for https://github.com/tpope/vim-dadbod</description>
   </item>
   <item>
     <title>morhetz / gruvbox</title>
@@ -56,9 +51,9 @@
     <description>Retro groove color scheme for Vim</description>
   </item>
   <item>
-    <title>editorconfig / editorconfig-vim</title>
-    <link>https://github.com/editorconfig/editorconfig-vim</link>
-    <description>EditorConfig plugin for Vim</description>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
     <title>tpope / vim-rhubarb</title>
@@ -76,9 +71,9 @@
     <description>abolish.vim: Work with several variants of a word at once</description>
   </item>
   <item>
-    <title>easymotion / vim-easymotion</title>
-    <link>https://github.com/easymotion/vim-easymotion</link>
-    <description>Vim motions on speed!</description>
+    <title>hrsh7th / vim-vsnip</title>
+    <link>https://github.com/hrsh7th/vim-vsnip</link>
+    <description>Snippet plugin for vim/nvim that supports LSP/VSCode&#x27;s snippet format.</description>
   </item>
   <item>
     <title>amix / vimrc</title>
@@ -86,24 +81,24 @@
     <description>The ultimate Vim configuration (vimrc)</description>
   </item>
   <item>
-    <title>godlygeek / tabular</title>
-    <link>https://github.com/godlygeek/tabular</link>
-    <description>Vim script for text filtering and alignment</description>
-  </item>
-  <item>
-    <title>hrsh7th / vim-vsnip</title>
-    <link>https://github.com/hrsh7th/vim-vsnip</link>
-    <description>Snippet plugin for vim/nvim that supports LSP/VSCode&#x27;s snippet format.</description>
-  </item>
-  <item>
-    <title>mhinz / vim-galore</title>
-    <link>https://github.com/mhinz/vim-galore</link>
-    <description>🎓 All things Vim!</description>
-  </item>
-  <item>
     <title>mg979 / vim-visual-multi</title>
     <link>https://github.com/mg979/vim-visual-multi</link>
     <description>Multiple cursors plugin for vim/neovim</description>
+  </item>
+  <item>
+    <title>editorconfig / editorconfig-vim</title>
+    <link>https://github.com/editorconfig/editorconfig-vim</link>
+    <description>EditorConfig plugin for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-eunuch</title>
+    <link>https://github.com/tpope/vim-eunuch</link>
+    <description>eunuch.vim: Helpers for UNIX</description>
+  </item>
+  <item>
+    <title>easymotion / vim-easymotion</title>
+    <link>https://github.com/easymotion/vim-easymotion</link>
+    <description>Vim motions on speed!</description>
   </item>
 </channel>
 </rss>

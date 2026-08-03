@@ -2,18 +2,8 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
-    {
-      "title": "argoproj / argocd-example-apps",
-      "url": "https://github.com/argoproj/argocd-example-apps",
-      "description": "Example Apps to Demonstrate Argo CD",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 2149,
-      "forks": 10147,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "prometheus-operator / kube-prometheus",
       "url": "https://github.com/prometheus-operator/kube-prometheus",
@@ -32,16 +22,6 @@
       "languageColor": "#0064bd",
       "stars": 41,
       "forks": 18,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "grafana / jsonnet-libs",
-      "url": "https://github.com/grafana/jsonnet-libs",
-      "description": "Grafana Labs' Jsonnet libraries",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 726,
-      "forks": 187,
       "added_stars": "0 stars today"
     }
   ]

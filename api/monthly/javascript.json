@@ -2,27 +2,27 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
-    {
-      "title": "openai / codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 30883,
-      "forks": 2043,
-      "added_stars": "9,083 stars this month"
-    },
     {
       "title": "asgeirtj / system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 61883,
-      "forks": 10113,
-      "added_stars": "14,616 stars this month"
+      "stars": 62030,
+      "forks": 10125,
+      "added_stars": "14,554 stars this month"
+    },
+    {
+      "title": "openai / codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 31016,
+      "forks": 2052,
+      "added_stars": "8,880 stars this month"
     },
     {
       "title": "pbakaus / impeccable",
@@ -30,19 +30,9 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 53790,
-      "forks": 3202,
-      "added_stars": "11,229 stars this month"
-    },
-    {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 95129,
-      "forks": 5455,
-      "added_stars": "16,860 stars this month"
+      "stars": 54172,
+      "forks": 3217,
+      "added_stars": "11,349 stars this month"
     },
     {
       "title": "earthtojake / text-to-cad",
@@ -50,9 +40,19 @@
       "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 12410,
-      "forks": 1317,
-      "added_stars": "5,036 stars this month"
+      "stars": 12552,
+      "forks": 1328,
+      "added_stars": "5,102 stars this month"
+    },
+    {
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 95332,
+      "forks": 5465,
+      "added_stars": "15,098 stars this month"
     },
     {
       "title": "kunchenguid / lavish-axi",
@@ -60,9 +60,9 @@
       "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 2458,
-      "forks": 214,
-      "added_stars": "1,146 stars this month"
+      "stars": 2484,
+      "forks": 216,
+      "added_stars": "1,077 stars this month"
     },
     {
       "title": "OpenWhispr / openwhispr",
@@ -70,9 +70,9 @@
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5094,
+      "stars": 5121,
       "forks": 723,
-      "added_stars": "956 stars this month"
+      "added_stars": "941 stars this month"
     },
     {
       "title": "fastify / fastify",
@@ -80,19 +80,9 @@
       "description": "Fast and low overhead web framework, for Node.js",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 36906,
-      "forks": 2922,
-      "added_stars": "509 stars this month"
-    },
-    {
-      "title": "ilysenko / codex-desktop-linux",
-      "url": "https://github.com/ilysenko/codex-desktop-linux",
-      "description": "Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 3236,
-      "forks": 414,
-      "added_stars": "1,244 stars this month"
+      "stars": 36913,
+      "forks": 2923,
+      "added_stars": "505 stars this month"
     },
     {
       "title": "nodejs / node",
@@ -100,19 +90,9 @@
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 118609,
-      "forks": 36290,
-      "added_stars": "1,467 stars this month"
-    },
-    {
-      "title": "eslint / eslint",
-      "url": "https://github.com/eslint/eslint",
-      "description": "Find and fix problems in your JavaScript code.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 27434,
-      "forks": 5145,
-      "added_stars": "297 stars this month"
+      "stars": 118682,
+      "forks": 36304,
+      "added_stars": "1,410 stars this month"
     },
     {
       "title": "webtorrent / webtorrent",
@@ -120,9 +100,19 @@
       "description": "⚡️ Streaming torrent client for the web",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 31307,
+      "stars": 31311,
       "forks": 2907,
-      "added_stars": "515 stars this month"
+      "added_stars": "462 stars this month"
+    },
+    {
+      "title": "eslint / eslint",
+      "url": "https://github.com/eslint/eslint",
+      "description": "Find and fix problems in your JavaScript code.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 27435,
+      "forks": 5145,
+      "added_stars": "248 stars this month"
     },
     {
       "title": "vercel / next.js",
@@ -130,29 +120,19 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 141220,
-      "forks": 31600,
-      "added_stars": "1,756 stars this month"
+      "stars": 141303,
+      "forks": 31606,
+      "added_stars": "1,690 stars this month"
     },
     {
-      "title": "Leonxlnx / taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "title": "ilysenko / codex-desktop-linux",
+      "url": "https://github.com/ilysenko/codex-desktop-linux",
+      "description": "Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 70101,
-      "forks": 4834,
-      "added_stars": "16,083 stars this month"
-    },
-    {
-      "title": "coreyhaines31 / marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 42662,
-      "forks": 6717,
-      "added_stars": "7,092 stars this month"
+      "stars": 3283,
+      "forks": 418,
+      "added_stars": "1,254 stars this month"
     },
     {
       "title": "webpack / webpack",
@@ -160,9 +140,19 @@
       "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 65868,
+      "stars": 65869,
       "forks": 9473,
-      "added_stars": "302 stars this month"
+      "added_stars": "242 stars this month"
+    },
+    {
+      "title": "tradesdontlie / tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 5430,
+      "forks": 2363,
+      "added_stars": "1,346 stars this month"
     },
     {
       "title": "microsoft / power-platform-skills",
@@ -170,9 +160,9 @@
       "description": "A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 590,
-      "forks": 120,
-      "added_stars": "193 stars this month"
+      "stars": 593,
+      "forks": 121,
+      "added_stars": "190 stars this month"
     },
     {
       "title": "GargantuaX / gemini-watermark-remover",
@@ -180,9 +170,9 @@
       "description": "A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5137,
+      "stars": 5147,
       "forks": 769,
-      "added_stars": "593 stars this month"
+      "added_stars": "585 stars this month"
     },
     {
       "title": "prettier / prettier",
@@ -190,19 +180,9 @@
       "description": "Prettier is an opinionated code formatter.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 52169,
-      "forks": 4933,
-      "added_stars": "365 stars this month"
-    },
-    {
-      "title": "conorbronsdon / avoid-ai-writing",
-      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
-      "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 2744,
-      "forks": 252,
-      "added_stars": "641 stars this month"
+      "stars": 52170,
+      "forks": 4932,
+      "added_stars": "323 stars this month"
     },
     {
       "title": "bigskysoftware / htmx",
@@ -210,19 +190,29 @@
       "description": "</> htmx - high power tools for HTML",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 48870,
-      "forks": 1632,
-      "added_stars": "622 stars this month"
+      "stars": 48881,
+      "forks": 1633,
+      "added_stars": "624 stars this month"
     },
     {
-      "title": "fbsamples / whatsapp-business-jaspers-market",
-      "url": "https://github.com/fbsamples/whatsapp-business-jaspers-market",
-      "description": "Sample Whatsapp App - Jasper's Market",
+      "title": "Leonxlnx / taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 596,
-      "forks": 487,
-      "added_stars": "178 stars this month"
+      "stars": 70574,
+      "forks": 4856,
+      "added_stars": "15,865 stars this month"
+    },
+    {
+      "title": "conorbronsdon / avoid-ai-writing",
+      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
+      "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 2760,
+      "forks": 255,
+      "added_stars": "643 stars this month"
     }
   ]
 }

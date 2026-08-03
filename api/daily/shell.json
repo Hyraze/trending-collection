@@ -2,147 +2,17 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
-      "title": "github / copilot-cli",
-      "url": "https://github.com/github/copilot-cli",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 11041,
-      "forks": 1854,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "deanpeters / Product-Manager-Skills",
-      "url": "https://github.com/deanpeters/Product-Manager-Skills",
-      "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 6177,
-      "forks": 754,
+      "stars": 24267,
+      "forks": 2435,
       "added_stars": "25 stars today"
-    },
-    {
-      "title": "czlonkowski / n8n-skills",
-      "url": "https://github.com/czlonkowski/n8n-skills",
-      "description": "n8n skillset for Claude Code to build flawless n8n workflows",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 5948,
-      "forks": 993,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "themactep / thingino-firmware",
-      "url": "https://github.com/themactep/thingino-firmware",
-      "description": "Open-source firmware for Ingenic SoC IP cameras",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1916,
-      "forks": 275,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "nvm-sh / nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 94309,
-      "forks": 10306,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "HQarroum / docker-android",
-      "url": "https://github.com/HQarroum/docker-android",
-      "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 7183,
-      "forks": 549,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 264849,
-      "forks": 23648,
-      "added_stars": "408 stars today"
-    },
-    {
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 199148,
-      "forks": 17164,
-      "added_stars": "1,221 stars today"
-    },
-    {
-      "title": "a2aproject / A2A",
-      "url": "https://github.com/a2aproject/A2A",
-      "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 25137,
-      "forks": 2542,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "VoltAgent / awesome-claude-code-subagents",
-      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-      "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 23934,
-      "forks": 2781,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "nelvko / clash-for-linux-install",
-      "url": "https://github.com/nelvko/clash-for-linux-install",
-      "description": "😼 优雅地使用基于 clash/mihomo 的代理环境",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 14303,
-      "forks": 1593,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "awesome-jellyfin / awesome-jellyfin",
-      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 8765,
-      "forks": 257,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "mack-a / v2ray-agent",
-      "url": "https://github.com/mack-a/v2ray-agent",
-      "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 21596,
-      "forks": 5531,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "youngyangyang04 / leetcode-master",
-      "url": "https://github.com/youngyangyang04/leetcode-master",
-      "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 62070,
-      "forks": 12312,
-      "added_stars": "4 stars today"
     },
     {
       "title": "eugr / spark-vllm-docker",
@@ -150,29 +20,19 @@
       "description": "Docker configuration for running VLLM on dual DGX Sparks",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1931,
-      "forks": 347,
-      "added_stars": "6 stars today"
+      "stars": 1940,
+      "forks": 349,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "google / adk-docs",
-      "url": "https://github.com/google/adk-docs",
-      "description": "An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1460,
-      "forks": 1191,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "hcengineering / huly-selfhost",
-      "url": "https://github.com/hcengineering/huly-selfhost",
-      "description": "Huly for Self Hosting",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 3447,
-      "forks": 437,
-      "added_stars": "2 stars today"
+      "stars": 138237,
+      "forks": 22580,
+      "added_stars": "154 stars today"
     },
     {
       "title": "InfinityLoop1308 / PipePipe",
@@ -180,19 +40,79 @@
       "description": "An open-source Android app to let you browse YouTube and other services freely.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 5781,
+      "stars": 5790,
       "forks": 189,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "bin456789 / reinstall",
+      "url": "https://github.com/bin456789/reinstall",
+      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 12662,
+      "forks": 2045,
       "added_stars": "6 stars today"
     },
     {
-      "title": "assafdori / bypass-mdm",
-      "url": "https://github.com/assafdori/bypass-mdm",
-      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
+      "title": "jqssun / android-titanium-browser",
+      "url": "https://github.com/jqssun/android-titanium-browser",
+      "description": "Secure open-source Android browser with support for extensions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2033,
-      "forks": 483,
+      "stars": 1844,
+      "forks": 67,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "HyDE-Project / HyDE",
+      "url": "https://github.com/HyDE-Project/HyDE",
+      "description": "HyDE, your Development Environment 🖥️💻",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9439,
+      "forks": 624,
       "added_stars": "3 stars today"
+    },
+    {
+      "title": "community-scripts / ProxmoxVE",
+      "url": "https://github.com/community-scripts/ProxmoxVE",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 29151,
+      "forks": 2803,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "tracelabs / tlosint-vm",
+      "url": "https://github.com/tracelabs/tlosint-vm",
+      "description": "Trace Labs OSINT VM",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1052,
+      "forks": 125,
+      "added_stars": "27 stars today"
+    },
+    {
+      "title": "ohmyzsh / ohmyzsh",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 188959,
+      "forks": 26531,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "mbadolato / iTerm2-Color-Schemes",
+      "url": "https://github.com/mbadolato/iTerm2-Color-Schemes",
+      "description": "Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 27103,
+      "forks": 6519,
+      "added_stars": "6 stars today"
     }
   ]
 }

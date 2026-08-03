@@ -2,107 +2,27 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
-      "title": "github / gh-stack",
-      "url": "https://github.com/github/gh-stack",
-      "description": "GitHub Stacked PRs",
+      "title": "esengine / DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 852,
-      "forks": 38,
-      "added_stars": "46 stars today"
+      "stars": 29295,
+      "forks": 1888,
+      "added_stars": "333 stars today"
     },
     {
-      "title": "junegunn / fzf",
-      "url": "https://github.com/junegunn/fzf",
-      "description": "🌸 A command-line fuzzy finder",
+      "title": "masterking32 / MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 82129,
-      "forks": 2830,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "Gentleman-Programming / gentle-ai",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai",
-      "description": "",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5283,
-      "forks": 628,
-      "added_stars": "58 stars today"
-    },
-    {
-      "title": "cli / cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 45581,
-      "forks": 8805,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "superplanehq / superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "The open source control plane for agentic engineering.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4386,
-      "forks": 421,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "traefik / traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 64228,
-      "forks": 6113,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "gtsteffaniak / filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7615,
-      "forks": 399,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "Ed1s0nZ / CyberStrikeAI",
-      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-      "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5457,
-      "forks": 874,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 43183,
-      "forks": 5472,
-      "added_stars": "211 stars today"
-    },
-    {
-      "title": "MHSanaei / 3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 44086,
-      "forks": 8474,
-      "added_stars": "56 stars today"
+      "stars": 6873,
+      "forks": 737,
+      "added_stars": "9 stars today"
     },
     {
       "title": "binwiederhier / ntfy",
@@ -110,29 +30,59 @@
       "description": "Send push notifications to your phone or desktop using PUT/POST",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32725,
-      "forks": 1479,
-      "added_stars": "119 stars today"
+      "stars": 32782,
+      "forks": 1485,
+      "added_stars": "57 stars today"
     },
     {
-      "title": "XTLS / Xray-core",
-      "url": "https://github.com/XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "The open source control plane for agentic engineering.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 40813,
-      "forks": 5738,
-      "added_stars": "24 stars today"
+      "stars": 4391,
+      "forks": 436,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "title": "stretchr / testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37200,
-      "forks": 563,
-      "added_stars": "26 stars today"
+      "stars": 26147,
+      "forks": 1858,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 956,
+      "forks": 182,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "Gentleman-Programming / gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5327,
+      "forks": 629,
+      "added_stars": "51 stars today"
+    },
+    {
+      "title": "Solr159 / JavBoss",
+      "url": "https://github.com/Solr159/JavBoss",
+      "description": "开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV/video manager.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 305,
+      "forks": 27,
+      "added_stars": "25 stars today"
     },
     {
       "title": "pranshuparmar / witr",
@@ -140,69 +90,139 @@
       "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18467,
+      "stars": 18521,
       "forks": 585,
-      "added_stars": "48 stars today"
+      "added_stars": "60 stars today"
     },
     {
-      "title": "caddyserver / caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "title": "github / gh-stack",
+      "url": "https://github.com/github/gh-stack",
+      "description": "GitHub Stacked PRs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 74565,
-      "forks": 4856,
-      "added_stars": "34 stars today"
+      "stars": 923,
+      "forks": 39,
+      "added_stars": "174 stars today"
     },
     {
-      "title": "prometheus / prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 65408,
-      "forks": 10732,
-      "added_stars": "16 stars today"
+      "stars": 43321,
+      "forks": 5498,
+      "added_stars": "143 stars today"
     },
     {
-      "title": "googleapis / mcp-toolbox",
-      "url": "https://github.com/googleapis/mcp-toolbox",
-      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "title": "XTLS / Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16097,
-      "forks": 1667,
-      "added_stars": "4 stars today"
+      "stars": 40835,
+      "forks": 5742,
+      "added_stars": "26 stars today"
     },
     {
-      "title": "esengine / DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "title": "kgretzky / evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28598,
-      "forks": 1838,
-      "added_stars": "274 stars today"
+      "stars": 15418,
+      "forks": 2689,
+      "added_stars": "20 stars today"
     },
     {
-      "title": "siderolabs / talos",
-      "url": "https://github.com/siderolabs/talos",
-      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "title": "adithyan-ak / AgentHound",
+      "url": "https://github.com/adithyan-ak/AgentHound",
+      "description": "Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10859,
-      "forks": 866,
-      "added_stars": "8 stars today"
+      "stars": 200,
+      "forks": 48,
+      "added_stars": "28 stars today"
     },
     {
-      "title": "trpc-group / trpc-agent-go",
-      "url": "https://github.com/trpc-group/trpc-agent-go",
-      "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
+      "title": "sundowndev / phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1625,
-      "forks": 285,
-      "added_stars": "5 stars today"
+      "stars": 17260,
+      "forks": 5235,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "AlexxIT / go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 13701,
+      "forks": 1216,
+      "added_stars": "65 stars today"
+    },
+    {
+      "title": "tailscale / tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 34731,
+      "forks": 2967,
+      "added_stars": "69 stars today"
+    },
+    {
+      "title": "sipeed / picoclaw",
+      "url": "https://github.com/sipeed/picoclaw",
+      "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 29800,
+      "forks": 4378,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "traefik / traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 64249,
+      "forks": 6114,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "MHSanaei / 3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 44145,
+      "forks": 8495,
+      "added_stars": "69 stars today"
+    },
+    {
+      "title": "1Panel-dev / 1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 36414,
+      "forks": 3280,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "kubescape / kubescape",
+      "url": "https://github.com/kubescape/kubescape",
+      "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11557,
+      "forks": 974,
+      "added_stars": "3 stars today"
     }
   ]
 }

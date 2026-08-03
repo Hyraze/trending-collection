@@ -4,16 +4,26 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:22:49 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
   <item>
     <title>xenodium / agent-shell</title>
     <link>https://github.com/xenodium/agent-shell</link>
     <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
   </item>
   <item>
-    <title>magit / transient</title>
-    <link>https://github.com/magit/transient</link>
-    <description>Transient commands</description>
+    <title>syl20bnr / spacemacs</title>
+    <link>https://github.com/syl20bnr/spacemacs</link>
+    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
+  </item>
+  <item>
+    <title>melpa / melpa</title>
+    <link>https://github.com/melpa/melpa</link>
+    <description>Recipes and build machinery for the biggest Emacs package repo</description>
+  </item>
+  <item>
+    <title>magit / magit</title>
+    <link>https://github.com/magit/magit</link>
+    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
   </item>
   <item>
     <title>doomemacs / core</title>
@@ -26,24 +36,24 @@
     <description>Terminal emulator powered by libghostty</description>
   </item>
   <item>
+    <title>oantolin / embark</title>
+    <link>https://github.com/oantolin/embark</link>
+    <description>Emacs Mini-Buffer Actions Rooted in Keymaps</description>
+  </item>
+  <item>
     <title>emacs-mirror / emacs</title>
     <link>https://github.com/emacs-mirror/emacs</link>
     <description>Mirror of GNU Emacs</description>
   </item>
   <item>
-    <title>karthink / gptel</title>
-    <link>https://github.com/karthink/gptel</link>
-    <description>A simple, extensible LLM client for Emacs</description>
+    <title>jrblevin / markdown-mode</title>
+    <link>https://github.com/jrblevin/markdown-mode</link>
+    <description>Emacs Markdown Mode</description>
   </item>
   <item>
-    <title>radian-software / straight.el</title>
-    <link>https://github.com/radian-software/straight.el</link>
-    <description>🍀 Next-generation, purely functional package manager for the Emacs hacker.</description>
-  </item>
-  <item>
-    <title>melpa / melpa</title>
-    <link>https://github.com/melpa/melpa</link>
-    <description>Recipes and build machinery for the biggest Emacs package repo</description>
+    <title>magnars / dash.el</title>
+    <link>https://github.com/magnars/dash.el</link>
+    <description>A modern list library for Emacs</description>
   </item>
   <item>
     <title>flycheck / flycheck</title>

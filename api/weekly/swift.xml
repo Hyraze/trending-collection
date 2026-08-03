@@ -4,7 +4,7 @@
   <title>GitHub Swift Languages Daily Trending</title>
   <description>Daily Trending of Swift Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:24:59 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
   <item>
     <title>permissionlesstech / bitchat</title>
     <link>https://github.com/permissionlesstech/bitchat</link>
@@ -16,14 +16,14 @@
     <description>macOS video editor built for AI</description>
   </item>
   <item>
-    <title>StephenDev0 / StikDebug</title>
-    <link>https://github.com/StephenDev0/StikDebug</link>
-    <description>An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.</description>
-  </item>
-  <item>
     <title>quoid / userscripts</title>
     <link>https://github.com/quoid/userscripts</link>
     <description>An open-source userscript manager for Safari</description>
+  </item>
+  <item>
+    <title>LiveContainer / LiveContainer</title>
+    <link>https://github.com/LiveContainer/LiveContainer</link>
+    <description>Run iOS apps without actually installing them!</description>
   </item>
   <item>
     <title>ronitsingh10 / FineTune</title>
@@ -36,14 +36,9 @@
     <description>Synchronized multi-client state for AI agent sessions</description>
   </item>
   <item>
-    <title>LiveContainer / LiveContainer</title>
-    <link>https://github.com/LiveContainer/LiveContainer</link>
-    <description>Run iOS apps without actually installing them!</description>
-  </item>
-  <item>
-    <title>jellyfin / Swiftfin</title>
-    <link>https://github.com/jellyfin/Swiftfin</link>
-    <description>Native Jellyfin Client for iOS and tvOS</description>
+    <title>utmapp / UTM</title>
+    <link>https://github.com/utmapp/UTM</link>
+    <description>Virtual machines for iOS and macOS</description>
   </item>
   <item>
     <title>ts1 / BLEUnlock</title>
@@ -56,9 +51,9 @@
     <description>Telegram-iOS</description>
   </item>
   <item>
-    <title>Ebullioscopic / Atoll</title>
-    <link>https://github.com/Ebullioscopic/Atoll</link>
-    <description>Dynamic Island for macOS</description>
+    <title>duongductrong / Snapzy</title>
+    <link>https://github.com/duongductrong/Snapzy</link>
+    <description>An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.</description>
   </item>
   <item>
     <title>pluk-inc / markdown-preview</title>
@@ -66,34 +61,9 @@
     <description>A simple Markdown viewer for reading .md files</description>
   </item>
   <item>
-    <title>swiftlang / swift</title>
-    <link>https://github.com/swiftlang/swift</link>
-    <description>The Swift Programming Language</description>
-  </item>
-  <item>
-    <title>utmapp / UTM</title>
-    <link>https://github.com/utmapp/UTM</link>
-    <description>Virtual machines for iOS and macOS</description>
-  </item>
-  <item>
-    <title>matthartman / ghost-pepper</title>
-    <link>https://github.com/matthartman/ghost-pepper</link>
-    <description>100% private on-device voice models for speech-to-text and meeting transcription on macOS</description>
-  </item>
-  <item>
-    <title>github / CopilotForXcode</title>
-    <link>https://github.com/github/CopilotForXcode</link>
-    <description>AI coding assistant for Xcode</description>
-  </item>
-  <item>
-    <title>RevenueCat / purchases-ios</title>
-    <link>https://github.com/RevenueCat/purchases-ios</link>
-    <description>In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</description>
-  </item>
-  <item>
-    <title>duongductrong / Snapzy</title>
-    <link>https://github.com/duongductrong/Snapzy</link>
-    <description>An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.</description>
+    <title>FluidInference / FluidAudio</title>
+    <link>https://github.com/FluidInference/FluidAudio</link>
+    <description>Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.</description>
   </item>
   <item>
     <title>groue / GRDB.swift</title>
@@ -101,9 +71,29 @@
     <description>A toolkit for SQLite databases, with a focus on application development</description>
   </item>
   <item>
-    <title>supertone-inc / supertonic</title>
-    <link>https://github.com/supertone-inc/supertonic</link>
-    <description>Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.</description>
+    <title>exelban / stats</title>
+    <link>https://github.com/exelban/stats</link>
+    <description>macOS system monitor in your menu bar</description>
+  </item>
+  <item>
+    <title>matthartman / ghost-pepper</title>
+    <link>https://github.com/matthartman/ghost-pepper</link>
+    <description>100% private on-device voice models for speech-to-text and meeting transcription on macOS</description>
+  </item>
+  <item>
+    <title>jellyfin / Swiftfin</title>
+    <link>https://github.com/jellyfin/Swiftfin</link>
+    <description>Native Jellyfin Client for iOS and tvOS</description>
+  </item>
+  <item>
+    <title>p0deje / Maccy</title>
+    <link>https://github.com/p0deje/Maccy</link>
+    <description>Lightweight clipboard manager for macOS</description>
+  </item>
+  <item>
+    <title>github / CopilotForXcode</title>
+    <link>https://github.com/github/CopilotForXcode</link>
+    <description>AI coding assistant for Xcode</description>
   </item>
 </channel>
 </rss>

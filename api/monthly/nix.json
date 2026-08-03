@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,9 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 25614,
-      "forks": 19687,
-      "added_stars": "389 stars this month"
+      "stars": 25632,
+      "forks": 19696,
+      "added_stars": "390 stars this month"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -20,7 +20,7 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1682,
+      "stars": 1690,
       "forks": 188,
       "added_stars": "191 stars this month"
     },
@@ -30,9 +30,9 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10161,
-      "forks": 2447,
-      "added_stars": "161 stars this month"
+      "stars": 10164,
+      "forks": 2448,
+      "added_stars": "159 stars this month"
     },
     {
       "title": "nix-darwin / nix-darwin",
@@ -40,9 +40,9 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 5767,
-      "forks": 653,
-      "added_stars": "154 stars this month"
+      "stars": 5770,
+      "forks": 654,
+      "added_stars": "152 stars this month"
     },
     {
       "title": "NixOS / nix.dev",
@@ -50,9 +50,9 @@
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3896,
-      "forks": 335,
-      "added_stars": "60 stars this month"
+      "stars": 3898,
+      "forks": 336,
+      "added_stars": "59 stars this month"
     },
     {
       "title": "Mic92 / sops-nix",
@@ -60,8 +60,8 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3066,
-      "forks": 225,
+      "stars": 3070,
+      "forks": 226,
       "added_stars": "93 stars this month"
     },
     {
@@ -72,7 +72,7 @@
       "languageColor": "#7e7eff",
       "stars": 3226,
       "forks": 318,
-      "added_stars": "77 stars this month"
+      "added_stars": "76 stars this month"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -80,49 +80,9 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3233,
-      "forks": 956,
-      "added_stars": "54 stars this month"
-    },
-    {
-      "title": "numtide / system-manager",
-      "url": "https://github.com/numtide/system-manager",
-      "description": "Manage system config using nix on any distro",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1662,
-      "forks": 56,
-      "added_stars": "55 stars this month"
-    },
-    {
-      "title": "Misterio77 / nix-starter-configs",
-      "url": "https://github.com/Misterio77/nix-starter-configs",
-      "description": "Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3781,
-      "forks": 177,
-      "added_stars": "48 stars this month"
-    },
-    {
-      "title": "ryantm / agenix",
-      "url": "https://github.com/ryantm/agenix",
-      "description": "age-encrypted secrets for NixOS and Home manager",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2447,
-      "forks": 156,
-      "added_stars": "44 stars this month"
-    },
-    {
-      "title": "microvm-nix / microvm.nix",
-      "url": "https://github.com/microvm-nix/microvm.nix",
-      "description": "NixOS MicroVMs",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2799,
-      "forks": 219,
-      "added_stars": "90 stars this month"
+      "stars": 3234,
+      "forks": 955,
+      "added_stars": "53 stars this month"
     },
     {
       "title": "nix-community / NixOS-WSL",
@@ -135,14 +95,54 @@
       "added_stars": "52 stars this month"
     },
     {
-      "title": "sodiboo / niri-flake",
-      "url": "https://github.com/sodiboo/niri-flake",
-      "description": "Nix-native configuration for niri",
+      "title": "numtide / system-manager",
+      "url": "https://github.com/numtide/system-manager",
+      "description": "Manage system config using nix on any distro",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 954,
-      "forks": 139,
-      "added_stars": "46 stars this month"
+      "stars": 1663,
+      "forks": 56,
+      "added_stars": "54 stars this month"
+    },
+    {
+      "title": "Misterio77 / nix-starter-configs",
+      "url": "https://github.com/Misterio77/nix-starter-configs",
+      "description": "Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3781,
+      "forks": 178,
+      "added_stars": "47 stars this month"
+    },
+    {
+      "title": "microvm-nix / microvm.nix",
+      "url": "https://github.com/microvm-nix/microvm.nix",
+      "description": "NixOS MicroVMs",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2805,
+      "forks": 219,
+      "added_stars": "91 stars this month"
+    },
+    {
+      "title": "openclaw / nix-openclaw",
+      "url": "https://github.com/openclaw/nix-openclaw",
+      "description": "Packages OpenClaw for nix.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 708,
+      "forks": 221,
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "nix-community / nixvim",
+      "url": "https://github.com/nix-community/nixvim",
+      "description": "Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2896,
+      "forks": 396,
+      "added_stars": "32 stars this month"
     }
   ]
 }

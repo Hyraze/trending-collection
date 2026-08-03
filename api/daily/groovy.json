@@ -2,8 +2,18 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
+    {
+      "title": "gradle / gradle",
+      "url": "https://github.com/gradle/gradle",
+      "description": "Adaptable, fast automation for all",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 18750,
+      "forks": 5294,
+      "added_stars": "4 stars today"
+    },
     {
       "title": "rundeck / rundeck",
       "url": "https://github.com/rundeck/rundeck",
@@ -12,6 +22,16 @@
       "languageColor": "#4298b8",
       "stars": 6250,
       "forks": 983,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "nextflow-io / nextflow",
+      "url": "https://github.com/nextflow-io/nextflow",
+      "description": "A DSL for data-driven computational pipelines",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 3453,
+      "forks": 800,
       "added_stars": "1 star today"
     }
   ]

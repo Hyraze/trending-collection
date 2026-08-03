@@ -2,17 +2,17 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
-      "title": "opf / openproject",
-      "url": "https://github.com/opf/openproject",
-      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub",
+      "title": "chatwoot / chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 15737,
-      "forks": 3398,
-      "added_stars": "75 stars this week"
+      "stars": 35416,
+      "forks": 8485,
+      "added_stars": "643 stars this week"
     },
     {
       "title": "discourse / discourse",
@@ -20,19 +20,9 @@
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 47576,
-      "forks": 8975,
+      "stars": 47591,
+      "forks": 8978,
       "added_stars": "65 stars this week"
-    },
-    {
-      "title": "chatwoot / chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 35318,
-      "forks": 8460,
-      "added_stars": "559 stars this week"
     },
     {
       "title": "rapid7 / metasploit-framework",
@@ -40,19 +30,19 @@
       "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 38704,
-      "forks": 14926,
-      "added_stars": "66 stars this week"
+      "stars": 38723,
+      "forks": 14925,
+      "added_stars": "77 stars this week"
     },
     {
-      "title": "github / explore",
-      "url": "https://github.com/github/explore",
-      "description": "Community-curated topic and collection pages on GitHub",
+      "title": "opf / openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 4839,
-      "forks": 14409,
-      "added_stars": "17 stars this week"
+      "stars": 15743,
+      "forks": 3399,
+      "added_stars": "69 stars this week"
     },
     {
       "title": "Homebrew / brew",
@@ -60,9 +50,19 @@
       "description": "🍺 The Package Manager for Everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 49029,
-      "forks": 11269,
-      "added_stars": "104 stars this week"
+      "stars": 49036,
+      "forks": 11266,
+      "added_stars": "107 stars this week"
+    },
+    {
+      "title": "github / explore",
+      "url": "https://github.com/github/explore",
+      "description": "Community-curated topic and collection pages on GitHub",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 4841,
+      "forks": 14415,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "Homebrew / homebrew-cask",
@@ -70,29 +70,19 @@
       "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 22135,
-      "forks": 11775,
-      "added_stars": "21 stars this week"
+      "stars": 22139,
+      "forks": 11773,
+      "added_stars": "18 stars this week"
     },
     {
-      "title": "basecamp / once-campfire",
-      "url": "https://github.com/basecamp/once-campfire",
-      "description": "Super simple group chat, without a subscription",
+      "title": "ubicloud / ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 4463,
-      "forks": 760,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "zammad / zammad",
-      "url": "https://github.com/zammad/zammad",
-      "description": "Zammad is a web based open source helpdesk/customer support system.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 5819,
-      "forks": 1025,
-      "added_stars": "34 stars this week"
+      "stars": 12201,
+      "forks": 580,
+      "added_stars": "39 stars this week"
     },
     {
       "title": "we-promise / sure",
@@ -100,59 +90,9 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 9226,
-      "forks": 315,
-      "added_stars": "84 stars this week"
-    },
-    {
-      "title": "basecamp / fizzy",
-      "url": "https://github.com/basecamp/fizzy",
-      "description": "Kanban as it should be. Not as it has been.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 8021,
-      "forks": 1164,
-      "added_stars": "36 stars this week"
-    },
-    {
-      "title": "antiwork / gumroad",
-      "url": "https://github.com/antiwork/gumroad",
-      "description": "See what sticks",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 9506,
-      "forks": 2001,
-      "added_stars": "39 stars this week"
-    },
-    {
-      "title": "huginn / huginn",
-      "url": "https://github.com/huginn/huginn",
-      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 49735,
-      "forks": 4286,
-      "added_stars": "66 stars this week"
-    },
-    {
-      "title": "basecamp / kamal",
-      "url": "https://github.com/basecamp/kamal",
-      "description": "Deploy web apps anywhere.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 14477,
-      "forks": 740,
-      "added_stars": "47 stars this week"
-    },
-    {
-      "title": "dependabot / dependabot-core",
-      "url": "https://github.com/dependabot/dependabot-core",
-      "description": "🤖 Dependabot's core logic for creating update PRs.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 5707,
-      "forks": 1475,
-      "added_stars": "15 stars this week"
+      "stars": 9266,
+      "forks": 320,
+      "added_stars": "108 stars this week"
     },
     {
       "title": "github-linguist / linguist",
@@ -161,48 +101,28 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 13613,
-      "forks": 5311,
+      "forks": 5315,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "zammad / zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 5822,
+      "forks": 1025,
+      "added_stars": "34 stars this week"
+    },
+    {
+      "title": "dependabot / dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 5709,
+      "forks": 1474,
       "added_stars": "15 stars this week"
-    },
-    {
-      "title": "rails / rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 58663,
-      "forks": 22304,
-      "added_stars": "48 stars this week"
-    },
-    {
-      "title": "gitlabhq / gitlabhq",
-      "url": "https://github.com/gitlabhq/gitlabhq",
-      "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 24517,
-      "forks": 5925,
-      "added_stars": "30 stars this week"
-    },
-    {
-      "title": "ubicloud / ubicloud",
-      "url": "https://github.com/ubicloud/ubicloud",
-      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 12197,
-      "forks": 580,
-      "added_stars": "37 stars this week"
-    },
-    {
-      "title": "freeCodeCamp / devdocs",
-      "url": "https://github.com/freeCodeCamp/devdocs",
-      "description": "API Documentation Browser",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 39245,
-      "forks": 2616,
-      "added_stars": "38 stars this week"
     },
     {
       "title": "ruby / ruby",
@@ -210,19 +130,89 @@
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 23668,
+      "stars": 23667,
       "forks": 5624,
-      "added_stars": "20 stars this week"
+      "added_stars": "17 stars this week"
     },
     {
-      "title": "Homebrew / homebrew-core",
-      "url": "https://github.com/Homebrew/homebrew-core",
-      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+      "title": "huginn / huginn",
+      "url": "https://github.com/huginn/huginn",
+      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 15473,
-      "forks": 13705,
-      "added_stars": "18 stars this week"
+      "stars": 49734,
+      "forks": 4287,
+      "added_stars": "63 stars this week"
+    },
+    {
+      "title": "antiwork / gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "See what sticks",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 9508,
+      "forks": 2002,
+      "added_stars": "42 stars this week"
+    },
+    {
+      "title": "basecamp / kamal",
+      "url": "https://github.com/basecamp/kamal",
+      "description": "Deploy web apps anywhere.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 14486,
+      "forks": 738,
+      "added_stars": "46 stars this week"
+    },
+    {
+      "title": "freeCodeCamp / devdocs",
+      "url": "https://github.com/freeCodeCamp/devdocs",
+      "description": "API Documentation Browser",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 39251,
+      "forks": 2617,
+      "added_stars": "41 stars this week"
+    },
+    {
+      "title": "gitlabhq / gitlabhq",
+      "url": "https://github.com/gitlabhq/gitlabhq",
+      "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 24521,
+      "forks": 5925,
+      "added_stars": "27 stars this week"
+    },
+    {
+      "title": "rails / rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 58664,
+      "forks": 22300,
+      "added_stars": "46 stars this week"
+    },
+    {
+      "title": "basecamp / fizzy",
+      "url": "https://github.com/basecamp/fizzy",
+      "description": "Kanban as it should be. Not as it has been.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 8024,
+      "forks": 1164,
+      "added_stars": "30 stars this week"
+    },
+    {
+      "title": "basecamp / once-campfire",
+      "url": "https://github.com/basecamp/once-campfire",
+      "description": "Super simple group chat, without a subscription",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 4462,
+      "forks": 760,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "mastodon / mastodon",
@@ -230,9 +220,19 @@
       "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 50159,
+      "stars": 50163,
       "forks": 7478,
-      "added_stars": "40 stars this week"
+      "added_stars": "44 stars this week"
+    },
+    {
+      "title": "rails / solid_queue",
+      "url": "https://github.com/rails/solid_queue",
+      "description": "Database-backed Active Job backend",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 2474,
+      "forks": 244,
+      "added_stars": "17 stars this week"
     }
   ]
 }

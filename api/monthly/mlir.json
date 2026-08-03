@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 19834,
+      "stars": 19841,
       "forks": 3069,
-      "added_stars": "297 stars this month"
+      "added_stars": "291 stars this month"
     },
     {
       "title": "triton-lang / triton-ascend",
@@ -20,9 +20,9 @@
       "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 124,
+      "stars": 125,
       "forks": 169,
-      "added_stars": "40 stars this month"
+      "added_stars": "39 stars this month"
     },
     {
       "title": "intel / intel-xpu-backend-for-triton",
@@ -40,9 +40,9 @@
       "description": "Tenstorrent MLIR compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 294,
-      "forks": 139,
-      "added_stars": "5 stars this month"
+      "stars": 295,
+      "forks": 140,
+      "added_stars": "6 stars this month"
     }
   ]
 }

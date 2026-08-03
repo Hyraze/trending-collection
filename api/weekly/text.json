@@ -2,8 +2,18 @@
   "title": "GitHub Text Languages Daily Trending",
   "description": "Daily Trending of Text Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
+    {
+      "title": "hagezi / dns-blocklists",
+      "url": "https://github.com/hagezi/dns-blocklists",
+      "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
+      "language": "Text",
+      "languageColor": "#ccc",
+      "stars": 24981,
+      "forks": 760,
+      "added_stars": "216 stars this week"
+    },
     {
       "title": "DSPBluePrints / FactoryBluePrints",
       "url": "https://github.com/DSPBluePrints/FactoryBluePrints",
@@ -12,7 +22,7 @@
       "languageColor": "#ccc",
       "stars": 2389,
       "forks": 389,
-      "added_stars": "8 stars this week"
+      "added_stars": "6 stars this week"
     }
   ]
 }

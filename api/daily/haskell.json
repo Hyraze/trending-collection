@@ -2,57 +2,17 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12328,
-      "forks": 502,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27485,
-      "forks": 1218,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "jgm / pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 45639,
-      "forks": 3929,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 39798,
-      "forks": 1937,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1486,
-      "forks": 63,
-      "added_stars": "3 stars today"
+      "stars": 19169,
+      "forks": 1290,
+      "added_stars": "14 stars today"
     },
     {
       "title": "simonmichael / hledger",
@@ -65,24 +25,64 @@
       "added_stars": "2 stars today"
     },
     {
-      "title": "cardano-foundation / cardano-wallet",
-      "url": "https://github.com/cardano-foundation/cardano-wallet",
-      "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.",
+      "title": "digitallyinduced / ihp",
+      "url": "https://github.com/digitallyinduced/ihp",
+      "description": "🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 822,
-      "forks": 233,
+      "stars": 5330,
+      "forks": 224,
       "added_stars": "0 stars today"
     },
     {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19157,
-      "forks": 1290,
-      "added_stars": "17 stars today"
+      "stars": 1492,
+      "forks": 64,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "IntersectMBO / ouroboros-consensus",
+      "url": "https://github.com/IntersectMBO/ouroboros-consensus",
+      "description": "Implementation of a Consensus Layer for the Ouroboros family of protocols",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 67,
+      "forks": 42,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 45648,
+      "forks": 3930,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "IntersectMBO / cardano-ledger",
+      "url": "https://github.com/IntersectMBO/cardano-ledger",
+      "description": "The ledger implementation and specifications of the Cardano blockchain.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 290,
+      "forks": 177,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "diku-dk / futhark",
+      "url": "https://github.com/diku-dk/futhark",
+      "description": "💥💻💥 A data-parallel functional programming language",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2778,
+      "forks": 207,
+      "added_stars": "1 star today"
     }
   ]
 }

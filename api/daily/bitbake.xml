@@ -4,16 +4,16 @@
   <title>GitHub Bitbake Languages Daily Trending</title>
   <description>Daily Trending of Bitbake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:22:49 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
   <item>
-    <title>qualcomm-linux / meta-qcom</title>
-    <link>https://github.com/qualcomm-linux/meta-qcom</link>
-    <description>OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms</description>
+    <title>mendersoftware / meta-mender</title>
+    <link>https://github.com/mendersoftware/meta-mender</link>
+    <description>Yocto Project meta layer for the Mender client</description>
   </item>
   <item>
-    <title>sbabic / meta-swupdate</title>
-    <link>https://github.com/sbabic/meta-swupdate</link>
-    <description>Yocto receipes to generate a swupdate rootfilesystem as initrd</description>
+    <title>Freescale / meta-freescale-3rdparty</title>
+    <link>https://github.com/Freescale/meta-freescale-3rdparty</link>
+    <description>OpenEmbedded/Yocto BSP layer for Freescale&#x27;s ARM based platforms</description>
   </item>
   <item>
     <title>aws4embeddedlinux / meta-aws</title>
@@ -26,14 +26,19 @@
     <description></description>
   </item>
   <item>
-    <title>mendersoftware / meta-mender</title>
-    <link>https://github.com/mendersoftware/meta-mender</link>
-    <description>Yocto Project meta layer for the Mender client</description>
+    <title>ros / meta-ros</title>
+    <link>https://github.com/ros/meta-ros</link>
+    <description>OpenEmbedded Layers for ROS 1 and ROS 2</description>
   </item>
   <item>
-    <title>OE4T / meta-tegra</title>
-    <link>https://github.com/OE4T/meta-tegra</link>
-    <description>BSP layer for NVIDIA Jetson platforms, based on L4T</description>
+    <title>meta-rust / meta-rust</title>
+    <link>https://github.com/meta-rust/meta-rust</link>
+    <description>OpenEmbedded/Yocto layer for Rust and Cargo</description>
+  </item>
+  <item>
+    <title>qualcomm-linux / meta-qcom</title>
+    <link>https://github.com/qualcomm-linux/meta-qcom</link>
+    <description>OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms</description>
   </item>
   <item>
     <title>rauc / meta-rauc</title>
@@ -41,34 +46,14 @@
     <description>Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework</description>
   </item>
   <item>
-    <title>kraj / meta-clang</title>
-    <link>https://github.com/kraj/meta-clang</link>
-    <description>Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</description>
-  </item>
-  <item>
-    <title>nxp-imx / meta-imx</title>
-    <link>https://github.com/nxp-imx/meta-imx</link>
-    <description>i.MX Yocto Project i.MX BSP Layer</description>
-  </item>
-  <item>
-    <title>OSSystems / meta-browser</title>
-    <link>https://github.com/OSSystems/meta-browser</link>
-    <description>OpenEmbedded/Yocto BSP layer for Web Browsers</description>
-  </item>
-  <item>
     <title>meta-qt5 / meta-qt5</title>
     <link>https://github.com/meta-qt5/meta-qt5</link>
     <description>QT5 layer for openembedded</description>
   </item>
   <item>
-    <title>ros / meta-ros</title>
-    <link>https://github.com/ros/meta-ros</link>
-    <description>OpenEmbedded Layers for ROS 1 and ROS 2</description>
-  </item>
-  <item>
-    <title>openembedded / openembedded-core</title>
-    <link>https://github.com/openembedded/openembedded-core</link>
-    <description>The official Git repository is at https://git.openembedded.org/openembedded-core/.</description>
+    <title>OE4T / meta-tegra</title>
+    <link>https://github.com/OE4T/meta-tegra</link>
+    <description>BSP layer for NVIDIA Jetson platforms, based on L4T</description>
   </item>
   <item>
     <title>rust-embedded / meta-rust-bin</title>
@@ -76,9 +61,24 @@
     <description>Yocto layer for installing Rust toolchain from pre-built binaries</description>
   </item>
   <item>
+    <title>sbabic / meta-swupdate</title>
+    <link>https://github.com/sbabic/meta-swupdate</link>
+    <description>Yocto receipes to generate a swupdate rootfilesystem as initrd</description>
+  </item>
+  <item>
     <title>Freescale / meta-freescale</title>
     <link>https://github.com/Freescale/meta-freescale</link>
     <description>Layer containing NXP hardware support metadata</description>
+  </item>
+  <item>
+    <title>meta-flutter / meta-flutter</title>
+    <link>https://github.com/meta-flutter/meta-flutter</link>
+    <description>Yocto/OpenEmbedded layer for building Google Flutter applications, engine, and embedders (BitBake recipes)</description>
+  </item>
+  <item>
+    <title>kraj / meta-clang</title>
+    <link>https://github.com/kraj/meta-clang</link>
+    <description>Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</description>
   </item>
 </channel>
 </rss>

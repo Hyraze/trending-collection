@@ -4,12 +4,7 @@
   <title>GitHub Bikeshed Languages Daily Trending</title>
   <description>Daily Trending of Bikeshed Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:24:59 GMT</pubDate>
-  <item>
-    <title>w3c / csswg-drafts</title>
-    <link>https://github.com/w3c/csswg-drafts</link>
-    <description>CSS Working Group Editor Drafts</description>
-  </item>
+  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
   <item>
     <title>webmachinelearning / webmcp</title>
     <link>https://github.com/webmachinelearning/webmcp</link>
@@ -19,6 +14,16 @@
     <title>immersive-web / webxr</title>
     <link>https://github.com/immersive-web/webxr</link>
     <description>Repository for the WebXR Device API Specification.</description>
+  </item>
+  <item>
+    <title>w3c / csswg-drafts</title>
+    <link>https://github.com/w3c/csswg-drafts</link>
+    <description>CSS Working Group Editor Drafts</description>
+  </item>
+  <item>
+    <title>patcg-individual-drafts / topics</title>
+    <link>https://github.com/patcg-individual-drafts/topics</link>
+    <description>The Topics API</description>
   </item>
   <item>
     <title>gpuweb / gpuweb</title>
@@ -31,16 +36,6 @@
     <description>A mechanism to selectively enable and disable browser features and APIs</description>
   </item>
   <item>
-    <title>patcg-individual-drafts / topics</title>
-    <link>https://github.com/patcg-individual-drafts/topics</link>
-    <description>The Topics API</description>
-  </item>
-  <item>
-    <title>WebAudio / web-audio-api</title>
-    <link>https://github.com/WebAudio/web-audio-api</link>
-    <description>The Web Audio API v1.0, developed by the W3C Audio WG</description>
-  </item>
-  <item>
     <title>w3c / ServiceWorker</title>
     <link>https://github.com/w3c/ServiceWorker</link>
     <description>Service Workers</description>
@@ -49,6 +44,11 @@
     <title>WICG / first-party-sets</title>
     <link>https://github.com/WICG/first-party-sets</link>
     <description></description>
+  </item>
+  <item>
+    <title>WebAudio / web-audio-api</title>
+    <link>https://github.com/WebAudio/web-audio-api</link>
+    <description>The Web Audio API v1.0, developed by the W3C Audio WG</description>
   </item>
   <item>
     <title>w3c / webextensions</title>

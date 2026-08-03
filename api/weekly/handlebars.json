@@ -2,17 +2,27 @@
   "title": "GitHub Handlebars Languages Daily Trending",
   "description": "Daily Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
+    {
+      "title": "microsoft / vscode-codicons",
+      "url": "https://github.com/microsoft/vscode-codicons",
+      "description": "The icon font for Visual Studio Code",
+      "language": "Handlebars",
+      "languageColor": "#f7931e",
+      "stars": 1145,
+      "forks": 209,
+      "added_stars": "2 stars this week"
+    },
     {
       "title": "huggingface / hub-docs",
       "url": "https://github.com/huggingface/hub-docs",
       "description": "Docs of the Hugging Face Hub",
       "language": "Handlebars",
       "languageColor": "#f7931e",
-      "stars": 579,
+      "stars": 580,
       "forks": 478,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "elastic / integrations",
@@ -40,9 +50,9 @@
       "description": "Learn Rust with examples (Live code editor included)",
       "language": "Handlebars",
       "languageColor": "#f7931e",
-      "stars": 8056,
-      "forks": 1561,
-      "added_stars": "5 stars this week"
+      "stars": 8060,
+      "forks": 1563,
+      "added_stars": "10 stars this week"
     }
   ]
 }

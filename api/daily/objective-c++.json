@@ -2,8 +2,28 @@
   "title": "GitHub Objective-c++ Languages Daily Trending",
   "description": "Daily Trending of Objective-c++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
+    {
+      "title": "KhronosGroup / MoltenVK",
+      "url": "https://github.com/KhronosGroup/MoltenVK",
+      "description": "MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.",
+      "language": "Objective-C++",
+      "languageColor": "#6866fb",
+      "stars": 5770,
+      "forks": 537,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "pocketsvg / PocketSVG",
+      "url": "https://github.com/pocketsvg/PocketSVG",
+      "description": "Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths",
+      "language": "Objective-C++",
+      "languageColor": "#6866fb",
+      "stars": 1725,
+      "forks": 243,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "microsoft / onnxruntime-swift-package-manager",
       "url": "https://github.com/microsoft/onnxruntime-swift-package-manager",
@@ -15,14 +35,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "KhronosGroup / MoltenVK",
-      "url": "https://github.com/KhronosGroup/MoltenVK",
-      "description": "MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.",
+      "title": "callstack / liquid-glass",
+      "url": "https://github.com/callstack/liquid-glass",
+      "description": "Liquid Glass in React Native",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": 5768,
-      "forks": 537,
-      "added_stars": "2 stars today"
+      "stars": 1599,
+      "forks": 60,
+      "added_stars": "0 stars today"
     }
   ]
 }

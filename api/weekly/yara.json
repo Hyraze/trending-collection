@@ -2,7 +2,7 @@
   "title": "GitHub Yara Languages Daily Trending",
   "description": "Daily Trending of Yara Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "mthcht / awesome-lists",
@@ -10,9 +10,9 @@
       "description": "Awesome Security lists for SOC/CERT/CTI",
       "language": "YARA",
       "languageColor": "#220000",
-      "stars": 1836,
-      "forks": 224,
-      "added_stars": "63 stars this week"
+      "stars": 1840,
+      "forks": 225,
+      "added_stars": "46 stars this week"
     },
     {
       "title": "magicsword-io / LOLDrivers",
@@ -25,14 +25,14 @@
       "added_stars": "15 stars this week"
     },
     {
-      "title": "Neo23x0 / signature-base",
-      "url": "https://github.com/Neo23x0/signature-base",
-      "description": "YARA signature and IOC database for my scanners and tools",
+      "title": "chainguard-dev / malcontent",
+      "url": "https://github.com/chainguard-dev/malcontent",
+      "description": "#supply #chain #attack #detection",
       "language": "YARA",
       "languageColor": "#220000",
-      "stars": 2997,
-      "forks": 673,
-      "added_stars": "2 stars this week"
+      "stars": 671,
+      "forks": 63,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "Yara-Rules / rules",
@@ -42,7 +42,17 @@
       "languageColor": "#220000",
       "stars": 4863,
       "forks": 1064,
-      "added_stars": "8 stars this week"
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "Neo23x0 / signature-base",
+      "url": "https://github.com/Neo23x0/signature-base",
+      "description": "YARA signature and IOC database for my scanners and tools",
+      "language": "YARA",
+      "languageColor": "#220000",
+      "stars": 2997,
+      "forks": 673,
+      "added_stars": "2 stars this week"
     }
   ]
 }

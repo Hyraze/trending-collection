@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,8 +10,8 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27200,
-      "forks": 12409,
+      "stars": 27202,
+      "forks": 12406,
       "added_stars": "10 stars this week"
     },
     {
@@ -22,16 +22,6 @@
       "languageColor": "#AA6746",
       "stars": 2527,
       "forks": 1314,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "aave / aave-v4",
-      "url": "https://github.com/aave/aave-v4",
-      "description": "Aave V4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 194,
-      "forks": 111,
       "added_stars": "2 stars this week"
     },
     {
@@ -85,14 +75,24 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "1inch / swap-vm",
+      "url": "https://github.com/1inch/swap-vm",
+      "description": "",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 28,
+      "forks": 31,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "Vectorized / solady",
       "url": "https://github.com/Vectorized/solady",
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 3345,
+      "stars": 3346,
       "forks": 481,
-      "added_stars": "0 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "aave-dao / aave-v3-origin",
@@ -102,6 +102,46 @@
       "languageColor": "#AA6746",
       "stars": 291,
       "forks": 217,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "Uniswap / permit2",
+      "url": "https://github.com/Uniswap/permit2",
+      "description": "🔑🔑🔑 next generation token approvals mechanism",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 947,
+      "forks": 296,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "coinbase / smart-wallet",
+      "url": "https://github.com/coinbase/smart-wallet",
+      "description": "",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 484,
+      "forks": 175,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "Uniswap / v2-periphery",
+      "url": "https://github.com/Uniswap/v2-periphery",
+      "description": "🎚 Peripheral smart contracts for interacting with Uniswap V2",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1268,
+      "forks": 1765,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "silo-finance / silo-contracts-v3",
+      "url": "https://github.com/silo-finance/silo-contracts-v3",
+      "description": "Monorepo for Silo Protocol contracts V3",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 28,
+      "forks": 35,
       "added_stars": "0 stars this week"
     },
     {
@@ -115,24 +155,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "morpho-org / midnight",
-      "url": "https://github.com/morpho-org/midnight",
-      "description": "Morpho fixed rate market",
+      "title": "euler-xyz / euler-vault-kit",
+      "url": "https://github.com/euler-xyz/euler-vault-kit",
+      "description": "Build lending vaults which connect through Ethereum Vault Connector",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 101,
-      "forks": 48,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "succinctlabs / sp1-contracts",
-      "url": "https://github.com/succinctlabs/sp1-contracts",
-      "description": "Smart contracts for onchain verification of SP1.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 147,
-      "forks": 44,
-      "added_stars": "0 stars this week"
+      "stars": 221,
+      "forks": 74,
+      "added_stars": "1 star this week"
     },
     {
       "title": "GNSPS / solidity-bytes-utils",
@@ -142,36 +172,6 @@
       "languageColor": "#AA6746",
       "stars": 563,
       "forks": 112,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "morpho-org / vault-v2",
-      "url": "https://github.com/morpho-org/vault-v2",
-      "description": "Morpho Vault V2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 93,
-      "forks": 71,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "Uniswap / permit2",
-      "url": "https://github.com/Uniswap/permit2",
-      "description": "🔑🔑🔑 next generation token approvals mechanism",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 946,
-      "forks": 295,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "Uniswap / v2-periphery",
-      "url": "https://github.com/Uniswap/v2-periphery",
-      "description": "🎚 Peripheral smart contracts for interacting with Uniswap V2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 1268,
-      "forks": 1765,
       "added_stars": "0 stars this week"
     }
   ]

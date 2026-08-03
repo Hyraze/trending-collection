@@ -2,8 +2,28 @@
   "title": "GitHub Ren'py Languages Daily Trending",
   "description": "Daily Trending of Ren'py Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
+    {
+      "title": "renpy / renpy",
+      "url": "https://github.com/renpy/renpy",
+      "description": "The Ren'Py Visual Novel Engine",
+      "language": "Ren'Py",
+      "languageColor": "#ff7f7f",
+      "stars": 6685,
+      "forks": 915,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "Monika-After-Story / MonikaModDev",
+      "url": "https://github.com/Monika-After-Story/MonikaModDev",
+      "description": "DDLC fan mod to extend Monika",
+      "language": "Ren'Py",
+      "languageColor": "#ff7f7f",
+      "stars": 1400,
+      "forks": 701,
+      "added_stars": "1 star today"
+    },
     {
       "title": "CensoredUsername / unrpyc",
       "url": "https://github.com/CensoredUsername/unrpyc",
@@ -12,27 +32,7 @@
       "languageColor": "#ff7f7f",
       "stars": 1223,
       "forks": 194,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "Monika-After-Story / MonikaModDev",
-      "url": "https://github.com/Monika-After-Story/MonikaModDev",
-      "description": "DDLC fan mod to extend Monika",
-      "language": "Ren'Py",
-      "languageColor": "#ff7f7f",
-      "stars": 1399,
-      "forks": 701,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "renpy / renpy",
-      "url": "https://github.com/renpy/renpy",
-      "description": "The Ren'Py Visual Novel Engine",
-      "language": "Ren'Py",
-      "languageColor": "#ff7f7f",
-      "stars": 6681,
-      "forks": 914,
-      "added_stars": "4 stars today"
+      "added_stars": "1 star today"
     }
   ]
 }

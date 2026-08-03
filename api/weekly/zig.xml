@@ -4,7 +4,7 @@
   <title>GitHub Zig Languages Daily Trending</title>
   <description>Daily Trending of Zig Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:24:59 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
   <item>
     <title>lightpanda-io / browser</title>
     <link>https://github.com/lightpanda-io/browser</link>
@@ -21,9 +21,9 @@
     <description>👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</description>
   </item>
   <item>
-    <title>ziglang / zig</title>
-    <link>https://github.com/ziglang/zig</link>
-    <description>Moved to Codeberg</description>
+    <title>Seafoam-Labs / Shelly-ALPM</title>
+    <link>https://github.com/Seafoam-Labs/Shelly-ALPM</link>
+    <description>Pacman alternative for ArchLinux, designed with you in mind.</description>
   </item>
   <item>
     <title>neurosnap / zmx</title>
@@ -31,9 +31,9 @@
     <description>Session attach/detach for the terminal</description>
   </item>
   <item>
-    <title>Seafoam-Labs / Shelly-ALPM</title>
-    <link>https://github.com/Seafoam-Labs/Shelly-ALPM</link>
-    <description>Pacman alternative for ArchLinux, designed with you in mind.</description>
+    <title>ziglang / zig</title>
+    <link>https://github.com/ziglang/zig</link>
+    <description>Moved to Codeberg</description>
   </item>
   <item>
     <title>roc-lang / roc</title>
@@ -51,29 +51,9 @@
     <description>Immediate Zig GUI for Apps and Games</description>
   </item>
   <item>
-    <title>PixelGuys / Cubyz</title>
-    <link>https://github.com/PixelGuys/Cubyz</link>
-    <description>Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.</description>
-  </item>
-  <item>
-    <title>Vexu / arocc</title>
-    <link>https://github.com/Vexu/arocc</link>
-    <description>A modern fully featured C compiler.</description>
-  </item>
-  <item>
-    <title>riverwm / river</title>
-    <link>https://github.com/riverwm/river</link>
-    <description>[mirror] A non-monolithic Wayland compositor</description>
-  </item>
-  <item>
-    <title>tigerbeetle / tigerbeetle</title>
-    <link>https://github.com/tigerbeetle/tigerbeetle</link>
-    <description>The financial transactions database designed for mission critical safety and performance.</description>
-  </item>
-  <item>
-    <title>Loongphy / codex-auth</title>
-    <link>https://github.com/Loongphy/codex-auth</link>
-    <description>A CLI tool to switch and manage Codex accounts</description>
+    <title>dmtrKovalenko / odiff</title>
+    <link>https://github.com/dmtrKovalenko/odiff</link>
+    <description>A very fast SIMD-first image comparison library (with nodejs API)</description>
   </item>
   <item>
     <title>rockorager / libvaxis</title>
@@ -86,6 +66,31 @@
     <description>A language server for Zig supporting developers with features like autocomplete and goto definition</description>
   </item>
   <item>
+    <title>riverwm / river</title>
+    <link>https://github.com/riverwm/river</link>
+    <description>[mirror] A non-monolithic Wayland compositor</description>
+  </item>
+  <item>
+    <title>Loongphy / codex-auth</title>
+    <link>https://github.com/Loongphy/codex-auth</link>
+    <description>A CLI tool to switch and manage Codex accounts</description>
+  </item>
+  <item>
+    <title>Vexu / arocc</title>
+    <link>https://github.com/Vexu/arocc</link>
+    <description>A modern fully featured C compiler.</description>
+  </item>
+  <item>
+    <title>christopherkarani / RykanV</title>
+    <link>https://github.com/christopherkarani/RykanV</link>
+    <description>Control what your AI can do</description>
+  </item>
+  <item>
+    <title>tigerbeetle / tigerbeetle</title>
+    <link>https://github.com/tigerbeetle/tigerbeetle</link>
+    <description>The financial transactions database designed for mission critical safety and performance.</description>
+  </item>
+  <item>
     <title>vercel-labs / native</title>
     <link>https://github.com/vercel-labs/native</link>
     <description>Toolkit for building native desktop apps</description>
@@ -94,11 +99,6 @@
     <title>kristoff-it / zine</title>
     <link>https://github.com/kristoff-it/zine</link>
     <description>Fast, Scalable, Flexible Static Site Generator (SSG)</description>
-  </item>
-  <item>
-    <title>zml / zml</title>
-    <link>https://github.com/zml/zml</link>
-    <description>Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild</description>
   </item>
 </channel>
 </rss>

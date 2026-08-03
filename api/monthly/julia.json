@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "JuliaLang / julia",
@@ -10,9 +10,9 @@
       "description": "The Julia Programming Language",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 48962,
+      "stars": 48968,
       "forks": 5915,
-      "added_stars": "373 stars this month"
+      "added_stars": "317 stars this month"
     },
     {
       "title": "JuliaRegistries / General",
@@ -22,7 +22,7 @@
       "languageColor": "#a270ba",
       "stars": 722,
       "forks": 586,
-      "added_stars": "5 stars this month"
+      "added_stars": "4 stars this month"
     },
     {
       "title": "oscar-system / Oscar.jl",
@@ -43,6 +43,16 @@
       "stars": 1388,
       "forks": 288,
       "added_stars": "55 stars this month"
+    },
+    {
+      "title": "JuliaDiff / TaylorSeries.jl",
+      "url": "https://github.com/JuliaDiff/TaylorSeries.jl",
+      "description": "Taylor polynomial expansions in one and several independent variables.",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 386,
+      "forks": 55,
+      "added_stars": "21 stars this month"
     }
   ]
 }

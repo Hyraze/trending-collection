@@ -2,18 +2,8 @@
   "title": "GitHub Liquid Languages Daily Trending",
   "description": "Daily Trending of Liquid Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
-    {
-      "title": "Shopify / dawn",
-      "url": "https://github.com/Shopify/dawn",
-      "description": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",
-      "language": "Liquid",
-      "languageColor": "#67b8de",
-      "stars": 3046,
-      "forks": 4411,
-      "added_stars": "26 stars this month"
-    },
     {
       "title": "Shopify / skeleton-theme",
       "url": "https://github.com/Shopify/skeleton-theme",
@@ -21,8 +11,18 @@
       "language": "Liquid",
       "languageColor": "#67b8de",
       "stars": 773,
-      "forks": 503,
-      "added_stars": "32 stars this month"
+      "forks": 504,
+      "added_stars": "31 stars this month"
+    },
+    {
+      "title": "Shopify / dawn",
+      "url": "https://github.com/Shopify/dawn",
+      "description": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",
+      "language": "Liquid",
+      "languageColor": "#67b8de",
+      "stars": 3046,
+      "forks": 4412,
+      "added_stars": "25 stars this month"
     },
     {
       "title": "Shopify / extensions-templates",
@@ -33,6 +33,16 @@
       "stars": 128,
       "forks": 22,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "Shopify / horizon",
+      "url": "https://github.com/Shopify/horizon",
+      "description": "Shopify's Horizon theme source code",
+      "language": "Liquid",
+      "languageColor": "#67b8de",
+      "stars": 428,
+      "forks": 327,
+      "added_stars": "15 stars this month"
     }
   ]
 }

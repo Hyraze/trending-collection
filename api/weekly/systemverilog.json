@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "verilator / verilator",
@@ -10,19 +10,9 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3800,
+      "stars": 3804,
       "forks": 864,
-      "added_stars": "28 stars this week"
-    },
-    {
-      "title": "lowRISC / opentitan",
-      "url": "https://github.com/lowRISC/opentitan",
-      "description": "OpenTitan: Open source silicon root of trust",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3574,
-      "forks": 1075,
-      "added_stars": "13 stars this week"
+      "added_stars": "33 stars this week"
     },
     {
       "title": "lowRISC / ibex",
@@ -30,9 +20,19 @@
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 1997,
-      "forks": 780,
+      "stars": 1999,
+      "forks": 781,
       "added_stars": "11 stars this week"
+    },
+    {
+      "title": "lowRISC / opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3577,
+      "forks": 1075,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "chipsalliance / caliptra-rtl",
@@ -55,6 +55,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "adam-maj / tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 12795,
+      "forks": 1228,
+      "added_stars": "24 stars this week"
+    },
+    {
       "title": "chipsalliance / adams-bridge",
       "url": "https://github.com/chipsalliance/adams-bridge",
       "description": "Post-Quantum Cryptography IP Core (Crystals-Dilithium)",
@@ -65,14 +75,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "adam-maj / tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "title": "openhwgroup / cvw",
+      "url": "https://github.com/openhwgroup/cvw",
+      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12796,
-      "forks": 1228,
-      "added_stars": "26 stars this week"
+      "stars": 592,
+      "forks": 550,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "bsc-loca / sargantana",
@@ -82,27 +92,27 @@
       "languageColor": "#DAE1C2",
       "stars": 159,
       "forks": 41,
-      "added_stars": "9 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
-      "title": "chipsalliance / Cores-VeeR-EL2",
-      "url": "https://github.com/chipsalliance/Cores-VeeR-EL2",
-      "description": "VeeR EL2 Core",
+      "title": "lowRISC / ethernet",
+      "url": "https://github.com/lowRISC/ethernet",
+      "description": "Open-source memory-mapped Ethernet MAC for FPGA with RGMII interface",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 343,
-      "forks": 107,
-      "added_stars": "1 star this week"
+      "stars": 21,
+      "forks": 12,
+      "added_stars": "0 stars this week"
     },
     {
-      "title": "openhwgroup / cvw",
-      "url": "https://github.com/openhwgroup/cvw",
-      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+      "title": "pulp-platform / axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 591,
-      "forks": 549,
-      "added_stars": "5 stars this week"
+      "stars": 1643,
+      "forks": 363,
+      "added_stars": "10 stars this week"
     }
   ]
 }

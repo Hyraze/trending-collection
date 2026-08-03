@@ -4,16 +4,11 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:24:59 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
   <item>
     <title>obsproject / obs-studio</title>
     <link>https://github.com/obsproject/obs-studio</link>
     <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
-  </item>
-  <item>
-    <title>kingToolbox / WindTerm</title>
-    <link>https://github.com/kingToolbox/WindTerm</link>
-    <description>A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.</description>
   </item>
   <item>
     <title>microsoft / PowerToys</title>
@@ -26,11 +21,6 @@
     <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
   </item>
   <item>
-    <title>lvgl / lvgl</title>
-    <link>https://github.com/lvgl/lvgl</link>
-    <description>LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.</description>
-  </item>
-  <item>
     <title>openwrt / openwrt</title>
     <link>https://github.com/openwrt/openwrt</link>
     <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
@@ -41,19 +31,14 @@
     <description>Small and highly portable detection tests based on MITRE&#x27;s ATT&amp;CK.</description>
   </item>
   <item>
-    <title>palera1n / palera1n</title>
-    <link>https://github.com/palera1n/palera1n</link>
-    <description>Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.</description>
-  </item>
-  <item>
     <title>madler / zlib</title>
     <link>https://github.com/madler/zlib</link>
     <description>A massively spiffy yet delicately unobtrusive compression library.</description>
   </item>
   <item>
-    <title>karpathy / llama2.c</title>
-    <link>https://github.com/karpathy/llama2.c</link>
-    <description>Inference Llama 2 in one file of pure C</description>
+    <title>lvgl / lvgl</title>
+    <link>https://github.com/lvgl/lvgl</link>
+    <description>LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.</description>
   </item>
   <item>
     <title>raysan5 / raylib</title>
@@ -61,19 +46,14 @@
     <description>A simple and easy-to-use library to enjoy videogames programming</description>
   </item>
   <item>
-    <title>DarkFlippers / unleashed-firmware</title>
-    <link>https://github.com/DarkFlippers/unleashed-firmware</link>
-    <description>Flipper Zero Unleashed Firmware</description>
+    <title>pgvector / pgvector</title>
+    <link>https://github.com/pgvector/pgvector</link>
+    <description>Open-source vector similarity search for Postgres</description>
   </item>
   <item>
-    <title>darktable-org / darktable</title>
-    <link>https://github.com/darktable-org/darktable</link>
-    <description>darktable is an open source photography workflow application and raw developer</description>
-  </item>
-  <item>
-    <title>sumatrapdfreader / sumatrapdf</title>
-    <link>https://github.com/sumatrapdfreader/sumatrapdf</link>
-    <description>SumatraPDF reader</description>
+    <title>palera1n / palera1n</title>
+    <link>https://github.com/palera1n/palera1n</link>
+    <description>Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.</description>
   </item>
   <item>
     <title>termux / termux-x11</title>
@@ -81,9 +61,14 @@
     <description>Termux X-server add-on.</description>
   </item>
   <item>
-    <title>duixcom / Duix-Avatar</title>
-    <link>https://github.com/duixcom/Duix-Avatar</link>
-    <description>🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.</description>
+    <title>brunodev85 / winlator</title>
+    <link>https://github.com/brunodev85/winlator</link>
+    <description>Android application for running Windows applications with Wine and Box86/Box64</description>
+  </item>
+  <item>
+    <title>DarkFlippers / unleashed-firmware</title>
+    <link>https://github.com/DarkFlippers/unleashed-firmware</link>
+    <description>Flipper Zero Unleashed Firmware</description>
   </item>
   <item>
     <title>henrypp / simplewall</title>
@@ -91,14 +76,34 @@
     <description>Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.</description>
   </item>
   <item>
-    <title>git / git</title>
-    <link>https://github.com/git/git</link>
-    <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
+    <title>kingToolbox / WindTerm</title>
+    <link>https://github.com/kingToolbox/WindTerm</link>
+    <description>A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.</description>
   </item>
   <item>
-    <title>brunodev85 / winlator</title>
-    <link>https://github.com/brunodev85/winlator</link>
-    <description>Android application for running Windows applications with Wine and Box86/Box64</description>
+    <title>espressif / esp-idf</title>
+    <link>https://github.com/espressif/esp-idf</link>
+    <description>Espressif IoT Development Framework. Official development framework for Espressif SoCs.</description>
+  </item>
+  <item>
+    <title>henrypp / memreduct</title>
+    <link>https://github.com/henrypp/memreduct</link>
+    <description>Lightweight real-time memory management application to monitor and clean system memory on your computer.</description>
+  </item>
+  <item>
+    <title>duixcom / Duix-Avatar</title>
+    <link>https://github.com/duixcom/Duix-Avatar</link>
+    <description>🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.</description>
+  </item>
+  <item>
+    <title>darktable-org / darktable</title>
+    <link>https://github.com/darktable-org/darktable</link>
+    <description>darktable is an open source photography workflow application and raw developer</description>
+  </item>
+  <item>
+    <title>quickjs-ng / quickjs</title>
+    <link>https://github.com/quickjs-ng/quickjs</link>
+    <description>QuickJS, the Next Generation: a mighty JavaScript engine</description>
   </item>
 </channel>
 </rss>

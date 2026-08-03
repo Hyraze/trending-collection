@@ -2,7 +2,7 @@
   "title": "GitHub Hlsl Languages Daily Trending",
   "description": "Daily Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "Blinue / Magpie",
@@ -10,9 +10,9 @@
       "description": "A general-purpose window upscaler for Windows 10/11.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 14269,
-      "forks": 581,
-      "added_stars": "214 stars this month"
+      "stars": 14273,
+      "forks": 582,
+      "added_stars": "212 stars this month"
     },
     {
       "title": "JamesCJ60 / Universal-x86-Tuning-Utility",
@@ -20,7 +20,7 @@
       "description": "Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 2734,
+      "stars": 2735,
       "forks": 88,
       "added_stars": "64 stars this month"
     },
@@ -30,9 +30,9 @@
       "description": "RetroBat repository",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 220,
+      "stars": 222,
       "forks": 17,
-      "added_stars": "21 stars this month"
+      "added_stars": "23 stars this month"
     },
     {
       "title": "clshortfuse / renodx",
@@ -42,7 +42,7 @@
       "languageColor": "#aace60",
       "stars": 1562,
       "forks": 115,
-      "added_stars": "92 stars this month"
+      "added_stars": "95 stars this month"
     },
     {
       "title": "crosire / reshade-shaders",
@@ -51,8 +51,18 @@
       "language": "HLSL",
       "languageColor": "#aace60",
       "stars": 1185,
-      "forks": 421,
+      "forks": 422,
       "added_stars": "8 stars this month"
+    },
+    {
+      "title": "leotorrez / ZZMI-Package",
+      "url": "https://github.com/leotorrez/ZZMI-Package",
+      "description": "NOT INTENDED FOR WIDE USE",
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 49,
+      "forks": 10,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "ray-cast / ray-mmd",
@@ -63,16 +73,6 @@
       "stars": 1904,
       "forks": 574,
       "added_stars": "17 stars this month"
-    },
-    {
-      "title": "leotorrez / ZZMI-Package",
-      "url": "https://github.com/leotorrez/ZZMI-Package",
-      "description": "NOT INTENDED FOR WIDE USE",
-      "language": "HLSL",
-      "languageColor": "#aace60",
-      "stars": 48,
-      "forks": 10,
-      "added_stars": "1 star this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "end-4 / dots-hyprland",
@@ -10,9 +10,19 @@
       "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 15397,
-      "forks": 1284,
-      "added_stars": "119 stars this week"
+      "stars": 15408,
+      "forks": 1287,
+      "added_stars": "121 stars this week"
+    },
+    {
+      "title": "caelestia-dots / shell",
+      "url": "https://github.com/caelestia-dots/shell",
+      "description": "A fluid, morphing shell for your Linux desktop",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 10899,
+      "forks": 770,
+      "added_stars": "131 stars this week"
     },
     {
       "title": "AvengeMedia / DankMaterialShell",
@@ -20,9 +30,19 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 7465,
+      "stars": 7478,
       "forks": 463,
-      "added_stars": "81 stars this week"
+      "added_stars": "80 stars this week"
+    },
+    {
+      "title": "Keyitdev / sddm-astronaut-theme",
+      "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
+      "description": "Series of modern looking themes for SDDM.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 3115,
+      "forks": 201,
+      "added_stars": "36 stars this week"
     },
     {
       "title": "snowarch / iNiR",
@@ -30,9 +50,9 @@
       "description": "A Niri shell illogical-impulse based - with some modifications..",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 1348,
-      "forks": 76,
-      "added_stars": "37 stars this week"
+      "stars": 1356,
+      "forks": 77,
+      "added_stars": "42 stars this week"
     },
     {
       "title": "mylinuxforwork / dotfiles",
@@ -41,18 +61,8 @@
       "language": "QML",
       "languageColor": "#44a51c",
       "stars": 4935,
-      "forks": 365,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "caelestia-dots / shell",
-      "url": "https://github.com/caelestia-dots/shell",
-      "description": "A fluid, morphing shell for your Linux desktop",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 10884,
-      "forks": 769,
-      "added_stars": "132 stars this week"
+      "forks": 366,
+      "added_stars": "21 stars this week"
     },
     {
       "title": "Swordfish90 / cool-retro-term",
@@ -60,39 +70,9 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 25853,
+      "stars": 25854,
       "forks": 996,
-      "added_stars": "37 stars this week"
-    },
-    {
-      "title": "Keyitdev / sddm-astronaut-theme",
-      "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
-      "description": "Series of modern looking themes for SDDM.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 3112,
-      "forks": 201,
-      "added_stars": "35 stars this week"
-    },
-    {
-      "title": "anthonycaccese / 240-MP",
-      "url": "https://github.com/anthonycaccese/240-MP",
-      "description": "240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 365,
-      "forks": 33,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "catsout / wallpaper-engine-kde-plugin",
-      "url": "https://github.com/catsout/wallpaper-engine-kde-plugin",
-      "description": "A kde wallpaper plugin integrating wallpaper engine",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 2730,
-      "forks": 120,
-      "added_stars": "2 stars this week"
+      "added_stars": "34 stars this week"
     },
     {
       "title": "Darkkal44 / qylock",
@@ -100,9 +80,19 @@
       "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 2391,
-      "forks": 94,
-      "added_stars": "50 stars this week"
+      "stars": 2395,
+      "forks": 95,
+      "added_stars": "52 stars this week"
+    },
+    {
+      "title": "catsout / wallpaper-engine-kde-plugin",
+      "url": "https://github.com/catsout/wallpaper-engine-kde-plugin",
+      "description": "A kde wallpaper plugin integrating wallpaper engine",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 2729,
+      "forks": 120,
+      "added_stars": "1 star this week"
     },
     {
       "title": "luisbocanegra / plasma-smart-video-wallpaper-reborn",
@@ -110,9 +100,19 @@
       "description": "Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 540,
+      "stars": 542,
       "forks": 33,
-      "added_stars": "5 stars this week"
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "luisbocanegra / plasma-panel-colorizer",
+      "url": "https://github.com/luisbocanegra/plasma-panel-colorizer",
+      "description": "Latte-Dock and WM status bar customization for the KDE Plasma panels",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 1130,
+      "forks": 29,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "xarbit / plasma6-applet-appgrid",
@@ -130,19 +130,29 @@
       "description": "An Axtremely customizable shell.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 1704,
+      "stars": 1705,
       "forks": 110,
       "added_stars": "20 stars this week"
     },
     {
-      "title": "luisbocanegra / plasma-panel-colorizer",
-      "url": "https://github.com/luisbocanegra/plasma-panel-colorizer",
-      "description": "Latte-Dock and WM status bar customization for the KDE Plasma panels",
+      "title": "anthonycaccese / 240-MP",
+      "url": "https://github.com/anthonycaccese/240-MP",
+      "description": "240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 1128,
-      "forks": 29,
-      "added_stars": "10 stars this week"
+      "stars": 368,
+      "forks": 34,
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "status-im / status-app",
+      "url": "https://github.com/status-im/status-app",
+      "description": "Status App client made in Nim & QML",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 363,
+      "forks": 98,
+      "added_stars": "1 star this week"
     }
   ]
 }

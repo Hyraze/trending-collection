@@ -4,26 +4,16 @@
   <title>GitHub Mlir Languages Daily Trending</title>
   <description>Daily Trending of Mlir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:24:59 GMT</pubDate>
-  <item>
-    <title>triton-lang / triton-ascend</title>
-    <link>https://github.com/triton-lang/triton-ascend</link>
-    <description>Triton language and compiler for Ascend NPU</description>
-  </item>
+  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
   <item>
     <title>triton-lang / triton</title>
     <link>https://github.com/triton-lang/triton</link>
     <description>Development repository for the Triton language and compiler</description>
   </item>
   <item>
-    <title>intel / intel-xpu-backend-for-triton</title>
-    <link>https://github.com/intel/intel-xpu-backend-for-triton</link>
-    <description>OpenAI Triton backend for Intel® GPUs</description>
-  </item>
-  <item>
-    <title>facebookexperimental / triton</title>
-    <link>https://github.com/facebookexperimental/triton</link>
-    <description>Github mirror of trition-lang/triton repo.</description>
+    <title>triton-lang / triton-ascend</title>
+    <link>https://github.com/triton-lang/triton-ascend</link>
+    <description>Triton language and compiler for Ascend NPU</description>
   </item>
   <item>
     <title>tenstorrent / tt-mlir</title>
@@ -31,9 +21,19 @@
     <description>Tenstorrent MLIR compiler</description>
   </item>
   <item>
+    <title>facebookexperimental / triton</title>
+    <link>https://github.com/facebookexperimental/triton</link>
+    <description>Github mirror of trition-lang/triton repo.</description>
+  </item>
+  <item>
     <title>ROCm / rocMLIR</title>
     <link>https://github.com/ROCm/rocMLIR</link>
     <description></description>
+  </item>
+  <item>
+    <title>intel / intel-xpu-backend-for-triton</title>
+    <link>https://github.com/intel/intel-xpu-backend-for-triton</link>
+    <description>OpenAI Triton backend for Intel® GPUs</description>
   </item>
 </channel>
 </rss>

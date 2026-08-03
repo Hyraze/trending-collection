@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Daily Trending",
   "description": "Daily Trending of Smali Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "AhMyth / AhMyth-Android-RAT",
@@ -10,7 +10,7 @@
       "description": "Android Remote Administration Tool",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": 5242,
+      "stars": 5243,
       "forks": 1870,
       "added_stars": "16 stars this week"
     },
@@ -22,7 +22,7 @@
       "languageColor": "#ccc",
       "stars": 1887,
       "forks": 53,
-      "added_stars": "26 stars this week"
+      "added_stars": "24 stars this week"
     },
     {
       "title": "LittleSurvival / copymanga-copy20",
@@ -30,9 +30,9 @@
       "description": "Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": 2464,
+      "stars": 2468,
       "forks": 15,
-      "added_stars": "37 stars this week"
+      "added_stars": "40 stars this week"
     },
     {
       "title": "The412Banner / BannerHub",
@@ -40,7 +40,7 @@
       "description": "GameHub ReVanced — extended with GOG, Epic & Amazon game libraries, Component Manager, Winlator HUD, per-game controls & configs, and more. Built via apktool smali patching.",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": 437,
+      "stars": 439,
       "forks": 24,
       "added_stars": "11 stars this week"
     },
@@ -65,6 +65,16 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "Morsmalleo / AhMyth",
+      "url": "https://github.com/Morsmalleo/AhMyth",
+      "description": "Cross-Platform Android Remote Administration Tool | Official maintained repository for the AhMyth R.A.T Project | A dedicated revival of the original repository at https://GitHub.com/AhMyth/AhMyth-Android-RAT",
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 1314,
+      "forks": 12,
+      "added_stars": "4 stars this week"
+    },
+    {
       "title": "vtosters / lite",
       "url": "https://github.com/vtosters/lite",
       "description": "Модифицированный клиент VK",
@@ -73,26 +83,6 @@
       "stars": 625,
       "forks": 35,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "Morsmalleo / AhMyth",
-      "url": "https://github.com/Morsmalleo/AhMyth",
-      "description": "Cross-Platform Android Remote Administration Tool | Official maintained repository for the AhMyth R.A.T Project | A dedicated revival of the original repository at https://GitHub.com/AhMyth/AhMyth-Android-RAT",
-      "language": "Smali",
-      "languageColor": "#ccc",
-      "stars": 1313,
-      "forks": 11,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "rianlu / smartisan-launcher-maintained",
-      "url": "https://github.com/rianlu/smartisan-launcher-maintained",
-      "description": "面向新版 Android 的 锤子桌面 非官方维护版",
-      "language": "Smali",
-      "languageColor": "#ccc",
-      "stars": 696,
-      "forks": 26,
-      "added_stars": "21 stars this week"
     }
   ]
 }

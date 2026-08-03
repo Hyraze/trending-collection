@@ -4,11 +4,16 @@
   <title>GitHub Gdscript Languages Daily Trending</title>
   <description>Daily Trending of Gdscript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:27:08 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
   <item>
     <title>hi-godot / godot-ai</title>
     <link>https://github.com/hi-godot/godot-ai</link>
     <description>Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.</description>
+  </item>
+  <item>
+    <title>JHDev2006 / Super-Mario-Bros.-Remastered-Public</title>
+    <link>https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public</link>
+    <description>A Remake / Celebration of the original &#x27;Super Mario Bros.&#x27; games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!</description>
   </item>
   <item>
     <title>Orama-Interactive / Pixelorama</title>
@@ -19,11 +24,6 @@
     <title>godotengine / godot-demo-projects</title>
     <link>https://github.com/godotengine/godot-demo-projects</link>
     <description>Demonstration and Template Projects</description>
-  </item>
-  <item>
-    <title>JHDev2006 / Super-Mario-Bros.-Remastered-Public</title>
-    <link>https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public</link>
-    <description>A Remake / Celebration of the original &#x27;Super Mario Bros.&#x27; games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!</description>
   </item>
   <item>
     <title>RodZill4 / material-maker</title>
@@ -46,19 +46,14 @@
     <description>Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)</description>
   </item>
   <item>
-    <title>youichi-uda / godot-mcp-pro</title>
-    <link>https://github.com/youichi-uda/godot-mcp-pro</link>
-    <description>162 MCP tools for AI-powered Godot 4 development. Scene, animation, 3D, physics, particles, audio, shader, input simulation, runtime analysis, navigation, testing &amp; more. $15 one-time.</description>
-  </item>
-  <item>
     <title>pablogila / TileMapDual</title>
     <link>https://github.com/pablogila/TileMapDual</link>
     <description>An automatic, real-time dual-grid tileset system for Godot</description>
   </item>
   <item>
-    <title>bitbrain / beehave</title>
-    <link>https://github.com/bitbrain/beehave</link>
-    <description>🐝 behavior tree AI for Godot Engine</description>
+    <title>bitbrain / pandora</title>
+    <link>https://github.com/bitbrain/pandora</link>
+    <description>Godot 4 addon for RPG data management such items, inventories, spells, mobs, quests and NPCs.</description>
   </item>
   <item>
     <title>MudkipWorld / PNGTuber-Remix</title>
@@ -66,9 +61,14 @@
     <description>An Open-source PNGTubing app :D</description>
   </item>
   <item>
-    <title>Maaack / Godot-Game-Template</title>
-    <link>https://github.com/Maaack/Godot-Game-Template</link>
-    <description>Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.</description>
+    <title>bitbrain / beehave</title>
+    <link>https://github.com/bitbrain/beehave</link>
+    <description>🐝 behavior tree AI for Godot Engine</description>
+  </item>
+  <item>
+    <title>youichi-uda / godot-mcp-pro</title>
+    <link>https://github.com/youichi-uda/godot-mcp-pro</link>
+    <description>162 MCP tools for AI-powered Godot 4 development. Scene, animation, 3D, physics, particles, audio, shader, input simulation, runtime analysis, navigation, testing &amp; more. $15 one-time.</description>
   </item>
 </channel>
 </rss>

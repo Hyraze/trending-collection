@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "maderix / ANE",
@@ -10,9 +10,9 @@
       "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 7229,
-      "forks": 963,
-      "added_stars": "346 stars this month"
+      "stars": 7230,
+      "forks": 964,
+      "added_stars": "339 stars this month"
     },
     {
       "title": "noah-nuebling / mac-mouse-fix",
@@ -20,9 +20,9 @@
       "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 10618,
+      "stars": 10620,
       "forks": 381,
-      "added_stars": "293 stars this month"
+      "added_stars": "283 stars this month"
     },
     {
       "title": "opa334 / TrollStore",
@@ -30,9 +30,9 @@
       "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 21859,
+      "stars": 21867,
       "forks": 1625,
-      "added_stars": "262 stars this month"
+      "added_stars": "263 stars this month"
     },
     {
       "title": "Mininglamp-OSS / octo-ios",
@@ -50,8 +50,8 @@
       "description": "A software update framework for macOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 9421,
-      "forks": 1121,
+      "stars": 9422,
+      "forks": 1122,
       "added_stars": "196 stars this month"
     },
     {
@@ -60,9 +60,9 @@
       "description": "The Git interface you've been missing all your life has finally arrived.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 12082,
-      "forks": 1478,
-      "added_stars": "65 stars this month"
+      "stars": 12083,
+      "forks": 1480,
+      "added_stars": "67 stars this month"
     },
     {
       "title": "PojavLauncherTeam / PojavLauncher_iOS",
@@ -70,29 +70,9 @@
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 3199,
-      "forks": 1299,
-      "added_stars": "46 stars this month"
-    },
-    {
-      "title": "realm / realm-swift",
-      "url": "https://github.com/realm/realm-swift",
-      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 16611,
-      "forks": 2235,
-      "added_stars": "15 stars this month"
-    },
-    {
-      "title": "Hammerspoon / hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "description": "Staggeringly powerful macOS desktop automation with Lua",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 15826,
-      "forks": 704,
-      "added_stars": "189 stars this month"
+      "stars": 3200,
+      "forks": 1303,
+      "added_stars": "45 stars this month"
     },
     {
       "title": "gnachman / iTerm2",
@@ -100,9 +80,29 @@
       "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 17894,
-      "forks": 1446,
-      "added_stars": "142 stars this month"
+      "stars": 17898,
+      "forks": 1447,
+      "added_stars": "145 stars this month"
+    },
+    {
+      "title": "realm / realm-swift",
+      "url": "https://github.com/realm/realm-swift",
+      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 16612,
+      "forks": 2235,
+      "added_stars": "16 stars this month"
+    },
+    {
+      "title": "Hammerspoon / hammerspoon",
+      "url": "https://github.com/Hammerspoon/hammerspoon",
+      "description": "Staggeringly powerful macOS desktop automation with Lua",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 15830,
+      "forks": 704,
+      "added_stars": "186 stars this month"
     },
     {
       "title": "google / GoogleUtilities",
@@ -122,7 +122,7 @@
       "languageColor": "#438eff",
       "stars": 3828,
       "forks": 314,
-      "added_stars": "2 stars this month"
+      "added_stars": "3 stars this month"
     },
     {
       "title": "google / GoogleDataTransport",
@@ -162,7 +162,7 @@
       "languageColor": "#438eff",
       "stars": 733,
       "forks": 277,
-      "added_stars": "7 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "SDWebImage / SDWebImage",
@@ -175,14 +175,14 @@
       "added_stars": "17 stars this month"
     },
     {
-      "title": "adjust / ios_sdk",
-      "url": "https://github.com/adjust/ios_sdk",
-      "description": "This is the iOS SDK of",
+      "title": "dcloudio / uni-app",
+      "url": "https://github.com/dcloudio/uni-app",
+      "description": "A cross-platform framework using Vue.js",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 672,
-      "forks": 310,
-      "added_stars": "2 stars this month"
+      "stars": 41590,
+      "forks": 3707,
+      "added_stars": "77 stars this month"
     },
     {
       "title": "kstenerud / KSCrash",
@@ -195,14 +195,14 @@
       "added_stars": "17 stars this month"
     },
     {
-      "title": "TimOliver / TOCropViewController",
-      "url": "https://github.com/TimOliver/TOCropViewController",
-      "description": "A view controller for iOS that allows users to crop portions of UIImage objects",
+      "title": "adjust / ios_sdk",
+      "url": "https://github.com/adjust/ios_sdk",
+      "description": "This is the iOS SDK of",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 4944,
-      "forks": 1023,
-      "added_stars": "12 stars this month"
+      "stars": 672,
+      "forks": 310,
+      "added_stars": "2 stars this month"
     }
   ]
 }

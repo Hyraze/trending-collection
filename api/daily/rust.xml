@@ -4,76 +4,101 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:22:49 GMT</pubDate>
-  <item>
-    <title>openai / codex</title>
-    <link>https://github.com/openai/codex</link>
-    <description>Lightweight coding agent that runs in your terminal</description>
-  </item>
+  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
   <item>
     <title>sharkdp / bat</title>
     <link>https://github.com/sharkdp/bat</link>
     <description>A cat(1) clone with wings.</description>
   </item>
   <item>
-    <title>agavra / tuicr</title>
-    <link>https://github.com/agavra/tuicr</link>
-    <description>a code review TUI with vim keybindings</description>
+    <title>ankitects / anki</title>
+    <link>https://github.com/ankitects/anki</link>
+    <description>Anki is a smart spaced repetition flashcard program</description>
   </item>
   <item>
-    <title>cjpais / Handy</title>
-    <link>https://github.com/cjpais/Handy</link>
-    <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+    <title>zeroclaw-labs / zeroclaw</title>
+    <link>https://github.com/zeroclaw-labs/zeroclaw</link>
+    <description>Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀</description>
   </item>
   <item>
-    <title>farion1231 / cc-switch</title>
-    <link>https://github.com/farion1231/cc-switch</link>
-    <description>A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io</description>
+    <title>moghtech / komodo</title>
+    <link>https://github.com/moghtech/komodo</link>
+    <description>🦎 a tool to build and deploy software on many servers 🦎</description>
   </item>
   <item>
-    <title>stalwartlabs / stalwart</title>
-    <link>https://github.com/stalwartlabs/stalwart</link>
-    <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
+    <title>wealthfolio / wealthfolio</title>
+    <link>https://github.com/wealthfolio/wealthfolio</link>
+    <description>A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.</description>
   </item>
   <item>
-    <title>servo / servo</title>
-    <link>https://github.com/servo/servo</link>
-    <description>Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</description>
+    <title>rust-lang / rust</title>
+    <link>https://github.com/rust-lang/rust</link>
+    <description>Empowering everyone to build reliable and efficient software.</description>
   </item>
   <item>
-    <title>sinelaw / fresh</title>
-    <link>https://github.com/sinelaw/fresh</link>
-    <description>Terminal based IDE &amp; text editor: easy, powerful and fast</description>
+    <title>rust-lang / rust-clippy</title>
+    <link>https://github.com/rust-lang/rust-clippy</link>
+    <description>A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/</description>
   </item>
   <item>
-    <title>ai-dynamo / dynamo</title>
-    <link>https://github.com/ai-dynamo/dynamo</link>
-    <description>A Datacenter Scale Distributed Inference Serving Framework</description>
+    <title>milos-agathon / forge3d</title>
+    <link>https://github.com/milos-agathon/forge3d</link>
+    <description>Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels.</description>
   </item>
   <item>
-    <title>rustfs / rustfs</title>
-    <link>https://github.com/rustfs/rustfs</link>
-    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
+    <title>emilk / egui</title>
+    <link>https://github.com/emilk/egui</link>
+    <description>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</description>
   </item>
   <item>
-    <title>zed-industries / zed</title>
-    <link>https://github.com/zed-industries/zed</link>
-    <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
+    <title>n0-computer / iroh</title>
+    <link>https://github.com/n0-computer/iroh</link>
+    <description>IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.</description>
   </item>
   <item>
-    <title>clockworklabs / SpacetimeDB</title>
-    <link>https://github.com/clockworklabs/SpacetimeDB</link>
-    <description>Development at the speed of light</description>
+    <title>Hmbown / CodeWhale</title>
+    <link>https://github.com/Hmbown/CodeWhale</link>
+    <description>Open-source, community-driven agent harness</description>
   </item>
   <item>
-    <title>BurntSushi / ripgrep</title>
-    <link>https://github.com/BurntSushi/ripgrep</link>
-    <description>ripgrep recursively searches directories for a regex pattern while respecting your gitignore</description>
+    <title>longbridge / gpui-component</title>
+    <link>https://github.com/longbridge/gpui-component</link>
+    <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
   </item>
   <item>
-    <title>googleworkspace / cli</title>
-    <link>https://github.com/googleworkspace/cli</link>
-    <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</description>
+    <title>nushell / nushell</title>
+    <link>https://github.com/nushell/nushell</link>
+    <description>A new type of shell</description>
+  </item>
+  <item>
+    <title>rustdesk / rustdesk</title>
+    <link>https://github.com/rustdesk/rustdesk</link>
+    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+  </item>
+  <item>
+    <title>vercel / turborepo</title>
+    <link>https://github.com/vercel/turborepo</link>
+    <description>Build system optimized for JavaScript and TypeScript, written in Rust</description>
+  </item>
+  <item>
+    <title>ruffle-rs / ruffle</title>
+    <link>https://github.com/ruffle-rs/ruffle</link>
+    <description>A Flash Player emulator written in Rust</description>
+  </item>
+  <item>
+    <title>vercel-labs / agent-browser</title>
+    <link>https://github.com/vercel-labs/agent-browser</link>
+    <description>Browser automation CLI for AI agents</description>
+  </item>
+  <item>
+    <title>wezterm / wezterm</title>
+    <link>https://github.com/wezterm/wezterm</link>
+    <description>A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust</description>
+  </item>
+  <item>
+    <title>facebook / pyrefly</title>
+    <link>https://github.com/facebook/pyrefly</link>
+    <description>A fast type checker and language server for Python</description>
   </item>
 </channel>
 </rss>

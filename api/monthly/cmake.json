@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27321,
+      "stars": 27324,
       "forks": 7657,
-      "added_stars": "144 stars this month"
+      "added_stars": "143 stars this month"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -20,9 +20,9 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1672,
-      "forks": 225,
-      "added_stars": "64 stars this month"
+      "stars": 1675,
+      "forks": 227,
+      "added_stars": "61 stars this month"
     },
     {
       "title": "KIT-MRT / mrt_cmake_modules",
@@ -52,7 +52,7 @@
       "languageColor": "#DA3434",
       "stars": 1602,
       "forks": 127,
-      "added_stars": "39 stars this month"
+      "added_stars": "37 stars this month"
     },
     {
       "title": "KiCad / kicad-footprints",
@@ -85,16 +85,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "justinmk / tree-sitter-ini",
-      "url": "https://github.com/justinmk/tree-sitter-ini",
-      "description": "tree-sitter grammar/parser for INI files",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 36,
-      "forks": 15,
-      "added_stars": "1 star this month"
-    },
-    {
       "title": "arsenm / sanitizers-cmake",
       "url": "https://github.com/arsenm/sanitizers-cmake",
       "description": "CMake modules to help use sanitizers",
@@ -102,7 +92,7 @@
       "languageColor": "#DA3434",
       "stars": 411,
       "forks": 74,
-      "added_stars": "1 star this month"
+      "added_stars": "0 stars this month"
     }
   ]
 }

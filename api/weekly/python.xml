@@ -4,26 +4,21 @@
   <title>GitHub Python Languages Daily Trending</title>
   <description>Daily Trending of Python Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:24:59 GMT</pubDate>
-  <item>
-    <title>ayghri / i-have-adhd</title>
-    <link>https://github.com/ayghri/i-have-adhd</link>
-    <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
-  </item>
+  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
   <item>
     <title>virgiliojr94 / book-to-skill</title>
     <link>https://github.com/virgiliojr94/book-to-skill</link>
     <description>Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.</description>
   </item>
   <item>
-    <title>shiyu-coder / Kronos</title>
-    <link>https://github.com/shiyu-coder/Kronos</link>
-    <description>Kronos: A Foundation Model for the Language of Financial Markets</description>
+    <title>ayghri / i-have-adhd</title>
+    <link>https://github.com/ayghri/i-have-adhd</link>
+    <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
   </item>
   <item>
-    <title>microsoft / VibeVoice</title>
-    <link>https://github.com/microsoft/VibeVoice</link>
-    <description>Open-Source Frontier Voice AI</description>
+    <title>andrewyng / aisuite</title>
+    <link>https://github.com/andrewyng/aisuite</link>
+    <description>Simple, unified interface to multiple Generative AI providers</description>
   </item>
   <item>
     <title>microsoft / TRELLIS.2</title>
@@ -31,14 +26,14 @@
     <description>Native and Compact Structured Latents for 3D Generation</description>
   </item>
   <item>
-    <title>huggingface / speech-to-speech</title>
-    <link>https://github.com/huggingface/speech-to-speech</link>
-    <description>Build local voice agents with open-source models</description>
+    <title>microsoft / VibeVoice</title>
+    <link>https://github.com/microsoft/VibeVoice</link>
+    <description>Open-Source Frontier Voice AI</description>
   </item>
   <item>
-    <title>paperless-ngx / paperless-ngx</title>
-    <link>https://github.com/paperless-ngx/paperless-ngx</link>
-    <description>A community-supported supercharged document management system: scan, index and archive all your documents</description>
+    <title>shiyu-coder / Kronos</title>
+    <link>https://github.com/shiyu-coder/Kronos</link>
+    <description>Kronos: A Foundation Model for the Language of Financial Markets</description>
   </item>
   <item>
     <title>modelcontextprotocol / python-sdk</title>
@@ -46,34 +41,44 @@
     <description>The official Python SDK for Model Context Protocol servers and clients</description>
   </item>
   <item>
-    <title>microsoft / agent-governance-toolkit</title>
-    <link>https://github.com/microsoft/agent-governance-toolkit</link>
-    <description>AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.</description>
-  </item>
-  <item>
     <title>Tracer-Cloud / opensre</title>
     <link>https://github.com/Tracer-Cloud/opensre</link>
     <description>Build your own AI SRE agents. The open source toolkit for the AI era.</description>
   </item>
   <item>
-    <title>HKUDS / DeepTutor</title>
-    <link>https://github.com/HKUDS/DeepTutor</link>
-    <description>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</description>
+    <title>HKUDS / OpenSpace</title>
+    <link>https://github.com/HKUDS/OpenSpace</link>
+    <description>&quot;OpenSpace: The Skill Management Layer for AI Agents&quot; -- https://open-space.cloud/</description>
   </item>
   <item>
-    <title>openai / openai-python</title>
-    <link>https://github.com/openai/openai-python</link>
-    <description>The official Python library for the OpenAI API</description>
+    <title>huggingface / speech-to-speech</title>
+    <link>https://github.com/huggingface/speech-to-speech</link>
+    <description>Build local voice agents with open-source models</description>
   </item>
   <item>
-    <title>paperswithbacktest / awesome-systematic-trading</title>
-    <link>https://github.com/paperswithbacktest/awesome-systematic-trading</link>
-    <description>A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.</description>
+    <title>jgravelle / jcodemunch-mcp</title>
+    <link>https://github.com/jgravelle/jcodemunch-mcp</link>
+    <description>Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor &amp; any MCP client. 313B+ tokens saved.</description>
   </item>
   <item>
-    <title>deepfakes / faceswap</title>
-    <link>https://github.com/deepfakes/faceswap</link>
-    <description>Deepfakes Software For All</description>
+    <title>MODSetter / SurfSense</title>
+    <link>https://github.com/MODSetter/SurfSense</link>
+    <description>Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9</description>
+  </item>
+  <item>
+    <title>OWASP / CheatSheetSeries</title>
+    <link>https://github.com/OWASP/CheatSheetSeries</link>
+    <description>The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.</description>
+  </item>
+  <item>
+    <title>microsoft / agent-governance-toolkit</title>
+    <link>https://github.com/microsoft/agent-governance-toolkit</link>
+    <description>AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.</description>
+  </item>
+  <item>
+    <title>sherlock-project / sherlock</title>
+    <link>https://github.com/sherlock-project/sherlock</link>
+    <description>Hunt down social media accounts by username across social networks</description>
   </item>
 </channel>
 </rss>

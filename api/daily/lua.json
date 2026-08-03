@@ -2,67 +2,17 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
-      "title": "opentibiabr / otclient",
-      "url": "https://github.com/opentibiabr/otclient",
-      "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
+      "title": "overextended / ox_inventory",
+      "url": "https://github.com/overextended/ox_inventory",
+      "description": "Slot-based inventory with metadata.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 510,
-      "forks": 481,
+      "stars": 564,
+      "forks": 1079,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "beyond-all-reason / Beyond-All-Reason",
-      "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
-      "description": "Main game repository for Beyond All Reason.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4117,
-      "forks": 651,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "olimorris / codecompanion.nvim",
-      "url": "https://github.com/olimorris/codecompanion.nvim",
-      "description": "✨ AI Coding, Vim Style",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 6778,
-      "forks": 444,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "catppuccin / nvim",
-      "url": "https://github.com/catppuccin/nvim",
-      "description": "🍨 Soothing pastel theme for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 7555,
-      "forks": 337,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "pwntester / octo.nvim",
-      "url": "https://github.com/pwntester/octo.nvim",
-      "description": "Edit and review GitHub issues and pull requests from the comfort of your favorite editor",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3348,
-      "forks": 241,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ibhagwan / fzf-lua",
-      "url": "https://github.com/ibhagwan/fzf-lua",
-      "description": "Improved fzf.vim written in lua",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4394,
-      "forks": 262,
-      "added_stars": "0 stars today"
     },
     {
       "title": "ntop / ntopng",
@@ -70,9 +20,39 @@
       "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 8052,
+      "stars": 8055,
       "forks": 755,
-      "added_stars": "6 stars today"
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "KristalTeam / Kristal",
+      "url": "https://github.com/KristalTeam/Kristal",
+      "description": "Deltarune fangame engine for Love2D",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 299,
+      "forks": 155,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "koreader / koreader",
+      "url": "https://github.com/koreader/koreader",
+      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 28316,
+      "forks": 1823,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "neovim / nvim-lspconfig",
+      "url": "https://github.com/neovim/nvim-lspconfig",
+      "description": "Quickstart configs for Nvim LSP",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 13825,
+      "forks": 2475,
+      "added_stars": "2 stars today"
     },
     {
       "title": "smjonas / inc-rename.nvim",
@@ -85,14 +65,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "neovim / nvim-lspconfig",
-      "url": "https://github.com/neovim/nvim-lspconfig",
-      "description": "Quickstart configs for Nvim LSP",
+      "title": "folke / sidekick.nvim",
+      "url": "https://github.com/folke/sidekick.nvim",
+      "description": "Your Neovim AI sidekick",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 13821,
-      "forks": 2475,
-      "added_stars": "4 stars today"
+      "stars": 2716,
+      "forks": 148,
+      "added_stars": "3 stars today"
     },
     {
       "title": "opentibiabr / canary",
@@ -100,49 +80,39 @@
       "description": "Canary Server 15.25 for OpenTibia community.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 621,
+      "stars": 622,
       "forks": 865,
-      "added_stars": "1 star today"
+      "added_stars": "3 stars today"
     },
     {
-      "title": "overextended / ox_lib",
-      "url": "https://github.com/overextended/ox_lib",
-      "description": "A FiveM resource and script library for Lua and JS.",
+      "title": "id577 / FS25_AdvancedDamageSystem",
+      "url": "https://github.com/id577/FS25_AdvancedDamageSystem",
+      "description": "Advanced Damage System mod for Farming Simulator 25",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 407,
-      "forks": 739,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "igorlfs / nvim-dap-view",
-      "url": "https://github.com/igorlfs/nvim-dap-view",
-      "description": "Visualize debugging sessions in neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 970,
-      "forks": 36,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "BeamMP / BeamMP",
-      "url": "https://github.com/BeamMP/BeamMP",
-      "description": "Bringing multiplayer to BeamNG.drive",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 501,
-      "forks": 119,
+      "stars": 243,
+      "forks": 18,
       "added_stars": "0 stars today"
     },
     {
-      "title": "mason-org / mason.nvim",
-      "url": "https://github.com/mason-org/mason.nvim",
-      "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+      "title": "kevinhwang91 / nvim-ufo",
+      "url": "https://github.com/kevinhwang91/nvim-ufo",
+      "description": "Not UFO in the sky, but an ultra fold in Neovim.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 10418,
-      "forks": 337,
-      "added_stars": "2 stars today"
+      "stars": 2944,
+      "forks": 69,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Stephan-S / FS25_AutoDrive",
+      "url": "https://github.com/Stephan-S/FS25_AutoDrive",
+      "description": "FS25 version of the AutoDrive mod",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 648,
+      "forks": 40,
+      "added_stars": "1 star today"
     },
     {
       "title": "forest0xia / dota2bot-OpenHyperAI",
@@ -150,29 +120,39 @@
       "description": "A beta Dota2 Bot Script aims to provide better bot game experience",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 272,
-      "forks": 59,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rittermod / FS25_RealisticLivestockRM",
-      "url": "https://github.com/rittermod/FS25_RealisticLivestockRM",
-      "description": "FS25_RealisticLivestock - Ritter version",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 148,
-      "forks": 15,
+      "stars": 273,
+      "forks": 60,
       "added_stars": "1 star today"
     },
     {
-      "title": "yetone / avante.nvim",
-      "url": "https://github.com/yetone/avante.nvim",
-      "description": "Use your Neovim like using Cursor AI IDE!",
+      "title": "Courseplay / Courseplay_FS25",
+      "url": "https://github.com/Courseplay/Courseplay_FS25",
+      "description": "Courseplay for Farming Simulator 2025",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 18082,
-      "forks": 847,
-      "added_stars": "2 stars today"
+      "stars": 905,
+      "forks": 79,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "s1n7ax / nvim-window-picker",
+      "url": "https://github.com/s1n7ax/nvim-window-picker",
+      "description": "This plugins prompts the user to pick a window and returns the window id of the picked window",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 458,
+      "forks": 37,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Footagesus / WindUI",
+      "url": "https://github.com/Footagesus/WindUI",
+      "description": "WindUI is a open source UI library for Roblox Script Hubs",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 313,
+      "forks": 302,
+      "added_stars": "0 stars today"
     }
   ]
 }

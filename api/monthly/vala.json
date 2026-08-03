@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "kem-a / AppManager",
@@ -10,9 +10,9 @@
       "description": "MacOS style AppImage installer and management application",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1256,
+      "stars": 1261,
       "forks": 27,
-      "added_stars": "306 stars this month"
+      "added_stars": "312 stars this month"
     },
     {
       "title": "Vysp3r / ProtonPlus",
@@ -22,7 +22,7 @@
       "languageColor": "#a56de2",
       "stars": 1649,
       "forks": 50,
-      "added_stars": "91 stars this month"
+      "added_stars": "89 stars this month"
     },
     {
       "title": "tkashkin / GameHub",
@@ -30,9 +30,9 @@
       "description": "All your games in one place",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 2817,
+      "stars": 2819,
       "forks": 206,
-      "added_stars": "28 stars this month"
+      "added_stars": "30 stars this month"
     },
     {
       "title": "BuddiesOfBudgie / budgie-desktop",
@@ -45,34 +45,24 @@
       "added_stars": "10 stars this month"
     },
     {
-      "title": "christianloopp / komorebi",
-      "url": "https://github.com/christianloopp/komorebi",
-      "description": "A beautiful and customizable wallpapers manager for Linux",
-      "language": "Vala",
-      "languageColor": "#a56de2",
-      "stars": 3746,
-      "forks": 257,
-      "added_stars": "11 stars this month"
-    },
-    {
       "title": "linuxmint / timeshift",
       "url": "https://github.com/linuxmint/timeshift",
       "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 4209,
+      "stars": 4212,
       "forks": 151,
-      "added_stars": "59 stars this month"
+      "added_stars": "62 stars this month"
     },
     {
-      "title": "alainm23 / planify",
-      "url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "title": "christianloopp / komorebi",
+      "url": "https://github.com/christianloopp/komorebi",
+      "description": "A beautiful and customizable wallpapers manager for Linux",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 5508,
-      "forks": 318,
-      "added_stars": "86 stars this month"
+      "stars": 3748,
+      "forks": 257,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "ErikReider / SwayNotificationCenter",
@@ -80,9 +70,19 @@
       "description": "A simple GTK based notification daemon for any Wayland compositor",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 2546,
+      "stars": 2549,
       "forks": 98,
-      "added_stars": "50 stars this month"
+      "added_stars": "51 stars this month"
+    },
+    {
+      "title": "alainm23 / planify",
+      "url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 5512,
+      "forks": 318,
+      "added_stars": "88 stars this month"
     }
   ]
 }

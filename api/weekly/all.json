@@ -2,57 +2,17 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
-    {
-      "title": "permissionlesstech / bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 34002,
-      "forks": 5423,
-      "added_stars": "5,737 stars this week"
-    },
     {
       "title": "block / buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20575,
-      "forks": 2167,
-      "added_stars": "9,003 stars this week"
-    },
-    {
-      "title": "citrolabs / ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 7432,
-      "forks": 370,
-      "added_stars": "4,090 stars this week"
-    },
-    {
-      "title": "ayghri / i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 15318,
-      "forks": 851,
-      "added_stars": "5,232 stars this week"
-    },
-    {
-      "title": "alibaba / open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17561,
-      "forks": 1193,
-      "added_stars": "4,708 stars this week"
+      "stars": 21267,
+      "forks": 2283,
+      "added_stars": "8,217 stars this week"
     },
     {
       "title": "virgiliojr94 / book-to-skill",
@@ -60,59 +20,19 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14955,
-      "forks": 1613,
-      "added_stars": "5,105 stars this week"
+      "stars": 15514,
+      "forks": 1671,
+      "added_stars": "5,223 stars this week"
     },
     {
-      "title": "pascalorg / editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 20627,
-      "forks": 2656,
-      "added_stars": "3,028 stars this week"
-    },
-    {
-      "title": "1jehuang / jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "The most RAM efficient harness",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 14995,
-      "forks": 1663,
-      "added_stars": "3,548 stars this week"
-    },
-    {
-      "title": "opengeos / GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4870,
-      "forks": 487,
-      "added_stars": "2,951 stars this week"
-    },
-    {
-      "title": "moeru-ai / airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 46420,
-      "forks": 4577,
-      "added_stars": "3,335 stars this week"
-    },
-    {
-      "title": "pingdotgg / t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 16253,
-      "forks": 3618,
-      "added_stars": "1,439 stars this week"
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 15823,
+      "forks": 883,
+      "added_stars": "5,225 stars this week"
     },
     {
       "title": "microsoft / AI-For-Beginners",
@@ -120,19 +40,99 @@
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 57678,
-      "forks": 11399,
-      "added_stars": "3,246 stars this week"
+      "stars": 59574,
+      "forks": 11694,
+      "added_stars": "5,601 stars this week"
     },
     {
-      "title": "shiyu-coder / Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "title": "1jehuang / jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 15332,
+      "forks": 1699,
+      "added_stars": "3,620 stars this week"
+    },
+    {
+      "title": "pascalorg / editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 20787,
+      "forks": 2668,
+      "added_stars": "3,163 stars this week"
+    },
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 18053,
+      "forks": 1214,
+      "added_stars": "4,365 stars this week"
+    },
+    {
+      "title": "permissionlesstech / bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 34203,
+      "forks": 5463,
+      "added_stars": "4,942 stars this week"
+    },
+    {
+      "title": "moeru-ai / airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 46591,
+      "forks": 4593,
+      "added_stars": "3,431 stars this week"
+    },
+    {
+      "title": "andrewyng / aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 35418,
-      "forks": 5901,
-      "added_stars": "1,741 stars this week"
+      "stars": 15917,
+      "forks": 1684,
+      "added_stars": "576 stars this week"
+    },
+    {
+      "title": "opengeos / GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 5031,
+      "forks": 502,
+      "added_stars": "2,933 stars this week"
+    },
+    {
+      "title": "citrolabs / ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 7761,
+      "forks": 382,
+      "added_stars": "3,582 stars this week"
+    },
+    {
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 16368,
+      "forks": 3648,
+      "added_stars": "1,431 stars this week"
     },
     {
       "title": "diegosouzapw / OmniRoute",
@@ -140,29 +140,9 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 37206,
-      "forks": 4818,
-      "added_stars": "7,259 stars this week"
-    },
-    {
-      "title": "CoreBunch / Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7163,
-      "forks": 627,
-      "added_stars": "2,517 stars this week"
-    },
-    {
-      "title": "microsoft / VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 51820,
-      "forks": 5742,
-      "added_stars": "1,317 stars this week"
+      "stars": 38071,
+      "forks": 4968,
+      "added_stars": "7,141 stars this week"
     },
     {
       "title": "earthtojake / text-to-cad",
@@ -170,9 +150,19 @@
       "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 12410,
-      "forks": 1317,
-      "added_stars": "2,009 stars this week"
+      "stars": 12550,
+      "forks": 1328,
+      "added_stars": "2,063 stars this week"
+    },
+    {
+      "title": "microsoft / TRELLIS.2",
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "description": "Native and Compact Structured Latents for 3D Generation",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 10198,
+      "forks": 1227,
+      "added_stars": "1,106 stars this week"
     },
     {
       "title": "different-ai / openwork",
@@ -180,9 +170,19 @@
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19996,
-      "forks": 2072,
-      "added_stars": "2,720 stars this week"
+      "stars": 20463,
+      "forks": 2098,
+      "added_stars": "2,925 stars this week"
+    },
+    {
+      "title": "permissionlesstech / bitchat-android",
+      "url": "https://github.com/permissionlesstech/bitchat-android",
+      "description": "decentralized mesh chat",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 7270,
+      "forks": 1791,
+      "added_stars": "928 stars this week"
     }
   ]
 }

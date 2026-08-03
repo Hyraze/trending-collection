@@ -4,7 +4,7 @@
   <title>GitHub Objective-c Languages Daily Trending</title>
   <description>Daily Trending of Objective-c Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:24:59 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
   <item>
     <title>Mininglamp-OSS / octo-ios</title>
     <link>https://github.com/Mininglamp-OSS/octo-ios</link>
@@ -16,14 +16,14 @@
     <description>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</description>
   </item>
   <item>
+    <title>gnachman / iTerm2</title>
+    <link>https://github.com/gnachman/iTerm2</link>
+    <description>iTerm2 is a terminal emulator for Mac OS X that does amazing things.</description>
+  </item>
+  <item>
     <title>PojavLauncherTeam / PojavLauncher_iOS</title>
     <link>https://github.com/PojavLauncherTeam/PojavLauncher_iOS</link>
     <description>A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS</description>
-  </item>
-  <item>
-    <title>realm / realm-swift</title>
-    <link>https://github.com/realm/realm-swift</link>
-    <description>Realm is a mobile database: a replacement for Core Data &amp; SQLite</description>
   </item>
   <item>
     <title>objective-see / LuLu</title>
@@ -31,14 +31,9 @@
     <description>LuLu is the free open-source macOS firewall</description>
   </item>
   <item>
-    <title>gnachman / iTerm2</title>
-    <link>https://github.com/gnachman/iTerm2</link>
-    <description>iTerm2 is a terminal emulator for Mac OS X that does amazing things.</description>
-  </item>
-  <item>
-    <title>Hammerspoon / hammerspoon</title>
-    <link>https://github.com/Hammerspoon/hammerspoon</link>
-    <description>Staggeringly powerful macOS desktop automation with Lua</description>
+    <title>realm / realm-swift</title>
+    <link>https://github.com/realm/realm-swift</link>
+    <description>Realm is a mobile database: a replacement for Core Data &amp; SQLite</description>
   </item>
   <item>
     <title>geode-sdk / ios-launcher</title>
@@ -51,14 +46,19 @@
     <description>The Git interface you&#x27;ve been missing all your life has finally arrived.</description>
   </item>
   <item>
+    <title>AFNetworking / AFNetworking</title>
+    <link>https://github.com/AFNetworking/AFNetworking</link>
+    <description>A delightful networking framework for iOS, macOS, watchOS, and tvOS.</description>
+  </item>
+  <item>
     <title>swisspol / GCDWebServer</title>
     <link>https://github.com/swisspol/GCDWebServer</link>
     <description>The #1 HTTP server for iOS, macOS &amp; tvOS (also includes web based uploader &amp; WebDAV server)</description>
   </item>
   <item>
-    <title>syncthing / syncthing-macos</title>
-    <link>https://github.com/syncthing/syncthing-macos</link>
-    <description>Official frugal and native macOS Syncthing application bundle</description>
+    <title>Hammerspoon / hammerspoon</title>
+    <link>https://github.com/Hammerspoon/hammerspoon</link>
+    <description>Staggeringly powerful macOS desktop automation with Lua</description>
   </item>
   <item>
     <title>keycastr / keycastr</title>
@@ -76,14 +76,9 @@
     <description></description>
   </item>
   <item>
-    <title>noah-nuebling / mac-mouse-fix</title>
-    <link>https://github.com/noah-nuebling/mac-mouse-fix</link>
-    <description>Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!</description>
-  </item>
-  <item>
-    <title>google / gtm-session-fetcher</title>
-    <link>https://github.com/google/gtm-session-fetcher</link>
-    <description>Google Toolbox for Mac - Session Fetcher</description>
+    <title>syncthing / syncthing-macos</title>
+    <link>https://github.com/syncthing/syncthing-macos</link>
+    <description>Official frugal and native macOS Syncthing application bundle</description>
   </item>
   <item>
     <title>google / promises</title>
@@ -91,14 +86,14 @@
     <description>Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</description>
   </item>
   <item>
+    <title>google / gtm-session-fetcher</title>
+    <link>https://github.com/google/gtm-session-fetcher</link>
+    <description>Google Toolbox for Mac - Session Fetcher</description>
+  </item>
+  <item>
     <title>google / GoogleUtilities</title>
     <link>https://github.com/google/GoogleUtilities</link>
     <description></description>
-  </item>
-  <item>
-    <title>adjust / ios_sdk</title>
-    <link>https://github.com/adjust/ios_sdk</link>
-    <description>This is the iOS SDK of</description>
   </item>
   <item>
     <title>AliSoftware / OHHTTPStubs</title>
@@ -109,6 +104,11 @@
     <title>BranchMetrics / ios-branch-sdk-spm</title>
     <link>https://github.com/BranchMetrics/ios-branch-sdk-spm</link>
     <description>Branch iOS SDK Swift Package Manager distribution</description>
+  </item>
+  <item>
+    <title>adjust / ios_sdk</title>
+    <link>https://github.com/adjust/ios_sdk</link>
+    <description>This is the iOS SDK of</description>
   </item>
 </channel>
 </rss>

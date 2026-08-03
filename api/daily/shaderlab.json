@@ -2,7 +2,7 @@
   "title": "GitHub Shaderlab Languages Daily Trending",
   "description": "Daily Trending of Shaderlab Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
       "title": "shinyflvre / Mate-Engine",
@@ -10,19 +10,29 @@
       "description": "A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.",
       "language": "ShaderLab",
       "languageColor": "#222c37",
-      "stars": 3477,
-      "forks": 290,
-      "added_stars": "8 stars today"
+      "stars": 3481,
+      "forks": 291,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "mob-sakai / SoftMaskForUGUI",
-      "url": "https://github.com/mob-sakai/SoftMaskForUGUI",
-      "description": "Enhance Unity UI (uGUI) with advanced soft-masking features to create more visually appealing effects!",
+      "title": "poiyomi / PoiyomiToonShader",
+      "url": "https://github.com/poiyomi/PoiyomiToonShader",
+      "description": "A feature rich toon shader for unity and VR Chat",
       "language": "ShaderLab",
       "languageColor": "#222c37",
-      "stars": 2780,
-      "forks": 316,
+      "stars": 1642,
+      "forks": 202,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "Another-Axiom / GT_CustomMapExample",
+      "url": "https://github.com/Another-Axiom/GT_CustomMapExample",
+      "description": "Public example Unity project for building and exporting custom GT maps",
+      "language": "ShaderLab",
+      "languageColor": "#222c37",
+      "stars": 46,
+      "forks": 21,
+      "added_stars": "0 stars today"
     },
     {
       "title": "lilxyzw / lilToon",
@@ -30,9 +40,9 @@
       "description": "Feature-rich shaders for avatars",
       "language": "ShaderLab",
       "languageColor": "#222c37",
-      "stars": 1513,
+      "stars": 1516,
       "forks": 178,
-      "added_stars": "0 stars today"
+      "added_stars": "3 stars today"
     }
   ]
 }

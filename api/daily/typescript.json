@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
       "title": "usekaneo / kaneo",
@@ -10,79 +10,9 @@
       "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5763,
-      "forks": 493,
-      "added_stars": "760 stars today"
-    },
-    {
-      "title": "TencentCloud / TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 10390,
-      "forks": 993,
-      "added_stars": "227 stars today"
-    },
-    {
-      "title": "vuejs / core",
-      "url": "https://github.com/vuejs/core",
-      "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 54083,
-      "forks": 9173,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "actions / starter-workflows",
-      "url": "https://github.com/actions/starter-workflows",
-      "description": "Accelerating new GitHub Actions workflows",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 11910,
-      "forks": 7232,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "ChromeDevTools / chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 48354,
-      "forks": 3293,
-      "added_stars": "61 stars today"
-    },
-    {
-      "title": "podman-desktop / podman-desktop",
-      "url": "https://github.com/podman-desktop/podman-desktop",
-      "description": "Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7880,
-      "forks": 539,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "rohitg00 / agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 26340,
-      "forks": 2224,
-      "added_stars": "68 stars today"
-    },
-    {
-      "title": "marktext / marktext",
-      "url": "https://github.com/marktext/marktext",
-      "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 59486,
-      "forks": 4406,
-      "added_stars": "44 stars today"
+      "stars": 6323,
+      "forks": 526,
+      "added_stars": "496 stars today"
     },
     {
       "title": "different-ai / openwork",
@@ -90,49 +20,29 @@
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19996,
-      "forks": 2072,
-      "added_stars": "585 stars today"
+      "stars": 20463,
+      "forks": 2098,
+      "added_stars": "280 stars today"
     },
     {
-      "title": "gitroomhq / postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 34105,
-      "forks": 6379,
-      "added_stars": "59 stars today"
+      "stars": 11345,
+      "forks": 1075,
+      "added_stars": "602 stars today"
     },
     {
-      "title": "anomalyco / opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
+      "title": "actions / checkout",
+      "url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 192124,
-      "forks": 24516,
-      "added_stars": "414 stars today"
-    },
-    {
-      "title": "cursor / plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2514,
-      "forks": 196,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "ArnasDon / wacrm",
-      "url": "https://github.com/ArnasDon/wacrm",
-      "description": "Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 1800,
-      "forks": 4752,
-      "added_stars": "9 stars today"
+      "stars": 8591,
+      "forks": 2690,
+      "added_stars": "10 stars today"
     },
     {
       "title": "Narcooo / inkos",
@@ -140,9 +50,149 @@
       "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8606,
-      "forks": 1619,
-      "added_stars": "55 stars today"
+      "stars": 8644,
+      "forks": 1624,
+      "added_stars": "44 stars today"
+    },
+    {
+      "title": "gitroomhq / postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 34185,
+      "forks": 6399,
+      "added_stars": "70 stars today"
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 38070,
+      "forks": 4968,
+      "added_stars": "832 stars today"
+    },
+    {
+      "title": "jamiepine / voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 48299,
+      "forks": 5951,
+      "added_stars": "225 stars today"
+    },
+    {
+      "title": "NateBJones-Projects / OB1",
+      "url": "https://github.com/NateBJones-Projects/OB1",
+      "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4371,
+      "forks": 844,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "nrwl / nx",
+      "url": "https://github.com/nrwl/nx",
+      "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 29175,
+      "forks": 2930,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "garrytan / gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 125973,
+      "forks": 18918,
+      "added_stars": "184 stars today"
+    },
+    {
+      "title": "CyberTimon / RapidRAW",
+      "url": "https://github.com/CyberTimon/RapidRAW",
+      "description": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 9111,
+      "forks": 471,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "elizaOS / eliza",
+      "url": "https://github.com/elizaOS/eliza",
+      "description": "Open source agentic operating system",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 18885,
+      "forks": 5604,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "paperclipai / paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 75467,
+      "forks": 14056,
+      "added_stars": "98 stars today"
+    },
+    {
+      "title": "storybookjs / storybook",
+      "url": "https://github.com/storybookjs/storybook",
+      "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 90751,
+      "forks": 10311,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "microsoft / flint-chart",
+      "url": "https://github.com/microsoft/flint-chart",
+      "description": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3260,
+      "forks": 164,
+      "added_stars": "302 stars today"
+    },
+    {
+      "title": "simstudioai / sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 29305,
+      "forks": 3750,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "can1357 / oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 21375,
+      "forks": 2036,
+      "added_stars": "215 stars today"
+    },
+    {
+      "title": "iptv-org / iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 135019,
+      "forks": 7722,
+      "added_stars": "158 stars today"
     }
   ]
 }

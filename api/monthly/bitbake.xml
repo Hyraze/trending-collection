@@ -4,11 +4,16 @@
   <title>GitHub Bitbake Languages Daily Trending</title>
   <description>Daily Trending of Bitbake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 02 Aug 2026 05:27:08 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
   <item>
     <title>openbmc / openbmc</title>
     <link>https://github.com/openbmc/openbmc</link>
     <description>OpenBMC Distribution</description>
+  </item>
+  <item>
+    <title>ros / meta-ros</title>
+    <link>https://github.com/ros/meta-ros</link>
+    <description>OpenEmbedded Layers for ROS 1 and ROS 2</description>
   </item>
   <item>
     <title>openembedded / meta-openembedded</title>
@@ -61,6 +66,16 @@
     <description>Yocto layer for installing Rust toolchain from pre-built binaries</description>
   </item>
   <item>
+    <title>openembedded / openembedded-core</title>
+    <link>https://github.com/openembedded/openembedded-core</link>
+    <description>The official Git repository is at https://git.openembedded.org/openembedded-core/.</description>
+  </item>
+  <item>
+    <title>OpenCentauri / cosmos</title>
+    <link>https://github.com/OpenCentauri/cosmos</link>
+    <description>Yocto Linux project to build a complete mainline Linux-based firmware for the Centauri Carbon printer</description>
+  </item>
+  <item>
     <title>OSSystems / meta-browser</title>
     <link>https://github.com/OSSystems/meta-browser</link>
     <description>OpenEmbedded/Yocto BSP layer for Web Browsers</description>
@@ -74,11 +89,6 @@
     <title>Xilinx / meta-xilinx</title>
     <link>https://github.com/Xilinx/meta-xilinx</link>
     <description>Collection of Yocto Project layers to enable AMD Xilinx products</description>
-  </item>
-  <item>
-    <title>ros / meta-ros</title>
-    <link>https://github.com/ros/meta-ros</link>
-    <description>OpenEmbedded Layers for ROS 1 and ROS 2</description>
   </item>
   <item>
     <title>aws4embeddedlinux / meta-aws</title>

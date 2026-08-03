@@ -2,47 +2,37 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
-    {
-      "title": "ayghri / i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 15318,
-      "forks": 851,
-      "added_stars": "5,232 stars this week"
-    },
     {
       "title": "virgiliojr94 / book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14955,
-      "forks": 1613,
-      "added_stars": "5,105 stars this week"
+      "stars": 15514,
+      "forks": 1671,
+      "added_stars": "5,223 stars this week"
     },
     {
-      "title": "shiyu-coder / Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 35418,
-      "forks": 5901,
-      "added_stars": "1,741 stars this week"
+      "stars": 15824,
+      "forks": 883,
+      "added_stars": "5,225 stars this week"
     },
     {
-      "title": "microsoft / VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
+      "title": "andrewyng / aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 51820,
-      "forks": 5742,
-      "added_stars": "1,317 stars this week"
+      "stars": 15917,
+      "forks": 1684,
+      "added_stars": "576 stars this week"
     },
     {
       "title": "microsoft / TRELLIS.2",
@@ -50,29 +40,29 @@
       "description": "Native and Compact Structured Latents for 3D Generation",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9984,
-      "forks": 1202,
-      "added_stars": "898 stars this week"
+      "stars": 10198,
+      "forks": 1227,
+      "added_stars": "1,106 stars this week"
     },
     {
-      "title": "huggingface / speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "description": "Build local voice agents with open-source models",
+      "title": "microsoft / VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10272,
-      "forks": 1256,
-      "added_stars": "3,772 stars this week"
+      "stars": 51875,
+      "forks": 5744,
+      "added_stars": "1,371 stars this week"
     },
     {
-      "title": "paperless-ngx / paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "title": "shiyu-coder / Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43833,
-      "forks": 2976,
-      "added_stars": "355 stars this week"
+      "stars": 35674,
+      "forks": 5946,
+      "added_stars": "1,621 stars this week"
     },
     {
       "title": "modelcontextprotocol / python-sdk",
@@ -80,19 +70,9 @@
       "description": "The official Python SDK for Model Context Protocol servers and clients",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23843,
-      "forks": 3730,
-      "added_stars": "137 stars this week"
-    },
-    {
-      "title": "microsoft / agent-governance-toolkit",
-      "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 5560,
-      "forks": 894,
-      "added_stars": "652 stars this week"
+      "stars": 23853,
+      "forks": 3731,
+      "added_stars": "138 stars this week"
     },
     {
       "title": "Tracer-Cloud / opensre",
@@ -100,49 +80,79 @@
       "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9732,
-      "forks": 1386,
-      "added_stars": "523 stars this week"
+      "stars": 9809,
+      "forks": 1396,
+      "added_stars": "548 stars this week"
     },
     {
-      "title": "HKUDS / DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "title": "HKUDS / OpenSpace",
+      "url": "https://github.com/HKUDS/OpenSpace",
+      "description": "\"OpenSpace: The Skill Management Layer for AI Agents\" -- https://open-space.cloud/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31836,
-      "forks": 4156,
-      "added_stars": "2,128 stars this week"
+      "stars": 7244,
+      "forks": 877,
+      "added_stars": "263 stars this week"
     },
     {
-      "title": "openai / openai-python",
-      "url": "https://github.com/openai/openai-python",
-      "description": "The official Python library for the OpenAI API",
+      "title": "huggingface / speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31278,
-      "forks": 5055,
-      "added_stars": "81 stars this week"
+      "stars": 10521,
+      "forks": 1287,
+      "added_stars": "4,020 stars this week"
     },
     {
-      "title": "paperswithbacktest / awesome-systematic-trading",
-      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "title": "jgravelle / jcodemunch-mcp",
+      "url": "https://github.com/jgravelle/jcodemunch-mcp",
+      "description": "Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12347,
-      "forks": 1518,
-      "added_stars": "3,335 stars this week"
+      "stars": 2481,
+      "forks": 333,
+      "added_stars": "251 stars this week"
     },
     {
-      "title": "deepfakes / faceswap",
-      "url": "https://github.com/deepfakes/faceswap",
-      "description": "Deepfakes Software For All",
+      "title": "MODSetter / SurfSense",
+      "url": "https://github.com/MODSetter/SurfSense",
+      "description": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 57197,
-      "forks": 13491,
-      "added_stars": "1,859 stars this week"
+      "stars": 15708,
+      "forks": 1497,
+      "added_stars": "235 stars this week"
+    },
+    {
+      "title": "OWASP / CheatSheetSeries",
+      "url": "https://github.com/OWASP/CheatSheetSeries",
+      "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 32768,
+      "forks": 4556,
+      "added_stars": "108 stars this week"
+    },
+    {
+      "title": "microsoft / agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5574,
+      "forks": 900,
+      "added_stars": "659 stars this week"
+    },
+    {
+      "title": "sherlock-project / sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 88074,
+      "forks": 10338,
+      "added_stars": "874 stars this week"
     }
   ]
 }

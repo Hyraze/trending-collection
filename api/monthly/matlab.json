@@ -2,7 +2,7 @@
   "title": "GitHub Matlab Languages Daily Trending",
   "description": "Daily Trending of Matlab Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "fieldtrip / fieldtrip",
@@ -22,7 +22,17 @@
       "languageColor": "#e16737",
       "stars": 7723,
       "forks": 1913,
-      "added_stars": "31 stars this month"
+      "added_stars": "29 stars this month"
+    },
+    {
+      "title": "spm / spm",
+      "url": "https://github.com/spm/spm",
+      "description": "SPM (Statistical Parametric Mapping) - Development Version",
+      "language": "MATLAB",
+      "languageColor": "#e16737",
+      "stars": 213,
+      "forks": 60,
+      "added_stars": "6 stars this month"
     }
   ]
 }

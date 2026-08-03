@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
     {
       "title": "github / copilot-sdk",
@@ -10,119 +10,29 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10302,
-      "forks": 1388,
-      "added_stars": "142 stars today"
+      "stars": 10334,
+      "forks": 1392,
+      "added_stars": "113 stars today"
     },
     {
-      "title": "iluwatar / java-design-patterns",
-      "url": "https://github.com/iluwatar/java-design-patterns",
-      "description": "Design patterns implemented in Java",
+      "title": "Anuken / Mindustry",
+      "url": "https://github.com/Anuken/Mindustry",
+      "description": "The automation tower defense RTS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 94509,
-      "forks": 27410,
-      "added_stars": "27 stars today"
+      "stars": 28460,
+      "forks": 3666,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "NotHarshhaa / DevOps-Projects",
-      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
-      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+      "title": "DrKLO / Telegram",
+      "url": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4774,
-      "forks": 4376,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "LaurieWired / GhidraMCP",
-      "url": "https://github.com/LaurieWired/GhidraMCP",
-      "description": "MCP Server for Ghidra",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9674,
-      "forks": 1002,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "spring-projects / spring-boot",
-      "url": "https://github.com/spring-projects/spring-boot",
-      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 81210,
-      "forks": 42049,
+      "stars": 29643,
+      "forks": 9861,
       "added_stars": "14 stars today"
-    },
-    {
-      "title": "648540858 / wvp-GB28181-pro",
-      "url": "https://github.com/648540858/wvp-GB28181-pro",
-      "description": "基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 7199,
-      "forks": 2060,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "hneemann / Digital",
-      "url": "https://github.com/hneemann/Digital",
-      "description": "A digital logic designer and circuit simulator.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5882,
-      "forks": 586,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "debezium / debezium",
-      "url": "https://github.com/debezium/debezium",
-      "description": "Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 12971,
-      "forks": 2988,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "openjdk / jdk",
-      "url": "https://github.com/openjdk/jdk",
-      "description": "JDK main-line development https://openjdk.org/projects/jdk",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 23176,
-      "forks": 6394,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "xoureldeen / Vectras-VM-Android",
-      "url": "https://github.com/xoureldeen/Vectras-VM-Android",
-      "description": "It's a Virtual Machine App for Android Which is Based on QEMU",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2455,
-      "forks": 217,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "apache / flink",
-      "url": "https://github.com/apache/flink",
-      "description": "Apache Flink",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 26233,
-      "forks": 13999,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "termux / termux-api",
-      "url": "https://github.com/termux/termux-api",
-      "description": "Termux add-on app which exposes device functionality as API to command line programs.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4106,
-      "forks": 855,
-      "added_stars": "2 stars today"
     },
     {
       "title": "TeamNewPipe / NewPipe",
@@ -130,69 +40,169 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 39204,
+      "stars": 39221,
       "forks": 3705,
-      "added_stars": "31 stars today"
+      "added_stars": "15 stars today"
     },
     {
-      "title": "alibaba / arthas",
-      "url": "https://github.com/alibaba/arthas",
-      "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 37462,
-      "forks": 7635,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "AutoMQ / automq",
-      "url": "https://github.com/AutoMQ/automq",
-      "description": "Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 10374,
-      "forks": 749,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "AndreyPavlenko / Fermata",
-      "url": "https://github.com/AndreyPavlenko/Fermata",
+      "title": "woheller69 / FreeDroidWarn",
+      "url": "https://github.com/woheller69/FreeDroidWarn",
       "description": "",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1227,
-      "forks": 168,
-      "added_stars": "2 stars today"
+      "stars": 3023,
+      "forks": 108,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "keycloak / keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "title": "MojoLauncher / MojoLauncher",
+      "url": "https://github.com/MojoLauncher/MojoLauncher",
+      "description": "A Minecraft: Java Edition launcher, based on PojavLauncher",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 35943,
-      "forks": 8719,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "tronprotocol / java-tron",
-      "url": "https://github.com/tronprotocol/java-tron",
-      "description": "Java implementation of the Tron whitepaper",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4131,
-      "forks": 1708,
+      "stars": 910,
+      "forks": 353,
       "added_stars": "1 star today"
     },
     {
-      "title": "mubashardev / WaEnhancer",
-      "url": "https://github.com/mubashardev/WaEnhancer",
-      "description": "WhatsApp tools for Android",
+      "title": "Stirling-Tools / Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 306,
-      "forks": 24,
-      "added_stars": "0 stars today"
+      "stars": 88616,
+      "forks": 7923,
+      "added_stars": "71 stars today"
+    },
+    {
+      "title": "ashishps1 / awesome-low-level-design",
+      "url": "https://github.com/ashishps1/awesome-low-level-design",
+      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 25877,
+      "forks": 6280,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "Creators-of-Create / Create",
+      "url": "https://github.com/Creators-of-Create/Create",
+      "description": "[NeoForge Mod] Building Tools and Aesthetic Technology",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4395,
+      "forks": 1378,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "osmandapp / OsmAnd",
+      "url": "https://github.com/osmandapp/OsmAnd",
+      "description": "OsmAnd",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5876,
+      "forks": 1204,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "karma9874 / AndroRAT",
+      "url": "https://github.com/karma9874/AndroRAT",
+      "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4934,
+      "forks": 1604,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "elastic / elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 77712,
+      "forks": 25993,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "AsamK / signal-cli",
+      "url": "https://github.com/AsamK/signal-cli",
+      "description": "signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4830,
+      "forks": 442,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "bazelbuild / bazel",
+      "url": "https://github.com/bazelbuild/bazel",
+      "description": "a fast, scalable, multi-language and extensible build system",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 25668,
+      "forks": 4545,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "ModinMobileSTS / Sts2MobileLauncher",
+      "url": "https://github.com/ModinMobileSTS/Sts2MobileLauncher",
+      "description": "an unofficial sts2 mobile launcher that support mods,optimized mobile control",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 232,
+      "forks": 9,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "kunal-kushwaha / DSA-Bootcamp-Java",
+      "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+      "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 23364,
+      "forks": 13461,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "apache / maven",
+      "url": "https://github.com/apache/maven",
+      "description": "Apache Maven core",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5294,
+      "forks": 3031,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "LiteLDev / LeviLaunchroid",
+      "url": "https://github.com/LiteLDev/LeviLaunchroid",
+      "description": "A launcher designed for Minecraft Bedrock Edition on Android",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 485,
+      "forks": 107,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "RikkaApps / Shizuku-API",
+      "url": "https://github.com/RikkaApps/Shizuku-API",
+      "description": "The API and the developer guide for Shizuku and Sui.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2402,
+      "forks": 1048,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "google / guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 51539,
+      "forks": 11145,
+      "added_stars": "2 stars today"
     }
   ]
 }

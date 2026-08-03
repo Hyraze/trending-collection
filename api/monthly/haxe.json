@@ -2,7 +2,7 @@
   "title": "GitHub Haxe Languages Daily Trending",
   "description": "Daily Trending of Haxe Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "CodenameCrew / CodenameEngine",
@@ -11,8 +11,8 @@
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": 461,
-      "forks": 346,
-      "added_stars": "8 stars this month"
+      "forks": 347,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "HaxeFoundation / haxe",
@@ -25,34 +25,14 @@
       "added_stars": "22 stars this month"
     },
     {
-      "title": "Snirozu / Funkin-Psych-Online",
-      "url": "https://github.com/Snirozu/Funkin-Psych-Online",
-      "description": "Friday Night Funkin' Mod that utilizes Online Features",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 99,
-      "forks": 83,
-      "added_stars": "1 star this month"
-    },
-    {
       "title": "Psych-Slice / P-Slice",
       "url": "https://github.com/Psych-Slice/P-Slice",
       "description": "",
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": 164,
-      "forks": 115,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "FunkinCrew / Funkin",
-      "url": "https://github.com/FunkinCrew/Funkin",
-      "description": "A rhythm game made with HaxeFlixel",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 3695,
-      "forks": 2532,
-      "added_stars": "38 stars this month"
+      "forks": 116,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "beihu235 / Psych-Engine-0.71h-android",
@@ -63,6 +43,26 @@
       "stars": 21,
       "forks": 37,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "Snirozu / Funkin-Psych-Online",
+      "url": "https://github.com/Snirozu/Funkin-Psych-Online",
+      "description": "Friday Night Funkin' Mod that utilizes Online Features",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 99,
+      "forks": 84,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "FunkinCrew / Funkin",
+      "url": "https://github.com/FunkinCrew/Funkin",
+      "description": "A rhythm game made with HaxeFlixel",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 3696,
+      "forks": 2533,
+      "added_stars": "37 stars this month"
     }
   ]
 }

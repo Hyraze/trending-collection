@@ -2,77 +2,27 @@
   "title": "GitHub Tex Languages Daily Trending",
   "description": "Daily Trending of Tex Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
   "items": [
-    {
-      "title": "riscv / riscv-isa-manual",
-      "url": "https://github.com/riscv/riscv-isa-manual",
-      "description": "RISC-V Instruction Set Manual",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 4744,
-      "forks": 856,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "zhanwen / MathModel",
       "url": "https://github.com/zhanwen/MathModel",
       "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 10992,
-      "forks": 2261,
+      "stars": 11008,
+      "forks": 2260,
       "added_stars": "18 stars today"
     },
     {
-      "title": "exacity / deeplearningbook-chinese",
-      "url": "https://github.com/exacity/deeplearningbook-chinese",
-      "description": "Deep Learning Book Chinese Translation",
+      "title": "Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 37351,
-      "forks": 9115,
+      "stars": 3302,
+      "forks": 718,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "posquit0 / Awesome-CV",
-      "url": "https://github.com/posquit0/Awesome-CV",
-      "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 28197,
-      "forks": 5300,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "andygrunwald / FOM-LaTeX-Template",
-      "url": "https://github.com/andygrunwald/FOM-LaTeX-Template",
-      "description": "A LaTeX template for term paper, bachelor or master thesis for \"FOM University of Applied Sciences\"",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 247,
-      "forks": 250,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "sb2nov / resume",
-      "url": "https://github.com/sb2nov/resume",
-      "description": "Software developer resume in Latex",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 6862,
-      "forks": 1876,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tuhdo / os01",
-      "url": "https://github.com/tuhdo/os01",
-      "description": "Bootstrap yourself to write an OS from scratch. A book for self-learner.",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 13652,
-      "forks": 790,
-      "added_stars": "2 stars today"
     },
     {
       "title": "billryan / resume",
@@ -81,38 +31,48 @@
       "language": "TeX",
       "languageColor": "#3D6117",
       "stars": 11300,
-      "forks": 2867,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "lib-pku / libpku",
-      "url": "https://github.com/lib-pku/libpku",
-      "description": "贵校课程资料民间整理",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 33748,
-      "forks": 8213,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "sysprog21 / lkmpg",
-      "url": "https://github.com/sysprog21/lkmpg",
-      "description": "The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 8548,
-      "forks": 621,
+      "forks": 2868,
       "added_stars": "1 star today"
     },
     {
-      "title": "rstudio / cheatsheets",
-      "url": "https://github.com/rstudio/cheatsheets",
-      "description": "Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.",
+      "title": "posquit0 / Awesome-CV",
+      "url": "https://github.com/posquit0/Awesome-CV",
+      "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 6385,
-      "forks": 1943,
+      "stars": 28203,
+      "forks": 5300,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "tuhdo / os01",
+      "url": "https://github.com/tuhdo/os01",
+      "description": "Bootstrap yourself to write an OS from scratch. A book for self-learner.",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 13653,
+      "forks": 790,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "riscv / riscv-isa-manual",
+      "url": "https://github.com/riscv/riscv-isa-manual",
+      "description": "RISC-V Instruction Set Manual",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 4747,
+      "forks": 856,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "exacity / deeplearningbook-chinese",
+      "url": "https://github.com/exacity/deeplearningbook-chinese",
+      "description": "Deep Learning Book Chinese Translation",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 37351,
+      "forks": 9114,
+      "added_stars": "4 stars today"
     }
   ]
 }

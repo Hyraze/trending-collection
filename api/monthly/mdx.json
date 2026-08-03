@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:27:08 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
   "items": [
     {
       "title": "twbs / bootstrap",
@@ -10,9 +10,9 @@
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 174550,
+      "stars": 174557,
       "forks": 78696,
-      "added_stars": "325 stars this month"
+      "added_stars": "331 stars this month"
     },
     {
       "title": "cloudflare / cloudflare-docs",
@@ -20,9 +20,9 @@
       "description": "Cloudflare’s documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 5028,
-      "forks": 16174,
-      "added_stars": "158 stars this month"
+      "stars": 5031,
+      "forks": 16185,
+      "added_stars": "155 stars this month"
     },
     {
       "title": "huggingface / agents-course",
@@ -30,9 +30,9 @@
       "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 30590,
-      "forks": 2182,
-      "added_stars": "915 stars this month"
+      "stars": 30610,
+      "forks": 2184,
+      "added_stars": "903 stars this month"
     },
     {
       "title": "npm / documentation",
@@ -40,19 +40,9 @@
       "description": "Documentation for the npm registry, website, and command-line interface.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 693,
-      "forks": 4111,
-      "added_stars": "26 stars this month"
-    },
-    {
-      "title": "withastro / docs",
-      "url": "https://github.com/withastro/docs",
-      "description": "Astro documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 1667,
-      "forks": 1867,
-      "added_stars": "17 stars this month"
+      "stars": 692,
+      "forks": 4112,
+      "added_stars": "25 stars this month"
     },
     {
       "title": "dair-ai / Prompt-Engineering-Guide",
@@ -60,9 +50,9 @@
       "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 77189,
-      "forks": 8483,
-      "added_stars": "1,181 stars this month"
+      "stars": 77212,
+      "forks": 8485,
+      "added_stars": "1,184 stars this month"
     },
     {
       "title": "esphome / esphome.io",
@@ -71,7 +61,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 450,
-      "forks": 2347,
+      "forks": 2349,
       "added_stars": "5 stars this month"
     },
     {
@@ -80,19 +70,9 @@
       "description": "Unified LangChain documentation.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 386,
-      "forks": 2559,
-      "added_stars": "22 stars this month"
-    },
-    {
-      "title": "detekt / detekt",
-      "url": "https://github.com/detekt/detekt",
-      "description": "Static code analysis for Kotlin",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 7015,
-      "forks": 852,
-      "added_stars": "41 stars this month"
+      "stars": 387,
+      "forks": 2562,
+      "added_stars": "23 stars this month"
     },
     {
       "title": "hashicorp / web-unified-docs",
@@ -105,6 +85,16 @@
       "added_stars": "6 stars this month"
     },
     {
+      "title": "detekt / detekt",
+      "url": "https://github.com/detekt/detekt",
+      "description": "Static code analysis for Kotlin",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 7016,
+      "forks": 852,
+      "added_stars": "39 stars this month"
+    },
+    {
       "title": "newrelic / docs-website",
       "url": "https://github.com/newrelic/docs-website",
       "description": "Source code for @newrelic docs. We welcome pull requests and questions on our docs!",
@@ -113,6 +103,16 @@
       "stars": 197,
       "forks": 1457,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "withastro / docs",
+      "url": "https://github.com/withastro/docs",
+      "description": "Astro documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1668,
+      "forks": 1868,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "processing / p5.js-website",
@@ -132,27 +132,7 @@
       "languageColor": "#fcb32c",
       "stars": 6450,
       "forks": 1375,
-      "added_stars": "28 stars this month"
-    },
-    {
-      "title": "prisma / web",
-      "url": "https://github.com/prisma/web",
-      "description": "📚 Prisma Web Monorepo",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 1091,
-      "forks": 975,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "hunvreus / basecoat",
-      "url": "https://github.com/hunvreus/basecoat",
-      "description": "A components library built with Tailwind CSS that works with any web stack.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 4195,
-      "forks": 137,
-      "added_stars": "145 stars this month"
+      "added_stars": "29 stars this month"
     },
     {
       "title": "huggingface / course",
@@ -160,29 +140,9 @@
       "description": "The Hugging Face course on Transformers",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 4102,
+      "stars": 4104,
       "forks": 1381,
-      "added_stars": "84 stars this month"
-    },
-    {
-      "title": "LibreChat-AI / librechat.ai",
-      "url": "https://github.com/LibreChat-AI/librechat.ai",
-      "description": "Official documentation, blog, and changelog for LibreChat. Built with Next.js and Fumadocs. Live at librechat.ai",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 611,
-      "forks": 443,
-      "added_stars": "35 stars this month"
-    },
-    {
-      "title": "langfuse / langfuse-docs",
-      "url": "https://github.com/langfuse/langfuse-docs",
-      "description": "🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 230,
-      "forks": 274,
-      "added_stars": "17 stars this month"
+      "added_stars": "83 stars this month"
     },
     {
       "title": "EnterpriseDB / docs",
@@ -195,14 +155,64 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "langfuse / langfuse-docs",
+      "url": "https://github.com/langfuse/langfuse-docs",
+      "description": "🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 230,
+      "forks": 274,
+      "added_stars": "15 stars this month"
+    },
+    {
+      "title": "prisma / web",
+      "url": "https://github.com/prisma/web",
+      "description": "📚 Prisma Web Monorepo",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1092,
+      "forks": 975,
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "hunvreus / basecoat",
+      "url": "https://github.com/hunvreus/basecoat",
+      "description": "A components library built with Tailwind CSS that works with any web stack.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 4200,
+      "forks": 137,
+      "added_stars": "138 stars this month"
+    },
+    {
+      "title": "ngrok / ngrok-docs",
+      "url": "https://github.com/ngrok/ngrok-docs",
+      "description": "ngrok's official documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 159,
+      "forks": 4189,
+      "added_stars": "5 stars this month"
+    },
+    {
       "title": "ClickHouse / clickhouse-docs",
       "url": "https://github.com/ClickHouse/clickhouse-docs",
       "description": "We have moved: https://github.com/ClickHouse/ClickHouse/tree/master/docs#readme",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 209,
+      "stars": 211,
       "forks": 490,
-      "added_stars": "4 stars this month"
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "LibreChat-AI / librechat.ai",
+      "url": "https://github.com/LibreChat-AI/librechat.ai",
+      "description": "Official documentation, blog, and changelog for LibreChat. Built with Next.js and Fumadocs. Live at librechat.ai",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 615,
+      "forks": 444,
+      "added_stars": "35 stars this month"
     }
   ]
 }

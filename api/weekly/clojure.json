@@ -2,7 +2,7 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:24:59 GMT",
+  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
   "items": [
     {
       "title": "unclebob / swarm-forge",
@@ -10,9 +10,9 @@
       "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 1455,
-      "forks": 156,
-      "added_stars": "180 stars this week"
+      "stars": 1467,
+      "forks": 157,
+      "added_stars": "150 stars this week"
     },
     {
       "title": "metabase / metabase",
@@ -20,9 +20,9 @@
       "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 48487,
+      "stars": 48496,
       "forks": 6702,
-      "added_stars": "143 stars this week"
+      "added_stars": "139 stars this week"
     },
     {
       "title": "tonsky / FiraCode",
@@ -30,19 +30,9 @@
       "description": "Free monospaced font with programming ligatures",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 81878,
-      "forks": 3193,
-      "added_stars": "39 stars this week"
-    },
-    {
-      "title": "logseq / logseq",
-      "url": "https://github.com/logseq/logseq",
-      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 44198,
-      "forks": 2747,
-      "added_stars": "134 stars this week"
+      "stars": 81882,
+      "forks": 3191,
+      "added_stars": "35 stars this week"
     },
     {
       "title": "penpot / penpot",
@@ -50,9 +40,39 @@
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 57943,
-      "forks": 3870,
-      "added_stars": "619 stars this week"
+      "stars": 58008,
+      "forks": 3878,
+      "added_stars": "640 stars this week"
+    },
+    {
+      "title": "thheller / shadow-cljs",
+      "url": "https://github.com/thheller/shadow-cljs",
+      "description": "ClojureScript compilation made easy",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 2402,
+      "forks": 190,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "logseq / logseq",
+      "url": "https://github.com/logseq/logseq",
+      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 44221,
+      "forks": 2748,
+      "added_stars": "137 stars this week"
+    },
+    {
+      "title": "logseq / og",
+      "url": "https://github.com/logseq/og",
+      "description": "Logseq og (file version)",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 203,
+      "forks": 31,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "cognitect-labs / test-runner",
@@ -63,16 +83,6 @@
       "stars": 308,
       "forks": 36,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "logseq / og",
-      "url": "https://github.com/logseq/og",
-      "description": "Logseq og (file version)",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 203,
-      "forks": 31,
-      "added_stars": "26 stars this week"
     },
     {
       "title": "clj-kondo / clj-kondo",
