@@ -2,27 +2,17 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
-    {
-      "title": "saadeghi / daisyui",
-      "url": "https://github.com/saadeghi/daisyui",
-      "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 41931,
-      "forks": 1669,
-      "added_stars": "766 stars this month"
-    },
     {
       "title": "imputnet / cobalt",
       "url": "https://github.com/imputnet/cobalt",
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 41916,
-      "forks": 3604,
-      "added_stars": "648 stars this month"
+      "stars": 41940,
+      "forks": 3607,
+      "added_stars": "666 stars this month"
     },
     {
       "title": "open-webui / desktop",
@@ -30,9 +20,9 @@
       "description": "Open WebUI Desktop 🌐",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 2462,
-      "forks": 236,
-      "added_stars": "248 stars this month"
+      "stars": 2469,
+      "forks": 238,
+      "added_stars": "246 stars this month"
     },
     {
       "title": "Finsys / dockhand",
@@ -40,9 +30,19 @@
       "description": "Dockhand - Docker management you will like.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5463,
-      "forks": 212,
-      "added_stars": "411 stars this month"
+      "stars": 5475,
+      "forks": 213,
+      "added_stars": "412 stars this month"
+    },
+    {
+      "title": "seanmorley15 / AdventureLog",
+      "url": "https://github.com/seanmorley15/AdventureLog",
+      "description": "Self-hostable travel tracker and trip planner.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 3453,
+      "forks": 234,
+      "added_stars": "98 stars this month"
     },
     {
       "title": "dbgate / dbgate",
@@ -51,18 +51,8 @@
       "language": "Svelte",
       "languageColor": "#ff3e00",
       "stars": 7183,
-      "forks": 445,
-      "added_stars": "87 stars this month"
-    },
-    {
-      "title": "seanmorley15 / AdventureLog",
-      "url": "https://github.com/seanmorley15/AdventureLog",
-      "description": "Self-hostable travel tracker and trip planner.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 3449,
-      "forks": 233,
-      "added_stars": "96 stars this month"
+      "forks": 446,
+      "added_stars": "82 stars this month"
     },
     {
       "title": "jikan-me / website",
@@ -71,18 +61,8 @@
       "language": "Svelte",
       "languageColor": "#ff3e00",
       "stars": 53,
-      "forks": 371,
+      "forks": 369,
       "added_stars": "1 star this month"
-    },
-    {
-      "title": "RaidOwl / homelab-hub",
-      "url": "https://github.com/RaidOwl/homelab-hub",
-      "description": "",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 675,
-      "forks": 49,
-      "added_stars": "73 stars this month"
     },
     {
       "title": "dora-team / dora.dev",
@@ -95,22 +75,12 @@
       "added_stars": "6 stars this month"
     },
     {
-      "title": "rajnandan1 / kener",
-      "url": "https://github.com/rajnandan1/kener",
-      "description": "Stunning status pages, batteries included!",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 5082,
-      "forks": 288,
-      "added_stars": "63 stars this month"
-    },
-    {
       "title": "mathesar-foundation / mathesar",
       "url": "https://github.com/mathesar-foundation/mathesar",
       "description": "An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5081,
+      "stars": 5083,
       "forks": 484,
       "added_stars": "62 stars this month"
     },
@@ -122,7 +92,7 @@
       "languageColor": "#ff3e00",
       "stars": 1778,
       "forks": 197,
-      "added_stars": "6 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
       "title": "VERT-sh / VERT",
@@ -130,9 +100,9 @@
       "description": "The next-generation file converter. Open source, fully local* and free forever.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 15325,
+      "stars": 15327,
       "forks": 814,
-      "added_stars": "138 stars this month"
+      "added_stars": "137 stars this month"
     },
     {
       "title": "PuruVJ / macos-web",
@@ -141,8 +111,8 @@
       "language": "Svelte",
       "languageColor": "#ff3e00",
       "stars": 2651,
-      "forks": 340,
-      "added_stars": "25 stars this month"
+      "forks": 341,
+      "added_stars": "24 stars this month"
     },
     {
       "title": "ReVanced / revanced-website",
@@ -155,6 +125,16 @@
       "added_stars": "3 stars this month"
     },
     {
+      "title": "satisfactorymodding / SatisfactoryModManager",
+      "url": "https://github.com/satisfactorymodding/SatisfactoryModManager",
+      "description": "A mod manager for easy installation of mods and modloader for Satisfactory",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 490,
+      "forks": 92,
+      "added_stars": "9 stars this month"
+    },
+    {
       "title": "binimum / tidal-ui",
       "url": "https://github.com/binimum/tidal-ui",
       "description": "Simple Tidal frontend. Modified version on tidal.squid.wtf",
@@ -165,14 +145,14 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "satisfactorymodding / SatisfactoryModManager",
-      "url": "https://github.com/satisfactorymodding/SatisfactoryModManager",
-      "description": "A mod manager for easy installation of mods and modloader for Satisfactory",
+      "title": "rajnandan1 / kener",
+      "url": "https://github.com/rajnandan1/kener",
+      "description": "Stunning status pages, batteries included!",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 490,
-      "forks": 92,
-      "added_stars": "9 stars this month"
+      "stars": 5084,
+      "forks": 288,
+      "added_stars": "61 stars this month"
     }
   ]
 }

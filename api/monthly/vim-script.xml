@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
   <item>
     <title>vim / vim</title>
     <link>https://github.com/vim/vim</link>
@@ -61,19 +61,24 @@
     <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
   </item>
   <item>
-    <title>preservim / nerdtree</title>
-    <link>https://github.com/preservim/nerdtree</link>
-    <description>A tree explorer plugin for vim.</description>
-  </item>
-  <item>
     <title>tpope / vim-abolish</title>
     <link>https://github.com/tpope/vim-abolish</link>
     <description>abolish.vim: Work with several variants of a word at once</description>
   </item>
   <item>
-    <title>hrsh7th / vim-vsnip</title>
-    <link>https://github.com/hrsh7th/vim-vsnip</link>
-    <description>Snippet plugin for vim/nvim that supports LSP/VSCode&#x27;s snippet format.</description>
+    <title>tpope / vim-eunuch</title>
+    <link>https://github.com/tpope/vim-eunuch</link>
+    <description>eunuch.vim: Helpers for UNIX</description>
+  </item>
+  <item>
+    <title>preservim / nerdtree</title>
+    <link>https://github.com/preservim/nerdtree</link>
+    <description>A tree explorer plugin for vim.</description>
+  </item>
+  <item>
+    <title>editorconfig / editorconfig-vim</title>
+    <link>https://github.com/editorconfig/editorconfig-vim</link>
+    <description>EditorConfig plugin for Vim</description>
   </item>
   <item>
     <title>amix / vimrc</title>
@@ -86,19 +91,14 @@
     <description>Multiple cursors plugin for vim/neovim</description>
   </item>
   <item>
-    <title>editorconfig / editorconfig-vim</title>
-    <link>https://github.com/editorconfig/editorconfig-vim</link>
-    <description>EditorConfig plugin for Vim</description>
-  </item>
-  <item>
-    <title>tpope / vim-eunuch</title>
-    <link>https://github.com/tpope/vim-eunuch</link>
-    <description>eunuch.vim: Helpers for UNIX</description>
-  </item>
-  <item>
     <title>easymotion / vim-easymotion</title>
     <link>https://github.com/easymotion/vim-easymotion</link>
     <description>Vim motions on speed!</description>
+  </item>
+  <item>
+    <title>tpope / vim-rails</title>
+    <link>https://github.com/tpope/vim-rails</link>
+    <description>rails.vim: Ruby on Rails power tools</description>
   </item>
 </channel>
 </rss>

@@ -4,11 +4,11 @@
   <title>GitHub Perl Languages Daily Trending</title>
   <description>Daily Trending of Perl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
   <item>
-    <title>AlDanial / cloc</title>
-    <link>https://github.com/AlDanial/cloc</link>
-    <description>cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</description>
+    <title>asbru-cm / asbru-cm</title>
+    <link>https://github.com/asbru-cm/asbru-cm</link>
+    <description>Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.</description>
   </item>
   <item>
     <title>lm-sensors / lm-sensors</title>
@@ -16,39 +16,9 @@
     <description>lm-sensors repository</description>
   </item>
   <item>
-    <title>znuny / Znuny</title>
-    <link>https://github.com/znuny/Znuny</link>
-    <description>Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization&#x27;s needs.</description>
-  </item>
-  <item>
-    <title>yaml / yaml-test-suite</title>
-    <link>https://github.com/yaml/yaml-test-suite</link>
-    <description>Comprehensive, language independent Test Suite for YAML</description>
-  </item>
-  <item>
-    <title>manwar / perlweeklychallenge-club</title>
-    <link>https://github.com/manwar/perlweeklychallenge-club</link>
-    <description>Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…</description>
-  </item>
-  <item>
-    <title>brendangregg / FlameGraph</title>
-    <link>https://github.com/brendangregg/FlameGraph</link>
-    <description>Stack trace visualizer</description>
-  </item>
-  <item>
-    <title>exiftool / exiftool</title>
-    <link>https://github.com/exiftool/exiftool</link>
-    <description>ExifTool meta information reader/writer</description>
-  </item>
-  <item>
     <title>szTheory / exifcleaner</title>
     <link>https://github.com/szTheory/exifcleaner</link>
     <description>Cross-platform desktop GUI app to clean image metadata</description>
-  </item>
-  <item>
-    <title>holzschu / a-shell</title>
-    <link>https://github.com/holzschu/a-shell</link>
-    <description>A terminal for iOS, with multiple windows</description>
   </item>
   <item>
     <title>OpenKore / openkore</title>
@@ -56,9 +26,44 @@
     <description>A free/open source client and automation tool for Ragnarok Online</description>
   </item>
   <item>
+    <title>Perl / perl5</title>
+    <link>https://github.com/Perl/perl5</link>
+    <description>🐪 The Perl programming language</description>
+  </item>
+  <item>
+    <title>brendangregg / FlameGraph</title>
+    <link>https://github.com/brendangregg/FlameGraph</link>
+    <description>Stack trace visualizer</description>
+  </item>
+  <item>
+    <title>yaml / yaml-test-suite</title>
+    <link>https://github.com/yaml/yaml-test-suite</link>
+    <description>Comprehensive, language independent Test Suite for YAML</description>
+  </item>
+  <item>
     <title>awsdocs / aws-cdk-guide</title>
     <link>https://github.com/awsdocs/aws-cdk-guide</link>
     <description>User guide for the AWS Cloud Development Kit (CDK).</description>
+  </item>
+  <item>
+    <title>AlDanial / cloc</title>
+    <link>https://github.com/AlDanial/cloc</link>
+    <description>cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</description>
+  </item>
+  <item>
+    <title>Difegue / LANraragi</title>
+    <link>https://github.com/Difegue/LANraragi</link>
+    <description>Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.</description>
+  </item>
+  <item>
+    <title>manwar / perlweeklychallenge-club</title>
+    <link>https://github.com/manwar/perlweeklychallenge-club</link>
+    <description>Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…</description>
+  </item>
+  <item>
+    <title>inverse-inc / packetfence</title>
+    <link>https://github.com/inverse-inc/packetfence</link>
+    <description>PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…</description>
   </item>
 </channel>
 </rss>

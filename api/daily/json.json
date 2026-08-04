@@ -2,7 +2,7 @@
   "title": "GitHub Json Languages Daily Trending",
   "description": "Daily Trending of Json Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 02 Aug 2026 05:22:49 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
       "title": "mdn / browser-compat-data",
@@ -10,9 +10,19 @@
       "description": "Browser compatibility data for Web technologies as displayed on MDN",
       "language": "JSON",
       "languageColor": "#292929",
-      "stars": 5713,
-      "forks": 2607,
-      "added_stars": "1 star today"
+      "stars": 5714,
+      "forks": 2610,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Fyrd / caniuse",
+      "url": "https://github.com/Fyrd/caniuse",
+      "description": "Raw browser/feature support data from caniuse.com",
+      "language": "JSON",
+      "languageColor": "#292929",
+      "stars": 5862,
+      "forks": 1421,
+      "added_stars": "0 stars today"
     }
   ]
 }

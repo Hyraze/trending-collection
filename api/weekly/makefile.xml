@@ -4,12 +4,7 @@
   <title>GitHub Makefile Languages Daily Trending</title>
   <description>Daily Trending of Makefile Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
-  <item>
-    <title>openwrt / packages</title>
-    <link>https://github.com/openwrt/packages</link>
-    <description>Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</description>
-  </item>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>ROCKNIX / distribution</title>
     <link>https://github.com/ROCKNIX/distribution</link>
@@ -21,24 +16,39 @@
     <description>Standard Go Project Layout</description>
   </item>
   <item>
+    <title>openwrt / packages</title>
+    <link>https://github.com/openwrt/packages</link>
+    <description>Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</description>
+  </item>
+  <item>
+    <title>awesome-selfhosted / awesome-selfhosted-data</title>
+    <link>https://github.com/awesome-selfhosted/awesome-selfhosted-data</link>
+    <description>machine-readable data for https://awesome-selfhosted.net</description>
+  </item>
+  <item>
     <title>open-telemetry / opentelemetry-proto</title>
     <link>https://github.com/open-telemetry/opentelemetry-proto</link>
     <description>OpenTelemetry protocol (OTLP) specification and Protobuf definitions</description>
   </item>
   <item>
-    <title>deepseek-ai / DeepSeek-LLM</title>
-    <link>https://github.com/deepseek-ai/DeepSeek-LLM</link>
-    <description>DeepSeek LLM: Let there be answers</description>
+    <title>LibreELEC / LibreELEC.tv</title>
+    <link>https://github.com/LibreELEC/LibreELEC.tv</link>
+    <description>Just enough OS for KODI</description>
   </item>
   <item>
-    <title>foostan / crkbd</title>
-    <link>https://github.com/foostan/crkbd</link>
-    <description>Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</description>
+    <title>uber-go / guide</title>
+    <link>https://github.com/uber-go/guide</link>
+    <description>The Uber Go Style Guide.</description>
   </item>
   <item>
     <title>HaveAGitGat / Tdarr</title>
     <link>https://github.com/HaveAGitGat/Tdarr</link>
     <description>Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux &amp; Docker)</description>
+  </item>
+  <item>
+    <title>deepseek-ai / DeepSeek-LLM</title>
+    <link>https://github.com/deepseek-ai/DeepSeek-LLM</link>
+    <description>DeepSeek LLM: Let there be answers</description>
   </item>
   <item>
     <title>geneontology / go-ontology</title>
@@ -51,9 +61,9 @@
     <description>Utility functions for dbt projects.</description>
   </item>
   <item>
-    <title>awesome-selfhosted / awesome-selfhosted-data</title>
-    <link>https://github.com/awesome-selfhosted/awesome-selfhosted-data</link>
-    <description>machine-readable data for https://awesome-selfhosted.net</description>
+    <title>open-telemetry / opentelemetry-specification</title>
+    <link>https://github.com/open-telemetry/opentelemetry-specification</link>
+    <description>Specifications for OpenTelemetry</description>
   </item>
   <item>
     <title>upbound / build</title>
@@ -61,24 +71,14 @@
     <description>Upbound build and CI scripts</description>
   </item>
   <item>
-    <title>open-telemetry / opentelemetry-specification</title>
-    <link>https://github.com/open-telemetry/opentelemetry-specification</link>
-    <description>Specifications for OpenTelemetry</description>
-  </item>
-  <item>
-    <title>cncf / people</title>
-    <link>https://github.com/cncf/people</link>
-    <description>Stores the data that will populate the various people listings on cncf.io</description>
-  </item>
-  <item>
     <title>Ysurac / openmptcprouter</title>
     <link>https://github.com/Ysurac/openmptcprouter</link>
     <description>OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt</description>
   </item>
   <item>
-    <title>PartialVolume / shredos.x86_64</title>
-    <link>https://github.com/PartialVolume/shredos.x86_64</link>
-    <description>Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe</description>
+    <title>cncf / people</title>
+    <link>https://github.com/cncf/people</link>
+    <description>Stores the data that will populate the various people listings on cncf.io</description>
   </item>
 </channel>
 </rss>

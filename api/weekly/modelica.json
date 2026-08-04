@@ -2,27 +2,27 @@
   "title": "GitHub Modelica Languages Daily Trending",
   "description": "Daily Trending of Modelica Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
-    {
-      "title": "OpenModelica / OpenModelica",
-      "url": "https://github.com/OpenModelica/OpenModelica",
-      "description": "OpenModelica is an open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.",
-      "language": "Modelica",
-      "languageColor": "#de1d31",
-      "stars": 1366,
-      "forks": 394,
-      "added_stars": "6 stars this week"
-    },
     {
       "title": "modelica / ModelicaStandardLibrary",
       "url": "https://github.com/modelica/ModelicaStandardLibrary",
       "description": "Free (standard conforming) library to model mechanical (1D/3D), electrical (analog, digital, machines), magnetic, thermal, fluid, control systems and hierarchical state machines. Also numerical functions and functions for strings, files and streams are included.",
       "language": "Modelica",
       "languageColor": "#de1d31",
-      "stars": 602,
+      "stars": 603,
       "forks": 193,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "OpenModelica / OpenModelica",
+      "url": "https://github.com/OpenModelica/OpenModelica",
+      "description": "OpenModelica is an open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.",
+      "language": "Modelica",
+      "languageColor": "#de1d31",
+      "stars": 1368,
+      "forks": 395,
+      "added_stars": "7 stars this week"
     }
   ]
 }

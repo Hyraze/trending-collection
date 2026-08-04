@@ -2,8 +2,18 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
+    {
+      "title": "openconfig / gnoi",
+      "url": "https://github.com/openconfig/gnoi",
+      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 192,
+      "forks": 86,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "bazelbuild / bazel-central-registry",
       "url": "https://github.com/bazelbuild/bazel-central-registry",
@@ -11,47 +21,27 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 378,
-      "forks": 831,
+      "forks": 832,
       "added_stars": "0 stars today"
     },
     {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8664,
-      "forks": 2611,
-      "added_stars": "3 stars today"
+      "stars": 22903,
+      "forks": 1414,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "googleapis / api-common-protos",
-      "url": "https://github.com/googleapis/api-common-protos",
-      "description": "A standard library for use in specifying protocol buffer APIs.",
+      "title": "aspect-build / rules_lint",
+      "url": "https://github.com/aspect-build/rules_lint",
+      "description": "Run static analysis tools with Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 265,
-      "forks": 59,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "immich-app / immich-charts",
-      "url": "https://github.com/immich-app/immich-charts",
-      "description": "Helm chart implementation of Immich",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 346,
-      "forks": 112,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bazel-contrib / rules_distroless",
-      "url": "https://github.com/bazel-contrib/rules_distroless",
-      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 100,
-      "forks": 70,
+      "stars": 151,
+      "forks": 123,
       "added_stars": "0 stars today"
     },
     {
@@ -75,23 +65,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "cncf / xds",
-      "url": "https://github.com/cncf/xds",
-      "description": "xDS API Working Group",
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 271,
-      "forks": 84,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "openconfig / gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 192,
-      "forks": 86,
+      "stars": 827,
+      "forks": 636,
       "added_stars": "0 stars today"
     },
     {
@@ -102,26 +82,6 @@
       "languageColor": "#76d275",
       "stars": 681,
       "forks": 707,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 22900,
-      "forks": 1414,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "aspect-build / rules_py",
-      "url": "https://github.com/aspect-build/rules_py",
-      "description": "More compatible Bazel rules for running Python tools and building Python projects",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 143,
-      "forks": 97,
       "added_stars": "0 stars today"
     }
   ]

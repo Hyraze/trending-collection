@@ -2,17 +2,17 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
-      "title": "justcallmekoko / ESP32Marauder",
-      "url": "https://github.com/justcallmekoko/ESP32Marauder",
-      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+      "title": "official-stockfish / Stockfish",
+      "url": "https://github.com/official-stockfish/Stockfish",
+      "description": "A free and strong UCI chess engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11786,
-      "forks": 1371,
-      "added_stars": "14 stars today"
+      "stars": 16219,
+      "forks": 2968,
+      "added_stars": "8 stars today"
     },
     {
       "title": "MaaAssistantArknights / MaaAssistantArknights",
@@ -20,29 +20,49 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 22263,
-      "forks": 2747,
-      "added_stars": "26 stars today"
+      "stars": 22294,
+      "forks": 2750,
+      "added_stars": "33 stars today"
     },
     {
-      "title": "ggml-org / whisper.cpp",
-      "url": "https://github.com/ggml-org/whisper.cpp",
-      "description": "Port of OpenAI's Whisper model in C/C++",
+      "title": "jellyfin / jellyfin-desktop",
+      "url": "https://github.com/jellyfin/jellyfin-desktop",
+      "description": "Jellyfin Desktop Client",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 52536,
-      "forks": 5977,
-      "added_stars": "37 stars today"
+      "stars": 5536,
+      "forks": 527,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "geo-tp / ESP32-Bit-Pirate",
-      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+      "title": "doitsujin / dxvk",
+      "url": "https://github.com/doitsujin/dxvk",
+      "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5299,
-      "forks": 424,
-      "added_stars": "32 stars today"
+      "stars": 17775,
+      "forks": 1188,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "CleverRaven / Cataclysm-DDA",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+      "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 12854,
+      "forks": 4586,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "78 / xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 28621,
+      "forks": 6513,
+      "added_stars": "57 stars today"
     },
     {
       "title": "ggml-org / llama.cpp",
@@ -50,69 +70,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 122491,
-      "forks": 21267,
-      "added_stars": "129 stars today"
-    },
-    {
-      "title": "sz3 / libcimbar",
-      "url": "https://github.com/sz3/libcimbar",
-      "description": "Optimized implementation for color-icon-matrix barcodes",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6279,
-      "forks": 457,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "grpc / grpc",
-      "url": "https://github.com/grpc/grpc",
-      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 45240,
-      "forks": 11313,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "godotengine / godot",
-      "url": "https://github.com/godotengine/godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 115029,
-      "forks": 26210,
-      "added_stars": "45 stars today"
-    },
-    {
-      "title": "PrismLauncher / PrismLauncher",
-      "url": "https://github.com/PrismLauncher/PrismLauncher",
-      "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10028,
-      "forks": 1474,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "chriskohlhoff / asio",
-      "url": "https://github.com/chriskohlhoff/asio",
-      "description": "Asio C++ Library",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6147,
-      "forks": 1499,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "optiscaler / OptiScaler",
-      "url": "https://github.com/optiscaler/OptiScaler",
-      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 9616,
-      "forks": 348,
-      "added_stars": "19 stars today"
+      "stars": 122616,
+      "forks": 21293,
+      "added_stars": "162 stars today"
     },
     {
       "title": "qbittorrent / qBittorrent",
@@ -120,49 +80,69 @@
       "description": "qBittorrent BitTorrent client",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 39209,
-      "forks": 4805,
+      "stars": 39231,
+      "forks": 4809,
       "added_stars": "29 stars today"
     },
     {
-      "title": "rizinorg / cutter",
-      "url": "https://github.com/rizinorg/cutter",
-      "description": "Free and Open Source Reverse Engineering Platform powered by rizin",
+      "title": "TrinityCore / TrinityCore",
+      "url": "https://github.com/TrinityCore/TrinityCore",
+      "description": "TrinityCore Open Source MMO Framework (master = 12.0.7.68887, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19428,
-      "forks": 1430,
-      "added_stars": "3 stars today"
+      "stars": 10700,
+      "forks": 6361,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "jrouwe / JoltPhysics",
-      "url": "https://github.com/jrouwe/JoltPhysics",
-      "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+      "title": "ClickHouse / ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11223,
-      "forks": 889,
-      "added_stars": "15 stars today"
+      "stars": 49040,
+      "forks": 8733,
+      "added_stars": "26 stars today"
     },
     {
-      "title": "nasa / fprime",
-      "url": "https://github.com/nasa/fprime",
-      "description": "F´ - A flight software and embedded systems framework",
+      "title": "azerothcore / azerothcore-wotlk",
+      "url": "https://github.com/azerothcore/azerothcore-wotlk",
+      "description": "Complete Open Source and Modular solution for MMO",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11611,
-      "forks": 1760,
-      "added_stars": "7 stars today"
+      "stars": 8714,
+      "forks": 3610,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "lightvector / KataGo",
-      "url": "https://github.com/lightvector/KataGo",
-      "description": "GTP engine and self-play learning in Go",
+      "title": "ValveSoftware / Proton",
+      "url": "https://github.com/ValveSoftware/Proton",
+      "description": "Compatibility tool for Steam Play based on Wine and additional components",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4903,
-      "forks": 738,
-      "added_stars": "9 stars today"
+      "stars": 32437,
+      "forks": 1558,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "shadps4-emu / shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4",
+      "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 32365,
+      "forks": 2381,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "wled / WLED",
+      "url": "https://github.com/wled/WLED",
+      "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18500,
+      "forks": 4285,
+      "added_stars": "6 stars today"
     },
     {
       "title": "barry-ran / QtScrcpy",
@@ -170,29 +150,89 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 30865,
-      "forks": 3662,
+      "stars": 30879,
+      "forks": 3666,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "PrismLauncher / PrismLauncher",
+      "url": "https://github.com/PrismLauncher/PrismLauncher",
+      "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10035,
+      "forks": 1475,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "OrcaSlicer / OrcaSlicer",
+      "url": "https://github.com/OrcaSlicer/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 15316,
+      "forks": 2846,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "luau-lang / luau",
+      "url": "https://github.com/luau-lang/luau",
+      "description": "A small, fast, and embeddable programming language based on Lua with a gradual type system.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 5731,
+      "forks": 610,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "imputnet / helium",
+      "url": "https://github.com/imputnet/helium",
+      "description": "Private, fast, and honest web browser",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 19092,
+      "forks": 515,
       "added_stars": "37 stars today"
     },
     {
-      "title": "ArduPilot / ardupilot",
-      "url": "https://github.com/ArduPilot/ardupilot",
-      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "title": "optiscaler / OptiScaler",
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 15603,
-      "forks": 21155,
-      "added_stars": "9 stars today"
+      "stars": 9629,
+      "forks": 351,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "bitcoin / bitcoin",
-      "url": "https://github.com/bitcoin/bitcoin",
-      "description": "Bitcoin Core integration/staging tree",
+      "title": "OpenRCT2 / OpenRCT2",
+      "url": "https://github.com/OpenRCT2/OpenRCT2",
+      "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 89751,
-      "forks": 39188,
-      "added_stars": "8 stars today"
+      "stars": 16037,
+      "forks": 1863,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "stenzek / duckstation",
+      "url": "https://github.com/stenzek/duckstation",
+      "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10496,
+      "forks": 948,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "ceph / ceph",
+      "url": "https://github.com/ceph/ceph",
+      "description": "Ceph is a distributed object, block, and file storage platform",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16892,
+      "forks": 6459,
+      "added_stars": "6 stars today"
     }
   ]
 }

@@ -2,27 +2,17 @@
   "title": "GitHub Rich-text-format Languages Daily Trending",
   "description": "Daily Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
-    {
-      "title": "cncf / foundation",
-      "url": "https://github.com/cncf/foundation",
-      "description": "☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.",
-      "language": "Rich Text Format",
-      "languageColor": "#ccc",
-      "stars": 689,
-      "forks": 839,
-      "added_stars": "1 star this week"
-    },
     {
       "title": "mathoudebine / turing-smart-screen-python",
       "url": "https://github.com/mathoudebine/turing-smart-screen-python",
       "description": "Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen / TURZX",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": 2187,
-      "forks": 388,
-      "added_stars": "10 stars this week"
+      "stars": 2188,
+      "forks": 389,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "ckeditor / ckeditor4",
@@ -35,6 +25,26 @@
       "added_stars": "2 stars this week"
     },
     {
+      "title": "jlord / patchwork",
+      "url": "https://github.com/jlord/patchwork",
+      "description": "All the Git-it Workshop completers!",
+      "language": "Rich Text Format",
+      "languageColor": "#ccc",
+      "stars": 1161,
+      "forks": 41929,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "cncf / foundation",
+      "url": "https://github.com/cncf/foundation",
+      "description": "☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.",
+      "language": "Rich Text Format",
+      "languageColor": "#ccc",
+      "stars": 689,
+      "forks": 840,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "artur-graniszewski / DLSS-Enabler",
       "url": "https://github.com/artur-graniszewski/DLSS-Enabler",
       "description": "Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.",
@@ -42,27 +52,7 @@
       "languageColor": "#ccc",
       "stars": 1279,
       "forks": 36,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "jlord / patchwork",
-      "url": "https://github.com/jlord/patchwork",
-      "description": "All the Git-it Workshop completers!",
-      "language": "Rich Text Format",
-      "languageColor": "#ccc",
-      "stars": 1161,
-      "forks": 41935,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "MacDownApp / macdown",
-      "url": "https://github.com/MacDownApp/macdown",
-      "description": "Open source Markdown editor for macOS.",
-      "language": "Rich Text Format",
-      "languageColor": "#ccc",
-      "stars": 9809,
-      "forks": 1166,
-      "added_stars": "10 stars this week"
+      "added_stars": "8 stars this week"
     }
   ]
 }

@@ -2,18 +2,8 @@
   "title": "GitHub Raku Languages Daily Trending",
   "description": "Daily Trending of Raku Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
-    {
-      "title": "rakudo / rakudo",
-      "url": "https://github.com/rakudo/rakudo",
-      "description": "🦋 Rakudo – Raku on MoarVM, JVM, and JS",
-      "language": "Raku",
-      "languageColor": "#0000fb",
-      "stars": 1890,
-      "forks": 387,
-      "added_stars": "1 star this week"
-    },
     {
       "title": "Kong / lua-resty-lmdb",
       "url": "https://github.com/Kong/lua-resty-lmdb",
@@ -33,6 +23,16 @@
       "stars": 42,
       "forks": 23,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "rakudo / rakudo",
+      "url": "https://github.com/rakudo/rakudo",
+      "description": "🦋 Rakudo – Raku on MoarVM, JVM, and JS",
+      "language": "Raku",
+      "languageColor": "#0000fb",
+      "stars": 1890,
+      "forks": 387,
+      "added_stars": "1 star this week"
     }
   ]
 }

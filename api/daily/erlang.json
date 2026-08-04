@@ -2,17 +2,17 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
-      "title": "erlang / otp",
-      "url": "https://github.com/erlang/otp",
-      "description": "Erlang/OTP",
+      "title": "erlang / rebar3",
+      "url": "https://github.com/erlang/rebar3",
+      "description": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 12316,
-      "forks": 3209,
-      "added_stars": "2 stars today"
+      "stars": 1815,
+      "forks": 528,
+      "added_stars": "1 star today"
     },
     {
       "title": "ninenines / ranch",
@@ -31,7 +31,27 @@
       "language": "Erlang",
       "languageColor": "#B83998",
       "stars": 296,
-      "forks": 191,
+      "forks": 190,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "erlang / otp",
+      "url": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 12320,
+      "forks": 3250,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "apache / couchdb",
+      "url": "https://github.com/apache/couchdb",
+      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 6934,
+      "forks": 1077,
       "added_stars": "0 stars today"
     },
     {
@@ -42,6 +62,16 @@
       "languageColor": "#B83998",
       "stars": 699,
       "forks": 215,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ninenines / cowboy",
+      "url": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 7521,
+      "forks": 1168,
       "added_stars": "0 stars today"
     }
   ]

@@ -2,37 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18053,
-      "forks": 1214,
-      "added_stars": "4,365 stars this week"
-    },
-    {
-      "title": "benbjohnson / litestream",
-      "url": "https://github.com/benbjohnson/litestream",
-      "description": "Streaming replication for SQLite.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14166,
-      "forks": 385,
-      "added_stars": "191 stars this week"
-    },
-    {
-      "title": "yorukot / superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22144,
-      "forks": 748,
-      "added_stars": "2,169 stars this week"
+      "stars": 18524,
+      "forks": 1246,
+      "added_stars": "3,881 stars this week"
     },
     {
       "title": "cli / cli",
@@ -40,49 +20,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 45605,
-      "forks": 8808,
-      "added_stars": "192 stars this week"
-    },
-    {
-      "title": "github / gh-stack",
-      "url": "https://github.com/github/gh-stack",
-      "description": "GitHub Stacked PRs",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 923,
-      "forks": 39,
-      "added_stars": "353 stars this week"
-    },
-    {
-      "title": "github / gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4854,
-      "forks": 475,
-      "added_stars": "50 stars this week"
-    },
-    {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 177633,
-      "forks": 17240,
-      "added_stars": "781 stars this week"
-    },
-    {
-      "title": "infiniflow / ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 86664,
-      "forks": 10182,
-      "added_stars": "635 stars this week"
+      "stars": 45634,
+      "forks": 8815,
+      "added_stars": "197 stars this week"
     },
     {
       "title": "mudler / LocalAI",
@@ -90,9 +30,39 @@
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 48154,
-      "forks": 4337,
-      "added_stars": "280 stars this week"
+      "stars": 48221,
+      "forks": 4343,
+      "added_stars": "295 stars this week"
+    },
+    {
+      "title": "github / gh-stack",
+      "url": "https://github.com/github/gh-stack",
+      "description": "GitHub Stacked PRs",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1004,
+      "forks": 42,
+      "added_stars": "413 stars this week"
+    },
+    {
+      "title": "passteque / gluetun",
+      "url": "https://github.com/passteque/gluetun",
+      "description": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15066,
+      "forks": 606,
+      "added_stars": "82 stars this week"
+    },
+    {
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 177727,
+      "forks": 17254,
+      "added_stars": "795 stars this week"
     },
     {
       "title": "traefik / traefik",
@@ -100,39 +70,89 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 64249,
-      "forks": 6114,
-      "added_stars": "133 stars this week"
+      "stars": 64263,
+      "forks": 6116,
+      "added_stars": "137 stars this week"
     },
     {
-      "title": "temporalio / temporal",
-      "url": "https://github.com/temporalio/temporal",
-      "description": "Temporal service",
+      "title": "caddyserver / caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22056,
-      "forks": 1788,
-      "added_stars": "199 stars this week"
+      "stars": 74628,
+      "forks": 4861,
+      "added_stars": "228 stars this week"
     },
     {
-      "title": "ccfos / nightingale",
-      "url": "https://github.com/ccfos/nightingale",
-      "description": "Nightingale is to monitoring and alerting what Grafana is to visualization.",
+      "title": "yorukot / superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 13199,
-      "forks": 1746,
+      "stars": 22204,
+      "forks": 800,
+      "added_stars": "1,596 stars this week"
+    },
+    {
+      "title": "benbjohnson / litestream",
+      "url": "https://github.com/benbjohnson/litestream",
+      "description": "Streaming replication for SQLite.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14175,
+      "forks": 386,
+      "added_stars": "128 stars this week"
+    },
+    {
+      "title": "esengine / DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 30147,
+      "forks": 1942,
+      "added_stars": "1,851 stars this week"
+    },
+    {
+      "title": "kgretzky / evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15424,
+      "forks": 2690,
       "added_stars": "48 stars this week"
     },
     {
-      "title": "micro-editor / micro",
-      "url": "https://github.com/micro-editor/micro",
-      "description": "A modern and intuitive terminal-based text editor",
+      "title": "github / gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29255,
-      "forks": 1348,
-      "added_stars": "157 stars this week"
+      "stars": 4860,
+      "forks": 476,
+      "added_stars": "50 stars this week"
+    },
+    {
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 43662,
+      "forks": 5532,
+      "added_stars": "1,286 stars this week"
+    },
+    {
+      "title": "wavetermdev / waveterm",
+      "url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 21911,
+      "forks": 1086,
+      "added_stars": "100 stars this week"
     },
     {
       "title": "evcc-io / evcc",
@@ -140,59 +160,29 @@
       "description": "solar charging ☀️🚘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7037,
+      "stars": 7042,
       "forks": 1434,
-      "added_stars": "45 stars this week"
+      "added_stars": "35 stars this week"
     },
     {
-      "title": "getprobo / probo",
-      "url": "https://github.com/getprobo/probo",
-      "description": "Open source solutions for SOC2, GDPR, and ISO27001",
+      "title": "ccfos / nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale is to monitoring and alerting what Grafana is to visualization.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1261,
-      "forks": 187,
-      "added_stars": "17 stars this week"
+      "stars": 13208,
+      "forks": 1747,
+      "added_stars": "51 stars this week"
     },
     {
-      "title": "grafana / gcx",
-      "url": "https://github.com/grafana/gcx",
-      "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
+      "title": "infiniflow / ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 515,
-      "forks": 40,
-      "added_stars": "37 stars this week"
-    },
-    {
-      "title": "gtsteffaniak / filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7631,
-      "forks": 400,
-      "added_stars": "134 stars this week"
-    },
-    {
-      "title": "evolution-foundation / evolution-go",
-      "url": "https://github.com/evolution-foundation/evolution-go",
-      "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 585,
-      "forks": 315,
-      "added_stars": "46 stars this week"
-    },
-    {
-      "title": "Ed1s0nZ / CyberStrikeAI",
-      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-      "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5481,
-      "forks": 875,
-      "added_stars": "175 stars this week"
+      "stars": 86758,
+      "forks": 10191,
+      "added_stars": "621 stars this week"
     },
     {
       "title": "agent-substrate / substrate",
@@ -200,29 +190,29 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 956,
-      "forks": 182,
-      "added_stars": "74 stars this week"
+      "stars": 964,
+      "forks": 191,
+      "added_stars": "81 stars this week"
     },
     {
-      "title": "binwiederhier / ntfy",
-      "url": "https://github.com/binwiederhier/ntfy",
-      "description": "Send push notifications to your phone or desktop using PUT/POST",
+      "title": "getprobo / probo",
+      "url": "https://github.com/getprobo/probo",
+      "description": "Open source solutions for SOC2, GDPR, and ISO27001",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32782,
-      "forks": 1485,
-      "added_stars": "511 stars this week"
+      "stars": 1264,
+      "forks": 187,
+      "added_stars": "20 stars this week"
     },
     {
-      "title": "Wei-Shaw / sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "title": "podman-container-tools / podman",
+      "url": "https://github.com/podman-container-tools/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35645,
-      "forks": 7316,
-      "added_stars": "1,224 stars this week"
+      "stars": 32443,
+      "forks": 3267,
+      "added_stars": "80 stars this week"
     }
   ]
 }

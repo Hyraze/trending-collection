@@ -4,16 +4,11 @@
   <title>GitHub Solidity Languages Daily Trending</title>
   <description>Daily Trending of Solidity Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
   <item>
-    <title>dapphub / ds-test</title>
-    <link>https://github.com/dapphub/ds-test</link>
-    <description>Assertions, equality checks and other test helpers</description>
-  </item>
-  <item>
-    <title>a16z / erc4626-tests</title>
-    <link>https://github.com/a16z/erc4626-tests</link>
-    <description>ERC4626 Property Tests</description>
+    <title>smartcontractkit / chainlink-brownie-contracts</title>
+    <link>https://github.com/smartcontractkit/chainlink-brownie-contracts</link>
+    <description>A repository for automatically using the latest chainlink repo from the core chainlink repo.</description>
   </item>
   <item>
     <title>foundry-rs / forge-std</title>
@@ -21,9 +16,9 @@
     <description>A collection of helpful contracts and libraries for use with Forge and Foundry</description>
   </item>
   <item>
-    <title>OpenZeppelin / openzeppelin-contracts</title>
-    <link>https://github.com/OpenZeppelin/openzeppelin-contracts</link>
-    <description>OpenZeppelin Contracts is a library for secure smart contract development.</description>
+    <title>a16z / erc4626-tests</title>
+    <link>https://github.com/a16z/erc4626-tests</link>
+    <description>ERC4626 Property Tests</description>
   </item>
   <item>
     <title>Arachnid / solidity-stringutils</title>
@@ -31,19 +26,14 @@
     <description>Basic string utilities for Solidity</description>
   </item>
   <item>
-    <title>transmissions11 / solmate</title>
-    <link>https://github.com/transmissions11/solmate</link>
-    <description>Modern, opinionated, and gas optimized building blocks for smart contract development.</description>
+    <title>OpenZeppelin / openzeppelin-contracts</title>
+    <link>https://github.com/OpenZeppelin/openzeppelin-contracts</link>
+    <description>OpenZeppelin Contracts is a library for secure smart contract development.</description>
   </item>
   <item>
-    <title>smartcontractkit / chainlink-brownie-contracts</title>
-    <link>https://github.com/smartcontractkit/chainlink-brownie-contracts</link>
-    <description>A repository for automatically using the latest chainlink repo from the core chainlink repo.</description>
-  </item>
-  <item>
-    <title>Vectorized / solady</title>
-    <link>https://github.com/Vectorized/solady</link>
-    <description>Optimized Solidity snippets.</description>
+    <title>dapphub / ds-test</title>
+    <link>https://github.com/dapphub/ds-test</link>
+    <description>Assertions, equality checks and other test helpers</description>
   </item>
   <item>
     <title>OpenZeppelin / openzeppelin-foundry-upgrades</title>
@@ -51,44 +41,44 @@
     <description>Foundry library for deploying and managing upgradeable contracts</description>
   </item>
   <item>
-    <title>tempoxyz / tempo-std</title>
-    <link>https://github.com/tempoxyz/tempo-std</link>
-    <description>A collection of helpful contracts and libraries for use with Tempo for Foundry</description>
+    <title>morpho-org / morpho-blue-oracles</title>
+    <link>https://github.com/morpho-org/morpho-blue-oracles</link>
+    <description>Morpho Blue Oracles</description>
   </item>
   <item>
-    <title>Uniswap / v4-core</title>
-    <link>https://github.com/Uniswap/v4-core</link>
-    <description>🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4</description>
+    <title>PaulRBerg / prb-math</title>
+    <link>https://github.com/PaulRBerg/prb-math</link>
+    <description>Solidity library for advanced fixed-point math</description>
   </item>
   <item>
-    <title>0xProject / 0x-settler</title>
-    <link>https://github.com/0xProject/0x-settler</link>
-    <description>0x settlement contracts using Permit2</description>
+    <title>succinctlabs / sp1-contracts</title>
+    <link>https://github.com/succinctlabs/sp1-contracts</link>
+    <description>Smart contracts for onchain verification of SP1.</description>
   </item>
   <item>
-    <title>Uniswap / v2-periphery</title>
-    <link>https://github.com/Uniswap/v2-periphery</link>
-    <description>🎚 Peripheral smart contracts for interacting with Uniswap V2</description>
+    <title>transmissions11 / solmate</title>
+    <link>https://github.com/transmissions11/solmate</link>
+    <description>Modern, opinionated, and gas optimized building blocks for smart contract development.</description>
   </item>
   <item>
-    <title>smartcontractkit / chainlink-evm</title>
-    <link>https://github.com/smartcontractkit/chainlink-evm</link>
+    <title>Vectorized / solady</title>
+    <link>https://github.com/Vectorized/solady</link>
+    <description>Optimized Solidity snippets.</description>
+  </item>
+  <item>
+    <title>across-protocol / contracts</title>
+    <link>https://github.com/across-protocol/contracts</link>
+    <description>Smart contracts for Across protocol</description>
+  </item>
+  <item>
+    <title>coinbase / spend-permissions</title>
+    <link>https://github.com/coinbase/spend-permissions</link>
     <description></description>
   </item>
   <item>
-    <title>bokkypoobah / BokkyPooBahsDateTimeLibrary</title>
-    <link>https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary</link>
-    <description>Gas-Efficient Solidity DateTime Library</description>
-  </item>
-  <item>
-    <title>Uniswap / v4-periphery</title>
-    <link>https://github.com/Uniswap/v4-periphery</link>
-    <description>🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4</description>
-  </item>
-  <item>
-    <title>Uniswap / permit2</title>
-    <link>https://github.com/Uniswap/permit2</link>
-    <description>🔑🔑🔑 next generation token approvals mechanism</description>
+    <title>OffchainLabs / nitro-contracts</title>
+    <link>https://github.com/OffchainLabs/nitro-contracts</link>
+    <description>The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup</description>
   </item>
 </channel>
 </rss>

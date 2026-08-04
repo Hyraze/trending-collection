@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 19841,
-      "forks": 3069,
-      "added_stars": "59 stars this week"
+      "stars": 19847,
+      "forks": 3072,
+      "added_stars": "58 stars this week"
     },
     {
       "title": "triton-lang / triton-ascend",
@@ -20,9 +20,9 @@
       "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 125,
-      "forks": 169,
-      "added_stars": "7 stars this week"
+      "stars": 128,
+      "forks": 171,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "tenstorrent / tt-mlir",
@@ -40,18 +40,18 @@
       "description": "Github mirror of trition-lang/triton repo.",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 183,
-      "forks": 63,
-      "added_stars": "1 star this week"
+      "stars": 184,
+      "forks": 64,
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "ROCm / rocMLIR",
-      "url": "https://github.com/ROCm/rocMLIR",
-      "description": "",
+      "title": "openxla / stablehlo",
+      "url": "https://github.com/openxla/stablehlo",
+      "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 188,
-      "forks": 57,
+      "stars": 678,
+      "forks": 212,
       "added_stars": "3 stars this week"
     },
     {
@@ -61,7 +61,7 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 263,
-      "forks": 106,
+      "forks": 105,
       "added_stars": "1 star this week"
     }
   ]

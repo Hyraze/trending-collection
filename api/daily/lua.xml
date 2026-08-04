@@ -4,41 +4,11 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
-  <item>
-    <title>overextended / ox_inventory</title>
-    <link>https://github.com/overextended/ox_inventory</link>
-    <description>Slot-based inventory with metadata.</description>
-  </item>
-  <item>
-    <title>ntop / ntopng</title>
-    <link>https://github.com/ntop/ntopng</link>
-    <description>Web-based Traffic and Cybersecurity Network Traffic Monitoring</description>
-  </item>
-  <item>
-    <title>KristalTeam / Kristal</title>
-    <link>https://github.com/KristalTeam/Kristal</link>
-    <description>Deltarune fangame engine for Love2D</description>
-  </item>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
   <item>
     <title>koreader / koreader</title>
     <link>https://github.com/koreader/koreader</link>
     <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
-  </item>
-  <item>
-    <title>neovim / nvim-lspconfig</title>
-    <link>https://github.com/neovim/nvim-lspconfig</link>
-    <description>Quickstart configs for Nvim LSP</description>
-  </item>
-  <item>
-    <title>smjonas / inc-rename.nvim</title>
-    <link>https://github.com/smjonas/inc-rename.nvim</link>
-    <description>Incremental LSP renaming based on Neovim&#x27;s command-preview feature.</description>
-  </item>
-  <item>
-    <title>folke / sidekick.nvim</title>
-    <link>https://github.com/folke/sidekick.nvim</link>
-    <description>Your Neovim AI sidekick</description>
   </item>
   <item>
     <title>opentibiabr / canary</title>
@@ -46,39 +16,44 @@
     <description>Canary Server 15.25 for OpenTibia community.</description>
   </item>
   <item>
-    <title>id577 / FS25_AdvancedDamageSystem</title>
-    <link>https://github.com/id577/FS25_AdvancedDamageSystem</link>
-    <description>Advanced Damage System mod for Farming Simulator 25</description>
+    <title>esmuellert / codediff.nvim</title>
+    <link>https://github.com/esmuellert/codediff.nvim</link>
+    <description>VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode&#x27;s own diff algorithm in C.</description>
   </item>
   <item>
-    <title>kevinhwang91 / nvim-ufo</title>
-    <link>https://github.com/kevinhwang91/nvim-ufo</link>
-    <description>Not UFO in the sky, but an ultra fold in Neovim.</description>
+    <title>EllesmereGaming / EllesmereUI</title>
+    <link>https://github.com/EllesmereGaming/EllesmereUI</link>
+    <description>EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.</description>
   </item>
   <item>
-    <title>Stephan-S / FS25_AutoDrive</title>
-    <link>https://github.com/Stephan-S/FS25_AutoDrive</link>
-    <description>FS25 version of the AutoDrive mod</description>
+    <title>BeamMP / BeamMP</title>
+    <link>https://github.com/BeamMP/BeamMP</link>
+    <description>Bringing multiplayer to BeamNG.drive</description>
   </item>
   <item>
-    <title>forest0xia / dota2bot-OpenHyperAI</title>
-    <link>https://github.com/forest0xia/dota2bot-OpenHyperAI</link>
-    <description>A beta Dota2 Bot Script aims to provide better bot game experience</description>
+    <title>beyond-all-reason / Beyond-All-Reason</title>
+    <link>https://github.com/beyond-all-reason/Beyond-All-Reason</link>
+    <description>Main game repository for Beyond All Reason.</description>
   </item>
   <item>
-    <title>Courseplay / Courseplay_FS25</title>
-    <link>https://github.com/Courseplay/Courseplay_FS25</link>
-    <description>Courseplay for Farming Simulator 2025</description>
+    <title>yetone / avante.nvim</title>
+    <link>https://github.com/yetone/avante.nvim</link>
+    <description>Use your Neovim like using Cursor AI IDE!</description>
   </item>
   <item>
-    <title>s1n7ax / nvim-window-picker</title>
-    <link>https://github.com/s1n7ax/nvim-window-picker</link>
-    <description>This plugins prompts the user to pick a window and returns the window id of the picked window</description>
+    <title>iDvel / rime-ice</title>
+    <link>https://github.com/iDvel/rime-ice</link>
+    <description>Rime 配置：雾凇拼音 | 长期维护的简体词库</description>
   </item>
   <item>
-    <title>Footagesus / WindUI</title>
-    <link>https://github.com/Footagesus/WindUI</link>
-    <description>WindUI is a open source UI library for Roblox Script Hubs</description>
+    <title>milanglacier / minuet-ai.nvim</title>
+    <link>https://github.com/milanglacier/minuet-ai.nvim</link>
+    <description>💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.</description>
+  </item>
+  <item>
+    <title>coder / claudecode.nvim</title>
+    <link>https://github.com/coder/claudecode.nvim</link>
+    <description>🧩 Claude Code Neovim IDE Extension</description>
   </item>
 </channel>
 </rss>

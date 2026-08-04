@@ -2,7 +2,7 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "unclebob / swarm-forge",
@@ -10,9 +10,9 @@
       "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 1467,
+      "stars": 1475,
       "forks": 157,
-      "added_stars": "499 stars this month"
+      "added_stars": "512 stars this month"
     },
     {
       "title": "metabase / metabase",
@@ -20,9 +20,9 @@
       "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 48496,
-      "forks": 6702,
-      "added_stars": "553 stars this month"
+      "stars": 48514,
+      "forks": 6707,
+      "added_stars": "562 stars this month"
     },
     {
       "title": "logseq / logseq",
@@ -30,9 +30,9 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 44221,
+      "stars": 44244,
       "forks": 2748,
-      "added_stars": "685 stars this month"
+      "added_stars": "686 stars this month"
     },
     {
       "title": "penpot / penpot",
@@ -40,9 +40,19 @@
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 58008,
-      "forks": 3878,
-      "added_stars": "3,313 stars this month"
+      "stars": 58068,
+      "forks": 3883,
+      "added_stars": "3,292 stars this month"
+    },
+    {
+      "title": "tonsky / FiraCode",
+      "url": "https://github.com/tonsky/FiraCode",
+      "description": "Free monospaced font with programming ligatures",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 81883,
+      "forks": 3190,
+      "added_stars": "158 stars this month"
     },
     {
       "title": "editor-code-assistant / eca",
@@ -52,17 +62,7 @@
       "languageColor": "#db5855",
       "stars": 962,
       "forks": 70,
-      "added_stars": "78 stars this month"
-    },
-    {
-      "title": "tonsky / FiraCode",
-      "url": "https://github.com/tonsky/FiraCode",
-      "description": "Free monospaced font with programming ligatures",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 81882,
-      "forks": 3191,
-      "added_stars": "156 stars this month"
+      "added_stars": "77 stars this month"
     },
     {
       "title": "status-im / status-legacy",
@@ -72,7 +72,7 @@
       "languageColor": "#db5855",
       "stars": 4019,
       "forks": 990,
-      "added_stars": "7 stars this month"
+      "added_stars": "6 stars this month"
     }
   ]
 }

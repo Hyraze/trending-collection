@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "block / buzz",
@@ -10,9 +10,9 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 21268,
-      "forks": 2285,
-      "added_stars": "8,217 stars this week"
+      "stars": 21966,
+      "forks": 2408,
+      "added_stars": "7,372 stars this week"
     },
     {
       "title": "1jehuang / jcode",
@@ -20,19 +20,9 @@
       "description": "The most RAM efficient harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15333,
-      "forks": 1699,
-      "added_stars": "3,620 stars this week"
-    },
-    {
-      "title": "tokio-rs / topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4156,
-      "forks": 145,
-      "added_stars": "931 stars this week"
+      "stars": 15624,
+      "forks": 1722,
+      "added_stars": "3,735 stars this week"
     },
     {
       "title": "BurntSushi / ripgrep",
@@ -40,19 +30,9 @@
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 66912,
-      "forks": 2691,
-      "added_stars": "316 stars this week"
-    },
-    {
-      "title": "astral-sh / uv",
-      "url": "https://github.com/astral-sh/uv",
-      "description": "An extremely fast Python package and project manager, written in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 88247,
-      "forks": 3428,
-      "added_stars": "358 stars this week"
+      "stars": 66956,
+      "forks": 2697,
+      "added_stars": "386 stars this week"
     },
     {
       "title": "dani-garcia / vaultwarden",
@@ -60,49 +40,19 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 64843,
-      "forks": 3075,
-      "added_stars": "518 stars this week"
+      "stars": 64900,
+      "forks": 3078,
+      "added_stars": "509 stars this week"
     },
     {
-      "title": "Automattic / harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "title": "agavra / tuicr",
+      "url": "https://github.com/agavra/tuicr",
+      "description": "a code review TUI with vim keybindings",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14129,
-      "forks": 544,
-      "added_stars": "534 stars this week"
-    },
-    {
-      "title": "tonhowtf / omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8306,
-      "forks": 706,
-      "added_stars": "474 stars this week"
-    },
-    {
-      "title": "ovexro / dockpanel",
-      "url": "https://github.com/ovexro/dockpanel",
-      "description": "Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 786,
-      "forks": 115,
-      "added_stars": "164 stars this week"
-    },
-    {
-      "title": "Pumpkin-MC / Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 10524,
-      "forks": 705,
-      "added_stars": "640 stars this week"
+      "stars": 2350,
+      "forks": 183,
+      "added_stars": "1,165 stars this week"
     },
     {
       "title": "rustfs / rustfs",
@@ -110,9 +60,19 @@
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30581,
-      "forks": 1351,
-      "added_stars": "358 stars this week"
+      "stars": 30608,
+      "forks": 1355,
+      "added_stars": "357 stars this week"
+    },
+    {
+      "title": "tokio-rs / topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4208,
+      "forks": 151,
+      "added_stars": "838 stars this week"
     },
     {
       "title": "vectordotdev / vector",
@@ -120,29 +80,9 @@
       "description": "A high-performance observability data pipeline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 22282,
-      "forks": 2233,
-      "added_stars": "57 stars this week"
-    },
-    {
-      "title": "rustdesk / rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 119468,
-      "forks": 18243,
-      "added_stars": "598 stars this week"
-    },
-    {
-      "title": "cjpais / Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 28521,
-      "forks": 2496,
-      "added_stars": "918 stars this week"
+      "stars": 22294,
+      "forks": 2234,
+      "added_stars": "64 stars this week"
     },
     {
       "title": "BoundaryML / baml",
@@ -150,29 +90,19 @@
       "description": "The programming language for agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8781,
-      "forks": 464,
-      "added_stars": "169 stars this week"
+      "stars": 8793,
+      "forks": 466,
+      "added_stars": "160 stars this week"
     },
     {
-      "title": "max-sixty / worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6260,
-      "forks": 227,
-      "added_stars": "220 stars this week"
-    },
-    {
-      "title": "ai-dynamo / dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7663,
-      "forks": 1396,
-      "added_stars": "74 stars this week"
+      "stars": 119557,
+      "forks": 18267,
+      "added_stars": "574 stars this week"
     },
     {
       "title": "openai / codex",
@@ -180,19 +110,99 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 103415,
-      "forks": 15610,
-      "added_stars": "1,832 stars this week"
+      "stars": 103706,
+      "forks": 15657,
+      "added_stars": "1,862 stars this week"
     },
     {
-      "title": "Dicklesworthstone / pi_agent_rust",
-      "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
-      "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
+      "title": "atuinsh / atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Making your shell magical",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1484,
-      "forks": 175,
-      "added_stars": "72 stars this week"
+      "stars": 31010,
+      "forks": 918,
+      "added_stars": "204 stars this week"
+    },
+    {
+      "title": "clockworklabs / SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Development at the speed of light",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 24975,
+      "forks": 1034,
+      "added_stars": "145 stars this week"
+    },
+    {
+      "title": "tonhowtf / omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8349,
+      "forks": 710,
+      "added_stars": "395 stars this week"
+    },
+    {
+      "title": "astral-sh / uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 88302,
+      "forks": 3434,
+      "added_stars": "363 stars this week"
+    },
+    {
+      "title": "ovexro / dockpanel",
+      "url": "https://github.com/ovexro/dockpanel",
+      "description": "Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 794,
+      "forks": 116,
+      "added_stars": "118 stars this week"
+    },
+    {
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6281,
+      "forks": 227,
+      "added_stars": "185 stars this week"
+    },
+    {
+      "title": "ai-dynamo / dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7675,
+      "forks": 1398,
+      "added_stars": "74 stars this week"
+    },
+    {
+      "title": "modelcontextprotocol / rust-sdk",
+      "url": "https://github.com/modelcontextprotocol/rust-sdk",
+      "description": "The official Rust SDK for the Model Context Protocol",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3744,
+      "forks": 580,
+      "added_stars": "65 stars this week"
+    },
+    {
+      "title": "cjpais / Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 28634,
+      "forks": 2508,
+      "added_stars": "965 stars this week"
     }
   ]
 }

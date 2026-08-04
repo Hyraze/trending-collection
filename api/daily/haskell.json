@@ -2,57 +2,17 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
-    {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 19169,
-      "forks": 1290,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "simonmichael / hledger",
-      "url": "https://github.com/simonmichael/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 4604,
-      "forks": 401,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "digitallyinduced / ihp",
-      "url": "https://github.com/digitallyinduced/ihp",
-      "description": "🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 5330,
-      "forks": 224,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "monoscope-tech / monoscope",
       "url": "https://github.com/monoscope-tech/monoscope",
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1492,
+      "stars": 1499,
       "forks": 64,
       "added_stars": "8 stars today"
-    },
-    {
-      "title": "IntersectMBO / ouroboros-consensus",
-      "url": "https://github.com/IntersectMBO/ouroboros-consensus",
-      "description": "Implementation of a Consensus Layer for the Ouroboros family of protocols",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 67,
-      "forks": 42,
-      "added_stars": "0 stars today"
     },
     {
       "title": "jgm / pandoc",
@@ -60,29 +20,119 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 45648,
+      "stars": 45678,
       "forks": 3930,
-      "added_stars": "9 stars today"
+      "added_stars": "22 stars today"
     },
     {
-      "title": "IntersectMBO / cardano-ledger",
-      "url": "https://github.com/IntersectMBO/cardano-ledger",
-      "description": "The ledger implementation and specifications of the Cardano blockchain.",
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 290,
-      "forks": 177,
+      "stars": 19184,
+      "forks": 1319,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27491,
+      "forks": 1218,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "haskell / cabal",
+      "url": "https://github.com/haskell/cabal",
+      "description": "Official upstream development repository for Cabal and cabal-install",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 1743,
+      "forks": 741,
       "added_stars": "0 stars today"
     },
     {
-      "title": "diku-dk / futhark",
-      "url": "https://github.com/diku-dk/futhark",
-      "description": "💥💻💥 A data-parallel functional programming language",
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2778,
-      "forks": 207,
+      "stars": 2905,
+      "forks": 420,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "haskell / haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2942,
+      "forks": 451,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 39811,
+      "forks": 1937,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "digital-asset / daml",
+      "url": "https://github.com/digital-asset/daml",
+      "description": "The Daml smart contract language",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 912,
+      "forks": 256,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 3178,
+      "forks": 755,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "halogenandtoast / ArkhamHorror",
+      "url": "https://github.com/halogenandtoast/ArkhamHorror",
+      "description": "An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced, endorsed, or supported by, or affiliated with Fantasy Flight Games.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 401,
+      "forks": 136,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "cardano-foundation / cardano-wallet",
+      "url": "https://github.com/cardano-foundation/cardano-wallet",
+      "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 822,
+      "forks": 233,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "nammayatri / nammayatri",
+      "url": "https://github.com/nammayatri/nammayatri",
+      "description": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2529,
+      "forks": 389,
+      "added_stars": "2 stars today"
     }
   ]
 }

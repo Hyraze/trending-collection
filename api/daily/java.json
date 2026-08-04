@@ -2,47 +2,87 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
-    {
-      "title": "github / copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 10334,
-      "forks": 1392,
-      "added_stars": "113 stars today"
-    },
-    {
-      "title": "Anuken / Mindustry",
-      "url": "https://github.com/Anuken/Mindustry",
-      "description": "The automation tower defense RTS",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 28460,
-      "forks": 3666,
-      "added_stars": "10 stars today"
-    },
     {
       "title": "DrKLO / Telegram",
       "url": "https://github.com/DrKLO/Telegram",
       "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 29643,
-      "forks": 9861,
-      "added_stars": "14 stars today"
+      "stars": 29652,
+      "forks": 9865,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "TeamNewPipe / NewPipe",
-      "url": "https://github.com/TeamNewPipe/NewPipe",
-      "description": "A libre lightweight streaming front-end for Android.",
+      "title": "github / copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 39221,
-      "forks": 3705,
-      "added_stars": "15 stars today"
+      "stars": 10341,
+      "forks": 1395,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "PaperMC / Paper",
+      "url": "https://github.com/PaperMC/Paper",
+      "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 12555,
+      "forks": 3487,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "termux / termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 58608,
+      "forks": 7125,
+      "added_stars": "53 stars today"
+    },
+    {
+      "title": "ashishps1 / awesome-leetcode-resources",
+      "url": "https://github.com/ashishps1/awesome-leetcode-resources",
+      "description": "Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 17562,
+      "forks": 3681,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "opendataloader-project / opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 28149,
+      "forks": 2684,
+      "added_stars": "39 stars today"
+    },
+    {
+      "title": "iBotPeaches / Apktool",
+      "url": "https://github.com/iBotPeaches/Apktool",
+      "description": "A tool for reverse engineering Android apk files",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 25198,
+      "forks": 3977,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "adityatandon15 / Low-Level-Design-Course",
+      "url": "https://github.com/adityatandon15/Low-Level-Design-Course",
+      "description": "All Code of LLD Playlist",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1121,
+      "forks": 777,
+      "added_stars": "4 stars today"
     },
     {
       "title": "woheller69 / FreeDroidWarn",
@@ -50,59 +90,49 @@
       "description": "",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3023,
-      "forks": 108,
-      "added_stars": "12 stars today"
+      "stars": 3034,
+      "forks": 109,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "MojoLauncher / MojoLauncher",
-      "url": "https://github.com/MojoLauncher/MojoLauncher",
-      "description": "A Minecraft: Java Edition launcher, based on PojavLauncher",
+      "title": "Crystaelix / Create-Simurail",
+      "url": "https://github.com/Crystaelix/Create-Simurail",
+      "description": "An experimental train mod using Create and Sable.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 910,
-      "forks": 353,
+      "stars": 127,
+      "forks": 33,
       "added_stars": "1 star today"
     },
     {
-      "title": "Stirling-Tools / Stirling-PDF",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "title": "AntennaPod / AntennaPod",
+      "url": "https://github.com/AntennaPod/AntennaPod",
+      "description": "A podcast manager for Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 88616,
-      "forks": 7923,
-      "added_stars": "71 stars today"
+      "stars": 8049,
+      "forks": 1729,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "ashishps1 / awesome-low-level-design",
-      "url": "https://github.com/ashishps1/awesome-low-level-design",
-      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+      "title": "Dwinovo / minecraft-numen",
+      "url": "https://github.com/Dwinovo/minecraft-numen",
+      "description": "住在 Minecraft 里的 AI 同伴——召唤它、跟它说话，它自己规划并动手：挖矿、建造、种地、战斗、合成。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25877,
-      "forks": 6280,
-      "added_stars": "26 stars today"
+      "stars": 235,
+      "forks": 28,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "Creators-of-Create / Create",
-      "url": "https://github.com/Creators-of-Create/Create",
-      "description": "[NeoForge Mod] Building Tools and Aesthetic Technology",
+      "title": "MCRcortex / voxy",
+      "url": "https://github.com/MCRcortex/voxy",
+      "description": "An LoD rendering mod for minecraft",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4395,
-      "forks": 1378,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "osmandapp / OsmAnd",
-      "url": "https://github.com/osmandapp/OsmAnd",
-      "description": "OsmAnd",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5876,
-      "forks": 1204,
-      "added_stars": "4 stars today"
+      "stars": 1151,
+      "forks": 825,
+      "added_stars": "1 star today"
     },
     {
       "title": "karma9874 / AndroRAT",
@@ -110,79 +140,59 @@
       "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4934,
-      "forks": 1604,
-      "added_stars": "4 stars today"
+      "stars": 4936,
+      "forks": 1605,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "elastic / elasticsearch",
-      "url": "https://github.com/elastic/elasticsearch",
-      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "title": "shmykelsa / AAAD",
+      "url": "https://github.com/shmykelsa/AAAD",
+      "description": "The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 77712,
-      "forks": 25993,
-      "added_stars": "10 stars today"
+      "stars": 2824,
+      "forks": 305,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "AsamK / signal-cli",
-      "url": "https://github.com/AsamK/signal-cli",
-      "description": "signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",
+      "title": "ashishps1 / awesome-low-level-design",
+      "url": "https://github.com/ashishps1/awesome-low-level-design",
+      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4830,
-      "forks": 442,
-      "added_stars": "1 star today"
+      "stars": 25894,
+      "forks": 6285,
+      "added_stars": "21 stars today"
     },
     {
-      "title": "bazelbuild / bazel",
-      "url": "https://github.com/bazelbuild/bazel",
-      "description": "a fast, scalable, multi-language and extensible build system",
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25668,
-      "forks": 4545,
-      "added_stars": "2 stars today"
+      "stars": 71834,
+      "forks": 7857,
+      "added_stars": "53 stars today"
     },
     {
-      "title": "ModinMobileSTS / Sts2MobileLauncher",
-      "url": "https://github.com/ModinMobileSTS/Sts2MobileLauncher",
-      "description": "an unofficial sts2 mobile launcher that support mods,optimized mobile control",
+      "title": "cabaletta / baritone",
+      "url": "https://github.com/cabaletta/baritone",
+      "description": "google maps for block game",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 232,
-      "forks": 9,
+      "stars": 9076,
+      "forks": 1983,
       "added_stars": "3 stars today"
     },
     {
-      "title": "kunal-kushwaha / DSA-Bootcamp-Java",
-      "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
-      "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+      "title": "TGX-Android / Telegram-X",
+      "url": "https://github.com/TGX-Android/Telegram-X",
+      "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 23364,
-      "forks": 13461,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "apache / maven",
-      "url": "https://github.com/apache/maven",
-      "description": "Apache Maven core",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5294,
-      "forks": 3031,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "LiteLDev / LeviLaunchroid",
-      "url": "https://github.com/LiteLDev/LeviLaunchroid",
-      "description": "A launcher designed for Minecraft Bedrock Edition on Android",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 485,
-      "forks": 107,
-      "added_stars": "2 stars today"
+      "stars": 5872,
+      "forks": 1058,
+      "added_stars": "9 stars today"
     },
     {
       "title": "RikkaApps / Shizuku-API",
@@ -190,19 +200,29 @@
       "description": "The API and the developer guide for Shizuku and Sui.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2402,
-      "forks": 1048,
-      "added_stars": "4 stars today"
+      "stars": 2409,
+      "forks": 1054,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "google / guava",
-      "url": "https://github.com/google/guava",
-      "description": "Google core libraries for Java",
+      "title": "LawnchairLauncher / lawnchair",
+      "url": "https://github.com/LawnchairLauncher/lawnchair",
+      "description": "No clever tagline needed.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 51539,
-      "forks": 11145,
-      "added_stars": "2 stars today"
+      "stars": 13250,
+      "forks": 1602,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "apache / druid",
+      "url": "https://github.com/apache/druid",
+      "description": "Apache Druid: a high performance real-time analytics database.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 14039,
+      "forks": 3795,
+      "added_stars": "1 star today"
     }
   ]
 }

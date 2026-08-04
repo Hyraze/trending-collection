@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
       "title": "verilator / verilator",
@@ -10,9 +10,19 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3804,
-      "forks": 864,
-      "added_stars": "7 stars today"
+      "stars": 3807,
+      "forks": 866,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "openhwgroup / cvw",
+      "url": "https://github.com/openhwgroup/cvw",
+      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 595,
+      "forks": 550,
+      "added_stars": "3 stars today"
     },
     {
       "title": "lowRISC / opentitan",
@@ -20,9 +30,9 @@
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3577,
+      "stars": 3578,
       "forks": 1075,
-      "added_stars": "2 stars today"
+      "added_stars": "3 stars today"
     },
     {
       "title": "lowRISC / ibex",
@@ -31,8 +41,18 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": 1999,
-      "forks": 781,
+      "forks": 782,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "pulp-platform / axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 1645,
+      "forks": 363,
+      "added_stars": "3 stars today"
     },
     {
       "title": "chipsalliance / caliptra-ss",
@@ -41,37 +61,17 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": 47,
-      "forks": 53,
+      "forks": 54,
       "added_stars": "0 stars today"
     },
     {
-      "title": "adam-maj / tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "title": "chipsalliance / i3c-core",
+      "url": "https://github.com/chipsalliance/i3c-core",
+      "description": "",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12795,
-      "forks": 1228,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "pulp-platform / axi",
-      "url": "https://github.com/pulp-platform/axi",
-      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 1643,
-      "forks": 363,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "pulp-platform / common_cells",
-      "url": "https://github.com/pulp-platform/common_cells",
-      "description": "Common SystemVerilog components",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 775,
-      "forks": 200,
+      "stars": 54,
+      "forks": 35,
       "added_stars": "0 stars today"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "argoproj / argo-cd",
@@ -10,9 +10,9 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23811,
-      "forks": 7645,
-      "added_stars": "666 stars this month"
+      "stars": 23829,
+      "forks": 7686,
+      "added_stars": "674 stars this month"
     },
     {
       "title": "tailscale / tailscale",
@@ -20,19 +20,19 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 34731,
-      "forks": 2967,
-      "added_stars": "1,827 stars this month"
+      "stars": 34778,
+      "forks": 3017,
+      "added_stars": "1,846 stars this month"
     },
     {
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18054,
-      "forks": 1214,
-      "added_stars": "8,105 stars this month"
+      "stars": 18524,
+      "forks": 1246,
+      "added_stars": "8,558 stars this month"
     },
     {
       "title": "microsoft / typescript-go",
@@ -40,19 +40,9 @@
       "description": "Staging repo for development of native port of TypeScript",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26123,
-      "forks": 1112,
-      "added_stars": "411 stars this month"
-    },
-    {
-      "title": "kunchenguid / no-mistakes",
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "description": "git push no-mistakes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7350,
-      "forks": 642,
-      "added_stars": "2,585 stars this month"
+      "stars": 26134,
+      "forks": 1113,
+      "added_stars": "416 stars this month"
     },
     {
       "title": "vxcontrol / pentagi",
@@ -60,9 +50,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 21519,
-      "forks": 2824,
-      "added_stars": "3,489 stars this month"
+      "stars": 21563,
+      "forks": 2835,
+      "added_stars": "3,538 stars this month"
     },
     {
       "title": "cli / cli",
@@ -70,9 +60,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 45605,
-      "forks": 8808,
-      "added_stars": "604 stars this month"
+      "stars": 45634,
+      "forks": 8815,
+      "added_stars": "622 stars this month"
     },
     {
       "title": "google / gvisor",
@@ -80,9 +70,19 @@
       "description": "Application Kernel for Containers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18960,
-      "forks": 1834,
-      "added_stars": "434 stars this month"
+      "stars": 18972,
+      "forks": 1877,
+      "added_stars": "441 stars this month"
+    },
+    {
+      "title": "kunchenguid / no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7377,
+      "forks": 674,
+      "added_stars": "2,445 stars this month"
     },
     {
       "title": "prometheus / prometheus",
@@ -90,9 +90,9 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 65507,
-      "forks": 10736,
-      "added_stars": "939 stars this month"
+      "stars": 65528,
+      "forks": 10738,
+      "added_stars": "965 stars this month"
     },
     {
       "title": "yorukot / superfile",
@@ -100,19 +100,9 @@
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22144,
-      "forks": 748,
-      "added_stars": "4,241 stars this month"
-    },
-    {
-      "title": "gosom / google-maps-scraper",
-      "url": "https://github.com/gosom/google-maps-scraper",
-      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5384,
-      "forks": 843,
-      "added_stars": "770 stars this month"
+      "stars": 22204,
+      "forks": 800,
+      "added_stars": "4,155 stars this month"
     },
     {
       "title": "schollz / croc",
@@ -120,39 +110,9 @@
       "description": "Easily and securely send things from one computer to another 🐊 📦",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39277,
-      "forks": 1554,
-      "added_stars": "3,961 stars this month"
-    },
-    {
-      "title": "pocket-id / pocket-id",
-      "url": "https://github.com/pocket-id/pocket-id",
-      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8677,
-      "forks": 282,
-      "added_stars": "455 stars this month"
-    },
-    {
-      "title": "hashicorp / terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 49380,
-      "forks": 10593,
-      "added_stars": "980 stars this month"
-    },
-    {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19267,
-      "forks": 2738,
-      "added_stars": "1,646 stars this month"
+      "stars": 39304,
+      "forks": 1559,
+      "added_stars": "3,985 stars this month"
     },
     {
       "title": "pocketbase / pocketbase",
@@ -160,39 +120,29 @@
       "description": "Open Source realtime backend in 1 file",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60423,
-      "forks": 3621,
-      "added_stars": "1,127 stars this month"
+      "stars": 60444,
+      "forks": 3623,
+      "added_stars": "1,138 stars this month"
     },
     {
-      "title": "kunchenguid / treehouse",
-      "url": "https://github.com/kunchenguid/treehouse",
-      "description": "Manage worktrees without managing worktrees.",
+      "title": "gosom / google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1219,
-      "forks": 123,
-      "added_stars": "577 stars this month"
+      "stars": 5408,
+      "forks": 844,
+      "added_stars": "782 stars this month"
     },
     {
-      "title": "NdoleStudio / httpsms",
-      "url": "https://github.com/NdoleStudio/httpsms",
-      "description": "Send and receive SMS messages using your Android phone programmatically via a simple HTTP API",
+      "title": "hashicorp / terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3880,
-      "forks": 665,
-      "added_stars": "1,112 stars this month"
-    },
-    {
-      "title": "sundowndev / phoneinfoga",
-      "url": "https://github.com/sundowndev/phoneinfoga",
-      "description": "Information gathering framework for phone numbers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17260,
-      "forks": 5235,
-      "added_stars": "520 stars this month"
+      "stars": 49395,
+      "forks": 10593,
+      "added_stars": "952 stars this month"
     },
     {
       "title": "projectdiscovery / nuclei",
@@ -200,19 +150,29 @@
       "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30186,
-      "forks": 3721,
-      "added_stars": "912 stars this month"
+      "stars": 30253,
+      "forks": 3765,
+      "added_stars": "950 stars this month"
     },
     {
-      "title": "chenyme / grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "title": "pocket-id / pocket-id",
+      "url": "https://github.com/pocket-id/pocket-id",
+      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6949,
-      "forks": 2140,
-      "added_stars": "1,712 stars this month"
+      "stars": 8689,
+      "forks": 283,
+      "added_stars": "460 stars this month"
+    },
+    {
+      "title": "sundowndev / phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17280,
+      "forks": 5237,
+      "added_stars": "531 stars this month"
     },
     {
       "title": "moby / moby",
@@ -220,9 +180,29 @@
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 71956,
-      "forks": 19112,
-      "added_stars": "330 stars this month"
+      "stars": 71969,
+      "forks": 19146,
+      "added_stars": "345 stars this month"
+    },
+    {
+      "title": "chenyme / grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6960,
+      "forks": 2145,
+      "added_stars": "1,716 stars this month"
+    },
+    {
+      "title": "juanfont / headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 42457,
+      "forks": 2470,
+      "added_stars": "1,695 stars this month"
     },
     {
       "title": "fatedier / frp",
@@ -230,9 +210,29 @@
       "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 108521,
-      "forks": 15155,
-      "added_stars": "935 stars this month"
+      "stars": 108538,
+      "forks": 15157,
+      "added_stars": "932 stars this month"
+    },
+    {
+      "title": "ethereum / go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 51265,
+      "forks": 22088,
+      "added_stars": "328 stars this month"
+    },
+    {
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19309,
+      "forks": 2748,
+      "added_stars": "1,654 stars this month"
     }
   ]
 }

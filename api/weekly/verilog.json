@@ -2,7 +2,7 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "YosysHQ / picorv32",
@@ -10,19 +10,9 @@
       "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 4299,
-      "forks": 983,
+      "stars": 4301,
+      "forks": 984,
       "added_stars": "16 stars this week"
-    },
-    {
-      "title": "The-OpenROAD-Project / OpenROAD",
-      "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-      "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 2930,
-      "forks": 973,
-      "added_stars": "29 stars this week"
     },
     {
       "title": "analogdevicesinc / hdl",
@@ -30,9 +20,19 @@
       "description": "HDL libraries and projects",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 1982,
-      "forks": 1669,
-      "added_stars": "4 stars this week"
+      "stars": 1984,
+      "forks": 1670,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "The-OpenROAD-Project / OpenROAD",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+      "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 2937,
+      "forks": 973,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "EttusResearch / uhd",
@@ -41,7 +41,7 @@
       "language": "Verilog",
       "languageColor": "#b2b7f8",
       "stars": 1257,
-      "forks": 774,
+      "forks": 775,
       "added_stars": "2 stars this week"
     },
     {
@@ -52,7 +52,7 @@
       "languageColor": "#b2b7f8",
       "stars": 698,
       "forks": 518,
-      "added_stars": "9 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "vortexgpgpu / vortex",
@@ -60,9 +60,9 @@
       "description": "",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 2183,
-      "forks": 516,
-      "added_stars": "13 stars this week"
+      "stars": 2184,
+      "forks": 517,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "TinyTapeout / ttsky-verilog-template",

@@ -2,7 +2,7 @@
   "title": "GitHub Roff Languages Daily Trending",
   "description": "Daily Trending of Roff Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "TapXWorld / ChinaTextbook",
@@ -10,9 +10,19 @@
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": 76378,
-      "forks": 17209,
-      "added_stars": "251 stars this week"
+      "stars": 76555,
+      "forks": 17250,
+      "added_stars": "372 stars this week"
+    },
+    {
+      "title": "Exocija / ZetaLib",
+      "url": "https://github.com/Exocija/ZetaLib",
+      "description": "🌙 ZetaLib - The only AI Library you need",
+      "language": "Roff",
+      "languageColor": "#ecdebe",
+      "stars": 832,
+      "forks": 64,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "DataDog / docker-dd-agent",
@@ -25,23 +35,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Exocija / ZetaLib",
-      "url": "https://github.com/Exocija/ZetaLib",
-      "description": "🌙 ZetaLib - The only AI Library you need",
-      "language": "Roff",
-      "languageColor": "#ecdebe",
-      "stars": 830,
-      "forks": 64,
-      "added_stars": "5 stars this week"
-    },
-    {
       "title": "sidpalas / devops-directive-docker-course",
       "url": "https://github.com/sidpalas/devops-directive-docker-course",
       "description": "Companion repo for complete Docker course",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": 3321,
-      "forks": 2514,
+      "stars": 3322,
+      "forks": 2516,
       "added_stars": "12 stars this week"
     }
   ]

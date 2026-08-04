@@ -4,7 +4,7 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>OtterMind / Chat2DB</title>
     <link>https://github.com/OtterMind/Chat2DB</link>
@@ -21,34 +21,14 @@
     <description>Jenkins automation server</description>
   </item>
   <item>
-    <title>termux / termux-app</title>
-    <link>https://github.com/termux/termux-app</link>
-    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
-  </item>
-  <item>
-    <title>iluwatar / java-design-patterns</title>
-    <link>https://github.com/iluwatar/java-design-patterns</link>
-    <description>Design patterns implemented in Java</description>
-  </item>
-  <item>
-    <title>iBotPeaches / Apktool</title>
-    <link>https://github.com/iBotPeaches/Apktool</link>
-    <description>A tool for reverse engineering Android apk files</description>
-  </item>
-  <item>
-    <title>crimera / piko</title>
-    <link>https://github.com/crimera/piko</link>
-    <description>morphe patches for twitter and instagram</description>
-  </item>
-  <item>
     <title>quarkusio / quarkus</title>
     <link>https://github.com/quarkusio/quarkus</link>
     <description>Quarkus: Supersonic Subatomic Java.</description>
   </item>
   <item>
-    <title>openjdk / jdk</title>
-    <link>https://github.com/openjdk/jdk</link>
-    <description>JDK main-line development https://openjdk.org/projects/jdk</description>
+    <title>termux / termux-app</title>
+    <link>https://github.com/termux/termux-app</link>
+    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
   </item>
   <item>
     <title>NationalSecurityAgency / ghidra</title>
@@ -56,39 +36,9 @@
     <description>Ghidra is a software reverse engineering (SRE) framework</description>
   </item>
   <item>
-    <title>Mininglamp-OSS / octo-android</title>
-    <link>https://github.com/Mininglamp-OSS/octo-android</link>
-    <description>OCTO Android Client — Open-source enterprise IM</description>
-  </item>
-  <item>
-    <title>langchain4j / langchain4j</title>
-    <link>https://github.com/langchain4j/langchain4j</link>
-    <description>LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.</description>
-  </item>
-  <item>
-    <title>spring-projects / spring-boot</title>
-    <link>https://github.com/spring-projects/spring-boot</link>
-    <description>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</description>
-  </item>
-  <item>
-    <title>halo-dev / halo</title>
-    <link>https://github.com/halo-dev/halo</link>
-    <description>Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。</description>
-  </item>
-  <item>
-    <title>Apicurio / apicurio-registry</title>
-    <link>https://github.com/Apicurio/apicurio-registry</link>
-    <description>An API/Schema registry - stores APIs and Schemas.</description>
-  </item>
-  <item>
-    <title>apache / iceberg</title>
-    <link>https://github.com/apache/iceberg</link>
-    <description>Apache Iceberg</description>
-  </item>
-  <item>
-    <title>NotHarshhaa / DevOps-Projects</title>
-    <link>https://github.com/NotHarshhaa/DevOps-Projects</link>
-    <description>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.</description>
+    <title>JabRef / jabref</title>
+    <link>https://github.com/JabRef/jabref</link>
+    <description>Desktop app for managing BibTeX and BibLaTeX (.bib) libraries</description>
   </item>
   <item>
     <title>DrKLO / Telegram</title>
@@ -96,14 +46,24 @@
     <description>Telegram for Android source</description>
   </item>
   <item>
-    <title>LaurieWired / GhidraMCP</title>
-    <link>https://github.com/LaurieWired/GhidraMCP</link>
-    <description>MCP Server for Ghidra</description>
+    <title>iluwatar / java-design-patterns</title>
+    <link>https://github.com/iluwatar/java-design-patterns</link>
+    <description>Design patterns implemented in Java</description>
   </item>
   <item>
-    <title>PaperMC / Paper</title>
-    <link>https://github.com/PaperMC/Paper</link>
-    <description>The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</description>
+    <title>Apicurio / apicurio-registry</title>
+    <link>https://github.com/Apicurio/apicurio-registry</link>
+    <description>An API/Schema registry - stores APIs and Schemas.</description>
+  </item>
+  <item>
+    <title>iBotPeaches / Apktool</title>
+    <link>https://github.com/iBotPeaches/Apktool</link>
+    <description>A tool for reverse engineering Android apk files</description>
+  </item>
+  <item>
+    <title>Creators-of-Create / Create</title>
+    <link>https://github.com/Creators-of-Create/Create</link>
+    <description>[NeoForge Mod] Building Tools and Aesthetic Technology</description>
   </item>
   <item>
     <title>RikkaApps / Shizuku-API</title>
@@ -111,9 +71,54 @@
     <description>The API and the developer guide for Shizuku and Sui.</description>
   </item>
   <item>
-    <title>JabRef / jabref</title>
-    <link>https://github.com/JabRef/jabref</link>
-    <description>Desktop app for managing BibTeX and BibLaTeX (.bib) libraries</description>
+    <title>langchain4j / langchain4j</title>
+    <link>https://github.com/langchain4j/langchain4j</link>
+    <description>LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.</description>
+  </item>
+  <item>
+    <title>NotHarshhaa / DevOps-Projects</title>
+    <link>https://github.com/NotHarshhaa/DevOps-Projects</link>
+    <description>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.</description>
+  </item>
+  <item>
+    <title>halo-dev / halo</title>
+    <link>https://github.com/halo-dev/halo</link>
+    <description>Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。</description>
+  </item>
+  <item>
+    <title>DependencyTrack / dependency-track</title>
+    <link>https://github.com/DependencyTrack/dependency-track</link>
+    <description>Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.</description>
+  </item>
+  <item>
+    <title>LaurieWired / GhidraMCP</title>
+    <link>https://github.com/LaurieWired/GhidraMCP</link>
+    <description>MCP Server for Ghidra</description>
+  </item>
+  <item>
+    <title>camunda / camunda</title>
+    <link>https://github.com/camunda/camunda</link>
+    <description>Process Orchestration Framework</description>
+  </item>
+  <item>
+    <title>apache / iceberg</title>
+    <link>https://github.com/apache/iceberg</link>
+    <description>Apache Iceberg</description>
+  </item>
+  <item>
+    <title>woheller69 / FreeDroidWarn</title>
+    <link>https://github.com/woheller69/FreeDroidWarn</link>
+    <description></description>
+  </item>
+  <item>
+    <title>zaproxy / zaproxy</title>
+    <link>https://github.com/zaproxy/zaproxy</link>
+    <description>The ZAP by Checkmarx Core project</description>
+  </item>
+  <item>
+    <title>keycloak / keycloak</title>
+    <link>https://github.com/keycloak/keycloak</link>
+    <description>Open Source Identity and Access Management For Modern Applications and Services</description>
   </item>
 </channel>
 </rss>

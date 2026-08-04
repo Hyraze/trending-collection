@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "bradautomates / claude-video",
@@ -10,9 +10,9 @@
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13514,
-      "forks": 1318,
-      "added_stars": "10,606 stars this month"
+      "stars": 13716,
+      "forks": 1332,
+      "added_stars": "10,750 stars this month"
     },
     {
       "title": "huggingface / speech-to-speech",
@@ -20,19 +20,9 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10522,
-      "forks": 1288,
-      "added_stars": "5,497 stars this month"
-    },
-    {
-      "title": "usestrix / strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 46711,
-      "forks": 4916,
-      "added_stars": "16,165 stars this month"
+      "stars": 10752,
+      "forks": 1321,
+      "added_stars": "5,579 stars this month"
     },
     {
       "title": "Shubhamsaboo / awesome-llm-apps",
@@ -40,9 +30,9 @@
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 129930,
-      "forks": 19170,
-      "added_stars": "13,958 stars this month"
+      "stars": 130284,
+      "forks": 19232,
+      "added_stars": "14,250 stars this month"
     },
     {
       "title": "HKUDS / DeepTutor",
@@ -50,19 +40,19 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32058,
-      "forks": 4188,
-      "added_stars": "6,905 stars this month"
+      "stars": 32258,
+      "forks": 4214,
+      "added_stars": "7,155 stars this month"
     },
     {
-      "title": "Emily2040 / seedance-2.0",
-      "url": "https://github.com/Emily2040/seedance-2.0",
-      "description": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0",
+      "title": "usestrix / strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5955,
-      "forks": 895,
-      "added_stars": "4,195 stars this month"
+      "stars": 47391,
+      "forks": 5013,
+      "added_stars": "13,453 stars this month"
     },
     {
       "title": "HKUDS / Vibe-Trading",
@@ -70,9 +60,9 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 29367,
-      "forks": 4730,
-      "added_stars": "12,368 stars this month"
+      "stars": 29488,
+      "forks": 4754,
+      "added_stars": "12,049 stars this month"
     },
     {
       "title": "tirth8205 / code-review-graph",
@@ -80,19 +70,19 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 28135,
-      "forks": 2608,
-      "added_stars": "9,098 stars this month"
+      "stars": 28327,
+      "forks": 2624,
+      "added_stars": "9,298 stars this month"
     },
     {
-      "title": "Robbyant / lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "title": "Emily2040 / seedance-2.0",
+      "url": "https://github.com/Emily2040/seedance-2.0",
+      "description": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16077,
-      "forks": 1731,
-      "added_stars": "6,875 stars this month"
+      "stars": 6054,
+      "forks": 901,
+      "added_stars": "4,319 stars this month"
     },
     {
       "title": "Graphify-Labs / graphify",
@@ -100,49 +90,19 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 101232,
-      "forks": 9827,
-      "added_stars": "25,541 stars this month"
+      "stars": 101948,
+      "forks": 9902,
+      "added_stars": "25,401 stars this month"
     },
     {
-      "title": "xbtlin / ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "title": "Robbyant / lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14906,
-      "forks": 2135,
-      "added_stars": "6,519 stars this month"
-    },
-    {
-      "title": "unclecode / crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 75906,
-      "forks": 7842,
-      "added_stars": "5,316 stars this month"
-    },
-    {
-      "title": "virgiliojr94 / book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 15515,
-      "forks": 1671,
-      "added_stars": "7,775 stars this month"
-    },
-    {
-      "title": "AgriciDaniel / claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 13119,
-      "forks": 1917,
-      "added_stars": "2,786 stars this month"
+      "stars": 16111,
+      "forks": 1775,
+      "added_stars": "6,760 stars this month"
     },
     {
       "title": "ansible / ansible",
@@ -150,19 +110,49 @@
       "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 70182,
-      "forks": 24274,
-      "added_stars": "1,438 stars this month"
+      "stars": 70203,
+      "forks": 24314,
+      "added_stars": "1,369 stars this month"
     },
     {
-      "title": "alirezarezvani / claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "title": "unclecode / crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23671,
-      "forks": 3288,
-      "added_stars": "4,161 stars this month"
+      "stars": 76004,
+      "forks": 7852,
+      "added_stars": "5,342 stars this month"
+    },
+    {
+      "title": "virgiliojr94 / book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 16011,
+      "forks": 1712,
+      "added_stars": "8,173 stars this month"
+    },
+    {
+      "title": "AgriciDaniel / claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 13239,
+      "forks": 1935,
+      "added_stars": "2,813 stars this month"
+    },
+    {
+      "title": "xbtlin / ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 14965,
+      "forks": 2187,
+      "added_stars": "6,058 stars this month"
     },
     {
       "title": "ahujasid / blender-mcp",
@@ -170,9 +160,9 @@
       "description": "Open-source MCP to use Blender with any LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 25348,
-      "forks": 2424,
-      "added_stars": "1,962 stars this month"
+      "stars": 25415,
+      "forks": 2429,
+      "added_stars": "1,986 stars this month"
     },
     {
       "title": "harbor-framework / harbor",
@@ -180,19 +170,9 @@
       "description": "Framework for evaluating and improving agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3773,
-      "forks": 1462,
-      "added_stars": "900 stars this month"
-    },
-    {
-      "title": "dottxt-ai / outlines",
-      "url": "https://github.com/dottxt-ai/outlines",
-      "description": "Structured Outputs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 15486,
-      "forks": 835,
-      "added_stars": "1,152 stars this month"
+      "stars": 3807,
+      "forks": 1468,
+      "added_stars": "888 stars this month"
     },
     {
       "title": "paperless-ngx / paperless-ngx",
@@ -200,9 +180,19 @@
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43911,
-      "forks": 2981,
-      "added_stars": "1,278 stars this month"
+      "stars": 43954,
+      "forks": 2985,
+      "added_stars": "1,326 stars this month"
+    },
+    {
+      "title": "dottxt-ai / outlines",
+      "url": "https://github.com/dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 15496,
+      "forks": 836,
+      "added_stars": "1,153 stars this month"
     },
     {
       "title": "python / cpython",
@@ -210,19 +200,29 @@
       "description": "The Python programming language",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 74117,
-      "forks": 35092,
-      "added_stars": "1,215 stars this month"
+      "stars": 74131,
+      "forks": 35127,
+      "added_stars": "1,258 stars this month"
     },
     {
-      "title": "flashinfer-ai / flashinfer",
-      "url": "https://github.com/flashinfer-ai/flashinfer",
-      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "title": "MoonshotAI / kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6087,
-      "forks": 1225,
-      "added_stars": "204 stars this month"
+      "stars": 11090,
+      "forks": 1281,
+      "added_stars": "2,029 stars this month"
+    },
+    {
+      "title": "blader / humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 33036,
+      "forks": 3006,
+      "added_stars": "5,664 stars this month"
     }
   ]
 }

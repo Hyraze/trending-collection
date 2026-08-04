@@ -4,16 +4,16 @@
   <title>GitHub Fortran Languages Daily Trending</title>
   <description>Daily Trending of Fortran Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <item>
+    <title>JuliaPackaging / Yggdrasil</title>
+    <link>https://github.com/JuliaPackaging/Yggdrasil</link>
+    <description>Collection of builder repositories for BinaryBuilder.jl</description>
+  </item>
   <item>
     <title>Reference-LAPACK / lapack</title>
     <link>https://github.com/Reference-LAPACK/lapack</link>
     <description>LAPACK development repository</description>
-  </item>
-  <item>
-    <title>E3SM-Project / E3SM</title>
-    <link>https://github.com/E3SM-Project/E3SM</link>
-    <description>Energy Exascale Earth System Model source code. NOTE: use &quot;maint&quot; branches for your work. Head of master is not validated.</description>
   </item>
   <item>
     <title>MCSclimate / MCT</title>
@@ -21,9 +21,9 @@
     <description>Model Coupling Tookit</description>
   </item>
   <item>
-    <title>GEOS-ESM / GOCART</title>
-    <link>https://github.com/GEOS-ESM/GOCART</link>
-    <description>GOCART Aerosol model including process library and framework interfaces (MAPL, NUOPC, and CCPP)</description>
+    <title>firemodels / fds</title>
+    <link>https://github.com/firemodels/fds</link>
+    <description>Fire Dynamics Simulator</description>
   </item>
   <item>
     <title>NGEET / fates</title>
@@ -31,9 +31,9 @@
     <description>repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)</description>
   </item>
   <item>
-    <title>ecmwf / fckit</title>
-    <link>https://github.com/ecmwf/fckit</link>
-    <description>A Fortran toolkit for interoperating Fortran with C/C++</description>
+    <title>E3SM-Project / E3SM</title>
+    <link>https://github.com/E3SM-Project/E3SM</link>
+    <description>Energy Exascale Earth System Model source code. NOTE: use &quot;maint&quot; branches for your work. Head of master is not validated.</description>
   </item>
 </channel>
 </rss>

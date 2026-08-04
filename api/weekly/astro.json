@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "tabler / tabler",
@@ -10,9 +10,9 @@
       "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 41404,
-      "forks": 4396,
-      "added_stars": "47 stars this week"
+      "stars": 41410,
+      "forks": 4397,
+      "added_stars": "49 stars this week"
     },
     {
       "title": "ColorlibHQ / AdminLTE",
@@ -20,9 +20,9 @@
       "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 45540,
-      "forks": 18184,
-      "added_stars": "19 stars this week"
+      "stars": 45545,
+      "forks": 18185,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "satnaing / astro-paper",
@@ -30,7 +30,7 @@
       "description": "A minimal, accessible and SEO-friendly Astro blog theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 4915,
+      "stars": 4917,
       "forks": 1046,
       "added_stars": "33 stars this week"
     },
@@ -50,29 +50,19 @@
       "description": "A simple Astro theme. Use it to create your blog or website.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 1697,
+      "stars": 1699,
       "forks": 275,
-      "added_stars": "11 stars this week"
+      "added_stars": "10 stars this week"
     },
     {
       "title": "arthelokyo / astrowind",
       "url": "https://github.com/arthelokyo/astrowind",
-      "description": "⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.",
+      "description": "⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 5843,
-      "forks": 1649,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "zen-browser / www",
-      "url": "https://github.com/zen-browser/www",
-      "description": "Homepage for @zen-browser!",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 1388,
-      "forks": 263,
-      "added_stars": "12 stars this week"
+      "stars": 5847,
+      "forks": 1650,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "CuteLeaf / Firefly",
@@ -80,9 +70,19 @@
       "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 1798,
-      "forks": 1370,
-      "added_stars": "61 stars this week"
+      "stars": 1802,
+      "forks": 1381,
+      "added_stars": "57 stars this week"
+    },
+    {
+      "title": "cworld1 / astro-theme-pure",
+      "url": "https://github.com/cworld1/astro-theme-pure",
+      "description": "⭐ A simple, fast and powerful blog & document theme built by Astro",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 1025,
+      "forks": 272,
+      "added_stars": "10 stars this week"
     }
   ]
 }

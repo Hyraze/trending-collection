@@ -2,17 +2,37 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
+    {
+      "title": "gravitee-io / issues",
+      "url": "https://github.com/gravitee-io/issues",
+      "description": "Gravitee.io - API Platform - Issues",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 68,
+      "forks": 28,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "gradle / gradle",
       "url": "https://github.com/gradle/gradle",
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 18750,
-      "forks": 5294,
-      "added_stars": "4 stars today"
+      "stars": 18753,
+      "forks": 5329,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "apache / grails-core",
+      "url": "https://github.com/apache/grails-core",
+      "description": "Grails - the Web Application Framework",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 2924,
+      "forks": 972,
+      "added_stars": "0 stars today"
     },
     {
       "title": "rundeck / rundeck",
@@ -20,18 +40,8 @@
       "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 6250,
+      "stars": 6252,
       "forks": 983,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "nextflow-io / nextflow",
-      "url": "https://github.com/nextflow-io/nextflow",
-      "description": "A DSL for data-driven computational pipelines",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 3453,
-      "forks": 800,
       "added_stars": "1 star today"
     }
   ]

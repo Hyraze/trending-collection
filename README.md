@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3395-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3396-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-08-03
-_Top 3 per language · [view full day →](./2026/2026-08-03.md)_
+## 🔥 Today's Trending — 2026-08-04
+_Top 3 per language · [view full day →](./2026/2026-08-04.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 🐍 | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 🐍 | Kronos: A Foundation Model for the Language of Financial Markets |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🐍 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🐍 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
-| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 🐍 | Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation. |
-| [sharkdp/bat](https://github.com/sharkdp/bat) | 🦀 | A cat(1) clone with wings. |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🦀 | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
 | [ankitects/anki](https://github.com/ankitects/anki) | 🦀 | Anki is a smart spaced repetition flashcard program |
-| [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 🦀 | Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀 |
-| [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) | ⚡ | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
-| [pdone/lx-music-source](https://github.com/pdone/lx-music-source) | ⚡ | 洛雪音乐源 |
-| [sveltejs/svelte](https://github.com/sveltejs/svelte) | ⚡ | web development for the rest of us |
+| [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | 🦀 | Open-source, community-driven agent harness |
+| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | ⚡ | A fancy self-hosted monitoring tool |
+| [4ian/GDevelop](https://github.com/4ian/GDevelop) | ⚡ | 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone. |
+| [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) | ⚡ | Node.js based forum software built for the modern web |
 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🐹 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 🐹 | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. |
-| [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) | 🐹 | Send push notifications to your phone or desktop using PUT/POST |
-| [exelban/stats](https://github.com/exelban/stats) | 🍎 | macOS system monitor in your menu bar |
-| [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) | 🍎 | On-device Speech AI for Apple Silicon |
-| [steipete/CodexBar](https://github.com/steipete/CodexBar) | 🍎 | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
-| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 🔷 | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
-| [different-ai/openwork](https://github.com/different-ai/openwork) | 🔷 | The open-source alternative to Claude Cowork (powered by opencode) |
+| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 🐹 | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto) |
+| [superplanehq/superplane](https://github.com/superplanehq/superplane) | 🐹 | The open source control plane for agentic engineering. |
+| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 🍎 |  |
+| [iina/iina](https://github.com/iina/iina) | 🍎 | The modern video player for macOS. |
+| [utmapp/UTM](https://github.com/utmapp/UTM) | 🍎 | Virtual machines for iOS and macOS |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔷 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
+| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 🔷 | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔷 | The open-source AI voice studio. Clone, dictate, create. |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-08-03.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-08-04](./2026/2026-08-04.md) | [system-design-primer](https://github.com/donnemartin/system-design-primer) | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
 | [2026-08-03](./2026/2026-08-03.md) | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [bat](https://github.com/sharkdp/bat) | [k-skill](https://github.com/NomaDamas/k-skill) | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | [stats](https://github.com/exelban/stats) | [kaneo](https://github.com/usekaneo/kaneo) |
 | [2026-08-02](./2026/2026-08-02.md) | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | [codex](https://github.com/openai/codex) | [k-skill](https://github.com/NomaDamas/k-skill) | [gh-stack](https://github.com/github/gh-stack) | [FluidAudio](https://github.com/FluidInference/FluidAudio) | [kaneo](https://github.com/usekaneo/kaneo) |
 | [2026-08-01](./2026/2026-08-01.md) | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | [codex](https://github.com/openai/codex) | [k-skill](https://github.com/NomaDamas/k-skill) | [gh-stack](https://github.com/github/gh-stack) | [FluidAudio](https://github.com/FluidInference/FluidAudio) | [kaneo](https://github.com/usekaneo/kaneo) |
 | [2026-07-31](./2026/2026-07-31.md) | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | [tuicr](https://github.com/agavra/tuicr) | [Baileys](https://github.com/WhiskeySockets/Baileys) | [argo-cd](https://github.com/argoproj/argo-cd) | [container](https://github.com/apple/container) | [openwork](https://github.com/different-ai/openwork) |
 | [2026-07-30](./2026/2026-07-30.md) | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | [jcode](https://github.com/1jehuang/jcode) | [ECC](https://github.com/affaan-m/ECC) | [open-code-review](https://github.com/alibaba/open-code-review) | [FineTune](https://github.com/ronitsingh10/FineTune) | [GeoLibre](https://github.com/opengeos/GeoLibre) |
 | [2026-07-29](./2026/2026-07-29.md) | [aisuite](https://github.com/andrewyng/aisuite) | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | [ECC](https://github.com/affaan-m/ECC) | [superfile](https://github.com/yorukot/superfile) | [bitchat](https://github.com/permissionlesstech/bitchat) | [editor](https://github.com/pascalorg/editor) |
-| [2026-07-28](./2026/2026-07-28.md) | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | [rust](https://github.com/rust-lang/rust) | [impeccable](https://github.com/pbakaus/impeccable) | [superfile](https://github.com/yorukot/superfile) | [bitchat](https://github.com/permissionlesstech/bitchat) | [airi](https://github.com/moeru-ai/airi) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -61,7 +61,7 @@ _Most days on trending, all time_
 | [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1336 |
 | [facebook/react](https://github.com/facebook/react) | 1314 |
 | [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1248 |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 1243 |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 1244 |
 
 ---
 
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | 🐍 | 2026-08-04 | The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs |
+| [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) | 🐍 | 2026-08-04 | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products. |
+| [techjarves/Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio) | ⚡ | 2026-08-04 | Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text |
+| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 🔷 | 2026-08-04 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 🔷 | 2026-08-04 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [darkreader/darkreader](https://github.com/darkreader/darkreader) | 🔷 | 2026-08-04 | Dark Reader Chrome and Firefox extension |
+| [slopus/happy](https://github.com/slopus/happy) | 🔷 | 2026-08-04 | Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured |
+| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 🔷 | 2026-08-04 | Generate code from the terminal! |
 | [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) | 🐍 | 2026-08-03 | Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0 |
 | [milos-agathon/forge3d](https://github.com/milos-agathon/forge3d) | 🦀 | 2026-08-03 | Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels. |
-| [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) | ⚡ | 2026-08-03 | Character Generator based on Universal-LPC-Spritesheet |
-| [Solr159/JavBoss](https://github.com/Solr159/JavBoss) | 🐹 | 2026-08-03 | 开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV/video manager. |
-| [adithyan-ak/AgentHound](https://github.com/adithyan-ak/AgentHound) | 🐹 | 2026-08-03 | Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack. |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔷 | 2026-08-03 | The open-source AI voice studio. Clone, dictate, create. |
-| [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) | 🔷 | 2026-08-03 | Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS. |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 🔷 | 2026-08-03 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔷 | 2026-08-03 | The open-source app everyone uses to manage agents at work |
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 🔷 | 2026-08-03 | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. |
 
 ---
 

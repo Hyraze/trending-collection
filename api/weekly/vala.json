@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "tkashkin / GameHub",
@@ -10,18 +10,18 @@
       "description": "All your games in one place",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 2819,
+      "stars": 2820,
       "forks": 206,
-      "added_stars": "8 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
-      "title": "Vysp3r / ProtonPlus",
-      "url": "https://github.com/Vysp3r/ProtonPlus",
-      "description": "A modern compatibility tools manager",
+      "title": "linuxmint / timeshift",
+      "url": "https://github.com/linuxmint/timeshift",
+      "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1649,
-      "forks": 50,
+      "stars": 4213,
+      "forks": 151,
       "added_stars": "17 stars this week"
     },
     {
@@ -30,19 +30,19 @@
       "description": "MacOS style AppImage installer and management application",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1261,
+      "stars": 1264,
       "forks": 27,
-      "added_stars": "44 stars this week"
+      "added_stars": "42 stars this week"
     },
     {
-      "title": "linuxmint / timeshift",
-      "url": "https://github.com/linuxmint/timeshift",
-      "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
+      "title": "Vysp3r / ProtonPlus",
+      "url": "https://github.com/Vysp3r/ProtonPlus",
+      "description": "A modern compatibility tools manager",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 4212,
-      "forks": 151,
-      "added_stars": "17 stars this week"
+      "stars": 1650,
+      "forks": 50,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "christianloopp / komorebi",
@@ -50,9 +50,9 @@
       "description": "A beautiful and customizable wallpapers manager for Linux",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 3748,
+      "stars": 3749,
       "forks": 257,
-      "added_stars": "4 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "alainm23 / planify",
@@ -60,9 +60,9 @@
       "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 5512,
+      "stars": 5514,
       "forks": 318,
-      "added_stars": "13 stars this week"
+      "added_stars": "15 stars this week"
     },
     {
       "title": "BuddiesOfBudgie / budgie-desktop",
@@ -70,7 +70,7 @@
       "description": "Budgie Desktop is a familiar, modern desktop environment.",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1325,
+      "stars": 1326,
       "forks": 64,
       "added_stars": "2 stars this week"
     }

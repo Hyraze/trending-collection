@@ -2,17 +2,27 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
-      "title": "opa334 / TrollStore",
-      "url": "https://github.com/opa334/TrollStore",
-      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
+      "title": "gnachman / iTerm2",
+      "url": "https://github.com/gnachman/iTerm2",
+      "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 21866,
-      "forks": 1625,
-      "added_stars": "6 stars today"
+      "stars": 17900,
+      "forks": 1449,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "darlinghq / darling",
+      "url": "https://github.com/darlinghq/darling",
+      "description": "Darwin/macOS emulation layer for Linux",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 12941,
+      "forks": 511,
+      "added_stars": "17 stars today"
     },
     {
       "title": "geode-sdk / ios-launcher",
@@ -20,28 +30,68 @@
       "description": "Manages installing and launching Geometry Dash for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 658,
-      "forks": 239,
-      "added_stars": "3 stars today"
+      "stars": 659,
+      "forks": 240,
+      "added_stars": "1 star today"
     },
     {
-      "title": "gnachman / iTerm2",
-      "url": "https://github.com/gnachman/iTerm2",
-      "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
+      "title": "opa334 / TrollStore",
+      "url": "https://github.com/opa334/TrollStore",
+      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 17898,
-      "forks": 1447,
-      "added_stars": "5 stars today"
+      "stars": 21871,
+      "forks": 1626,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "iodefog / VipVideo",
-      "url": "https://github.com/iodefog/VipVideo",
-      "description": "这是一个Mac/Windows聚合App，聚合常见电视/视频/音乐/小说。比如CCTV中央电视台直播免费观看, 爱奇艺、腾讯视频、芒果视频、优酷视频付费电影，VIP会员剧等免费观看，bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅、起点、七猫、有声小说等",
+      "title": "aws-amplify / aws-sdk-ios",
+      "url": "https://github.com/aws-amplify/aws-sdk-ios",
+      "description": "AWS SDK for iOS. For more information, see our web site:",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 5528,
-      "forks": 686,
+      "stars": 1704,
+      "forks": 896,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "amplitude / Amplitude-iOS",
+      "url": "https://github.com/amplitude/Amplitude-iOS",
+      "description": "Native iOS/tvOS/macOS SDK",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 327,
+      "forks": 195,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "PojavLauncherTeam / PojavLauncher_iOS",
+      "url": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS",
+      "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 3200,
+      "forks": 1305,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "mixpanel / mixpanel-iphone",
+      "url": "https://github.com/mixpanel/mixpanel-iphone",
+      "description": "Official iOS (Objective-C) Tracking Library for Mixpanel Analytics",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 1065,
+      "forks": 567,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "sparkle-project / Sparkle",
+      "url": "https://github.com/sparkle-project/Sparkle",
+      "description": "A software update framework for macOS",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 9426,
+      "forks": 1122,
       "added_stars": "4 stars today"
     },
     {
@@ -50,38 +100,18 @@
       "description": "A feature-rich tweak for Instagram on iOS!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 759,
-      "forks": 2849,
-      "added_stars": "0 stars today"
+      "stars": 762,
+      "forks": 2853,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "AFNetworking / AFNetworking",
-      "url": "https://github.com/AFNetworking/AFNetworking",
-      "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+      "title": "google / eDistantObject",
+      "url": "https://github.com/google/eDistantObject",
+      "description": "eDistantObject (eDO) - Remote invocation library for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 33414,
-      "forks": 10602,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ReactiveCocoa / ReactiveObjC",
-      "url": "https://github.com/ReactiveCocoa/ReactiveObjC",
-      "description": "The 2.x ReactiveCocoa Objective-C API: Streams of values over time",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 2628,
-      "forks": 497,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "34306 / FilzaJailedDS",
-      "url": "https://github.com/34306/FilzaJailedDS",
-      "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 470,
-      "forks": 52,
+      "stars": 176,
+      "forks": 35,
       "added_stars": "0 stars today"
     },
     {
@@ -95,74 +125,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "mixpanel / mixpanel-iphone",
-      "url": "https://github.com/mixpanel/mixpanel-iphone",
-      "description": "Official iOS (Objective-C) Tracking Library for Mixpanel Analytics",
+      "title": "robbiehanson / KissXML",
+      "url": "https://github.com/robbiehanson/KissXML",
+      "description": "A replacement for Cocoa's NSXML cluster of classes. Based on libxml. Works on iOS.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 1065,
-      "forks": 567,
+      "stars": 858,
+      "forks": 336,
       "added_stars": "0 stars today"
     },
     {
-      "title": "PojavLauncherTeam / PojavLauncher_iOS",
-      "url": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS",
-      "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS",
+      "title": "joeldev / JLRoutes",
+      "url": "https://github.com/joeldev/JLRoutes",
+      "description": "URL routing library for iOS with a simple block-based API",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 3200,
-      "forks": 1303,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Instagram / IGListKit",
-      "url": "https://github.com/Instagram/IGListKit",
-      "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 13071,
-      "forks": 1538,
+      "stars": 5705,
+      "forks": 688,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "objective-see / LuLu",
-      "url": "https://github.com/objective-see/LuLu",
-      "description": "LuLu is the free open-source macOS firewall",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 13005,
-      "forks": 588,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "amplitude / Amplitude-iOS",
-      "url": "https://github.com/amplitude/Amplitude-iOS",
-      "description": "Native iOS/tvOS/macOS SDK",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 327,
-      "forks": 195,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Flipboard / FLAnimatedImage",
-      "url": "https://github.com/Flipboard/FLAnimatedImage",
-      "description": "Performant animated GIF engine for iOS",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 7947,
-      "forks": 1207,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "newmarcel / KeepingYouAwake",
-      "url": "https://github.com/newmarcel/KeepingYouAwake",
-      "description": "Prevents your Mac from going to sleep.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 6801,
-      "forks": 259,
-      "added_stars": "1 star today"
     },
     {
       "title": "facebookarchive / Shimmer",
@@ -175,13 +155,43 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "rudderlabs / rudder-sdk-ios",
-      "url": "https://github.com/rudderlabs/rudder-sdk-ios",
-      "description": "iOS SDK for RudderStack - the Customer Data Platform for Developers. Now supports tvOS, watchOS and macOS tracking!",
+      "title": "erikdoe / ocmock",
+      "url": "https://github.com/erikdoe/ocmock",
+      "description": "Mock objects for Objective-C",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 20,
-      "forks": 2,
+      "stars": 2171,
+      "forks": 609,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "danveloper / flash-moe",
+      "url": "https://github.com/danveloper/flash-moe",
+      "description": "Running a big model on a small laptop",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 4039,
+      "forks": 504,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "TTTAttributedLabel / TTTAttributedLabel",
+      "url": "https://github.com/TTTAttributedLabel/TTTAttributedLabel",
+      "description": "A drop-in replacement for UILabel that supports attributes, data detectors, links, and more",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 8711,
+      "forks": 1692,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "roothide / Bootstrap",
+      "url": "https://github.com/roothide/Bootstrap",
+      "description": "A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro & M1+M2 using roothide",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 1691,
+      "forks": 798,
       "added_stars": "0 stars today"
     }
   ]

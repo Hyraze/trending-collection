@@ -2,26 +2,26 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
-      "title": "hi-godot / godot-ai",
-      "url": "https://github.com/hi-godot/godot-ai",
-      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
+      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
+      "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 1393,
-      "forks": 93,
-      "added_stars": "14 stars today"
+      "stars": 2948,
+      "forks": 293,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "bitbrain / pandora",
-      "url": "https://github.com/bitbrain/pandora",
-      "description": "Godot 4 addon for RPG data management such items, inventories, spells, mobs, quests and NPCs.",
+      "title": "bitwes / Gut",
+      "url": "https://github.com/bitwes/Gut",
+      "description": "Godot Unit Test. Unit testing tool for Godot Game Engine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 1095,
-      "forks": 41,
+      "stars": 2671,
+      "forks": 147,
       "added_stars": "1 star today"
     },
     {
@@ -30,19 +30,9 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 9279,
-      "forks": 2201,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
-      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
-      "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 2929,
-      "forks": 291,
-      "added_stars": "8 stars today"
+      "stars": 9280,
+      "forks": 2202,
+      "added_stars": "3 stars today"
     },
     {
       "title": "Alexofp / BDCC",
@@ -50,9 +40,19 @@
       "description": "Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 332,
-      "forks": 121,
+      "stars": 333,
+      "forks": 122,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "Orama-Interactive / Pixelorama",
+      "url": "https://github.com/Orama-Interactive/Pixelorama",
+      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 10045,
+      "forks": 532,
+      "added_stars": "5 stars today"
     },
     {
       "title": "GDQuest / learn-gdscript",
@@ -60,19 +60,19 @@
       "description": "Learn Godot's GDScript programming language from zero, right in your browser, for free.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2749,
-      "forks": 234,
-      "added_stars": "4 stars today"
+      "stars": 2750,
+      "forks": 233,
+      "added_stars": "1 star today"
     },
     {
-      "title": "youichi-uda / godot-mcp-pro",
-      "url": "https://github.com/youichi-uda/godot-mcp-pro",
-      "description": "162 MCP tools for AI-powered Godot 4 development. Scene, animation, 3D, physics, particles, audio, shader, input simulation, runtime analysis, navigation, testing & more. $15 one-time.",
+      "title": "Maaack / Godot-Game-Template",
+      "url": "https://github.com/Maaack/Godot-Game-Template",
+      "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 542,
-      "forks": 72,
-      "added_stars": "2 stars today"
+      "stars": 1570,
+      "forks": 102,
+      "added_stars": "1 star today"
     },
     {
       "title": "bitbrain / beehave",
@@ -80,29 +80,9 @@
       "description": "🐝 behavior tree AI for Godot Engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 3208,
+      "stars": 3211,
       "forks": 165,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "MudkipWorld / PNGTuber-Remix",
-      "url": "https://github.com/MudkipWorld/PNGTuber-Remix",
-      "description": "An Open-source PNGTubing app :D",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 353,
-      "forks": 50,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "TheDuckCow / godot-road-generator",
-      "url": "https://github.com/TheDuckCow/godot-road-generator",
-      "description": "A Godot plugin for creating 3D highways/streets and lane-following traffic",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 1153,
-      "forks": 65,
-      "added_stars": "2 stars today"
+      "added_stars": "4 stars today"
     },
     {
       "title": "dialogic-godot / dialogic",
@@ -110,9 +90,59 @@
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 5870,
+      "stars": 5876,
       "forks": 340,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "hi-godot / godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 1422,
+      "forks": 94,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "Bonkahe / SunshineClouds2",
+      "url": "https://github.com/Bonkahe/SunshineClouds2",
+      "description": "A procedural cloud system for Godot 4.4+",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 573,
+      "forks": 21,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "TheDuckCow / godot-road-generator",
+      "url": "https://github.com/TheDuckCow/godot-road-generator",
+      "description": "A Godot plugin for creating 3D highways/streets and lane-following traffic",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 1155,
+      "forks": 65,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "yurineko73 / Godot-MCP-Native",
+      "url": "https://github.com/yurineko73/Godot-MCP-Native",
+      "description": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 596,
+      "forks": 59,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "Rhythia / sound-space-plus",
+      "url": "https://github.com/Rhythia/sound-space-plus",
+      "description": "[Old Rhythia, now unmaintained] Rhythm-based aim game",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 240,
+      "forks": 44,
+      "added_stars": "0 stars today"
     }
   ]
 }

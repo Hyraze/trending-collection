@@ -2,57 +2,17 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
-    {
-      "title": "microsoft / AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 59572,
-      "forks": 11694,
-      "added_stars": "2,629 stars today"
-    },
-    {
-      "title": "usekaneo / kaneo",
-      "url": "https://github.com/usekaneo/kaneo",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 6323,
-      "forks": 526,
-      "added_stars": "496 stars today"
-    },
     {
       "title": "lyogavin / airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 25897,
-      "forks": 2898,
-      "added_stars": "819 stars today"
-    },
-    {
-      "title": "iv-org / invidious",
-      "url": "https://github.com/iv-org/invidious",
-      "description": "Invidious is an alternative front-end to YouTube",
-      "language": "Crystal",
-      "languageColor": "#000100",
-      "stars": 22053,
-      "forks": 2464,
-      "added_stars": "305 stars today"
-    },
-    {
-      "title": "codecrafters-io / build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 535127,
-      "forks": 50578,
-      "added_stars": "674 stars today"
+      "stars": 27421,
+      "forks": 2991,
+      "added_stars": "1,085 stars today"
     },
     {
       "title": "zhaoxuya520 / reverse-skill",
@@ -60,89 +20,19 @@
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 14110,
-      "forks": 2089,
-      "added_stars": "1,141 stars today"
+      "stars": 16247,
+      "forks": 2276,
+      "added_stars": "2,446 stars today"
     },
     {
-      "title": "different-ai / openwork",
-      "url": "https://github.com/different-ai/openwork",
-      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 20462,
-      "forks": 2098,
-      "added_stars": "280 stars today"
-    },
-    {
-      "title": "microsoft / generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 114977,
-      "forks": 61327,
-      "added_stars": "588 stars today"
-    },
-    {
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 64967,
-      "forks": 5370,
-      "added_stars": "659 stars today"
-    },
-    {
-      "title": "TencentCloud / TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 11345,
-      "forks": 1075,
-      "added_stars": "602 stars today"
-    },
-    {
-      "title": "mvanhorn / last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 56972,
-      "forks": 4989,
-      "added_stars": "206 stars today"
-    },
-    {
-      "title": "NomaDamas / k-skill",
-      "url": "https://github.com/NomaDamas/k-skill",
-      "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 6929,
-      "forks": 812,
-      "added_stars": "177 stars today"
-    },
-    {
-      "title": "HarbourMasters / Lighthouse",
-      "url": "https://github.com/HarbourMasters/Lighthouse",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 253,
-      "forks": 19,
-      "added_stars": "65 stars today"
-    },
-    {
-      "title": "antirez / ds4",
-      "url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 20091,
-      "forks": 1782,
-      "added_stars": "139 stars today"
+      "title": "firecrawl / pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8637,
+      "forks": 570,
+      "added_stars": "1,699 stars today"
     },
     {
       "title": "esengine / DeepSeek-Reasonix",
@@ -150,9 +40,129 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29295,
-      "forks": 1888,
-      "added_stars": "333 stars today"
+      "stars": 30147,
+      "forks": 1942,
+      "added_stars": "883 stars today"
+    },
+    {
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 12365,
+      "forks": 1166,
+      "added_stars": "1,090 stars today"
+    },
+    {
+      "title": "microsoft / AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 61023,
+      "forks": 11868,
+      "added_stars": "1,902 stars today"
+    },
+    {
+      "title": "microsoft / generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 115742,
+      "forks": 61462,
+      "added_stars": "775 stars today"
+    },
+    {
+      "title": "donnemartin / system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 360660,
+      "forks": 57529,
+      "added_stars": "237 stars today"
+    },
+    {
+      "title": "antirez / ds4",
+      "url": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 20424,
+      "forks": 1805,
+      "added_stars": "384 stars today"
+    },
+    {
+      "title": "shiyu-coder / Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 35870,
+      "forks": 5970,
+      "added_stars": "200 stars today"
+    },
+    {
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 65905,
+      "forks": 5469,
+      "added_stars": "1,057 stars today"
+    },
+    {
+      "title": "Alishahryar1 / free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 44126,
+      "forks": 7276,
+      "added_stars": "278 stars today"
+    },
+    {
+      "title": "iv-org / invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "languageColor": "#000100",
+      "stars": 22304,
+      "forks": 2482,
+      "added_stars": "402 stars today"
+    },
+    {
+      "title": "livekit / agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 12089,
+      "forks": 3462,
+      "added_stars": "148 stars today"
+    },
+    {
+      "title": "usekaneo / kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 6953,
+      "forks": 562,
+      "added_stars": "665 stars today"
+    },
+    {
+      "title": "jamiepine / voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 48819,
+      "forks": 5999,
+      "added_stars": "412 stars today"
     }
   ]
 }

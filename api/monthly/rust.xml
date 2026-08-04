@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
   <item>
     <title>Zackriya-Solutions / meetily</title>
     <link>https://github.com/Zackriya-Solutions/meetily</link>
@@ -26,6 +26,11 @@
     <description>Lightweight coding agent that runs in your terminal</description>
   </item>
   <item>
+    <title>Pumpkin-MC / Pumpkin</title>
+    <link>https://github.com/Pumpkin-MC/Pumpkin</link>
+    <description>Empowering everyone to host fast and efficient Minecraft servers.</description>
+  </item>
+  <item>
     <title>cjpais / Handy</title>
     <link>https://github.com/cjpais/Handy</link>
     <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
@@ -36,24 +41,9 @@
     <description>20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</description>
   </item>
   <item>
-    <title>Pumpkin-MC / Pumpkin</title>
-    <link>https://github.com/Pumpkin-MC/Pumpkin</link>
-    <description>Empowering everyone to host fast and efficient Minecraft servers.</description>
-  </item>
-  <item>
-    <title>Automattic / harper</title>
-    <link>https://github.com/Automattic/harper</link>
-    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
-  </item>
-  <item>
     <title>dani-garcia / vaultwarden</title>
     <link>https://github.com/dani-garcia/vaultwarden</link>
     <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
-  </item>
-  <item>
-    <title>apache / datafusion</title>
-    <link>https://github.com/apache/datafusion</link>
-    <description>Apache DataFusion SQL Query Engine</description>
   </item>
   <item>
     <title>wealthfolio / wealthfolio</title>
@@ -61,9 +51,9 @@
     <description>A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.</description>
   </item>
   <item>
-    <title>max-sixty / worktrunk</title>
-    <link>https://github.com/max-sixty/worktrunk</link>
-    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+    <title>apache / datafusion</title>
+    <link>https://github.com/apache/datafusion</link>
+    <description>Apache DataFusion SQL Query Engine</description>
   </item>
   <item>
     <title>DioxusLabs / dioxus</title>
@@ -71,9 +61,19 @@
     <description>Fullstack app framework for web, desktop, and mobile.</description>
   </item>
   <item>
+    <title>rustdesk / rustdesk</title>
+    <link>https://github.com/rustdesk/rustdesk</link>
+    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+  </item>
+  <item>
     <title>andrewrabert / jellium-desktop</title>
     <link>https://github.com/andrewrabert/jellium-desktop</link>
     <description>An unofficial desktop client for Jellyfin</description>
+  </item>
+  <item>
+    <title>rustfs / rustfs</title>
+    <link>https://github.com/rustfs/rustfs</link>
+    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
   </item>
   <item>
     <title>tonhowtf / omniget</title>
@@ -86,24 +86,9 @@
     <description>Empowering everyone to build reliable and efficient software.</description>
   </item>
   <item>
-    <title>raine / workmux</title>
-    <link>https://github.com/raine/workmux</link>
-    <description>git worktrees + tmux windows for zero-friction parallel dev</description>
-  </item>
-  <item>
     <title>screenpipe / screenpipe</title>
     <link>https://github.com/screenpipe/screenpipe</link>
     <description>YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps</description>
-  </item>
-  <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
-  </item>
-  <item>
-    <title>rustfs / rustfs</title>
-    <link>https://github.com/rustfs/rustfs</link>
-    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
   </item>
   <item>
     <title>tokio-rs / tokio</title>
@@ -114,6 +99,21 @@
     <title>biomejs / biome</title>
     <link>https://github.com/biomejs/biome</link>
     <description>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</description>
+  </item>
+  <item>
+    <title>atuinsh / atuin</title>
+    <link>https://github.com/atuinsh/atuin</link>
+    <description>✨ Making your shell magical</description>
+  </item>
+  <item>
+    <title>denoland / deno</title>
+    <link>https://github.com/denoland/deno</link>
+    <description>A modern runtime for JavaScript and TypeScript.</description>
+  </item>
+  <item>
+    <title>oxc-project / oxc</title>
+    <link>https://github.com/oxc-project/oxc</link>
+    <description>⚓ A collection of high-performance JavaScript tools.</description>
   </item>
 </channel>
 </rss>

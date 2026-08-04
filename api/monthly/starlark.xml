@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
   <item>
     <title>googleapis / googleapis</title>
     <link>https://github.com/googleapis/googleapis</link>
@@ -16,14 +16,14 @@
     <description>🥑 Language focused docker images, minus the operating system.</description>
   </item>
   <item>
-    <title>uber / hermetic_cc_toolchain</title>
-    <link>https://github.com/uber/hermetic_cc_toolchain</link>
-    <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
-  </item>
-  <item>
     <title>bazelbuild / bazel-central-registry</title>
     <link>https://github.com/bazelbuild/bazel-central-registry</link>
     <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
+  </item>
+  <item>
+    <title>uber / hermetic_cc_toolchain</title>
+    <link>https://github.com/uber/hermetic_cc_toolchain</link>
+    <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
   </item>
   <item>
     <title>bazelbuild / bazel-skylib</title>

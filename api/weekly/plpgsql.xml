@@ -4,11 +4,16 @@
   <title>GitHub Plpgsql Languages Daily Trending</title>
   <description>Daily Trending of Plpgsql Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>DataDog / storedog</title>
     <link>https://github.com/DataDog/storedog</link>
     <description></description>
+  </item>
+  <item>
+    <title>pgmq / pgmq</title>
+    <link>https://github.com/pgmq/pgmq</link>
+    <description>A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.</description>
   </item>
   <item>
     <title>Snowflake-Labs / modern-data-engineering-snowflake</title>
@@ -21,24 +26,19 @@
     <description>Partition management extension for PostgreSQL</description>
   </item>
   <item>
-    <title>pgmq / pgmq</title>
-    <link>https://github.com/pgmq/pgmq</link>
-    <description>A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.</description>
-  </item>
-  <item>
     <title>guchengwuyue / yshop-drink</title>
     <link>https://github.com/guchengwuyue/yshop-drink</link>
     <description>yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统</description>
   </item>
   <item>
-    <title>openmaptiles / openmaptiles</title>
-    <link>https://github.com/openmaptiles/openmaptiles</link>
-    <description>OpenMapTiles Vector Tile Schema Implementation</description>
-  </item>
-  <item>
     <title>postgis / postgis</title>
     <link>https://github.com/postgis/postgis</link>
     <description>PostGIS spatial database extension to PostgreSQL [mirror]</description>
+  </item>
+  <item>
+    <title>openmaptiles / openmaptiles</title>
+    <link>https://github.com/openmaptiles/openmaptiles</link>
+    <description>OpenMapTiles Vector Tile Schema Implementation</description>
   </item>
   <item>
     <title>sbdchd / squawk</title>

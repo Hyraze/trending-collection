@@ -2,17 +2,27 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
-      "title": "oxsecurity / megalinter",
-      "url": "https://github.com/oxsecurity/megalinter",
-      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
+      "title": "nordquant / dbt-student-repo",
+      "url": "https://github.com/nordquant/dbt-student-repo",
+      "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2541,
-      "forks": 304,
-      "added_stars": "1 star today"
+      "stars": 21,
+      "forks": 2808,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "JawadTechYT / JAWAD-MD",
+      "url": "https://github.com/JawadTechYT/JAWAD-MD",
+      "description": "A simple WhatsApp bot to manage groups",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 1434,
+      "forks": 4302,
+      "added_stars": "2 stars today"
     },
     {
       "title": "mikeroyal / Self-Hosting-Guide",
@@ -20,68 +30,18 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 22143,
+      "stars": 22152,
       "forks": 1104,
-      "added_stars": "18 stars today"
+      "added_stars": "10 stars today"
     },
     {
-      "title": "kagisearch / kagi-docs",
-      "url": "https://github.com/kagisearch/kagi-docs",
-      "description": "Documentation for products made by Kagi Inc",
+      "title": "aws-amplify / amplify-hosting",
+      "url": "https://github.com/aws-amplify/amplify-hosting",
+      "description": "AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 403,
-      "forks": 686,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "datawhalechina / vibe-vibe",
-      "url": "https://github.com/datawhalechina/vibe-vibe",
-      "description": "AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 5850,
-      "forks": 471,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "nodejs / docker-node",
-      "url": "https://github.com/nodejs/docker-node",
-      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 8578,
-      "forks": 1991,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "dunglas / symfony-docker",
-      "url": "https://github.com/dunglas/symfony-docker",
-      "description": "A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 3172,
-      "forks": 877,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Gar-b-age / CookLikeHOC",
-      "url": "https://github.com/Gar-b-age/CookLikeHOC",
-      "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 23759,
-      "forks": 2357,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "laradock / laradock",
-      "url": "https://github.com/laradock/laradock",
-      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 12657,
-      "forks": 4365,
+      "stars": 480,
+      "forks": 123,
       "added_stars": "0 stars today"
     },
     {
@@ -92,7 +52,17 @@
       "languageColor": "#384d54",
       "stars": 3046,
       "forks": 284,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "laradock / laradock",
+      "url": "https://github.com/laradock/laradock",
+      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 12657,
+      "forks": 4362,
+      "added_stars": "0 stars today"
     },
     {
       "title": "freeCodeCamp / rdb-alpha",
@@ -100,9 +70,39 @@
       "description": "",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 160,
-      "forks": 982,
+      "stars": 161,
+      "forks": 983,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 21075,
+      "forks": 4795,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "Gar-b-age / CookLikeHOC",
+      "url": "https://github.com/Gar-b-age/CookLikeHOC",
+      "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 23763,
+      "forks": 2357,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "autowarefoundation / autoware",
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 11940,
+      "forks": 3677,
+      "added_stars": "10 stars today"
     }
   ]
 }

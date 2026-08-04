@@ -4,46 +4,11 @@
   <title>GitHub Shell Languages Daily Trending</title>
   <description>Daily Trending of Shell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
   <item>
     <title>basecamp / omarchy</title>
     <link>https://github.com/basecamp/omarchy</link>
     <description>Beautiful, Modern &amp; Opinionated Linux</description>
-  </item>
-  <item>
-    <title>eugr / spark-vllm-docker</title>
-    <link>https://github.com/eugr/spark-vllm-docker</link>
-    <description>Docker configuration for running VLLM on dual DGX Sparks</description>
-  </item>
-  <item>
-    <title>msitarzewski / agency-agents</title>
-    <link>https://github.com/msitarzewski/agency-agents</link>
-    <description>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</description>
-  </item>
-  <item>
-    <title>InfinityLoop1308 / PipePipe</title>
-    <link>https://github.com/InfinityLoop1308/PipePipe</link>
-    <description>An open-source Android app to let you browse YouTube and other services freely.</description>
-  </item>
-  <item>
-    <title>bin456789 / reinstall</title>
-    <link>https://github.com/bin456789/reinstall</link>
-    <description>一键DD/重装脚本 (One-click reinstall OS on VPS)</description>
-  </item>
-  <item>
-    <title>jqssun / android-titanium-browser</title>
-    <link>https://github.com/jqssun/android-titanium-browser</link>
-    <description>Secure open-source Android browser with support for extensions</description>
-  </item>
-  <item>
-    <title>HyDE-Project / HyDE</title>
-    <link>https://github.com/HyDE-Project/HyDE</link>
-    <description>HyDE, your Development Environment 🖥️💻</description>
-  </item>
-  <item>
-    <title>community-scripts / ProxmoxVE</title>
-    <link>https://github.com/community-scripts/ProxmoxVE</link>
-    <description>Proxmox VE Helper-Scripts (Community Edition)</description>
   </item>
   <item>
     <title>tracelabs / tlosint-vm</title>
@@ -51,14 +16,59 @@
     <description>Trace Labs OSINT VM</description>
   </item>
   <item>
-    <title>ohmyzsh / ohmyzsh</title>
-    <link>https://github.com/ohmyzsh/ohmyzsh</link>
-    <description>🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</description>
+    <title>alexbelgium / hassio-addons</title>
+    <link>https://github.com/alexbelgium/hassio-addons</link>
+    <description>My homeassistant addons</description>
   </item>
   <item>
-    <title>mbadolato / iTerm2-Color-Schemes</title>
-    <link>https://github.com/mbadolato/iTerm2-Color-Schemes</link>
-    <description>Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft&#x27;s Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more</description>
+    <title>bats-core / bats-core</title>
+    <link>https://github.com/bats-core/bats-core</link>
+    <description>Bash Automated Testing System</description>
+  </item>
+  <item>
+    <title>tw93 / Mole</title>
+    <link>https://github.com/tw93/Mole</link>
+    <description>🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.</description>
+  </item>
+  <item>
+    <title>InfinityLoop1308 / PipePipe</title>
+    <link>https://github.com/InfinityLoop1308/PipePipe</link>
+    <description>An open-source Android app to let you browse YouTube and other services freely.</description>
+  </item>
+  <item>
+    <title>ophub / amlogic-s9xxx-armbian</title>
+    <link>https://github.com/ophub/amlogic-s9xxx-armbian</link>
+    <description>Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.</description>
+  </item>
+  <item>
+    <title>techjarves / termux-hacklab</title>
+    <link>https://github.com/techjarves/termux-hacklab</link>
+    <description>Turn your Android into a GPU-accelerated Linux hacking lab with one command! XFCE Desktop + Nmap, SQLMap, Hydra, Wine &amp; more. No root required.</description>
+  </item>
+  <item>
+    <title>eugr / spark-vllm-docker</title>
+    <link>https://github.com/eugr/spark-vllm-docker</link>
+    <description>Docker configuration for running VLLM on dual DGX Sparks</description>
+  </item>
+  <item>
+    <title>fujibee / agmsg</title>
+    <link>https://github.com/fujibee/agmsg</link>
+    <description>Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini &amp; Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.</description>
+  </item>
+  <item>
+    <title>obra / superpowers</title>
+    <link>https://github.com/obra/superpowers</link>
+    <description>An agentic skills framework &amp; software development methodology that works.</description>
+  </item>
+  <item>
+    <title>themactep / thingino-firmware</title>
+    <link>https://github.com/themactep/thingino-firmware</link>
+    <description>Open-source firmware for Ingenic SoC IP cameras</description>
+  </item>
+  <item>
+    <title>PapirusDevelopmentTeam / papirus-icon-theme</title>
+    <link>https://github.com/PapirusDevelopmentTeam/papirus-icon-theme</link>
+    <description>Pixel perfect icon theme for Linux</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
       "title": "basecamp / omarchy",
@@ -10,79 +10,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 24267,
-      "forks": 2435,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "eugr / spark-vllm-docker",
-      "url": "https://github.com/eugr/spark-vllm-docker",
-      "description": "Docker configuration for running VLLM on dual DGX Sparks",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1940,
-      "forks": 349,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "msitarzewski / agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 138237,
-      "forks": 22580,
-      "added_stars": "154 stars today"
-    },
-    {
-      "title": "InfinityLoop1308 / PipePipe",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "description": "An open-source Android app to let you browse YouTube and other services freely.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 5790,
-      "forks": 189,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "bin456789 / reinstall",
-      "url": "https://github.com/bin456789/reinstall",
-      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 12662,
-      "forks": 2045,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "jqssun / android-titanium-browser",
-      "url": "https://github.com/jqssun/android-titanium-browser",
-      "description": "Secure open-source Android browser with support for extensions",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1844,
-      "forks": 67,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "HyDE-Project / HyDE",
-      "url": "https://github.com/HyDE-Project/HyDE",
-      "description": "HyDE, your Development Environment 🖥️💻",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 9439,
-      "forks": 624,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "community-scripts / ProxmoxVE",
-      "url": "https://github.com/community-scripts/ProxmoxVE",
-      "description": "Proxmox VE Helper-Scripts (Community Edition)",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 29151,
-      "forks": 2803,
-      "added_stars": "8 stars today"
+      "stars": 24286,
+      "forks": 2438,
+      "added_stars": "18 stars today"
     },
     {
       "title": "tracelabs / tlosint-vm",
@@ -90,29 +20,119 @@
       "description": "Trace Labs OSINT VM",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1052,
+      "stars": 1057,
       "forks": 125,
-      "added_stars": "27 stars today"
+      "added_stars": "10 stars today"
     },
     {
-      "title": "ohmyzsh / ohmyzsh",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "title": "alexbelgium / hassio-addons",
+      "url": "https://github.com/alexbelgium/hassio-addons",
+      "description": "My homeassistant addons",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 188959,
-      "forks": 26531,
-      "added_stars": "17 stars today"
+      "stars": 2557,
+      "forks": 324,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "mbadolato / iTerm2-Color-Schemes",
-      "url": "https://github.com/mbadolato/iTerm2-Color-Schemes",
-      "description": "Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
+      "title": "bats-core / bats-core",
+      "url": "https://github.com/bats-core/bats-core",
+      "description": "Bash Automated Testing System",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 27103,
-      "forks": 6519,
-      "added_stars": "6 stars today"
+      "stars": 6192,
+      "forks": 488,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "tw93 / Mole",
+      "url": "https://github.com/tw93/Mole",
+      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 61697,
+      "forks": 2178,
+      "added_stars": "459 stars today"
+    },
+    {
+      "title": "InfinityLoop1308 / PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 5802,
+      "forks": 190,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "ophub / amlogic-s9xxx-armbian",
+      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
+      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9559,
+      "forks": 3073,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "techjarves / termux-hacklab",
+      "url": "https://github.com/techjarves/termux-hacklab",
+      "description": "Turn your Android into a GPU-accelerated Linux hacking lab with one command! XFCE Desktop + Nmap, SQLMap, Hydra, Wine & more. No root required.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 698,
+      "forks": 130,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "eugr / spark-vllm-docker",
+      "url": "https://github.com/eugr/spark-vllm-docker",
+      "description": "Docker configuration for running VLLM on dual DGX Sparks",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1947,
+      "forks": 350,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "fujibee / agmsg",
+      "url": "https://github.com/fujibee/agmsg",
+      "description": "Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1397,
+      "forks": 127,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 265834,
+      "forks": 23772,
+      "added_stars": "617 stars today"
+    },
+    {
+      "title": "themactep / thingino-firmware",
+      "url": "https://github.com/themactep/thingino-firmware",
+      "description": "Open-source firmware for Ingenic SoC IP cameras",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1961,
+      "forks": 280,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "PapirusDevelopmentTeam / papirus-icon-theme",
+      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme",
+      "description": "Pixel perfect icon theme for Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 7968,
+      "forks": 483,
+      "added_stars": "4 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "erlang / otp",
@@ -10,9 +10,9 @@
       "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 12316,
-      "forks": 3209,
-      "added_stars": "178 stars this month"
+      "stars": 12320,
+      "forks": 3250,
+      "added_stars": "183 stars this month"
     },
     {
       "title": "emqx / emqx",
@@ -20,9 +20,9 @@
       "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 16584,
-      "forks": 2541,
-      "added_stars": "145 stars this month"
+      "stars": 16585,
+      "forks": 2542,
+      "added_stars": "148 stars this month"
     },
     {
       "title": "apache / couchdb",
@@ -32,7 +32,7 @@
       "languageColor": "#B83998",
       "stars": 6934,
       "forks": 1077,
-      "added_stars": "26 stars this month"
+      "added_stars": "24 stars this month"
     },
     {
       "title": "blt / port_compiler",
@@ -83,6 +83,16 @@
       "stars": 2312,
       "forks": 160,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "WhatsApp / erlfmt",
+      "url": "https://github.com/WhatsApp/erlfmt",
+      "description": "An automated code formatter for Erlang",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 461,
+      "forks": 66,
+      "added_stars": "4 stars this month"
     }
   ]
 }

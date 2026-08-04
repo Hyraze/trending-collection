@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
       "title": "esengine / DeepSeek-Reasonix",
@@ -10,189 +10,9 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29295,
-      "forks": 1888,
-      "added_stars": "333 stars today"
-    },
-    {
-      "title": "masterking32 / MasterDnsVPN",
-      "url": "https://github.com/masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6873,
-      "forks": 737,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "binwiederhier / ntfy",
-      "url": "https://github.com/binwiederhier/ntfy",
-      "description": "Send push notifications to your phone or desktop using PUT/POST",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 32782,
-      "forks": 1485,
-      "added_stars": "57 stars today"
-    },
-    {
-      "title": "superplanehq / superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "The open source control plane for agentic engineering.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4391,
-      "forks": 436,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "stretchr / testify",
-      "url": "https://github.com/stretchr/testify",
-      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 26147,
-      "forks": 1858,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 956,
-      "forks": 182,
-      "added_stars": "19 stars today"
-    },
-    {
-      "title": "Gentleman-Programming / gentle-ai",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai",
-      "description": "",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5327,
-      "forks": 629,
-      "added_stars": "51 stars today"
-    },
-    {
-      "title": "Solr159 / JavBoss",
-      "url": "https://github.com/Solr159/JavBoss",
-      "description": "开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV/video manager.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 305,
-      "forks": 27,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "pranshuparmar / witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 18521,
-      "forks": 585,
-      "added_stars": "60 stars today"
-    },
-    {
-      "title": "github / gh-stack",
-      "url": "https://github.com/github/gh-stack",
-      "description": "GitHub Stacked PRs",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 923,
-      "forks": 39,
-      "added_stars": "174 stars today"
-    },
-    {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 43321,
-      "forks": 5498,
-      "added_stars": "143 stars today"
-    },
-    {
-      "title": "XTLS / Xray-core",
-      "url": "https://github.com/XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 40835,
-      "forks": 5742,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "kgretzky / evilginx2",
-      "url": "https://github.com/kgretzky/evilginx2",
-      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 15418,
-      "forks": 2689,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "adithyan-ak / AgentHound",
-      "url": "https://github.com/adithyan-ak/AgentHound",
-      "description": "Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 200,
-      "forks": 48,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "sundowndev / phoneinfoga",
-      "url": "https://github.com/sundowndev/phoneinfoga",
-      "description": "Information gathering framework for phone numbers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17260,
-      "forks": 5235,
-      "added_stars": "19 stars today"
-    },
-    {
-      "title": "AlexxIT / go2rtc",
-      "url": "https://github.com/AlexxIT/go2rtc",
-      "description": "Ultimate camera streaming application",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 13701,
-      "forks": 1216,
-      "added_stars": "65 stars today"
-    },
-    {
-      "title": "tailscale / tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 34731,
-      "forks": 2967,
-      "added_stars": "69 stars today"
-    },
-    {
-      "title": "sipeed / picoclaw",
-      "url": "https://github.com/sipeed/picoclaw",
-      "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 29800,
-      "forks": 4378,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "traefik / traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 64249,
-      "forks": 6114,
-      "added_stars": "24 stars today"
+      "stars": 30147,
+      "forks": 1942,
+      "added_stars": "883 stars today"
     },
     {
       "title": "MHSanaei / 3x-ui",
@@ -200,29 +20,199 @@
       "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 44145,
-      "forks": 8495,
-      "added_stars": "69 stars today"
+      "stars": 44196,
+      "forks": 8508,
+      "added_stars": "60 stars today"
     },
     {
-      "title": "1Panel-dev / 1Panel",
-      "url": "https://github.com/1Panel-dev/1Panel",
-      "description": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "The open source control plane for agentic engineering.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 36414,
-      "forks": 3280,
+      "stars": 4459,
+      "forks": 470,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "lharries / whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6056,
+      "forks": 1214,
+      "added_stars": "62 stars today"
+    },
+    {
+      "title": "bettercap / bettercap",
+      "url": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19719,
+      "forks": 1700,
+      "added_stars": "57 stars today"
+    },
+    {
+      "title": "kgretzky / evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15424,
+      "forks": 2690,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "krillinai / KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10637,
+      "forks": 991,
+      "added_stars": "41 stars today"
+    },
+    {
+      "title": "github / gh-stack",
+      "url": "https://github.com/github/gh-stack",
+      "description": "GitHub Stacked PRs",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1004,
+      "forks": 42,
+      "added_stars": "63 stars today"
+    },
+    {
+      "title": "authelia / authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28445,
+      "forks": 1448,
       "added_stars": "14 stars today"
     },
     {
-      "title": "kubescape / kubescape",
-      "url": "https://github.com/kubescape/kubescape",
-      "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+      "title": "AlexxIT / go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11557,
-      "forks": 974,
-      "added_stars": "3 stars today"
+      "stars": 13719,
+      "forks": 1217,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "restic / restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 35336,
+      "forks": 1828,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "chaitin / SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 22248,
+      "forks": 1493,
+      "added_stars": "172 stars today"
+    },
+    {
+      "title": "micro / go-micro",
+      "url": "https://github.com/micro/go-micro",
+      "description": "A Go agent harness and service framework",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 22997,
+      "forks": 2411,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "tailscale / tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 34778,
+      "forks": 3017,
+      "added_stars": "59 stars today"
+    },
+    {
+      "title": "SagerNet / sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 36701,
+      "forks": 4397,
+      "added_stars": "39 stars today"
+    },
+    {
+      "title": "pulumi / pulumi",
+      "url": "https://github.com/pulumi/pulumi",
+      "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 25520,
+      "forks": 1411,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "caddyserver / caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 74628,
+      "forks": 4861,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "gohugoio / hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 89304,
+      "forks": 8321,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "AlistGo / alist",
+      "url": "https://github.com/AlistGo/alist",
+      "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 49994,
+      "forks": 7944,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "danielmiessler / Fabric",
+      "url": "https://github.com/danielmiessler/Fabric",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 43315,
+      "forks": 4222,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "v2fly / v2ray-core",
+      "url": "https://github.com/v2fly/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 34435,
+      "forks": 5081,
+      "added_stars": "8 stars today"
     }
   ]
 }

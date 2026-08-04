@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27324,
-      "forks": 7657,
-      "added_stars": "143 stars this month"
+      "stars": 27327,
+      "forks": 7662,
+      "added_stars": "145 stars this month"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -20,9 +20,19 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1675,
+      "stars": 1676,
       "forks": 227,
-      "added_stars": "61 stars this month"
+      "added_stars": "62 stars this month"
+    },
+    {
+      "title": "OpenMoonRay / openmoonray",
+      "url": "https://github.com/OpenMoonRay/openmoonray",
+      "description": "MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 4713,
+      "forks": 310,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "KIT-MRT / mrt_cmake_modules",
@@ -42,7 +52,7 @@
       "languageColor": "#DA3434",
       "stars": 833,
       "forks": 53,
-      "added_stars": "6 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
       "title": "minecraft-linux / mcpelauncher-manifest",
@@ -50,9 +60,9 @@
       "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1602,
+      "stars": 1603,
       "forks": 127,
-      "added_stars": "37 stars this month"
+      "added_stars": "38 stars this month"
     },
     {
       "title": "KiCad / kicad-footprints",
@@ -62,7 +72,17 @@
       "languageColor": "#DA3434",
       "stars": 688,
       "forks": 699,
-      "added_stars": "5 stars this month"
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "arsenm / sanitizers-cmake",
+      "url": "https://github.com/arsenm/sanitizers-cmake",
+      "description": "CMake modules to help use sanitizers",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 411,
+      "forks": 74,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "leetal / ios-cmake",
@@ -70,7 +90,7 @@
       "description": "A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS & tvOS C/C++/Obj-C++ development",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 2173,
+      "stars": 2174,
       "forks": 463,
       "added_stars": "5 stars this month"
     },
@@ -85,13 +105,23 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "arsenm / sanitizers-cmake",
-      "url": "https://github.com/arsenm/sanitizers-cmake",
-      "description": "CMake modules to help use sanitizers",
+      "title": "steinbergmedia / vst3sdk",
+      "url": "https://github.com/steinbergmedia/vst3sdk",
+      "description": "VST 3 Plug-In SDK",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 411,
-      "forks": 74,
+      "stars": 2309,
+      "forks": 223,
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "ecmwf / ecbuild",
+      "url": "https://github.com/ecmwf/ecbuild",
+      "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 39,
+      "forks": 41,
       "added_stars": "0 stars this month"
     }
   ]

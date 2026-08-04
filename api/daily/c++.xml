@@ -4,11 +4,11 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
   <item>
-    <title>justcallmekoko / ESP32Marauder</title>
-    <link>https://github.com/justcallmekoko/ESP32Marauder</link>
-    <description>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</description>
+    <title>official-stockfish / Stockfish</title>
+    <link>https://github.com/official-stockfish/Stockfish</link>
+    <description>A free and strong UCI chess engine</description>
   </item>
   <item>
     <title>MaaAssistantArknights / MaaAssistantArknights</title>
@@ -16,14 +16,24 @@
     <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
   </item>
   <item>
-    <title>ggml-org / whisper.cpp</title>
-    <link>https://github.com/ggml-org/whisper.cpp</link>
-    <description>Port of OpenAI&#x27;s Whisper model in C/C++</description>
+    <title>jellyfin / jellyfin-desktop</title>
+    <link>https://github.com/jellyfin/jellyfin-desktop</link>
+    <description>Jellyfin Desktop Client</description>
   </item>
   <item>
-    <title>geo-tp / ESP32-Bit-Pirate</title>
-    <link>https://github.com/geo-tp/ESP32-Bit-Pirate</link>
-    <description>A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol</description>
+    <title>doitsujin / dxvk</title>
+    <link>https://github.com/doitsujin/dxvk</link>
+    <description>Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine</description>
+  </item>
+  <item>
+    <title>CleverRaven / Cataclysm-DDA</title>
+    <link>https://github.com/CleverRaven/Cataclysm-DDA</link>
+    <description>Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.</description>
+  </item>
+  <item>
+    <title>78 / xiaozhi-esp32</title>
+    <link>https://github.com/78/xiaozhi-esp32</link>
+    <description>An MCP-based chatbot | 一个基于MCP的聊天机器人</description>
   </item>
   <item>
     <title>ggml-org / llama.cpp</title>
@@ -31,59 +41,39 @@
     <description>LLM inference in C/C++</description>
   </item>
   <item>
-    <title>sz3 / libcimbar</title>
-    <link>https://github.com/sz3/libcimbar</link>
-    <description>Optimized implementation for color-icon-matrix barcodes</description>
-  </item>
-  <item>
-    <title>grpc / grpc</title>
-    <link>https://github.com/grpc/grpc</link>
-    <description>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</description>
-  </item>
-  <item>
-    <title>godotengine / godot</title>
-    <link>https://github.com/godotengine/godot</link>
-    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
-  </item>
-  <item>
-    <title>PrismLauncher / PrismLauncher</title>
-    <link>https://github.com/PrismLauncher/PrismLauncher</link>
-    <description>A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)</description>
-  </item>
-  <item>
-    <title>chriskohlhoff / asio</title>
-    <link>https://github.com/chriskohlhoff/asio</link>
-    <description>Asio C++ Library</description>
-  </item>
-  <item>
-    <title>optiscaler / OptiScaler</title>
-    <link>https://github.com/optiscaler/OptiScaler</link>
-    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
-  </item>
-  <item>
     <title>qbittorrent / qBittorrent</title>
     <link>https://github.com/qbittorrent/qBittorrent</link>
     <description>qBittorrent BitTorrent client</description>
   </item>
   <item>
-    <title>rizinorg / cutter</title>
-    <link>https://github.com/rizinorg/cutter</link>
-    <description>Free and Open Source Reverse Engineering Platform powered by rizin</description>
+    <title>TrinityCore / TrinityCore</title>
+    <link>https://github.com/TrinityCore/TrinityCore</link>
+    <description>TrinityCore Open Source MMO Framework (master = 12.0.7.68887, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)</description>
   </item>
   <item>
-    <title>jrouwe / JoltPhysics</title>
-    <link>https://github.com/jrouwe/JoltPhysics</link>
-    <description>A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.</description>
+    <title>ClickHouse / ClickHouse</title>
+    <link>https://github.com/ClickHouse/ClickHouse</link>
+    <description>ClickHouse® is a real-time analytics database management system</description>
   </item>
   <item>
-    <title>nasa / fprime</title>
-    <link>https://github.com/nasa/fprime</link>
-    <description>F´ - A flight software and embedded systems framework</description>
+    <title>azerothcore / azerothcore-wotlk</title>
+    <link>https://github.com/azerothcore/azerothcore-wotlk</link>
+    <description>Complete Open Source and Modular solution for MMO</description>
   </item>
   <item>
-    <title>lightvector / KataGo</title>
-    <link>https://github.com/lightvector/KataGo</link>
-    <description>GTP engine and self-play learning in Go</description>
+    <title>ValveSoftware / Proton</title>
+    <link>https://github.com/ValveSoftware/Proton</link>
+    <description>Compatibility tool for Steam Play based on Wine and additional components</description>
+  </item>
+  <item>
+    <title>shadps4-emu / shadPS4</title>
+    <link>https://github.com/shadps4-emu/shadPS4</link>
+    <description>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</description>
+  </item>
+  <item>
+    <title>wled / WLED</title>
+    <link>https://github.com/wled/WLED</link>
+    <description>Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!</description>
   </item>
   <item>
     <title>barry-ran / QtScrcpy</title>
@@ -91,14 +81,44 @@
     <description>Android real-time display control software</description>
   </item>
   <item>
-    <title>ArduPilot / ardupilot</title>
-    <link>https://github.com/ArduPilot/ardupilot</link>
-    <description>ArduPlane, ArduCopter, ArduRover, ArduSub source</description>
+    <title>PrismLauncher / PrismLauncher</title>
+    <link>https://github.com/PrismLauncher/PrismLauncher</link>
+    <description>A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)</description>
   </item>
   <item>
-    <title>bitcoin / bitcoin</title>
-    <link>https://github.com/bitcoin/bitcoin</link>
-    <description>Bitcoin Core integration/staging tree</description>
+    <title>OrcaSlicer / OrcaSlicer</title>
+    <link>https://github.com/OrcaSlicer/OrcaSlicer</link>
+    <description>G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)</description>
+  </item>
+  <item>
+    <title>luau-lang / luau</title>
+    <link>https://github.com/luau-lang/luau</link>
+    <description>A small, fast, and embeddable programming language based on Lua with a gradual type system.</description>
+  </item>
+  <item>
+    <title>imputnet / helium</title>
+    <link>https://github.com/imputnet/helium</link>
+    <description>Private, fast, and honest web browser</description>
+  </item>
+  <item>
+    <title>optiscaler / OptiScaler</title>
+    <link>https://github.com/optiscaler/OptiScaler</link>
+    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
+  </item>
+  <item>
+    <title>OpenRCT2 / OpenRCT2</title>
+    <link>https://github.com/OpenRCT2/OpenRCT2</link>
+    <description>An open source re-implementation of RollerCoaster Tycoon 2 🎢</description>
+  </item>
+  <item>
+    <title>stenzek / duckstation</title>
+    <link>https://github.com/stenzek/duckstation</link>
+    <description>Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64</description>
+  </item>
+  <item>
+    <title>ceph / ceph</title>
+    <link>https://github.com/ceph/ceph</link>
+    <description>Ceph is a distributed object, block, and file storage platform</description>
   </item>
 </channel>
 </rss>

@@ -4,7 +4,7 @@
   <title>GitHub Cmake Languages Daily Trending</title>
   <description>Daily Trending of Cmake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>microsoft / vcpkg</title>
     <link>https://github.com/microsoft/vcpkg</link>
@@ -21,11 +21,6 @@
     <description>A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development</description>
   </item>
   <item>
-    <title>flathub / shared-modules</title>
-    <link>https://github.com/flathub/shared-modules</link>
-    <description>Common Flatpak modules that can be used as a git submodule</description>
-  </item>
-  <item>
     <title>KiCad / kicad-footprints</title>
     <link>https://github.com/KiCad/kicad-footprints</link>
     <description>Official KiCad Footprint Libraries for Kicad version 5</description>
@@ -36,14 +31,9 @@
     <description>The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.</description>
   </item>
   <item>
-    <title>corrosion-rs / corrosion</title>
-    <link>https://github.com/corrosion-rs/corrosion</link>
-    <description>Marrying Rust and CMake - Easy Rust and C/C++ Integration!</description>
-  </item>
-  <item>
-    <title>arsenm / sanitizers-cmake</title>
-    <link>https://github.com/arsenm/sanitizers-cmake</link>
-    <description>CMake modules to help use sanitizers</description>
+    <title>KiCad / kicad-symbols</title>
+    <link>https://github.com/KiCad/kicad-symbols</link>
+    <description>Official KiCad schematic symbol libraries for Kicad 5</description>
   </item>
   <item>
     <title>steinbergmedia / vst3sdk</title>
@@ -56,9 +46,19 @@
     <description>ASIO plugin for OBS-Studio</description>
   </item>
   <item>
-    <title>KiCad / kicad-symbols</title>
-    <link>https://github.com/KiCad/kicad-symbols</link>
-    <description>Official KiCad schematic symbol libraries for Kicad 5</description>
+    <title>flathub / shared-modules</title>
+    <link>https://github.com/flathub/shared-modules</link>
+    <description>Common Flatpak modules that can be used as a git submodule</description>
+  </item>
+  <item>
+    <title>arsenm / sanitizers-cmake</title>
+    <link>https://github.com/arsenm/sanitizers-cmake</link>
+    <description>CMake modules to help use sanitizers</description>
+  </item>
+  <item>
+    <title>corrosion-rs / corrosion</title>
+    <link>https://github.com/corrosion-rs/corrosion</link>
+    <description>Marrying Rust and CMake - Easy Rust and C/C++ Integration!</description>
   </item>
   <item>
     <title>ecmwf / ecbuild</title>
@@ -66,14 +66,19 @@
     <description>A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</description>
   </item>
   <item>
-    <title>vector-of-bool / cmrc</title>
-    <link>https://github.com/vector-of-bool/cmrc</link>
-    <description>A Resource Compiler in a Single CMake Script</description>
+    <title>OpenMoonRay / openmoonray</title>
+    <link>https://github.com/OpenMoonRay/openmoonray</link>
+    <description>MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.</description>
   </item>
   <item>
-    <title>autowarefoundation / autoware_msgs</title>
-    <link>https://github.com/autowarefoundation/autoware_msgs</link>
-    <description></description>
+    <title>jrl-umi3218 / jrl-cmakemodules</title>
+    <link>https://github.com/jrl-umi3218/jrl-cmakemodules</link>
+    <description>CMake utility toolbox</description>
+  </item>
+  <item>
+    <title>GEOS-ESM / GEOSgcm</title>
+    <link>https://github.com/GEOS-ESM/GEOSgcm</link>
+    <description>GEOS Earth System Model GEOSgcm Fixture</description>
   </item>
 </channel>
 </rss>

@@ -4,46 +4,11 @@
   <title>GitHub C# Languages Daily Trending</title>
   <description>Daily Trending of C# Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
-  <item>
-    <title>HarbourMasters / Lighthouse</title>
-    <link>https://github.com/HarbourMasters/Lighthouse</link>
-    <description></description>
-  </item>
+  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
   <item>
     <title>antirez / ds4</title>
     <link>https://github.com/antirez/ds4</link>
     <description>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</description>
-  </item>
-  <item>
-    <title>tr4m0ryp / tr4mpass</title>
-    <link>https://github.com/tr4m0ryp/tr4mpass</link>
-    <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
-  </item>
-  <item>
-    <title>meshcore-dev / MeshCore</title>
-    <link>https://github.com/meshcore-dev/MeshCore</link>
-    <description>A new lightweight, hybrid routing mesh protocol for packet radios</description>
-  </item>
-  <item>
-    <title>xiaojieonly / Ehviewer_CN_SXJ</title>
-    <link>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</link>
-    <description>ehviewer，用爱发电，快乐前行</description>
-  </item>
-  <item>
-    <title>nginx / nginx</title>
-    <link>https://github.com/nginx/nginx</link>
-    <description>The official NGINX Open Source repository.</description>
-  </item>
-  <item>
-    <title>erincatto / box3d</title>
-    <link>https://github.com/erincatto/box3d</link>
-    <description>Box3D is a 3D physics engine for games</description>
-  </item>
-  <item>
-    <title>brunodev85 / winlator</title>
-    <link>https://github.com/brunodev85/winlator</link>
-    <description>Android application for running Windows applications with Wine and Box86/Box64</description>
   </item>
   <item>
     <title>obsproject / obs-studio</title>
@@ -51,29 +16,19 @@
     <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
   </item>
   <item>
-    <title>Klipper3d / klipper</title>
-    <link>https://github.com/Klipper3d/klipper</link>
-    <description>Klipper is a 3d-printer firmware</description>
+    <title>HarbourMasters / Lighthouse</title>
+    <link>https://github.com/HarbourMasters/Lighthouse</link>
+    <description></description>
   </item>
   <item>
-    <title>mpv-player / mpv</title>
-    <link>https://github.com/mpv-player/mpv</link>
-    <description>🎥 Command line media player</description>
+    <title>xiaojieonly / Ehviewer_CN_SXJ</title>
+    <link>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</link>
+    <description>ehviewer，用爱发电，快乐前行</description>
   </item>
   <item>
-    <title>TsudaKageyu / minhook</title>
-    <link>https://github.com/TsudaKageyu/minhook</link>
-    <description>The Minimalistic x86/x64 API Hooking Library for Windows</description>
-  </item>
-  <item>
-    <title>libsdl-org / SDL</title>
-    <link>https://github.com/libsdl-org/SDL</link>
-    <description>Simple DirectMedia Layer</description>
-  </item>
-  <item>
-    <title>olikraus / u8g2</title>
-    <link>https://github.com/olikraus/u8g2</link>
-    <description>U8glib library for monochrome displays, version 2</description>
+    <title>meshcore-dev / MeshCore</title>
+    <link>https://github.com/meshcore-dev/MeshCore</link>
+    <description>A new lightweight, hybrid routing mesh protocol for packet radios</description>
   </item>
   <item>
     <title>lcdyk0517 / arkos4clone</title>
@@ -81,14 +36,64 @@
     <description>ArkOS for Unofficial Devices</description>
   </item>
   <item>
-    <title>bmax121 / KernelPatch</title>
-    <link>https://github.com/bmax121/KernelPatch</link>
-    <description>Patching and hooking the Linux kernel with only a stripped Linux kernel image.</description>
+    <title>FalkorDB / FalkorDB</title>
+    <link>https://github.com/FalkorDB/FalkorDB</link>
+    <description>A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).</description>
   </item>
   <item>
-    <title>SanderMertens / flecs</title>
-    <link>https://github.com/SanderMertens/flecs</link>
-    <description>A fast entity component system (ECS) for C &amp; C++</description>
+    <title>mgba-emu / mgba</title>
+    <link>https://github.com/mgba-emu/mgba</link>
+    <description>mGBA Game Boy Advance Emulator</description>
+  </item>
+  <item>
+    <title>flipperdevices / flipperzero-firmware</title>
+    <link>https://github.com/flipperdevices/flipperzero-firmware</link>
+    <description>Flipper Zero firmware source code</description>
+  </item>
+  <item>
+    <title>nothings / stb</title>
+    <link>https://github.com/nothings/stb</link>
+    <description>stb single-file public domain libraries for C/C++</description>
+  </item>
+  <item>
+    <title>karpathy / llama2.c</title>
+    <link>https://github.com/karpathy/llama2.c</link>
+    <description>Inference Llama 2 in one file of pure C</description>
+  </item>
+  <item>
+    <title>HandBrake / HandBrake</title>
+    <link>https://github.com/HandBrake/HandBrake</link>
+    <description>HandBrake&#x27;s development repository</description>
+  </item>
+  <item>
+    <title>immortalwrt / immortalwrt</title>
+    <link>https://github.com/immortalwrt/immortalwrt</link>
+    <description>An opensource OpenWrt variant for mainland China users.</description>
+  </item>
+  <item>
+    <title>olikraus / u8g2</title>
+    <link>https://github.com/olikraus/u8g2</link>
+    <description>U8glib library for monochrome displays, version 2</description>
+  </item>
+  <item>
+    <title>darktable-org / darktable</title>
+    <link>https://github.com/darktable-org/darktable</link>
+    <description>darktable is an open source photography workflow application and raw developer</description>
+  </item>
+  <item>
+    <title>mit-pdos / xv6-riscv</title>
+    <link>https://github.com/mit-pdos/xv6-riscv</link>
+    <description>Xv6 for RISC-V</description>
+  </item>
+  <item>
+    <title>micropython / micropython</title>
+    <link>https://github.com/micropython/micropython</link>
+    <description>MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems</description>
+  </item>
+  <item>
+    <title>systemd / systemd</title>
+    <link>https://github.com/systemd/systemd</link>
+    <description>The systemd System and Service Manager</description>
   </item>
 </channel>
 </rss>

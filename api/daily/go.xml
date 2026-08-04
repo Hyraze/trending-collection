@@ -4,101 +4,11 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
   <item>
     <title>esengine / DeepSeek-Reasonix</title>
     <link>https://github.com/esengine/DeepSeek-Reasonix</link>
     <description>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
-  </item>
-  <item>
-    <title>masterking32 / MasterDnsVPN</title>
-    <link>https://github.com/masterking32/MasterDnsVPN</link>
-    <description>Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.</description>
-  </item>
-  <item>
-    <title>binwiederhier / ntfy</title>
-    <link>https://github.com/binwiederhier/ntfy</link>
-    <description>Send push notifications to your phone or desktop using PUT/POST</description>
-  </item>
-  <item>
-    <title>superplanehq / superplane</title>
-    <link>https://github.com/superplanehq/superplane</link>
-    <description>The open source control plane for agentic engineering.</description>
-  </item>
-  <item>
-    <title>stretchr / testify</title>
-    <link>https://github.com/stretchr/testify</link>
-    <description>A toolkit with common assertions and mocks that plays nicely with the standard library</description>
-  </item>
-  <item>
-    <title>agent-substrate / substrate</title>
-    <link>https://github.com/agent-substrate/substrate</link>
-    <description>Agent Substrate: the core system</description>
-  </item>
-  <item>
-    <title>Gentleman-Programming / gentle-ai</title>
-    <link>https://github.com/Gentleman-Programming/gentle-ai</link>
-    <description></description>
-  </item>
-  <item>
-    <title>Solr159 / JavBoss</title>
-    <link>https://github.com/Solr159/JavBoss</link>
-    <description>开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV/video manager.</description>
-  </item>
-  <item>
-    <title>pranshuparmar / witr</title>
-    <link>https://github.com/pranshuparmar/witr</link>
-    <description>Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.</description>
-  </item>
-  <item>
-    <title>github / gh-stack</title>
-    <link>https://github.com/github/gh-stack</link>
-    <description>GitHub Stacked PRs</description>
-  </item>
-  <item>
-    <title>multica-ai / multica</title>
-    <link>https://github.com/multica-ai/multica</link>
-    <description>The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.</description>
-  </item>
-  <item>
-    <title>XTLS / Xray-core</title>
-    <link>https://github.com/XTLS/Xray-core</link>
-    <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
-  </item>
-  <item>
-    <title>kgretzky / evilginx2</title>
-    <link>https://github.com/kgretzky/evilginx2</link>
-    <description>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</description>
-  </item>
-  <item>
-    <title>adithyan-ak / AgentHound</title>
-    <link>https://github.com/adithyan-ak/AgentHound</link>
-    <description>Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack.</description>
-  </item>
-  <item>
-    <title>sundowndev / phoneinfoga</title>
-    <link>https://github.com/sundowndev/phoneinfoga</link>
-    <description>Information gathering framework for phone numbers</description>
-  </item>
-  <item>
-    <title>AlexxIT / go2rtc</title>
-    <link>https://github.com/AlexxIT/go2rtc</link>
-    <description>Ultimate camera streaming application</description>
-  </item>
-  <item>
-    <title>tailscale / tailscale</title>
-    <link>https://github.com/tailscale/tailscale</link>
-    <description>The easiest, most secure way to use WireGuard and 2FA.</description>
-  </item>
-  <item>
-    <title>sipeed / picoclaw</title>
-    <link>https://github.com/sipeed/picoclaw</link>
-    <description>Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity</description>
-  </item>
-  <item>
-    <title>traefik / traefik</title>
-    <link>https://github.com/traefik/traefik</link>
-    <description>The Cloud Native Application Proxy</description>
   </item>
   <item>
     <title>MHSanaei / 3x-ui</title>
@@ -106,14 +16,99 @@
     <description>Xray panel supporting multi-protocol multi-user expire day &amp; traffic &amp; IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)</description>
   </item>
   <item>
-    <title>1Panel-dev / 1Panel</title>
-    <link>https://github.com/1Panel-dev/1Panel</link>
-    <description>🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.</description>
+    <title>superplanehq / superplane</title>
+    <link>https://github.com/superplanehq/superplane</link>
+    <description>The open source control plane for agentic engineering.</description>
   </item>
   <item>
-    <title>kubescape / kubescape</title>
-    <link>https://github.com/kubescape/kubescape</link>
-    <description>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.</description>
+    <title>lharries / whatsapp-mcp</title>
+    <link>https://github.com/lharries/whatsapp-mcp</link>
+    <description>WhatsApp MCP server</description>
+  </item>
+  <item>
+    <title>bettercap / bettercap</title>
+    <link>https://github.com/bettercap/bettercap</link>
+    <description>The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.</description>
+  </item>
+  <item>
+    <title>kgretzky / evilginx2</title>
+    <link>https://github.com/kgretzky/evilginx2</link>
+    <description>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</description>
+  </item>
+  <item>
+    <title>krillinai / KrillinAI</title>
+    <link>https://github.com/krillinai/KrillinAI</link>
+    <description>AI video translation &amp; dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube</description>
+  </item>
+  <item>
+    <title>github / gh-stack</title>
+    <link>https://github.com/github/gh-stack</link>
+    <description>GitHub Stacked PRs</description>
+  </item>
+  <item>
+    <title>authelia / authelia</title>
+    <link>https://github.com/authelia/authelia</link>
+    <description>The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™</description>
+  </item>
+  <item>
+    <title>AlexxIT / go2rtc</title>
+    <link>https://github.com/AlexxIT/go2rtc</link>
+    <description>Ultimate camera streaming application</description>
+  </item>
+  <item>
+    <title>restic / restic</title>
+    <link>https://github.com/restic/restic</link>
+    <description>Fast, secure, efficient backup program</description>
+  </item>
+  <item>
+    <title>chaitin / SafeLine</title>
+    <link>https://github.com/chaitin/SafeLine</link>
+    <description>SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</description>
+  </item>
+  <item>
+    <title>micro / go-micro</title>
+    <link>https://github.com/micro/go-micro</link>
+    <description>A Go agent harness and service framework</description>
+  </item>
+  <item>
+    <title>tailscale / tailscale</title>
+    <link>https://github.com/tailscale/tailscale</link>
+    <description>The easiest, most secure way to use WireGuard and 2FA.</description>
+  </item>
+  <item>
+    <title>SagerNet / sing-box</title>
+    <link>https://github.com/SagerNet/sing-box</link>
+    <description>The universal proxy platform</description>
+  </item>
+  <item>
+    <title>pulumi / pulumi</title>
+    <link>https://github.com/pulumi/pulumi</link>
+    <description>Pulumi - Infrastructure as Code in any programming language 🚀</description>
+  </item>
+  <item>
+    <title>caddyserver / caddy</title>
+    <link>https://github.com/caddyserver/caddy</link>
+    <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
+  </item>
+  <item>
+    <title>gohugoio / hugo</title>
+    <link>https://github.com/gohugoio/hugo</link>
+    <description>The world’s fastest framework for building websites.</description>
+  </item>
+  <item>
+    <title>AlistGo / alist</title>
+    <link>https://github.com/AlistGo/alist</link>
+    <description>🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。</description>
+  </item>
+  <item>
+    <title>danielmiessler / Fabric</title>
+    <link>https://github.com/danielmiessler/Fabric</link>
+    <description>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</description>
+  </item>
+  <item>
+    <title>v2fly / v2ray-core</title>
+    <link>https://github.com/v2fly/v2ray-core</link>
+    <description>A platform for building proxies to bypass network restrictions.</description>
   </item>
 </channel>
 </rss>

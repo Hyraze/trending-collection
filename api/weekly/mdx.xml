@@ -4,16 +4,11 @@
   <title>GitHub Mdx Languages Daily Trending</title>
   <description>Daily Trending of Mdx Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
-    <title>cloudflare / cloudflare-docs</title>
-    <link>https://github.com/cloudflare/cloudflare-docs</link>
-    <description>Cloudflare’s documentation</description>
-  </item>
-  <item>
-    <title>dair-ai / Prompt-Engineering-Guide</title>
-    <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
-    <description>🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.</description>
+    <title>twbs / bootstrap</title>
+    <link>https://github.com/twbs/bootstrap</link>
+    <description>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</description>
   </item>
   <item>
     <title>huggingface / agents-course</title>
@@ -21,14 +16,19 @@
     <description>This repository contains the Hugging Face Agents Course.</description>
   </item>
   <item>
-    <title>twbs / bootstrap</title>
-    <link>https://github.com/twbs/bootstrap</link>
-    <description>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</description>
-  </item>
-  <item>
     <title>solana-foundation / solana-com</title>
     <link>https://github.com/solana-foundation/solana-com</link>
     <description>The solana.com website.</description>
+  </item>
+  <item>
+    <title>langfuse / langfuse-docs</title>
+    <link>https://github.com/langfuse/langfuse-docs</link>
+    <description>🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps</description>
+  </item>
+  <item>
+    <title>cloudflare / cloudflare-docs</title>
+    <link>https://github.com/cloudflare/cloudflare-docs</link>
+    <description>Cloudflare’s documentation</description>
   </item>
   <item>
     <title>hashicorp / web-unified-docs</title>
@@ -41,49 +41,9 @@
     <description>Unified LangChain documentation.</description>
   </item>
   <item>
-    <title>langfuse / langfuse-docs</title>
-    <link>https://github.com/langfuse/langfuse-docs</link>
-    <description>🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps</description>
-  </item>
-  <item>
-    <title>huggingface / course</title>
-    <link>https://github.com/huggingface/course</link>
-    <description>The Hugging Face course on Transformers</description>
-  </item>
-  <item>
-    <title>npm / documentation</title>
-    <link>https://github.com/npm/documentation</link>
-    <description>Documentation for the npm registry, website, and command-line interface.</description>
-  </item>
-  <item>
-    <title>detekt / detekt</title>
-    <link>https://github.com/detekt/detekt</link>
-    <description>Static code analysis for Kotlin</description>
-  </item>
-  <item>
-    <title>microsoft / aspire.dev</title>
-    <link>https://github.com/microsoft/aspire.dev</link>
-    <description>The official website for all things aspire.dev.</description>
-  </item>
-  <item>
-    <title>tauri-apps / tauri-docs</title>
-    <link>https://github.com/tauri-apps/tauri-docs</link>
-    <description>The source for all Tauri project documentation.</description>
-  </item>
-  <item>
-    <title>jellyfin / jellyfin.org</title>
-    <link>https://github.com/jellyfin/jellyfin.org</link>
-    <description>Jellyfin Project website, blog, and user documentation</description>
-  </item>
-  <item>
-    <title>PaloAltoNetworks / pan.dev</title>
-    <link>https://github.com/PaloAltoNetworks/pan.dev</link>
-    <description>Palo Alto Networks for Developers</description>
-  </item>
-  <item>
-    <title>all-contributors / allcontributors.org</title>
-    <link>https://github.com/all-contributors/allcontributors.org</link>
-    <description>✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨</description>
+    <title>dair-ai / Prompt-Engineering-Guide</title>
+    <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+    <description>🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.</description>
   </item>
   <item>
     <title>withastro / docs</title>
@@ -91,9 +51,44 @@
     <description>Astro documentation</description>
   </item>
   <item>
+    <title>newrelic / docs-website</title>
+    <link>https://github.com/newrelic/docs-website</link>
+    <description>Source code for @newrelic docs. We welcome pull requests and questions on our docs!</description>
+  </item>
+  <item>
+    <title>react / react-native-website</title>
+    <link>https://github.com/react/react-native-website</link>
+    <description>The React Native website and docs</description>
+  </item>
+  <item>
+    <title>huggingface / course</title>
+    <link>https://github.com/huggingface/course</link>
+    <description>The Hugging Face course on Transformers</description>
+  </item>
+  <item>
+    <title>detekt / detekt</title>
+    <link>https://github.com/detekt/detekt</link>
+    <description>Static code analysis for Kotlin</description>
+  </item>
+  <item>
     <title>discord / discord-api-docs</title>
     <link>https://github.com/discord/discord-api-docs</link>
     <description>Official Discord Developer Docs</description>
+  </item>
+  <item>
+    <title>microsoft / aspire.dev</title>
+    <link>https://github.com/microsoft/aspire.dev</link>
+    <description>The official website for all things aspire.dev.</description>
+  </item>
+  <item>
+    <title>enactic / openarm</title>
+    <link>https://github.com/enactic/openarm</link>
+    <description>A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.</description>
+  </item>
+  <item>
+    <title>npm / documentation</title>
+    <link>https://github.com/npm/documentation</link>
+    <description>Documentation for the npm registry, website, and command-line interface.</description>
   </item>
   <item>
     <title>esphome / esphome.io</title>
@@ -101,9 +96,14 @@
     <description>Source for esphome.io documentation files.</description>
   </item>
   <item>
-    <title>newrelic / docs-website</title>
-    <link>https://github.com/newrelic/docs-website</link>
-    <description>Source code for @newrelic docs. We welcome pull requests and questions on our docs!</description>
+    <title>freeCodeCamp / contribute</title>
+    <link>https://github.com/freeCodeCamp/contribute</link>
+    <description>Begin your contribution journey here.</description>
+  </item>
+  <item>
+    <title>all-contributors / allcontributors.org</title>
+    <link>https://github.com/all-contributors/allcontributors.org</link>
+    <description>✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨</description>
   </item>
 </channel>
 </rss>

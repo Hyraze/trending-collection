@@ -2,27 +2,27 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
-    {
-      "title": "microsoft / AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 59572,
-      "forks": 11694,
-      "added_stars": "2,629 stars today"
-    },
     {
       "title": "lyogavin / airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 25899,
-      "forks": 2898,
-      "added_stars": "819 stars today"
+      "stars": 27421,
+      "forks": 2991,
+      "added_stars": "1,085 stars today"
+    },
+    {
+      "title": "microsoft / AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 61023,
+      "forks": 11868,
+      "added_stars": "1,902 stars today"
     },
     {
       "title": "microsoft / generative-ai-for-beginners",
@@ -30,9 +30,9 @@
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 114977,
-      "forks": 61327,
-      "added_stars": "588 stars today"
+      "stars": 115742,
+      "forks": 61462,
+      "added_stars": "775 stars today"
     },
     {
       "title": "DataExpert-io / data-engineer-handbook",
@@ -40,89 +40,9 @@
       "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 42768,
-      "forks": 8171,
-      "added_stars": "64 stars today"
-    },
-    {
-      "title": "Infrasys-AI / AISystem",
-      "url": "https://github.com/Infrasys-AI/AISystem",
-      "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 17442,
-      "forks": 2447,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "AI4Finance-Foundation / FinRL",
-      "url": "https://github.com/AI4Finance-Foundation/FinRL",
-      "description": "FinRL®: Financial Reinforcement Learning. 🔥",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 15898,
-      "forks": 3449,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "ed-donner / llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "description": "Repo to accompany my mastering LLM engineering course",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 6923,
-      "forks": 6761,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "mrdbourke / zero-to-mastery-ml",
-      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
-      "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 6602,
-      "forks": 4166,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "microsoft / ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "description": "18 Lessons to Get Started Building AI Agents",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 71022,
-      "forks": 23536,
-      "added_stars": "85 stars today"
-    },
-    {
-      "title": "microsoft / ML-For-Beginners",
-      "url": "https://github.com/microsoft/ML-For-Beginners",
-      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 88919,
-      "forks": 21770,
-      "added_stars": "51 stars today"
-    },
-    {
-      "title": "pathwaycom / llm-app",
-      "url": "https://github.com/pathwaycom/llm-app",
-      "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 59094,
-      "forks": 1463,
-      "added_stars": "160 stars today"
-    },
-    {
-      "title": "jackfrued / Python-100-Days",
-      "url": "https://github.com/jackfrued/Python-100-Days",
-      "description": "Python - 100天从新手到大师",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 184806,
-      "forks": 55687,
-      "added_stars": "24 stars today"
+      "stars": 42917,
+      "forks": 8475,
+      "added_stars": "133 stars today"
     },
     {
       "title": "ed-donner / agents",
@@ -130,9 +50,109 @@
       "description": "Repo for the Complete Agentic AI Engineering Course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 5841,
-      "forks": 4971,
-      "added_stars": "10 stars today"
+      "stars": 5852,
+      "forks": 4979,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "jakevdp / PythonDataScienceHandbook",
+      "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+      "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 49513,
+      "forks": 19089,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "microsoft / ML-For-Beginners",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 88970,
+      "forks": 21795,
+      "added_stars": "59 stars today"
+    },
+    {
+      "title": "pathwaycom / llm-app",
+      "url": "https://github.com/pathwaycom/llm-app",
+      "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 59142,
+      "forks": 1464,
+      "added_stars": "83 stars today"
+    },
+    {
+      "title": "mrdbourke / zero-to-mastery-ml",
+      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 6619,
+      "forks": 4169,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "fastai / fastbook",
+      "url": "https://github.com/fastai/fastbook",
+      "description": "The fastai book, published as Jupyter Notebooks",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 25173,
+      "forks": 9480,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "langchain-ai / rag-from-scratch",
+      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 9025,
+      "forks": 2145,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "AI4Finance-Foundation / FinRL",
+      "url": "https://github.com/AI4Finance-Foundation/FinRL",
+      "description": "FinRL®: Financial Reinforcement Learning. 🔥",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 15913,
+      "forks": 3452,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "karpathy / nn-zero-to-hero",
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 23847,
+      "forks": 3498,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "udlbook / udlbook",
+      "url": "https://github.com/udlbook/udlbook",
+      "description": "Understanding Deep Learning - Simon J.D. Prince",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 9701,
+      "forks": 2282,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "AI4Finance-Foundation / FinGPT",
+      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "description": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 21018,
+      "forks": 2982,
+      "added_stars": "11 stars today"
     }
   ]
 }

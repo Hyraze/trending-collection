@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepSeek-LLM",
@@ -10,9 +10,9 @@
       "description": "DeepSeek LLM: Let there be answers",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 7182,
-      "forks": 1235,
-      "added_stars": "210 stars this month"
+      "stars": 7194,
+      "forks": 1264,
+      "added_stars": "223 stars this month"
     },
     {
       "title": "mindsdb / mindshub",
@@ -20,9 +20,9 @@
       "description": "Make AI do actual work. Swap the model anytime — keep everything you've built.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 39515,
+      "stars": 39517,
       "forks": 6227,
-      "added_stars": "195 stars this month"
+      "added_stars": "196 stars this month"
     },
     {
       "title": "openwrt / packages",
@@ -30,9 +30,19 @@
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4568,
-      "forks": 3931,
-      "added_stars": "43 stars this month"
+      "stars": 4569,
+      "forks": 3932,
+      "added_stars": "42 stars this month"
+    },
+    {
+      "title": "awesome-selfhosted / awesome-selfhosted-data",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
+      "description": "machine-readable data for https://awesome-selfhosted.net",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1086,
+      "forks": 1225,
+      "added_stars": "56 stars this month"
     },
     {
       "title": "HaveAGitGat / Tdarr",
@@ -40,19 +50,9 @@
       "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4254,
+      "stars": 4255,
       "forks": 120,
-      "added_stars": "71 stars this month"
-    },
-    {
-      "title": "foostan / crkbd",
-      "url": "https://github.com/foostan/crkbd",
-      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 7574,
-      "forks": 1098,
-      "added_stars": "78 stars this month"
+      "added_stars": "75 stars this month"
     },
     {
       "title": "ROCKNIX / distribution",
@@ -60,9 +60,9 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1462,
-      "forks": 322,
-      "added_stars": "78 stars this month"
+      "stars": 1465,
+      "forks": 323,
+      "added_stars": "80 stars this month"
     },
     {
       "title": "golang-standards / project-layout",
@@ -70,9 +70,29 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 56377,
-      "forks": 5429,
-      "added_stars": "214 stars this month"
+      "stars": 56393,
+      "forks": 5430,
+      "added_stars": "220 stars this month"
+    },
+    {
+      "title": "foostan / crkbd",
+      "url": "https://github.com/foostan/crkbd",
+      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7578,
+      "forks": 1098,
+      "added_stars": "79 stars this month"
+    },
+    {
+      "title": "LibreELEC / LibreELEC.tv",
+      "url": "https://github.com/LibreELEC/LibreELEC.tv",
+      "description": "Just enough OS for KODI",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 2792,
+      "forks": 1193,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "open-telemetry / opentelemetry-proto",
@@ -90,8 +110,8 @@
       "description": "FreeBSD ports tree (read-only mirror)",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1192,
-      "forks": 864,
+      "stars": 1193,
+      "forks": 863,
       "added_stars": "13 stars this month"
     },
     {
@@ -100,9 +120,9 @@
       "description": "Automatic conversion of the NetBSD pkgsrc CVS module, use with care",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 395,
-      "forks": 182,
-      "added_stars": "4 stars this month"
+      "stars": 396,
+      "forks": 183,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "geneontology / go-ontology",
@@ -112,17 +132,7 @@
       "languageColor": "#427819",
       "stars": 249,
       "forks": 47,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "awesome-selfhosted / awesome-selfhosted-data",
-      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
-      "description": "machine-readable data for https://awesome-selfhosted.net",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1085,
-      "forks": 1223,
-      "added_stars": "55 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
       "title": "Ysurac / openmptcprouter",
@@ -130,9 +140,9 @@
       "description": "OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 2445,
+      "stars": 2447,
       "forks": 348,
-      "added_stars": "22 stars this month"
+      "added_stars": "25 stars this month"
     },
     {
       "title": "open-telemetry / opentelemetry-specification",
@@ -140,39 +150,9 @@
       "description": "Specifications for OpenTelemetry",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4298,
+      "stars": 4300,
       "forks": 992,
-      "added_stars": "33 stars this month"
-    },
-    {
-      "title": "LibreELEC / LibreELEC.tv",
-      "url": "https://github.com/LibreELEC/LibreELEC.tv",
-      "description": "Just enough OS for KODI",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 2791,
-      "forks": 1192,
-      "added_stars": "19 stars this month"
-    },
-    {
-      "title": "cncf / people",
-      "url": "https://github.com/cncf/people",
-      "description": "Stores the data that will populate the various people listings on cncf.io",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 173,
-      "forks": 642,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "jobbole / awesome-python-cn",
-      "url": "https://github.com/jobbole/awesome-python-cn",
-      "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 30525,
-      "forks": 7945,
-      "added_stars": "94 stars this month"
+      "added_stars": "34 stars this month"
     },
     {
       "title": "PartialVolume / shredos.x86_64",
@@ -182,17 +162,7 @@
       "languageColor": "#427819",
       "stars": 3098,
       "forks": 138,
-      "added_stars": "44 stars this month"
-    },
-    {
-      "title": "WerWolv / Tesla-Menu",
-      "url": "https://github.com/WerWolv/Tesla-Menu",
-      "description": "The Nintendo Switch overlay menu",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1123,
-      "forks": 51,
-      "added_stars": "7 stars this month"
+      "added_stars": "41 stars this month"
     }
   ]
 }

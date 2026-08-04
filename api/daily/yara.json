@@ -2,18 +2,8 @@
   "title": "GitHub Yara Languages Daily Trending",
   "description": "Daily Trending of Yara Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
-    {
-      "title": "chainguard-dev / malcontent",
-      "url": "https://github.com/chainguard-dev/malcontent",
-      "description": "#supply #chain #attack #detection",
-      "language": "YARA",
-      "languageColor": "#220000",
-      "stars": 671,
-      "forks": 63,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "sophoslabs / IoCs",
       "url": "https://github.com/sophoslabs/IoCs",
@@ -25,14 +15,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "magicsword-io / LOLDrivers",
-      "url": "https://github.com/magicsword-io/LOLDrivers",
-      "description": "Living Off The Land Drivers",
+      "title": "chainguard-dev / malcontent",
+      "url": "https://github.com/chainguard-dev/malcontent",
+      "description": "#supply #chain #attack #detection",
       "language": "YARA",
       "languageColor": "#220000",
-      "stars": 1721,
-      "forks": 219,
+      "stars": 671,
+      "forks": 63,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "Neo23x0 / signature-base",
+      "url": "https://github.com/Neo23x0/signature-base",
+      "description": "YARA signature and IOC database for my scanners and tools",
+      "language": "YARA",
+      "languageColor": "#220000",
+      "stars": 2998,
+      "forks": 673,
+      "added_stars": "1 star today"
     }
   ]
 }

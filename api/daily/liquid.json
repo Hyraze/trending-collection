@@ -2,8 +2,18 @@
   "title": "GitHub Liquid Languages Daily Trending",
   "description": "Daily Trending of Liquid Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
+    {
+      "title": "Shopify / dawn",
+      "url": "https://github.com/Shopify/dawn",
+      "description": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",
+      "language": "Liquid",
+      "languageColor": "#67b8de",
+      "stars": 3046,
+      "forks": 4414,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "Shopify / skeleton-theme",
       "url": "https://github.com/Shopify/skeleton-theme",
@@ -11,17 +21,7 @@
       "language": "Liquid",
       "languageColor": "#67b8de",
       "stars": 773,
-      "forks": 504,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Shopify / Timber",
-      "url": "https://github.com/Shopify/Timber",
-      "description": "The ultimate Shopify theme framework, built by Shopify.",
-      "language": "Liquid",
-      "languageColor": "#67b8de",
-      "stars": 1185,
-      "forks": 519,
+      "forks": 505,
       "added_stars": "0 stars today"
     },
     {
@@ -31,17 +31,7 @@
       "language": "Liquid",
       "languageColor": "#67b8de",
       "stars": 428,
-      "forks": 327,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Shopify / shopify-css-import",
-      "url": "https://github.com/Shopify/shopify-css-import",
-      "description": "Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js",
-      "language": "Liquid",
-      "languageColor": "#67b8de",
-      "stars": 86,
-      "forks": 19,
+      "forks": 328,
       "added_stars": "0 stars today"
     }
   ]

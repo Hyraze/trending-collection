@@ -4,7 +4,12 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <item>
+    <title>microsoft / onnxruntime</title>
+    <link>https://github.com/microsoft/onnxruntime</link>
+    <description>ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</description>
+  </item>
   <item>
     <title>geo-tp / ESP32-Bit-Pirate</title>
     <link>https://github.com/geo-tp/ESP32-Bit-Pirate</link>
@@ -16,14 +21,9 @@
     <description>Amnezia VPN Client (Desktop+Mobile)</description>
   </item>
   <item>
-    <title>cifertech / ESP32-DIV</title>
-    <link>https://github.com/cifertech/ESP32-DIV</link>
-    <description>ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32</description>
-  </item>
-  <item>
-    <title>electron / electron</title>
-    <link>https://github.com/electron/electron</link>
-    <description>Build cross-platform desktop apps with JavaScript, HTML, and CSS</description>
+    <title>MaaAssistantArknights / MaaAssistantArknights</title>
+    <link>https://github.com/MaaAssistantArknights/MaaAssistantArknights</link>
+    <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
   </item>
   <item>
     <title>microsoft / microsoft-ui-xaml</title>
@@ -31,14 +31,9 @@
     <description>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</description>
   </item>
   <item>
-    <title>microsoft / onnxruntime</title>
-    <link>https://github.com/microsoft/onnxruntime</link>
-    <description>ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</description>
-  </item>
-  <item>
-    <title>godotengine / godot</title>
-    <link>https://github.com/godotengine/godot</link>
-    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
+    <title>wazuh / wazuh</title>
+    <link>https://github.com/wazuh/wazuh</link>
+    <description>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</description>
   </item>
   <item>
     <title>ggml-org / llama.cpp</title>
@@ -46,9 +41,9 @@
     <description>LLM inference in C/C++</description>
   </item>
   <item>
-    <title>google-ai-edge / mediapipe</title>
-    <link>https://github.com/google-ai-edge/mediapipe</link>
-    <description>Cross-platform, customizable ML solutions for live and streaming media.</description>
+    <title>cifertech / ESP32-DIV</title>
+    <link>https://github.com/cifertech/ESP32-DIV</link>
+    <description>ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32</description>
   </item>
   <item>
     <title>protocolbuffers / protobuf</title>
@@ -56,24 +51,24 @@
     <description>Protocol Buffers - Google&#x27;s data interchange format</description>
   </item>
   <item>
-    <title>tensorflow / tensorflow</title>
-    <link>https://github.com/tensorflow/tensorflow</link>
-    <description>An Open Source Machine Learning Framework for Everyone</description>
+    <title>godotengine / godot</title>
+    <link>https://github.com/godotengine/godot</link>
+    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
   </item>
   <item>
-    <title>meshtastic / firmware</title>
-    <link>https://github.com/meshtastic/firmware</link>
-    <description>The official firmware for Meshtastic, an open-source, off-grid mesh communication system.</description>
+    <title>aria2 / aria2</title>
+    <link>https://github.com/aria2/aria2</link>
+    <description>aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.</description>
   </item>
   <item>
-    <title>PX4 / PX4-Autopilot</title>
-    <link>https://github.com/PX4/PX4-Autopilot</link>
-    <description>PX4 Autopilot Software</description>
+    <title>electron / electron</title>
+    <link>https://github.com/electron/electron</link>
+    <description>Build cross-platform desktop apps with JavaScript, HTML, and CSS</description>
   </item>
   <item>
-    <title>wazuh / wazuh</title>
-    <link>https://github.com/wazuh/wazuh</link>
-    <description>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</description>
+    <title>google-ai-edge / mediapipe</title>
+    <link>https://github.com/google-ai-edge/mediapipe</link>
+    <description>Cross-platform, customizable ML solutions for live and streaming media.</description>
   </item>
   <item>
     <title>prusa3d / PrusaSlicer</title>
@@ -81,9 +76,9 @@
     <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
   </item>
   <item>
-    <title>google / re2</title>
-    <link>https://github.com/google/re2</link>
-    <description>RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.</description>
+    <title>lightvector / KataGo</title>
+    <link>https://github.com/lightvector/KataGo</link>
+    <description>GTP engine and self-play learning in Go</description>
   </item>
   <item>
     <title>WinMerge / winmerge</title>
@@ -91,29 +86,34 @@
     <description>WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.</description>
   </item>
   <item>
-    <title>esphome / esphome</title>
-    <link>https://github.com/esphome/esphome</link>
-    <description>ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.</description>
+    <title>tensorflow / tensorflow</title>
+    <link>https://github.com/tensorflow/tensorflow</link>
+    <description>An Open Source Machine Learning Framework for Everyone</description>
   </item>
   <item>
-    <title>microsoft / foundry-local</title>
-    <link>https://github.com/microsoft/foundry-local</link>
-    <description></description>
+    <title>ClickHouse / ClickHouse</title>
+    <link>https://github.com/ClickHouse/ClickHouse</link>
+    <description>ClickHouse® is a real-time analytics database management system</description>
   </item>
   <item>
-    <title>lightvector / KataGo</title>
-    <link>https://github.com/lightvector/KataGo</link>
-    <description>GTP engine and self-play learning in Go</description>
+    <title>brave / brave-core</title>
+    <link>https://github.com/brave/brave-core</link>
+    <description>Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues</description>
   </item>
   <item>
-    <title>hyprwm / Hyprland</title>
-    <link>https://github.com/hyprwm/Hyprland</link>
-    <description>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#x27;t sacrifice on its looks.</description>
+    <title>FreeCAD / FreeCAD</title>
+    <link>https://github.com/FreeCAD/FreeCAD</link>
+    <description>Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</description>
   </item>
   <item>
-    <title>kvcache-ai / Mooncake</title>
-    <link>https://github.com/kvcache-ai/Mooncake</link>
-    <description>Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.</description>
+    <title>ValveSoftware / Proton</title>
+    <link>https://github.com/ValveSoftware/Proton</link>
+    <description>Compatibility tool for Steam Play based on Wine and additional components</description>
+  </item>
+  <item>
+    <title>BruceDevices / firmware</title>
+    <link>https://github.com/BruceDevices/firmware</link>
+    <description>Predatory ESP32 Firmware</description>
   </item>
 </channel>
 </rss>

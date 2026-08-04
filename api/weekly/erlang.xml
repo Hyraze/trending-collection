@@ -4,12 +4,7 @@
   <title>GitHub Erlang Languages Daily Trending</title>
   <description>Daily Trending of Erlang Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
-  <item>
-    <title>erlang / otp</title>
-    <link>https://github.com/erlang/otp</link>
-    <description>Erlang/OTP</description>
-  </item>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>emqx / emqx</title>
     <link>https://github.com/emqx/emqx</link>
@@ -26,9 +21,24 @@
     <description>An automated code formatter for Erlang</description>
   </item>
   <item>
+    <title>erlang / otp</title>
+    <link>https://github.com/erlang/otp</link>
+    <description>Erlang/OTP</description>
+  </item>
+  <item>
     <title>ninenines / cowboy</title>
     <link>https://github.com/ninenines/cowboy</link>
     <description>Small, fast, modern HTTP server for Erlang/OTP.</description>
+  </item>
+  <item>
+    <title>ninenines / ranch</title>
+    <link>https://github.com/ninenines/ranch</link>
+    <description>Socket acceptor pool for TCP protocols.</description>
+  </item>
+  <item>
+    <title>erlang / rebar3</title>
+    <link>https://github.com/erlang/rebar3</link>
+    <description>Erlang build tool that makes it easy to compile and test Erlang applications and releases.</description>
   </item>
   <item>
     <title>erlang-lager / lager</title>
@@ -36,9 +46,9 @@
     <description>A logging framework for Erlang/OTP</description>
   </item>
   <item>
-    <title>apache / couchdb</title>
-    <link>https://github.com/apache/couchdb</link>
-    <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
+    <title>talentdeficit / jsx</title>
+    <link>https://github.com/talentdeficit/jsx</link>
+    <description>an erlang application for consuming, producing and manipulating json. inspired by yajl</description>
   </item>
   <item>
     <title>proper-testing / proper</title>
@@ -46,9 +56,19 @@
     <description>PropEr: a QuickCheck-inspired property-based testing tool for Erlang</description>
   </item>
   <item>
-    <title>erlang / rebar3</title>
-    <link>https://github.com/erlang/rebar3</link>
-    <description>Erlang build tool that makes it easy to compile and test Erlang applications and releases.</description>
+    <title>apache / couchdb</title>
+    <link>https://github.com/apache/couchdb</link>
+    <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
+  </item>
+  <item>
+    <title>ninenines / gun</title>
+    <link>https://github.com/ninenines/gun</link>
+    <description>HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</description>
+  </item>
+  <item>
+    <title>potatosalad / erlang-jose</title>
+    <link>https://github.com/potatosalad/erlang-jose</link>
+    <description>JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</description>
   </item>
   <item>
     <title>ninenines / cowlib</title>

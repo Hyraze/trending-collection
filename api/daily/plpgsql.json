@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
       "title": "pgmq / pgmq",
@@ -10,39 +10,9 @@
       "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 5053,
-      "forks": 140,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "postgis / postgis",
-      "url": "https://github.com/postgis/postgis",
-      "description": "PostGIS spatial database extension to PostgreSQL [mirror]",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 2191,
-      "forks": 432,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "sbdchd / squawk",
-      "url": "https://github.com/sbdchd/squawk",
-      "description": "🐘 Linter for Postgres migrations & SQL",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 1146,
-      "forks": 68,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "Snowflake-Labs / modern-data-engineering-snowflake",
-      "url": "https://github.com/Snowflake-Labs/modern-data-engineering-snowflake",
-      "description": "Companion repository that goes along with Snowflake's \"Introduction to Modern Data Engineering with Snowflake\" course on Coursera",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 190,
-      "forks": 261,
-      "added_stars": "0 stars today"
+      "stars": 5058,
+      "forks": 141,
+      "added_stars": "4 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Haxe Languages Daily Trending",
   "description": "Daily Trending of Haxe Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
       "title": "CodenameCrew / CodenameEngine",
@@ -11,8 +11,18 @@
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": 461,
-      "forks": 347,
-      "added_stars": "1 star today"
+      "forks": 349,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "HaxeFoundation / haxe",
+      "url": "https://github.com/HaxeFoundation/haxe",
+      "description": "Haxe - The Cross-Platform Toolkit",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 6903,
+      "forks": 704,
+      "added_stars": "0 stars today"
     },
     {
       "title": "Psych-Slice / P-Slice",
@@ -25,6 +35,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "FunkinCrew / Funkin",
+      "url": "https://github.com/FunkinCrew/Funkin",
+      "description": "A rhythm game made with HaxeFlixel",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 3698,
+      "forks": 2534,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "beihu235 / Psych-Engine-0.71h-android",
       "url": "https://github.com/beihu235/Psych-Engine-0.71h-android",
       "description": "",
@@ -33,36 +53,6 @@
       "stars": 21,
       "forks": 37,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "FunkinCrew / Funkin",
-      "url": "https://github.com/FunkinCrew/Funkin",
-      "description": "A rhythm game made with HaxeFlixel",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 3696,
-      "forks": 2533,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Snirozu / Funkin-Psych-Online",
-      "url": "https://github.com/Snirozu/Funkin-Psych-Online",
-      "description": "Friday Night Funkin' Mod that utilizes Online Features",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 99,
-      "forks": 84,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "deepnight / ldtk",
-      "url": "https://github.com/deepnight/ldtk",
-      "description": "Modern, lightweight and efficient 2D level editor",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 4139,
-      "forks": 262,
-      "added_stars": "2 stars today"
     }
   ]
 }

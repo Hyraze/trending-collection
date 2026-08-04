@@ -2,17 +2,57 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
-      "title": "NomaDamas / k-skill",
-      "url": "https://github.com/NomaDamas/k-skill",
-      "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+      "title": "louislam / uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6929,
-      "forks": 812,
-      "added_stars": "177 stars today"
+      "stars": 89784,
+      "forks": 8200,
+      "added_stars": "51 stars today"
+    },
+    {
+      "title": "4ian / GDevelop",
+      "url": "https://github.com/4ian/GDevelop",
+      "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 25335,
+      "forks": 1485,
+      "added_stars": "34 stars today"
+    },
+    {
+      "title": "NodeBB / NodeBB",
+      "url": "https://github.com/NodeBB/NodeBB",
+      "description": "Node.js based forum software built for the modern web",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 15176,
+      "forks": 2988,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "jellyfin / jellyfin-web",
+      "url": "https://github.com/jellyfin/jellyfin-web",
+      "description": "The Free Software Media System - Official Web Client",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 3752,
+      "forks": 2138,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Acode-Foundation / Acode",
+      "url": "https://github.com/Acode-Foundation/Acode",
+      "description": "Acode - powerful text/code editor for android",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 6342,
+      "forks": 1376,
+      "added_stars": "25 stars today"
     },
     {
       "title": "pdone / lx-music-source",
@@ -20,19 +60,9 @@
       "description": "洛雪音乐源",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 7570,
-      "forks": 625,
-      "added_stars": "35 stars today"
-    },
-    {
-      "title": "sveltejs / svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 87808,
-      "forks": 5127,
-      "added_stars": "12 stars today"
+      "stars": 7598,
+      "forks": 632,
+      "added_stars": "48 stars today"
     },
     {
       "title": "SillyTavern / SillyTavern",
@@ -40,69 +70,69 @@
       "description": "LLM Frontend for Power Users.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 31553,
-      "forks": 5948,
-      "added_stars": "54 stars today"
+      "stars": 31615,
+      "forks": 5950,
+      "added_stars": "70 stars today"
     },
     {
-      "title": "openai / codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "title": "nodejs / node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 31016,
-      "forks": 2052,
-      "added_stars": "137 stars today"
+      "stars": 118703,
+      "forks": 36324,
+      "added_stars": "87 stars today"
     },
     {
-      "title": "decolua / 9router",
-      "url": "https://github.com/decolua/9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "title": "NomaDamas / k-skill",
+      "url": "https://github.com/NomaDamas/k-skill",
+      "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 24497,
-      "forks": 4242,
-      "added_stars": "147 stars today"
+      "stars": 6990,
+      "forks": 818,
+      "added_stars": "133 stars today"
     },
     {
-      "title": "tradesdontlie / tradingview-mcp",
-      "url": "https://github.com/tradesdontlie/tradingview-mcp",
-      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "title": "is-a-dev / register",
+      "url": "https://github.com/is-a-dev/register",
+      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5430,
-      "forks": 2363,
-      "added_stars": "25 stars today"
+      "stars": 10894,
+      "forks": 26062,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "huangxd- / danmu_api",
-      "url": "https://github.com/huangxd-/danmu_api",
-      "description": "一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/hf等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。",
+      "title": "validatorjs / validator.js",
+      "url": "https://github.com/validatorjs/validator.js",
+      "description": "String validation",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 2881,
-      "forks": 2762,
-      "added_stars": "9 stars today"
+      "stars": 23738,
+      "forks": 2481,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "LiberatedPixelCup / Universal-LPC-Spritesheet-Character-Generator",
-      "url": "https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator",
-      "description": "Character Generator based on Universal-LPC-Spritesheet",
+      "title": "Axorax / awesome-free-apps",
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1544,
-      "forks": 546,
-      "added_stars": "13 stars today"
+      "stars": 7172,
+      "forks": 411,
+      "added_stars": "31 stars today"
     },
     {
-      "title": "tangyoha / telegram_media_downloader",
-      "url": "https://github.com/tangyoha/telegram_media_downloader",
-      "description": "基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file",
+      "title": "techjarves / Uncensored-Local-Studio",
+      "url": "https://github.com/techjarves/Uncensored-Local-Studio",
+      "description": "Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5443,
-      "forks": 629,
-      "added_stars": "8 stars today"
+      "stars": 797,
+      "forks": 214,
+      "added_stars": "6 stars today"
     }
   ]
 }

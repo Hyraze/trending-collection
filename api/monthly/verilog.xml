@@ -4,7 +4,7 @@
   <title>GitHub Verilog Languages Daily Trending</title>
   <description>Daily Trending of Verilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
   <item>
     <title>The-OpenROAD-Project / OpenROAD</title>
     <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
@@ -21,14 +21,14 @@
     <description></description>
   </item>
   <item>
-    <title>OpenPOWERFoundation / a2o</title>
-    <link>https://github.com/OpenPOWERFoundation/a2o</link>
-    <description>The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue. It is now being updated for compliancy and integration into open projects.</description>
-  </item>
-  <item>
     <title>The-OpenROAD-Project / OpenROAD-flow-scripts</title>
     <link>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</link>
     <description>OpenROAD&#x27;s scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/</description>
+  </item>
+  <item>
+    <title>vortexgpgpu / vortex</title>
+    <link>https://github.com/vortexgpgpu/vortex</link>
+    <description></description>
   </item>
   <item>
     <title>EttusResearch / uhd</title>
@@ -36,9 +36,9 @@
     <description>The USRP™ Hardware Driver Repository</description>
   </item>
   <item>
-    <title>vortexgpgpu / vortex</title>
-    <link>https://github.com/vortexgpgpu/vortex</link>
-    <description></description>
+    <title>OpenPOWERFoundation / a2o</title>
+    <link>https://github.com/OpenPOWERFoundation/a2o</link>
+    <description>The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue. It is now being updated for compliancy and integration into open projects.</description>
   </item>
   <item>
     <title>The-OpenROAD-Project / OpenSTA</title>

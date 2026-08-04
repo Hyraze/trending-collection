@@ -2,137 +2,47 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
-    {
-      "title": "2dust / v2rayNG",
-      "url": "https://github.com/2dust/v2rayNG",
-      "description": "A V2Ray client for Android, support Xray core and v2fly core",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 60514,
-      "forks": 7870,
-      "added_stars": "64 stars today"
-    },
     {
       "title": "embabel / embabel-agent",
       "url": "https://github.com/embabel/embabel-agent",
       "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3875,
-      "forks": 387,
-      "added_stars": "14 stars today"
+      "stars": 3916,
+      "forks": 388,
+      "added_stars": "33 stars today"
     },
     {
-      "title": "thejaustin / ShizukuPlus",
-      "url": "https://github.com/thejaustin/ShizukuPlus",
-      "description": "[ HOBBY PROJECT ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [WIP - Development slowed due to new job]",
+      "title": "rukamori / ArchiveTune",
+      "url": "https://github.com/rukamori/ArchiveTune",
+      "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 592,
-      "forks": 38,
-      "added_stars": "14 stars today"
+      "stars": 4162,
+      "forks": 175,
+      "added_stars": "33 stars today"
     },
     {
-      "title": "aniyomiorg / aniyomi",
-      "url": "https://github.com/aniyomiorg/aniyomi",
-      "description": "An app for manga and anime",
+      "title": "recloudstream / cloudstream",
+      "url": "https://github.com/recloudstream/cloudstream",
+      "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7572,
-      "forks": 620,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "bmax121 / APatch",
-      "url": "https://github.com/bmax121/APatch",
-      "description": "The patching of Android kernel and Android system",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 7742,
-      "forks": 745,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "MatsuriDayo / NekoBoxForAndroid",
-      "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
-      "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 22129,
-      "forks": 1784,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "rikkahub / rikkahub",
-      "url": "https://github.com/rikkahub/rikkahub",
-      "description": "RikkaHub is an Android APP that supports for multiple LLM providers.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 6577,
-      "forks": 519,
-      "added_stars": "32 stars today"
-    },
-    {
-      "title": "tyron12233 / CodeAssist",
-      "url": "https://github.com/tyron12233/CodeAssist",
-      "description": "An IDE for building Android applicatons on Android.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 1593,
-      "forks": 374,
+      "stars": 10338,
+      "forks": 986,
       "added_stars": "10 stars today"
     },
     {
-      "title": "nextcloud / android",
-      "url": "https://github.com/nextcloud/android",
-      "description": "📱 Nextcloud Android app",
+      "title": "2dust / v2rayNG",
+      "url": "https://github.com/2dust/v2rayNG",
+      "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5488,
-      "forks": 1997,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "breezy-weather / breezy-weather",
-      "url": "https://github.com/breezy-weather/breezy-weather",
-      "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 10903,
-      "forks": 381,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "vivizzz007 / vivi-music",
-      "url": "https://github.com/vivizzz007/vivi-music",
-      "description": "Vivi-Music is an expressive Material 3–based YouTube Music client for Android.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 1470,
-      "forks": 81,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "tailscale / tailscale-android",
-      "url": "https://github.com/tailscale/tailscale-android",
-      "description": "Tailscale Android Client",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 2361,
-      "forks": 693,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "sfsakhawat999 / mpvRex",
-      "url": "https://github.com/sfsakhawat999/mpvRex",
-      "description": "A modern Android video player powered by libmpv, built with Jetpack Compose.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 455,
-      "forks": 27,
-      "added_stars": "34 stars today"
+      "stars": 60573,
+      "forks": 7877,
+      "added_stars": "70 stars today"
     },
     {
       "title": "andreknieriem / open-headunit",
@@ -140,9 +50,29 @@
       "description": "Headunit App for displaying Android Auto",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2037,
+      "stars": 2053,
       "forks": 163,
-      "added_stars": "33 stars today"
+      "added_stars": "32 stars today"
+    },
+    {
+      "title": "Fate-Grand-Automata / FGA",
+      "url": "https://github.com/Fate-Grand-Automata/FGA",
+      "description": "Auto-battle app for F/GO Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 2281,
+      "forks": 349,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "Dev4Mod / WaEnhancer",
+      "url": "https://github.com/Dev4Mod/WaEnhancer",
+      "description": "WhatsApp tools for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 1604,
+      "forks": 213,
+      "added_stars": "2 stars today"
     },
     {
       "title": "mihonapp / mihon",
@@ -150,49 +80,119 @@
       "description": "Free and open source manga reader for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 22483,
-      "forks": 1374,
-      "added_stars": "38 stars today"
+      "stars": 22517,
+      "forks": 1376,
+      "added_stars": "48 stars today"
     },
     {
-      "title": "GrapheneOS / Camera",
-      "url": "https://github.com/GrapheneOS/Camera",
-      "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
+      "title": "jellyfin / jellyfin-android",
+      "url": "https://github.com/jellyfin/jellyfin-android",
+      "description": "Android Client for Jellyfin",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1338,
-      "forks": 135,
-      "added_stars": "7 stars today"
+      "stars": 2667,
+      "forks": 494,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "HapeLee / legado-with-MD3",
-      "url": "https://github.com/HapeLee/legado-with-MD3",
-      "description": "使用 Material Design 3 全新设计的阅读 3.0",
+      "title": "Luoyacheng / legado-E",
+      "url": "https://github.com/Luoyacheng/legado-E",
+      "description": "阅读Sigma是legado的继承，保持开源免费，延续开源精神。",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5451,
-      "forks": 608,
-      "added_stars": "29 stars today"
+      "stars": 2259,
+      "forks": 506,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "mobile-dev-inc / Maestro",
-      "url": "https://github.com/mobile-dev-inc/Maestro",
-      "description": "Painless E2E Automation for Mobile and Web",
+      "title": "JingMatrix / Vector",
+      "url": "https://github.com/JingMatrix/Vector",
+      "description": "Modern Xposed Framework",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 15194,
-      "forks": 909,
-      "added_stars": "18 stars today"
+      "stars": 11961,
+      "forks": 802,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "Aliothmoon / MAA-Meow",
-      "url": "https://github.com/Aliothmoon/MAA-Meow",
-      "description": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+      "title": "sfsakhawat999 / mpvRex",
+      "url": "https://github.com/sfsakhawat999/mpvRex",
+      "description": "A modern Android video player powered by libmpv, built with Jetpack Compose.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1190,
-      "forks": 54,
-      "added_stars": "14 stars today"
+      "stars": 473,
+      "forks": 27,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "topjohnwu / Magisk",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "description": "The Magic Mask for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 62024,
+      "forks": 18171,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "videolan / vlc-android",
+      "url": "https://github.com/videolan/vlc-android",
+      "description": "VLC for Android, Android TV and ChromeOS",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 3911,
+      "forks": 823,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "aistra0528 / Hail",
+      "url": "https://github.com/aistra0528/Hail",
+      "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 6346,
+      "forks": 229,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "jay3-yy / BiliPai",
+      "url": "https://github.com/jay3-yy/BiliPai",
+      "description": "原生、纯净、可扩展 —— 重新定义你的 B 站体验",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 4073,
+      "forks": 374,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "gkd-kit / gkd",
+      "url": "https://github.com/gkd-kit/gkd",
+      "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 40639,
+      "forks": 1925,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "AAswordman / Operit",
+      "url": "https://github.com/AAswordman/Operit",
+      "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 6491,
+      "forks": 524,
+      "added_stars": "54 stars today"
+    },
+    {
+      "title": "thejaustin / ShizukuPlus",
+      "url": "https://github.com/thejaustin/ShizukuPlus",
+      "description": "[ HOBBY PROJECT ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [WIP - Development slowed due to new job]",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 599,
+      "forks": 39,
+      "added_stars": "17 stars today"
     }
   ]
 }

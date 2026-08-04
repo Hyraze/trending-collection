@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "plausible / analytics",
@@ -10,9 +10,9 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 28315,
-      "forks": 1766,
-      "added_stars": "306 stars this week"
+      "stars": 28331,
+      "forks": 1770,
+      "added_stars": "272 stars this week"
     },
     {
       "title": "elixir-lang / elixir",
@@ -20,29 +20,9 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26591,
-      "forks": 3619,
-      "added_stars": "37 stars this week"
-    },
-    {
-      "title": "firezone / firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 8982,
-      "forks": 439,
-      "added_stars": "70 stars this week"
-    },
-    {
-      "title": "phoenixframework / phoenix",
-      "url": "https://github.com/phoenixframework/phoenix",
-      "description": "Peace of mind from prototype to production",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 23103,
-      "forks": 3084,
-      "added_stars": "18 stars this week"
+      "stars": 26594,
+      "forks": 3659,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "openai / symphony",
@@ -50,9 +30,19 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26383,
-      "forks": 2672,
-      "added_stars": "149 stars this week"
+      "stars": 26415,
+      "forks": 2674,
+      "added_stars": "152 stars this week"
+    },
+    {
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 23106,
+      "forks": 3084,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "supabase / realtime",
@@ -60,9 +50,29 @@
       "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 7609,
+      "stars": 7612,
       "forks": 454,
-      "added_stars": "4 stars this week"
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 8805,
+      "forks": 994,
+      "added_stars": "26 stars this week"
+    },
+    {
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 8985,
+      "forks": 440,
+      "added_stars": "66 stars this week"
     },
     {
       "title": "open-telemetry / opentelemetry-erlang-contrib",
@@ -75,6 +85,26 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4627,
+      "forks": 3130,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "supabase / supavisor",
+      "url": "https://github.com/supabase/supavisor",
+      "description": "A cloud-native, multi-tenant Postgres connection pooler.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 2247,
+      "forks": 114,
+      "added_stars": "5 stars this week"
+    },
+    {
       "title": "OffchainLabs / blockscout",
       "url": "https://github.com/OffchainLabs/blockscout",
       "description": "",
@@ -83,36 +113,6 @@
       "stars": 58,
       "forks": 24,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "blockscout / blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 4626,
-      "forks": 3130,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 8800,
-      "forks": 995,
-      "added_stars": "25 stars this week"
-    },
-    {
-      "title": "supabase / supavisor",
-      "url": "https://github.com/supabase/supavisor",
-      "description": "A cloud-native, multi-tenant Postgres connection pooler.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 2246,
-      "forks": 113,
-      "added_stars": "5 stars this week"
     },
     {
       "title": "duffelhq / paginator",
@@ -135,16 +135,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "expert-lsp / expert",
-      "url": "https://github.com/expert-lsp/expert",
-      "description": "Official Elixir Language Server Protocol implementation",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 2029,
-      "forks": 108,
-      "added_stars": "5 stars this week"
-    },
-    {
       "title": "sequinstream / sequin",
       "url": "https://github.com/sequinstream/sequin",
       "description": "Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more",
@@ -155,14 +145,14 @@
       "added_stars": "6 stars this week"
     },
     {
-      "title": "hexpm / hex",
-      "url": "https://github.com/hexpm/hex",
-      "description": "Package manager for the Erlang ecosystem.",
+      "title": "expert-lsp / expert",
+      "url": "https://github.com/expert-lsp/expert",
+      "description": "Official Elixir Language Server Protocol implementation",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1084,
-      "forks": 207,
-      "added_stars": "0 stars this week"
+      "stars": 2029,
+      "forks": 108,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "Phineas / lanyard",
@@ -170,8 +160,8 @@
       "description": "🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1441,
-      "forks": 188,
+      "stars": 1443,
+      "forks": 189,
       "added_stars": "7 stars this week"
     },
     {
@@ -180,28 +170,18 @@
       "description": "Rich, real-time user experiences with server-rendered HTML",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 6809,
-      "forks": 1051,
-      "added_stars": "6 stars this week"
+      "stars": 6811,
+      "forks": 1050,
+      "added_stars": "5 stars this week"
     },
     {
-      "title": "trento-project / web",
-      "url": "https://github.com/trento-project/web",
-      "description": "The companion web app for SUSE Linux Enterprise Server for SAP Applications",
+      "title": "hexpm / hex",
+      "url": "https://github.com/hexpm/hex",
+      "description": "Package manager for the Erlang ecosystem.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 37,
-      "forks": 20,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "Spectral-Finance / lux",
-      "url": "https://github.com/Spectral-Finance/lux",
-      "description": "Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly autonomous organizations.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 130,
-      "forks": 130,
+      "stars": 1084,
+      "forks": 207,
       "added_stars": "0 stars this week"
     }
   ]

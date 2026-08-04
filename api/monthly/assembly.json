@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "chrislgarry / Apollo-11",
@@ -10,9 +10,9 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 71786,
-      "forks": 7955,
-      "added_stars": "3,668 stars this month"
+      "stars": 71821,
+      "forks": 7958,
+      "added_stars": "3,684 stars this month"
     },
     {
       "title": "ROCm / rocm-libraries",
@@ -20,9 +20,9 @@
       "description": "super repo for rocm libraries",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 393,
-      "forks": 355,
-      "added_stars": "24 stars this month"
+      "stars": 397,
+      "forks": 356,
+      "added_stars": "26 stars this month"
     },
     {
       "title": "pret / pokered",
@@ -30,9 +30,9 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4849,
+      "stars": 4850,
       "forks": 1273,
-      "added_stars": "68 stars this month"
+      "added_stars": "69 stars this month"
     },
     {
       "title": "openhwgroup / cva6",
@@ -40,9 +40,19 @@
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3052,
-      "forks": 991,
-      "added_stars": "65 stars this month"
+      "stars": 3054,
+      "forks": 992,
+      "added_stars": "64 stars this month"
+    },
+    {
+      "title": "Rangi42 / polishedcrystal",
+      "url": "https://github.com/Rangi42/polishedcrystal",
+      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1596,
+      "forks": 327,
+      "added_stars": "44 stars this month"
     },
     {
       "title": "apple / swift-crypto",
@@ -55,16 +65,6 @@
       "added_stars": "11 stars this month"
     },
     {
-      "title": "apple / swift-nio-ssl",
-      "url": "https://github.com/apple/swift-nio-ssl",
-      "description": "TLS Support for SwiftNIO, based on BoringSSL.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 432,
-      "forks": 169,
-      "added_stars": "5 stars this month"
-    },
-    {
       "title": "JSsixtyfour / smashremix",
       "url": "https://github.com/JSsixtyfour/smashremix",
       "description": "",
@@ -75,14 +75,14 @@
       "added_stars": "10 stars this month"
     },
     {
-      "title": "Rangi42 / polishedcrystal",
-      "url": "https://github.com/Rangi42/polishedcrystal",
-      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+      "title": "apple / swift-nio-ssl",
+      "url": "https://github.com/apple/swift-nio-ssl",
+      "description": "TLS Support for SwiftNIO, based on BoringSSL.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1593,
-      "forks": 328,
-      "added_stars": "43 stars this month"
+      "stars": 432,
+      "forks": 169,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "aws / aws-lc",
@@ -100,29 +100,9 @@
       "description": "Disassembly of Pokémon Crystal",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2482,
+      "stars": 2484,
       "forks": 963,
-      "added_stars": "29 stars this month"
-    },
-    {
-      "title": "cirosantilli / x86-bare-metal-examples",
-      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
-      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 5329,
-      "forks": 427,
-      "added_stars": "25 stars this month"
-    },
-    {
-      "title": "riscv / riscv-arch-test",
-      "url": "https://github.com/riscv/riscv-arch-test",
-      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 762,
-      "forks": 342,
-      "added_stars": "29 stars this month"
+      "added_stars": "30 stars this month"
     },
     {
       "title": "espressif / esp-dl",
@@ -135,14 +115,24 @@
       "added_stars": "30 stars this month"
     },
     {
+      "title": "cirosantilli / x86-bare-metal-examples",
+      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
+      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 5329,
+      "forks": 427,
+      "added_stars": "25 stars this month"
+    },
+    {
       "title": "leachim6 / hello-world",
       "url": "https://github.com/leachim6/hello-world",
       "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 11906,
+      "stars": 11907,
       "forks": 2111,
-      "added_stars": "39 stars this month"
+      "added_stars": "36 stars this month"
     },
     {
       "title": "livekit / rust-sdks",
@@ -150,9 +140,19 @@
       "description": "LiveKit realtime and server SDKs for Rust",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 474,
+      "stars": 473,
       "forks": 207,
-      "added_stars": "14 stars this month"
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "riscv / riscv-arch-test",
+      "url": "https://github.com/riscv/riscv-arch-test",
+      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 762,
+      "forks": 343,
+      "added_stars": "30 stars this month"
     },
     {
       "title": "SheerSt / pokewilds",
@@ -165,14 +165,14 @@
       "added_stars": "15 stars this month"
     },
     {
-      "title": "ebitengine / purego",
-      "url": "https://github.com/ebitengine/purego",
-      "description": "A library for calling C functions from Go without Cgo",
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3759,
-      "forks": 119,
-      "added_stars": "70 stars this month"
+      "stars": 18598,
+      "forks": 2087,
+      "added_stars": "126 stars this month"
     },
     {
       "title": "bitdump / BLHeli",
@@ -183,6 +183,16 @@
       "stars": 2224,
       "forks": 1145,
       "added_stars": "12 stars this month"
+    },
+    {
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3759,
+      "forks": 119,
+      "added_stars": "69 stars this month"
     }
   ]
 }

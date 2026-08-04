@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "satijalab / seurat",
@@ -10,7 +10,7 @@
       "description": "R toolkit for single cell genomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 2782,
+      "stars": 2783,
       "forks": 994,
       "added_stars": "25 stars this month"
     },
@@ -20,7 +20,7 @@
       "description": "dplyr: A grammar of data manipulation",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5051,
+      "stars": 5054,
       "forks": 2125,
       "added_stars": "18 stars this month"
     },
@@ -35,16 +35,6 @@
       "added_stars": "28 stars this month"
     },
     {
-      "title": "swirldev / swirl_courses",
-      "url": "https://github.com/swirldev/swirl_courses",
-      "description": "🎓 A collection of interactive courses for the swirl R package.",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 4574,
-      "forks": 7200,
-      "added_stars": "11 stars this month"
-    },
-    {
       "title": "Rdatatable / data.table",
       "url": "https://github.com/Rdatatable/data.table",
       "description": "R's data.table package extends data.frame:",
@@ -52,7 +42,17 @@
       "languageColor": "#198CE7",
       "stars": 3905,
       "forks": 1049,
-      "added_stars": "12 stars this month"
+      "added_stars": "11 stars this month"
+    },
+    {
+      "title": "swirldev / swirl_courses",
+      "url": "https://github.com/swirldev/swirl_courses",
+      "description": "🎓 A collection of interactive courses for the swirl R package.",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 4573,
+      "forks": 7200,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "jinworks / CellChat",
@@ -60,9 +60,9 @@
       "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 641,
+      "stars": 643,
       "forks": 109,
-      "added_stars": "12 stars this month"
+      "added_stars": "13 stars this month"
     },
     {
       "title": "rdpeng / ProgrammingAssignment2",
@@ -82,7 +82,7 @@
       "languageColor": "#198CE7",
       "stars": 5674,
       "forks": 1889,
-      "added_stars": "18 stars this month"
+      "added_stars": "17 stars this month"
     },
     {
       "title": "hadley / r4ds",
@@ -90,9 +90,9 @@
       "description": "R for data science: a book",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5122,
+      "stars": 5127,
       "forks": 4434,
-      "added_stars": "50 stars this month"
+      "added_stars": "54 stars this month"
     },
     {
       "title": "sqjin / CellChat",

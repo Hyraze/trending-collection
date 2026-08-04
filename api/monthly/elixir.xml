@@ -4,7 +4,7 @@
   <title>GitHub Elixir Languages Daily Trending</title>
   <description>Daily Trending of Elixir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
   <item>
     <title>elixir-lang / elixir</title>
     <link>https://github.com/elixir-lang/elixir</link>
@@ -51,6 +51,11 @@
     <description>Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.</description>
   </item>
   <item>
+    <title>openai / symphony</title>
+    <link>https://github.com/openai/symphony</link>
+    <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
+  </item>
+  <item>
     <title>supabase / realtime</title>
     <link>https://github.com/supabase/realtime</link>
     <description>Broadcast, Presence, and Postgres Changes via WebSockets</description>
@@ -59,21 +64,6 @@
     <title>open-telemetry / opentelemetry-erlang-contrib</title>
     <link>https://github.com/open-telemetry/opentelemetry-erlang-contrib</link>
     <description>OpenTelemetry instrumentation for Erlang &amp; Elixir</description>
-  </item>
-  <item>
-    <title>beyond-all-reason / teiserver</title>
-    <link>https://github.com/beyond-all-reason/teiserver</link>
-    <description>Middleware server for online gaming</description>
-  </item>
-  <item>
-    <title>expert-lsp / expert</title>
-    <link>https://github.com/expert-lsp/expert</link>
-    <description>Official Elixir Language Server Protocol implementation</description>
-  </item>
-  <item>
-    <title>openai / symphony</title>
-    <link>https://github.com/openai/symphony</link>
-    <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
   </item>
 </channel>
 </rss>

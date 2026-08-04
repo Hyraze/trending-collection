@@ -2,28 +2,8 @@
   "title": "GitHub Glsl Languages Daily Trending",
   "description": "Daily Trending of Glsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
-    {
-      "title": "vanillagreencom / vstack",
-      "url": "https://github.com/vanillagreencom/vstack",
-      "description": "Skills, agents, hooks. Cross-harness. With a side of Pi.",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 51,
-      "forks": 20,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "sixthsurge / photon",
-      "url": "https://github.com/sixthsurge/photon",
-      "description": "A gameplay-focused shader pack for Minecraft",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 1852,
-      "forks": 310,
-      "added_stars": "11 stars this week"
-    },
     {
       "title": "bambosan / mirai",
       "url": "https://github.com/bambosan/mirai",
@@ -31,18 +11,38 @@
       "language": "GLSL",
       "languageColor": "#5686a5",
       "stars": 50,
-      "forks": 8,
-      "added_stars": "2 stars this week"
+      "forks": 9,
+      "added_stars": "1 star this week"
     },
     {
-      "title": "KhronosGroup / SPIRV-Cross",
-      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
-      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
+      "title": "X0nk / Bliss-Shader",
+      "url": "https://github.com/X0nk/Bliss-Shader",
+      "description": "A minecraft shader which is an edit of chocapic v9",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 2477,
-      "forks": 695,
-      "added_stars": "5 stars this week"
+      "stars": 994,
+      "forks": 131,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "vanillagreencom / vstack",
+      "url": "https://github.com/vanillagreencom/vstack",
+      "description": "Skills, agents, hooks. Cross-harness. With a side of Pi.",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": 52,
+      "forks": 20,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "sixthsurge / photon",
+      "url": "https://github.com/sixthsurge/photon",
+      "description": "A gameplay-focused shader pack for Minecraft",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": 1855,
+      "forks": 311,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "cizia64 / CrossMix-OS",
@@ -51,18 +51,8 @@
       "language": "GLSL",
       "languageColor": "#5686a5",
       "stars": 971,
-      "forks": 91,
+      "forks": 92,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "X0nk / Bliss-Shader",
-      "url": "https://github.com/X0nk/Bliss-Shader",
-      "description": "A minecraft shader which is an edit of chocapic v9",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 993,
-      "forks": 131,
-      "added_stars": "4 stars this week"
     },
     {
       "title": "HaringPro / Revelation",
@@ -72,7 +62,7 @@
       "languageColor": "#5686a5",
       "stars": 605,
       "forks": 35,
-      "added_stars": "7 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "libretro / glsl-shaders",
@@ -82,7 +72,7 @@
       "languageColor": "#5686a5",
       "stars": 1216,
       "forks": 248,
-      "added_stars": "7 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "SaschaWillems / Vulkan",
@@ -90,9 +80,9 @@
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 12084,
+      "stars": 12086,
       "forks": 2225,
-      "added_stars": "10 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "0xhckr / ghostty-shaders",
@@ -100,9 +90,19 @@
       "description": "A repository containing many free shaders to use with ghostty (the terminal)",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 1460,
+      "stars": 1462,
       "forks": 96,
-      "added_stars": "11 stars this week"
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "KhronosGroup / SPIRV-Cross",
+      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
+      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": 2478,
+      "forks": 696,
+      "added_stars": "5 stars this week"
     }
   ]
 }

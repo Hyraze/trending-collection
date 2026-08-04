@@ -4,46 +4,11 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
   <item>
-    <title>neovim / neovim</title>
-    <link>https://github.com/neovim/neovim</link>
-    <description>Vim-fork focused on extensibility and usability</description>
-  </item>
-  <item>
-    <title>vim / vim</title>
-    <link>https://github.com/vim/vim</link>
-    <description>The official Vim repository</description>
-  </item>
-  <item>
-    <title>andymass / vim-matchup</title>
-    <link>https://github.com/andymass/vim-matchup</link>
-    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
-  </item>
-  <item>
-    <title>tpope / vim-sensible</title>
-    <link>https://github.com/tpope/vim-sensible</link>
-    <description>sensible.vim: Defaults everyone can agree on</description>
-  </item>
-  <item>
-    <title>chrisbra / csv.vim</title>
-    <link>https://github.com/chrisbra/csv.vim</link>
-    <description>A Filetype plugin for csv files</description>
-  </item>
-  <item>
-    <title>lambdalisue / vim-suda</title>
-    <link>https://github.com/lambdalisue/vim-suda</link>
-    <description>🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows</description>
-  </item>
-  <item>
-    <title>sainnhe / everforest</title>
-    <link>https://github.com/sainnhe/everforest</link>
-    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
-  </item>
-  <item>
-    <title>tpope / vim-sleuth</title>
-    <link>https://github.com/tpope/vim-sleuth</link>
-    <description>sleuth.vim: Heuristically set buffer options</description>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
   </item>
   <item>
     <title>junegunn / vim-plug</title>
@@ -51,14 +16,39 @@
     <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
-    <title>altercation / vim-colors-solarized</title>
-    <link>https://github.com/altercation/vim-colors-solarized</link>
-    <description>precision colorscheme for the vim text editor</description>
+    <title>andymass / vim-matchup</title>
+    <link>https://github.com/andymass/vim-matchup</link>
+    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
   </item>
   <item>
-    <title>zenbones-theme / zenbones.nvim</title>
-    <link>https://github.com/zenbones-theme/zenbones.nvim</link>
-    <description>🪨 A collection of contrast-based Vim/Neovim colorschemes</description>
+    <title>mattn / vim-lsp-settings</title>
+    <link>https://github.com/mattn/vim-lsp-settings</link>
+    <description>Auto configurations for Language Server for vim-lsp</description>
+  </item>
+  <item>
+    <title>tpope / vim-rails</title>
+    <link>https://github.com/tpope/vim-rails</link>
+    <description>rails.vim: Ruby on Rails power tools</description>
+  </item>
+  <item>
+    <title>lambdalisue / vim-suda</title>
+    <link>https://github.com/lambdalisue/vim-suda</link>
+    <description>🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows</description>
+  </item>
+  <item>
+    <title>preservim / nerdcommenter</title>
+    <link>https://github.com/preservim/nerdcommenter</link>
+    <description>Vim plugin for intensely nerdy commenting powers</description>
+  </item>
+  <item>
+    <title>neovim / neovim</title>
+    <link>https://github.com/neovim/neovim</link>
+    <description>Vim-fork focused on extensibility and usability</description>
+  </item>
+  <item>
+    <title>vim-airline / vim-airline</title>
+    <link>https://github.com/vim-airline/vim-airline</link>
+    <description>lean &amp; mean status/tabline for vim that&#x27;s light as air</description>
   </item>
   <item>
     <title>morhetz / gruvbox</title>
@@ -66,29 +56,49 @@
     <description>Retro groove color scheme for Vim</description>
   </item>
   <item>
-    <title>dhruvasagar / vim-table-mode</title>
-    <link>https://github.com/dhruvasagar/vim-table-mode</link>
-    <description>VIM Table Mode for instant table creation.</description>
+    <title>dense-analysis / ale</title>
+    <link>https://github.com/dense-analysis/ale</link>
+    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
   </item>
   <item>
-    <title>github / copilot.vim</title>
-    <link>https://github.com/github/copilot.vim</link>
-    <description>Neovim plugin for GitHub Copilot</description>
+    <title>sainnhe / everforest</title>
+    <link>https://github.com/sainnhe/everforest</link>
+    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
-    <title>vim-syntastic / syntastic</title>
-    <link>https://github.com/vim-syntastic/syntastic</link>
-    <description>Syntax checking hacks for vim</description>
+    <title>mg979 / vim-visual-multi</title>
+    <link>https://github.com/mg979/vim-visual-multi</link>
+    <description>Multiple cursors plugin for vim/neovim</description>
   </item>
   <item>
-    <title>vim-test / vim-test</title>
-    <link>https://github.com/vim-test/vim-test</link>
-    <description>Run your tests at the speed of thought</description>
+    <title>junegunn / vader.vim</title>
+    <link>https://github.com/junegunn/vader.vim</link>
+    <description>A simple Vimscript test framework</description>
   </item>
   <item>
-    <title>tpope / vim-rhubarb</title>
-    <link>https://github.com/tpope/vim-rhubarb</link>
-    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
+    <title>sainnhe / gruvbox-material</title>
+    <link>https://github.com/sainnhe/gruvbox-material</link>
+    <description>Gruvbox with Material Palette</description>
+  </item>
+  <item>
+    <title>altercation / vim-colors-solarized</title>
+    <link>https://github.com/altercation/vim-colors-solarized</link>
+    <description>precision colorscheme for the vim text editor</description>
+  </item>
+  <item>
+    <title>dracula / vim</title>
+    <link>https://github.com/dracula/vim</link>
+    <description>🧛🏻‍♂️ Dark theme for Vim</description>
+  </item>
+  <item>
+    <title>ryanoasis / vim-devicons</title>
+    <link>https://github.com/ryanoasis/vim-devicons</link>
+    <description>Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more</description>
+  </item>
+  <item>
+    <title>tpope / vim-eunuch</title>
+    <link>https://github.com/tpope/vim-eunuch</link>
+    <description>eunuch.vim: Helpers for UNIX</description>
   </item>
 </channel>
 </rss>

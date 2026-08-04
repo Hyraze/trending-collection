@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,8 +10,8 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8664,
-      "forks": 2611,
+      "stars": 8666,
+      "forks": 2610,
       "added_stars": "50 stars this month"
     },
     {
@@ -20,9 +20,19 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 22900,
+      "stars": 22903,
       "forks": 1414,
       "added_stars": "119 stars this month"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 378,
+      "forks": 832,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "uber / hermetic_cc_toolchain",
@@ -33,16 +43,6 @@
       "stars": 397,
       "forks": 87,
       "added_stars": "3 stars this month"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 378,
-      "forks": 831,
-      "added_stars": "5 stars this month"
     },
     {
       "title": "bazelbuild / bazel-skylib",
@@ -100,9 +100,9 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3919,
+      "stars": 3921,
       "forks": 303,
-      "added_stars": "53 stars this month"
+      "added_stars": "55 stars this month"
     },
     {
       "title": "tilt-dev / tilt-extensions",
@@ -121,8 +121,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 827,
-      "forks": 635,
-      "added_stars": "12 stars this month"
+      "forks": 636,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "bazel-contrib / rules_distroless",

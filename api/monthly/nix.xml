@@ -4,21 +4,21 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
     <description>Nix Packages collection &amp; NixOS</description>
   </item>
   <item>
-    <title>numtide / llm-agents.nix</title>
-    <link>https://github.com/numtide/llm-agents.nix</link>
-    <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
-  </item>
-  <item>
     <title>nix-community / home-manager</title>
     <link>https://github.com/nix-community/home-manager</link>
     <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+  </item>
+  <item>
+    <title>numtide / llm-agents.nix</title>
+    <link>https://github.com/numtide/llm-agents.nix</link>
+    <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
   </item>
   <item>
     <title>nix-darwin / nix-darwin</title>
@@ -36,11 +36,6 @@
     <description>Atomic secret provisioning for NixOS based on sops</description>
   </item>
   <item>
-    <title>nix-community / disko</title>
-    <link>https://github.com/nix-community/disko</link>
-    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
-  </item>
-  <item>
     <title>NixOS / nixos-hardware</title>
     <link>https://github.com/NixOS/nixos-hardware</link>
     <description>A collection of NixOS modules covering hardware quirks.</description>
@@ -56,6 +51,11 @@
     <description>Manage system config using nix on any distro</description>
   </item>
   <item>
+    <title>nix-community / disko</title>
+    <link>https://github.com/nix-community/disko</link>
+    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
+  </item>
+  <item>
     <title>Misterio77 / nix-starter-configs</title>
     <link>https://github.com/Misterio77/nix-starter-configs</link>
     <description>Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</description>
@@ -66,14 +66,9 @@
     <description>NixOS MicroVMs</description>
   </item>
   <item>
-    <title>openclaw / nix-openclaw</title>
-    <link>https://github.com/openclaw/nix-openclaw</link>
-    <description>Packages OpenClaw for nix.</description>
-  </item>
-  <item>
-    <title>nix-community / nixvim</title>
-    <link>https://github.com/nix-community/nixvim</link>
-    <description>Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</description>
+    <title>nix-community / stylix</title>
+    <link>https://github.com/nix-community/stylix</link>
+    <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
   </item>
 </channel>
 </rss>

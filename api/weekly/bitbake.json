@@ -2,7 +2,7 @@
   "title": "GitHub Bitbake Languages Daily Trending",
   "description": "Daily Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "qualcomm-linux / meta-qcom",
@@ -11,7 +11,7 @@
       "language": "BitBake",
       "languageColor": "#00bce4",
       "stars": 153,
-      "forks": 329,
+      "forks": 330,
       "added_stars": "2 stars this week"
     },
     {
@@ -21,28 +21,8 @@
       "language": "BitBake",
       "languageColor": "#00bce4",
       "stars": 569,
-      "forks": 305,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "openbmc / openbmc",
-      "url": "https://github.com/openbmc/openbmc",
-      "description": "OpenBMC Distribution",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 2521,
-      "forks": 1163,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "nxp-imx / meta-imx",
-      "url": "https://github.com/nxp-imx/meta-imx",
-      "description": "i.MX Yocto Project i.MX BSP Layer",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 117,
-      "forks": 113,
-      "added_stars": "1 star this week"
+      "forks": 306,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "Freescale / meta-freescale",
@@ -55,14 +35,34 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "openembedded / meta-openembedded",
-      "url": "https://github.com/openembedded/meta-openembedded",
-      "description": "",
+      "title": "openbmc / openbmc",
+      "url": "https://github.com/openbmc/openbmc",
+      "description": "OpenBMC Distribution",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 495,
-      "forks": 847,
-      "added_stars": "0 stars this week"
+      "stars": 2525,
+      "forks": 1163,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "mendersoftware / meta-mender",
+      "url": "https://github.com/mendersoftware/meta-mender",
+      "description": "Yocto Project meta layer for the Mender client",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 189,
+      "forks": 216,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "sbabic / meta-swupdate",
+      "url": "https://github.com/sbabic/meta-swupdate",
+      "description": "Yocto receipes to generate a swupdate rootfilesystem as initrd",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 182,
+      "forks": 124,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "aws4embeddedlinux / meta-aws",
@@ -85,33 +85,23 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "sbabic / meta-swupdate",
-      "url": "https://github.com/sbabic/meta-swupdate",
-      "description": "Yocto receipes to generate a swupdate rootfilesystem as initrd",
+      "title": "nxp-imx / meta-imx",
+      "url": "https://github.com/nxp-imx/meta-imx",
+      "description": "i.MX Yocto Project i.MX BSP Layer",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 182,
-      "forks": 124,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "mendersoftware / meta-mender",
-      "url": "https://github.com/mendersoftware/meta-mender",
-      "description": "Yocto Project meta layer for the Mender client",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 189,
-      "forks": 216,
+      "stars": 117,
+      "forks": 113,
       "added_stars": "1 star this week"
     },
     {
-      "title": "rust-embedded / meta-rust-bin",
-      "url": "https://github.com/rust-embedded/meta-rust-bin",
-      "description": "Yocto layer for installing Rust toolchain from pre-built binaries",
+      "title": "openembedded / meta-openembedded",
+      "url": "https://github.com/openembedded/meta-openembedded",
+      "description": "",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 126,
-      "forks": 92,
+      "stars": 495,
+      "forks": 847,
       "added_stars": "0 stars this week"
     },
     {
@@ -125,6 +115,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "meta-rust / meta-rust",
+      "url": "https://github.com/meta-rust/meta-rust",
+      "description": "OpenEmbedded/Yocto layer for Rust and Cargo",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 240,
+      "forks": 131,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "Freescale / meta-freescale-3rdparty",
       "url": "https://github.com/Freescale/meta-freescale-3rdparty",
       "description": "OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms",
@@ -135,33 +135,23 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "meta-qt5 / meta-qt5",
-      "url": "https://github.com/meta-qt5/meta-qt5",
-      "description": "QT5 layer for openembedded",
+      "title": "rust-embedded / meta-rust-bin",
+      "url": "https://github.com/rust-embedded/meta-rust-bin",
+      "description": "Yocto layer for installing Rust toolchain from pre-built binaries",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 276,
-      "forks": 364,
-      "added_stars": "1 star this week"
+      "stars": 126,
+      "forks": 92,
+      "added_stars": "0 stars this week"
     },
     {
-      "title": "meta-flutter / meta-flutter",
-      "url": "https://github.com/meta-flutter/meta-flutter",
-      "description": "Yocto/OpenEmbedded layer for building Google Flutter applications, engine, and embedders (BitBake recipes)",
+      "title": "OSSystems / meta-browser",
+      "url": "https://github.com/OSSystems/meta-browser",
+      "description": "OpenEmbedded/Yocto BSP layer for Web Browsers",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 204,
-      "forks": 91,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "ros / meta-ros",
-      "url": "https://github.com/ros/meta-ros",
-      "description": "OpenEmbedded Layers for ROS 1 and ROS 2",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 486,
-      "forks": 285,
+      "stars": 224,
+      "forks": 222,
       "added_stars": "0 stars this week"
     }
   ]

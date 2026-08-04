@@ -4,11 +4,16 @@
   <title>GitHub Jsonnet Languages Daily Trending</title>
   <description>Daily Trending of Jsonnet Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
   <item>
     <title>kubernetes-monitoring / kubernetes-mixin</title>
     <link>https://github.com/kubernetes-monitoring/kubernetes-mixin</link>
     <description>A set of Grafana dashboards and Prometheus alerts for Kubernetes.</description>
+  </item>
+  <item>
+    <title>google / jsonnet</title>
+    <link>https://github.com/google/jsonnet</link>
+    <description>Jsonnet - The data templating language</description>
   </item>
   <item>
     <title>prometheus-operator / kube-prometheus</title>
@@ -19,11 +24,6 @@
     <title>argoproj / argocd-example-apps</title>
     <link>https://github.com/argoproj/argocd-example-apps</link>
     <description>Example Apps to Demonstrate Argo CD</description>
-  </item>
-  <item>
-    <title>google / jsonnet</title>
-    <link>https://github.com/google/jsonnet</link>
-    <description>Jsonnet - The data templating language</description>
   </item>
 </channel>
 </rss>

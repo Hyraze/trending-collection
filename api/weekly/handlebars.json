@@ -2,8 +2,18 @@
   "title": "GitHub Handlebars Languages Daily Trending",
   "description": "Daily Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
+    {
+      "title": "rust-lang / rust-by-example",
+      "url": "https://github.com/rust-lang/rust-by-example",
+      "description": "Learn Rust with examples (Live code editor included)",
+      "language": "Handlebars",
+      "languageColor": "#f7931e",
+      "stars": 8061,
+      "forks": 1564,
+      "added_stars": "9 stars this week"
+    },
     {
       "title": "microsoft / vscode-codicons",
       "url": "https://github.com/microsoft/vscode-codicons",
@@ -12,17 +22,7 @@
       "languageColor": "#f7931e",
       "stars": 1145,
       "forks": 209,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "huggingface / hub-docs",
-      "url": "https://github.com/huggingface/hub-docs",
-      "description": "Docs of the Hugging Face Hub",
-      "language": "Handlebars",
-      "languageColor": "#f7931e",
-      "stars": 580,
-      "forks": 478,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "elastic / integrations",
@@ -31,8 +31,18 @@
       "language": "Handlebars",
       "languageColor": "#f7931e",
       "stars": 330,
-      "forks": 619,
+      "forks": 621,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "huggingface / hub-docs",
+      "url": "https://github.com/huggingface/hub-docs",
+      "description": "Docs of the Hugging Face Hub",
+      "language": "Handlebars",
+      "languageColor": "#f7931e",
+      "stars": 580,
+      "forks": 479,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "wet-boew / wet-boew",
@@ -43,16 +53,6 @@
       "stars": 1731,
       "forks": 658,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "rust-lang / rust-by-example",
-      "url": "https://github.com/rust-lang/rust-by-example",
-      "description": "Learn Rust with examples (Live code editor included)",
-      "language": "Handlebars",
-      "languageColor": "#f7931e",
-      "stars": 8060,
-      "forks": 1563,
-      "added_stars": "10 stars this week"
     }
   ]
 }

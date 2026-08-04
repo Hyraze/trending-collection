@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "end-4 / dots-hyprland",
@@ -10,9 +10,19 @@
       "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 15408,
-      "forks": 1287,
-      "added_stars": "121 stars this week"
+      "stars": 15415,
+      "forks": 1286,
+      "added_stars": "115 stars this week"
+    },
+    {
+      "title": "mylinuxforwork / dotfiles",
+      "url": "https://github.com/mylinuxforwork/dotfiles",
+      "description": "The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app with setup scripts for Arch Linux, Fedora and openSuse.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 4938,
+      "forks": 364,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "caelestia-dots / shell",
@@ -20,29 +30,9 @@
       "description": "A fluid, morphing shell for your Linux desktop",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 10899,
-      "forks": 770,
-      "added_stars": "131 stars this week"
-    },
-    {
-      "title": "AvengeMedia / DankMaterialShell",
-      "url": "https://github.com/AvengeMedia/DankMaterialShell",
-      "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 7478,
-      "forks": 463,
-      "added_stars": "80 stars this week"
-    },
-    {
-      "title": "Keyitdev / sddm-astronaut-theme",
-      "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
-      "description": "Series of modern looking themes for SDDM.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 3115,
-      "forks": 201,
-      "added_stars": "36 stars this week"
+      "stars": 10916,
+      "forks": 772,
+      "added_stars": "129 stars this week"
     },
     {
       "title": "snowarch / iNiR",
@@ -52,27 +42,27 @@
       "languageColor": "#44a51c",
       "stars": 1356,
       "forks": 77,
-      "added_stars": "42 stars this week"
+      "added_stars": "45 stars this week"
     },
     {
-      "title": "mylinuxforwork / dotfiles",
-      "url": "https://github.com/mylinuxforwork/dotfiles",
-      "description": "The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app with setup scripts for Arch Linux, Fedora and openSuse.",
+      "title": "AvengeMedia / DankMaterialShell",
+      "url": "https://github.com/AvengeMedia/DankMaterialShell",
+      "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 4935,
-      "forks": 366,
-      "added_stars": "21 stars this week"
+      "stars": 7491,
+      "forks": 467,
+      "added_stars": "84 stars this week"
     },
     {
-      "title": "Swordfish90 / cool-retro-term",
-      "url": "https://github.com/Swordfish90/cool-retro-term",
-      "description": "A good looking terminal emulator which mimics the old cathode display...",
+      "title": "Keyitdev / sddm-astronaut-theme",
+      "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
+      "description": "Series of modern looking themes for SDDM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 25854,
-      "forks": 996,
-      "added_stars": "34 stars this week"
+      "stars": 3115,
+      "forks": 201,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "Darkkal44 / qylock",
@@ -80,9 +70,19 @@
       "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 2395,
+      "stars": 2405,
       "forks": 95,
       "added_stars": "52 stars this week"
+    },
+    {
+      "title": "Swordfish90 / cool-retro-term",
+      "url": "https://github.com/Swordfish90/cool-retro-term",
+      "description": "A good looking terminal emulator which mimics the old cathode display...",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 25857,
+      "forks": 996,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "catsout / wallpaper-engine-kde-plugin",
@@ -91,7 +91,7 @@
       "language": "QML",
       "languageColor": "#44a51c",
       "stars": 2729,
-      "forks": 120,
+      "forks": 119,
       "added_stars": "1 star this week"
     },
     {
@@ -100,9 +100,9 @@
       "description": "Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 542,
+      "stars": 543,
       "forks": 33,
-      "added_stars": "7 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "luisbocanegra / plasma-panel-colorizer",
@@ -115,14 +115,24 @@
       "added_stars": "11 stars this week"
     },
     {
+      "title": "anthonycaccese / 240-MP",
+      "url": "https://github.com/anthonycaccese/240-MP",
+      "description": "240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 369,
+      "forks": 35,
+      "added_stars": "16 stars this week"
+    },
+    {
       "title": "xarbit / plasma6-applet-appgrid",
       "url": "https://github.com/xarbit/plasma6-applet-appgrid",
       "description": "AppGrid for Plasma is a modern alternative to Kickoff and Kicker. A grid launcher for KDE Plasma 6 — unified search, KRunner integration, animations.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 424,
+      "stars": 425,
       "forks": 12,
-      "added_stars": "5 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "Axenide / Ambxst",
@@ -130,29 +140,9 @@
       "description": "An Axtremely customizable shell.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 1705,
+      "stars": 1707,
       "forks": 110,
       "added_stars": "20 stars this week"
-    },
-    {
-      "title": "anthonycaccese / 240-MP",
-      "url": "https://github.com/anthonycaccese/240-MP",
-      "description": "240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 368,
-      "forks": 34,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "status-im / status-app",
-      "url": "https://github.com/status-im/status-app",
-      "description": "Status App client made in Nim & QML",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 363,
-      "forks": 98,
-      "added_stars": "1 star this week"
     }
   ]
 }

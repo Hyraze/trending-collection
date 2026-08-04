@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "mattpocock / skills",
@@ -10,9 +10,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 200202,
-      "forks": 17280,
-      "added_stars": "46,596 stars this month"
+      "stars": 201875,
+      "forks": 17402,
+      "added_stars": "46,917 stars this month"
     },
     {
       "title": "cloudflare / skills",
@@ -20,19 +20,9 @@
       "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2529,
+      "stars": 2536,
       "forks": 239,
-      "added_stars": "511 stars this month"
-    },
-    {
-      "title": "ohmyzsh / ohmyzsh",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 188960,
-      "forks": 26531,
-      "added_stars": "1,061 stars this month"
+      "added_stars": "503 stars this month"
     },
     {
       "title": "fujibee / agmsg",
@@ -40,9 +30,9 @@
       "description": "Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1389,
-      "forks": 126,
-      "added_stars": "459 stars this month"
+      "stars": 1397,
+      "forks": 127,
+      "added_stars": "465 stars this month"
     },
     {
       "title": "nvm-sh / nvm",
@@ -50,9 +40,19 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 94320,
-      "forks": 10306,
-      "added_stars": "460 stars this month"
+      "stars": 94329,
+      "forks": 10307,
+      "added_stars": "467 stars this month"
+    },
+    {
+      "title": "ohmyzsh / ohmyzsh",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 188986,
+      "forks": 26572,
+      "added_stars": "1,073 stars this month"
     },
     {
       "title": "jqssun / android-titanium-browser",
@@ -60,9 +60,9 @@
       "description": "Secure open-source Android browser with support for extensions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1844,
+      "stars": 1856,
       "forks": 67,
-      "added_stars": "519 stars this month"
+      "added_stars": "523 stars this month"
     },
     {
       "title": "PrismML-Eng / Bonsai-demo",
@@ -70,9 +70,9 @@
       "description": "Bonsai Demo",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2146,
-      "forks": 218,
-      "added_stars": "1,281 stars this month"
+      "stars": 2151,
+      "forks": 219,
+      "added_stars": "1,288 stars this month"
     },
     {
       "title": "obra / superpowers",
@@ -80,9 +80,19 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 265260,
-      "forks": 23691,
-      "added_stars": "22,187 stars this month"
+      "stars": 265834,
+      "forks": 23772,
+      "added_stars": "21,636 stars this month"
+    },
+    {
+      "title": "Astrosp / Awesome-OSINT-List",
+      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
+      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4007,
+      "forks": 518,
+      "added_stars": "364 stars this month"
     },
     {
       "title": "termux / termux-packages",
@@ -92,7 +102,7 @@
       "languageColor": "#89e051",
       "stars": 16713,
       "forks": 4271,
-      "added_stars": "221 stars this month"
+      "added_stars": "218 stars this month"
     },
     {
       "title": "themactep / thingino-firmware",
@@ -100,29 +110,9 @@
       "description": "Open-source firmware for Ingenic SoC IP cameras",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1950,
-      "forks": 279,
-      "added_stars": "176 stars this month"
-    },
-    {
-      "title": "1N3 / Sn1per",
-      "url": "https://github.com/1N3/Sn1per",
-      "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 10687,
-      "forks": 2137,
-      "added_stars": "448 stars this month"
-    },
-    {
-      "title": "CISOfy / lynis",
-      "url": "https://github.com/CISOfy/lynis",
-      "description": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 16098,
-      "forks": 1617,
-      "added_stars": "246 stars this month"
+      "stars": 1962,
+      "forks": 280,
+      "added_stars": "191 stars this month"
     },
     {
       "title": "assafdori / bypass-mdm",
@@ -130,7 +120,7 @@
       "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2037,
+      "stars": 2042,
       "forks": 487,
       "added_stars": "159 stars this month"
     },
@@ -140,29 +130,9 @@
       "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9553,
+      "stars": 9559,
       "forks": 3073,
-      "added_stars": "188 stars this month"
-    },
-    {
-      "title": "llm-d / llm-d",
-      "url": "https://github.com/llm-d/llm-d",
-      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 3959,
-      "forks": 649,
-      "added_stars": "295 stars this month"
-    },
-    {
-      "title": "pyenv / pyenv",
-      "url": "https://github.com/pyenv/pyenv",
-      "description": "Simple Python version management",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 45005,
-      "forks": 3261,
-      "added_stars": "146 stars this month"
+      "added_stars": "196 stars this month"
     }
   ]
 }

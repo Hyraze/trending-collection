@@ -4,16 +4,11 @@
   <title>GitHub Fortran Languages Daily Trending</title>
   <description>Daily Trending of Fortran Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>ecmwf-ifs / ectrans</title>
     <link>https://github.com/ecmwf-ifs/ectrans</link>
     <description>Efficient and scalable spectral transforms</description>
-  </item>
-  <item>
-    <title>MetOffice / lfric_core</title>
-    <link>https://github.com/MetOffice/lfric_core</link>
-    <description>LFRic Infrastructure</description>
   </item>
   <item>
     <title>E3SM-Project / E3SM</title>
@@ -21,9 +16,9 @@
     <description>Energy Exascale Earth System Model source code. NOTE: use &quot;maint&quot; branches for your work. Head of master is not validated.</description>
   </item>
   <item>
-    <title>wrf-model / WRF</title>
-    <link>https://github.com/wrf-model/WRF</link>
-    <description>The official repository for the Weather Research and Forecasting (WRF) model</description>
+    <title>MetOffice / lfric_core</title>
+    <link>https://github.com/MetOffice/lfric_core</link>
+    <description>LFRic Infrastructure</description>
   </item>
   <item>
     <title>firemodels / fds</title>
@@ -31,14 +26,19 @@
     <description>Fire Dynamics Simulator</description>
   </item>
   <item>
+    <title>wrf-model / WRF</title>
+    <link>https://github.com/wrf-model/WRF</link>
+    <description>The official repository for the Weather Research and Forecasting (WRF) model</description>
+  </item>
+  <item>
+    <title>GEOS-ESM / MAPL</title>
+    <link>https://github.com/GEOS-ESM/MAPL</link>
+    <description>MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)</description>
+  </item>
+  <item>
     <title>cp2k / cp2k</title>
     <link>https://github.com/cp2k/cp2k</link>
     <description>Quantum chemistry and solid state physics software package</description>
-  </item>
-  <item>
-    <title>ecmwf / fckit</title>
-    <link>https://github.com/ecmwf/fckit</link>
-    <description>A Fortran toolkit for interoperating Fortran with C/C++</description>
   </item>
   <item>
     <title>ElmerCSC / elmerfem</title>
@@ -46,14 +46,19 @@
     <description>Official git repository of Elmer FEM software</description>
   </item>
   <item>
-    <title>grimme-lab / xtb</title>
-    <link>https://github.com/grimme-lab/xtb</link>
-    <description>Semiempirical Extended Tight-Binding Program Package</description>
-  </item>
-  <item>
     <title>JuliaPackaging / Yggdrasil</title>
     <link>https://github.com/JuliaPackaging/Yggdrasil</link>
     <description>Collection of builder repositories for BinaryBuilder.jl</description>
+  </item>
+  <item>
+    <title>ecmwf / fckit</title>
+    <link>https://github.com/ecmwf/fckit</link>
+    <description>A Fortran toolkit for interoperating Fortran with C/C++</description>
+  </item>
+  <item>
+    <title>grimme-lab / xtb</title>
+    <link>https://github.com/grimme-lab/xtb</link>
+    <description>Semiempirical Extended Tight-Binding Program Package</description>
   </item>
 </channel>
 </rss>

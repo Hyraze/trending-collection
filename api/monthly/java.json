@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "iflytek / skillhub",
@@ -10,9 +10,9 @@
       "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4844,
-      "forks": 722,
-      "added_stars": "1,587 stars this month"
+      "stars": 4859,
+      "forks": 755,
+      "added_stars": "1,570 stars this month"
     },
     {
       "title": "Anuken / Mindustry",
@@ -20,9 +20,9 @@
       "description": "The automation tower defense RTS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 28460,
-      "forks": 3666,
-      "added_stars": "517 stars this month"
+      "stars": 28480,
+      "forks": 3705,
+      "added_stars": "528 stars this month"
     },
     {
       "title": "jenkinsci / jenkins",
@@ -30,19 +30,9 @@
       "description": "Jenkins automation server",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26394,
-      "forks": 9737,
-      "added_stars": "1,021 stars this month"
-    },
-    {
-      "title": "yuliskov / SmartTube",
-      "url": "https://github.com/yuliskov/SmartTube",
-      "description": "Browse media content with your own rules on Android TV",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 31689,
-      "forks": 1861,
-      "added_stars": "989 stars this month"
+      "stars": 26407,
+      "forks": 9770,
+      "added_stars": "1,026 stars this month"
     },
     {
       "title": "kestra-io / kestra",
@@ -50,9 +40,19 @@
       "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 27537,
-      "forks": 2814,
-      "added_stars": "466 stars this month"
+      "stars": 27550,
+      "forks": 2843,
+      "added_stars": "473 stars this month"
+    },
+    {
+      "title": "yuliskov / SmartTube",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 31718,
+      "forks": 1901,
+      "added_stars": "1,002 stars this month"
     },
     {
       "title": "OtterMind / Chat2DB",
@@ -60,9 +60,9 @@
       "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 27612,
-      "forks": 2988,
-      "added_stars": "1,842 stars this month"
+      "stars": 27623,
+      "forks": 2989,
+      "added_stars": "1,847 stars this month"
     },
     {
       "title": "modelcontextprotocol / java-sdk",
@@ -70,19 +70,9 @@
       "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3626,
-      "forks": 1051,
-      "added_stars": "196 stars this month"
-    },
-    {
-      "title": "skylot / jadx",
-      "url": "https://github.com/skylot/jadx",
-      "description": "Dex to Java decompiler",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 49884,
-      "forks": 5703,
-      "added_stars": "721 stars this month"
+      "stars": 3634,
+      "forks": 1099,
+      "added_stars": "207 stars this month"
     },
     {
       "title": "github / copilot-sdk",
@@ -90,9 +80,19 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10334,
-      "forks": 1392,
-      "added_stars": "919 stars this month"
+      "stars": 10341,
+      "forks": 1395,
+      "added_stars": "924 stars this month"
+    },
+    {
+      "title": "skylot / jadx",
+      "url": "https://github.com/skylot/jadx",
+      "description": "Dex to Java decompiler",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 49904,
+      "forks": 5709,
+      "added_stars": "699 stars this month"
     },
     {
       "title": "spring-projects / spring-boot",
@@ -100,39 +100,9 @@
       "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 81225,
-      "forks": 42051,
-      "added_stars": "420 stars this month"
-    },
-    {
-      "title": "LawnchairLauncher / lawnchair",
-      "url": "https://github.com/LawnchairLauncher/lawnchair",
-      "description": "No clever tagline needed.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 13243,
-      "forks": 1602,
-      "added_stars": "255 stars this month"
-    },
-    {
-      "title": "RikkaApps / Shizuku-API",
-      "url": "https://github.com/RikkaApps/Shizuku-API",
-      "description": "The API and the developer guide for Shizuku and Sui.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2402,
-      "forks": 1048,
-      "added_stars": "119 stars this month"
-    },
-    {
-      "title": "termux / termux-app",
-      "url": "https://github.com/termux/termux-app",
-      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 58562,
-      "forks": 7115,
-      "added_stars": "1,579 stars this month"
+      "stars": 81230,
+      "forks": 42090,
+      "added_stars": "427 stars this month"
     },
     {
       "title": "NationalSecurityAgency / ghidra",
@@ -140,9 +110,29 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 71772,
-      "forks": 7853,
-      "added_stars": "1,507 stars this month"
+      "stars": 71834,
+      "forks": 7857,
+      "added_stars": "1,525 stars this month"
+    },
+    {
+      "title": "LawnchairLauncher / lawnchair",
+      "url": "https://github.com/LawnchairLauncher/lawnchair",
+      "description": "No clever tagline needed.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 13250,
+      "forks": 1602,
+      "added_stars": "256 stars this month"
+    },
+    {
+      "title": "termux / termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 58608,
+      "forks": 7125,
+      "added_stars": "1,595 stars this month"
     },
     {
       "title": "kunal-kushwaha / DSA-Bootcamp-Java",
@@ -150,9 +140,9 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 23364,
-      "forks": 13461,
-      "added_stars": "409 stars this month"
+      "stars": 23370,
+      "forks": 13467,
+      "added_stars": "403 stars this month"
     },
     {
       "title": "cryptomator / cryptomator",
@@ -160,49 +150,9 @@
       "description": "Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 15818,
-      "forks": 1459,
-      "added_stars": "361 stars this month"
-    },
-    {
-      "title": "openjdk / jdk",
-      "url": "https://github.com/openjdk/jdk",
-      "description": "JDK main-line development https://openjdk.org/projects/jdk",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 23181,
-      "forks": 6396,
-      "added_stars": "182 stars this month"
-    },
-    {
-      "title": "apache / fineract",
-      "url": "https://github.com/apache/fineract",
-      "description": "Apache Fineract",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2347,
-      "forks": 2642,
-      "added_stars": "68 stars this month"
-    },
-    {
-      "title": "iluwatar / java-design-patterns",
-      "url": "https://github.com/iluwatar/java-design-patterns",
-      "description": "Design patterns implemented in Java",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 94512,
-      "forks": 27410,
-      "added_stars": "447 stars this month"
-    },
-    {
-      "title": "elastic / elasticsearch",
-      "url": "https://github.com/elastic/elasticsearch",
-      "description": "Free and Open Source, Distributed, RESTful Search Engine",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 77712,
-      "forks": 25993,
-      "added_stars": "903 stars this month"
+      "stars": 15826,
+      "forks": 1498,
+      "added_stars": "371 stars this month"
     },
     {
       "title": "krahets / hello-algo",
@@ -210,9 +160,39 @@
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 129086,
-      "forks": 15434,
-      "added_stars": "1,314 stars this month"
+      "stars": 129129,
+      "forks": 15477,
+      "added_stars": "1,337 stars this month"
+    },
+    {
+      "title": "openjdk / jdk",
+      "url": "https://github.com/openjdk/jdk",
+      "description": "JDK main-line development https://openjdk.org/projects/jdk",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 23183,
+      "forks": 6396,
+      "added_stars": "181 stars this month"
+    },
+    {
+      "title": "FCL-Team / FoldCraftLauncher",
+      "url": "https://github.com/FCL-Team/FoldCraftLauncher",
+      "description": "Fold Craft Launcher, an Android Minecraft : Java Edition launcher.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4418,
+      "forks": 301,
+      "added_stars": "263 stars this month"
+    },
+    {
+      "title": "iluwatar / java-design-patterns",
+      "url": "https://github.com/iluwatar/java-design-patterns",
+      "description": "Design patterns implemented in Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 94519,
+      "forks": 27412,
+      "added_stars": "449 stars this month"
     },
     {
       "title": "opensearch-project / OpenSearch",
@@ -220,29 +200,59 @@
       "description": "🔎 Open source distributed and RESTful search engine.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 13440,
-      "forks": 2822,
-      "added_stars": "336 stars this month"
+      "stars": 13449,
+      "forks": 2870,
+      "added_stars": "340 stars this month"
     },
     {
-      "title": "apache / cassandra",
-      "url": "https://github.com/apache/cassandra",
-      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "title": "RikkaApps / Shizuku-API",
+      "url": "https://github.com/RikkaApps/Shizuku-API",
+      "description": "The API and the developer guide for Shizuku and Sui.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10048,
-      "forks": 4039,
-      "added_stars": "339 stars this month"
+      "stars": 2409,
+      "forks": 1054,
+      "added_stars": "121 stars this month"
     },
     {
-      "title": "supertokens / supertokens-core",
-      "url": "https://github.com/supertokens/supertokens-core",
-      "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito",
+      "title": "itwanger / toBeBetterJavaer",
+      "url": "https://github.com/itwanger/toBeBetterJavaer",
+      "description": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 15240,
-      "forks": 794,
-      "added_stars": "203 stars this month"
+      "stars": 17412,
+      "forks": 2460,
+      "added_stars": "442 stars this month"
+    },
+    {
+      "title": "apache / fineract",
+      "url": "https://github.com/apache/fineract",
+      "description": "Apache Fineract",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2349,
+      "forks": 2643,
+      "added_stars": "67 stars this month"
+    },
+    {
+      "title": "elastic / elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 77729,
+      "forks": 26026,
+      "added_stars": "898 stars this month"
+    },
+    {
+      "title": "AndreyPavlenko / Fermata",
+      "url": "https://github.com/AndreyPavlenko/Fermata",
+      "description": "",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1228,
+      "forks": 168,
+      "added_stars": "84 stars this month"
     }
   ]
 }

@@ -4,12 +4,7 @@
   <title>GitHub Typescript Languages Daily Trending</title>
   <description>Daily Trending of Typescript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
-  <item>
-    <title>pascalorg / editor</title>
-    <link>https://github.com/pascalorg/editor</link>
-    <description>Create and share 3D architectural projects.</description>
-  </item>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>moeru-ai / airi</title>
     <link>https://github.com/moeru-ai/airi</link>
@@ -19,6 +14,16 @@
     <title>opengeos / GeoLibre</title>
     <link>https://github.com/opengeos/GeoLibre</link>
     <description>A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.</description>
+  </item>
+  <item>
+    <title>pascalorg / editor</title>
+    <link>https://github.com/pascalorg/editor</link>
+    <description>Create and share 3D architectural projects.</description>
+  </item>
+  <item>
+    <title>different-ai / openwork</title>
+    <link>https://github.com/different-ai/openwork</link>
+    <description>The open-source alternative to Claude Cowork (powered by opencode)</description>
   </item>
   <item>
     <title>pingdotgg / t3code</title>
@@ -31,9 +36,9 @@
     <description>Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors</description>
   </item>
   <item>
-    <title>different-ai / openwork</title>
-    <link>https://github.com/different-ai/openwork</link>
-    <description>The open-source alternative to Claude Cowork (powered by opencode)</description>
+    <title>Effect-TS / effect</title>
+    <link>https://github.com/Effect-TS/effect</link>
+    <description>Build production-ready applications in TypeScript</description>
   </item>
   <item>
     <title>seerr-team / seerr</title>
@@ -41,44 +46,14 @@
     <description>Open-source media request and discovery manager for Jellyfin, Plex, and Emby.</description>
   </item>
   <item>
-    <title>Effect-TS / effect</title>
-    <link>https://github.com/Effect-TS/effect</link>
-    <description>Build production-ready applications in TypeScript</description>
-  </item>
-  <item>
-    <title>CoreBunch / Instatic</title>
-    <link>https://github.com/CoreBunch/Instatic</link>
-    <description>The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it&#x27;s all there.</description>
-  </item>
-  <item>
     <title>Koenkk / zigbee2mqtt</title>
     <link>https://github.com/Koenkk/zigbee2mqtt</link>
     <description>Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨</description>
   </item>
   <item>
-    <title>MoonshotAI / kimi-code</title>
-    <link>https://github.com/MoonshotAI/kimi-code</link>
-    <description>Kimi Code CLI — The Starting Point for Next-Gen Agents</description>
-  </item>
-  <item>
-    <title>koala73 / worldmonitor</title>
-    <link>https://github.com/koala73/worldmonitor</link>
-    <description>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</description>
-  </item>
-  <item>
-    <title>modelcontextprotocol / typescript-sdk</title>
-    <link>https://github.com/modelcontextprotocol/typescript-sdk</link>
-    <description>The official TypeScript SDK for Model Context Protocol servers and clients</description>
-  </item>
-  <item>
-    <title>UditAkhourii / adhd</title>
-    <link>https://github.com/UditAkhourii/adhd</link>
-    <description>ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.</description>
-  </item>
-  <item>
-    <title>BuilderIO / agent-native</title>
-    <link>https://github.com/BuilderIO/agent-native</link>
-    <description>A framework for building agent-native applications.</description>
+    <title>TencentCloud / TencentDB-Agent-Memory</title>
+    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
+    <description>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
   </item>
   <item>
     <title>modelcontextprotocol / modelcontextprotocol</title>
@@ -86,24 +61,44 @@
     <description>Specification and documentation for the Model Context Protocol</description>
   </item>
   <item>
+    <title>modelcontextprotocol / typescript-sdk</title>
+    <link>https://github.com/modelcontextprotocol/typescript-sdk</link>
+    <description>The official TypeScript SDK for Model Context Protocol servers and clients</description>
+  </item>
+  <item>
     <title>microsoft / azure-devops-mcp</title>
     <link>https://github.com/microsoft/azure-devops-mcp</link>
     <description>The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.</description>
   </item>
   <item>
-    <title>every-app / open-seo</title>
-    <link>https://github.com/every-app/open-seo</link>
-    <description>Open source alternative to Semrush and Ahrefs</description>
-  </item>
-  <item>
-    <title>earendil-works / pi</title>
-    <link>https://github.com/earendil-works/pi</link>
-    <description>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI</description>
-  </item>
-  <item>
     <title>vuejs / core</title>
     <link>https://github.com/vuejs/core</link>
     <description>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
+  </item>
+  <item>
+    <title>vuetifyjs / vuetify</title>
+    <link>https://github.com/vuetifyjs/vuetify</link>
+    <description>🐉 Vue Component Framework</description>
+  </item>
+  <item>
+    <title>chatboxai / chatbox</title>
+    <link>https://github.com/chatboxai/chatbox</link>
+    <description>Powerful AI Client</description>
+  </item>
+  <item>
+    <title>CoreBunch / Instatic</title>
+    <link>https://github.com/CoreBunch/Instatic</link>
+    <description>The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it&#x27;s all there.</description>
+  </item>
+  <item>
+    <title>appwrite / appwrite</title>
+    <link>https://github.com/appwrite/appwrite</link>
+    <description>Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more</description>
+  </item>
+  <item>
+    <title>UditAkhourii / adhd</title>
+    <link>https://github.com/UditAkhourii/adhd</link>
+    <description>ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.</description>
   </item>
 </channel>
 </rss>

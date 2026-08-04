@@ -2,27 +2,17 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
-      "title": "cloudflare / cloudflare-docs",
-      "url": "https://github.com/cloudflare/cloudflare-docs",
-      "description": "Cloudflare’s documentation",
+      "title": "twbs / bootstrap",
+      "url": "https://github.com/twbs/bootstrap",
+      "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 5031,
-      "forks": 16185,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "dair-ai / Prompt-Engineering-Guide",
-      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 77212,
-      "forks": 8485,
-      "added_stars": "210 stars this week"
+      "stars": 174555,
+      "forks": 78697,
+      "added_stars": "68 stars this week"
     },
     {
       "title": "huggingface / agents-course",
@@ -30,19 +20,9 @@
       "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 30610,
-      "forks": 2184,
-      "added_stars": "214 stars this week"
-    },
-    {
-      "title": "twbs / bootstrap",
-      "url": "https://github.com/twbs/bootstrap",
-      "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 174557,
-      "forks": 78696,
-      "added_stars": "74 stars this week"
+      "stars": 30649,
+      "forks": 2186,
+      "added_stars": "210 stars this week"
     },
     {
       "title": "solana-foundation / solana-com",
@@ -50,28 +30,8 @@
       "description": "The solana.com website.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 491,
+      "stars": 492,
       "forks": 378,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "hashicorp / web-unified-docs",
-      "url": "https://github.com/hashicorp/web-unified-docs",
-      "description": "Hashicorp Unified Docs",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 76,
-      "forks": 250,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "langchain-ai / docs",
-      "url": "https://github.com/langchain-ai/docs",
-      "description": "Unified LangChain documentation.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 387,
-      "forks": 2562,
       "added_stars": "5 stars this week"
     },
     {
@@ -80,9 +40,79 @@
       "description": "🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 230,
+      "stars": 231,
       "forks": 274,
-      "added_stars": "3 stars this week"
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "cloudflare / cloudflare-docs",
+      "url": "https://github.com/cloudflare/cloudflare-docs",
+      "description": "Cloudflare’s documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 5035,
+      "forks": 16198,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "hashicorp / web-unified-docs",
+      "url": "https://github.com/hashicorp/web-unified-docs",
+      "description": "Hashicorp Unified Docs",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 77,
+      "forks": 251,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "langchain-ai / docs",
+      "url": "https://github.com/langchain-ai/docs",
+      "description": "Unified LangChain documentation.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 388,
+      "forks": 2563,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "dair-ai / Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 77253,
+      "forks": 8488,
+      "added_stars": "199 stars this week"
+    },
+    {
+      "title": "withastro / docs",
+      "url": "https://github.com/withastro/docs",
+      "description": "Astro documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1670,
+      "forks": 1867,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "newrelic / docs-website",
+      "url": "https://github.com/newrelic/docs-website",
+      "description": "Source code for @newrelic docs. We welcome pull requests and questions on our docs!",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 197,
+      "forks": 1457,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "react / react-native-website",
+      "url": "https://github.com/react/react-native-website",
+      "description": "The React Native website and docs",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 2152,
+      "forks": 6259,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "huggingface / course",
@@ -90,19 +120,9 @@
       "description": "The Hugging Face course on Transformers",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 4104,
-      "forks": 1381,
-      "added_stars": "20 stars this week"
-    },
-    {
-      "title": "npm / documentation",
-      "url": "https://github.com/npm/documentation",
-      "description": "Documentation for the npm registry, website, and command-line interface.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 692,
-      "forks": 4112,
-      "added_stars": "6 stars this week"
+      "stars": 4105,
+      "forks": 1382,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "detekt / detekt",
@@ -115,6 +135,16 @@
       "added_stars": "4 stars this week"
     },
     {
+      "title": "discord / discord-api-docs",
+      "url": "https://github.com/discord/discord-api-docs",
+      "description": "Official Discord Developer Docs",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 6449,
+      "forks": 1374,
+      "added_stars": "8 stars this week"
+    },
+    {
       "title": "microsoft / aspire.dev",
       "url": "https://github.com/microsoft/aspire.dev",
       "description": "The official website for all things aspire.dev.",
@@ -125,63 +155,23 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "tauri-apps / tauri-docs",
-      "url": "https://github.com/tauri-apps/tauri-docs",
-      "description": "The source for all Tauri project documentation.",
+      "title": "enactic / openarm",
+      "url": "https://github.com/enactic/openarm",
+      "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 1123,
-      "forks": 884,
-      "added_stars": "4 stars this week"
+      "stars": 2807,
+      "forks": 307,
+      "added_stars": "37 stars this week"
     },
     {
-      "title": "jellyfin / jellyfin.org",
-      "url": "https://github.com/jellyfin/jellyfin.org",
-      "description": "Jellyfin Project website, blog, and user documentation",
+      "title": "npm / documentation",
+      "url": "https://github.com/npm/documentation",
+      "description": "Documentation for the npm registry, website, and command-line interface.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 157,
-      "forks": 682,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "PaloAltoNetworks / pan.dev",
-      "url": "https://github.com/PaloAltoNetworks/pan.dev",
-      "description": "Palo Alto Networks for Developers",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 76,
-      "forks": 87,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "all-contributors / allcontributors.org",
-      "url": "https://github.com/all-contributors/allcontributors.org",
-      "description": "✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 8086,
-      "forks": 1727,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "withastro / docs",
-      "url": "https://github.com/withastro/docs",
-      "description": "Astro documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 1668,
-      "forks": 1868,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "discord / discord-api-docs",
-      "url": "https://github.com/discord/discord-api-docs",
-      "description": "Official Discord Developer Docs",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 6450,
-      "forks": 1375,
+      "stars": 693,
+      "forks": 4114,
       "added_stars": "8 stars this week"
     },
     {
@@ -190,19 +180,29 @@
       "description": "Source for esphome.io documentation files.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 450,
-      "forks": 2349,
+      "stars": 451,
+      "forks": 2348,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "freeCodeCamp / contribute",
+      "url": "https://github.com/freeCodeCamp/contribute",
+      "description": "Begin your contribution journey here.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 153,
+      "forks": 378,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "newrelic / docs-website",
-      "url": "https://github.com/newrelic/docs-website",
-      "description": "Source code for @newrelic docs. We welcome pull requests and questions on our docs!",
+      "title": "all-contributors / allcontributors.org",
+      "url": "https://github.com/all-contributors/allcontributors.org",
+      "description": "✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 197,
-      "forks": 1457,
-      "added_stars": "0 stars this week"
+      "stars": 8087,
+      "forks": 1727,
+      "added_stars": "4 stars this week"
     }
   ]
 }

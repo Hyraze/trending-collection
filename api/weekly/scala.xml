@@ -4,12 +4,7 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
-  <item>
-    <title>apache / spark</title>
-    <link>https://github.com/apache/spark</link>
-    <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
-  </item>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>lichess-org / lila</title>
     <link>https://github.com/lichess-org/lila</link>
@@ -19,6 +14,16 @@
     <title>twitter / the-algorithm</title>
     <link>https://github.com/twitter/the-algorithm</link>
     <description>Source code for the X Recommendation Algorithm</description>
+  </item>
+  <item>
+    <title>apache / spark</title>
+    <link>https://github.com/apache/spark</link>
+    <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
+  </item>
+  <item>
+    <title>joernio / joern</title>
+    <link>https://github.com/joernio/joern</link>
+    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
   </item>
   <item>
     <title>delta-io / delta</title>
@@ -31,19 +36,9 @@
     <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
   </item>
   <item>
-    <title>scala / scala</title>
-    <link>https://github.com/scala/scala</link>
-    <description>Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3</description>
-  </item>
-  <item>
-    <title>joernio / joern</title>
-    <link>https://github.com/joernio/joern</link>
-    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
-  </item>
-  <item>
-    <title>microsoft / SynapseML</title>
-    <link>https://github.com/microsoft/SynapseML</link>
-    <description>Simple and Distributed Machine Learning</description>
+    <title>NVIDIA / cudf-spark</title>
+    <link>https://github.com/NVIDIA/cudf-spark</link>
+    <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
   </item>
   <item>
     <title>scala / scala3</title>
@@ -51,54 +46,14 @@
     <description>The Scala 3 compiler, also known as Dotty.</description>
   </item>
   <item>
+    <title>akka / akka-core</title>
+    <link>https://github.com/akka/akka-core</link>
+    <description>A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.</description>
+  </item>
+  <item>
     <title>canton-network / splice</title>
     <link>https://github.com/canton-network/splice</link>
     <description>Splice repository</description>
-  </item>
-  <item>
-    <title>sbt / sbt</title>
-    <link>https://github.com/sbt/sbt</link>
-    <description>sbt, the interactive build tool</description>
-  </item>
-  <item>
-    <title>scalapb / ScalaPB</title>
-    <link>https://github.com/scalapb/ScalaPB</link>
-    <description>Protocol buffer compiler for Scala.</description>
-  </item>
-  <item>
-    <title>scalameta / scalafmt</title>
-    <link>https://github.com/scalameta/scalafmt</link>
-    <description>Code formatter for Scala</description>
-  </item>
-  <item>
-    <title>playframework / playframework</title>
-    <link>https://github.com/playframework/playframework</link>
-    <description>The Community Maintained High Velocity Web Framework For Java and Scala.</description>
-  </item>
-  <item>
-    <title>NVIDIA / cudf-spark</title>
-    <link>https://github.com/NVIDIA/cudf-spark</link>
-    <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
-  </item>
-  <item>
-    <title>apache / kyuubi</title>
-    <link>https://github.com/apache/kyuubi</link>
-    <description>Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</description>
-  </item>
-  <item>
-    <title>zio / zio</title>
-    <link>https://github.com/zio/zio</link>
-    <description>ZIO — A type-safe, composable library for async and concurrent programming in Scala</description>
-  </item>
-  <item>
-    <title>chipsalliance / rocket-chip</title>
-    <link>https://github.com/chipsalliance/rocket-chip</link>
-    <description>Rocket Chip Generator</description>
-  </item>
-  <item>
-    <title>apache / tvm-vta</title>
-    <link>https://github.com/apache/tvm-vta</link>
-    <description>Open, Modular, Deep Learning Accelerator</description>
   </item>
   <item>
     <title>gatling / gatling</title>
@@ -106,9 +61,49 @@
     <description>Modern Load Testing as Code</description>
   </item>
   <item>
-    <title>http4s / http4s</title>
-    <link>https://github.com/http4s/http4s</link>
-    <description>A minimal, idiomatic Scala interface for HTTP</description>
+    <title>zio / zio</title>
+    <link>https://github.com/zio/zio</link>
+    <description>ZIO — A type-safe, composable library for async and concurrent programming in Scala</description>
+  </item>
+  <item>
+    <title>apache / kyuubi</title>
+    <link>https://github.com/apache/kyuubi</link>
+    <description>Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</description>
+  </item>
+  <item>
+    <title>apache / tvm-vta</title>
+    <link>https://github.com/apache/tvm-vta</link>
+    <description>Open, Modular, Deep Learning Accelerator</description>
+  </item>
+  <item>
+    <title>scalameta / scalafmt</title>
+    <link>https://github.com/scalameta/scalafmt</link>
+    <description>Code formatter for Scala</description>
+  </item>
+  <item>
+    <title>TheHive-Project / TheHive</title>
+    <link>https://github.com/TheHive-Project/TheHive</link>
+    <description>TheHive is a Collaborative Case Management Platform, now distributed as a commercial version</description>
+  </item>
+  <item>
+    <title>sbt / sbt</title>
+    <link>https://github.com/sbt/sbt</link>
+    <description>sbt, the interactive build tool</description>
+  </item>
+  <item>
+    <title>playframework / playframework</title>
+    <link>https://github.com/playframework/playframework</link>
+    <description>The Community Maintained High Velocity Web Framework For Java and Scala.</description>
+  </item>
+  <item>
+    <title>scalapb / ScalaPB</title>
+    <link>https://github.com/scalapb/ScalaPB</link>
+    <description>Protocol buffer compiler for Scala.</description>
+  </item>
+  <item>
+    <title>chipsalliance / rocket-chip</title>
+    <link>https://github.com/chipsalliance/rocket-chip</link>
+    <description>Rocket Chip Generator</description>
   </item>
   <item>
     <title>MightyPirates / OpenComputers</title>
@@ -116,9 +111,14 @@
     <description>Home of the OpenComputers mod for Minecraft.</description>
   </item>
   <item>
-    <title>apache / texera</title>
-    <link>https://github.com/apache/texera</link>
-    <description>Human-AI Collaborative Data Science Using Visual Workflows</description>
+    <title>gitbucket / gitbucket</title>
+    <link>https://github.com/gitbucket/gitbucket</link>
+    <description>A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</description>
+  </item>
+  <item>
+    <title>http4s / http4s</title>
+    <link>https://github.com/http4s/http4s</link>
+    <description>A minimal, idiomatic Scala interface for HTTP</description>
   </item>
   <item>
     <title>snowplow / snowplow</title>
@@ -126,9 +126,9 @@
     <description>The leader in Customer Data Infrastructure</description>
   </item>
   <item>
-    <title>TheHive-Project / TheHive</title>
-    <link>https://github.com/TheHive-Project/TheHive</link>
-    <description>TheHive is a Collaborative Case Management Platform, now distributed as a commercial version</description>
+    <title>scalameta / metals</title>
+    <link>https://github.com/scalameta/metals</link>
+    <description>Scala language server with rich IDE features 🚀</description>
   </item>
 </channel>
 </rss>

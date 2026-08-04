@@ -2,17 +2,17 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
-      "title": "AlDanial / cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "title": "asbru-cm / asbru-cm",
+      "url": "https://github.com/asbru-cm/asbru-cm",
+      "description": "Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23389,
-      "forks": 1120,
-      "added_stars": "7 stars today"
+      "stars": 1285,
+      "forks": 153,
+      "added_stars": "34 stars today"
     },
     {
       "title": "lm-sensors / lm-sensors",
@@ -22,17 +22,47 @@
       "languageColor": "#0298c3",
       "stars": 1128,
       "forks": 298,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "znuny / Znuny",
-      "url": "https://github.com/znuny/Znuny",
-      "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
+      "title": "szTheory / exifcleaner",
+      "url": "https://github.com/szTheory/exifcleaner",
+      "description": "Cross-platform desktop GUI app to clean image metadata",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 584,
-      "forks": 121,
+      "stars": 2546,
+      "forks": 161,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "OpenKore / openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1502,
+      "forks": 1215,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "Perl / perl5",
+      "url": "https://github.com/Perl/perl5",
+      "description": "🐪 The Perl programming language",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 2310,
+      "forks": 635,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19640,
+      "forks": 2105,
+      "added_stars": "4 stars today"
     },
     {
       "title": "yaml / yaml-test-suite",
@@ -41,8 +71,38 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 259,
-      "forks": 97,
-      "added_stars": "1 star today"
+      "forks": 96,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "awsdocs / aws-cdk-guide",
+      "url": "https://github.com/awsdocs/aws-cdk-guide",
+      "description": "User guide for the AWS Cloud Development Kit (CDK).",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 365,
+      "forks": 230,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "AlDanial / cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 23393,
+      "forks": 1120,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Difegue / LANraragi",
+      "url": "https://github.com/Difegue/LANraragi",
+      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3051,
+      "forks": 226,
+      "added_stars": "2 stars today"
     },
     {
       "title": "manwar / perlweeklychallenge-club",
@@ -55,63 +115,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
+      "title": "inverse-inc / packetfence",
+      "url": "https://github.com/inverse-inc/packetfence",
+      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19635,
-      "forks": 2105,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "exiftool / exiftool",
-      "url": "https://github.com/exiftool/exiftool",
-      "description": "ExifTool meta information reader/writer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 4919,
-      "forks": 465,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "szTheory / exifcleaner",
-      "url": "https://github.com/szTheory/exifcleaner",
-      "description": "Cross-platform desktop GUI app to clean image metadata",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 2540,
-      "forks": 160,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "holzschu / a-shell",
-      "url": "https://github.com/holzschu/a-shell",
-      "description": "A terminal for iOS, with multiple windows",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3846,
-      "forks": 200,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "OpenKore / openkore",
-      "url": "https://github.com/OpenKore/openkore",
-      "description": "A free/open source client and automation tool for Ragnarok Online",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1502,
-      "forks": 1216,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "awsdocs / aws-cdk-guide",
-      "url": "https://github.com/awsdocs/aws-cdk-guide",
-      "description": "User guide for the AWS Cloud Development Kit (CDK).",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 365,
-      "forks": 230,
+      "stars": 1658,
+      "forks": 322,
       "added_stars": "0 stars today"
     }
   ]

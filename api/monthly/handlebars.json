@@ -2,7 +2,7 @@
   "title": "GitHub Handlebars Languages Daily Trending",
   "description": "Daily Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "huggingface / hub-docs",
@@ -11,8 +11,8 @@
       "language": "Handlebars",
       "languageColor": "#f7931e",
       "stars": 580,
-      "forks": 478,
-      "added_stars": "16 stars this month"
+      "forks": 479,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "elastic / integrations",
@@ -21,7 +21,17 @@
       "language": "Handlebars",
       "languageColor": "#f7931e",
       "stars": 330,
-      "forks": 619,
+      "forks": 621,
+      "added_stars": "7 stars this month"
+    },
+    {
+      "title": "wet-boew / wet-boew",
+      "url": "https://github.com/wet-boew/wet-boew",
+      "description": "Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.",
+      "language": "Handlebars",
+      "languageColor": "#f7931e",
+      "stars": 1731,
+      "forks": 658,
       "added_stars": "7 stars this month"
     },
     {
@@ -30,9 +40,9 @@
       "description": "Learn Rust with examples (Live code editor included)",
       "language": "Handlebars",
       "languageColor": "#f7931e",
-      "stars": 8060,
-      "forks": 1563,
-      "added_stars": "46 stars this month"
+      "stars": 8061,
+      "forks": 1564,
+      "added_stars": "45 stars this month"
     }
   ]
 }

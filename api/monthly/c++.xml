@@ -4,7 +4,7 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
   <item>
     <title>abseil / abseil-cpp</title>
     <link>https://github.com/abseil/abseil-cpp</link>
@@ -31,19 +31,19 @@
     <description>Community maintained hardware plugin for vLLM on Ascend</description>
   </item>
   <item>
+    <title>moonshine-ai / moonshine</title>
+    <link>https://github.com/moonshine-ai/moonshine</link>
+    <description>Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces</description>
+  </item>
+  <item>
     <title>tensorflow / tensorflow</title>
     <link>https://github.com/tensorflow/tensorflow</link>
     <description>An Open Source Machine Learning Framework for Everyone</description>
   </item>
   <item>
-    <title>nlohmann / json</title>
-    <link>https://github.com/nlohmann/json</link>
-    <description>JSON for Modern C++</description>
-  </item>
-  <item>
-    <title>moonshine-ai / moonshine</title>
-    <link>https://github.com/moonshine-ai/moonshine</link>
-    <description>Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces</description>
+    <title>google-ai-edge / LiteRT</title>
+    <link>https://github.com/google-ai-edge/LiteRT</link>
+    <description>LiteRT, successor to TensorFlow Lite. is Google&#x27;s On-device framework for high-performance ML &amp; GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization</description>
   </item>
   <item>
     <title>catchorg / Catch2</title>
@@ -56,14 +56,9 @@
     <description>Experimental menu for GTA 5: Enhanced</description>
   </item>
   <item>
-    <title>godotengine / godot</title>
-    <link>https://github.com/godotengine/godot</link>
-    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
-  </item>
-  <item>
-    <title>alibaba / zvec</title>
-    <link>https://github.com/alibaba/zvec</link>
-    <description>A lightweight, lightning-fast, in-process vector database</description>
+    <title>nlohmann / json</title>
+    <link>https://github.com/nlohmann/json</link>
+    <description>JSON for Modern C++</description>
   </item>
   <item>
     <title>ocornut / imgui</title>
@@ -71,9 +66,9 @@
     <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
   </item>
   <item>
-    <title>google-ai-edge / LiteRT</title>
-    <link>https://github.com/google-ai-edge/LiteRT</link>
-    <description>LiteRT, successor to TensorFlow Lite. is Google&#x27;s On-device framework for high-performance ML &amp; GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization</description>
+    <title>godotengine / godot</title>
+    <link>https://github.com/godotengine/godot</link>
+    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
   </item>
   <item>
     <title>gabime / spdlog</title>
@@ -86,24 +81,14 @@
     <description>LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customizable, and has dozens of translations.</description>
   </item>
   <item>
+    <title>microsoft / terminal</title>
+    <link>https://github.com/microsoft/terminal</link>
+    <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
+  </item>
+  <item>
     <title>shadps4-emu / shadPS4</title>
     <link>https://github.com/shadps4-emu/shadPS4</link>
     <description>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</description>
-  </item>
-  <item>
-    <title>amnezia-vpn / amnezia-client</title>
-    <link>https://github.com/amnezia-vpn/amnezia-client</link>
-    <description>Amnezia VPN Client (Desktop+Mobile)</description>
-  </item>
-  <item>
-    <title>chriskohlhoff / asio</title>
-    <link>https://github.com/chriskohlhoff/asio</link>
-    <description>Asio C++ Library</description>
-  </item>
-  <item>
-    <title>jrouwe / JoltPhysics</title>
-    <link>https://github.com/jrouwe/JoltPhysics</link>
-    <description>A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.</description>
   </item>
   <item>
     <title>protocolbuffers / protobuf</title>
@@ -111,14 +96,34 @@
     <description>Protocol Buffers - Google&#x27;s data interchange format</description>
   </item>
   <item>
+    <title>jrouwe / JoltPhysics</title>
+    <link>https://github.com/jrouwe/JoltPhysics</link>
+    <description>A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.</description>
+  </item>
+  <item>
+    <title>amnezia-vpn / amnezia-client</title>
+    <link>https://github.com/amnezia-vpn/amnezia-client</link>
+    <description>Amnezia VPN Client (Desktop+Mobile)</description>
+  </item>
+  <item>
     <title>barry-ran / QtScrcpy</title>
     <link>https://github.com/barry-ran/QtScrcpy</link>
     <description>Android real-time display control software</description>
   </item>
   <item>
-    <title>microsoft / terminal</title>
-    <link>https://github.com/microsoft/terminal</link>
-    <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
+    <title>chriskohlhoff / asio</title>
+    <link>https://github.com/chriskohlhoff/asio</link>
+    <description>Asio C++ Library</description>
+  </item>
+  <item>
+    <title>wolfpld / tracy</title>
+    <link>https://github.com/wolfpld/tracy</link>
+    <description>Frame profiler</description>
+  </item>
+  <item>
+    <title>alibaba / zvec</title>
+    <link>https://github.com/alibaba/zvec</link>
+    <description>A lightweight, lightning-fast, in-process vector database</description>
   </item>
 </channel>
 </rss>

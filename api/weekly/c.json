@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "obsproject / obs-studio",
@@ -10,29 +10,9 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 74446,
-      "forks": 9530,
-      "added_stars": "320 stars this week"
-    },
-    {
-      "title": "microsoft / PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 137407,
-      "forks": 8392,
-      "added_stars": "702 stars this week"
-    },
-    {
-      "title": "libretro / RetroArch",
-      "url": "https://github.com/libretro/RetroArch",
-      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13453,
-      "forks": 2170,
-      "added_stars": "52 stars this week"
+      "stars": 74494,
+      "forks": 9548,
+      "added_stars": "333 stars this week"
     },
     {
       "title": "openwrt / openwrt",
@@ -40,19 +20,39 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27852,
+      "stars": 27856,
       "forks": 12714,
-      "added_stars": "203 stars this week"
+      "added_stars": "199 stars this week"
     },
     {
-      "title": "redcanaryco / atomic-red-team",
-      "url": "https://github.com/redcanaryco/atomic-red-team",
-      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "title": "libretro / RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12343,
-      "forks": 3183,
-      "added_stars": "83 stars this week"
+      "stars": 13457,
+      "forks": 2171,
+      "added_stars": "51 stars this week"
+    },
+    {
+      "title": "microsoft / PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 137442,
+      "forks": 8434,
+      "added_stars": "692 stars this week"
+    },
+    {
+      "title": "antirez / ds4",
+      "url": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 20425,
+      "forks": 1805,
+      "added_stars": "985 stars this week"
     },
     {
       "title": "madler / zlib",
@@ -61,58 +61,58 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 6996,
-      "forks": 2823,
+      "forks": 2825,
       "added_stars": "18 stars this week"
     },
     {
-      "title": "lvgl / lvgl",
-      "url": "https://github.com/lvgl/lvgl",
-      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+      "title": "xemu-project / xemu",
+      "url": "https://github.com/xemu-project/xemu",
+      "description": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24279,
-      "forks": 4274,
-      "added_stars": "75 stars this week"
+      "stars": 4022,
+      "forks": 489,
+      "added_stars": "26 stars this week"
     },
     {
-      "title": "raysan5 / raylib",
-      "url": "https://github.com/raysan5/raylib",
-      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "title": "karpathy / llama2.c",
+      "url": "https://github.com/karpathy/llama2.c",
+      "description": "Inference Llama 2 in one file of pure C",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34157,
-      "forks": 3225,
-      "added_stars": "125 stars this week"
+      "stars": 19916,
+      "forks": 2594,
+      "added_stars": "101 stars this week"
     },
     {
-      "title": "pgvector / pgvector",
-      "url": "https://github.com/pgvector/pgvector",
-      "description": "Open-source vector similarity search for Postgres",
+      "title": "redcanaryco / atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22451,
-      "forks": 1266,
-      "added_stars": "110 stars this week"
+      "stars": 12351,
+      "forks": 3185,
+      "added_stars": "79 stars this week"
     },
     {
-      "title": "palera1n / palera1n",
-      "url": "https://github.com/palera1n/palera1n",
-      "description": "Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.",
+      "title": "trezor / trezor-firmware",
+      "url": "https://github.com/trezor/trezor-firmware",
+      "description": "🔒 Trezor Firmware Monorepo",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6431,
-      "forks": 776,
-      "added_stars": "53 stars this week"
+      "stars": 1790,
+      "forks": 785,
+      "added_stars": "9 stars this week"
     },
     {
-      "title": "termux / termux-x11",
-      "url": "https://github.com/termux/termux-x11",
-      "description": "Termux X-server add-on.",
+      "title": "sumatrapdfreader / sumatrapdf",
+      "url": "https://github.com/sumatrapdfreader/sumatrapdf",
+      "description": "SumatraPDF reader",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4490,
-      "forks": 626,
-      "added_stars": "48 stars this week"
+      "stars": 17244,
+      "forks": 2007,
+      "added_stars": "63 stars this week"
     },
     {
       "title": "brunodev85 / winlator",
@@ -120,9 +120,29 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 18451,
-      "forks": 1583,
-      "added_stars": "94 stars this week"
+      "stars": 18467,
+      "forks": 1585,
+      "added_stars": "102 stars this week"
+    },
+    {
+      "title": "lcdyk0517 / arkos4clone",
+      "url": "https://github.com/lcdyk0517/arkos4clone",
+      "description": "ArkOS for Unofficial Devices",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 609,
+      "forks": 323,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "pgvector / pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 22468,
+      "forks": 1269,
+      "added_stars": "108 stars this week"
     },
     {
       "title": "DarkFlippers / unleashed-firmware",
@@ -130,19 +150,39 @@
       "description": "Flipper Zero Unleashed Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 21981,
-      "forks": 1923,
-      "added_stars": "79 stars this week"
+      "stars": 21987,
+      "forks": 1925,
+      "added_stars": "83 stars this week"
     },
     {
-      "title": "henrypp / simplewall",
-      "url": "https://github.com/henrypp/simplewall",
-      "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+      "title": "termux / termux-x11",
+      "url": "https://github.com/termux/termux-x11",
+      "description": "Termux X-server add-on.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8759,
-      "forks": 641,
-      "added_stars": "96 stars this week"
+      "stars": 4491,
+      "forks": 627,
+      "added_stars": "42 stars this week"
+    },
+    {
+      "title": "betaflight / betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 11306,
+      "forks": 3934,
+      "added_stars": "46 stars this week"
+    },
+    {
+      "title": "yugabyte / yugabyte-db",
+      "url": "https://github.com/yugabyte/yugabyte-db",
+      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 10446,
+      "forks": 1297,
+      "added_stars": "21 stars this week"
     },
     {
       "title": "kingToolbox / WindTerm",
@@ -150,59 +190,9 @@
       "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31836,
-      "forks": 2427,
-      "added_stars": "110 stars this week"
-    },
-    {
-      "title": "espressif / esp-idf",
-      "url": "https://github.com/espressif/esp-idf",
-      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 18687,
-      "forks": 8412,
-      "added_stars": "69 stars this week"
-    },
-    {
-      "title": "henrypp / memreduct",
-      "url": "https://github.com/henrypp/memreduct",
-      "description": "Lightweight real-time memory management application to monitor and clean system memory on your computer.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 10028,
-      "forks": 585,
-      "added_stars": "68 stars this week"
-    },
-    {
-      "title": "duixcom / Duix-Avatar",
-      "url": "https://github.com/duixcom/Duix-Avatar",
-      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14303,
-      "forks": 2407,
-      "added_stars": "123 stars this week"
-    },
-    {
-      "title": "darktable-org / darktable",
-      "url": "https://github.com/darktable-org/darktable",
-      "description": "darktable is an open source photography workflow application and raw developer",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12880,
-      "forks": 1390,
-      "added_stars": "78 stars this week"
-    },
-    {
-      "title": "quickjs-ng / quickjs",
-      "url": "https://github.com/quickjs-ng/quickjs",
-      "description": "QuickJS, the Next Generation: a mighty JavaScript engine",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 3501,
-      "forks": 341,
-      "added_stars": "79 stars this week"
+      "stars": 31845,
+      "forks": 2429,
+      "added_stars": "108 stars this week"
     }
   ]
 }

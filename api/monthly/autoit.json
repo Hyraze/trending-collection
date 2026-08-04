@@ -2,7 +2,7 @@
   "title": "GitHub Autoit Languages Daily Trending",
   "description": "Daily Trending of Autoit Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "Bioruebe / UniExtract2",
@@ -12,7 +12,17 @@
       "languageColor": "#1C3552",
       "stars": 4389,
       "forks": 386,
-      "added_stars": "42 stars this month"
+      "added_stars": "40 stars this month"
+    },
+    {
+      "title": "rcmaehl / MSEdgeRedirect",
+      "url": "https://github.com/rcmaehl/MSEdgeRedirect",
+      "description": "A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser",
+      "language": "AutoIt",
+      "languageColor": "#1C3552",
+      "stars": 5847,
+      "forks": 121,
+      "added_stars": "45 stars this month"
     },
     {
       "title": "SegoCode / AutoWall",
@@ -22,27 +32,7 @@
       "languageColor": "#1C3552",
       "stars": 745,
       "forks": 64,
-      "added_stars": "9 stars this month"
-    },
-    {
-      "title": "rcmaehl / MSEdgeRedirect",
-      "url": "https://github.com/rcmaehl/MSEdgeRedirect",
-      "description": "A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser",
-      "language": "AutoIt",
-      "languageColor": "#1C3552",
-      "stars": 5848,
-      "forks": 121,
-      "added_stars": "44 stars this month"
-    },
-    {
-      "title": "rcmaehl / WhyNotWin11",
-      "url": "https://github.com/rcmaehl/WhyNotWin11",
-      "description": "Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!",
-      "language": "AutoIt",
-      "languageColor": "#1C3552",
-      "stars": 6390,
-      "forks": 420,
-      "added_stars": "5 stars this month"
+      "added_stars": "8 stars this month"
     },
     {
       "title": "KovaaK / InterAccel",
@@ -53,6 +43,16 @@
       "stars": 338,
       "forks": 44,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "rcmaehl / WhyNotWin11",
+      "url": "https://github.com/rcmaehl/WhyNotWin11",
+      "description": "Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!",
+      "language": "AutoIt",
+      "languageColor": "#1C3552",
+      "stars": 6390,
+      "forks": 420,
+      "added_stars": "5 stars this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "hi-godot / godot-ai",
@@ -10,9 +10,9 @@
       "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 1393,
-      "forks": 93,
-      "added_stars": "134 stars this week"
+      "stars": 1422,
+      "forks": 94,
+      "added_stars": "144 stars this week"
     },
     {
       "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
@@ -20,19 +20,9 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2929,
-      "forks": 291,
-      "added_stars": "83 stars this week"
-    },
-    {
-      "title": "Orama-Interactive / Pixelorama",
-      "url": "https://github.com/Orama-Interactive/Pixelorama",
-      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 10038,
-      "forks": 532,
-      "added_stars": "47 stars this week"
+      "stars": 2948,
+      "forks": 293,
+      "added_stars": "96 stars this week"
     },
     {
       "title": "Alexofp / BDCC",
@@ -40,9 +30,29 @@
       "description": "Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 332,
-      "forks": 121,
+      "stars": 333,
+      "forks": 122,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "yurineko73 / Godot-MCP-Native",
+      "url": "https://github.com/yurineko73/Godot-MCP-Native",
+      "description": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 596,
+      "forks": 59,
+      "added_stars": "93 stars this week"
+    },
+    {
+      "title": "Orama-Interactive / Pixelorama",
+      "url": "https://github.com/Orama-Interactive/Pixelorama",
+      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 10045,
+      "forks": 532,
+      "added_stars": "44 stars this week"
     },
     {
       "title": "godotengine / godot-demo-projects",
@@ -50,9 +60,9 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 9279,
-      "forks": 2201,
-      "added_stars": "41 stars this week"
+      "stars": 9280,
+      "forks": 2202,
+      "added_stars": "36 stars this week"
     },
     {
       "title": "dialogic-godot / dialogic",
@@ -60,19 +70,9 @@
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 5870,
+      "stars": 5876,
       "forks": 340,
       "added_stars": "26 stars this week"
-    },
-    {
-      "title": "KsanaDock / Microverse",
-      "url": "https://github.com/KsanaDock/Microverse",
-      "description": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 2434,
-      "forks": 403,
-      "added_stars": "13 stars this week"
     },
     {
       "title": "bitwes / Gut",
@@ -80,9 +80,9 @@
       "description": "Godot Unit Test. Unit testing tool for Godot Game Engine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2670,
+      "stars": 2671,
       "forks": 147,
-      "added_stars": "13 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
       "title": "MudkipWorld / PNGTuber-Remix",
@@ -90,9 +90,9 @@
       "description": "An Open-source PNGTubing app :D",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 353,
+      "stars": 355,
       "forks": 50,
-      "added_stars": "4 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "Maaack / Godot-Game-Template",
@@ -100,9 +100,29 @@
       "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 1568,
+      "stars": 1570,
       "forks": 102,
-      "added_stars": "16 stars this week"
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "bitbrain / beehave",
+      "url": "https://github.com/bitbrain/beehave",
+      "description": "🐝 behavior tree AI for Godot Engine",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 3211,
+      "forks": 165,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "KsanaDock / Microverse",
+      "url": "https://github.com/KsanaDock/Microverse",
+      "description": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 2432,
+      "forks": 403,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "Rhythia / sound-space-plus",
@@ -113,16 +133,6 @@
       "stars": 240,
       "forks": 44,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "elliotfontaine / yard-godot",
-      "url": "https://github.com/elliotfontaine/yard-godot",
-      "description": "YARD is an editor plugin for Godot to manage resources and query them at runtime, with a table view in the editor as the cherry on top.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 302,
-      "forks": 18,
-      "added_stars": "12 stars this week"
     }
   ]
 }

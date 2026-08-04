@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "aquaproj / aqua-registry",
@@ -10,8 +10,18 @@
       "description": "aqua's Standard Registry",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 361,
+      "stars": 362,
       "forks": 379,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "sublime-security / sublime-rules",
+      "url": "https://github.com/sublime-security/sublime-rules",
+      "description": "Sublime rules for email attack detection, prevention, and threat hunting.",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 369,
+      "forks": 101,
       "added_stars": "1 star this week"
     },
     {
@@ -22,7 +32,7 @@
       "languageColor": "#cb171e",
       "stars": 829,
       "forks": 519,
-      "added_stars": "5 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "GTFOBins / GTFOBins.github.io",
@@ -30,9 +40,9 @@
       "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 13510,
-      "forks": 1655,
-      "added_stars": "23 stars this week"
+      "stars": 13514,
+      "forks": 1657,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "kubeflow / community-distribution",
@@ -45,16 +55,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "usnistgov / macos_security",
-      "url": "https://github.com/usnistgov/macos_security",
-      "description": "macOS Security Compliance Project",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 2429,
-      "forks": 300,
-      "added_stars": "6 stars this week"
-    },
-    {
       "title": "web-platform-dx / web-features",
       "url": "https://github.com/web-platform-dx/web-features",
       "description": "Exploring how to present Web platform features adoptability",
@@ -62,17 +62,17 @@
       "languageColor": "#cb171e",
       "stars": 892,
       "forks": 308,
-      "added_stars": "4 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
-      "title": "sublime-security / sublime-rules",
-      "url": "https://github.com/sublime-security/sublime-rules",
-      "description": "Sublime rules for email attack detection, prevention, and threat hunting.",
+      "title": "usnistgov / macos_security",
+      "url": "https://github.com/usnistgov/macos_security",
+      "description": "macOS Security Compliance Project",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 368,
-      "forks": 101,
-      "added_stars": "0 stars this week"
+      "stars": 2431,
+      "forks": 300,
+      "added_stars": "8 stars this week"
     }
   ]
 }

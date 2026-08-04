@@ -4,26 +4,11 @@
   <title>GitHub Swift Languages Daily Trending</title>
   <description>Daily Trending of Swift Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>permissionlesstech / bitchat</title>
     <link>https://github.com/permissionlesstech/bitchat</link>
     <description>bluetooth mesh chat, IRC vibes</description>
-  </item>
-  <item>
-    <title>palmier-io / palmier-pro</title>
-    <link>https://github.com/palmier-io/palmier-pro</link>
-    <description>macOS video editor built for AI</description>
-  </item>
-  <item>
-    <title>quoid / userscripts</title>
-    <link>https://github.com/quoid/userscripts</link>
-    <description>An open-source userscript manager for Safari</description>
-  </item>
-  <item>
-    <title>LiveContainer / LiveContainer</title>
-    <link>https://github.com/LiveContainer/LiveContainer</link>
-    <description>Run iOS apps without actually installing them!</description>
   </item>
   <item>
     <title>ronitsingh10 / FineTune</title>
@@ -31,9 +16,29 @@
     <description>FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.</description>
   </item>
   <item>
-    <title>microsoft / agent-host-protocol</title>
-    <link>https://github.com/microsoft/agent-host-protocol</link>
-    <description>Synchronized multi-client state for AI agent sessions</description>
+    <title>github / CopilotForXcode</title>
+    <link>https://github.com/github/CopilotForXcode</link>
+    <description>AI coding assistant for Xcode</description>
+  </item>
+  <item>
+    <title>LiveContainer / LiveContainer</title>
+    <link>https://github.com/LiveContainer/LiveContainer</link>
+    <description>Run iOS apps without actually installing them!</description>
+  </item>
+  <item>
+    <title>TelegramMessenger / Telegram-iOS</title>
+    <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
+    <description>Telegram-iOS</description>
+  </item>
+  <item>
+    <title>nikitabobko / AeroSpace</title>
+    <link>https://github.com/nikitabobko/AeroSpace</link>
+    <description>AeroSpace is an i3-like tiling window manager for macOS</description>
+  </item>
+  <item>
+    <title>iina / iina</title>
+    <link>https://github.com/iina/iina</link>
+    <description>The modern video player for macOS.</description>
   </item>
   <item>
     <title>utmapp / UTM</title>
@@ -46,19 +51,14 @@
     <description>Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices</description>
   </item>
   <item>
-    <title>TelegramMessenger / Telegram-iOS</title>
-    <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
-    <description>Telegram-iOS</description>
+    <title>microsoft / agent-host-protocol</title>
+    <link>https://github.com/microsoft/agent-host-protocol</link>
+    <description>Synchronized multi-client state for AI agent sessions</description>
   </item>
   <item>
-    <title>duongductrong / Snapzy</title>
-    <link>https://github.com/duongductrong/Snapzy</link>
-    <description>An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.</description>
-  </item>
-  <item>
-    <title>pluk-inc / markdown-preview</title>
-    <link>https://github.com/pluk-inc/markdown-preview</link>
-    <description>A simple Markdown viewer for reading .md files</description>
+    <title>quoid / userscripts</title>
+    <link>https://github.com/quoid/userscripts</link>
+    <description>An open-source userscript manager for Safari</description>
   </item>
   <item>
     <title>FluidInference / FluidAudio</title>
@@ -66,9 +66,19 @@
     <description>Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.</description>
   </item>
   <item>
-    <title>groue / GRDB.swift</title>
-    <link>https://github.com/groue/GRDB.swift</link>
-    <description>A toolkit for SQLite databases, with a focus on application development</description>
+    <title>palmier-io / palmier-pro</title>
+    <link>https://github.com/palmier-io/palmier-pro</link>
+    <description>macOS video editor built for AI</description>
+  </item>
+  <item>
+    <title>Lakr233 / vphone-cli</title>
+    <link>https://github.com/Lakr233/vphone-cli</link>
+    <description></description>
+  </item>
+  <item>
+    <title>realm / SwiftLint</title>
+    <link>https://github.com/realm/SwiftLint</link>
+    <description>A tool to enforce Swift style and conventions.</description>
   </item>
   <item>
     <title>exelban / stats</title>
@@ -76,24 +86,9 @@
     <description>macOS system monitor in your menu bar</description>
   </item>
   <item>
-    <title>matthartman / ghost-pepper</title>
-    <link>https://github.com/matthartman/ghost-pepper</link>
-    <description>100% private on-device voice models for speech-to-text and meeting transcription on macOS</description>
-  </item>
-  <item>
-    <title>jellyfin / Swiftfin</title>
-    <link>https://github.com/jellyfin/Swiftfin</link>
-    <description>Native Jellyfin Client for iOS and tvOS</description>
-  </item>
-  <item>
-    <title>p0deje / Maccy</title>
-    <link>https://github.com/p0deje/Maccy</link>
-    <description>Lightweight clipboard manager for macOS</description>
-  </item>
-  <item>
-    <title>github / CopilotForXcode</title>
-    <link>https://github.com/github/CopilotForXcode</link>
-    <description>AI coding assistant for Xcode</description>
+    <title>pluk-inc / markdown-preview</title>
+    <link>https://github.com/pluk-inc/markdown-preview</link>
+    <description>A simple Markdown viewer for reading .md files</description>
   </item>
 </channel>
 </rss>

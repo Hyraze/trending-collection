@@ -4,21 +4,21 @@
   <title>GitHub Scss Languages Daily Trending</title>
   <description>Daily Trending of Scss Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>academicpages / academicpages.github.io</title>
     <link>https://github.com/academicpages/academicpages.github.io</link>
     <description>Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.</description>
   </item>
   <item>
-    <title>vinceliuice / MacTahoe-gtk-theme</title>
-    <link>https://github.com/vinceliuice/MacTahoe-gtk-theme</link>
-    <description>MacOS Tahoe theme for gtk desktops</description>
-  </item>
-  <item>
     <title>material-components / material-web</title>
     <link>https://github.com/material-components/material-web</link>
     <description>Material Design Web Components</description>
+  </item>
+  <item>
+    <title>vinceliuice / MacTahoe-gtk-theme</title>
+    <link>https://github.com/vinceliuice/MacTahoe-gtk-theme</link>
+    <description>MacOS Tahoe theme for gtk desktops</description>
   </item>
   <item>
     <title>Ileriayo / markdown-badges</title>
@@ -31,14 +31,14 @@
     <description>⚡️ A minimal portfolio template for Developers</description>
   </item>
   <item>
+    <title>primer / css</title>
+    <link>https://github.com/primer/css</link>
+    <description>Primer is GitHub&#x27;s design system. This is the CSS implementation</description>
+  </item>
+  <item>
     <title>patternfly / patternfly</title>
     <link>https://github.com/patternfly/patternfly</link>
     <description>This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.</description>
-  </item>
-  <item>
-    <title>just-the-docs / just-the-docs</title>
-    <link>https://github.com/just-the-docs/just-the-docs</link>
-    <description>A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</description>
   </item>
   <item>
     <title>appsecco / dvna</title>
@@ -46,24 +46,14 @@
     <description>Damn Vulnerable NodeJS Application</description>
   </item>
   <item>
-    <title>primer / css</title>
-    <link>https://github.com/primer/css</link>
-    <description>Primer is GitHub&#x27;s design system. This is the CSS implementation</description>
+    <title>just-the-docs / just-the-docs</title>
+    <link>https://github.com/just-the-docs/just-the-docs</link>
+    <description>A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</description>
   </item>
   <item>
-    <title>uswds / uswds</title>
-    <link>https://github.com/uswds/uswds</link>
-    <description>The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.</description>
-  </item>
-  <item>
-    <title>ubuntu / yaru</title>
-    <link>https://github.com/ubuntu/yaru</link>
-    <description>All Ubuntu Yaru GNOME themes</description>
-  </item>
-  <item>
-    <title>thingsym / hugo-theme-techdoc</title>
-    <link>https://github.com/thingsym/hugo-theme-techdoc</link>
-    <description>The Techdoc is a Hugo Theme for technical documentation.</description>
+    <title>okta / okta-developer-docs</title>
+    <link>https://github.com/okta/okta-developer-docs</link>
+    <description>okta-developer-docs</description>
   </item>
   <item>
     <title>catppuccin / discord</title>
@@ -71,14 +61,9 @@
     <description>🎮 Soothing pastel theme for Discord</description>
   </item>
   <item>
-    <title>pages-themes / minimal</title>
-    <link>https://github.com/pages-themes/minimal</link>
-    <description>Minimal is a Jekyll theme for GitHub Pages</description>
-  </item>
-  <item>
-    <title>jekyll / minima</title>
-    <link>https://github.com/jekyll/minima</link>
-    <description>Minima is a one-size-fits-all Jekyll theme for writers.</description>
+    <title>uswds / uswds</title>
+    <link>https://github.com/uswds/uswds</link>
+    <description>The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.</description>
   </item>
   <item>
     <title>angelbruni / Geckium</title>
@@ -91,6 +76,21 @@
     <description>A Wabbajack list for Skyrim Special Edition.</description>
   </item>
   <item>
+    <title>thingsym / hugo-theme-techdoc</title>
+    <link>https://github.com/thingsym/hugo-theme-techdoc</link>
+    <description>The Techdoc is a Hugo Theme for technical documentation.</description>
+  </item>
+  <item>
+    <title>ubuntu / yaru</title>
+    <link>https://github.com/ubuntu/yaru</link>
+    <description>All Ubuntu Yaru GNOME themes</description>
+  </item>
+  <item>
+    <title>conventional-commits / conventionalcommits.org</title>
+    <link>https://github.com/conventional-commits/conventionalcommits.org</link>
+    <description>The conventional commits specification</description>
+  </item>
+  <item>
     <title>pidcodes / pidcodes.github.com</title>
     <link>https://github.com/pidcodes/pidcodes.github.com</link>
     <description>Website for pid.codes</description>
@@ -101,19 +101,24 @@
     <description></description>
   </item>
   <item>
-    <title>swisspost / design-system</title>
-    <link>https://github.com/swisspost/design-system</link>
-    <description>Patterns, components and guidance for a consistent and inclusive user experience across the web platform.</description>
-  </item>
-  <item>
     <title>opensearch-project / documentation-website</title>
     <link>https://github.com/opensearch-project/documentation-website</link>
     <description>The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.</description>
   </item>
   <item>
-    <title>mozilla / extension-workshop</title>
-    <link>https://github.com/mozilla/extension-workshop</link>
-    <description>Firefox Extension Workshop</description>
+    <title>nordtheme / nord</title>
+    <link>https://github.com/nordtheme/nord</link>
+    <description>An arctic, north-bluish color palette.</description>
+  </item>
+  <item>
+    <title>jekyll / minima</title>
+    <link>https://github.com/jekyll/minima</link>
+    <description>Minima is a one-size-fits-all Jekyll theme for writers.</description>
+  </item>
+  <item>
+    <title>pages-themes / architect</title>
+    <link>https://github.com/pages-themes/architect</link>
+    <description>Architect is a Jekyll theme for GitHub Pages</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "wrf-model / WRF",
@@ -10,19 +10,9 @@
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1723,
+      "stars": 1724,
       "forks": 867,
       "added_stars": "40 stars this month"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1175,
-      "forks": 492,
-      "added_stars": "16 stars this month"
     },
     {
       "title": "firemodels / fds",
@@ -42,7 +32,7 @@
       "languageColor": "#4d41b1",
       "stars": 944,
       "forks": 532,
-      "added_stars": "19 stars this month"
+      "added_stars": "20 stars this month"
     },
     {
       "title": "MetOffice / lfric_core",
@@ -65,14 +55,24 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "MITgcm / MITgcm",
-      "url": "https://github.com/MITgcm/MITgcm",
-      "description": "M.I.T General Circulation Model master code and documentation repository",
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 403,
-      "forks": 293,
-      "added_stars": "1 star this month"
+      "stars": 1176,
+      "forks": 492,
+      "added_stars": "17 stars this month"
+    },
+    {
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 401,
+      "forks": 745,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "MetOffice / lfric_apps",
@@ -85,14 +85,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
+      "title": "MITgcm / MITgcm",
+      "url": "https://github.com/MITgcm/MITgcm",
+      "description": "M.I.T General Circulation Model master code and documentation repository",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1646,
-      "forks": 390,
-      "added_stars": "32 stars this month"
+      "stars": 403,
+      "forks": 293,
+      "added_stars": "1 star this month"
     },
     {
       "title": "NGEET / fates",
@@ -105,14 +105,14 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 401,
-      "forks": 744,
-      "added_stars": "0 stars this month"
+      "stars": 1647,
+      "forks": 390,
+      "added_stars": "31 stars this month"
     },
     {
       "title": "grimme-lab / xtb",
@@ -121,8 +121,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 823,
-      "forks": 201,
-      "added_stars": "16 stars this month"
+      "forks": 202,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "ecmwf / fckit",

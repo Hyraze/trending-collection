@@ -4,7 +4,7 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>leanprover / lean4</title>
     <link>https://github.com/leanprover/lean4</link>
@@ -21,14 +21,14 @@
     <description>Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal</description>
   </item>
   <item>
+    <title>leanprover-community / batteries</title>
+    <link>https://github.com/leanprover-community/batteries</link>
+    <description>The &quot;batteries included&quot; extended library for the Lean programming language and theorem prover</description>
+  </item>
+  <item>
     <title>leanprover-community / aesop</title>
     <link>https://github.com/leanprover-community/aesop</link>
     <description>White-box automation for Lean 4</description>
-  </item>
-  <item>
-    <title>leanprover / lean4-cli</title>
-    <link>https://github.com/leanprover/lean4-cli</link>
-    <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
   </item>
   <item>
     <title>leanprover-community / quote4</title>
@@ -41,14 +41,14 @@
     <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
   </item>
   <item>
-    <title>leanprover-community / batteries</title>
-    <link>https://github.com/leanprover-community/batteries</link>
-    <description>The &quot;batteries included&quot; extended library for the Lean programming language and theorem prover</description>
-  </item>
-  <item>
     <title>leanprover-community / plausible</title>
     <link>https://github.com/leanprover-community/plausible</link>
     <description></description>
+  </item>
+  <item>
+    <title>leanprover / lean4-cli</title>
+    <link>https://github.com/leanprover/lean4-cli</link>
+    <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
   </item>
   <item>
     <title>leanprover-community / LeanSearchClient</title>
@@ -56,9 +56,14 @@
     <description>Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)</description>
   </item>
   <item>
-    <title>leanprover-community / mathlib3</title>
-    <link>https://github.com/leanprover-community/mathlib3</link>
-    <description>Lean 3&#x27;s obsolete mathematical components library: please use mathlib4</description>
+    <title>leanprover / cslib</title>
+    <link>https://github.com/leanprover/cslib</link>
+    <description>The Lean Computer Science Library (CSLib)</description>
+  </item>
+  <item>
+    <title>leanprover-community / physlib</title>
+    <link>https://github.com/leanprover-community/physlib</link>
+    <description>A project to digitalise results from physics into Lean.</description>
   </item>
 </channel>
 </rss>

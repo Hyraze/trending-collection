@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "ecmwf-ifs / ectrans",
@@ -12,16 +12,6 @@
       "languageColor": "#4d41b1",
       "stars": 26,
       "forks": 61,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "MetOffice / lfric_core",
-      "url": "https://github.com/MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 26,
-      "forks": 67,
       "added_stars": "0 stars this week"
     },
     {
@@ -35,14 +25,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "title": "MetOffice / lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1723,
-      "forks": 867,
-      "added_stars": "8 stars this week"
+      "stars": 26,
+      "forks": 67,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "firemodels / fds",
@@ -55,14 +45,54 @@
       "added_stars": "3 stars this week"
     },
     {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1724,
+      "forks": 867,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "GEOS-ESM / MAPL",
+      "url": "https://github.com/GEOS-ESM/MAPL",
+      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 43,
+      "forks": 25,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "cp2k / cp2k",
       "url": "https://github.com/cp2k/cp2k",
       "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1175,
+      "stars": 1176,
       "forks": 492,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1647,
+      "forks": 390,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 401,
+      "forks": 745,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "ecmwf / fckit",
@@ -75,34 +105,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1646,
-      "forks": 390,
-      "added_stars": "9 stars this week"
-    },
-    {
       "title": "grimme-lab / xtb",
       "url": "https://github.com/grimme-lab/xtb",
       "description": "Semiempirical Extended Tight-Binding Program Package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 823,
-      "forks": 201,
+      "forks": 202,
       "added_stars": "3 stars this week"
-    },
-    {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 401,
-      "forks": 744,
-      "added_stars": "0 stars this week"
     }
   ]
 }

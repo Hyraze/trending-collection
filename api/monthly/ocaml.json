@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "ocaml / ocaml",
@@ -10,9 +10,9 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6507,
-      "forks": 1361,
-      "added_stars": "168 stars this month"
+      "stars": 6508,
+      "forks": 1390,
+      "added_stars": "172 stars this month"
     },
     {
       "title": "semgrep / semgrep",
@@ -20,9 +20,9 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 16092,
-      "forks": 1010,
-      "added_stars": "396 stars this month"
+      "stars": 16101,
+      "forks": 1011,
+      "added_stars": "385 stars this month"
     },
     {
       "title": "opengrep / opengrep",
@@ -30,9 +30,29 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 2861,
-      "forks": 233,
-      "added_stars": "125 stars this month"
+      "stars": 2869,
+      "forks": 234,
+      "added_stars": "127 stars this month"
+    },
+    {
+      "title": "ocaml / dune",
+      "url": "https://github.com/ocaml/dune",
+      "description": "A composable build system for OCaml.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 1907,
+      "forks": 488,
+      "added_stars": "16 stars this month"
+    },
+    {
+      "title": "rocq-prover / rocq",
+      "url": "https://github.com/rocq-prover/rocq",
+      "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 5543,
+      "forks": 746,
+      "added_stars": "44 stars this month"
     },
     {
       "title": "MLstate / opalang",
@@ -45,44 +65,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "ocaml / dune",
-      "url": "https://github.com/ocaml/dune",
-      "description": "A composable build system for OCaml.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1906,
-      "forks": 488,
-      "added_stars": "15 stars this month"
-    },
-    {
-      "title": "rocq-prover / rocq",
-      "url": "https://github.com/rocq-prover/rocq",
-      "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 5542,
-      "forks": 745,
-      "added_stars": "45 stars this month"
-    },
-    {
       "title": "MinaProtocol / mina",
       "url": "https://github.com/MinaProtocol/mina",
       "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
       "stars": 2116,
-      "forks": 583,
+      "forks": 584,
       "added_stars": "8 stars this month"
-    },
-    {
-      "title": "savonet / liquidsoap",
-      "url": "https://github.com/savonet/liquidsoap",
-      "description": "Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1711,
-      "forks": 159,
-      "added_stars": "33 stars this month"
     },
     {
       "title": "bcpierce00 / unison",
@@ -90,9 +80,9 @@
       "description": "Unison file synchronizer",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 5419,
+      "stars": 5420,
       "forks": 272,
-      "added_stars": "49 stars this month"
+      "added_stars": "48 stars this month"
     },
     {
       "title": "AeneasVerif / aeneas",
@@ -100,9 +90,9 @@
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 887,
-      "forks": 93,
-      "added_stars": "63 stars this month"
+      "stars": 888,
+      "forks": 94,
+      "added_stars": "59 stars this month"
     }
   ]
 }

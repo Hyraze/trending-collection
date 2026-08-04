@@ -2,8 +2,28 @@
   "title": "GitHub Vue Languages Daily Trending",
   "description": "Daily Trending of Vue Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
+    {
+      "title": "FreeTubeApp / FreeTube",
+      "url": "https://github.com/FreeTubeApp/FreeTube",
+      "description": "An Open Source YouTube app for privacy",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 21588,
+      "forks": 1465,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "frappe / crm",
+      "url": "https://github.com/frappe/crm",
+      "description": "Fully featured, open source CRM",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 3080,
+      "forks": 1287,
+      "added_stars": "13 stars today"
+    },
     {
       "title": "RikkaApps / websites",
       "url": "https://github.com/RikkaApps/websites",
@@ -11,38 +31,8 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": 425,
-      "forks": 55585,
+      "forks": 55782,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "FreeTubeApp / FreeTube",
-      "url": "https://github.com/FreeTubeApp/FreeTube",
-      "description": "An Open Source YouTube app for privacy",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 21583,
-      "forks": 1464,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "keleus / BewlyCat",
-      "url": "https://github.com/keleus/BewlyCat",
-      "description": "BewlyCat——基于BewlyBewly开发的Bilibili拓展",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 3858,
-      "forks": 110,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "FoggedLens / deflock",
-      "url": "https://github.com/FoggedLens/deflock",
-      "description": "Crowdsourced tool for locating and reporting ALPRs",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 785,
-      "forks": 96,
-      "added_stars": "7 stars today"
     },
     {
       "title": "algerkong / AlgerMusicPlayer",
@@ -50,18 +40,48 @@
       "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 16287,
-      "forks": 1329,
-      "added_stars": "11 stars today"
+      "stars": 16298,
+      "forks": 1330,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "vueComponent / ant-design-vue",
-      "url": "https://github.com/vueComponent/ant-design-vue",
-      "description": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
+      "title": "requarks / wiki",
+      "url": "https://github.com/requarks/wiki",
+      "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 21608,
-      "forks": 3900,
+      "stars": 28707,
+      "forks": 3284,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "keleus / BewlyCat",
+      "url": "https://github.com/keleus/BewlyCat",
+      "description": "BewlyCat——基于BewlyBewly开发的Bilibili拓展",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 3873,
+      "forks": 111,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "VueTorrent / VueTorrent",
+      "url": "https://github.com/VueTorrent/VueTorrent",
+      "description": "The sleekest looking WEBUI for qBittorrent made with Vuejs!",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 6906,
+      "forks": 335,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "advplyr / audiobookshelf-app",
+      "url": "https://github.com/advplyr/audiobookshelf-app",
+      "description": "Mobile application for Audiobookshelf",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 2621,
+      "forks": 403,
       "added_stars": "1 star today"
     },
     {
@@ -70,79 +90,19 @@
       "description": "利用Cloudflare R2 + Workers搭建在线网盘",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 482,
-      "forks": 1621,
+      "stars": 486,
+      "forks": 1632,
       "added_stars": "6 stars today"
     },
     {
-      "title": "RLS-Modding / rls_career_overhaul",
-      "url": "https://github.com/RLS-Modding/rls_career_overhaul",
-      "description": "A Career Overhaul mod for BeamNG.drive! Enhances various aspects of the game, including freeroam events, police interactions, the economy, deliveries, insurance, garage space, and dealerships. Dive into a more immersive and challenging career mode enriched with new features and improvements.",
+      "title": "BewlyBewly / BewlyBewly",
+      "url": "https://github.com/BewlyBewly/BewlyBewly",
+      "description": "Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 243,
-      "forks": 28,
+      "stars": 8854,
+      "forks": 397,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "Virtual-Browser / VirtualBrowser",
-      "url": "https://github.com/Virtual-Browser/VirtualBrowser",
-      "description": "Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 3030,
-      "forks": 480,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "xiaoshengxianjun / 51mazi",
-      "url": "https://github.com/xiaoshengxianjun/51mazi",
-      "description": "我要码字，这可能会是最好用的小说写作软件。51mazi是一款基于 Electron + Vue 3 技术栈开发的桌面小说写作软件，专为小说创作者设计，它不仅集成了随机取名，小说地图设计、关系图谱、人物档案，时间线等创作辅助工具，还集成了AI写作、AI生成封面，AI生成人物图等AI辅助功能，此外，还支持网文小说下载，让小说创作变得更加高效和有趣。",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 420,
-      "forks": 65,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "CorentinTh / it-tools",
-      "url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX.",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 40056,
-      "forks": 5275,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "vuejs / docs",
-      "url": "https://github.com/vuejs/docs",
-      "description": "📄 Documentation for Vue 3",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 3234,
-      "forks": 5040,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "yuhonas / free-exercise-db",
-      "url": "https://github.com/yuhonas/free-exercise-db",
-      "description": "Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 1707,
-      "forks": 444,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "PanJiaChen / vue-element-admin",
-      "url": "https://github.com/PanJiaChen/vue-element-admin",
-      "description": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 90238,
-      "forks": 30375,
-      "added_stars": "3 stars today"
     },
     {
       "title": "julyx10 / lap",
@@ -150,49 +110,99 @@
       "description": "An offline-first photo manager for large local libraries",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 1400,
-      "forks": 62,
-      "added_stars": "17 stars today"
+      "stars": 1429,
+      "forks": 66,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "vbenjs / vue-vben-admin",
-      "url": "https://github.com/vbenjs/vue-vben-admin",
-      "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+      "title": "crmeb / CRMEB",
+      "url": "https://github.com/crmeb/CRMEB",
+      "description": "🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 33023,
-      "forks": 8900,
-      "added_stars": "3 stars today"
+      "stars": 9193,
+      "forks": 2080,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "unovue / reka-ui",
-      "url": "https://github.com/unovue/reka-ui",
-      "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+      "title": "RLS-Modding / rls_career_overhaul",
+      "url": "https://github.com/RLS-Modding/rls_career_overhaul",
+      "description": "A Career Overhaul mod for BeamNG.drive! Enhances various aspects of the game, including freeroam events, police interactions, the economy, deliveries, insurance, garage space, and dealerships. Dive into a more immersive and challenging career mode enriched with new features and improvements.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 6691,
-      "forks": 536,
-      "added_stars": "3 stars today"
+      "stars": 244,
+      "forks": 28,
+      "added_stars": "1 star today"
     },
     {
-      "title": "bruhnn / BD2ModManager",
-      "url": "https://github.com/bruhnn/BD2ModManager",
-      "description": "Brown Dust 2 Mod Manager to help you manage mods.",
+      "title": "pterodactyl / documentation",
+      "url": "https://github.com/pterodactyl/documentation",
+      "description": "Pterodactyl's documentation is open source! This repository contains the documentation for installing and updating both the panel and the daemon.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 334,
-      "forks": 18,
+      "stars": 194,
+      "forks": 2114,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "frappe / builder",
+      "url": "https://github.com/frappe/builder",
+      "description": "Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 2214,
+      "forks": 497,
       "added_stars": "2 stars today"
     },
     {
-      "title": "cfw-guide / ios.cfw.guide",
-      "url": "https://github.com/cfw-guide/ios.cfw.guide",
-      "description": "A complete iOS modding guide, from stock to jailbroken.",
+      "title": "frappe / suite",
+      "url": "https://github.com/frappe/suite",
+      "description": "Original, intentionally designed productivity tools",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 747,
-      "forks": 198,
+      "stars": 60,
+      "forks": 31,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "FoggedLens / deflock",
+      "url": "https://github.com/FoggedLens/deflock",
+      "description": "Crowdsourced tool for locating and reporting ALPRs",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 792,
+      "forks": 97,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "CorentinTh / it-tools",
+      "url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 40069,
+      "forks": 5282,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "ElemeFE / element",
+      "url": "https://github.com/ElemeFE/element",
+      "description": "A Vue.js 2.0 UI Toolkit for Web",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 54075,
+      "forks": 14429,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "imsyy / yt-dlp-gui",
+      "url": "https://github.com/imsyy/yt-dlp-gui",
+      "description": "A modern cross-platform GUI for yt-dlp. Download videos from YouTube, Bilibili, TikTok and 1000+ sites. Built with Tauri + Vue.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 171,
+      "forks": 24,
+      "added_stars": "3 stars today"
     }
   ]
 }

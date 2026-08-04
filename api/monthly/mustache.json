@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "prometheus-community / helm-charts",
@@ -10,7 +10,7 @@
       "description": "Prometheus community Helm charts",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 6164,
+      "stars": 6165,
       "forks": 5379,
       "added_stars": "22 stars this month"
     },
@@ -30,8 +30,8 @@
       "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 17781,
-      "forks": 5967,
+      "stars": 17780,
+      "forks": 5966,
       "added_stars": "28 stars this month"
     },
     {
@@ -40,9 +40,9 @@
       "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 882,
+      "stars": 883,
       "forks": 792,
-      "added_stars": "16 stars this month"
+      "added_stars": "17 stars this month"
     },
     {
       "title": "argoproj / argo-helm",
@@ -52,17 +52,7 @@
       "languageColor": "#724b3b",
       "stars": 2338,
       "forks": 2100,
-      "added_stars": "23 stars this month"
-    },
-    {
-      "title": "temporalio / helm-charts",
-      "url": "https://github.com/temporalio/helm-charts",
-      "description": "Temporal Helm charts",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 554,
-      "forks": 447,
-      "added_stars": "7 stars this month"
+      "added_stars": "21 stars this month"
     },
     {
       "title": "goharbor / harbor-helm",
@@ -72,6 +62,16 @@
       "languageColor": "#724b3b",
       "stars": 1509,
       "forks": 861,
+      "added_stars": "7 stars this month"
+    },
+    {
+      "title": "temporalio / helm-charts",
+      "url": "https://github.com/temporalio/helm-charts",
+      "description": "Temporal Helm charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 554,
+      "forks": 447,
       "added_stars": "7 stars this month"
     },
     {
@@ -93,6 +93,16 @@
       "stars": 180,
       "forks": 67,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "netbox-community / netbox-chart",
+      "url": "https://github.com/netbox-community/netbox-chart",
+      "description": "A Helm chart for NetBox",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 350,
+      "forks": 183,
+      "added_stars": "5 stars this month"
     }
   ]
 }

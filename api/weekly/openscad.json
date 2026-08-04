@@ -2,7 +2,7 @@
   "title": "GitHub Openscad Languages Daily Trending",
   "description": "Daily Trending of Openscad Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "MicrosoftDocs / windows-driver-docs",
@@ -11,7 +11,7 @@
       "language": "OpenSCAD",
       "languageColor": "#e5cd45",
       "stars": 1056,
-      "forks": 864,
+      "forks": 863,
       "added_stars": "2 stars this week"
     },
     {
@@ -20,9 +20,9 @@
       "description": "The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA",
       "language": "OpenSCAD",
       "languageColor": "#e5cd45",
-      "stars": 2298,
+      "stars": 2299,
       "forks": 201,
-      "added_stars": "12 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "VoronDesign / VoronUsers",
@@ -32,7 +32,17 @@
       "languageColor": "#e5cd45",
       "stars": 3325,
       "forks": 1849,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "kennetek / gridfinity-rebuilt-openscad",
+      "url": "https://github.com/kennetek/gridfinity-rebuilt-openscad",
+      "description": "A ground-up rebuild of the stock gridfinity bins in OpenSCAD",
+      "language": "OpenSCAD",
+      "languageColor": "#e5cd45",
+      "stars": 2212,
+      "forks": 318,
+      "added_stars": "3 stars this week"
     }
   ]
 }

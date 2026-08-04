@@ -2,27 +2,17 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
-    {
-      "title": "pascalorg / editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 20787,
-      "forks": 2668,
-      "added_stars": "3,163 stars this week"
-    },
     {
       "title": "moeru-ai / airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 46591,
-      "forks": 4593,
-      "added_stars": "3,431 stars this week"
+      "stars": 46747,
+      "forks": 4612,
+      "added_stars": "2,978 stars this week"
     },
     {
       "title": "opengeos / GeoLibre",
@@ -30,29 +20,19 @@
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5031,
-      "forks": 502,
-      "added_stars": "2,933 stars this week"
+      "stars": 5243,
+      "forks": 521,
+      "added_stars": "2,630 stars this week"
     },
     {
-      "title": "pingdotgg / t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
+      "title": "pascalorg / editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16368,
-      "forks": 3648,
-      "added_stars": "1,431 stars this week"
-    },
-    {
-      "title": "diegosouzapw / OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 38074,
-      "forks": 4969,
-      "added_stars": "7,141 stars this week"
+      "stars": 20955,
+      "forks": 2678,
+      "added_stars": "2,953 stars this week"
     },
     {
       "title": "different-ai / openwork",
@@ -60,19 +40,29 @@
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 20464,
-      "forks": 2098,
-      "added_stars": "2,925 stars this week"
+      "stars": 20726,
+      "forks": 2032,
+      "added_stars": "3,429 stars this week"
     },
     {
-      "title": "seerr-team / seerr",
-      "url": "https://github.com/seerr-team/seerr",
-      "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12119,
-      "forks": 955,
-      "added_stars": "124 stars this week"
+      "stars": 16536,
+      "forks": 3696,
+      "added_stars": "1,270 stars this week"
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 38948,
+      "forks": 5141,
+      "added_stars": "6,866 stars this week"
     },
     {
       "title": "Effect-TS / effect",
@@ -80,19 +70,19 @@
       "description": "Build production-ready applications in TypeScript",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15137,
-      "forks": 649,
+      "stars": 15147,
+      "forks": 653,
       "added_stars": "136 stars this week"
     },
     {
-      "title": "CoreBunch / Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "title": "seerr-team / seerr",
+      "url": "https://github.com/seerr-team/seerr",
+      "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7336,
-      "forks": 646,
-      "added_stars": "1,716 stars this week"
+      "stars": 12130,
+      "forks": 956,
+      "added_stars": "127 stars this week"
     },
     {
       "title": "Koenkk / zigbee2mqtt",
@@ -100,59 +90,19 @@
       "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15470,
-      "forks": 1974,
-      "added_stars": "139 stars this week"
+      "stars": 15474,
+      "forks": 1976,
+      "added_stars": "138 stars this week"
     },
     {
-      "title": "MoonshotAI / kimi-code",
-      "url": "https://github.com/MoonshotAI/kimi-code",
-      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5939,
-      "forks": 919,
-      "added_stars": "759 stars this week"
-    },
-    {
-      "title": "koala73 / worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 78224,
-      "forks": 11693,
-      "added_stars": "3,525 stars this week"
-    },
-    {
-      "title": "modelcontextprotocol / typescript-sdk",
-      "url": "https://github.com/modelcontextprotocol/typescript-sdk",
-      "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 13043,
-      "forks": 2042,
-      "added_stars": "99 stars this week"
-    },
-    {
-      "title": "UditAkhourii / adhd",
-      "url": "https://github.com/UditAkhourii/adhd",
-      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 3125,
-      "forks": 229,
-      "added_stars": "746 stars this week"
-    },
-    {
-      "title": "BuilderIO / agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agent-native applications.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4379,
-      "forks": 412,
-      "added_stars": "337 stars this week"
+      "stars": 12366,
+      "forks": 1166,
+      "added_stars": "2,463 stars this week"
     },
     {
       "title": "modelcontextprotocol / modelcontextprotocol",
@@ -160,9 +110,19 @@
       "description": "Specification and documentation for the Model Context Protocol",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8836,
-      "forks": 1686,
-      "added_stars": "151 stars this week"
+      "stars": 8850,
+      "forks": 1687,
+      "added_stars": "143 stars this week"
+    },
+    {
+      "title": "modelcontextprotocol / typescript-sdk",
+      "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+      "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 13053,
+      "forks": 2046,
+      "added_stars": "95 stars this week"
     },
     {
       "title": "microsoft / azure-devops-mcp",
@@ -170,29 +130,9 @@
       "description": "The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1936,
-      "forks": 618,
-      "added_stars": "27 stars this week"
-    },
-    {
-      "title": "every-app / open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 10139,
-      "forks": 1159,
-      "added_stars": "1,939 stars this week"
-    },
-    {
-      "title": "earendil-works / pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 82535,
-      "forks": 10212,
-      "added_stars": "4,376 stars this week"
+      "stars": 1938,
+      "forks": 619,
+      "added_stars": "26 stars this week"
     },
     {
       "title": "vuejs / core",
@@ -200,9 +140,59 @@
       "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 54091,
-      "forks": 9175,
-      "added_stars": "86 stars this week"
+      "stars": 54106,
+      "forks": 9177,
+      "added_stars": "93 stars this week"
+    },
+    {
+      "title": "vuetifyjs / vuetify",
+      "url": "https://github.com/vuetifyjs/vuetify",
+      "description": "🐉 Vue Component Framework",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 41025,
+      "forks": 7136,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "chatboxai / chatbox",
+      "url": "https://github.com/chatboxai/chatbox",
+      "description": "Powerful AI Client",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 41299,
+      "forks": 4183,
+      "added_stars": "163 stars this week"
+    },
+    {
+      "title": "CoreBunch / Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 7467,
+      "forks": 657,
+      "added_stars": "1,336 stars this week"
+    },
+    {
+      "title": "appwrite / appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 56776,
+      "forks": 5601,
+      "added_stars": "114 stars this week"
+    },
+    {
+      "title": "UditAkhourii / adhd",
+      "url": "https://github.com/UditAkhourii/adhd",
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3171,
+      "forks": 233,
+      "added_stars": "729 stars this week"
     }
   ]
 }

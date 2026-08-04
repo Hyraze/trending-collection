@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "permissionlesstech / bitchat",
@@ -10,39 +10,9 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 34205,
-      "forks": 5463,
-      "added_stars": "4,942 stars this week"
-    },
-    {
-      "title": "palmier-io / palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 13009,
-      "forks": 969,
-      "added_stars": "603 stars this week"
-    },
-    {
-      "title": "quoid / userscripts",
-      "url": "https://github.com/quoid/userscripts",
-      "description": "An open-source userscript manager for Safari",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 4676,
-      "forks": 434,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "LiveContainer / LiveContainer",
-      "url": "https://github.com/LiveContainer/LiveContainer",
-      "description": "Run iOS apps without actually installing them!",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 10484,
-      "forks": 839,
-      "added_stars": "257 stars this week"
+      "stars": 34341,
+      "forks": 5480,
+      "added_stars": "2,381 stars this week"
     },
     {
       "title": "ronitsingh10 / FineTune",
@@ -50,129 +20,9 @@
       "description": "FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8504,
-      "forks": 291,
-      "added_stars": "270 stars this week"
-    },
-    {
-      "title": "microsoft / agent-host-protocol",
-      "url": "https://github.com/microsoft/agent-host-protocol",
-      "description": "Synchronized multi-client state for AI agent sessions",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 181,
-      "forks": 45,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "utmapp / UTM",
-      "url": "https://github.com/utmapp/UTM",
-      "description": "Virtual machines for iOS and macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 34869,
-      "forks": 1774,
-      "added_stars": "94 stars this week"
-    },
-    {
-      "title": "ts1 / BLEUnlock",
-      "url": "https://github.com/ts1/BLEUnlock",
-      "description": "Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 4313,
-      "forks": 282,
-      "added_stars": "81 stars this week"
-    },
-    {
-      "title": "TelegramMessenger / Telegram-iOS",
-      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
-      "description": "Telegram-iOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 8800,
-      "forks": 2759,
-      "added_stars": "35 stars this week"
-    },
-    {
-      "title": "duongductrong / Snapzy",
-      "url": "https://github.com/duongductrong/Snapzy",
-      "description": "An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 2569,
-      "forks": 141,
-      "added_stars": "133 stars this week"
-    },
-    {
-      "title": "pluk-inc / markdown-preview",
-      "url": "https://github.com/pluk-inc/markdown-preview",
-      "description": "A simple Markdown viewer for reading .md files",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1726,
-      "forks": 72,
-      "added_stars": "347 stars this week"
-    },
-    {
-      "title": "FluidInference / FluidAudio",
-      "url": "https://github.com/FluidInference/FluidAudio",
-      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 2589,
-      "forks": 364,
-      "added_stars": "63 stars this week"
-    },
-    {
-      "title": "groue / GRDB.swift",
-      "url": "https://github.com/groue/GRDB.swift",
-      "description": "A toolkit for SQLite databases, with a focus on application development",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 8581,
-      "forks": 1007,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "exelban / stats",
-      "url": "https://github.com/exelban/stats",
-      "description": "macOS system monitor in your menu bar",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 40942,
-      "forks": 1455,
-      "added_stars": "158 stars this week"
-    },
-    {
-      "title": "matthartman / ghost-pepper",
-      "url": "https://github.com/matthartman/ghost-pepper",
-      "description": "100% private on-device voice models for speech-to-text and meeting transcription on macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 3049,
-      "forks": 182,
-      "added_stars": "76 stars this week"
-    },
-    {
-      "title": "jellyfin / Swiftfin",
-      "url": "https://github.com/jellyfin/Swiftfin",
-      "description": "Native Jellyfin Client for iOS and tvOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 4061,
-      "forks": 554,
-      "added_stars": "21 stars this week"
-    },
-    {
-      "title": "p0deje / Maccy",
-      "url": "https://github.com/p0deje/Maccy",
-      "description": "Lightweight clipboard manager for macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 20982,
-      "forks": 1080,
-      "added_stars": "121 stars this week"
+      "stars": 8519,
+      "forks": 292,
+      "added_stars": "197 stars this week"
     },
     {
       "title": "github / CopilotForXcode",
@@ -180,9 +30,149 @@
       "description": "AI coding assistant for Xcode",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 6239,
-      "forks": 1959,
+      "stars": 6241,
+      "forks": 1961,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "LiveContainer / LiveContainer",
+      "url": "https://github.com/LiveContainer/LiveContainer",
+      "description": "Run iOS apps without actually installing them!",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 10491,
+      "forks": 840,
+      "added_stars": "262 stars this week"
+    },
+    {
+      "title": "TelegramMessenger / Telegram-iOS",
+      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 8806,
+      "forks": 2762,
+      "added_stars": "35 stars this week"
+    },
+    {
+      "title": "nikitabobko / AeroSpace",
+      "url": "https://github.com/nikitabobko/AeroSpace",
+      "description": "AeroSpace is an i3-like tiling window manager for macOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 22135,
+      "forks": 611,
+      "added_stars": "173 stars this week"
+    },
+    {
+      "title": "iina / iina",
+      "url": "https://github.com/iina/iina",
+      "description": "The modern video player for macOS.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 45801,
+      "forks": 2882,
+      "added_stars": "101 stars this week"
+    },
+    {
+      "title": "utmapp / UTM",
+      "url": "https://github.com/utmapp/UTM",
+      "description": "Virtual machines for iOS and macOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 34878,
+      "forks": 1775,
+      "added_stars": "92 stars this week"
+    },
+    {
+      "title": "ts1 / BLEUnlock",
+      "url": "https://github.com/ts1/BLEUnlock",
+      "description": "Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 4321,
+      "forks": 284,
+      "added_stars": "52 stars this week"
+    },
+    {
+      "title": "microsoft / agent-host-protocol",
+      "url": "https://github.com/microsoft/agent-host-protocol",
+      "description": "Synchronized multi-client state for AI agent sessions",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 187,
+      "forks": 45,
+      "added_stars": "36 stars this week"
+    },
+    {
+      "title": "quoid / userscripts",
+      "url": "https://github.com/quoid/userscripts",
+      "description": "An open-source userscript manager for Safari",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 4681,
+      "forks": 434,
       "added_stars": "23 stars this week"
+    },
+    {
+      "title": "FluidInference / FluidAudio",
+      "url": "https://github.com/FluidInference/FluidAudio",
+      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2600,
+      "forks": 365,
+      "added_stars": "70 stars this week"
+    },
+    {
+      "title": "palmier-io / palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 13042,
+      "forks": 969,
+      "added_stars": "530 stars this week"
+    },
+    {
+      "title": "Lakr233 / vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 7486,
+      "forks": 1096,
+      "added_stars": "116 stars this week"
+    },
+    {
+      "title": "realm / SwiftLint",
+      "url": "https://github.com/realm/SwiftLint",
+      "description": "A tool to enforce Swift style and conventions.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 19682,
+      "forks": 2318,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "exelban / stats",
+      "url": "https://github.com/exelban/stats",
+      "description": "macOS system monitor in your menu bar",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 40965,
+      "forks": 1457,
+      "added_stars": "164 stars this week"
+    },
+    {
+      "title": "pluk-inc / markdown-preview",
+      "url": "https://github.com/pluk-inc/markdown-preview",
+      "description": "A simple Markdown viewer for reading .md files",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 1753,
+      "forks": 72,
+      "added_stars": "238 stars this week"
     }
   ]
 }

@@ -4,11 +4,11 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
   <item>
-    <title>sharkdp / bat</title>
-    <link>https://github.com/sharkdp/bat</link>
-    <description>A cat(1) clone with wings.</description>
+    <title>firecrawl / pdf-inspector</title>
+    <link>https://github.com/firecrawl/pdf-inspector</link>
+    <description>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.</description>
   </item>
   <item>
     <title>ankitects / anki</title>
@@ -16,14 +16,9 @@
     <description>Anki is a smart spaced repetition flashcard program</description>
   </item>
   <item>
-    <title>zeroclaw-labs / zeroclaw</title>
-    <link>https://github.com/zeroclaw-labs/zeroclaw</link>
-    <description>Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀</description>
-  </item>
-  <item>
-    <title>moghtech / komodo</title>
-    <link>https://github.com/moghtech/komodo</link>
-    <description>🦎 a tool to build and deploy software on many servers 🦎</description>
+    <title>Hmbown / CodeWhale</title>
+    <link>https://github.com/Hmbown/CodeWhale</link>
+    <description>Open-source, community-driven agent harness</description>
   </item>
   <item>
     <title>wealthfolio / wealthfolio</title>
@@ -31,24 +26,34 @@
     <description>A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.</description>
   </item>
   <item>
-    <title>rust-lang / rust</title>
-    <link>https://github.com/rust-lang/rust</link>
-    <description>Empowering everyone to build reliable and efficient software.</description>
+    <title>nautechsystems / nautilus_trader</title>
+    <link>https://github.com/nautechsystems/nautilus_trader</link>
+    <description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
   </item>
   <item>
-    <title>rust-lang / rust-clippy</title>
-    <link>https://github.com/rust-lang/rust-clippy</link>
-    <description>A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/</description>
+    <title>stalwartlabs / stalwart</title>
+    <link>https://github.com/stalwartlabs/stalwart</link>
+    <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
   </item>
   <item>
-    <title>milos-agathon / forge3d</title>
-    <link>https://github.com/milos-agathon/forge3d</link>
-    <description>Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels.</description>
+    <title>bytecodealliance / wasmtime</title>
+    <link>https://github.com/bytecodealliance/wasmtime</link>
+    <description>A lightweight WebAssembly runtime that is fast, secure, and standards-compliant</description>
   </item>
   <item>
-    <title>emilk / egui</title>
-    <link>https://github.com/emilk/egui</link>
-    <description>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</description>
+    <title>0xPlaygrounds / rig</title>
+    <link>https://github.com/0xPlaygrounds/rig</link>
+    <description>⚙️🦀 Build modular and scalable LLM Applications in Rust</description>
+  </item>
+  <item>
+    <title>reacherhq / check-if-email-exists</title>
+    <link>https://github.com/reacherhq/check-if-email-exists</link>
+    <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
+  </item>
+  <item>
+    <title>neondatabase / neon</title>
+    <link>https://github.com/neondatabase/neon</link>
+    <description>Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</description>
   </item>
   <item>
     <title>n0-computer / iroh</title>
@@ -56,49 +61,54 @@
     <description>IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.</description>
   </item>
   <item>
-    <title>Hmbown / CodeWhale</title>
-    <link>https://github.com/Hmbown/CodeWhale</link>
-    <description>Open-source, community-driven agent harness</description>
+    <title>rust-lang / rustlings</title>
+    <link>https://github.com/rust-lang/rustlings</link>
+    <description>🦀 Small exercises to get you used to reading and writing Rust code!</description>
   </item>
   <item>
-    <title>longbridge / gpui-component</title>
-    <link>https://github.com/longbridge/gpui-component</link>
-    <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
+    <title>rust-lang / cargo</title>
+    <link>https://github.com/rust-lang/cargo</link>
+    <description>The Rust package manager</description>
   </item>
   <item>
-    <title>nushell / nushell</title>
-    <link>https://github.com/nushell/nushell</link>
-    <description>A new type of shell</description>
+    <title>gfx-rs / wgpu</title>
+    <link>https://github.com/gfx-rs/wgpu</link>
+    <description>A cross-platform, safe, pure-Rust graphics API.</description>
   </item>
   <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+    <title>moghtech / komodo</title>
+    <link>https://github.com/moghtech/komodo</link>
+    <description>🦎 a tool to build and deploy software on many servers 🦎</description>
   </item>
   <item>
-    <title>vercel / turborepo</title>
-    <link>https://github.com/vercel/turborepo</link>
-    <description>Build system optimized for JavaScript and TypeScript, written in Rust</description>
+    <title>Dicklesworthstone / destructive_command_guard</title>
+    <link>https://github.com/Dicklesworthstone/destructive_command_guard</link>
+    <description>The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.</description>
   </item>
   <item>
-    <title>ruffle-rs / ruffle</title>
-    <link>https://github.com/ruffle-rs/ruffle</link>
-    <description>A Flash Player emulator written in Rust</description>
+    <title>ZSeven-W / openpencil</title>
+    <link>https://github.com/ZSeven-W/openpencil</link>
+    <description>The world&#x27;s first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.</description>
   </item>
   <item>
-    <title>vercel-labs / agent-browser</title>
-    <link>https://github.com/vercel-labs/agent-browser</link>
-    <description>Browser automation CLI for AI agents</description>
+    <title>rust-lang / rust-clippy</title>
+    <link>https://github.com/rust-lang/rust-clippy</link>
+    <description>A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/</description>
   </item>
   <item>
-    <title>wezterm / wezterm</title>
-    <link>https://github.com/wezterm/wezterm</link>
-    <description>A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust</description>
+    <title>AprilNEA / OpenLogi</title>
+    <link>https://github.com/AprilNEA/OpenLogi</link>
+    <description>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.</description>
   </item>
   <item>
-    <title>facebook / pyrefly</title>
-    <link>https://github.com/facebook/pyrefly</link>
-    <description>A fast type checker and language server for Python</description>
+    <title>cjpais / Handy</title>
+    <link>https://github.com/cjpais/Handy</link>
+    <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+  </item>
+  <item>
+    <title>katanemo / plano</title>
+    <link>https://github.com/katanemo/plano</link>
+    <description>Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.</description>
   </item>
 </channel>
 </rss>

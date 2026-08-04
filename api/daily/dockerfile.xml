@@ -4,11 +4,16 @@
   <title>GitHub Dockerfile Languages Daily Trending</title>
   <description>Daily Trending of Dockerfile Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
   <item>
-    <title>oxsecurity / megalinter</title>
-    <link>https://github.com/oxsecurity/megalinter</link>
-    <description>🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</description>
+    <title>nordquant / dbt-student-repo</title>
+    <link>https://github.com/nordquant/dbt-student-repo</link>
+    <description>Starter Repository for the Complete dbt Bootcamp Zero to Hero Course</description>
+  </item>
+  <item>
+    <title>JawadTechYT / JAWAD-MD</title>
+    <link>https://github.com/JawadTechYT/JAWAD-MD</link>
+    <description>A simple WhatsApp bot to manage groups</description>
   </item>
   <item>
     <title>mikeroyal / Self-Hosting-Guide</title>
@@ -16,34 +21,9 @@
     <description>Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</description>
   </item>
   <item>
-    <title>kagisearch / kagi-docs</title>
-    <link>https://github.com/kagisearch/kagi-docs</link>
-    <description>Documentation for products made by Kagi Inc</description>
-  </item>
-  <item>
-    <title>datawhalechina / vibe-vibe</title>
-    <link>https://github.com/datawhalechina/vibe-vibe</link>
-    <description>AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn</description>
-  </item>
-  <item>
-    <title>nodejs / docker-node</title>
-    <link>https://github.com/nodejs/docker-node</link>
-    <description>Official Docker Image for Node.js 🐳 🐢 🚀</description>
-  </item>
-  <item>
-    <title>dunglas / symfony-docker</title>
-    <link>https://github.com/dunglas/symfony-docker</link>
-    <description>A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.</description>
-  </item>
-  <item>
-    <title>Gar-b-age / CookLikeHOC</title>
-    <link>https://github.com/Gar-b-age/CookLikeHOC</link>
-    <description>🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</description>
-  </item>
-  <item>
-    <title>laradock / laradock</title>
-    <link>https://github.com/laradock/laradock</link>
-    <description>Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch &amp; more.</description>
+    <title>aws-amplify / amplify-hosting</title>
+    <link>https://github.com/aws-amplify/amplify-hosting</link>
+    <description>AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.</description>
   </item>
   <item>
     <title>TechHutTV / homelab</title>
@@ -51,9 +31,29 @@
     <description>Homelab stacks, templates, and more fun resources!</description>
   </item>
   <item>
+    <title>laradock / laradock</title>
+    <link>https://github.com/laradock/laradock</link>
+    <description>Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch &amp; more.</description>
+  </item>
+  <item>
     <title>freeCodeCamp / rdb-alpha</title>
     <link>https://github.com/freeCodeCamp/rdb-alpha</link>
     <description></description>
+  </item>
+  <item>
+    <title>vulhub / vulhub</title>
+    <link>https://github.com/vulhub/vulhub</link>
+    <description>Pre-Built Vulnerable Environments Based on Docker-Compose</description>
+  </item>
+  <item>
+    <title>Gar-b-age / CookLikeHOC</title>
+    <link>https://github.com/Gar-b-age/CookLikeHOC</link>
+    <description>🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</description>
+  </item>
+  <item>
+    <title>autowarefoundation / autoware</title>
+    <link>https://github.com/autowarefoundation/autoware</link>
+    <description>Autoware - the world&#x27;s leading open-source software project for autonomous driving</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
       "title": "pret / pokered",
@@ -10,29 +10,29 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4849,
+      "stars": 4850,
       "forks": 1273,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2482,
-      "forks": 963,
       "added_stars": "2 stars today"
     },
     {
-      "title": "hiteshchoudhary / open-source-contribution",
-      "url": "https://github.com/hiteshchoudhary/open-source-contribution",
-      "description": "A repo to contribute in open source via README only. A dream repo for open source beginner",
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 537,
-      "forks": 1690,
-      "added_stars": "0 stars today"
+      "stars": 18598,
+      "forks": 2087,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "openhwgroup / cva6",
+      "url": "https://github.com/openhwgroup/cva6",
+      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3054,
+      "forks": 992,
+      "added_stars": "2 stars today"
     },
     {
       "title": "riscv / riscv-arch-test",
@@ -41,8 +41,68 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 762,
-      "forks": 342,
+      "forks": 343,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "Rangi42 / polishedcrystal",
+      "url": "https://github.com/Rangi42/polishedcrystal",
+      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1596,
+      "forks": 327,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "boostorg / context",
+      "url": "https://github.com/boostorg/context",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 361,
+      "forks": 183,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cRz-Shadows / Pokemon_Yellow_Legacy",
+      "url": "https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy",
+      "description": "This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 285,
+      "forks": 60,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "pret / pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2484,
+      "forks": 963,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "supranational / blst",
+      "url": "https://github.com/supranational/blst",
+      "description": "Multilingual BLS12-381 signature library",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 569,
+      "forks": 233,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "SheerSt / pokewilds",
+      "url": "https://github.com/SheerSt/pokewilds",
+      "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2871,
+      "forks": 215,
+      "added_stars": "0 stars today"
     },
     {
       "title": "aws / aws-lc",
@@ -52,77 +112,17 @@
       "languageColor": "#6E4C13",
       "stars": 813,
       "forks": 198,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "BLAKE3-team / BLAKE3",
-      "url": "https://github.com/BLAKE3-team/BLAKE3",
-      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 6352,
-      "forks": 468,
       "added_stars": "1 star today"
     },
     {
-      "title": "cRz-Shadows / Pokemon_Yellow_Legacy",
-      "url": "https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy",
-      "description": "This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.",
+      "title": "lukechampine / blake3",
+      "url": "https://github.com/lukechampine/blake3",
+      "description": "An AVX-512 accelerated implementation of the BLAKE3 cryptographic hash function",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 283,
-      "forks": 60,
+      "stars": 424,
+      "forks": 32,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "chrislgarry / Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 71786,
-      "forks": 7955,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "RibShark / OmniDrive",
-      "url": "https://github.com/RibShark/OmniDrive",
-      "description": "",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1007,
-      "forks": 50,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "apple / swift-crypto",
-      "url": "https://github.com/apple/swift-crypto",
-      "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1709,
-      "forks": 215,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "Rangi42 / polishedcrystal",
-      "url": "https://github.com/Rangi42/polishedcrystal",
-      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1593,
-      "forks": 328,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "vxunderground / MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 18597,
-      "forks": 2087,
-      "added_stars": "5 stars today"
     },
     {
       "title": "apple / swift-nio-ssl",
@@ -135,14 +135,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "leachim6 / hello-world",
-      "url": "https://github.com/leachim6/hello-world",
-      "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
+      "title": "briansmith / ring",
+      "url": "https://github.com/briansmith/ring",
+      "description": "An experiment.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 11906,
-      "forks": 2111,
-      "added_stars": "2 stars today"
+      "stars": 4100,
+      "forks": 798,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bitdump / BLHeli",
+      "url": "https://github.com/bitdump/BLHeli",
+      "description": "BLHeli for brushless ESC firmware",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2224,
+      "forks": 1145,
+      "added_stars": "0 stars today"
     }
   ]
 }

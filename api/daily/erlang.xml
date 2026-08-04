@@ -4,11 +4,11 @@
   <title>GitHub Erlang Languages Daily Trending</title>
   <description>Daily Trending of Erlang Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
   <item>
-    <title>erlang / otp</title>
-    <link>https://github.com/erlang/otp</link>
-    <description>Erlang/OTP</description>
+    <title>erlang / rebar3</title>
+    <link>https://github.com/erlang/rebar3</link>
+    <description>Erlang build tool that makes it easy to compile and test Erlang applications and releases.</description>
   </item>
   <item>
     <title>ninenines / ranch</title>
@@ -21,9 +21,24 @@
     <description>Support library for manipulating Web protocols.</description>
   </item>
   <item>
+    <title>erlang / otp</title>
+    <link>https://github.com/erlang/otp</link>
+    <description>Erlang/OTP</description>
+  </item>
+  <item>
+    <title>apache / couchdb</title>
+    <link>https://github.com/apache/couchdb</link>
+    <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
+  </item>
+  <item>
     <title>talentdeficit / jsx</title>
     <link>https://github.com/talentdeficit/jsx</link>
     <description>an erlang application for consuming, producing and manipulating json. inspired by yajl</description>
+  </item>
+  <item>
+    <title>ninenines / cowboy</title>
+    <link>https://github.com/ninenines/cowboy</link>
+    <description>Small, fast, modern HTTP server for Erlang/OTP.</description>
   </item>
 </channel>
 </rss>

@@ -2,27 +2,17 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:36:28 GMT",
+  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
   "items": [
     {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 28315,
-      "forks": 1766,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "operately / operately",
-      "url": "https://github.com/operately/operately",
-      "description": "The open source company operating system.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 533,
-      "forks": 64,
-      "added_stars": "0 stars today"
+      "stars": 23106,
+      "forks": 3084,
+      "added_stars": "3 stars today"
     },
     {
       "title": "elixir-lang / elixir",
@@ -30,19 +20,9 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26591,
-      "forks": 3619,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "kieraneglin / pinchflat",
-      "url": "https://github.com/kieraneglin/pinchflat",
-      "description": "Your next YouTube media manager",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5201,
-      "forks": 155,
-      "added_stars": "4 stars today"
+      "stars": 26594,
+      "forks": 3659,
+      "added_stars": "3 stars today"
     },
     {
       "title": "teslamate-org / teslamate",
@@ -50,19 +30,59 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8800,
-      "forks": 995,
-      "added_stars": "7 stars today"
+      "stars": 8805,
+      "forks": 994,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "bartblast / hologram",
-      "url": "https://github.com/bartblast/hologram",
-      "description": "Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript",
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1458,
-      "forks": 108,
-      "added_stars": "2 stars today"
+      "stars": 5204,
+      "forks": 155,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 8985,
+      "forks": 440,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4627,
+      "forks": 3130,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "openai / symphony",
+      "url": "https://github.com/openai/symphony",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 26415,
+      "forks": 2674,
+      "added_stars": "32 stars today"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-erlang-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-erlang-contrib",
+      "description": "OpenTelemetry instrumentation for Erlang & Elixir",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 216,
+      "forks": 166,
+      "added_stars": "0 stars today"
     },
     {
       "title": "OffchainLabs / blockscout",
@@ -75,24 +95,34 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "firezone / firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+      "title": "supabase / realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8982,
-      "forks": 439,
-      "added_stars": "1 star today"
+      "stars": 7612,
+      "forks": 454,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "duffelhq / paginator",
-      "url": "https://github.com/duffelhq/paginator",
-      "description": "Cursor-based pagination for Elixir Ecto",
+      "title": "bartblast / hologram",
+      "url": "https://github.com/bartblast/hologram",
+      "description": "Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 822,
-      "forks": 102,
-      "added_stars": "0 stars today"
+      "stars": 1461,
+      "forks": 108,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 28331,
+      "forks": 1770,
+      "added_stars": "17 stars today"
     }
   ]
 }

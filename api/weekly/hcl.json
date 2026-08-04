@@ -2,26 +2,26 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
-    {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 4990,
-      "forks": 4403,
-      "added_stars": "3 stars this week"
-    },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2075,
+      "stars": 2076,
       "forks": 1252,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 4991,
+      "forks": 4403,
       "added_stars": "4 stars this week"
     },
     {
@@ -31,8 +31,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 3253,
-      "forks": 4631,
-      "added_stars": "2 stars this week"
+      "forks": 4630,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -65,16 +65,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "cashapp / hermit-packages",
-      "url": "https://github.com/cashapp/hermit-packages",
-      "description": "Hermit manages isolated, self-bootstrapping sets of tools in software projects.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 159,
-      "forks": 185,
-      "added_stars": "3 stars this week"
-    },
-    {
       "title": "terraform-aws-modules / terraform-aws-lambda",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
@@ -82,6 +72,16 @@
       "languageColor": "#844FBA",
       "stars": 1046,
       "forks": 771,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "cashapp / hermit-packages",
+      "url": "https://github.com/cashapp/hermit-packages",
+      "description": "Hermit manages isolated, self-bootstrapping sets of tools in software projects.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 159,
+      "forks": 186,
       "added_stars": "2 stars this week"
     },
     {
@@ -93,6 +93,16 @@
       "stars": 675,
       "forks": 666,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "Azure / terraform-azurerm-avm-res-network-privatednszone",
+      "url": "https://github.com/Azure/terraform-azurerm-avm-res-network-privatednszone",
+      "description": "Terraform Azure Verified Resource Module for Private DNS Zone",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 30,
+      "forks": 24,
+      "added_stars": "0 stars this week"
     }
   ]
 }

@@ -4,7 +4,12 @@
   <title>GitHub Haskell Languages Daily Trending</title>
   <description>Daily Trending of Haskell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <item>
+    <title>koalaman / shellcheck</title>
+    <link>https://github.com/koalaman/shellcheck</link>
+    <description>ShellCheck, a static analysis tool for shell scripts</description>
+  </item>
   <item>
     <title>simplex-chat / simplex-chat</title>
     <link>https://github.com/simplex-chat/simplex-chat</link>
@@ -14,11 +19,6 @@
     <title>hadolint / hadolint</title>
     <link>https://github.com/hadolint/hadolint</link>
     <description>Dockerfile linter, validate inline bash, written in Haskell</description>
-  </item>
-  <item>
-    <title>koalaman / shellcheck</title>
-    <link>https://github.com/koalaman/shellcheck</link>
-    <description>ShellCheck, a static analysis tool for shell scripts</description>
   </item>
   <item>
     <title>monoscope-tech / monoscope</title>
@@ -36,24 +36,24 @@
     <description>Official upstream development repository for Cabal and cabal-install</description>
   </item>
   <item>
-    <title>commercialhaskell / stack</title>
-    <link>https://github.com/commercialhaskell/stack</link>
-    <description>The Haskell Tool Stack</description>
-  </item>
-  <item>
-    <title>elm / compiler</title>
-    <link>https://github.com/elm/compiler</link>
-    <description>Compiler for Elm, a functional language for reliable webapps.</description>
-  </item>
-  <item>
     <title>jgm / pandoc</title>
     <link>https://github.com/jgm/pandoc</link>
     <description>Universal markup converter</description>
   </item>
   <item>
+    <title>commercialhaskell / stack</title>
+    <link>https://github.com/commercialhaskell/stack</link>
+    <description>The Haskell Tool Stack</description>
+  </item>
+  <item>
     <title>IntersectMBO / cardano-node</title>
     <link>https://github.com/IntersectMBO/cardano-node</link>
     <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
+  </item>
+  <item>
+    <title>elm / compiler</title>
+    <link>https://github.com/elm/compiler</link>
+    <description>Compiler for Elm, a functional language for reliable webapps.</description>
   </item>
   <item>
     <title>PostgREST / postgrest</title>

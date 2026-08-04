@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:42:00 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
   "items": [
     {
       "title": "exiftool / exiftool",
@@ -10,9 +10,9 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 4919,
+      "stars": 4922,
       "forks": 465,
-      "added_stars": "103 stars this month"
+      "added_stars": "105 stars this month"
     },
     {
       "title": "AlDanial / cloc",
@@ -20,9 +20,9 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23390,
+      "stars": 23393,
       "forks": 1120,
-      "added_stars": "169 stars this month"
+      "added_stars": "166 stars this month"
     },
     {
       "title": "Perl / perl5",
@@ -40,9 +40,49 @@
       "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1657,
+      "stars": 1658,
       "forks": 322,
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "glpi-project / glpi-agent",
+      "url": "https://github.com/glpi-project/glpi-agent",
+      "description": "GLPI Agent",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 465,
+      "forks": 119,
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "OpenKore / openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1502,
+      "forks": 1215,
       "added_stars": "15 stars this month"
+    },
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19640,
+      "forks": 2105,
+      "added_stars": "76 stars this month"
+    },
+    {
+      "title": "Difegue / LANraragi",
+      "url": "https://github.com/Difegue/LANraragi",
+      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3051,
+      "forks": 226,
+      "added_stars": "45 stars this month"
     },
     {
       "title": "manwar / perlweeklychallenge-club",
@@ -55,54 +95,14 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 19635,
-      "forks": 2105,
-      "added_stars": "74 stars this month"
-    },
-    {
-      "title": "glpi-project / glpi-agent",
-      "url": "https://github.com/glpi-project/glpi-agent",
-      "description": "GLPI Agent",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 465,
-      "forks": 118,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "Difegue / LANraragi",
-      "url": "https://github.com/Difegue/LANraragi",
-      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3050,
-      "forks": 226,
-      "added_stars": "44 stars this month"
-    },
-    {
-      "title": "OpenKore / openkore",
-      "url": "https://github.com/OpenKore/openkore",
-      "description": "A free/open source client and automation tool for Ragnarok Online",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1502,
-      "forks": 1216,
-      "added_stars": "15 stars this month"
-    },
-    {
       "title": "szTheory / exifcleaner",
       "url": "https://github.com/szTheory/exifcleaner",
       "description": "Cross-platform desktop GUI app to clean image metadata",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2540,
-      "forks": 160,
-      "added_stars": "56 stars this month"
+      "stars": 2546,
+      "forks": 161,
+      "added_stars": "62 stars this month"
     },
     {
       "title": "holzschu / a-shell",
@@ -112,17 +112,7 @@
       "languageColor": "#0298c3",
       "stars": 3846,
       "forks": 200,
-      "added_stars": "51 stars this month"
-    },
-    {
-      "title": "adrienverge / openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3373,
-      "forks": 375,
-      "added_stars": "29 stars this month"
+      "added_stars": "50 stars this month"
     },
     {
       "title": "ddclient / ddclient",
@@ -130,9 +120,19 @@
       "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3504,
+      "stars": 3505,
       "forks": 394,
       "added_stars": "40 stars this month"
+    },
+    {
+      "title": "adrienverge / openfortivpn",
+      "url": "https://github.com/adrienverge/openfortivpn",
+      "description": "Client for PPP+TLS VPN tunnel services",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3374,
+      "forks": 375,
+      "added_stars": "27 stars this month"
     },
     {
       "title": "docker-library / repo-info",
@@ -140,9 +140,9 @@
       "description": "Extended information (especially license and layer details) about the published Official Images",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 604,
-      "forks": 357,
-      "added_stars": "3 stars this month"
+      "stars": 605,
+      "forks": 359,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "fusioninventory / fusioninventory-agent",
@@ -150,7 +150,7 @@
       "description": "FusionInventory Agent",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 267,
+      "stars": 268,
       "forks": 124,
       "added_stars": "1 star this month"
     },
@@ -160,19 +160,9 @@
       "description": "Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1747,
+      "stars": 1748,
       "forks": 373,
-      "added_stars": "25 stars this month"
-    },
-    {
-      "title": "sympa-community / sympa",
-      "url": "https://github.com/sympa-community/sympa",
-      "description": "Sympa, Mailing List Management Software",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 310,
-      "forks": 140,
-      "added_stars": "10 stars this month"
+      "added_stars": "26 stars this month"
     },
     {
       "title": "znuny / Znuny",
@@ -180,9 +170,19 @@
       "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 584,
+      "stars": 585,
       "forks": 121,
-      "added_stars": "9 stars this month"
+      "added_stars": "8 stars this month"
+    },
+    {
+      "title": "ocpi / ocpi",
+      "url": "https://github.com/ocpi/ocpi",
+      "description": "The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 581,
+      "forks": 227,
+      "added_stars": "6 stars this month"
     }
   ]
 }

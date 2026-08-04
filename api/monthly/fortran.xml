@@ -4,16 +4,11 @@
   <title>GitHub Fortran Languages Daily Trending</title>
   <description>Daily Trending of Fortran Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:42:00 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
   <item>
     <title>wrf-model / WRF</title>
     <link>https://github.com/wrf-model/WRF</link>
     <description>The official repository for the Weather Research and Forecasting (WRF) model</description>
-  </item>
-  <item>
-    <title>cp2k / cp2k</title>
-    <link>https://github.com/cp2k/cp2k</link>
-    <description>Quantum chemistry and solid state physics software package</description>
   </item>
   <item>
     <title>firemodels / fds</title>
@@ -36,9 +31,14 @@
     <description>Model Coupling Tookit</description>
   </item>
   <item>
-    <title>MITgcm / MITgcm</title>
-    <link>https://github.com/MITgcm/MITgcm</link>
-    <description>M.I.T General Circulation Model master code and documentation repository</description>
+    <title>cp2k / cp2k</title>
+    <link>https://github.com/cp2k/cp2k</link>
+    <description>Quantum chemistry and solid state physics software package</description>
+  </item>
+  <item>
+    <title>JuliaPackaging / Yggdrasil</title>
+    <link>https://github.com/JuliaPackaging/Yggdrasil</link>
+    <description>Collection of builder repositories for BinaryBuilder.jl</description>
   </item>
   <item>
     <title>MetOffice / lfric_apps</title>
@@ -46,9 +46,9 @@
     <description>LFRic Applications</description>
   </item>
   <item>
-    <title>ElmerCSC / elmerfem</title>
-    <link>https://github.com/ElmerCSC/elmerfem</link>
-    <description>Official git repository of Elmer FEM software</description>
+    <title>MITgcm / MITgcm</title>
+    <link>https://github.com/MITgcm/MITgcm</link>
+    <description>M.I.T General Circulation Model master code and documentation repository</description>
   </item>
   <item>
     <title>NGEET / fates</title>
@@ -56,9 +56,9 @@
     <description>repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)</description>
   </item>
   <item>
-    <title>JuliaPackaging / Yggdrasil</title>
-    <link>https://github.com/JuliaPackaging/Yggdrasil</link>
-    <description>Collection of builder repositories for BinaryBuilder.jl</description>
+    <title>ElmerCSC / elmerfem</title>
+    <link>https://github.com/ElmerCSC/elmerfem</link>
+    <description>Official git repository of Elmer FEM software</description>
   </item>
   <item>
     <title>grimme-lab / xtb</title>

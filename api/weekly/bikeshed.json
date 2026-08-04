@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
   "items": [
     {
       "title": "webmachinelearning / webmcp",
@@ -10,9 +10,19 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 2920,
-      "forks": 187,
-      "added_stars": "51 stars this week"
+      "stars": 2927,
+      "forks": 189,
+      "added_stars": "52 stars this week"
+    },
+    {
+      "title": "patcg-individual-drafts / topics",
+      "url": "https://github.com/patcg-individual-drafts/topics",
+      "description": "The Topics API",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 872,
+      "forks": 887,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "immersive-web / webxr",
@@ -30,19 +40,9 @@
       "description": "CSS Working Group Editor Drafts",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4855,
+      "stars": 4854,
       "forks": 803,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "patcg-individual-drafts / topics",
-      "url": "https://github.com/patcg-individual-drafts/topics",
-      "description": "The Topics API",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 872,
-      "forks": 888,
-      "added_stars": "0 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "gpuweb / gpuweb",
@@ -65,16 +65,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "w3c / ServiceWorker",
-      "url": "https://github.com/w3c/ServiceWorker",
-      "description": "Service Workers",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 3632,
-      "forks": 324,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "WICG / first-party-sets",
       "url": "https://github.com/WICG/first-party-sets",
       "description": "",
@@ -83,6 +73,16 @@
       "stars": 398,
       "forks": 166,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "w3c / ServiceWorker",
+      "url": "https://github.com/w3c/ServiceWorker",
+      "description": "Service Workers",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 3632,
+      "forks": 324,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "WebAudio / web-audio-api",

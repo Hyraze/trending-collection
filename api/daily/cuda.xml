@@ -4,7 +4,12 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:36:28 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <item>
+    <title>deepseek-ai / DeepGEMM</title>
+    <link>https://github.com/deepseek-ai/DeepGEMM</link>
+    <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
+  </item>
   <item>
     <title>karpathy / llm.c</title>
     <link>https://github.com/karpathy/llm.c</link>
@@ -16,29 +21,9 @@
     <description>[ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl</description>
   </item>
   <item>
-    <title>NVIDIA / cuopt</title>
-    <link>https://github.com/NVIDIA/cuopt</link>
-    <description>GPU accelerated decision optimization</description>
-  </item>
-  <item>
-    <title>NVIDIA / cuvs</title>
-    <link>https://github.com/NVIDIA/cuvs</link>
-    <description>cuVS - a library for vector search and clustering on the GPU</description>
-  </item>
-  <item>
-    <title>alibaba / rtp-llm</title>
-    <link>https://github.com/alibaba/rtp-llm</link>
-    <description>RTP-LLM: Alibaba&#x27;s high-performance LLM inference engine for diverse applications.</description>
-  </item>
-  <item>
-    <title>NVlabs / instant-ngp</title>
-    <link>https://github.com/NVlabs/instant-ngp</link>
-    <description>Instant neural graphics primitives: lightning fast NeRF and more</description>
-  </item>
-  <item>
-    <title>deepseek-ai / DeepEP</title>
-    <link>https://github.com/deepseek-ai/DeepEP</link>
-    <description>DeepEP: an efficient expert-parallel communication library</description>
+    <title>HazyResearch / ThunderKittens</title>
+    <link>https://github.com/HazyResearch/ThunderKittens</link>
+    <description>Tile primitives for speedy kernels</description>
   </item>
   <item>
     <title>NVIDIA / nvbench</title>
@@ -46,14 +31,24 @@
     <description>CUDA Kernel Benchmarking Library</description>
   </item>
   <item>
-    <title>HazyResearch / ThunderKittens</title>
-    <link>https://github.com/HazyResearch/ThunderKittens</link>
-    <description>Tile primitives for speedy kernels</description>
+    <title>NVIDIA / cuCollections</title>
+    <link>https://github.com/NVIDIA/cuCollections</link>
+    <description></description>
+  </item>
+  <item>
+    <title>deepseek-ai / DeepEP</title>
+    <link>https://github.com/deepseek-ai/DeepEP</link>
+    <description>DeepEP: an efficient expert-parallel communication library</description>
   </item>
   <item>
     <title>NVIDIA / cudf-spark-jni</title>
     <link>https://github.com/NVIDIA/cudf-spark-jni</link>
     <description>RAPIDS Accelerator JNI For Apache Spark</description>
+  </item>
+  <item>
+    <title>NVIDIA / cuopt</title>
+    <link>https://github.com/NVIDIA/cuopt</link>
+    <description>GPU accelerated decision optimization</description>
   </item>
 </channel>
 </rss>

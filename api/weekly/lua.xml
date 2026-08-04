@@ -4,16 +4,11 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 03 Aug 2026 05:38:44 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
   <item>
     <title>koreader / koreader</title>
     <link>https://github.com/koreader/koreader</link>
     <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
-  </item>
-  <item>
-    <title>beyond-all-reason / Beyond-All-Reason</title>
-    <link>https://github.com/beyond-all-reason/Beyond-All-Reason</link>
-    <description>Main game repository for Beyond All Reason.</description>
   </item>
   <item>
     <title>apache / apisix</title>
@@ -36,16 +31,6 @@
     <description>Quickstart configs for Nvim LSP</description>
   </item>
   <item>
-    <title>LazyVim / LazyVim</title>
-    <link>https://github.com/LazyVim/LazyVim</link>
-    <description>Neovim config for the lazy</description>
-  </item>
-  <item>
-    <title>Footagesus / WindUI</title>
-    <link>https://github.com/Footagesus/WindUI</link>
-    <description>WindUI is a open source UI library for Roblox Script Hubs</description>
-  </item>
-  <item>
     <title>olimorris / codecompanion.nvim</title>
     <link>https://github.com/olimorris/codecompanion.nvim</link>
     <description>✨ AI Coding, Vim Style</description>
@@ -56,49 +41,14 @@
     <description>Jitsi Meet on Docker</description>
   </item>
   <item>
+    <title>LazyVim / LazyVim</title>
+    <link>https://github.com/LazyVim/LazyVim</link>
+    <description>Neovim config for the lazy</description>
+  </item>
+  <item>
     <title>Kong / kong</title>
     <link>https://github.com/Kong/kong</link>
     <description>🦍 The API and AI Gateway</description>
-  </item>
-  <item>
-    <title>id577 / FS25_AdvancedDamageSystem</title>
-    <link>https://github.com/id577/FS25_AdvancedDamageSystem</link>
-    <description>Advanced Damage System mod for Farming Simulator 25</description>
-  </item>
-  <item>
-    <title>AnthonyGress / zen_ui.koplugin</title>
-    <link>https://github.com/AnthonyGress/zen_ui.koplugin</link>
-    <description>A clean, minimal UI for KOReader</description>
-  </item>
-  <item>
-    <title>folke / snacks.nvim</title>
-    <link>https://github.com/folke/snacks.nvim</link>
-    <description>🍿 A collection of QoL plugins for Neovim</description>
-  </item>
-  <item>
-    <title>AndyHazz / bookshelf.koplugin</title>
-    <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
-    <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
-  </item>
-  <item>
-    <title>catppuccin / nvim</title>
-    <link>https://github.com/catppuccin/nvim</link>
-    <description>🍨 Soothing pastel theme for Neovim</description>
-  </item>
-  <item>
-    <title>ibhagwan / fzf-lua</title>
-    <link>https://github.com/ibhagwan/fzf-lua</link>
-    <description>Improved fzf.vim written in lua</description>
-  </item>
-  <item>
-    <title>folke / lazy.nvim</title>
-    <link>https://github.com/folke/lazy.nvim</link>
-    <description>💤 A modern plugin manager for Neovim</description>
-  </item>
-  <item>
-    <title>opentibiabr / canary</title>
-    <link>https://github.com/opentibiabr/canary</link>
-    <description>Canary Server 15.25 for OpenTibia community.</description>
   </item>
   <item>
     <title>esmuellert / codediff.nvim</title>
@@ -106,9 +56,49 @@
     <description>VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode&#x27;s own diff algorithm in C.</description>
   </item>
   <item>
-    <title>obsidian-nvim / obsidian.nvim</title>
-    <link>https://github.com/obsidian-nvim/obsidian.nvim</link>
-    <description>Obsidian 🤝 Neovim (actively maintained version)</description>
+    <title>AnthonyGress / zen_ui.koplugin</title>
+    <link>https://github.com/AnthonyGress/zen_ui.koplugin</link>
+    <description>A clean, minimal UI for KOReader</description>
+  </item>
+  <item>
+    <title>AndyHazz / bookshelf.koplugin</title>
+    <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
+    <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
+  </item>
+  <item>
+    <title>id577 / FS25_AdvancedDamageSystem</title>
+    <link>https://github.com/id577/FS25_AdvancedDamageSystem</link>
+    <description>Advanced Damage System mod for Farming Simulator 25</description>
+  </item>
+  <item>
+    <title>Footagesus / WindUI</title>
+    <link>https://github.com/Footagesus/WindUI</link>
+    <description>WindUI is a open source UI library for Roblox Script Hubs</description>
+  </item>
+  <item>
+    <title>beyond-all-reason / Beyond-All-Reason</title>
+    <link>https://github.com/beyond-all-reason/Beyond-All-Reason</link>
+    <description>Main game repository for Beyond All Reason.</description>
+  </item>
+  <item>
+    <title>folke / snacks.nvim</title>
+    <link>https://github.com/folke/snacks.nvim</link>
+    <description>🍿 A collection of QoL plugins for Neovim</description>
+  </item>
+  <item>
+    <title>tarantool / tarantool</title>
+    <link>https://github.com/tarantool/tarantool</link>
+    <description>Get your data in RAM. Get compute close to data. Enjoy the performance.</description>
+  </item>
+  <item>
+    <title>opentibiabr / canary</title>
+    <link>https://github.com/opentibiabr/canary</link>
+    <description>Canary Server 15.25 for OpenTibia community.</description>
+  </item>
+  <item>
+    <title>NeogitOrg / neogit</title>
+    <link>https://github.com/NeogitOrg/neogit</link>
+    <description>An interactive and powerful Git interface for Neovim, inspired by Magit</description>
   </item>
 </channel>
 </rss>
