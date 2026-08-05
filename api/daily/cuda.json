@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -10,19 +10,19 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7609,
+      "stars": 7617,
       "forks": 1151,
       "added_stars": "5 stars today"
     },
     {
-      "title": "karpathy / llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
+      "title": "thu-ml / SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30718,
-      "forks": 3719,
-      "added_stars": "10 stars today"
+      "stars": 3561,
+      "forks": 451,
+      "added_stars": "27 stars today"
     },
     {
       "title": "NVIDIA / cub",
@@ -31,27 +31,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 1841,
-      "forks": 464,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "HazyResearch / ThunderKittens",
-      "url": "https://github.com/HazyResearch/ThunderKittens",
-      "description": "Tile primitives for speedy kernels",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3590,
-      "forks": 313,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "NVIDIA / nvbench",
-      "url": "https://github.com/NVIDIA/nvbench",
-      "description": "CUDA Kernel Benchmarking Library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 914,
-      "forks": 115,
+      "forks": 463,
       "added_stars": "0 stars today"
     },
     {
@@ -61,8 +41,48 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 658,
-      "forks": 114,
-      "added_stars": "1 star today"
+      "forks": 113,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 999,
+      "forks": 218,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2407,
+      "forks": 238,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "ZaidQureshi / bam",
+      "url": "https://github.com/ZaidQureshi/bam",
+      "description": "",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 235,
+      "forks": 79,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1612,
+      "forks": 396,
+      "added_stars": "0 stars today"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -70,9 +90,69 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 9937,
-      "forks": 1361,
-      "added_stars": "4 stars today"
+      "stars": 9947,
+      "forks": 1360,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "HazyResearch / ThunderKittens",
+      "url": "https://github.com/HazyResearch/ThunderKittens",
+      "description": "Tile primitives for speedy kernels",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3598,
+      "forks": 314,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "Dao-AILab / causal-conv1d",
+      "url": "https://github.com/Dao-AILab/causal-conv1d",
+      "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 930,
+      "forks": 202,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "karpathy / llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 30731,
+      "forks": 3718,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "NVIDIA / nvbench",
+      "url": "https://github.com/NVIDIA/nvbench",
+      "description": "CUDA Kernel Benchmarking Library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 914,
+      "forks": 116,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "alibaba / rtp-llm",
+      "url": "https://github.com/alibaba/rtp-llm",
+      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1296,
+      "forks": 249,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "NVlabs / instant-ngp",
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 17513,
+      "forks": 2064,
+      "added_stars": "1 star today"
     },
     {
       "title": "NVIDIA / cudf-spark-jni",
@@ -83,16 +163,6 @@
       "stars": 63,
       "forks": 89,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 998,
-      "forks": 218,
-      "added_stars": "2 stars today"
     }
   ]
 }

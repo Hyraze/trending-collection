@@ -4,26 +4,46 @@
   <title>GitHub Swift Languages Daily Trending</title>
   <description>Daily Trending of Swift Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
+  <item>
+    <title>apple / container</title>
+    <link>https://github.com/apple/container</link>
+    <description>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.</description>
+  </item>
   <item>
     <title>Lakr233 / vphone-cli</title>
     <link>https://github.com/Lakr233/vphone-cli</link>
     <description></description>
   </item>
   <item>
-    <title>iina / iina</title>
-    <link>https://github.com/iina/iina</link>
-    <description>The modern video player for macOS.</description>
+    <title>realm / SwiftLint</title>
+    <link>https://github.com/realm/SwiftLint</link>
+    <description>A tool to enforce Swift style and conventions.</description>
   </item>
   <item>
-    <title>utmapp / UTM</title>
-    <link>https://github.com/utmapp/UTM</link>
-    <description>Virtual machines for iOS and macOS</description>
+    <title>osaurus-ai / osaurus</title>
+    <link>https://github.com/osaurus-ai/osaurus</link>
+    <description>Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.</description>
   </item>
   <item>
-    <title>nikitabobko / AeroSpace</title>
-    <link>https://github.com/nikitabobko/AeroSpace</link>
-    <description>AeroSpace is an i3-like tiling window manager for macOS</description>
+    <title>pointfreeco / swift-composable-architecture</title>
+    <link>https://github.com/pointfreeco/swift-composable-architecture</link>
+    <description>A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</description>
+  </item>
+  <item>
+    <title>apple / swift-nio</title>
+    <link>https://github.com/apple/swift-nio</link>
+    <description>Event-driven network application framework for high performance protocol servers &amp; clients, non-blocking.</description>
+  </item>
+  <item>
+    <title>swiftlang / swift-syntax</title>
+    <link>https://github.com/swiftlang/swift-syntax</link>
+    <description>A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.</description>
+  </item>
+  <item>
+    <title>manaflow-ai / cmux</title>
+    <link>https://github.com/manaflow-ai/cmux</link>
+    <description>Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.</description>
   </item>
   <item>
     <title>lwouis / alt-tab-macos</title>
@@ -31,69 +51,44 @@
     <description>Windows alt-tab on macOS</description>
   </item>
   <item>
-    <title>darrylmorley / whatcable</title>
-    <link>https://github.com/darrylmorley/whatcable</link>
-    <description>macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do</description>
+    <title>momenbasel / PureMac</title>
+    <link>https://github.com/momenbasel/PureMac</link>
+    <description>Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.</description>
   </item>
   <item>
-    <title>groue / GRDB.swift</title>
-    <link>https://github.com/groue/GRDB.swift</link>
-    <description>A toolkit for SQLite databases, with a focus on application development</description>
+    <title>vapor / vapor</title>
+    <link>https://github.com/vapor/vapor</link>
+    <description>💧 A server-side Swift HTTP web framework.</description>
   </item>
   <item>
-    <title>rooootdev / lara</title>
-    <link>https://github.com/rooootdev/lara</link>
-    <description>iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 &amp; iOS 26.0.x, excluding M5 and A19.</description>
+    <title>onevcat / Kingfisher</title>
+    <link>https://github.com/onevcat/Kingfisher</link>
+    <description>A lightweight, pure-Swift library for downloading and caching images from the web.</description>
   </item>
   <item>
-    <title>dwarvesf / hidden</title>
-    <link>https://github.com/dwarvesf/hidden</link>
-    <description>An ultra-light MacOS utility that helps hide menu bar icons</description>
+    <title>sozercan / kaset</title>
+    <link>https://github.com/sozercan/kaset</link>
+    <description>📼 The missing YouTube and YouTube Music macOS app</description>
   </item>
   <item>
-    <title>zachlatta / freeflow</title>
-    <link>https://github.com/zachlatta/freeflow</link>
-    <description>Free &amp; fast alternative to Wispr Flow</description>
+    <title>airbnb / lottie-ios</title>
+    <link>https://github.com/airbnb/lottie-ios</link>
+    <description>An iOS library to natively render After Effects vector animations</description>
   </item>
   <item>
-    <title>FluidInference / FluidAudio</title>
-    <link>https://github.com/FluidInference/FluidAudio</link>
-    <description>Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.</description>
+    <title>home-assistant / iOS</title>
+    <link>https://github.com/home-assistant/iOS</link>
+    <description>📱 Home Assistant for Apple platforms</description>
   </item>
   <item>
-    <title>tddworks / ClaudeBar</title>
-    <link>https://github.com/tddworks/ClaudeBar</link>
-    <description>A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.</description>
+    <title>utmapp / UTM</title>
+    <link>https://github.com/utmapp/UTM</link>
+    <description>Virtual machines for iOS and macOS</description>
   </item>
   <item>
-    <title>Finb / Bark</title>
-    <link>https://github.com/Finb/Bark</link>
-    <description>Bark is an iOS App which allows you to push custom notifications to your iPhone</description>
-  </item>
-  <item>
-    <title>pluk-inc / markdown-preview</title>
-    <link>https://github.com/pluk-inc/markdown-preview</link>
-    <description>A simple Markdown viewer for reading .md files</description>
-  </item>
-  <item>
-    <title>modelcontextprotocol / swift-sdk</title>
-    <link>https://github.com/modelcontextprotocol/swift-sdk</link>
-    <description>The official Swift SDK for Model Context Protocol servers and clients.</description>
-  </item>
-  <item>
-    <title>Ranchero-Software / NetNewsWire</title>
-    <link>https://github.com/Ranchero-Software/NetNewsWire</link>
-    <description>RSS reader for macOS and iOS.</description>
-  </item>
-  <item>
-    <title>Aidoku / Aidoku</title>
-    <link>https://github.com/Aidoku/Aidoku</link>
-    <description>Free and open source manga reader for iOS and iPadOS</description>
-  </item>
-  <item>
-    <title>steipete / CodexBar</title>
-    <link>https://github.com/steipete/CodexBar</link>
-    <description>Show usage stats for OpenAI Codex and Claude Code, without having to login.</description>
+    <title>ChartsOrg / Charts</title>
+    <link>https://github.com/ChartsOrg/Charts</link>
+    <description>Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</description>
   </item>
 </channel>
 </rss>

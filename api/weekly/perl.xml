@@ -4,7 +4,7 @@
   <title>GitHub Perl Languages Daily Trending</title>
   <description>Daily Trending of Perl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
     <title>AlDanial / cloc</title>
     <link>https://github.com/AlDanial/cloc</link>
@@ -31,9 +31,9 @@
     <description>Stack trace visualizer</description>
   </item>
   <item>
-    <title>awsdocs / aws-cdk-guide</title>
-    <link>https://github.com/awsdocs/aws-cdk-guide</link>
-    <description>User guide for the AWS Cloud Development Kit (CDK).</description>
+    <title>manwar / perlweeklychallenge-club</title>
+    <link>https://github.com/manwar/perlweeklychallenge-club</link>
+    <description>Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…</description>
   </item>
   <item>
     <title>lm-sensors / lm-sensors</title>
@@ -41,14 +41,14 @@
     <description>lm-sensors repository</description>
   </item>
   <item>
+    <title>awsdocs / aws-cdk-guide</title>
+    <link>https://github.com/awsdocs/aws-cdk-guide</link>
+    <description>User guide for the AWS Cloud Development Kit (CDK).</description>
+  </item>
+  <item>
     <title>Perl / perl5</title>
     <link>https://github.com/Perl/perl5</link>
     <description>🐪 The Perl programming language</description>
-  </item>
-  <item>
-    <title>holzschu / a-shell</title>
-    <link>https://github.com/holzschu/a-shell</link>
-    <description>A terminal for iOS, with multiple windows</description>
   </item>
   <item>
     <title>adrienverge / openfortivpn</title>
@@ -61,19 +61,19 @@
     <description>A free/open source client and automation tool for Ragnarok Online</description>
   </item>
   <item>
-    <title>fusioninventory / fusioninventory-agent</title>
-    <link>https://github.com/fusioninventory/fusioninventory-agent</link>
-    <description>FusionInventory Agent</description>
-  </item>
-  <item>
-    <title>yaml / yaml-test-suite</title>
-    <link>https://github.com/yaml/yaml-test-suite</link>
-    <description>Comprehensive, language independent Test Suite for YAML</description>
-  </item>
-  <item>
     <title>inverse-inc / packetfence</title>
     <link>https://github.com/inverse-inc/packetfence</link>
     <description>PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…</description>
+  </item>
+  <item>
+    <title>holzschu / a-shell</title>
+    <link>https://github.com/holzschu/a-shell</link>
+    <description>A terminal for iOS, with multiple windows</description>
+  </item>
+  <item>
+    <title>fusioninventory / fusioninventory-agent</title>
+    <link>https://github.com/fusioninventory/fusioninventory-agent</link>
+    <description>FusionInventory Agent</description>
   </item>
   <item>
     <title>Difegue / LANraragi</title>
@@ -81,19 +81,9 @@
     <description>Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.</description>
   </item>
   <item>
-    <title>kazuho / p5-Server-Starter</title>
-    <link>https://github.com/kazuho/p5-Server-Starter</link>
-    <description>a superdaemon for hot-deploying server programs</description>
-  </item>
-  <item>
-    <title>Zimbra / zm-build</title>
-    <link>https://github.com/Zimbra/zm-build</link>
-    <description>zm-build for Zimbra Collaboration Suite, FOSS Edition</description>
-  </item>
-  <item>
-    <title>centreon / centreon-plugins</title>
-    <link>https://github.com/centreon/centreon-plugins</link>
-    <description>Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.</description>
+    <title>xcat2 / xcat-core</title>
+    <link>https://github.com/xcat2/xcat-core</link>
+    <description>Code repo for xCAT core packages</description>
   </item>
   <item>
     <title>ddclient / ddclient</title>
@@ -101,9 +91,14 @@
     <description>ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.</description>
   </item>
   <item>
-    <title>xcat2 / xcat-core</title>
-    <link>https://github.com/xcat2/xcat-core</link>
-    <description>Code repo for xCAT core packages</description>
+    <title>centreon / centreon-plugins</title>
+    <link>https://github.com/centreon/centreon-plugins</link>
+    <description>Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.</description>
+  </item>
+  <item>
+    <title>os-autoinst / os-autoinst-distri-opensuse</title>
+    <link>https://github.com/os-autoinst/os-autoinst-distri-opensuse</link>
+    <description>os-autoinst test cases for openSUSE</description>
   </item>
 </channel>
 </rss>

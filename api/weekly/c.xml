@@ -4,21 +4,11 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
-    <title>obsproject / obs-studio</title>
-    <link>https://github.com/obsproject/obs-studio</link>
-    <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
-  </item>
-  <item>
-    <title>openwrt / openwrt</title>
-    <link>https://github.com/openwrt/openwrt</link>
-    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
-  </item>
-  <item>
-    <title>libretro / RetroArch</title>
-    <link>https://github.com/libretro/RetroArch</link>
-    <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
+    <title>antirez / ds4</title>
+    <link>https://github.com/antirez/ds4</link>
+    <description>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</description>
   </item>
   <item>
     <title>microsoft / PowerToys</title>
@@ -26,14 +16,44 @@
     <description>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows</description>
   </item>
   <item>
-    <title>antirez / ds4</title>
-    <link>https://github.com/antirez/ds4</link>
-    <description>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</description>
+    <title>obsproject / obs-studio</title>
+    <link>https://github.com/obsproject/obs-studio</link>
+    <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
+  </item>
+  <item>
+    <title>DarkFlippers / unleashed-firmware</title>
+    <link>https://github.com/DarkFlippers/unleashed-firmware</link>
+    <description>Flipper Zero Unleashed Firmware</description>
+  </item>
+  <item>
+    <title>pgvector / pgvector</title>
+    <link>https://github.com/pgvector/pgvector</link>
+    <description>Open-source vector similarity search for Postgres</description>
+  </item>
+  <item>
+    <title>tr4m0ryp / tr4mpass</title>
+    <link>https://github.com/tr4m0ryp/tr4mpass</link>
+    <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
+  </item>
+  <item>
+    <title>xiaojieonly / Ehviewer_CN_SXJ</title>
+    <link>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</link>
+    <description>ehviewer，用爱发电，快乐前行</description>
   </item>
   <item>
     <title>madler / zlib</title>
     <link>https://github.com/madler/zlib</link>
     <description>A massively spiffy yet delicately unobtrusive compression library.</description>
+  </item>
+  <item>
+    <title>merbanan / rtl_433</title>
+    <link>https://github.com/merbanan/rtl_433</link>
+    <description>Program to decode radio transmissions from devices on the ISM bands (and other frequencies)</description>
+  </item>
+  <item>
+    <title>tursodatabase / libsql</title>
+    <link>https://github.com/tursodatabase/libsql</link>
+    <description>libSQL is a fork of SQLite that is both Open Source, and Open Contributions.</description>
   </item>
   <item>
     <title>xemu-project / xemu</title>
@@ -51,14 +71,14 @@
     <description>Small and highly portable detection tests based on MITRE&#x27;s ATT&amp;CK.</description>
   </item>
   <item>
-    <title>trezor / trezor-firmware</title>
-    <link>https://github.com/trezor/trezor-firmware</link>
-    <description>🔒 Trezor Firmware Monorepo</description>
+    <title>openwrt / openwrt</title>
+    <link>https://github.com/openwrt/openwrt</link>
+    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
   </item>
   <item>
-    <title>sumatrapdfreader / sumatrapdf</title>
-    <link>https://github.com/sumatrapdfreader/sumatrapdf</link>
-    <description>SumatraPDF reader</description>
+    <title>openssl / openssl</title>
+    <link>https://github.com/openssl/openssl</link>
+    <description>General purpose TLS and crypto library</description>
   </item>
   <item>
     <title>brunodev85 / winlator</title>
@@ -66,39 +86,14 @@
     <description>Android application for running Windows applications with Wine and Box86/Box64</description>
   </item>
   <item>
-    <title>lcdyk0517 / arkos4clone</title>
-    <link>https://github.com/lcdyk0517/arkos4clone</link>
-    <description>ArkOS for Unofficial Devices</description>
-  </item>
-  <item>
-    <title>pgvector / pgvector</title>
-    <link>https://github.com/pgvector/pgvector</link>
-    <description>Open-source vector similarity search for Postgres</description>
-  </item>
-  <item>
-    <title>DarkFlippers / unleashed-firmware</title>
-    <link>https://github.com/DarkFlippers/unleashed-firmware</link>
-    <description>Flipper Zero Unleashed Firmware</description>
-  </item>
-  <item>
-    <title>termux / termux-x11</title>
-    <link>https://github.com/termux/termux-x11</link>
-    <description>Termux X-server add-on.</description>
-  </item>
-  <item>
     <title>betaflight / betaflight</title>
     <link>https://github.com/betaflight/betaflight</link>
     <description>Open Source Flight Controller Firmware</description>
   </item>
   <item>
-    <title>yugabyte / yugabyte-db</title>
-    <link>https://github.com/yugabyte/yugabyte-db</link>
-    <description>YugabyteDB - the cloud native distributed SQL database for mission-critical applications.</description>
-  </item>
-  <item>
-    <title>kingToolbox / WindTerm</title>
-    <link>https://github.com/kingToolbox/WindTerm</link>
-    <description>A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.</description>
+    <title>fwupd / fwupd</title>
+    <link>https://github.com/fwupd/fwupd</link>
+    <description>A system daemon to allow session software to update firmware</description>
   </item>
 </channel>
 </rss>

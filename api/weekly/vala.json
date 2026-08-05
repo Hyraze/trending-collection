@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "tkashkin / GameHub",
@@ -10,9 +10,9 @@
       "description": "All your games in one place",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 2820,
+      "stars": 2821,
       "forks": 206,
-      "added_stars": "6 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "linuxmint / timeshift",
@@ -30,19 +30,9 @@
       "description": "MacOS style AppImage installer and management application",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1264,
+      "stars": 1268,
       "forks": 27,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "Vysp3r / ProtonPlus",
-      "url": "https://github.com/Vysp3r/ProtonPlus",
-      "description": "A modern compatibility tools manager",
-      "language": "Vala",
-      "languageColor": "#a56de2",
-      "stars": 1650,
-      "forks": 50,
-      "added_stars": "15 stars this week"
+      "added_stars": "37 stars this week"
     },
     {
       "title": "christianloopp / komorebi",
@@ -51,8 +41,18 @@
       "language": "Vala",
       "languageColor": "#a56de2",
       "stars": 3749,
-      "forks": 257,
+      "forks": 256,
       "added_stars": "5 stars this week"
+    },
+    {
+      "title": "ErikReider / SwayNotificationCenter",
+      "url": "https://github.com/ErikReider/SwayNotificationCenter",
+      "description": "A simple GTK based notification daemon for any Wayland compositor",
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 2551,
+      "forks": 98,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "alainm23 / planify",
@@ -60,9 +60,9 @@
       "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 5514,
-      "forks": 318,
-      "added_stars": "15 stars this week"
+      "stars": 5516,
+      "forks": 319,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "BuddiesOfBudgie / budgie-desktop",
@@ -72,7 +72,17 @@
       "languageColor": "#a56de2",
       "stars": 1326,
       "forks": 64,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "Vysp3r / ProtonPlus",
+      "url": "https://github.com/Vysp3r/ProtonPlus",
+      "description": "A modern compatibility tools manager",
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 1652,
+      "forks": 50,
+      "added_stars": "13 stars this week"
     }
   ]
 }

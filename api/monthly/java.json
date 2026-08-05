@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "iflytek / skillhub",
@@ -10,8 +10,8 @@
       "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4859,
-      "forks": 755,
+      "stars": 4867,
+      "forks": 765,
       "added_stars": "1,570 stars this month"
     },
     {
@@ -20,9 +20,9 @@
       "description": "The automation tower defense RTS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 28480,
-      "forks": 3705,
-      "added_stars": "528 stars this month"
+      "stars": 28495,
+      "forks": 3712,
+      "added_stars": "533 stars this month"
     },
     {
       "title": "jenkinsci / jenkins",
@@ -30,8 +30,8 @@
       "description": "Jenkins automation server",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26407,
-      "forks": 9770,
+      "stars": 26413,
+      "forks": 9774,
       "added_stars": "1,026 stars this month"
     },
     {
@@ -40,9 +40,9 @@
       "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 27550,
-      "forks": 2843,
-      "added_stars": "473 stars this month"
+      "stars": 27555,
+      "forks": 2849,
+      "added_stars": "470 stars this month"
     },
     {
       "title": "yuliskov / SmartTube",
@@ -50,9 +50,9 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 31718,
-      "forks": 1901,
-      "added_stars": "1,002 stars this month"
+      "stars": 31745,
+      "forks": 1907,
+      "added_stars": "974 stars this month"
     },
     {
       "title": "OtterMind / Chat2DB",
@@ -60,9 +60,9 @@
       "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 27623,
+      "stars": 27637,
       "forks": 2989,
-      "added_stars": "1,847 stars this month"
+      "added_stars": "1,860 stars this month"
     },
     {
       "title": "modelcontextprotocol / java-sdk",
@@ -70,29 +70,9 @@
       "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3634,
-      "forks": 1099,
-      "added_stars": "207 stars this month"
-    },
-    {
-      "title": "github / copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 10341,
-      "forks": 1395,
-      "added_stars": "924 stars this month"
-    },
-    {
-      "title": "skylot / jadx",
-      "url": "https://github.com/skylot/jadx",
-      "description": "Dex to Java decompiler",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 49904,
-      "forks": 5709,
-      "added_stars": "699 stars this month"
+      "stars": 3636,
+      "forks": 1101,
+      "added_stars": "205 stars this month"
     },
     {
       "title": "spring-projects / spring-boot",
@@ -100,139 +80,29 @@
       "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 81230,
-      "forks": 42090,
-      "added_stars": "427 stars this month"
+      "stars": 81246,
+      "forks": 42102,
+      "added_stars": "440 stars this month"
     },
     {
-      "title": "NationalSecurityAgency / ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "title": "skylot / jadx",
+      "url": "https://github.com/skylot/jadx",
+      "description": "Dex to Java decompiler",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 71834,
-      "forks": 7857,
-      "added_stars": "1,525 stars this month"
+      "stars": 49917,
+      "forks": 5710,
+      "added_stars": "679 stars this month"
     },
     {
-      "title": "LawnchairLauncher / lawnchair",
-      "url": "https://github.com/LawnchairLauncher/lawnchair",
-      "description": "No clever tagline needed.",
+      "title": "github / copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 13250,
-      "forks": 1602,
-      "added_stars": "256 stars this month"
-    },
-    {
-      "title": "termux / termux-app",
-      "url": "https://github.com/termux/termux-app",
-      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 58608,
-      "forks": 7125,
-      "added_stars": "1,595 stars this month"
-    },
-    {
-      "title": "kunal-kushwaha / DSA-Bootcamp-Java",
-      "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
-      "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 23370,
-      "forks": 13467,
-      "added_stars": "403 stars this month"
-    },
-    {
-      "title": "cryptomator / cryptomator",
-      "url": "https://github.com/cryptomator/cryptomator",
-      "description": "Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 15826,
-      "forks": 1498,
-      "added_stars": "371 stars this month"
-    },
-    {
-      "title": "krahets / hello-algo",
-      "url": "https://github.com/krahets/hello-algo",
-      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 129129,
-      "forks": 15477,
-      "added_stars": "1,337 stars this month"
-    },
-    {
-      "title": "openjdk / jdk",
-      "url": "https://github.com/openjdk/jdk",
-      "description": "JDK main-line development https://openjdk.org/projects/jdk",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 23183,
-      "forks": 6396,
-      "added_stars": "181 stars this month"
-    },
-    {
-      "title": "FCL-Team / FoldCraftLauncher",
-      "url": "https://github.com/FCL-Team/FoldCraftLauncher",
-      "description": "Fold Craft Launcher, an Android Minecraft : Java Edition launcher.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4418,
-      "forks": 301,
-      "added_stars": "263 stars this month"
-    },
-    {
-      "title": "iluwatar / java-design-patterns",
-      "url": "https://github.com/iluwatar/java-design-patterns",
-      "description": "Design patterns implemented in Java",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 94519,
-      "forks": 27412,
-      "added_stars": "449 stars this month"
-    },
-    {
-      "title": "opensearch-project / OpenSearch",
-      "url": "https://github.com/opensearch-project/OpenSearch",
-      "description": "🔎 Open source distributed and RESTful search engine.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 13449,
-      "forks": 2870,
-      "added_stars": "340 stars this month"
-    },
-    {
-      "title": "RikkaApps / Shizuku-API",
-      "url": "https://github.com/RikkaApps/Shizuku-API",
-      "description": "The API and the developer guide for Shizuku and Sui.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2409,
-      "forks": 1054,
-      "added_stars": "121 stars this month"
-    },
-    {
-      "title": "itwanger / toBeBetterJavaer",
-      "url": "https://github.com/itwanger/toBeBetterJavaer",
-      "description": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 17412,
-      "forks": 2460,
-      "added_stars": "442 stars this month"
-    },
-    {
-      "title": "apache / fineract",
-      "url": "https://github.com/apache/fineract",
-      "description": "Apache Fineract",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2349,
-      "forks": 2643,
-      "added_stars": "67 stars this month"
+      "stars": 10346,
+      "forks": 1395,
+      "added_stars": "924 stars this month"
     },
     {
       "title": "elastic / elasticsearch",
@@ -240,19 +110,139 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 77729,
-      "forks": 26026,
-      "added_stars": "898 stars this month"
+      "stars": 77753,
+      "forks": 26033,
+      "added_stars": "772 stars this month"
     },
     {
-      "title": "AndreyPavlenko / Fermata",
-      "url": "https://github.com/AndreyPavlenko/Fermata",
-      "description": "",
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1228,
-      "forks": 168,
-      "added_stars": "84 stars this month"
+      "stars": 71900,
+      "forks": 7863,
+      "added_stars": "1,572 stars this month"
+    },
+    {
+      "title": "termux / termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 58671,
+      "forks": 7135,
+      "added_stars": "1,613 stars this month"
+    },
+    {
+      "title": "LawnchairLauncher / lawnchair",
+      "url": "https://github.com/LawnchairLauncher/lawnchair",
+      "description": "No clever tagline needed.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 13253,
+      "forks": 1604,
+      "added_stars": "252 stars this month"
+    },
+    {
+      "title": "openjdk / jdk",
+      "url": "https://github.com/openjdk/jdk",
+      "description": "JDK main-line development https://openjdk.org/projects/jdk",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 23186,
+      "forks": 6396,
+      "added_stars": "177 stars this month"
+    },
+    {
+      "title": "krahets / hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 129164,
+      "forks": 15482,
+      "added_stars": "1,349 stars this month"
+    },
+    {
+      "title": "kunal-kushwaha / DSA-Bootcamp-Java",
+      "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+      "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 23385,
+      "forks": 13470,
+      "added_stars": "407 stars this month"
+    },
+    {
+      "title": "cryptomator / cryptomator",
+      "url": "https://github.com/cryptomator/cryptomator",
+      "description": "Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 15828,
+      "forks": 1508,
+      "added_stars": "369 stars this month"
+    },
+    {
+      "title": "opensearch-project / OpenSearch",
+      "url": "https://github.com/opensearch-project/OpenSearch",
+      "description": "🔎 Open source distributed and RESTful search engine.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 13458,
+      "forks": 2877,
+      "added_stars": "346 stars this month"
+    },
+    {
+      "title": "iluwatar / java-design-patterns",
+      "url": "https://github.com/iluwatar/java-design-patterns",
+      "description": "Design patterns implemented in Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 94529,
+      "forks": 27415,
+      "added_stars": "455 stars this month"
+    },
+    {
+      "title": "apache / rocketmq",
+      "url": "https://github.com/apache/rocketmq",
+      "description": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 22540,
+      "forks": 12003,
+      "added_stars": "73 stars this month"
+    },
+    {
+      "title": "NotHarshhaa / DevOps-Projects",
+      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
+      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4798,
+      "forks": 4388,
+      "added_stars": "305 stars this month"
+    },
+    {
+      "title": "RikkaApps / Shizuku-API",
+      "url": "https://github.com/RikkaApps/Shizuku-API",
+      "description": "The API and the developer guide for Shizuku and Sui.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2413,
+      "forks": 1056,
+      "added_stars": "127 stars this month"
+    },
+    {
+      "title": "TGX-Android / Telegram-X",
+      "url": "https://github.com/TGX-Android/Telegram-X",
+      "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5880,
+      "forks": 1059,
+      "added_stars": "129 stars this month"
     }
   ]
 }

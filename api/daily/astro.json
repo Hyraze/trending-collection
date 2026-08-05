@@ -2,37 +2,17 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
-    {
-      "title": "CuteLeaf / Firefly",
-      "url": "https://github.com/CuteLeaf/Firefly",
-      "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 1802,
-      "forks": 1381,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "satnaing / astro-paper",
-      "url": "https://github.com/satnaing/astro-paper",
-      "description": "A minimal, accessible and SEO-friendly Astro blog theme.",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 4917,
-      "forks": 1046,
-      "added_stars": "5 stars today"
-    },
     {
       "title": "ColorlibHQ / AdminLTE",
       "url": "https://github.com/ColorlibHQ/AdminLTE",
       "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 45545,
-      "forks": 18185,
-      "added_stars": "5 stars today"
+      "stars": 45550,
+      "forks": 18182,
+      "added_stars": "6 stars today"
     },
     {
       "title": "tabler / tabler",
@@ -40,9 +20,9 @@
       "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 41410,
+      "stars": 41417,
       "forks": 4397,
-      "added_stars": "8 stars today"
+      "added_stars": "10 stars today"
     },
     {
       "title": "arthelokyo / astrowind",
@@ -50,18 +30,38 @@
       "description": "⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 5847,
-      "forks": 1650,
+      "stars": 5851,
+      "forks": 1651,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "saicaca / fuwari",
+      "url": "https://github.com/saicaca/fuwari",
+      "description": "✨A static blog template built with Astro.",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 4873,
+      "forks": 1237,
       "added_stars": "4 stars today"
     },
     {
-      "title": "jcalado / voxdmr-site",
-      "url": "https://github.com/jcalado/voxdmr-site",
-      "description": "voxDMR: Apps for DMR talkgroups.",
+      "title": "zeon-studio / astroplate",
+      "url": "https://github.com/zeon-studio/astroplate",
+      "description": "Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 35,
-      "forks": 6,
+      "stars": 1182,
+      "forks": 409,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "hilmanski / freeStuffDev",
+      "url": "https://github.com/hilmanski/freeStuffDev",
+      "description": "Complete list of free stuff for developer",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 1947,
+      "forks": 1125,
       "added_stars": "0 stars today"
     },
     {
@@ -70,39 +70,19 @@
       "description": "Dante, a single-author blog and portfolio theme for Astro.js.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 500,
-      "forks": 326,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ImranR98 / apps.obtainium.imranr.dev",
-      "url": "https://github.com/ImranR98/apps.obtainium.imranr.dev",
-      "description": "Collection of suggested apps for Obtainium.",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 545,
-      "forks": 145,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "cworld1 / astro-theme-pure",
-      "url": "https://github.com/cworld1/astro-theme-pure",
-      "description": "⭐ A simple, fast and powerful blog & document theme built by Astro",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 1025,
-      "forks": 272,
+      "stars": 499,
+      "forks": 325,
       "added_stars": "1 star today"
     },
     {
-      "title": "chrismwilliams / astro-theme-cactus",
-      "url": "https://github.com/chrismwilliams/astro-theme-cactus",
-      "description": "A simple Astro theme. Use it to create your blog or website.",
+      "title": "CuteLeaf / Firefly",
+      "url": "https://github.com/CuteLeaf/Firefly",
+      "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 1699,
-      "forks": 275,
-      "added_stars": "2 stars today"
+      "stars": 1813,
+      "forks": 1389,
+      "added_stars": "9 stars today"
     }
   ]
 }

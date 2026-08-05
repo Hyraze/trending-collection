@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "aquaproj / aqua-registry",
@@ -11,8 +11,18 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": 362,
-      "forks": 379,
-      "added_stars": "2 stars this week"
+      "forks": 380,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "web-platform-dx / web-features",
+      "url": "https://github.com/web-platform-dx/web-features",
+      "description": "Exploring how to present Web platform features adoptability",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 893,
+      "forks": 309,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "sublime-security / sublime-rules",
@@ -20,7 +30,7 @@
       "description": "Sublime rules for email attack detection, prevention, and threat hunting.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 369,
+      "stars": 368,
       "forks": 101,
       "added_stars": "1 star this week"
     },
@@ -30,9 +40,9 @@
       "description": "This is a public repository containing scrapers created by the Stash Community.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 829,
+      "stars": 828,
       "forks": 519,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "GTFOBins / GTFOBins.github.io",
@@ -40,8 +50,8 @@
       "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 13514,
-      "forks": 1657,
+      "stars": 13515,
+      "forks": 1659,
       "added_stars": "24 stars this week"
     },
     {
@@ -50,19 +60,9 @@
       "description": "Kubeflow Community Distribution",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 1029,
-      "forks": 1068,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "web-platform-dx / web-features",
-      "url": "https://github.com/web-platform-dx/web-features",
-      "description": "Exploring how to present Web platform features adoptability",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 892,
-      "forks": 308,
-      "added_stars": "3 stars this week"
+      "stars": 1028,
+      "forks": 1069,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "usnistgov / macos_security",
@@ -72,7 +72,7 @@
       "languageColor": "#cb171e",
       "stars": 2431,
       "forks": 300,
-      "added_stars": "8 stars this week"
+      "added_stars": "7 stars this week"
     }
   ]
 }

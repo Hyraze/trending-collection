@@ -2,17 +2,27 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
-      "title": "opa334 / TrollStore",
-      "url": "https://github.com/opa334/TrollStore",
-      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
+      "title": "git-up / GitUp",
+      "url": "https://github.com/git-up/GitUp",
+      "description": "The Git interface you've been missing all your life has finally arrived.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 21871,
-      "forks": 1626,
-      "added_stars": "50 stars this week"
+      "stars": 12085,
+      "forks": 1481,
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "maderix / ANE",
+      "url": "https://github.com/maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 7231,
+      "forks": 963,
+      "added_stars": "176 stars this week"
     },
     {
       "title": "gnachman / iTerm2",
@@ -20,8 +30,58 @@
       "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 17900,
-      "forks": 1449,
+      "stars": 17904,
+      "forks": 1448,
+      "added_stars": "29 stars this week"
+    },
+    {
+      "title": "opa334 / TrollStore",
+      "url": "https://github.com/opa334/TrollStore",
+      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 21876,
+      "forks": 1627,
+      "added_stars": "53 stars this week"
+    },
+    {
+      "title": "realm / realm-swift",
+      "url": "https://github.com/realm/realm-swift",
+      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 16613,
+      "forks": 2236,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "Hammerspoon / hammerspoon",
+      "url": "https://github.com/Hammerspoon/hammerspoon",
+      "description": "Staggeringly powerful macOS desktop automation with Lua",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 15848,
+      "forks": 706,
+      "added_stars": "43 stars this week"
+    },
+    {
+      "title": "geode-sdk / ios-launcher",
+      "url": "https://github.com/geode-sdk/ios-launcher",
+      "description": "Manages installing and launching Geometry Dash for iOS",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 662,
+      "forks": 240,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "objective-see / LuLu",
+      "url": "https://github.com/objective-see/LuLu",
+      "description": "LuLu is the free open-source macOS firewall",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 13017,
+      "forks": 588,
       "added_stars": "30 stars this week"
     },
     {
@@ -31,48 +91,18 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 33413,
-      "forks": 10601,
+      "forks": 10602,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "objective-see / LuLu",
-      "url": "https://github.com/objective-see/LuLu",
-      "description": "LuLu is the free open-source macOS firewall",
+      "title": "iodefog / VipVideo",
+      "url": "https://github.com/iodefog/VipVideo",
+      "description": "这是一个Mac/Windows聚合App，聚合常见电视/视频/音乐/小说。比如CCTV中央电视台直播免费观看, 爱奇艺、腾讯视频、芒果视频、优酷视频付费电影，VIP会员剧等免费观看，bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅、起点、七猫、有声小说等",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 13014,
-      "forks": 588,
-      "added_stars": "37 stars this week"
-    },
-    {
-      "title": "git-up / GitUp",
-      "url": "https://github.com/git-up/GitUp",
-      "description": "The Git interface you've been missing all your life has finally arrived.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 12084,
-      "forks": 1481,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "realm / realm-swift",
-      "url": "https://github.com/realm/realm-swift",
-      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 16612,
-      "forks": 2235,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "geode-sdk / ios-launcher",
-      "url": "https://github.com/geode-sdk/ios-launcher",
-      "description": "Manages installing and launching Geometry Dash for iOS",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 659,
-      "forks": 240,
-      "added_stars": "10 stars this week"
+      "stars": 5537,
+      "forks": 686,
+      "added_stars": "41 stars this week"
     },
     {
       "title": "PojavLauncherTeam / PojavLauncher_iOS",
@@ -80,9 +110,9 @@
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 3200,
-      "forks": 1305,
-      "added_stars": "9 stars this week"
+      "stars": 3202,
+      "forks": 1308,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "keycastr / keycastr",
@@ -90,19 +120,9 @@
       "description": "KeyCastr, an open-source keystroke visualizer",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 14997,
+      "stars": 14999,
       "forks": 574,
-      "added_stars": "26 stars this week"
-    },
-    {
-      "title": "maderix / ANE",
-      "url": "https://github.com/maderix/ANE",
-      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 7230,
-      "forks": 963,
-      "added_stars": "224 stars this week"
+      "added_stars": "22 stars this week"
     },
     {
       "title": "google / GoogleDataTransport",
@@ -115,14 +135,24 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "BranchMetrics / ios-branch-sdk-spm",
+      "url": "https://github.com/BranchMetrics/ios-branch-sdk-spm",
+      "description": "Branch iOS SDK Swift Package Manager distribution",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 27,
+      "forks": 18,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "google / gtm-session-fetcher",
       "url": "https://github.com/google/gtm-session-fetcher",
       "description": "Google Toolbox for Mac - Session Fetcher",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 290,
-      "forks": 196,
-      "added_stars": "2 stars this week"
+      "stars": 291,
+      "forks": 197,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "google / promises",
@@ -145,13 +175,23 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "BranchMetrics / ios-branch-sdk-spm",
-      "url": "https://github.com/BranchMetrics/ios-branch-sdk-spm",
-      "description": "Branch iOS SDK Swift Package Manager distribution",
+      "title": "syncthing / syncthing-macos",
+      "url": "https://github.com/syncthing/syncthing-macos",
+      "description": "Official frugal and native macOS Syncthing application bundle",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 27,
-      "forks": 18,
+      "stars": 3848,
+      "forks": 200,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "mixpanel / mixpanel-iphone",
+      "url": "https://github.com/mixpanel/mixpanel-iphone",
+      "description": "Official iOS (Objective-C) Tracking Library for Mixpanel Analytics",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 1065,
+      "forks": 567,
       "added_stars": "0 stars this week"
     },
     {
@@ -161,38 +201,8 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 672,
-      "forks": 310,
+      "forks": 311,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "AliSoftware / OHHTTPStubs",
-      "url": "https://github.com/AliSoftware/OHHTTPStubs",
-      "description": "Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 5071,
-      "forks": 597,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "nicklockwood / FXPageControl",
-      "url": "https://github.com/nicklockwood/FXPageControl",
-      "description": "Simple, drop-in replacement for the iPhone UIPageControl that allows customisation of the dot colour, size and spacing.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 298,
-      "forks": 67,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "button / DeepLinkKit",
-      "url": "https://github.com/button/DeepLinkKit",
-      "description": "A splendid route-matching, block-based way to handle your deep links.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 3454,
-      "forks": 279,
-      "added_stars": "0 stars this week"
     }
   ]
 }

@@ -2,18 +2,8 @@
   "title": "GitHub Nextflow Languages Daily Trending",
   "description": "Daily Trending of Nextflow Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
-    {
-      "title": "nf-core / rnaseq",
-      "url": "https://github.com/nf-core/rnaseq",
-      "description": "RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.",
-      "language": "Nextflow",
-      "languageColor": "#3ac486",
-      "stars": 1349,
-      "forks": 886,
-      "added_stars": "24 stars this month"
-    },
     {
       "title": "nf-core / modules",
       "url": "https://github.com/nf-core/modules",
@@ -21,8 +11,18 @@
       "language": "Nextflow",
       "languageColor": "#3ac486",
       "stars": 424,
-      "forks": 1086,
-      "added_stars": "5 stars this month"
+      "forks": 1087,
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "nf-core / rnaseq",
+      "url": "https://github.com/nf-core/rnaseq",
+      "description": "RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.",
+      "language": "Nextflow",
+      "languageColor": "#3ac486",
+      "stars": 1348,
+      "forks": 886,
+      "added_stars": "24 stars this month"
     }
   ]
 }

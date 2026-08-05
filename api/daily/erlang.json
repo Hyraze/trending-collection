@@ -2,26 +2,56 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
-      "title": "erlang / rebar3",
-      "url": "https://github.com/erlang/rebar3",
-      "description": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+      "title": "erlang / otp",
+      "url": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 1815,
-      "forks": 528,
+      "stars": 12321,
+      "forks": 3255,
       "added_stars": "1 star today"
     },
     {
-      "title": "ninenines / ranch",
-      "url": "https://github.com/ninenines/ranch",
-      "description": "Socket acceptor pool for TCP protocols.",
+      "title": "emqx / emqx",
+      "url": "https://github.com/emqx/emqx",
+      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 1242,
-      "forks": 337,
+      "stars": 16589,
+      "forks": 2542,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "apache / couchdb",
+      "url": "https://github.com/apache/couchdb",
+      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 6932,
+      "forks": 1077,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "blt / port_compiler",
+      "url": "https://github.com/blt/port_compiler",
+      "description": "A rebar3 port compiler",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 69,
+      "forks": 40,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "WhatsApp / erlfmt",
+      "url": "https://github.com/WhatsApp/erlfmt",
+      "description": "An automated code formatter for Erlang",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 461,
+      "forks": 66,
       "added_stars": "0 stars today"
     },
     {
@@ -35,36 +65,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "erlang / otp",
-      "url": "https://github.com/erlang/otp",
-      "description": "Erlang/OTP",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 12320,
-      "forks": 3250,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "apache / couchdb",
-      "url": "https://github.com/apache/couchdb",
-      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 6934,
-      "forks": 1077,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "talentdeficit / jsx",
-      "url": "https://github.com/talentdeficit/jsx",
-      "description": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 699,
-      "forks": 215,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "ninenines / cowboy",
       "url": "https://github.com/ninenines/cowboy",
       "description": "Small, fast, modern HTTP server for Erlang/OTP.",
@@ -72,6 +72,16 @@
       "languageColor": "#B83998",
       "stars": 7521,
       "forks": 1168,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ninenines / ranch",
+      "url": "https://github.com/ninenines/ranch",
+      "description": "Socket acceptor pool for TCP protocols.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 1242,
+      "forks": 337,
       "added_stars": "0 stars today"
     }
   ]

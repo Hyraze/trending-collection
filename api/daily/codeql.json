@@ -2,7 +2,7 @@
   "title": "GitHub Codeql Languages Daily Trending",
   "description": "Daily Trending of Codeql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
       "title": "github / codeql",
@@ -11,8 +11,18 @@
       "language": "CodeQL",
       "languageColor": "#140f46",
       "stars": 9904,
-      "forks": 2040,
+      "forks": 2046,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "github / codeql-coding-standards",
+      "url": "https://github.com/github/codeql-coding-standards",
+      "description": "This repository contains CodeQL queries and libraries which support various Coding Standards.",
+      "language": "CodeQL",
+      "languageColor": "#140f46",
+      "stars": 222,
+      "forks": 78,
+      "added_stars": "0 stars today"
     }
   ]
 }

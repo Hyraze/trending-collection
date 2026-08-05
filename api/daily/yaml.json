@@ -2,27 +2,27 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
-      "title": "aquaproj / aqua-registry",
-      "url": "https://github.com/aquaproj/aqua-registry",
-      "description": "aqua's Standard Registry",
+      "title": "GTFOBins / GTFOBins.github.io",
+      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 362,
-      "forks": 379,
-      "added_stars": "1 star today"
+      "stars": 13515,
+      "forks": 1659,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "kubeflow / community-distribution",
-      "url": "https://github.com/kubeflow/community-distribution",
-      "description": "Kubeflow Community Distribution",
+      "title": "web-platform-dx / web-features",
+      "url": "https://github.com/web-platform-dx/web-features",
+      "description": "Exploring how to present Web platform features adoptability",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 1029,
-      "forks": 1068,
-      "added_stars": "0 stars today"
+      "stars": 893,
+      "forks": 309,
+      "added_stars": "1 star today"
     },
     {
       "title": "tyriis / home-ops",
@@ -30,29 +30,9 @@
       "description": "IaC for my HomeLab kubernetes cluster resources with Flux",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 81,
+      "stars": 80,
       "forks": 4,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "stashapp / CommunityScrapers",
-      "url": "https://github.com/stashapp/CommunityScrapers",
-      "description": "This is a public repository containing scrapers created by the Stash Community.",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 829,
-      "forks": 519,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "GTFOBins / GTFOBins.github.io",
-      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
-      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 13514,
-      "forks": 1657,
-      "added_stars": "5 stars today"
     }
   ]
 }

@@ -4,21 +4,21 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
     <description>Vim-fork focused on extensibility and usability</description>
   </item>
   <item>
-    <title>junegunn / vim-plug</title>
-    <link>https://github.com/junegunn/vim-plug</link>
-    <description>🌺 Minimalist Vim Plugin Manager</description>
-  </item>
-  <item>
     <title>github / copilot.vim</title>
     <link>https://github.com/github/copilot.vim</link>
     <description>Neovim plugin for GitHub Copilot</description>
+  </item>
+  <item>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
     <title>vim / vim</title>
@@ -31,24 +31,14 @@
     <description>Retro groove color scheme for Vim</description>
   </item>
   <item>
-    <title>dense-analysis / ale</title>
-    <link>https://github.com/dense-analysis/ale</link>
-    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
-  </item>
-  <item>
     <title>sainnhe / everforest</title>
     <link>https://github.com/sainnhe/everforest</link>
     <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
-    <title>rbong / vim-flog</title>
-    <link>https://github.com/rbong/vim-flog</link>
-    <description>A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.</description>
-  </item>
-  <item>
-    <title>junegunn / vader.vim</title>
-    <link>https://github.com/junegunn/vader.vim</link>
-    <description>A simple Vimscript test framework</description>
+    <title>dense-analysis / ale</title>
+    <link>https://github.com/dense-analysis/ale</link>
+    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
   </item>
   <item>
     <title>tpope / vim-fugitive</title>
@@ -56,24 +46,9 @@
     <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
-    <title>tpope / vim-eunuch</title>
-    <link>https://github.com/tpope/vim-eunuch</link>
-    <description>eunuch.vim: Helpers for UNIX</description>
-  </item>
-  <item>
-    <title>mattn / vim-lsp-settings</title>
-    <link>https://github.com/mattn/vim-lsp-settings</link>
-    <description>Auto configurations for Language Server for vim-lsp</description>
-  </item>
-  <item>
-    <title>kana / vim-textobj-user</title>
-    <link>https://github.com/kana/vim-textobj-user</link>
-    <description>Vim plugin: Create your own text objects</description>
-  </item>
-  <item>
-    <title>tpope / vim-rails</title>
-    <link>https://github.com/tpope/vim-rails</link>
-    <description>rails.vim: Ruby on Rails power tools</description>
+    <title>ggml-org / llama.vim</title>
+    <link>https://github.com/ggml-org/llama.vim</link>
+    <description>Vim plugin for LLM-assisted code/text completion</description>
   </item>
   <item>
     <title>wellle / targets.vim</title>
@@ -86,14 +61,9 @@
     <description>A Filetype plugin for csv files</description>
   </item>
   <item>
-    <title>tpope / vim-obsession</title>
-    <link>https://github.com/tpope/vim-obsession</link>
-    <description>obsession.vim: continuously updated session files</description>
-  </item>
-  <item>
-    <title>ggml-org / llama.vim</title>
-    <link>https://github.com/ggml-org/llama.vim</link>
-    <description>Vim plugin for LLM-assisted code/text completion</description>
+    <title>vim-syntastic / syntastic</title>
+    <link>https://github.com/vim-syntastic/syntastic</link>
+    <description>Syntax checking hacks for vim</description>
   </item>
   <item>
     <title>leafgarland / typescript-vim</title>
@@ -101,24 +71,49 @@
     <description>Typescript syntax files for Vim</description>
   </item>
   <item>
-    <title>tomasr / molokai</title>
-    <link>https://github.com/tomasr/molokai</link>
-    <description>Molokai color scheme for Vim</description>
+    <title>ryanoasis / vim-devicons</title>
+    <link>https://github.com/ryanoasis/vim-devicons</link>
+    <description>Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more</description>
   </item>
   <item>
-    <title>junegunn / goyo.vim</title>
-    <link>https://github.com/junegunn/goyo.vim</link>
-    <description>🌷 Distraction-free writing in Vim</description>
+    <title>mattn / vim-lsp-settings</title>
+    <link>https://github.com/mattn/vim-lsp-settings</link>
+    <description>Auto configurations for Language Server for vim-lsp</description>
   </item>
   <item>
-    <title>prabirshrestha / asyncomplete.vim</title>
-    <link>https://github.com/prabirshrestha/asyncomplete.vim</link>
-    <description>async completion in pure vim script for vim8 and neovim</description>
+    <title>derekhe / msfs2020-map-enhancement</title>
+    <link>https://github.com/derekhe/msfs2020-map-enhancement</link>
+    <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
-    <title>vim-ruby / vim-ruby</title>
-    <link>https://github.com/vim-ruby/vim-ruby</link>
-    <description>Vim/Ruby Configuration Files</description>
+    <title>junegunn / vader.vim</title>
+    <link>https://github.com/junegunn/vader.vim</link>
+    <description>A simple Vimscript test framework</description>
+  </item>
+  <item>
+    <title>kana / vim-textobj-user</title>
+    <link>https://github.com/kana/vim-textobj-user</link>
+    <description>Vim plugin: Create your own text objects</description>
+  </item>
+  <item>
+    <title>tpope / vim-eunuch</title>
+    <link>https://github.com/tpope/vim-eunuch</link>
+    <description>eunuch.vim: Helpers for UNIX</description>
+  </item>
+  <item>
+    <title>gelguy / wilder.nvim</title>
+    <link>https://github.com/gelguy/wilder.nvim</link>
+    <description>A more adventurous wildmenu</description>
+  </item>
+  <item>
+    <title>andymass / vim-matchup</title>
+    <link>https://github.com/andymass/vim-matchup</link>
+    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
+  </item>
+  <item>
+    <title>NLKNguyen / papercolor-theme</title>
+    <link>https://github.com/NLKNguyen/papercolor-theme</link>
+    <description>🎨 Light &amp; Dark Vim color schemes inspired by Google&#x27;s Material Design</description>
   </item>
 </channel>
 </rss>

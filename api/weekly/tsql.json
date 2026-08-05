@@ -2,7 +2,7 @@
   "title": "GitHub Tsql Languages Daily Trending",
   "description": "Daily Trending of Tsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "microsoft / fhir-server",
@@ -11,7 +11,7 @@
       "language": "TSQL",
       "languageColor": "#e38c00",
       "stars": 1376,
-      "forks": 585,
+      "forks": 586,
       "added_stars": "0 stars this week"
     },
     {
@@ -22,17 +22,7 @@
       "languageColor": "#e38c00",
       "stars": 3871,
       "forks": 1106,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "lerocha / chinook-database",
-      "url": "https://github.com/lerocha/chinook-database",
-      "description": "Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2",
-      "language": "TSQL",
-      "languageColor": "#e38c00",
-      "stars": 2570,
-      "forks": 740,
-      "added_stars": "7 stars this week"
+      "added_stars": "9 stars this week"
     },
     {
       "title": "amachanic / sp_whoisactive",
@@ -43,6 +33,16 @@
       "stars": 1390,
       "forks": 340,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "lerocha / chinook-database",
+      "url": "https://github.com/lerocha/chinook-database",
+      "description": "Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2",
+      "language": "TSQL",
+      "languageColor": "#e38c00",
+      "stars": 2571,
+      "forks": 740,
+      "added_stars": "10 stars this week"
     }
   ]
 }

@@ -2,37 +2,27 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
-    {
-      "title": "Finsys / dockhand",
-      "url": "https://github.com/Finsys/dockhand",
-      "description": "Dockhand - Docker management you will like.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 5475,
-      "forks": 213,
-      "added_stars": "116 stars this week"
-    },
     {
       "title": "open-webui / desktop",
       "url": "https://github.com/open-webui/desktop",
       "description": "Open WebUI Desktop 🌐",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 2469,
-      "forks": 238,
-      "added_stars": "58 stars this week"
+      "stars": 2478,
+      "forks": 239,
+      "added_stars": "57 stars this week"
     },
     {
-      "title": "rajnandan1 / kener",
-      "url": "https://github.com/rajnandan1/kener",
-      "description": "Stunning status pages, batteries included!",
+      "title": "Finsys / dockhand",
+      "url": "https://github.com/Finsys/dockhand",
+      "description": "Dockhand - Docker management you will like.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5084,
-      "forks": 288,
-      "added_stars": "15 stars this week"
+      "stars": 5491,
+      "forks": 214,
+      "added_stars": "110 stars this week"
     },
     {
       "title": "imputnet / cobalt",
@@ -40,9 +30,19 @@
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 41940,
-      "forks": 3607,
-      "added_stars": "144 stars this week"
+      "stars": 41958,
+      "forks": 3609,
+      "added_stars": "150 stars this week"
+    },
+    {
+      "title": "rajnandan1 / kener",
+      "url": "https://github.com/rajnandan1/kener",
+      "description": "Stunning status pages, batteries included!",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 5085,
+      "forks": 288,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "dbgate / dbgate",
@@ -50,19 +50,9 @@
       "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 7183,
+      "stars": 7185,
       "forks": 446,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "sveltejs / svelte.dev",
-      "url": "https://github.com/sveltejs/svelte.dev",
-      "description": "The Svelte omnisite",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 322,
-      "forks": 271,
-      "added_stars": "4 stars this week"
+      "added_stars": "13 stars this week"
     },
     {
       "title": "mathesar-foundation / mathesar",
@@ -70,8 +60,38 @@
       "description": "An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5083,
-      "forks": 484,
+      "stars": 5084,
+      "forks": 485,
+      "added_stars": "23 stars this week"
+    },
+    {
+      "title": "b14ckyy / Kite-GC",
+      "url": "https://github.com/b14ckyy/Kite-GC",
+      "description": "Kite Ground Control (Kite GC) is a modern, cross-platform ground control station for INAV, ArduPilot and PX4 aircraft — planes, multirotors, VTOL, helicopters, rovers and boats.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 84,
+      "forks": 13,
+      "added_stars": "44 stars this week"
+    },
+    {
+      "title": "mistweaverco / bananas",
+      "url": "https://github.com/mistweaverco/bananas",
+      "description": "Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 6536,
+      "forks": 288,
+      "added_stars": "48 stars this week"
+    },
+    {
+      "title": "seanmorley15 / AdventureLog",
+      "url": "https://github.com/seanmorley15/AdventureLog",
+      "description": "Self-hostable travel tracker and trip planner.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 3458,
+      "forks": 234,
       "added_stars": "24 stars this week"
     },
     {
@@ -80,19 +100,19 @@
       "description": "The next-generation file converter. Open source, fully local* and free forever.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 15327,
+      "stars": 15330,
       "forks": 814,
-      "added_stars": "34 stars this week"
+      "added_stars": "35 stars this week"
     },
     {
-      "title": "trakt / trakt-web",
-      "url": "https://github.com/trakt/trakt-web",
-      "description": "Unlock the secrets of your watch history, explore hidden connections between films, and delve into the depths of personalized recommendations. But tread carefully, for the Trakt API holds powers that could reshape your very perception of entertainment...",
+      "title": "PuruVJ / macos-web",
+      "url": "https://github.com/PuruVJ/macos-web",
+      "description": "",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 283,
-      "forks": 37,
-      "added_stars": "8 stars this week"
+      "stars": 2652,
+      "forks": 342,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "jikan-me / website",
@@ -105,16 +125,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "PuruVJ / macos-web",
-      "url": "https://github.com/PuruVJ/macos-web",
-      "description": "",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 2651,
-      "forks": 341,
-      "added_stars": "6 stars this week"
-    },
-    {
       "title": "dora-team / dora.dev",
       "url": "https://github.com/dora-team/dora.dev",
       "description": "Public-facing knowledge site: https://dora.dev",
@@ -123,26 +133,6 @@
       "stars": 171,
       "forks": 45,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "satisfactorymodding / SatisfactoryModManager",
-      "url": "https://github.com/satisfactorymodding/SatisfactoryModManager",
-      "description": "A mod manager for easy installation of mods and modloader for Satisfactory",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 490,
-      "forks": 92,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "seanmorley15 / AdventureLog",
-      "url": "https://github.com/seanmorley15/AdventureLog",
-      "description": "Self-hostable travel tracker and trip planner.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 3453,
-      "forks": 234,
-      "added_stars": "23 stars this week"
     },
     {
       "title": "ReVanced / revanced-website",
@@ -160,9 +150,19 @@
       "description": "Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 1101,
+      "stars": 1102,
       "forks": 64,
-      "added_stars": "7 stars this week"
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "satisfactorymodding / SatisfactoryModManager",
+      "url": "https://github.com/satisfactorymodding/SatisfactoryModManager",
+      "description": "A mod manager for easy installation of mods and modloader for Satisfactory",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 490,
+      "forks": 92,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "binimum / tidal-ui",
@@ -181,7 +181,7 @@
       "language": "Svelte",
       "languageColor": "#ff3e00",
       "stars": 1778,
-      "forks": 197,
+      "forks": 196,
       "added_stars": "1 star this week"
     }
   ]

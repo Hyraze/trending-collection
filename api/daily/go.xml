@@ -4,61 +4,56 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
   <item>
     <title>esengine / DeepSeek-Reasonix</title>
     <link>https://github.com/esengine/DeepSeek-Reasonix</link>
     <description>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
   </item>
   <item>
-    <title>MHSanaei / 3x-ui</title>
-    <link>https://github.com/MHSanaei/3x-ui</link>
-    <description>Xray panel supporting multi-protocol multi-user expire day &amp; traffic &amp; IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)</description>
+    <title>moby / moby</title>
+    <link>https://github.com/moby/moby</link>
+    <description>The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
   </item>
   <item>
-    <title>superplanehq / superplane</title>
-    <link>https://github.com/superplanehq/superplane</link>
-    <description>The open source control plane for agentic engineering.</description>
+    <title>kubernetes / kubernetes</title>
+    <link>https://github.com/kubernetes/kubernetes</link>
+    <description>Production-Grade Container Scheduling and Management</description>
   </item>
   <item>
-    <title>lharries / whatsapp-mcp</title>
-    <link>https://github.com/lharries/whatsapp-mcp</link>
-    <description>WhatsApp MCP server</description>
+    <title>golang / go</title>
+    <link>https://github.com/golang/go</link>
+    <description>The Go programming language</description>
   </item>
   <item>
-    <title>bettercap / bettercap</title>
-    <link>https://github.com/bettercap/bettercap</link>
-    <description>The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.</description>
+    <title>projectdiscovery / nuclei</title>
+    <link>https://github.com/projectdiscovery/nuclei</link>
+    <description>Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</description>
   </item>
   <item>
-    <title>kgretzky / evilginx2</title>
-    <link>https://github.com/kgretzky/evilginx2</link>
-    <description>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</description>
+    <title>argoproj / argo-cd</title>
+    <link>https://github.com/argoproj/argo-cd</link>
+    <description>Declarative Continuous Deployment for Kubernetes</description>
   </item>
   <item>
-    <title>krillinai / KrillinAI</title>
-    <link>https://github.com/krillinai/KrillinAI</link>
-    <description>AI video translation &amp; dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube</description>
+    <title>ethereum / go-ethereum</title>
+    <link>https://github.com/ethereum/go-ethereum</link>
+    <description>Go implementation of the Ethereum protocol</description>
   </item>
   <item>
-    <title>github / gh-stack</title>
-    <link>https://github.com/github/gh-stack</link>
-    <description>GitHub Stacked PRs</description>
+    <title>spf13 / viper</title>
+    <link>https://github.com/spf13/viper</link>
+    <description>Go configuration with fangs</description>
   </item>
   <item>
-    <title>authelia / authelia</title>
-    <link>https://github.com/authelia/authelia</link>
-    <description>The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™</description>
+    <title>multica-ai / multica</title>
+    <link>https://github.com/multica-ai/multica</link>
+    <description>The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.</description>
   </item>
   <item>
-    <title>AlexxIT / go2rtc</title>
-    <link>https://github.com/AlexxIT/go2rtc</link>
-    <description>Ultimate camera streaming application</description>
-  </item>
-  <item>
-    <title>restic / restic</title>
-    <link>https://github.com/restic/restic</link>
-    <description>Fast, secure, efficient backup program</description>
+    <title>docker / compose</title>
+    <link>https://github.com/docker/compose</link>
+    <description>Define and run multi-container applications with Docker</description>
   </item>
   <item>
     <title>chaitin / SafeLine</title>
@@ -66,39 +61,34 @@
     <description>SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</description>
   </item>
   <item>
-    <title>micro / go-micro</title>
-    <link>https://github.com/micro/go-micro</link>
-    <description>A Go agent harness and service framework</description>
+    <title>gastownhall / beads</title>
+    <link>https://github.com/gastownhall/beads</link>
+    <description>Beads - A memory upgrade for your coding agent</description>
   </item>
   <item>
-    <title>tailscale / tailscale</title>
-    <link>https://github.com/tailscale/tailscale</link>
-    <description>The easiest, most secure way to use WireGuard and 2FA.</description>
+    <title>superplanehq / superplane</title>
+    <link>https://github.com/superplanehq/superplane</link>
+    <description>The open source control plane for agentic engineering.</description>
   </item>
   <item>
-    <title>SagerNet / sing-box</title>
-    <link>https://github.com/SagerNet/sing-box</link>
-    <description>The universal proxy platform</description>
+    <title>aquasecurity / trivy</title>
+    <link>https://github.com/aquasecurity/trivy</link>
+    <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
   </item>
   <item>
-    <title>pulumi / pulumi</title>
-    <link>https://github.com/pulumi/pulumi</link>
-    <description>Pulumi - Infrastructure as Code in any programming language 🚀</description>
+    <title>dolthub / dolt</title>
+    <link>https://github.com/dolthub/dolt</link>
+    <description>Dolt – Git for Data</description>
   </item>
   <item>
-    <title>caddyserver / caddy</title>
-    <link>https://github.com/caddyserver/caddy</link>
-    <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
+    <title>masterking32 / MasterDnsVPN</title>
+    <link>https://github.com/masterking32/MasterDnsVPN</link>
+    <description>Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.</description>
   </item>
   <item>
-    <title>gohugoio / hugo</title>
-    <link>https://github.com/gohugoio/hugo</link>
-    <description>The world’s fastest framework for building websites.</description>
-  </item>
-  <item>
-    <title>AlistGo / alist</title>
-    <link>https://github.com/AlistGo/alist</link>
-    <description>🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。</description>
+    <title>zzet / gortex</title>
+    <link>https://github.com/zzet/gortex</link>
+    <description>High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d</description>
   </item>
   <item>
     <title>danielmiessler / Fabric</title>
@@ -106,9 +96,29 @@
     <description>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</description>
   </item>
   <item>
-    <title>v2fly / v2ray-core</title>
-    <link>https://github.com/v2fly/v2ray-core</link>
-    <description>A platform for building proxies to bypass network restrictions.</description>
+    <title>Project-HAMi / HAMi</title>
+    <link>https://github.com/Project-HAMi/HAMi</link>
+    <description>Heterogeneous GPU Sharing on Kubernetes</description>
+  </item>
+  <item>
+    <title>junegunn / fzf</title>
+    <link>https://github.com/junegunn/fzf</link>
+    <description>🌸 A command-line fuzzy finder</description>
+  </item>
+  <item>
+    <title>spf13 / cobra</title>
+    <link>https://github.com/spf13/cobra</link>
+    <description>A Commander for modern Go CLI interactions</description>
+  </item>
+  <item>
+    <title>github / gh-stack</title>
+    <link>https://github.com/github/gh-stack</link>
+    <description>GitHub Stacked PRs</description>
+  </item>
+  <item>
+    <title>syncthing / syncthing</title>
+    <link>https://github.com/syncthing/syncthing</link>
+    <description>Open Source Continuous File Synchronization</description>
   </item>
 </channel>
 </rss>

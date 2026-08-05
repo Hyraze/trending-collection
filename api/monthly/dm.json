@@ -2,7 +2,7 @@
   "title": "GitHub Dm Languages Daily Trending",
   "description": "Daily Trending of Dm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "tgstation / tgstation",
@@ -11,8 +11,8 @@
       "language": "DM",
       "languageColor": "#447265",
       "stars": 1906,
-      "forks": 5294,
-      "added_stars": "5 stars this month"
+      "forks": 5296,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "cmss13-devs / cmss13",
@@ -20,8 +20,18 @@
       "description": "Contains the code for CM-SS13",
       "language": "DM",
       "languageColor": "#447265",
-      "stars": 173,
+      "stars": 172,
       "forks": 931,
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "goonstation / goonstation",
+      "url": "https://github.com/goonstation/goonstation",
+      "description": "Repository for the Goonstation branch of SS13",
+      "language": "DM",
+      "languageColor": "#447265",
+      "stars": 403,
+      "forks": 1814,
       "added_stars": "3 stars this month"
     }
   ]

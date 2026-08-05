@@ -2,27 +2,27 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
-    {
-      "title": "grokability / snipe-it",
-      "url": "https://github.com/grokability/snipe-it",
-      "description": "A free open source IT asset/license management system",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 14723,
-      "forks": 3942,
-      "added_stars": "702 stars this month"
-    },
     {
       "title": "Leantime / leantime",
       "url": "https://github.com/Leantime/leantime",
       "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 11208,
-      "forks": 1090,
-      "added_stars": "1,078 stars this month"
+      "stars": 11222,
+      "forks": 1092,
+      "added_stars": "1,089 stars this month"
+    },
+    {
+      "title": "grokability / snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 14743,
+      "forks": 3951,
+      "added_stars": "748 stars this month"
     },
     {
       "title": "coollabsio / coolify",
@@ -30,29 +30,9 @@
       "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 60060,
-      "forks": 5200,
-      "added_stars": "2,335 stars this month"
-    },
-    {
-      "title": "pestphp / pest",
-      "url": "https://github.com/pestphp/pest",
-      "description": "The elegant testing framework for PHP developers and AI agents.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 11629,
-      "forks": 515,
-      "added_stars": "81 stars this month"
-    },
-    {
-      "title": "matomo-org / matomo",
-      "url": "https://github.com/matomo-org/matomo",
-      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 21740,
-      "forks": 2883,
-      "added_stars": "107 stars this month"
+      "stars": 60104,
+      "forks": 5206,
+      "added_stars": "2,329 stars this month"
     },
     {
       "title": "danielmiessler / SecLists",
@@ -60,9 +40,29 @@
       "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 72597,
+      "stars": 72612,
       "forks": 25075,
-      "added_stars": "782 stars this month"
+      "added_stars": "793 stars this month"
+    },
+    {
+      "title": "pestphp / pest",
+      "url": "https://github.com/pestphp/pest",
+      "description": "The elegant testing framework for PHP developers and AI agents.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 11633,
+      "forks": 516,
+      "added_stars": "88 stars this month"
+    },
+    {
+      "title": "matomo-org / matomo",
+      "url": "https://github.com/matomo-org/matomo",
+      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 21741,
+      "forks": 2882,
+      "added_stars": "110 stars this month"
     },
     {
       "title": "woocommerce / woocommerce",
@@ -70,9 +70,9 @@
       "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 10442,
-      "forks": 10677,
-      "added_stars": "81 stars this month"
+      "stars": 10443,
+      "forks": 10676,
+      "added_stars": "82 stars this month"
     },
     {
       "title": "DenverCoder1 / github-readme-streak-stats",
@@ -80,8 +80,8 @@
       "description": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 7049,
-      "forks": 1607,
+      "stars": 7051,
+      "forks": 1610,
       "added_stars": "113 stars this month"
     },
     {
@@ -90,9 +90,9 @@
       "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 6193,
+      "stars": 6195,
       "forks": 1763,
-      "added_stars": "129 stars this month"
+      "added_stars": "130 stars this month"
     },
     {
       "title": "mautic / mautic",
@@ -100,19 +100,9 @@
       "description": "Mautic: Open Source Marketing Automation Software.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 10289,
-      "forks": 3391,
-      "added_stars": "283 stars this month"
-    },
-    {
-      "title": "laravel / framework",
-      "url": "https://github.com/laravel/framework",
-      "description": "Laravel is a web application framework with expressive, elegant syntax.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 34838,
-      "forks": 11935,
-      "added_stars": "79 stars this month"
+      "stars": 10295,
+      "forks": 3394,
+      "added_stars": "282 stars this month"
     },
     {
       "title": "WordPress / wordpress-develop",
@@ -122,47 +112,7 @@
       "languageColor": "#4F5D95",
       "stars": 3396,
       "forks": 3571,
-      "added_stars": "43 stars this month"
-    },
-    {
-      "title": "David-Crty / databasement",
-      "url": "https://github.com/David-Crty/databasement",
-      "description": "Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, Samba or local storage. SSH Tunnel support.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 1873,
-      "forks": 198,
-      "added_stars": "988 stars this month"
-    },
-    {
-      "title": "opnsense / core",
-      "url": "https://github.com/opnsense/core",
-      "description": "OPNsense GUI, API and systems backend",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 4560,
-      "forks": 976,
-      "added_stars": "66 stars this month"
-    },
-    {
-      "title": "Paymenter / Paymenter",
-      "url": "https://github.com/Paymenter/Paymenter",
-      "description": "Free and open-source webshop solution for hostings",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 2165,
-      "forks": 455,
-      "added_stars": "394 stars this month"
-    },
-    {
-      "title": "openemr / openemr",
-      "url": "https://github.com/openemr/openemr",
-      "description": "The most popular open source electronic health records and medical practice management solution.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 5340,
-      "forks": 2998,
-      "added_stars": "92 stars this month"
+      "added_stars": "44 stars this month"
     },
     {
       "title": "firefly-iii / firefly-iii",
@@ -170,9 +120,9 @@
       "description": "Firefly III: a personal finances manager",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 24224,
-      "forks": 2239,
-      "added_stars": "390 stars this month"
+      "stars": 24232,
+      "forks": 2240,
+      "added_stars": "391 stars this month"
     },
     {
       "title": "ellite / Wallos",
@@ -180,19 +130,39 @@
       "description": "Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 8304,
+      "stars": 8310,
       "forks": 409,
-      "added_stars": "174 stars this month"
+      "added_stars": "177 stars this month"
     },
     {
-      "title": "invoiceninja / invoiceninja",
-      "url": "https://github.com/invoiceninja/invoiceninja",
-      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+      "title": "opnsense / core",
+      "url": "https://github.com/opnsense/core",
+      "description": "OPNsense GUI, API and systems backend",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 9962,
-      "forks": 2677,
-      "added_stars": "113 stars this month"
+      "stars": 4565,
+      "forks": 978,
+      "added_stars": "75 stars this month"
+    },
+    {
+      "title": "Paymenter / Paymenter",
+      "url": "https://github.com/Paymenter/Paymenter",
+      "description": "Free and open-source webshop solution for hostings",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 2176,
+      "forks": 458,
+      "added_stars": "404 stars this month"
+    },
+    {
+      "title": "filamentphp / filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 31709,
+      "forks": 4195,
+      "added_stars": "457 stars this month"
     },
     {
       "title": "akaunting / akaunting",
@@ -200,19 +170,9 @@
       "description": "Online Accounting Software",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 10022,
-      "forks": 2958,
-      "added_stars": "119 stars this month"
-    },
-    {
-      "title": "roundcube / roundcubemail",
-      "url": "https://github.com/roundcube/roundcubemail",
-      "description": "The Roundcube Webmail suite",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 7112,
-      "forks": 1772,
-      "added_stars": "66 stars this month"
+      "stars": 10024,
+      "forks": 2957,
+      "added_stars": "118 stars this month"
     },
     {
       "title": "owncloud / core",
@@ -222,7 +182,37 @@
       "languageColor": "#4F5D95",
       "stars": 8828,
       "forks": 2062,
-      "added_stars": "35 stars this month"
+      "added_stars": "37 stars this month"
+    },
+    {
+      "title": "roundcube / roundcubemail",
+      "url": "https://github.com/roundcube/roundcubemail",
+      "description": "The Roundcube Webmail suite",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 7115,
+      "forks": 1772,
+      "added_stars": "69 stars this month"
+    },
+    {
+      "title": "openemr / openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 5342,
+      "forks": 3000,
+      "added_stars": "92 stars this month"
+    },
+    {
+      "title": "invoiceninja / invoiceninja",
+      "url": "https://github.com/invoiceninja/invoiceninja",
+      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 9969,
+      "forks": 2680,
+      "added_stars": "113 stars this month"
     }
   ]
 }

@@ -4,7 +4,7 @@
   <title>GitHub Dockerfile Languages Daily Trending</title>
   <description>Daily Trending of Dockerfile Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>vulhub / vulhub</title>
     <link>https://github.com/vulhub/vulhub</link>
@@ -21,9 +21,19 @@
     <description>Autoware - the world&#x27;s leading open-source software project for autonomous driving</description>
   </item>
   <item>
+    <title>dotnet / dotnet-docker</title>
+    <link>https://github.com/dotnet/dotnet-docker</link>
+    <description>Official container images for .NET</description>
+  </item>
+  <item>
     <title>corretto / corretto-docker</title>
     <link>https://github.com/corretto/corretto-docker</link>
     <description>Dockerfiles for Amazon Corretto Official images.</description>
+  </item>
+  <item>
+    <title>microsoft / vscode-remote-release</title>
+    <link>https://github.com/microsoft/vscode-remote-release</link>
+    <description>Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#x27;s full feature set.</description>
   </item>
   <item>
     <title>freeCodeCamp / rdb-alpha</title>
@@ -34,16 +44,6 @@
     <title>kubernetes-sigs / contributor-playground</title>
     <link>https://github.com/kubernetes-sigs/contributor-playground</link>
     <description></description>
-  </item>
-  <item>
-    <title>nodejs / docker-node</title>
-    <link>https://github.com/nodejs/docker-node</link>
-    <description>Official Docker Image for Node.js 🐳 🐢 🚀</description>
-  </item>
-  <item>
-    <title>microsoft / vscode-remote-release</title>
-    <link>https://github.com/microsoft/vscode-remote-release</link>
-    <description>Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#x27;s full feature set.</description>
   </item>
   <item>
     <title>MicrosoftDocs / windows-powershell-docs</title>
@@ -61,9 +61,9 @@
     <description>Docker Official Image packaging for PHP</description>
   </item>
   <item>
-    <title>piyushsachdeva / CKA-2024</title>
-    <link>https://github.com/piyushsachdeva/CKA-2024</link>
-    <description>This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.</description>
+    <title>linuxserver / docker-plex</title>
+    <link>https://github.com/linuxserver/docker-plex</link>
+    <description></description>
   </item>
   <item>
     <title>linuxserver / docker-unifi-network-application</title>
@@ -74,11 +74,6 @@
     <title>Gar-b-age / CookLikeHOC</title>
     <link>https://github.com/Gar-b-age/CookLikeHOC</link>
     <description>🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</description>
-  </item>
-  <item>
-    <title>dotnet / dotnet-docker</title>
-    <link>https://github.com/dotnet/dotnet-docker</link>
-    <description>Official container images for .NET</description>
   </item>
 </channel>
 </rss>

@@ -4,56 +4,11 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
     <title>alibaba / open-code-review</title>
     <link>https://github.com/alibaba/open-code-review</link>
     <description>Fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
-  </item>
-  <item>
-    <title>cli / cli</title>
-    <link>https://github.com/cli/cli</link>
-    <description>GitHub’s official command line tool</description>
-  </item>
-  <item>
-    <title>mudler / LocalAI</title>
-    <link>https://github.com/mudler/LocalAI</link>
-    <description>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</description>
-  </item>
-  <item>
-    <title>github / gh-stack</title>
-    <link>https://github.com/github/gh-stack</link>
-    <description>GitHub Stacked PRs</description>
-  </item>
-  <item>
-    <title>passteque / gluetun</title>
-    <link>https://github.com/passteque/gluetun</link>
-    <description>VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.</description>
-  </item>
-  <item>
-    <title>ollama / ollama</title>
-    <link>https://github.com/ollama/ollama</link>
-    <description>Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
-  </item>
-  <item>
-    <title>traefik / traefik</title>
-    <link>https://github.com/traefik/traefik</link>
-    <description>The Cloud Native Application Proxy</description>
-  </item>
-  <item>
-    <title>caddyserver / caddy</title>
-    <link>https://github.com/caddyserver/caddy</link>
-    <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
-  </item>
-  <item>
-    <title>yorukot / superfile</title>
-    <link>https://github.com/yorukot/superfile</link>
-    <description>Pretty fancy and modern terminal file manager</description>
-  </item>
-  <item>
-    <title>benbjohnson / litestream</title>
-    <link>https://github.com/benbjohnson/litestream</link>
-    <description>Streaming replication for SQLite.</description>
   </item>
   <item>
     <title>esengine / DeepSeek-Reasonix</title>
@@ -61,14 +16,64 @@
     <description>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
   </item>
   <item>
-    <title>kgretzky / evilginx2</title>
-    <link>https://github.com/kgretzky/evilginx2</link>
-    <description>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</description>
+    <title>mudler / LocalAI</title>
+    <link>https://github.com/mudler/LocalAI</link>
+    <description>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</description>
   </item>
   <item>
-    <title>github / gh-aw</title>
-    <link>https://github.com/github/gh-aw</link>
-    <description>GitHub Agentic Workflows</description>
+    <title>gtsteffaniak / filebrowser</title>
+    <link>https://github.com/gtsteffaniak/filebrowser</link>
+    <description>📂 Web File Browser</description>
+  </item>
+  <item>
+    <title>traefik / traefik</title>
+    <link>https://github.com/traefik/traefik</link>
+    <description>The Cloud Native Application Proxy</description>
+  </item>
+  <item>
+    <title>passteque / gluetun</title>
+    <link>https://github.com/passteque/gluetun</link>
+    <description>VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.</description>
+  </item>
+  <item>
+    <title>github / gh-stack</title>
+    <link>https://github.com/github/gh-stack</link>
+    <description>GitHub Stacked PRs</description>
+  </item>
+  <item>
+    <title>cli / cli</title>
+    <link>https://github.com/cli/cli</link>
+    <description>GitHub’s official command line tool</description>
+  </item>
+  <item>
+    <title>caddyserver / caddy</title>
+    <link>https://github.com/caddyserver/caddy</link>
+    <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
+  </item>
+  <item>
+    <title>1Panel-dev / 1Panel</title>
+    <link>https://github.com/1Panel-dev/1Panel</link>
+    <description>🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.</description>
+  </item>
+  <item>
+    <title>ollama / ollama</title>
+    <link>https://github.com/ollama/ollama</link>
+    <description>Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
+  </item>
+  <item>
+    <title>junegunn / fzf</title>
+    <link>https://github.com/junegunn/fzf</link>
+    <description>🌸 A command-line fuzzy finder</description>
+  </item>
+  <item>
+    <title>chaitin / SafeLine</title>
+    <link>https://github.com/chaitin/SafeLine</link>
+    <description>SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</description>
+  </item>
+  <item>
+    <title>yorukot / superfile</title>
+    <link>https://github.com/yorukot/superfile</link>
+    <description>Pretty fancy and modern terminal file manager</description>
   </item>
   <item>
     <title>multica-ai / multica</title>
@@ -76,14 +81,9 @@
     <description>The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.</description>
   </item>
   <item>
-    <title>wavetermdev / waveterm</title>
-    <link>https://github.com/wavetermdev/waveterm</link>
-    <description>An open-source, AI-integrated, cross-platform terminal for seamless workflows</description>
-  </item>
-  <item>
-    <title>evcc-io / evcc</title>
-    <link>https://github.com/evcc-io/evcc</link>
-    <description>solar charging ☀️🚘</description>
+    <title>kgretzky / evilginx2</title>
+    <link>https://github.com/kgretzky/evilginx2</link>
+    <description>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</description>
   </item>
   <item>
     <title>ccfos / nightingale</title>
@@ -91,9 +91,9 @@
     <description>Nightingale is to monitoring and alerting what Grafana is to visualization.</description>
   </item>
   <item>
-    <title>infiniflow / ragflow</title>
-    <link>https://github.com/infiniflow/ragflow</link>
-    <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
+    <title>binwiederhier / ntfy</title>
+    <link>https://github.com/binwiederhier/ntfy</link>
+    <description>Send push notifications to your phone or desktop using PUT/POST</description>
   </item>
   <item>
     <title>agent-substrate / substrate</title>
@@ -101,14 +101,29 @@
     <description>Agent Substrate: the core system</description>
   </item>
   <item>
-    <title>getprobo / probo</title>
-    <link>https://github.com/getprobo/probo</link>
-    <description>Open source solutions for SOC2, GDPR, and ISO27001</description>
+    <title>labstack / echo</title>
+    <link>https://github.com/labstack/echo</link>
+    <description>High performance, minimalist Go web framework</description>
   </item>
   <item>
-    <title>podman-container-tools / podman</title>
-    <link>https://github.com/podman-container-tools/podman</link>
-    <description>Podman: A tool for managing OCI containers and pods.</description>
+    <title>ethereum / go-ethereum</title>
+    <link>https://github.com/ethereum/go-ethereum</link>
+    <description>Go implementation of the Ethereum protocol</description>
+  </item>
+  <item>
+    <title>aquasecurity / trivy</title>
+    <link>https://github.com/aquasecurity/trivy</link>
+    <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+  </item>
+  <item>
+    <title>docker / compose</title>
+    <link>https://github.com/docker/compose</link>
+    <description>Define and run multi-container applications with Docker</description>
+  </item>
+  <item>
+    <title>grafana / alloy</title>
+    <link>https://github.com/grafana/alloy</link>
+    <description>OpenTelemetry Collector distribution with programmable pipelines</description>
   </item>
 </channel>
 </rss>

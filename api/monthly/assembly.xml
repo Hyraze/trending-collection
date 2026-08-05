@@ -4,7 +4,7 @@
   <title>GitHub Assembly Languages Daily Trending</title>
   <description>Daily Trending of Assembly Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>chrislgarry / Apollo-11</title>
     <link>https://github.com/chrislgarry/Apollo-11</link>
@@ -31,14 +31,14 @@
     <description>An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.</description>
   </item>
   <item>
-    <title>apple / swift-crypto</title>
-    <link>https://github.com/apple/swift-crypto</link>
-    <description>Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.</description>
-  </item>
-  <item>
     <title>JSsixtyfour / smashremix</title>
     <link>https://github.com/JSsixtyfour/smashremix</link>
     <description></description>
+  </item>
+  <item>
+    <title>apple / swift-crypto</title>
+    <link>https://github.com/apple/swift-crypto</link>
+    <description>Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.</description>
   </item>
   <item>
     <title>apple / swift-nio-ssl</title>
@@ -54,6 +54,16 @@
     <title>pret / pokecrystal</title>
     <link>https://github.com/pret/pokecrystal</link>
     <description>Disassembly of Pokémon Crystal</description>
+  </item>
+  <item>
+    <title>hasherezade / malware_training_vol1</title>
+    <link>https://github.com/hasherezade/malware_training_vol1</link>
+    <description>Materials for Windows Malware Analysis training (volume 1)</description>
+  </item>
+  <item>
+    <title>vxunderground / MalwareSourceCode</title>
+    <link>https://github.com/vxunderground/MalwareSourceCode</link>
+    <description>Collection of malware source code for a variety of platforms in an array of different programming languages.</description>
   </item>
   <item>
     <title>espressif / esp-dl</title>
@@ -86,19 +96,14 @@
     <description>PokeWilds - A Gen 2 Game/Engine using libGDX</description>
   </item>
   <item>
-    <title>vxunderground / MalwareSourceCode</title>
-    <link>https://github.com/vxunderground/MalwareSourceCode</link>
-    <description>Collection of malware source code for a variety of platforms in an array of different programming languages.</description>
-  </item>
-  <item>
-    <title>bitdump / BLHeli</title>
-    <link>https://github.com/bitdump/BLHeli</link>
-    <description>BLHeli for brushless ESC firmware</description>
-  </item>
-  <item>
     <title>ebitengine / purego</title>
     <link>https://github.com/ebitengine/purego</link>
     <description>A library for calling C functions from Go without Cgo</description>
+  </item>
+  <item>
+    <title>supranational / blst</title>
+    <link>https://github.com/supranational/blst</link>
+    <description>Multilingual BLS12-381 signature library</description>
   </item>
 </channel>
 </rss>

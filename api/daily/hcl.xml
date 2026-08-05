@@ -4,21 +4,11 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
   <item>
-    <title>chainguard-images / images</title>
-    <link>https://github.com/chainguard-images/images</link>
-    <description>Public Chainguard Images</description>
-  </item>
-  <item>
-    <title>zealvora / terraform-beginner-to-advanced-resource</title>
-    <link>https://github.com/zealvora/terraform-beginner-to-advanced-resource</link>
-    <description>HashiCorp Certified Terraform Associate 2026</description>
-  </item>
-  <item>
-    <title>aws-ia / terraform-aws-mwaa</title>
-    <link>https://github.com/aws-ia/terraform-aws-mwaa</link>
-    <description>Terraform module for Amazon MWAA(Apache Airflow)</description>
+    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
+    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
     <title>semgrep / semgrep-rules</title>
@@ -26,19 +16,19 @@
     <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
   </item>
   <item>
-    <title>terrapkg / packages</title>
-    <link>https://github.com/terrapkg/packages</link>
-    <description>Monorepo for Terra Packages</description>
+    <title>terraform-aws-modules / terraform-aws-vpc</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
-    <title>cloudposse / terraform-aws-eks-iam-role</title>
-    <link>https://github.com/cloudposse/terraform-aws-eks-iam-role</link>
-    <description>Terraform module to provision an EKS IAM Role for Service Account</description>
+    <title>bridgecrewio / checkov-action</title>
+    <link>https://github.com/bridgecrewio/checkov-action</link>
+    <description>This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.</description>
   </item>
   <item>
-    <title>iam-veeramalla / ultimate-devops-project-aws</title>
-    <link>https://github.com/iam-veeramalla/ultimate-devops-project-aws</link>
-    <description>End to End DevOps project</description>
+    <title>chainguard-images / images</title>
+    <link>https://github.com/chainguard-images/images</link>
+    <description>Public Chainguard Images</description>
   </item>
   <item>
     <title>hashicorp / setup-packer</title>
@@ -46,29 +36,34 @@
     <description>Run HashiCorp Packer as part of your GitHub Actions Workflow</description>
   </item>
   <item>
-    <title>DataDog / serverless-sample-app</title>
-    <link>https://github.com/DataDog/serverless-sample-app</link>
-    <description>Explore Datadog&#x27;s serverless observability features with this sample app.</description>
+    <title>GoogleCloudPlatform / terraform-google-alloy-db</title>
+    <link>https://github.com/GoogleCloudPlatform/terraform-google-alloy-db</link>
+    <description>Creates an Alloy DB instance</description>
   </item>
   <item>
-    <title>sidpalas / devops-directive-terraform-course</title>
-    <link>https://github.com/sidpalas/devops-directive-terraform-course</link>
-    <description>Companion repo for complete Terraform course</description>
+    <title>zealvora / terraform-beginner-to-advanced-resource</title>
+    <link>https://github.com/zealvora/terraform-beginner-to-advanced-resource</link>
+    <description>HashiCorp Certified Terraform Associate 2026</description>
   </item>
   <item>
-    <title>Azure / terraform-azurerm-network-security-group</title>
-    <link>https://github.com/Azure/terraform-azurerm-network-security-group</link>
-    <description>Terraform module to create a network security group and assign it to the specified subnet</description>
+    <title>cloudposse / terraform-aws-ecs-container-definition</title>
+    <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
+    <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
   </item>
   <item>
-    <title>hashicorp / terraform-provider-awscc</title>
-    <link>https://github.com/hashicorp/terraform-provider-awscc</link>
-    <description>Terraform AWS Cloud Control provider</description>
+    <title>terraform-aws-modules / terraform-aws-elasticache</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-elasticache</link>
+    <description>Terraform module to create AWS ElastiCache resources 🇺🇦</description>
   </item>
   <item>
-    <title>bridgecrewio / checkov-action</title>
-    <link>https://github.com/bridgecrewio/checkov-action</link>
-    <description>This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.</description>
+    <title>terraform-google-modules / terraform-google-memorystore</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-memorystore</link>
+    <description>Creates a fully functional Google Memorystore (redis) instance</description>
+  </item>
+  <item>
+    <title>aws-ia / terraform-aws-mwaa</title>
+    <link>https://github.com/aws-ia/terraform-aws-mwaa</link>
+    <description>Terraform module for Amazon MWAA(Apache Airflow)</description>
   </item>
 </channel>
 </rss>

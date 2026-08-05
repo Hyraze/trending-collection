@@ -2,47 +2,27 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
-    {
-      "title": "vulhub / vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21075,
-      "forks": 4795,
-      "added_stars": "46 stars this week"
-    },
     {
       "title": "goldbergyoni / nodebestpractices",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 105472,
-      "forks": 10705,
-      "added_stars": "38 stars this week"
+      "stars": 105476,
+      "forks": 10708,
+      "added_stars": "39 stars this week"
     },
     {
-      "title": "autowarefoundation / autoware",
-      "url": "https://github.com/autowarefoundation/autoware",
-      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 11940,
-      "forks": 3677,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "mikeroyal / Self-Hosting-Guide",
-      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
-      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 22152,
-      "forks": 1104,
-      "added_stars": "104 stars this week"
+      "stars": 21081,
+      "forks": 4796,
+      "added_stars": "39 stars this week"
     },
     {
       "title": "nodejs / docker-node",
@@ -50,9 +30,29 @@
       "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 8577,
+      "stars": 8578,
       "forks": 1991,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "autowarefoundation / autoware",
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 11944,
+      "forks": 3678,
+      "added_stars": "41 stars this week"
+    },
+    {
+      "title": "mikeroyal / Self-Hosting-Guide",
+      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 22168,
+      "forks": 1108,
+      "added_stars": "102 stars this week"
     },
     {
       "title": "oxsecurity / megalinter",
@@ -61,28 +61,8 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 2543,
-      "forks": 304,
+      "forks": 303,
       "added_stars": "4 stars this week"
-    },
-    {
-      "title": "redhat-openshift-ecosystem / certified-operators",
-      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
-      "description": "Production catalog for Red Hat Certified Operator Bundles",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 82,
-      "forks": 645,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "kubernetes-sigs / contributor-playground",
-      "url": "https://github.com/kubernetes-sigs/contributor-playground",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 280,
-      "forks": 2051,
-      "added_stars": "2 stars this week"
     },
     {
       "title": "microsoft / vscode-remote-release",
@@ -92,17 +72,7 @@
       "languageColor": "#384d54",
       "stars": 4140,
       "forks": 460,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "corretto / corretto-docker",
-      "url": "https://github.com/corretto/corretto-docker",
-      "description": "Dockerfiles for Amazon Corretto Official images.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 200,
-      "forks": 68,
-      "added_stars": "0 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "redhat-openshift-ecosystem / community-operators-prod",
@@ -111,8 +81,18 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 138,
-      "forks": 652,
+      "forks": 653,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "kubernetes-sigs / contributor-playground",
+      "url": "https://github.com/kubernetes-sigs/contributor-playground",
+      "description": "",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 281,
+      "forks": 2054,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "aws-amplify / amplify-hosting",
@@ -122,6 +102,46 @@
       "languageColor": "#384d54",
       "stars": 480,
       "forks": 123,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "dotnet / dotnet-docker",
+      "url": "https://github.com/dotnet/dotnet-docker",
+      "description": "Official container images for .NET",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4858,
+      "forks": 1973,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "laradock / laradock",
+      "url": "https://github.com/laradock/laradock",
+      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 12658,
+      "forks": 4362,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "redhat-openshift-ecosystem / certified-operators",
+      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
+      "description": "Production catalog for Red Hat Certified Operator Bundles",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 82,
+      "forks": 646,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "corretto / corretto-docker",
+      "url": "https://github.com/corretto/corretto-docker",
+      "description": "Dockerfiles for Amazon Corretto Official images.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 200,
+      "forks": 68,
       "added_stars": "0 stars this week"
     },
     {
@@ -135,16 +155,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "streetsidesoftware / cspell-cli",
-      "url": "https://github.com/streetsidesoftware/cspell-cli",
-      "description": "CSpell command line spell checker.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 131,
-      "forks": 12,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "zabbix / zabbix-docker",
       "url": "https://github.com/zabbix/zabbix-docker",
       "description": "Official Zabbix Dockerfiles",
@@ -152,17 +162,7 @@
       "languageColor": "#384d54",
       "stars": 2818,
       "forks": 1451,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "dotnet / dotnet-docker",
-      "url": "https://github.com/dotnet/dotnet-docker",
-      "description": "Official container images for .NET",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 4857,
-      "forks": 1973,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "TechHutTV / homelab",
@@ -170,9 +170,9 @@
       "description": "Homelab stacks, templates, and more fun resources!",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 3046,
+      "stars": 3049,
       "forks": 284,
-      "added_stars": "10 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "docker-library / python",
@@ -181,28 +181,8 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 2769,
-      "forks": 1109,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "laradock / laradock",
-      "url": "https://github.com/laradock/laradock",
-      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 12657,
-      "forks": 4362,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "Gar-b-age / CookLikeHOC",
-      "url": "https://github.com/Gar-b-age/CookLikeHOC",
-      "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 23763,
-      "forks": 2357,
-      "added_stars": "36 stars this week"
+      "forks": 1108,
+      "added_stars": "1 star this week"
     }
   ]
 }

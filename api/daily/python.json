@@ -2,47 +2,17 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
-      "title": "donnemartin / system-design-primer",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "title": "uber / ADR",
+      "url": "https://github.com/uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 360660,
-      "forks": 57529,
-      "added_stars": "237 stars today"
-    },
-    {
-      "title": "shiyu-coder / Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 35870,
-      "forks": 5970,
-      "added_stars": "200 stars today"
-    },
-    {
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 65905,
-      "forks": 5469,
-      "added_stars": "1,057 stars today"
-    },
-    {
-      "title": "Alishahryar1 / free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 44126,
-      "forks": 7276,
-      "added_stars": "278 stars today"
+      "stars": 752,
+      "forks": 71,
+      "added_stars": "148 stars today"
     },
     {
       "title": "livekit / agents",
@@ -50,9 +20,39 @@
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12089,
-      "forks": 3462,
-      "added_stars": "148 stars today"
+      "stars": 12499,
+      "forks": 3484,
+      "added_stars": "432 stars today"
+    },
+    {
+      "title": "browser-use / video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 19443,
+      "forks": 2417,
+      "added_stars": "320 stars today"
+    },
+    {
+      "title": "huangruiteng / loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1611,
+      "forks": 117,
+      "added_stars": "585 stars today"
+    },
+    {
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 66579,
+      "forks": 5521,
+      "added_stars": "956 stars today"
     },
     {
       "title": "SimplifyJobs / Summer2027-Internships",
@@ -60,139 +60,79 @@
       "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 45803,
-      "forks": 3209,
-      "added_stars": "66 stars today"
+      "stars": 45863,
+      "forks": 3212,
+      "added_stars": "71 stars today"
     },
     {
-      "title": "microsoft / TRELLIS.2",
-      "url": "https://github.com/microsoft/TRELLIS.2",
-      "description": "Native and Compact Structured Latents for 3D Generation",
+      "title": "Coldcard / firmware",
+      "url": "https://github.com/Coldcard/firmware",
+      "description": "❄️ Firmware and simulator for Coldcard Hardware Wallet",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10329,
-      "forks": 1236,
-      "added_stars": "166 stars today"
-    },
-    {
-      "title": "vitali87 / code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2500,
-      "forks": 411,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "bytedance / deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 79199,
-      "forks": 10810,
-      "added_stars": "186 stars today"
-    },
-    {
-      "title": "comet-ml / opik",
-      "url": "https://github.com/comet-ml/opik",
-      "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 21096,
-      "forks": 1669,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "abus-aikorea / voice-pro",
-      "url": "https://github.com/abus-aikorea/voice-pro",
-      "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 12025,
-      "forks": 1745,
-      "added_stars": "46 stars today"
-    },
-    {
-      "title": "jamwithai / production-agentic-rag-course",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
-      "description": "",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 8251,
-      "forks": 1845,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "sherlock-project / sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 88172,
-      "forks": 10350,
-      "added_stars": "227 stars today"
-    },
-    {
-      "title": "kovidgoyal / calibre",
-      "url": "https://github.com/kovidgoyal/calibre",
-      "description": "The official source code repository for the calibre ebook manager",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 25517,
-      "forks": 2640,
+      "stars": 754,
+      "forks": 206,
       "added_stars": "11 stars today"
     },
     {
-      "title": "Z4nzu / hackingtool",
-      "url": "https://github.com/Z4nzu/hackingtool",
-      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "title": "usestrix / strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 78751,
-      "forks": 8937,
-      "added_stars": "65 stars today"
+      "stars": 48458,
+      "forks": 5111,
+      "added_stars": "984 stars today"
     },
     {
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "title": "Alishahryar1 / free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32548,
-      "forks": 3223,
-      "added_stars": "107 stars today"
+      "stars": 44377,
+      "forks": 7316,
+      "added_stars": "451 stars today"
     },
     {
-      "title": "Graphify-Labs / graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "title": "python / cpython",
+      "url": "https://github.com/python/cpython",
+      "description": "The Python programming language",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 101948,
-      "forks": 9901,
-      "added_stars": "840 stars today"
+      "stars": 74163,
+      "forks": 35137,
+      "added_stars": "21 stars today"
     },
     {
-      "title": "PostHog / posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 37483,
-      "forks": 3137,
-      "added_stars": "28 stars today"
+      "stars": 130587,
+      "forks": 19265,
+      "added_stars": "362 stars today"
     },
     {
-      "title": "invoke-ai / InvokeAI",
-      "url": "https://github.com/invoke-ai/InvokeAI",
-      "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+      "title": "django / django",
+      "url": "https://github.com/django/django",
+      "description": "The Web framework for perfectionists with deadlines.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 27755,
-      "forks": 2921,
-      "added_stars": "18 stars today"
+      "stars": 88350,
+      "forks": 34102,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "donnemartin / system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 361035,
+      "forks": 57569,
+      "added_stars": "637 stars today"
     },
     {
       "title": "NousResearch / hermes-agent",
@@ -200,9 +140,79 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 225012,
-      "forks": 43610,
-      "added_stars": "622 stars today"
+      "stars": 225613,
+      "forks": 43834,
+      "added_stars": "616 stars today"
+    },
+    {
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 32663,
+      "forks": 3227,
+      "added_stars": "126 stars today"
+    },
+    {
+      "title": "RVC-Project / Retrieval-based-Voice-Conversion-WebUI",
+      "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+      "description": "Easily train a good VC model with voice data <= 10 mins!",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 37094,
+      "forks": 5183,
+      "added_stars": "81 stars today"
+    },
+    {
+      "title": "pandas-dev / pandas",
+      "url": "https://github.com/pandas-dev/pandas",
+      "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 49426,
+      "forks": 20229,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "python / mypy",
+      "url": "https://github.com/python/mypy",
+      "description": "Optional static typing for Python",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 20577,
+      "forks": 3267,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "alirezarezvani / claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 23828,
+      "forks": 3344,
+      "added_stars": "83 stars today"
+    },
+    {
+      "title": "harvard-edge / cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 27723,
+      "forks": 3472,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "spesmilo / electrum",
+      "url": "https://github.com/spesmilo/electrum",
+      "description": "Electrum Bitcoin Wallet",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8546,
+      "forks": 3455,
+      "added_stars": "4 stars today"
     }
   ]
 }

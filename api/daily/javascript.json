@@ -2,57 +2,77 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
-      "title": "louislam / uptime-kuma",
-      "url": "https://github.com/louislam/uptime-kuma",
-      "description": "A fancy self-hosted monitoring tool",
+      "title": "webpack / webpack",
+      "url": "https://github.com/webpack/webpack",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 89784,
-      "forks": 8200,
-      "added_stars": "51 stars today"
+      "stars": 65954,
+      "forks": 9529,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "4ian / GDevelop",
-      "url": "https://github.com/4ian/GDevelop",
-      "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+      "title": "vercel / next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 25335,
-      "forks": 1485,
-      "added_stars": "34 stars today"
+      "stars": 141363,
+      "forks": 31679,
+      "added_stars": "58 stars today"
     },
     {
-      "title": "NodeBB / NodeBB",
-      "url": "https://github.com/NodeBB/NodeBB",
-      "description": "Node.js based forum software built for the modern web",
+      "title": "sveltejs / svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 15176,
-      "forks": 2988,
-      "added_stars": "0 stars today"
+      "stars": 87860,
+      "forks": 5176,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "jellyfin / jellyfin-web",
-      "url": "https://github.com/jellyfin/jellyfin-web",
-      "description": "The Free Software Media System - Official Web Client",
+      "title": "greensock / GSAP",
+      "url": "https://github.com/greensock/GSAP",
+      "description": "GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3752,
-      "forks": 2138,
-      "added_stars": "5 stars today"
+      "stars": 27416,
+      "forks": 2139,
+      "added_stars": "39 stars today"
     },
     {
-      "title": "Acode-Foundation / Acode",
-      "url": "https://github.com/Acode-Foundation/Acode",
-      "description": "Acode - powerful text/code editor for android",
+      "title": "byoungd / up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6342,
-      "forks": 1376,
-      "added_stars": "25 stars today"
+      "stars": 57302,
+      "forks": 5870,
+      "added_stars": "205 stars today"
+    },
+    {
+      "title": "fastify / fastify",
+      "url": "https://github.com/fastify/fastify",
+      "description": "Fast and low overhead web framework, for Node.js",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 36933,
+      "forks": 2960,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "openai / codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 31317,
+      "forks": 2119,
+      "added_stars": "150 stars today"
     },
     {
       "title": "pdone / lx-music-source",
@@ -60,29 +80,39 @@
       "description": "洛雪音乐源",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 7598,
-      "forks": 632,
-      "added_stars": "48 stars today"
+      "stars": 7635,
+      "forks": 631,
+      "added_stars": "35 stars today"
     },
     {
-      "title": "SillyTavern / SillyTavern",
-      "url": "https://github.com/SillyTavern/SillyTavern",
-      "description": "LLM Frontend for Power Users.",
+      "title": "expressjs / express",
+      "url": "https://github.com/expressjs/express",
+      "description": "Fast, unopinionated, minimalist web framework for node.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 31615,
-      "forks": 5950,
-      "added_stars": "70 stars today"
+      "stars": 69318,
+      "forks": 24549,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "nodejs / node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "title": "projectdiscovery / nuclei-templates",
+      "url": "https://github.com/projectdiscovery/nuclei-templates",
+      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 118703,
-      "forks": 36324,
-      "added_stars": "87 stars today"
+      "stars": 12751,
+      "forks": 3603,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "Leonxlnx / taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 72025,
+      "forks": 4940,
+      "added_stars": "811 stars today"
     },
     {
       "title": "NomaDamas / k-skill",
@@ -90,49 +120,59 @@
       "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6990,
-      "forks": 818,
-      "added_stars": "133 stars today"
+      "stars": 7003,
+      "forks": 825,
+      "added_stars": "28 stars today"
     },
     {
-      "title": "is-a-dev / register",
-      "url": "https://github.com/is-a-dev/register",
-      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "title": "ryanmcdermott / clean-code-javascript",
+      "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "description": "Clean Code concepts adapted for JavaScript",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 10894,
-      "forks": 26062,
-      "added_stars": "5 stars today"
+      "stars": 94754,
+      "forks": 12614,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "validatorjs / validator.js",
-      "url": "https://github.com/validatorjs/validator.js",
-      "description": "String validation",
+      "title": "TryGhost / Ghost",
+      "url": "https://github.com/TryGhost/Ghost",
+      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 23738,
-      "forks": 2481,
-      "added_stars": "0 stars today"
+      "stars": 54678,
+      "forks": 11864,
+      "added_stars": "26 stars today"
     },
     {
-      "title": "Axorax / awesome-free-apps",
-      "url": "https://github.com/Axorax/awesome-free-apps",
-      "description": "Curated list of the best free apps for PC and mobile",
+      "title": "worldwonderer / oh-story-claudecode",
+      "url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 7172,
-      "forks": 411,
-      "added_stars": "31 stars today"
+      "stars": 5057,
+      "forks": 776,
+      "added_stars": "62 stars today"
     },
     {
-      "title": "techjarves / Uncensored-Local-Studio",
-      "url": "https://github.com/techjarves/Uncensored-Local-Studio",
-      "description": "Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text",
+      "title": "sveltejs / kit",
+      "url": "https://github.com/sveltejs/kit",
+      "description": "web development, streamlined",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 797,
-      "forks": 214,
-      "added_stars": "6 stars today"
+      "stars": 20719,
+      "forks": 2297,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "react / react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 246969,
+      "forks": 51184,
+      "added_stars": "64 stars today"
     }
   ]
 }

@@ -2,27 +2,27 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
-    {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 39811,
-      "forks": 1937,
-      "added_stars": "204 stars this month"
-    },
     {
       "title": "simplex-chat / simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19184,
-      "forks": 1319,
-      "added_stars": "1,686 stars this month"
+      "stars": 19192,
+      "forks": 1324,
+      "added_stars": "1,611 stars this month"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 39812,
+      "forks": 1937,
+      "added_stars": "202 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -30,9 +30,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12332,
+      "stars": 12334,
       "forks": 502,
-      "added_stars": "79 stars this month"
+      "added_stars": "82 stars this month"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -40,9 +40,9 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1499,
+      "stars": 1501,
       "forks": 64,
-      "added_stars": "238 stars this month"
+      "added_stars": "226 stars this month"
     },
     {
       "title": "agda / agda",
@@ -50,9 +50,9 @@
       "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2905,
+      "stars": 2906,
       "forks": 420,
-      "added_stars": "23 stars this month"
+      "added_stars": "24 stars this month"
     },
     {
       "title": "haskell / cabal",
@@ -61,8 +61,8 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 1743,
-      "forks": 741,
-      "added_stars": "7 stars this month"
+      "forks": 743,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "jgm / pandoc",
@@ -70,9 +70,19 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 45678,
-      "forks": 3930,
-      "added_stars": "540 stars this month"
+      "stars": 45707,
+      "forks": 3933,
+      "added_stars": "559 stars this month"
+    },
+    {
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 3179,
+      "forks": 755,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "commercialhaskell / stack",
@@ -85,34 +95,14 @@
       "added_stars": "7 stars this month"
     },
     {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 3178,
-      "forks": 755,
-      "added_stars": "5 stars this month"
-    },
-    {
-      "title": "elm / compiler",
-      "url": "https://github.com/elm/compiler",
-      "description": "Compiler for Elm, a functional language for reliable webapps.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 7849,
-      "forks": 688,
-      "added_stars": "61 stars this month"
-    },
-    {
       "title": "PostgREST / postgrest",
       "url": "https://github.com/PostgREST/postgrest",
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27491,
-      "forks": 1218,
-      "added_stars": "119 stars this month"
+      "stars": 27496,
+      "forks": 1219,
+      "added_stars": "121 stars this month"
     },
     {
       "title": "mtolly / onyx",
@@ -121,8 +111,18 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 288,
-      "forks": 23,
-      "added_stars": "5 stars this month"
+      "forks": 22,
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "elm / compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 7850,
+      "forks": 688,
+      "added_stars": "61 stars this month"
     },
     {
       "title": "simonmichael / hledger",
@@ -130,9 +130,19 @@
       "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4607,
+      "stars": 4609,
       "forks": 402,
-      "added_stars": "51 stars this month"
+      "added_stars": "53 stars this month"
+    },
+    {
+      "title": "clash-lang / clash-compiler",
+      "url": "https://github.com/clash-lang/clash-compiler",
+      "description": "Haskell to VHDL/Verilog/SystemVerilog compiler",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 1605,
+      "forks": 168,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "haskell / haskell-language-server",

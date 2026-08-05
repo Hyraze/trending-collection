@@ -2,18 +2,8 @@
   "title": "GitHub Open-policy-agent Languages Daily Trending",
   "description": "Daily Trending of Open-policy-agent Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
-    {
-      "title": "aquasecurity / trivy-checks",
-      "url": "https://github.com/aquasecurity/trivy-checks",
-      "description": "",
-      "language": "Open Policy Agent",
-      "languageColor": "#7d9199",
-      "stars": 81,
-      "forks": 61,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "open-policy-agent / gatekeeper-library",
       "url": "https://github.com/open-policy-agent/gatekeeper-library",
@@ -22,6 +12,16 @@
       "languageColor": "#7d9199",
       "stars": 700,
       "forks": 343,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "DataDog / security-agent-policies",
+      "url": "https://github.com/DataDog/security-agent-policies",
+      "description": "Policies for Security Agent - compliance and runtime checks",
+      "language": "Open Policy Agent",
+      "languageColor": "#7d9199",
+      "stars": 26,
+      "forks": 8,
       "added_stars": "0 stars today"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "twbs / bootstrap",
@@ -10,9 +10,9 @@
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 174555,
-      "forks": 78697,
-      "added_stars": "331 stars this month"
+      "stars": 174558,
+      "forks": 78693,
+      "added_stars": "336 stars this month"
     },
     {
       "title": "cloudflare / cloudflare-docs",
@@ -20,9 +20,9 @@
       "description": "Cloudflare’s documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 5035,
-      "forks": 16198,
-      "added_stars": "154 stars this month"
+      "stars": 5043,
+      "forks": 16213,
+      "added_stars": "157 stars this month"
     },
     {
       "title": "huggingface / agents-course",
@@ -30,9 +30,9 @@
       "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 30649,
-      "forks": 2186,
-      "added_stars": "911 stars this month"
+      "stars": 30681,
+      "forks": 2190,
+      "added_stars": "929 stars this month"
     },
     {
       "title": "npm / documentation",
@@ -41,8 +41,18 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 693,
-      "forks": 4114,
+      "forks": 4115,
       "added_stars": "27 stars this month"
+    },
+    {
+      "title": "wasp-lang / open-saas",
+      "url": "https://github.com/wasp-lang/open-saas",
+      "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 15156,
+      "forks": 1810,
+      "added_stars": "363 stars this month"
     },
     {
       "title": "dair-ai / Prompt-Engineering-Guide",
@@ -50,29 +60,9 @@
       "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 77253,
-      "forks": 8488,
-      "added_stars": "1,179 stars this month"
-    },
-    {
-      "title": "withastro / docs",
-      "url": "https://github.com/withastro/docs",
-      "description": "Astro documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 1670,
-      "forks": 1867,
-      "added_stars": "19 stars this month"
-    },
-    {
-      "title": "langchain-ai / docs",
-      "url": "https://github.com/langchain-ai/docs",
-      "description": "Unified LangChain documentation.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 388,
-      "forks": 2563,
-      "added_stars": "24 stars this month"
+      "stars": 77266,
+      "forks": 8490,
+      "added_stars": "1,190 stars this month"
     },
     {
       "title": "esphome / esphome.io",
@@ -80,19 +70,29 @@
       "description": "Source for esphome.io documentation files.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 451,
-      "forks": 2348,
+      "stars": 450,
+      "forks": 2346,
       "added_stars": "6 stars this month"
     },
     {
-      "title": "hashicorp / web-unified-docs",
-      "url": "https://github.com/hashicorp/web-unified-docs",
-      "description": "Hashicorp Unified Docs",
+      "title": "langchain-ai / docs",
+      "url": "https://github.com/langchain-ai/docs",
+      "description": "Unified LangChain documentation.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 77,
-      "forks": 251,
-      "added_stars": "7 stars this month"
+      "stars": 390,
+      "forks": 2565,
+      "added_stars": "26 stars this month"
+    },
+    {
+      "title": "solana-foundation / solana-com",
+      "url": "https://github.com/solana-foundation/solana-com",
+      "description": "The solana.com website.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 491,
+      "forks": 379,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "detekt / detekt",
@@ -100,9 +100,19 @@
       "description": "Static code analysis for Kotlin",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 7016,
+      "stars": 7018,
       "forks": 852,
-      "added_stars": "39 stars this month"
+      "added_stars": "40 stars this month"
+    },
+    {
+      "title": "hashicorp / web-unified-docs",
+      "url": "https://github.com/hashicorp/web-unified-docs",
+      "description": "Hashicorp Unified Docs",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 78,
+      "forks": 251,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "newrelic / docs-website",
@@ -111,8 +121,18 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 197,
-      "forks": 1457,
+      "forks": 1458,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "withastro / docs",
+      "url": "https://github.com/withastro/docs",
+      "description": "Astro documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1672,
+      "forks": 1867,
+      "added_stars": "21 stars this month"
     },
     {
       "title": "processing / p5.js-website",
@@ -121,18 +141,8 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 92,
-      "forks": 306,
+      "forks": 307,
       "added_stars": "4 stars this month"
-    },
-    {
-      "title": "huggingface / course",
-      "url": "https://github.com/huggingface/course",
-      "description": "The Hugging Face course on Transformers",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 4105,
-      "forks": 1382,
-      "added_stars": "79 stars this month"
     },
     {
       "title": "discord / discord-api-docs",
@@ -140,9 +150,29 @@
       "description": "Official Discord Developer Docs",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 6449,
+      "stars": 6450,
       "forks": 1374,
-      "added_stars": "31 stars this month"
+      "added_stars": "32 stars this month"
+    },
+    {
+      "title": "expressjs / expressjs.com",
+      "url": "https://github.com/expressjs/expressjs.com",
+      "description": "The Express.js Website",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 5359,
+      "forks": 2232,
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "prisma / web",
+      "url": "https://github.com/prisma/web",
+      "description": "📚 Prisma Web Monorepo",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1093,
+      "forks": 979,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "EnterpriseDB / docs",
@@ -165,54 +195,24 @@
       "added_stars": "15 stars this month"
     },
     {
-      "title": "prisma / web",
-      "url": "https://github.com/prisma/web",
-      "description": "📚 Prisma Web Monorepo",
+      "title": "jellyfin / jellyfin.org",
+      "url": "https://github.com/jellyfin/jellyfin.org",
+      "description": "Jellyfin Project website, blog, and user documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 1092,
-      "forks": 977,
-      "added_stars": "10 stars this month"
+      "stars": 157,
+      "forks": 684,
+      "added_stars": "8 stars this month"
     },
     {
-      "title": "clerk / clerk-docs",
-      "url": "https://github.com/clerk/clerk-docs",
-      "description": "The documentation content for Clerk, an authentication and user management platform.",
+      "title": "huggingface / course",
+      "url": "https://github.com/huggingface/course",
+      "description": "The Hugging Face course on Transformers",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 202,
-      "forks": 1067,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "AdguardTeam / KnowledgeBase",
-      "url": "https://github.com/AdguardTeam/KnowledgeBase",
-      "description": "AdGuard knowledge base",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 122,
-      "forks": 436,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "ClickHouse / clickhouse-docs",
-      "url": "https://github.com/ClickHouse/clickhouse-docs",
-      "description": "We have moved: https://github.com/ClickHouse/ClickHouse/tree/master/docs#readme",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 211,
-      "forks": 490,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "hunvreus / basecoat",
-      "url": "https://github.com/hunvreus/basecoat",
-      "description": "A components library built with Tailwind CSS that works with any web stack.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 4207,
-      "forks": 138,
-      "added_stars": "135 stars this month"
+      "stars": 4107,
+      "forks": 1384,
+      "added_stars": "80 stars this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator",
@@ -10,9 +10,9 @@
       "description": "AZ-104 Microsoft Azure Administrator",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 4545,
-      "forks": 4485,
-      "added_stars": "74 stars this month"
+      "stars": 4546,
+      "forks": 4486,
+      "added_stars": "72 stars this month"
     },
     {
       "title": "Azure / bicep",
@@ -25,24 +25,24 @@
       "added_stars": "14 stars this month"
     },
     {
-      "title": "microsoft-foundry / foundry-samples",
-      "url": "https://github.com/microsoft-foundry/foundry-samples",
-      "description": "Embedded samples in Azure AI Foundry docs",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 412,
-      "forks": 450,
-      "added_stars": "33 stars this month"
-    },
-    {
       "title": "Azure / azure-quickstart-templates",
       "url": "https://github.com/Azure/azure-quickstart-templates",
       "description": "Azure Quickstart Templates",
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 14846,
-      "forks": 16212,
-      "added_stars": "29 stars this month"
+      "forks": 16210,
+      "added_stars": "30 stars this month"
+    },
+    {
+      "title": "microsoft-foundry / foundry-samples",
+      "url": "https://github.com/microsoft-foundry/foundry-samples",
+      "description": "Embedded samples in Azure AI Foundry docs",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 413,
+      "forks": 450,
+      "added_stars": "35 stars this month"
     },
     {
       "title": "Azure / bicep-registry-modules",
@@ -61,8 +61,18 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 443,
-      "forks": 54,
+      "forks": 53,
       "added_stars": "4 stars this month"
+    },
+    {
+      "title": "Azure-Samples / get-started-with-ai-chat",
+      "url": "https://github.com/Azure-Samples/get-started-with-ai-chat",
+      "description": "Basic sample for deploying chat web apps with Azure AI Foundry and SDKs",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 273,
+      "forks": 391,
+      "added_stars": "11 stars this month"
     }
   ]
 }

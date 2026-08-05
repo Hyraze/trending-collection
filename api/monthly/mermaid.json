@@ -2,7 +2,7 @@
   "title": "GitHub Mermaid Languages Daily Trending",
   "description": "Daily Trending of Mermaid Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "MicrosoftDocs / azure-ai-docs",
@@ -20,9 +20,19 @@
       "description": "Documentation for Entity Framework Core and Entity Framework 6",
       "language": "Mermaid",
       "languageColor": "#ff3670",
-      "stars": 1737,
+      "stars": 1738,
       "forks": 1969,
-      "added_stars": "5 stars this month"
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "MicrosoftDocs / defender-docs",
+      "url": "https://github.com/MicrosoftDocs/defender-docs",
+      "description": "",
+      "language": "Mermaid",
+      "languageColor": "#ff3670",
+      "stars": 165,
+      "forks": 393,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "MicrosoftDocs / power-automate-docs",
@@ -33,16 +43,6 @@
       "stars": 372,
       "forks": 314,
       "added_stars": "7 stars this month"
-    },
-    {
-      "title": "MicrosoftDocs / defender-docs",
-      "url": "https://github.com/MicrosoftDocs/defender-docs",
-      "description": "",
-      "language": "Mermaid",
-      "languageColor": "#ff3670",
-      "stars": 164,
-      "forks": 390,
-      "added_stars": "5 stars this month"
     },
     {
       "title": "MicrosoftDocs / dynamics-365-unified-operations-public",
@@ -70,9 +70,9 @@
       "description": "",
       "language": "Mermaid",
       "languageColor": "#ff3670",
-      "stars": 584,
+      "stars": 585,
       "forks": 979,
-      "added_stars": "6 stars this month"
+      "added_stars": "7 stars this month"
     }
   ]
 }

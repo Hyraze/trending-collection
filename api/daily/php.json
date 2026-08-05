@@ -2,157 +2,17 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
-      "title": "kimai / kimai",
-      "url": "https://github.com/kimai/kimai",
-      "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
+      "title": "FreshRSS / FreshRSS",
+      "url": "https://github.com/FreshRSS/FreshRSS",
+      "description": "A free, self-hostable news aggregator…",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 4860,
-      "forks": 818,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "bagisto / bagisto",
-      "url": "https://github.com/bagisto/bagisto",
-      "description": "Free and open source laravel eCommerce platform",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 27926,
-      "forks": 3233,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "ellite / Wallos",
-      "url": "https://github.com/ellite/Wallos",
-      "description": "Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 8304,
-      "forks": 409,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "Leantime / leantime",
-      "url": "https://github.com/Leantime/leantime",
-      "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 11207,
-      "forks": 1090,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "ChurchCRM / CRM",
-      "url": "https://github.com/ChurchCRM/CRM",
-      "description": "ChurchCRM - A free and open-source Church Management Software (ChMS) to help churches manage their membership data, groups, events, and finances.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 927,
-      "forks": 557,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "openemr / openemr",
-      "url": "https://github.com/openemr/openemr",
-      "description": "The most popular open source electronic health records and medical practice management solution.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 5340,
-      "forks": 2998,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "PrestaShop / PrestaShop",
-      "url": "https://github.com/PrestaShop/PrestaShop",
-      "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 9180,
-      "forks": 5044,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "opnsense / core",
-      "url": "https://github.com/opnsense/core",
-      "description": "OPNsense GUI, API and systems backend",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 4560,
-      "forks": 976,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "alexjustesen / speedtest-tracker",
-      "url": "https://github.com/alexjustesen/speedtest-tracker",
-      "description": "Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 5875,
-      "forks": 236,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "KhronosGroup / glTF-Sample-Assets",
-      "url": "https://github.com/KhronosGroup/glTF-Sample-Assets",
-      "description": "An assortment of assets that demonstrate features and capabilities of the glTF format",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 1019,
-      "forks": 100,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "firefly-iii / firefly-iii",
-      "url": "https://github.com/firefly-iii/firefly-iii",
-      "description": "Firefly III: a personal finances manager",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 24224,
-      "forks": 2239,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "nextcloud / server",
-      "url": "https://github.com/nextcloud/server",
-      "description": "☁️ Nextcloud server, a safe home for all your data",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 36324,
-      "forks": 5091,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "RSS-Bridge / rss-bridge",
-      "url": "https://github.com/RSS-Bridge/rss-bridge",
-      "description": "The RSS feed for websites missing it",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 9140,
-      "forks": 1232,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "danielmiessler / SecLists",
-      "url": "https://github.com/danielmiessler/SecLists",
-      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 72596,
-      "forks": 25075,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "Cacti / cacti",
-      "url": "https://github.com/Cacti/cacti",
-      "description": "Cacti ™",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 1847,
-      "forks": 445,
-      "added_stars": "0 stars today"
+      "stars": 15690,
+      "forks": 1235,
+      "added_stars": "7 stars today"
     },
     {
       "title": "pterodactyl / panel",
@@ -160,68 +20,68 @@
       "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 9090,
-      "forks": 2628,
-      "added_stars": "7 stars today"
+      "stars": 9099,
+      "forks": 2631,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "elementor / elementor",
-      "url": "https://github.com/elementor/elementor",
-      "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+      "title": "librenms / librenms",
+      "url": "https://github.com/librenms/librenms",
+      "description": "Community-based GPL-licensed network monitoring system",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 6980,
-      "forks": 1551,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "digininja / DVWA",
-      "url": "https://github.com/digininja/DVWA",
-      "description": "Damn Vulnerable Web Application (DVWA)",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 13453,
-      "forks": 5026,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "mahdiMGF2 / mirzabot",
-      "url": "https://github.com/mahdiMGF2/mirzabot",
-      "description": "bot pro for sell vpn",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 625,
-      "forks": 316,
+      "stars": 4818,
+      "forks": 2743,
       "added_stars": "2 stars today"
     },
     {
-      "title": "akaunting / akaunting",
-      "url": "https://github.com/akaunting/akaunting",
-      "description": "Online Accounting Software",
+      "title": "SuiteCRM / SuiteCRM",
+      "url": "https://github.com/SuiteCRM/SuiteCRM",
+      "description": "SuiteCRM - Open source CRM for the world",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 10022,
-      "forks": 2958,
+      "stars": 5625,
+      "forks": 2389,
       "added_stars": "8 stars today"
     },
     {
-      "title": "AzuraCast / AzuraCast",
-      "url": "https://github.com/AzuraCast/AzuraCast",
-      "description": "A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.",
+      "title": "twigphp / Twig",
+      "url": "https://github.com/twigphp/Twig",
+      "description": "Twig, the flexible, fast, and secure template language for PHP",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 3968,
-      "forks": 732,
+      "stars": 8369,
+      "forks": 1290,
       "added_stars": "1 star today"
     },
     {
-      "title": "doctrine / orm",
-      "url": "https://github.com/doctrine/orm",
-      "description": "Doctrine Object Relational Mapper (ORM)",
+      "title": "Automattic / jetpack",
+      "url": "https://github.com/Automattic/jetpack",
+      "description": "Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 10169,
-      "forks": 2546,
+      "stars": 1838,
+      "forks": 890,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "laravel / framework",
+      "url": "https://github.com/laravel/framework",
+      "description": "Laravel is a web application framework with expressive, elegant syntax.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 34846,
+      "forks": 11939,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "drush-ops / drush",
+      "url": "https://github.com/drush-ops/drush",
+      "description": "Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 2378,
+      "forks": 1097,
       "added_stars": "0 stars today"
     },
     {
@@ -233,6 +93,136 @@
       "stars": 3396,
       "forks": 3571,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "PHP-CS-Fixer / PHP-CS-Fixer",
+      "url": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer",
+      "description": "A tool to automatically fix PHP Coding Standards issues",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 13545,
+      "forks": 1640,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "livewire / livewire",
+      "url": "https://github.com/livewire/livewire",
+      "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 23569,
+      "forks": 1745,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "roundcube / roundcubemail",
+      "url": "https://github.com/roundcube/roundcubemail",
+      "description": "The Roundcube Webmail suite",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 7115,
+      "forks": 1772,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "symfony / symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 31115,
+      "forks": 9859,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "openemr / openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 5342,
+      "forks": 3000,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "shopware / shopware",
+      "url": "https://github.com/shopware/shopware",
+      "description": "Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 3399,
+      "forks": 1196,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "easychen / opc-methodology",
+      "url": "https://github.com/easychen/opc-methodology",
+      "description": "《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 16480,
+      "forks": 1884,
+      "added_stars": "85 stars today"
+    },
+    {
+      "title": "Dolibarr / dolibarr",
+      "url": "https://github.com/Dolibarr/dolibarr",
+      "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 7482,
+      "forks": 3462,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "grokability / snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 14743,
+      "forks": 3951,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "monicahq / monica",
+      "url": "https://github.com/monicahq/monica",
+      "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 24959,
+      "forks": 2563,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "phpstan / phpstan",
+      "url": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 14057,
+      "forks": 958,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "nextcloud / server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 36334,
+      "forks": 5090,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "magento / magento2",
+      "url": "https://github.com/magento/magento2",
+      "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 12157,
+      "forks": 9355,
+      "added_stars": "3 stars today"
     }
   ]
 }

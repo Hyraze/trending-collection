@@ -4,7 +4,12 @@
   <title>GitHub Javascript Languages Daily Trending</title>
   <description>Daily Trending of Javascript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <item>
+    <title>pbakaus / impeccable</title>
+    <link>https://github.com/pbakaus/impeccable</link>
+    <description>The design language that makes your AI harness better at design.</description>
+  </item>
   <item>
     <title>openai / codex-plugin-cc</title>
     <link>https://github.com/openai/codex-plugin-cc</link>
@@ -16,19 +21,9 @@
     <description>Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.</description>
   </item>
   <item>
-    <title>pbakaus / impeccable</title>
-    <link>https://github.com/pbakaus/impeccable</link>
-    <description>The design language that makes your AI harness better at design.</description>
-  </item>
-  <item>
     <title>earthtojake / text-to-cad</title>
     <link>https://github.com/earthtojake/text-to-cad</link>
     <description>A library of agent skills for CAD, CAE and CAM</description>
-  </item>
-  <item>
-    <title>kunchenguid / lavish-axi</title>
-    <link>https://github.com/kunchenguid/lavish-axi</link>
-    <description>HTML is the new markdown. Lavish is the new editor for your HTML artifacts.</description>
   </item>
   <item>
     <title>NomaDamas / k-skill</title>
@@ -36,19 +31,34 @@
     <description>한국인을 위한 스킬 모음집 - 에이전트를 한국인으로</description>
   </item>
   <item>
-    <title>OpenWhispr / openwhispr</title>
-    <link>https://github.com/OpenWhispr/openwhispr</link>
-    <description>Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.</description>
-  </item>
-  <item>
     <title>fastify / fastify</title>
     <link>https://github.com/fastify/fastify</link>
     <description>Fast and low overhead web framework, for Node.js</description>
   </item>
   <item>
+    <title>OpenWhispr / openwhispr</title>
+    <link>https://github.com/OpenWhispr/openwhispr</link>
+    <description>Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.</description>
+  </item>
+  <item>
+    <title>kunchenguid / lavish-axi</title>
+    <link>https://github.com/kunchenguid/lavish-axi</link>
+    <description>HTML is the new markdown. Lavish is the new editor for your HTML artifacts.</description>
+  </item>
+  <item>
+    <title>saadeghi / daisyui</title>
+    <link>https://github.com/saadeghi/daisyui</link>
+    <description>🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</description>
+  </item>
+  <item>
     <title>nodejs / node</title>
     <link>https://github.com/nodejs/node</link>
     <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
+  </item>
+  <item>
+    <title>tradesdontlie / tradingview-mcp</title>
+    <link>https://github.com/tradesdontlie/tradingview-mcp</link>
+    <description>AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation</description>
   </item>
   <item>
     <title>eslint / eslint</title>
@@ -66,29 +76,19 @@
     <description>The React Framework</description>
   </item>
   <item>
-    <title>saadeghi / daisyui</title>
-    <link>https://github.com/saadeghi/daisyui</link>
-    <description>🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</description>
-  </item>
-  <item>
-    <title>tradesdontlie / tradingview-mcp</title>
-    <link>https://github.com/tradesdontlie/tradingview-mcp</link>
-    <description>AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation</description>
-  </item>
-  <item>
     <title>ilysenko / codex-desktop-linux</title>
     <link>https://github.com/ilysenko/codex-desktop-linux</link>
     <description>Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.</description>
   </item>
   <item>
-    <title>atlassian / atlassian-mcp-server</title>
-    <link>https://github.com/atlassian/atlassian-mcp-server</link>
-    <description>Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.</description>
-  </item>
-  <item>
     <title>webpack / webpack</title>
     <link>https://github.com/webpack/webpack</link>
     <description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &quot;loaders&quot;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</description>
+  </item>
+  <item>
+    <title>atlassian / atlassian-mcp-server</title>
+    <link>https://github.com/atlassian/atlassian-mcp-server</link>
+    <description>Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.</description>
   </item>
   <item>
     <title>microsoft / power-platform-skills</title>
@@ -99,11 +99,6 @@
     <title>GargantuaX / gemini-watermark-remover</title>
     <link>https://github.com/GargantuaX/gemini-watermark-remover</link>
     <description>A high-performance, 100% client-side tool for removing Gemini AI image &amp; video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法</description>
-  </item>
-  <item>
-    <title>bigskysoftware / htmx</title>
-    <link>https://github.com/bigskysoftware/htmx</link>
-    <description>&lt;/&gt; htmx - high power tools for HTML</description>
   </item>
 </channel>
 </rss>

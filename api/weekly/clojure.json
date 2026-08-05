@@ -2,37 +2,27 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
-    {
-      "title": "unclebob / swarm-forge",
-      "url": "https://github.com/unclebob/swarm-forge",
-      "description": "A simple tool for coordinating several AI agents.",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 1475,
-      "forks": 157,
-      "added_stars": "114 stars this week"
-    },
     {
       "title": "metabase / metabase",
       "url": "https://github.com/metabase/metabase",
       "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 48514,
-      "forks": 6707,
-      "added_stars": "140 stars this week"
+      "stars": 48533,
+      "forks": 6709,
+      "added_stars": "141 stars this week"
     },
     {
-      "title": "penpot / penpot",
-      "url": "https://github.com/penpot/penpot",
-      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "title": "unclebob / swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 58068,
-      "forks": 3883,
-      "added_stars": "579 stars this week"
+      "stars": 1544,
+      "forks": 161,
+      "added_stars": "133 stars this week"
     },
     {
       "title": "tonsky / FiraCode",
@@ -40,9 +30,9 @@
       "description": "Free monospaced font with programming ligatures",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 81883,
-      "forks": 3190,
-      "added_stars": "42 stars this week"
+      "stars": 81890,
+      "forks": 3189,
+      "added_stars": "41 stars this week"
     },
     {
       "title": "logseq / logseq",
@@ -50,9 +40,19 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 44244,
-      "forks": 2748,
-      "added_stars": "149 stars this week"
+      "stars": 44276,
+      "forks": 2747,
+      "added_stars": "165 stars this week"
+    },
+    {
+      "title": "penpot / penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 58126,
+      "forks": 3893,
+      "added_stars": "527 stars this week"
     },
     {
       "title": "cognitect-labs / test-runner",
@@ -70,7 +70,7 @@
       "description": "Static analyzer and linter for Clojure code that sparks joy",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 1847,
+      "stars": 1846,
       "forks": 306,
       "added_stars": "1 star this week"
     }

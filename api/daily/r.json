@@ -2,17 +2,37 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
-      "title": "rdpeng / ProgrammingAssignment2",
-      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
-      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+      "title": "tidyverse / dplyr",
+      "url": "https://github.com/tidyverse/dplyr",
+      "description": "dplyr: A grammar of data manipulation",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 890,
-      "forks": 143402,
+      "stars": 5054,
+      "forks": 2124,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "Rdatatable / data.table",
+      "url": "https://github.com/Rdatatable/data.table",
+      "description": "R's data.table package extends data.frame:",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 3904,
+      "forks": 1050,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "tidyverse / ggplot2",
+      "url": "https://github.com/tidyverse/ggplot2",
+      "description": "An implementation of the Grammar of Graphics in R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 6982,
+      "forks": 2129,
+      "added_stars": "1 star today"
     },
     {
       "title": "rstudio / shiny",
@@ -20,19 +40,59 @@
       "description": "Easy interactive web applications with R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5674,
+      "stars": 5673,
       "forks": 1889,
       "added_stars": "0 stars today"
     },
     {
-      "title": "posit-dev / skills",
-      "url": "https://github.com/posit-dev/skills",
-      "description": "A collection of Claude Skills from Posit",
+      "title": "satijalab / seurat",
+      "url": "https://github.com/satijalab/seurat",
+      "description": "R toolkit for single cell genomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 454,
-      "forks": 37,
+      "stars": 2783,
+      "forks": 994,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "jinworks / CellChat",
+      "url": "https://github.com/jinworks/CellChat",
+      "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 643,
+      "forks": 109,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "hadley / r4ds",
+      "url": "https://github.com/hadley/r4ds",
+      "description": "R for data science: a book",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5128,
+      "forks": 4435,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "rdpeng / ProgrammingAssignment2",
+      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 890,
+      "forks": 143397,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "r-spatial / sf",
+      "url": "https://github.com/r-spatial/sf",
+      "description": "Simple Features for R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 1441,
+      "forks": 302,
+      "added_stars": "0 stars today"
     }
   ]
 }

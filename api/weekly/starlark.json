@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "bazelbuild / rules_rust",
@@ -12,7 +12,7 @@
       "languageColor": "#76d275",
       "stars": 827,
       "forks": 636,
-      "added_stars": "3 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
       "title": "cel-expr / cel-spec",
@@ -20,9 +20,9 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3921,
-      "forks": 303,
-      "added_stars": "16 stars this week"
+      "stars": 3922,
+      "forks": 302,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "googleapis / googleapis",
@@ -30,9 +30,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8666,
-      "forks": 2610,
-      "added_stars": "15 stars this week"
+      "stars": 8667,
+      "forks": 2609,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "GoogleContainerTools / distroless",
@@ -41,8 +41,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 22903,
-      "forks": 1414,
-      "added_stars": "25 stars this week"
+      "forks": 1416,
+      "added_stars": "21 stars this week"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -51,17 +51,17 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 681,
-      "forks": 707,
+      "forks": 706,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "uber / hermetic_cc_toolchain",
-      "url": "https://github.com/uber/hermetic_cc_toolchain",
-      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
+      "title": "bazelbuild / rules_cc",
+      "url": "https://github.com/bazelbuild/rules_cc",
+      "description": "C++ Rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 397,
-      "forks": 87,
+      "stars": 244,
+      "forks": 189,
       "added_stars": "0 stars this week"
     },
     {
@@ -75,24 +75,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "bazel-contrib / rules_distroless",
-      "url": "https://github.com/bazel-contrib/rules_distroless",
-      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
+      "title": "uber / hermetic_cc_toolchain",
+      "url": "https://github.com/uber/hermetic_cc_toolchain",
+      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 100,
-      "forks": 70,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "aspect-build / rules_lint",
-      "url": "https://github.com/aspect-build/rules_lint",
-      "description": "Run static analysis tools with Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 151,
-      "forks": 123,
-      "added_stars": "1 star this week"
+      "stars": 397,
+      "forks": 87,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "googleapis / api-common-protos",
@@ -103,6 +93,36 @@
       "stars": 265,
       "forks": 59,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "bazel-contrib / rules_distroless",
+      "url": "https://github.com/bazel-contrib/rules_distroless",
+      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 100,
+      "forks": 70,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 378,
+      "forks": 833,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "aspect-build / rules_py",
+      "url": "https://github.com/aspect-build/rules_py",
+      "description": "More compatible Bazel rules for running Python tools and building Python projects",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 143,
+      "forks": 96,
+      "added_stars": "1 star this week"
     },
     {
       "title": "bazel-contrib / toolchains_llvm",
@@ -125,13 +145,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "aspect-build / rules_py",
-      "url": "https://github.com/aspect-build/rules_py",
-      "description": "More compatible Bazel rules for running Python tools and building Python projects",
+      "title": "aspect-build / rules_lint",
+      "url": "https://github.com/aspect-build/rules_lint",
+      "description": "Run static analysis tools with Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 143,
-      "forks": 96,
+      "stars": 151,
+      "forks": 123,
       "added_stars": "1 star this week"
     },
     {
@@ -145,44 +165,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "bazelbuild / rules_cc",
-      "url": "https://github.com/bazelbuild/rules_cc",
-      "description": "C++ Rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 244,
-      "forks": 189,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 378,
-      "forks": 832,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "bazel-contrib / rules_foreign_cc",
       "url": "https://github.com/bazel-contrib/rules_foreign_cc",
       "description": "Build rules for interfacing with \"foreign\" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)",
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 735,
-      "forks": 270,
+      "forks": 269,
       "added_stars": "1 star this week"
     },
     {
-      "title": "grpc / grpc-proto",
-      "url": "https://github.com/grpc/grpc-proto",
-      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "title": "bazel-contrib / rules_oci",
+      "url": "https://github.com/bazel-contrib/rules_oci",
+      "description": "Bazel rules for building OCI containers",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 293,
-      "forks": 115,
-      "added_stars": "0 stars this week"
+      "stars": 422,
+      "forks": 210,
+      "added_stars": "1 star this week"
     }
   ]
 }

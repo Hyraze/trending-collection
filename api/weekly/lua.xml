@@ -4,7 +4,7 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
     <title>koreader / koreader</title>
     <link>https://github.com/koreader/koreader</link>
@@ -26,29 +26,9 @@
     <description>Rime 配置：雾凇拼音 | 长期维护的简体词库</description>
   </item>
   <item>
-    <title>neovim / nvim-lspconfig</title>
-    <link>https://github.com/neovim/nvim-lspconfig</link>
-    <description>Quickstart configs for Nvim LSP</description>
-  </item>
-  <item>
-    <title>olimorris / codecompanion.nvim</title>
-    <link>https://github.com/olimorris/codecompanion.nvim</link>
-    <description>✨ AI Coding, Vim Style</description>
-  </item>
-  <item>
-    <title>jitsi / docker-jitsi-meet</title>
-    <link>https://github.com/jitsi/docker-jitsi-meet</link>
-    <description>Jitsi Meet on Docker</description>
-  </item>
-  <item>
-    <title>LazyVim / LazyVim</title>
-    <link>https://github.com/LazyVim/LazyVim</link>
-    <description>Neovim config for the lazy</description>
-  </item>
-  <item>
-    <title>Kong / kong</title>
-    <link>https://github.com/Kong/kong</link>
-    <description>🦍 The API and AI Gateway</description>
+    <title>opentibiabr / canary</title>
+    <link>https://github.com/opentibiabr/canary</link>
+    <description>Canary Server 15.25 for OpenTibia community.</description>
   </item>
   <item>
     <title>esmuellert / codediff.nvim</title>
@@ -56,34 +36,14 @@
     <description>VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode&#x27;s own diff algorithm in C.</description>
   </item>
   <item>
-    <title>AnthonyGress / zen_ui.koplugin</title>
-    <link>https://github.com/AnthonyGress/zen_ui.koplugin</link>
-    <description>A clean, minimal UI for KOReader</description>
-  </item>
-  <item>
     <title>AndyHazz / bookshelf.koplugin</title>
     <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
     <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
   </item>
   <item>
-    <title>id577 / FS25_AdvancedDamageSystem</title>
-    <link>https://github.com/id577/FS25_AdvancedDamageSystem</link>
-    <description>Advanced Damage System mod for Farming Simulator 25</description>
-  </item>
-  <item>
-    <title>Footagesus / WindUI</title>
-    <link>https://github.com/Footagesus/WindUI</link>
-    <description>WindUI is a open source UI library for Roblox Script Hubs</description>
-  </item>
-  <item>
-    <title>beyond-all-reason / Beyond-All-Reason</title>
-    <link>https://github.com/beyond-all-reason/Beyond-All-Reason</link>
-    <description>Main game repository for Beyond All Reason.</description>
-  </item>
-  <item>
-    <title>folke / snacks.nvim</title>
-    <link>https://github.com/folke/snacks.nvim</link>
-    <description>🍿 A collection of QoL plugins for Neovim</description>
+    <title>LazyVim / LazyVim</title>
+    <link>https://github.com/LazyVim/LazyVim</link>
+    <description>Neovim config for the lazy</description>
   </item>
   <item>
     <title>tarantool / tarantool</title>
@@ -91,14 +51,49 @@
     <description>Get your data in RAM. Get compute close to data. Enjoy the performance.</description>
   </item>
   <item>
-    <title>opentibiabr / canary</title>
-    <link>https://github.com/opentibiabr/canary</link>
-    <description>Canary Server 15.25 for OpenTibia community.</description>
+    <title>Kong / kong</title>
+    <link>https://github.com/Kong/kong</link>
+    <description>🦍 The API and AI Gateway</description>
   </item>
   <item>
-    <title>NeogitOrg / neogit</title>
-    <link>https://github.com/NeogitOrg/neogit</link>
-    <description>An interactive and powerful Git interface for Neovim, inspired by Magit</description>
+    <title>AnthonyGress / zen_ui.koplugin</title>
+    <link>https://github.com/AnthonyGress/zen_ui.koplugin</link>
+    <description>A clean, minimal UI for KOReader</description>
+  </item>
+  <item>
+    <title>neovim / nvim-lspconfig</title>
+    <link>https://github.com/neovim/nvim-lspconfig</link>
+    <description>Quickstart configs for Nvim LSP</description>
+  </item>
+  <item>
+    <title>jitsi / docker-jitsi-meet</title>
+    <link>https://github.com/jitsi/docker-jitsi-meet</link>
+    <description>Jitsi Meet on Docker</description>
+  </item>
+  <item>
+    <title>ntop / ntopng</title>
+    <link>https://github.com/ntop/ntopng</link>
+    <description>Web-based Traffic and Cybersecurity Network Traffic Monitoring</description>
+  </item>
+  <item>
+    <title>beyond-all-reason / Beyond-All-Reason</title>
+    <link>https://github.com/beyond-all-reason/Beyond-All-Reason</link>
+    <description>Main game repository for Beyond All Reason.</description>
+  </item>
+  <item>
+    <title>Footagesus / WindUI</title>
+    <link>https://github.com/Footagesus/WindUI</link>
+    <description>WindUI is a open source UI library for Roblox Script Hubs</description>
+  </item>
+  <item>
+    <title>folke / snacks.nvim</title>
+    <link>https://github.com/folke/snacks.nvim</link>
+    <description>🍿 A collection of QoL plugins for Neovim</description>
+  </item>
+  <item>
+    <title>rittermod / FS25_RealisticLivestockRM</title>
+    <link>https://github.com/rittermod/FS25_RealisticLivestockRM</link>
+    <description>FS25_RealisticLivestock - Ritter version</description>
   </item>
 </channel>
 </rss>

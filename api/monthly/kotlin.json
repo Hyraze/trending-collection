@@ -2,17 +2,27 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
+    {
+      "title": "permissionlesstech / bitchat-android",
+      "url": "https://github.com/permissionlesstech/bitchat-android",
+      "description": "decentralized mesh chat",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 7307,
+      "forks": 1802,
+      "added_stars": "1,823 stars this month"
+    },
     {
       "title": "EchoMusicApp / Echo-Music",
       "url": "https://github.com/EchoMusicApp/Echo-Music",
       "description": "A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuitive user experience.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3140,
+      "stars": 3168,
       "forks": 188,
-      "added_stars": "957 stars this month"
+      "added_stars": "961 stars this month"
     },
     {
       "title": "RikkaApps / Shizuku",
@@ -20,9 +30,9 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 28348,
-      "forks": 2782,
-      "added_stars": "1,377 stars this month"
+      "stars": 28389,
+      "forks": 2791,
+      "added_stars": "1,389 stars this month"
     },
     {
       "title": "A-EDev / Flow",
@@ -30,39 +40,9 @@
       "description": "A modern, feature-rich YouTube and YouTube Music client with local recommendation for Android built with Jetpack Compose",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1779,
+      "stars": 1787,
       "forks": 69,
-      "added_stars": "485 stars this month"
-    },
-    {
-      "title": "jay3-yy / BiliPai",
-      "url": "https://github.com/jay3-yy/BiliPai",
-      "description": "原生、纯净、可扩展 —— 重新定义你的 B 站体验",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 4073,
-      "forks": 374,
-      "added_stars": "617 stars this month"
-    },
-    {
-      "title": "rukamori / ArchiveTune",
-      "url": "https://github.com/rukamori/ArchiveTune",
-      "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 4162,
-      "forks": 175,
-      "added_stars": "970 stars this month"
-    },
-    {
-      "title": "pass-with-high-score / blockads-android",
-      "url": "https://github.com/pass-with-high-score/blockads-android",
-      "description": "Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 1690,
-      "forks": 92,
-      "added_stars": "468 stars this month"
+      "added_stars": "483 stars this month"
     },
     {
       "title": "AAswordman / Operit",
@@ -70,59 +50,19 @@
       "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6491,
-      "forks": 524,
-      "added_stars": "1,008 stars this month"
+      "stars": 6524,
+      "forks": 527,
+      "added_stars": "1,040 stars this month"
     },
     {
-      "title": "anilbeesetti / nextplayer",
-      "url": "https://github.com/anilbeesetti/nextplayer",
-      "description": "An Android native video player",
+      "title": "rukamori / ArchiveTune",
+      "url": "https://github.com/rukamori/ArchiveTune",
+      "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4224,
-      "forks": 293,
-      "added_stars": "162 stars this month"
-    },
-    {
-      "title": "T8RIN / ImageToolbox",
-      "url": "https://github.com/T8RIN/ImageToolbox",
-      "description": "🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 14025,
-      "forks": 605,
-      "added_stars": "518 stars this month"
-    },
-    {
-      "title": "wxxsfxyzm / InstallerX-Revived",
-      "url": "https://github.com/wxxsfxyzm/InstallerX-Revived",
-      "description": "More Expressive InstallerX !",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 5984,
-      "forks": 235,
-      "added_stars": "598 stars this month"
-    },
-    {
-      "title": "permissionlesstech / bitchat-android",
-      "url": "https://github.com/permissionlesstech/bitchat-android",
-      "description": "decentralized mesh chat",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 7293,
-      "forks": 1795,
-      "added_stars": "1,818 stars this month"
-    },
-    {
-      "title": "amir1376 / ab-download-manager",
-      "url": "https://github.com/amir1376/ab-download-manager",
-      "description": "A Download Manager that speeds up your downloads",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 17043,
-      "forks": 888,
-      "added_stars": "688 stars this month"
+      "stars": 4186,
+      "forks": 176,
+      "added_stars": "955 stars this month"
     },
     {
       "title": "recloudstream / cloudstream",
@@ -130,9 +70,29 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10338,
-      "forks": 986,
-      "added_stars": "375 stars this month"
+      "stars": 10349,
+      "forks": 989,
+      "added_stars": "378 stars this month"
+    },
+    {
+      "title": "jay3-yy / BiliPai",
+      "url": "https://github.com/jay3-yy/BiliPai",
+      "description": "原生、纯净、可扩展 —— 重新定义你的 B 站体验",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 4086,
+      "forks": 373,
+      "added_stars": "622 stars this month"
+    },
+    {
+      "title": "wxxsfxyzm / InstallerX-Revived",
+      "url": "https://github.com/wxxsfxyzm/InstallerX-Revived",
+      "description": "More Expressive InstallerX !",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 6009,
+      "forks": 235,
+      "added_stars": "612 stars this month"
     },
     {
       "title": "xororz / local-dream",
@@ -140,49 +100,9 @@
       "description": "Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3128,
+      "stars": 3139,
       "forks": 206,
-      "added_stars": "329 stars this month"
-    },
-    {
-      "title": "ReVanced / revanced-manager",
-      "url": "https://github.com/ReVanced/revanced-manager",
-      "description": "💊 Application to use ReVanced on Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 28856,
-      "forks": 1119,
-      "added_stars": "550 stars this month"
-    },
-    {
-      "title": "KernelSU-Next / KernelSU-Next",
-      "url": "https://github.com/KernelSU-Next/KernelSU-Next",
-      "description": "An advanced Kernel based root solution for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 4048,
-      "forks": 1003,
-      "added_stars": "213 stars this month"
-    },
-    {
-      "title": "topjohnwu / Magisk",
-      "url": "https://github.com/topjohnwu/Magisk",
-      "description": "The Magic Mask for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 62024,
-      "forks": 18171,
-      "added_stars": "685 stars this month"
-    },
-    {
-      "title": "kitsumed / ShizuCallRecorder",
-      "url": "https://github.com/kitsumed/ShizuCallRecorder",
-      "description": "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 1123,
-      "forks": 37,
-      "added_stars": "431 stars this month"
+      "added_stars": "339 stars this month"
     },
     {
       "title": "mihonapp / mihon",
@@ -190,9 +110,89 @@
       "description": "Free and open source manga reader for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 22517,
-      "forks": 1376,
-      "added_stars": "777 stars this month"
+      "stars": 22564,
+      "forks": 1377,
+      "added_stars": "791 stars this month"
+    },
+    {
+      "title": "JetBrains / kotlin",
+      "url": "https://github.com/JetBrains/kotlin",
+      "description": "The Kotlin Programming Language.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 53292,
+      "forks": 6386,
+      "added_stars": "512 stars this month"
+    },
+    {
+      "title": "topjohnwu / Magisk",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "description": "The Magic Mask for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 62040,
+      "forks": 18182,
+      "added_stars": "684 stars this month"
+    },
+    {
+      "title": "T8RIN / ImageToolbox",
+      "url": "https://github.com/T8RIN/ImageToolbox",
+      "description": "🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 14040,
+      "forks": 606,
+      "added_stars": "513 stars this month"
+    },
+    {
+      "title": "ReVanced / revanced-manager",
+      "url": "https://github.com/ReVanced/revanced-manager",
+      "description": "💊 Application to use ReVanced on Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 28870,
+      "forks": 1119,
+      "added_stars": "548 stars this month"
+    },
+    {
+      "title": "amir1376 / ab-download-manager",
+      "url": "https://github.com/amir1376/ab-download-manager",
+      "description": "A Download Manager that speeds up your downloads",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 17067,
+      "forks": 888,
+      "added_stars": "690 stars this month"
+    },
+    {
+      "title": "KernelSU-Next / KernelSU-Next",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next",
+      "description": "An advanced Kernel based root solution for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 4053,
+      "forks": 1004,
+      "added_stars": "206 stars this month"
+    },
+    {
+      "title": "FossifyOrg / Messages",
+      "url": "https://github.com/FossifyOrg/Messages",
+      "description": "An easy and quick way of managing SMS and MMS messages without ads.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 1475,
+      "forks": 164,
+      "added_stars": "79 stars this month"
+    },
+    {
+      "title": "thejaustin / ShizukuPlus",
+      "url": "https://github.com/thejaustin/ShizukuPlus",
+      "description": "[ HOBBY PROJECT ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [WIP - Development slowed due to new job]",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 607,
+      "forks": 39,
+      "added_stars": "200 stars this month"
     },
     {
       "title": "aniyomiorg / aniyomi",
@@ -200,8 +200,8 @@
       "description": "An app for manga and anime",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7572,
-      "forks": 622,
+      "stars": 7578,
+      "forks": 623,
       "added_stars": "143 stars this month"
     },
     {
@@ -210,19 +210,19 @@
       "description": "Scaffold for building custom tools for the Light Phone III",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 262,
-      "forks": 83,
-      "added_stars": "162 stars this month"
+      "stars": 263,
+      "forks": 84,
+      "added_stars": "156 stars this month"
     },
     {
-      "title": "JetBrains / kotlin",
-      "url": "https://github.com/JetBrains/kotlin",
-      "description": "The Kotlin Programming Language.",
+      "title": "JingMatrix / Vector",
+      "url": "https://github.com/JingMatrix/Vector",
+      "description": "Modern Xposed Framework",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 53281,
-      "forks": 6382,
-      "added_stars": "511 stars this month"
+      "stars": 11978,
+      "forks": 803,
+      "added_stars": "413 stars this month"
     }
   ]
 }

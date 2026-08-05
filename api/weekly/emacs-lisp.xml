@@ -4,7 +4,7 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
     <title>doomemacs / core</title>
     <link>https://github.com/doomemacs/core</link>
@@ -16,19 +16,14 @@
     <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
   </item>
   <item>
-    <title>dnouri / pi-coding-agent</title>
-    <link>https://github.com/dnouri/pi-coding-agent</link>
-    <description>Emacs frontend for the Pi coding agent</description>
-  </item>
-  <item>
-    <title>karthink / gptel</title>
-    <link>https://github.com/karthink/gptel</link>
-    <description>A simple, extensible LLM client for Emacs</description>
-  </item>
-  <item>
     <title>google-coral / coralnpu</title>
     <link>https://github.com/google-coral/coralnpu</link>
     <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
+  </item>
+  <item>
+    <title>dnouri / pi-coding-agent</title>
+    <link>https://github.com/dnouri/pi-coding-agent</link>
+    <description>Emacs frontend for the Pi coding agent</description>
   </item>
   <item>
     <title>syl20bnr / spacemacs</title>
@@ -36,19 +31,14 @@
     <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
   </item>
   <item>
-    <title>rust-lang / rust-mode</title>
-    <link>https://github.com/rust-lang/rust-mode</link>
-    <description>Emacs configuration for Rust</description>
-  </item>
-  <item>
     <title>magit / magit</title>
     <link>https://github.com/magit/magit</link>
     <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
   </item>
   <item>
-    <title>emacs-mirror / emacs</title>
-    <link>https://github.com/emacs-mirror/emacs</link>
-    <description>Mirror of GNU Emacs</description>
+    <title>karthink / gptel</title>
+    <link>https://github.com/karthink/gptel</link>
+    <description>A simple, extensible LLM client for Emacs</description>
   </item>
   <item>
     <title>emacs-lsp / lsp-mode</title>
@@ -61,14 +51,19 @@
     <description>Recipes and build machinery for the biggest Emacs package repo</description>
   </item>
   <item>
+    <title>jwiegley / emacs-async</title>
+    <link>https://github.com/jwiegley/emacs-async</link>
+    <description>Simple library for asynchronous processing in Emacs</description>
+  </item>
+  <item>
+    <title>rust-lang / rust-mode</title>
+    <link>https://github.com/rust-lang/rust-mode</link>
+    <description>Emacs configuration for Rust</description>
+  </item>
+  <item>
     <title>zkry / yaml.el</title>
     <link>https://github.com/zkry/yaml.el</link>
     <description>YAML parser in Elisp</description>
-  </item>
-  <item>
-    <title>dakra / ghostel</title>
-    <link>https://github.com/dakra/ghostel</link>
-    <description>Terminal emulator powered by libghostty</description>
   </item>
   <item>
     <title>Fuco1 / smartparens</title>
@@ -76,9 +71,19 @@
     <description>Minor mode for Emacs that deals with parens pairs and tries to be smart about it.</description>
   </item>
   <item>
+    <title>d12frosted / vulpea</title>
+    <link>https://github.com/d12frosted/vulpea</link>
+    <description>Database layer for org-mode notes with async indexing, rich queries, backlink discovery, and external change detection. Scales to 100k+ notes.</description>
+  </item>
+  <item>
     <title>magit / forge</title>
     <link>https://github.com/magit/forge</link>
     <description>Work with Git forges from the comfort of Magit</description>
+  </item>
+  <item>
+    <title>emacs-mirror / emacs</title>
+    <link>https://github.com/emacs-mirror/emacs</link>
+    <description>Mirror of GNU Emacs</description>
   </item>
 </channel>
 </rss>

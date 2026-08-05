@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "JuliaLang / julia",
@@ -10,9 +10,9 @@
       "description": "The Julia Programming Language",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 48979,
-      "forks": 5950,
-      "added_stars": "328 stars this month"
+      "stars": 48982,
+      "forks": 5955,
+      "added_stars": "329 stars this month"
     },
     {
       "title": "JuliaRegistries / General",
@@ -21,18 +21,8 @@
       "language": "Julia",
       "languageColor": "#a270ba",
       "stars": 723,
-      "forks": 586,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "oscar-system / Oscar.jl",
-      "url": "https://github.com/oscar-system/Oscar.jl",
-      "description": "A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": 510,
-      "forks": 181,
-      "added_stars": "7 stars this month"
+      "forks": 587,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "CliMA / Oceananigans.jl",
@@ -45,14 +35,14 @@
       "added_stars": "56 stars this month"
     },
     {
-      "title": "JuliaDiff / TaylorSeries.jl",
-      "url": "https://github.com/JuliaDiff/TaylorSeries.jl",
-      "description": "Taylor polynomial expansions in one and several independent variables.",
+      "title": "oscar-system / Oscar.jl",
+      "url": "https://github.com/oscar-system/Oscar.jl",
+      "description": "A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 386,
-      "forks": 55,
-      "added_stars": "6 stars this month"
+      "stars": 510,
+      "forks": 181,
+      "added_stars": "7 stars this month"
     }
   ]
 }

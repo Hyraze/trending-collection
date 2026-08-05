@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "webmachinelearning / webmcp",
@@ -10,9 +10,29 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 2927,
-      "forks": 189,
-      "added_stars": "52 stars this week"
+      "stars": 2934,
+      "forks": 190,
+      "added_stars": "51 stars this week"
+    },
+    {
+      "title": "w3c / csswg-drafts",
+      "url": "https://github.com/w3c/csswg-drafts",
+      "description": "CSS Working Group Editor Drafts",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 4854,
+      "forks": 803,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "gpuweb / gpuweb",
+      "url": "https://github.com/gpuweb/gpuweb",
+      "description": "Where the GPU for the Web work happens!",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 5446,
+      "forks": 375,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "patcg-individual-drafts / topics",
@@ -31,28 +51,8 @@
       "language": "Bikeshed",
       "languageColor": "#5562ac",
       "stars": 3146,
-      "forks": 424,
+      "forks": 423,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "w3c / csswg-drafts",
-      "url": "https://github.com/w3c/csswg-drafts",
-      "description": "CSS Working Group Editor Drafts",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 4854,
-      "forks": 803,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "gpuweb / gpuweb",
-      "url": "https://github.com/gpuweb/gpuweb",
-      "description": "Where the GPU for the Web work happens!",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 5445,
-      "forks": 376,
-      "added_stars": "7 stars this week"
     },
     {
       "title": "w3c / webappsec-permissions-policy",
@@ -65,6 +65,26 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "w3c / ServiceWorker",
+      "url": "https://github.com/w3c/ServiceWorker",
+      "description": "Service Workers",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 3632,
+      "forks": 323,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "WebAudio / web-audio-api",
+      "url": "https://github.com/WebAudio/web-audio-api",
+      "description": "The Web Audio API v1.0, developed by the W3C Audio WG",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 1127,
+      "forks": 179,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "WICG / first-party-sets",
       "url": "https://github.com/WICG/first-party-sets",
       "description": "",
@@ -75,34 +95,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "w3c / ServiceWorker",
-      "url": "https://github.com/w3c/ServiceWorker",
-      "description": "Service Workers",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 3632,
-      "forks": 324,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "WebAudio / web-audio-api",
-      "url": "https://github.com/WebAudio/web-audio-api",
-      "description": "The Web Audio API v1.0, developed by the W3C Audio WG",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 1126,
-      "forks": 179,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "w3c / webextensions",
       "url": "https://github.com/w3c/webextensions",
       "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 705,
+      "stars": 706,
       "forks": 90,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
     }
   ]
 }

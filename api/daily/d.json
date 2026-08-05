@@ -2,37 +2,27 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
-    {
-      "title": "abraunegg / onedrive",
-      "url": "https://github.com/abraunegg/onedrive",
-      "description": "OneDrive Client for Linux",
-      "language": "D",
-      "languageColor": "#ba595e",
-      "stars": 12663,
-      "forks": 912,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Dadoum / anisette-v3-server",
-      "url": "https://github.com/Dadoum/anisette-v3-server",
-      "description": "sidestore's anisette-v3 compatible server",
-      "language": "D",
-      "languageColor": "#ba595e",
-      "stars": 524,
-      "forks": 2292,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "dlang / dmd",
       "url": "https://github.com/dlang/dmd",
       "description": "dmd D Programming Language compiler",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 3294,
+      "stars": 3293,
       "forks": 710,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "abraunegg / onedrive",
+      "url": "https://github.com/abraunegg/onedrive",
+      "description": "OneDrive Client for Linux",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 12666,
+      "forks": 912,
+      "added_stars": "5 stars today"
     },
     {
       "title": "Dadoum / Sideloader",
@@ -42,7 +32,7 @@
       "languageColor": "#ba595e",
       "stars": 988,
       "forks": 140,
-      "added_stars": "2 stars today"
+      "added_stars": "0 stars today"
     }
   ]
 }

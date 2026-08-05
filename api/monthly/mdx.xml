@@ -4,7 +4,7 @@
   <title>GitHub Mdx Languages Daily Trending</title>
   <description>Daily Trending of Mdx Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>twbs / bootstrap</title>
     <link>https://github.com/twbs/bootstrap</link>
@@ -26,19 +26,14 @@
     <description>Documentation for the npm registry, website, and command-line interface.</description>
   </item>
   <item>
+    <title>wasp-lang / open-saas</title>
+    <link>https://github.com/wasp-lang/open-saas</link>
+    <description>A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.</description>
+  </item>
+  <item>
     <title>dair-ai / Prompt-Engineering-Guide</title>
     <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
     <description>🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.</description>
-  </item>
-  <item>
-    <title>withastro / docs</title>
-    <link>https://github.com/withastro/docs</link>
-    <description>Astro documentation</description>
-  </item>
-  <item>
-    <title>langchain-ai / docs</title>
-    <link>https://github.com/langchain-ai/docs</link>
-    <description>Unified LangChain documentation.</description>
   </item>
   <item>
     <title>esphome / esphome.io</title>
@@ -46,9 +41,14 @@
     <description>Source for esphome.io documentation files.</description>
   </item>
   <item>
-    <title>hashicorp / web-unified-docs</title>
-    <link>https://github.com/hashicorp/web-unified-docs</link>
-    <description>Hashicorp Unified Docs</description>
+    <title>langchain-ai / docs</title>
+    <link>https://github.com/langchain-ai/docs</link>
+    <description>Unified LangChain documentation.</description>
+  </item>
+  <item>
+    <title>solana-foundation / solana-com</title>
+    <link>https://github.com/solana-foundation/solana-com</link>
+    <description>The solana.com website.</description>
   </item>
   <item>
     <title>detekt / detekt</title>
@@ -56,9 +56,19 @@
     <description>Static code analysis for Kotlin</description>
   </item>
   <item>
+    <title>hashicorp / web-unified-docs</title>
+    <link>https://github.com/hashicorp/web-unified-docs</link>
+    <description>Hashicorp Unified Docs</description>
+  </item>
+  <item>
     <title>newrelic / docs-website</title>
     <link>https://github.com/newrelic/docs-website</link>
     <description>Source code for @newrelic docs. We welcome pull requests and questions on our docs!</description>
+  </item>
+  <item>
+    <title>withastro / docs</title>
+    <link>https://github.com/withastro/docs</link>
+    <description>Astro documentation</description>
   </item>
   <item>
     <title>processing / p5.js-website</title>
@@ -66,14 +76,19 @@
     <description>New p5.js website!</description>
   </item>
   <item>
-    <title>huggingface / course</title>
-    <link>https://github.com/huggingface/course</link>
-    <description>The Hugging Face course on Transformers</description>
-  </item>
-  <item>
     <title>discord / discord-api-docs</title>
     <link>https://github.com/discord/discord-api-docs</link>
     <description>Official Discord Developer Docs</description>
+  </item>
+  <item>
+    <title>expressjs / expressjs.com</title>
+    <link>https://github.com/expressjs/expressjs.com</link>
+    <description>The Express.js Website</description>
+  </item>
+  <item>
+    <title>prisma / web</title>
+    <link>https://github.com/prisma/web</link>
+    <description>📚 Prisma Web Monorepo</description>
   </item>
   <item>
     <title>EnterpriseDB / docs</title>
@@ -86,29 +101,14 @@
     <description>🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps</description>
   </item>
   <item>
-    <title>prisma / web</title>
-    <link>https://github.com/prisma/web</link>
-    <description>📚 Prisma Web Monorepo</description>
+    <title>jellyfin / jellyfin.org</title>
+    <link>https://github.com/jellyfin/jellyfin.org</link>
+    <description>Jellyfin Project website, blog, and user documentation</description>
   </item>
   <item>
-    <title>clerk / clerk-docs</title>
-    <link>https://github.com/clerk/clerk-docs</link>
-    <description>The documentation content for Clerk, an authentication and user management platform.</description>
-  </item>
-  <item>
-    <title>AdguardTeam / KnowledgeBase</title>
-    <link>https://github.com/AdguardTeam/KnowledgeBase</link>
-    <description>AdGuard knowledge base</description>
-  </item>
-  <item>
-    <title>ClickHouse / clickhouse-docs</title>
-    <link>https://github.com/ClickHouse/clickhouse-docs</link>
-    <description>We have moved: https://github.com/ClickHouse/ClickHouse/tree/master/docs#readme</description>
-  </item>
-  <item>
-    <title>hunvreus / basecoat</title>
-    <link>https://github.com/hunvreus/basecoat</link>
-    <description>A components library built with Tailwind CSS that works with any web stack.</description>
+    <title>huggingface / course</title>
+    <link>https://github.com/huggingface/course</link>
+    <description>The Hugging Face course on Transformers</description>
   </item>
 </channel>
 </rss>

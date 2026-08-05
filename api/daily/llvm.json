@@ -2,7 +2,7 @@
   "title": "GitHub Llvm Languages Daily Trending",
   "description": "Daily Trending of Llvm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
       "title": "llvm / llvm-project",
@@ -10,9 +10,29 @@
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 39617,
-      "forks": 18092,
-      "added_stars": "18 stars today"
+      "stars": 39638,
+      "forks": 18103,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "KhronosGroup / SPIRV-LLVM-Translator",
+      "url": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator",
+      "description": "A tool and a library for bi-directional translation between SPIR-V and LLVM IR",
+      "language": "LLVM",
+      "languageColor": "#185619",
+      "stars": 623,
+      "forks": 273,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "EnzymeAD / Enzyme",
+      "url": "https://github.com/EnzymeAD/Enzyme",
+      "description": "High-performance automatic differentiation of LLVM and MLIR.",
+      "language": "LLVM",
+      "languageColor": "#185619",
+      "stars": 1662,
+      "forks": 181,
+      "added_stars": "2 stars today"
     },
     {
       "title": "intel / llvm",
@@ -21,18 +41,8 @@
       "language": "LLVM",
       "languageColor": "#185619",
       "stars": 1512,
-      "forks": 849,
+      "forks": 848,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "KhronosGroup / SPIRV-LLVM-Translator",
-      "url": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator",
-      "description": "A tool and a library for bi-directional translation between SPIR-V and LLVM IR",
-      "language": "LLVM",
-      "languageColor": "#185619",
-      "stars": 622,
-      "forks": 274,
-      "added_stars": "1 star today"
     }
   ]
 }

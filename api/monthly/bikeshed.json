@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "gpuweb / gpuweb",
@@ -10,9 +10,9 @@
       "description": "Where the GPU for the Web work happens!",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 5445,
-      "forks": 376,
-      "added_stars": "28 stars this month"
+      "stars": 5446,
+      "forks": 375,
+      "added_stars": "29 stars this month"
     },
     {
       "title": "webmachinelearning / webmcp",
@@ -20,9 +20,9 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 2927,
-      "forks": 189,
-      "added_stars": "200 stars this month"
+      "stars": 2934,
+      "forks": 190,
+      "added_stars": "206 stars this month"
     },
     {
       "title": "WICG / first-party-sets",
@@ -32,7 +32,7 @@
       "languageColor": "#5562ac",
       "stars": 398,
       "forks": 166,
-      "added_stars": "6 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
       "title": "patcg-individual-drafts / topics",
@@ -42,6 +42,16 @@
       "languageColor": "#5562ac",
       "stars": 872,
       "forks": 887,
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "w3c / csswg-drafts",
+      "url": "https://github.com/w3c/csswg-drafts",
+      "description": "CSS Working Group Editor Drafts",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 4854,
+      "forks": 803,
       "added_stars": "13 stars this month"
     },
     {
@@ -55,23 +65,13 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "w3c / csswg-drafts",
-      "url": "https://github.com/w3c/csswg-drafts",
-      "description": "CSS Working Group Editor Drafts",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 4854,
-      "forks": 803,
-      "added_stars": "13 stars this month"
-    },
-    {
       "title": "immersive-web / webxr",
       "url": "https://github.com/immersive-web/webxr",
       "description": "Repository for the WebXR Device API Specification.",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
       "stars": 3146,
-      "forks": 424,
+      "forks": 423,
       "added_stars": "5 stars this month"
     },
     {
@@ -80,29 +80,9 @@
       "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 705,
+      "stars": 706,
       "forks": 90,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "patcg-individual-drafts / private-aggregation-api",
-      "url": "https://github.com/patcg-individual-drafts/private-aggregation-api",
-      "description": "Explainer for proposed web platform API",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 62,
-      "forks": 36,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "WICG / declarative-partial-updates",
-      "url": "https://github.com/WICG/declarative-partial-updates",
-      "description": "",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 118,
-      "forks": 11,
-      "added_stars": "12 stars this month"
+      "added_stars": "4 stars this month"
     }
   ]
 }

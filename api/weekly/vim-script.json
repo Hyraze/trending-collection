@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "neovim / neovim",
@@ -10,19 +10,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 101556,
-      "forks": 7006,
-      "added_stars": "245 stars this week"
-    },
-    {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 35734,
-      "forks": 1937,
-      "added_stars": "21 stars this week"
+      "stars": 101584,
+      "forks": 7005,
+      "added_stars": "266 stars this week"
     },
     {
       "title": "github / copilot.vim",
@@ -31,8 +21,18 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 11661,
-      "forks": 789,
-      "added_stars": "12 stars this week"
+      "forks": 792,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 35738,
+      "forks": 1936,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "vim / vim",
@@ -40,9 +40,9 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 40699,
-      "forks": 6105,
-      "added_stars": "44 stars this week"
+      "stars": 40705,
+      "forks": 6107,
+      "added_stars": "47 stars this week"
     },
     {
       "title": "morhetz / gruvbox",
@@ -50,9 +50,19 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 15655,
+      "stars": 15657,
       "forks": 1127,
-      "added_stars": "21 stars this week"
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "sainnhe / everforest",
+      "url": "https://github.com/sainnhe/everforest",
+      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 4146,
+      "forks": 147,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "dense-analysis / ale",
@@ -65,84 +75,24 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "sainnhe / everforest",
-      "url": "https://github.com/sainnhe/everforest",
-      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4145,
-      "forks": 147,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "rbong / vim-flog",
-      "url": "https://github.com/rbong/vim-flog",
-      "description": "A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 908,
-      "forks": 30,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "junegunn / vader.vim",
-      "url": "https://github.com/junegunn/vader.vim",
-      "description": "A simple Vimscript test framework",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 600,
-      "forks": 40,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "tpope / vim-fugitive",
       "url": "https://github.com/tpope/vim-fugitive",
       "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 21752,
-      "forks": 1073,
-      "added_stars": "18 stars this week"
+      "stars": 21754,
+      "forks": 1074,
+      "added_stars": "17 stars this week"
     },
     {
-      "title": "tpope / vim-eunuch",
-      "url": "https://github.com/tpope/vim-eunuch",
-      "description": "eunuch.vim: Helpers for UNIX",
+      "title": "ggml-org / llama.vim",
+      "url": "https://github.com/ggml-org/llama.vim",
+      "description": "Vim plugin for LLM-assisted code/text completion",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 1884,
-      "forks": 79,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "mattn / vim-lsp-settings",
-      "url": "https://github.com/mattn/vim-lsp-settings",
-      "description": "Auto configurations for Language Server for vim-lsp",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 1414,
-      "forks": 248,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "kana / vim-textobj-user",
-      "url": "https://github.com/kana/vim-textobj-user",
-      "description": "Vim plugin: Create your own text objects",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 1469,
-      "forks": 48,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "tpope / vim-rails",
-      "url": "https://github.com/tpope/vim-rails",
-      "description": "rails.vim: Ruby on Rails power tools",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4153,
-      "forks": 376,
-      "added_stars": "0 stars this week"
+      "stars": 2123,
+      "forks": 116,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "wellle / targets.vim",
@@ -165,24 +115,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "tpope / vim-obsession",
-      "url": "https://github.com/tpope/vim-obsession",
-      "description": "obsession.vim: continuously updated session files",
+      "title": "vim-syntastic / syntastic",
+      "url": "https://github.com/vim-syntastic/syntastic",
+      "description": "Syntax checking hacks for vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 1881,
-      "forks": 71,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "ggml-org / llama.vim",
-      "url": "https://github.com/ggml-org/llama.vim",
-      "description": "Vim plugin for LLM-assisted code/text completion",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 2119,
-      "forks": 116,
-      "added_stars": "5 stars this week"
+      "stars": 11223,
+      "forks": 1124,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "leafgarland / typescript-vim",
@@ -195,44 +135,94 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "tomasr / molokai",
-      "url": "https://github.com/tomasr/molokai",
-      "description": "Molokai color scheme for Vim",
+      "title": "ryanoasis / vim-devicons",
+      "url": "https://github.com/ryanoasis/vim-devicons",
+      "description": "Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 3627,
-      "forks": 1641,
-      "added_stars": "0 stars this week"
+      "stars": 5806,
+      "forks": 275,
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "junegunn / goyo.vim",
-      "url": "https://github.com/junegunn/goyo.vim",
-      "description": "🌷 Distraction-free writing in Vim",
+      "title": "mattn / vim-lsp-settings",
+      "url": "https://github.com/mattn/vim-lsp-settings",
+      "description": "Auto configurations for Language Server for vim-lsp",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 4687,
-      "forks": 119,
-      "added_stars": "3 stars this week"
+      "stars": 1415,
+      "forks": 247,
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "prabirshrestha / asyncomplete.vim",
-      "url": "https://github.com/prabirshrestha/asyncomplete.vim",
-      "description": "async completion in pure vim script for vim8 and neovim",
+      "title": "derekhe / msfs2020-map-enhancement",
+      "url": "https://github.com/derekhe/msfs2020-map-enhancement",
+      "description": "MSFS2020 Map Enhancement",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 975,
-      "forks": 60,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "vim-ruby / vim-ruby",
-      "url": "https://github.com/vim-ruby/vim-ruby",
-      "description": "Vim/Ruby Configuration Files",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 1987,
-      "forks": 285,
+      "stars": 354,
+      "forks": 44,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "junegunn / vader.vim",
+      "url": "https://github.com/junegunn/vader.vim",
+      "description": "A simple Vimscript test framework",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 600,
+      "forks": 40,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "kana / vim-textobj-user",
+      "url": "https://github.com/kana/vim-textobj-user",
+      "description": "Vim plugin: Create your own text objects",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 1470,
+      "forks": 48,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "tpope / vim-eunuch",
+      "url": "https://github.com/tpope/vim-eunuch",
+      "description": "eunuch.vim: Helpers for UNIX",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 1884,
+      "forks": 79,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "gelguy / wilder.nvim",
+      "url": "https://github.com/gelguy/wilder.nvim",
+      "description": "A more adventurous wildmenu",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 1479,
+      "forks": 40,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "andymass / vim-matchup",
+      "url": "https://github.com/andymass/vim-matchup",
+      "description": "vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 1917,
+      "forks": 89,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "NLKNguyen / papercolor-theme",
+      "url": "https://github.com/NLKNguyen/papercolor-theme",
+      "description": "🎨 Light & Dark Vim color schemes inspired by Google's Material Design",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 2839,
+      "forks": 244,
+      "added_stars": "2 stars this week"
     }
   ]
 }

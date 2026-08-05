@@ -2,67 +2,17 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
-    {
-      "title": "shinchiro / mpv-winbuild-cmake",
-      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
-      "description": "CMake-based MinGW-w64 Cross Toolchain",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1676,
-      "forks": 227,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "microsoft / vcpkg",
       "url": "https://github.com/microsoft/vcpkg",
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27327,
+      "stars": 27328,
       "forks": 7662,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "steinbergmedia / vst3sdk",
-      "url": "https://github.com/steinbergmedia/vst3sdk",
-      "description": "VST 3 Plug-In SDK",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 2309,
-      "forks": 223,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bilke / cmake-modules",
-      "url": "https://github.com/bilke/cmake-modules",
-      "description": "Additional CMake functionality. Most of the modules are from Rylie Pavlik (https://github.com/rpavlik/cmake-modules)",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 593,
-      "forks": 225,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "arsenm / sanitizers-cmake",
-      "url": "https://github.com/arsenm/sanitizers-cmake",
-      "description": "CMake modules to help use sanitizers",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 411,
-      "forks": 74,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leetal / ios-cmake",
-      "url": "https://github.com/leetal/ios-cmake",
-      "description": "A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS & tvOS C/C++/Obj-C++ development",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 2174,
-      "forks": 463,
-      "added_stars": "0 stars today"
+      "added_stars": "3 stars today"
     },
     {
       "title": "jrl-umi3218 / jrl-cmakemodules",
@@ -75,44 +25,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "KiCad / kicad-footprints",
-      "url": "https://github.com/KiCad/kicad-footprints",
-      "description": "Official KiCad Footprint Libraries for Kicad version 5",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 688,
-      "forks": 699,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "KiCad / kicad-symbols",
-      "url": "https://github.com/KiCad/kicad-symbols",
-      "description": "Official KiCad schematic symbol libraries for Kicad 5",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 764,
-      "forks": 724,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "ecmwf / ecbuild",
       "url": "https://github.com/ecmwf/ecbuild",
       "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
       "language": "CMake",
       "languageColor": "#DA3434",
       "stars": 39,
-      "forks": 41,
+      "forks": 40,
       "added_stars": "0 stars today"
     },
     {
-      "title": "minecraft-linux / mcpelauncher-manifest",
-      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
-      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
+      "title": "shinchiro / mpv-winbuild-cmake",
+      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
+      "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1603,
-      "forks": 127,
-      "added_stars": "1 star today"
+      "stars": 1677,
+      "forks": 227,
+      "added_stars": "3 stars today"
     },
     {
       "title": "boostorg / cmake",
@@ -125,33 +55,53 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "Andersama / obs-asio",
-      "url": "https://github.com/Andersama/obs-asio",
-      "description": "ASIO plugin for OBS-Studio",
+      "title": "bilke / cmake-modules",
+      "url": "https://github.com/bilke/cmake-modules",
+      "description": "Additional CMake functionality. Most of the modules are from Rylie Pavlik (https://github.com/rpavlik/cmake-modules)",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 833,
-      "forks": 53,
+      "stars": 593,
+      "forks": 225,
       "added_stars": "0 stars today"
     },
     {
-      "title": "corrosion-rs / corrosion",
-      "url": "https://github.com/corrosion-rs/corrosion",
-      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
+      "title": "bkaradzic / bgfx.cmake",
+      "url": "https://github.com/bkaradzic/bgfx.cmake",
+      "description": "CMake build scripts for bgfx. Released under public domain.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1475,
-      "forks": 149,
+      "stars": 40,
+      "forks": 35,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "steinbergmedia / vst3sdk",
+      "url": "https://github.com/steinbergmedia/vst3sdk",
+      "description": "VST 3 Plug-In SDK",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 2309,
+      "forks": 223,
       "added_stars": "1 star today"
     },
     {
-      "title": "editorconfig / editorconfig-core-test",
-      "url": "https://github.com/editorconfig/editorconfig-core-test",
-      "description": "Testings for EditorConfig Core",
+      "title": "leetal / ios-cmake",
+      "url": "https://github.com/leetal/ios-cmake",
+      "description": "A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS & tvOS C/C++/Obj-C++ development",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 36,
-      "forks": 26,
+      "stars": 2174,
+      "forks": 464,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "KiCad / kicad-footprints",
+      "url": "https://github.com/KiCad/kicad-footprints",
+      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 688,
+      "forks": 699,
       "added_stars": "0 stars today"
     },
     {
@@ -162,16 +112,6 @@
       "languageColor": "#DA3434",
       "stars": 170,
       "forks": 106,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "GEOS-ESM / GEOSgcm",
-      "url": "https://github.com/GEOS-ESM/GEOSgcm",
-      "description": "GEOS Earth System Model GEOSgcm Fixture",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 50,
-      "forks": 16,
       "added_stars": "0 stars today"
     }
   ]

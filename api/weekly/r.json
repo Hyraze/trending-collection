@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "Rdatatable / data.table",
@@ -10,9 +10,9 @@
       "description": "R's data.table package extends data.frame:",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 3905,
-      "forks": 1049,
-      "added_stars": "1 star this week"
+      "stars": 3904,
+      "forks": 1050,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "satijalab / seurat",
@@ -22,7 +22,7 @@
       "languageColor": "#198CE7",
       "stars": 2783,
       "forks": 994,
-      "added_stars": "9 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "tidyverse / dplyr",
@@ -31,8 +31,28 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 5054,
-      "forks": 2125,
-      "added_stars": "8 stars this week"
+      "forks": 2124,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "tidyverse / ggplot2",
+      "url": "https://github.com/tidyverse/ggplot2",
+      "description": "An implementation of the Grammar of Graphics in R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 6982,
+      "forks": 2129,
+      "added_stars": "10 stars this week"
+    },
+    {
+      "title": "rstudio / shiny",
+      "url": "https://github.com/rstudio/shiny",
+      "description": "Easy interactive web applications with R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5673,
+      "forks": 1889,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "swirldev / swirl_courses",
@@ -45,16 +65,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "tidyverse / ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 6982,
-      "forks": 2130,
-      "added_stars": "10 stars this week"
-    },
-    {
       "title": "jinworks / CellChat",
       "url": "https://github.com/jinworks/CellChat",
       "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
@@ -63,26 +73,6 @@
       "stars": 643,
       "forks": 109,
       "added_stars": "4 stars this week"
-    },
-    {
-      "title": "rstudio / shiny",
-      "url": "https://github.com/rstudio/shiny",
-      "description": "Easy interactive web applications with R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5674,
-      "forks": 1889,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "sqjin / CellChat",
-      "url": "https://github.com/sqjin/CellChat",
-      "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 793,
-      "forks": 166,
-      "added_stars": "0 stars this week"
     },
     {
       "title": "benjjneb / dada2",
@@ -95,6 +85,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "posit-dev / skills",
+      "url": "https://github.com/posit-dev/skills",
+      "description": "A collection of Claude Skills from Posit",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 455,
+      "forks": 37,
+      "added_stars": "9 stars this week"
+    },
+    {
       "title": "nflverse / nflverse-data",
       "url": "https://github.com/nflverse/nflverse-data",
       "description": "Automated nflverse data repository",
@@ -102,27 +102,7 @@
       "languageColor": "#198CE7",
       "stars": 370,
       "forks": 39,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "posit-dev / skills",
-      "url": "https://github.com/posit-dev/skills",
-      "description": "A collection of Claude Skills from Posit",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 454,
-      "forks": 37,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "hadley / r4ds",
-      "url": "https://github.com/hadley/r4ds",
-      "description": "R for data science: a book",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5127,
-      "forks": 4434,
-      "added_stars": "6 stars this week"
+      "added_stars": "1 star this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,79 +10,29 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 25650,
-      "forks": 19708,
-      "added_stars": "21 stars today"
+      "stars": 25659,
+      "forks": 19710,
+      "added_stars": "18 stars today"
     },
     {
-      "title": "nix-community / stylix",
-      "url": "https://github.com/nix-community/stylix",
-      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
+      "title": "graham33 / nixos-dgx-spark",
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "description": "Use Nix and NixOS on your DGX Spark!",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2356,
-      "forks": 351,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "nix-community / ethereum.nix",
-      "url": "https://github.com/nix-community/ethereum.nix",
-      "description": "Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon,@bbjubjub2494]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 154,
-      "forks": 45,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "microvm-nix / microvm.nix",
-      "url": "https://github.com/microvm-nix/microvm.nix",
-      "description": "NixOS MicroVMs",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2809,
-      "forks": 219,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "numtide / llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1695,
-      "forks": 189,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "sodiboo / niri-flake",
-      "url": "https://github.com/sodiboo/niri-flake",
-      "description": "Nix-native configuration for niri",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 957,
-      "forks": 139,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "oxalica / rust-overlay",
-      "url": "https://github.com/oxalica/rust-overlay",
-      "description": "Pure and reproducible nix overlay of binary distributed rust toolchains",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1536,
-      "forks": 88,
+      "stars": 170,
+      "forks": 7,
       "added_stars": "3 stars today"
     },
     {
-      "title": "Mic92 / sops-nix",
-      "url": "https://github.com/Mic92/sops-nix",
-      "description": "Atomic secret provisioning for NixOS based on sops",
+      "title": "nix-community / home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3072,
-      "forks": 226,
-      "added_stars": "2 stars today"
+      "stars": 10174,
+      "forks": 2448,
+      "added_stars": "6 stars today"
     },
     {
       "title": "nix-darwin / nix-darwin",
@@ -90,9 +40,39 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 5775,
+      "stars": 5778,
       "forks": 655,
-      "added_stars": "5 stars today"
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "xddxdd / nix-cachyos-kernel",
+      "url": "https://github.com/xddxdd/nix-cachyos-kernel",
+      "description": "CachyOS kernel for NixOS",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 665,
+      "forks": 23,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "microvm-nix / microvm.nix",
+      "url": "https://github.com/microvm-nix/microvm.nix",
+      "description": "NixOS MicroVMs",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2811,
+      "forks": 219,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1697,
+      "forks": 189,
+      "added_stars": "4 stars today"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -100,8 +80,8 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3238,
-      "forks": 955,
+      "stars": 3240,
+      "forks": 956,
       "added_stars": "5 stars today"
     },
     {
@@ -110,9 +90,9 @@
       "description": "Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1855,
+      "stars": 1854,
       "forks": 136,
-      "added_stars": "3 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "supabase / postgres",
@@ -123,6 +103,16 @@
       "stars": 1767,
       "forks": 258,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "numtide / system-manager",
+      "url": "https://github.com/numtide/system-manager",
+      "description": "Manage system config using nix on any distro",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1666,
+      "forks": 56,
+      "added_stars": "1 star today"
     }
   ]
 }

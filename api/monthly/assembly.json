@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "chrislgarry / Apollo-11",
@@ -10,9 +10,9 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 71821,
+      "stars": 71853,
       "forks": 7958,
-      "added_stars": "3,684 stars this month"
+      "added_stars": "3,710 stars this month"
     },
     {
       "title": "ROCm / rocm-libraries",
@@ -20,9 +20,9 @@
       "description": "super repo for rocm libraries",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 397,
-      "forks": 356,
-      "added_stars": "26 stars this month"
+      "stars": 398,
+      "forks": 358,
+      "added_stars": "25 stars this month"
     },
     {
       "title": "pret / pokered",
@@ -30,9 +30,9 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4850,
-      "forks": 1273,
-      "added_stars": "69 stars this month"
+      "stars": 4857,
+      "forks": 1277,
+      "added_stars": "71 stars this month"
     },
     {
       "title": "openhwgroup / cva6",
@@ -40,9 +40,9 @@
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3054,
+      "stars": 3055,
       "forks": 992,
-      "added_stars": "64 stars this month"
+      "added_stars": "63 stars this month"
     },
     {
       "title": "Rangi42 / polishedcrystal",
@@ -55,16 +55,6 @@
       "added_stars": "44 stars this month"
     },
     {
-      "title": "apple / swift-crypto",
-      "url": "https://github.com/apple/swift-crypto",
-      "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1709,
-      "forks": 215,
-      "added_stars": "11 stars this month"
-    },
-    {
       "title": "JSsixtyfour / smashremix",
       "url": "https://github.com/JSsixtyfour/smashremix",
       "description": "",
@@ -75,13 +65,23 @@
       "added_stars": "10 stars this month"
     },
     {
+      "title": "apple / swift-crypto",
+      "url": "https://github.com/apple/swift-crypto",
+      "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1709,
+      "forks": 215,
+      "added_stars": "11 stars this month"
+    },
+    {
       "title": "apple / swift-nio-ssl",
       "url": "https://github.com/apple/swift-nio-ssl",
       "description": "TLS Support for SwiftNIO, based on BoringSSL.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 432,
-      "forks": 169,
+      "forks": 168,
       "added_stars": "4 stars this month"
     },
     {
@@ -92,7 +92,7 @@
       "languageColor": "#6E4C13",
       "stars": 813,
       "forks": 198,
-      "added_stars": "24 stars this month"
+      "added_stars": "22 stars this month"
     },
     {
       "title": "pret / pokecrystal",
@@ -105,12 +105,32 @@
       "added_stars": "30 stars this month"
     },
     {
+      "title": "hasherezade / malware_training_vol1",
+      "url": "https://github.com/hasherezade/malware_training_vol1",
+      "description": "Materials for Windows Malware Analysis training (volume 1)",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2089,
+      "forks": 208,
+      "added_stars": "11 stars this month"
+    },
+    {
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 18603,
+      "forks": 2086,
+      "added_stars": "128 stars this month"
+    },
+    {
       "title": "espressif / esp-dl",
       "url": "https://github.com/espressif/esp-dl",
       "description": "Espressif deep-learning library for AIoT applications",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1096,
+      "stars": 1097,
       "forks": 218,
       "added_stars": "30 stars this month"
     },
@@ -122,7 +142,7 @@
       "languageColor": "#6E4C13",
       "stars": 5329,
       "forks": 427,
-      "added_stars": "25 stars this month"
+      "added_stars": "23 stars this month"
     },
     {
       "title": "leachim6 / hello-world",
@@ -130,9 +150,9 @@
       "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 11907,
+      "stars": 11910,
       "forks": 2111,
-      "added_stars": "36 stars this month"
+      "added_stars": "40 stars this month"
     },
     {
       "title": "livekit / rust-sdks",
@@ -140,9 +160,9 @@
       "description": "LiveKit realtime and server SDKs for Rust",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 473,
+      "stars": 475,
       "forks": 207,
-      "added_stars": "13 stars this month"
+      "added_stars": "14 stars this month"
     },
     {
       "title": "riscv / riscv-arch-test",
@@ -150,9 +170,9 @@
       "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 762,
-      "forks": 343,
-      "added_stars": "30 stars this month"
+      "stars": 763,
+      "forks": 344,
+      "added_stars": "29 stars this month"
     },
     {
       "title": "SheerSt / pokewilds",
@@ -165,34 +185,24 @@
       "added_stars": "15 stars this month"
     },
     {
-      "title": "vxunderground / MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 18598,
-      "forks": 2087,
-      "added_stars": "126 stars this month"
-    },
-    {
-      "title": "bitdump / BLHeli",
-      "url": "https://github.com/bitdump/BLHeli",
-      "description": "BLHeli for brushless ESC firmware",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2224,
-      "forks": 1145,
-      "added_stars": "12 stars this month"
-    },
-    {
       "title": "ebitengine / purego",
       "url": "https://github.com/ebitengine/purego",
       "description": "A library for calling C functions from Go without Cgo",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3759,
+      "stars": 3763,
       "forks": 119,
-      "added_stars": "69 stars this month"
+      "added_stars": "70 stars this month"
+    },
+    {
+      "title": "supranational / blst",
+      "url": "https://github.com/supranational/blst",
+      "description": "Multilingual BLS12-381 signature library",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 569,
+      "forks": 233,
+      "added_stars": "6 stars this month"
     }
   ]
 }

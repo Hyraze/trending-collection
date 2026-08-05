@@ -2,18 +2,8 @@
   "title": "GitHub Mermaid Languages Daily Trending",
   "description": "Daily Trending of Mermaid Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
-    {
-      "title": "MicrosoftDocs / azure-ai-docs",
-      "url": "https://github.com/MicrosoftDocs/azure-ai-docs",
-      "description": "Open Source Azure AI documentation including, azure ai, azure studio, machine learning, genomics, open-datasets, and search",
-      "language": "Mermaid",
-      "languageColor": "#ff3670",
-      "stars": 163,
-      "forks": 490,
-      "added_stars": "1 star this week"
-    },
     {
       "title": "MicrosoftDocs / SupportArticles-docs",
       "url": "https://github.com/MicrosoftDocs/SupportArticles-docs",
@@ -25,14 +15,24 @@
       "added_stars": "2 stars this week"
     },
     {
+      "title": "MicrosoftDocs / azure-ai-docs",
+      "url": "https://github.com/MicrosoftDocs/azure-ai-docs",
+      "description": "Open Source Azure AI documentation including, azure ai, azure studio, machine learning, genomics, open-datasets, and search",
+      "language": "Mermaid",
+      "languageColor": "#ff3670",
+      "stars": 163,
+      "forks": 490,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "MicrosoftDocs / defender-docs",
       "url": "https://github.com/MicrosoftDocs/defender-docs",
       "description": "",
       "language": "Mermaid",
       "languageColor": "#ff3670",
-      "stars": 164,
-      "forks": 390,
-      "added_stars": "1 star this week"
+      "stars": 165,
+      "forks": 393,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "MicrosoftDocs / dynamics-365-unified-operations-public",
@@ -45,24 +45,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "MicrosoftDocs / powerbi-docs",
-      "url": "https://github.com/MicrosoftDocs/powerbi-docs",
-      "description": "",
-      "language": "Mermaid",
-      "languageColor": "#ff3670",
-      "stars": 584,
-      "forks": 979,
-      "added_stars": "2 stars this week"
-    },
-    {
       "title": "dotnet / EntityFramework.Docs",
       "url": "https://github.com/dotnet/EntityFramework.Docs",
       "description": "Documentation for Entity Framework Core and Entity Framework 6",
       "language": "Mermaid",
       "languageColor": "#ff3670",
-      "stars": 1737,
+      "stars": 1738,
       "forks": 1969,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "MicrosoftDocs / power-automate-docs",
@@ -73,6 +63,16 @@
       "stars": 372,
       "forks": 314,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "MicrosoftDocs / powerbi-docs",
+      "url": "https://github.com/MicrosoftDocs/powerbi-docs",
+      "description": "",
+      "language": "Mermaid",
+      "languageColor": "#ff3670",
+      "stars": 585,
+      "forks": 979,
+      "added_stars": "3 stars this week"
     }
   ]
 }

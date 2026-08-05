@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "wrf-model / WRF",
@@ -11,8 +11,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 1724,
-      "forks": 867,
-      "added_stars": "40 stars this month"
+      "forks": 868,
+      "added_stars": "39 stars this month"
     },
     {
       "title": "firemodels / fds",
@@ -20,9 +20,9 @@
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 857,
+      "stars": 858,
       "forks": 687,
-      "added_stars": "14 stars this month"
+      "added_stars": "15 stars this month"
     },
     {
       "title": "OpenFAST / openfast",
@@ -33,6 +33,16 @@
       "stars": 944,
       "forks": 532,
       "added_stars": "20 stars this month"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1177,
+      "forks": 492,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "MetOffice / lfric_core",
@@ -55,33 +65,13 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1176,
-      "forks": 492,
-      "added_stars": "17 stars this month"
-    },
-    {
       "title": "JuliaPackaging / Yggdrasil",
       "url": "https://github.com/JuliaPackaging/Yggdrasil",
       "description": "Collection of builder repositories for BinaryBuilder.jl",
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 401,
-      "forks": 745,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "MetOffice / lfric_apps",
-      "url": "https://github.com/MetOffice/lfric_apps",
-      "description": "LFRic Applications",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 31,
-      "forks": 108,
+      "forks": 744,
       "added_stars": "0 stars this month"
     },
     {
@@ -95,16 +85,6 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "NGEET / fates",
-      "url": "https://github.com/NGEET/fates",
-      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 129,
-      "forks": 109,
-      "added_stars": "1 star this month"
-    },
-    {
       "title": "ElmerCSC / elmerfem",
       "url": "https://github.com/ElmerCSC/elmerfem",
       "description": "Official git repository of Elmer FEM software",
@@ -112,7 +92,17 @@
       "languageColor": "#4d41b1",
       "stars": 1647,
       "forks": 390,
-      "added_stars": "31 stars this month"
+      "added_stars": "32 stars this month"
+    },
+    {
+      "title": "MetOffice / lfric_apps",
+      "url": "https://github.com/MetOffice/lfric_apps",
+      "description": "LFRic Applications",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 31,
+      "forks": 108,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "grimme-lab / xtb",
@@ -120,9 +110,19 @@
       "description": "Semiempirical Extended Tight-Binding Program Package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 823,
+      "stars": 824,
       "forks": 202,
-      "added_stars": "14 stars this month"
+      "added_stars": "15 stars this month"
+    },
+    {
+      "title": "NGEET / fates",
+      "url": "https://github.com/NGEET/fates",
+      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 130,
+      "forks": 109,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "ecmwf / fckit",

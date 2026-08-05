@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "ocaml / ocaml",
@@ -10,9 +10,9 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6508,
-      "forks": 1390,
-      "added_stars": "21 stars this week"
+      "stars": 6509,
+      "forks": 1400,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "rocq-prover / rocq",
@@ -20,29 +20,9 @@
       "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 5543,
-      "forks": 746,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "semgrep / semgrep",
-      "url": "https://github.com/semgrep/semgrep",
-      "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 16101,
-      "forks": 1011,
-      "added_stars": "78 stars this week"
-    },
-    {
-      "title": "cryspen / hax",
-      "url": "https://github.com/cryspen/hax",
-      "description": "A Rust verification tool",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 463,
-      "forks": 66,
-      "added_stars": "2 stars this week"
+      "stars": 5544,
+      "forks": 745,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "opengrep / opengrep",
@@ -50,19 +30,39 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 2869,
+      "stars": 2875,
       "forks": 234,
-      "added_stars": "33 stars this week"
+      "added_stars": "35 stars this week"
     },
     {
-      "title": "facebook / infer",
-      "url": "https://github.com/facebook/infer",
-      "description": "A static analyzer for Java, C, C++, and Objective-C",
+      "title": "cryspen / hax",
+      "url": "https://github.com/cryspen/hax",
+      "description": "A Rust verification tool",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 15669,
-      "forks": 2097,
-      "added_stars": "9 stars this week"
+      "stars": 464,
+      "forks": 66,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "semgrep / semgrep",
+      "url": "https://github.com/semgrep/semgrep",
+      "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 16116,
+      "forks": 1014,
+      "added_stars": "77 stars this week"
+    },
+    {
+      "title": "ocaml / dune",
+      "url": "https://github.com/ocaml/dune",
+      "description": "A composable build system for OCaml.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 1906,
+      "forks": 489,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "oxcaml / oxcaml",
@@ -72,17 +72,7 @@
       "languageColor": "#ef7a08",
       "stars": 829,
       "forks": 167,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "ocaml / dune",
-      "url": "https://github.com/ocaml/dune",
-      "description": "A composable build system for OCaml.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1907,
-      "forks": 488,
-      "added_stars": "5 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "janestreet / hardcaml",
@@ -92,7 +82,17 @@
       "languageColor": "#ef7a08",
       "stars": 1102,
       "forks": 62,
-      "added_stars": "11 stars this week"
+      "added_stars": "10 stars this week"
+    },
+    {
+      "title": "facebook / infer",
+      "url": "https://github.com/facebook/infer",
+      "description": "A static analyzer for Java, C, C++, and Objective-C",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 15667,
+      "forks": 2097,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "semgrep / ocaml-tree-sitter-core",
@@ -103,6 +103,16 @@
       "stars": 56,
       "forks": 11,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "MinaProtocol / mina",
+      "url": "https://github.com/MinaProtocol/mina",
+      "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 2116,
+      "forks": 584,
+      "added_stars": "0 stars this week"
     }
   ]
 }

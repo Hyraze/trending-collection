@@ -4,7 +4,7 @@
   <title>GitHub Jupyter-notebook Languages Daily Trending</title>
   <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
     <title>microsoft / AI-For-Beginners</title>
     <link>https://github.com/microsoft/AI-For-Beginners</link>
@@ -21,19 +21,9 @@
     <description>This is a repo with links to everything you&#x27;d ever want to learn about data engineering</description>
   </item>
   <item>
-    <title>microsoft / ai-agents-for-beginners</title>
-    <link>https://github.com/microsoft/ai-agents-for-beginners</link>
-    <description>18 Lessons to Get Started Building AI Agents</description>
-  </item>
-  <item>
     <title>microsoft / generative-ai-for-beginners</title>
     <link>https://github.com/microsoft/generative-ai-for-beginners</link>
     <description>21 Lessons, Get Started Building with Generative AI</description>
-  </item>
-  <item>
-    <title>anthropics / prompt-eng-interactive-tutorial</title>
-    <link>https://github.com/anthropics/prompt-eng-interactive-tutorial</link>
-    <description>Anthropic&#x27;s Interactive Prompt Engineering Tutorial</description>
   </item>
   <item>
     <title>Lordog / dive-into-llms</title>
@@ -46,9 +36,9 @@
     <description>[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)</description>
   </item>
   <item>
-    <title>openai / openai-cookbook</title>
-    <link>https://github.com/openai/openai-cookbook</link>
-    <description>Examples and guides for using the OpenAI API</description>
+    <title>microsoft / ai-agents-for-beginners</title>
+    <link>https://github.com/microsoft/ai-agents-for-beginners</link>
+    <description>18 Lessons to Get Started Building AI Agents</description>
   </item>
   <item>
     <title>Infrasys-AI / AISystem</title>
@@ -56,14 +46,9 @@
     <description>AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术</description>
   </item>
   <item>
-    <title>jackfrued / Python-100-Days</title>
-    <link>https://github.com/jackfrued/Python-100-Days</link>
-    <description>Python - 100天从新手到大师</description>
-  </item>
-  <item>
-    <title>romanmichaelpaolucci / Quant-Guild-Library</title>
-    <link>https://github.com/romanmichaelpaolucci/Quant-Guild-Library</link>
-    <description>A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci</description>
+    <title>openai / openai-cookbook</title>
+    <link>https://github.com/openai/openai-cookbook</link>
+    <description>Examples and guides for using the OpenAI API</description>
   </item>
   <item>
     <title>microsoft / ML-For-Beginners</title>
@@ -71,24 +56,9 @@
     <description>12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</description>
   </item>
   <item>
-    <title>spmallick / learnopencv</title>
-    <link>https://github.com/spmallick/learnopencv</link>
-    <description>Learn OpenCV : C++ and Python Examples</description>
-  </item>
-  <item>
-    <title>microsoft / mcp-for-beginners</title>
-    <link>https://github.com/microsoft/mcp-for-beginners</link>
-    <description>This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.</description>
-  </item>
-  <item>
-    <title>mrdbourke / zero-to-mastery-ml</title>
-    <link>https://github.com/mrdbourke/zero-to-mastery-ml</link>
-    <description>All course materials for the Zero to Mastery Machine Learning and Data Science course.</description>
-  </item>
-  <item>
-    <title>QwenLM / Qwen3-VL</title>
-    <link>https://github.com/QwenLM/Qwen3-VL</link>
-    <description>Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.</description>
+    <title>jackfrued / Python-100-Days</title>
+    <link>https://github.com/jackfrued/Python-100-Days</link>
+    <description>Python - 100天从新手到大师</description>
   </item>
   <item>
     <title>ed-donner / llm_engineering</title>
@@ -96,14 +66,9 @@
     <description>Repo to accompany my mastering LLM engineering course</description>
   </item>
   <item>
-    <title>AI4Finance-Foundation / FinRL</title>
-    <link>https://github.com/AI4Finance-Foundation/FinRL</link>
-    <description>FinRL®: Financial Reinforcement Learning. 🔥</description>
-  </item>
-  <item>
-    <title>langchain-ai / agents-from-scratch</title>
-    <link>https://github.com/langchain-ai/agents-from-scratch</link>
-    <description>Build an email assistant with human-in-the-loop and memory</description>
+    <title>mrdbourke / zero-to-mastery-ml</title>
+    <link>https://github.com/mrdbourke/zero-to-mastery-ml</link>
+    <description>All course materials for the Zero to Mastery Machine Learning and Data Science course.</description>
   </item>
   <item>
     <title>Infrasys-AI / AIInfra</title>
@@ -111,9 +76,44 @@
     <description>AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。</description>
   </item>
   <item>
-    <title>anthropics / courses</title>
-    <link>https://github.com/anthropics/courses</link>
-    <description>Anthropic&#x27;s educational courses</description>
+    <title>microsoft / mcp-for-beginners</title>
+    <link>https://github.com/microsoft/mcp-for-beginners</link>
+    <description>This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.</description>
+  </item>
+  <item>
+    <title>spmallick / learnopencv</title>
+    <link>https://github.com/spmallick/learnopencv</link>
+    <description>Learn OpenCV : C++ and Python Examples</description>
+  </item>
+  <item>
+    <title>aws / amazon-sagemaker-examples</title>
+    <link>https://github.com/aws/amazon-sagemaker-examples</link>
+    <description>Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.</description>
+  </item>
+  <item>
+    <title>AI4Finance-Foundation / FinRL</title>
+    <link>https://github.com/AI4Finance-Foundation/FinRL</link>
+    <description>FinRL®: Financial Reinforcement Learning. 🔥</description>
+  </item>
+  <item>
+    <title>google-gemini / cookbook</title>
+    <link>https://github.com/google-gemini/cookbook</link>
+    <description>Examples and guides for using the Gemini API</description>
+  </item>
+  <item>
+    <title>romanmichaelpaolucci / Quant-Guild-Library</title>
+    <link>https://github.com/romanmichaelpaolucci/Quant-Guild-Library</link>
+    <description>A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci</description>
+  </item>
+  <item>
+    <title>jupyter / notebook</title>
+    <link>https://github.com/jupyter/notebook</link>
+    <description>Jupyter Interactive Notebook</description>
+  </item>
+  <item>
+    <title>QwenLM / Qwen3-VL</title>
+    <link>https://github.com/QwenLM/Qwen3-VL</link>
+    <description>Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.</description>
   </item>
 </channel>
 </rss>

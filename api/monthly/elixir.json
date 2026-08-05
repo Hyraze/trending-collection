@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "elixir-lang / elixir",
@@ -10,9 +10,9 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26594,
-      "forks": 3659,
-      "added_stars": "237 stars this month"
+      "stars": 26593,
+      "forks": 3665,
+      "added_stars": "235 stars this month"
     },
     {
       "title": "blockscout / blockscout",
@@ -22,7 +22,7 @@
       "languageColor": "#6e4a7e",
       "stars": 4627,
       "forks": 3130,
-      "added_stars": "56 stars this month"
+      "added_stars": "58 stars this month"
     },
     {
       "title": "firezone / firezone",
@@ -30,9 +30,9 @@
       "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8985,
-      "forks": 440,
-      "added_stars": "286 stars this month"
+      "stars": 8988,
+      "forks": 439,
+      "added_stars": "288 stars this month"
     },
     {
       "title": "phoenixframework / phoenix",
@@ -42,7 +42,7 @@
       "languageColor": "#6e4a7e",
       "stars": 23106,
       "forks": 3084,
-      "added_stars": "75 stars this month"
+      "added_stars": "73 stars this month"
     },
     {
       "title": "phoenixframework / phoenix_live_view",
@@ -50,9 +50,9 @@
       "description": "Rich, real-time user experiences with server-rendered HTML",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 6811,
+      "stars": 6812,
       "forks": 1050,
-      "added_stars": "34 stars this month"
+      "added_stars": "37 stars this month"
     },
     {
       "title": "elixir-lsp / elixir_sense",
@@ -60,7 +60,7 @@
       "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 341,
+      "stars": 340,
       "forks": 43,
       "added_stars": "1 star this month"
     },
@@ -70,19 +70,9 @@
       "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 131,
+      "stars": 134,
       "forks": 13,
-      "added_stars": "46 stars this month"
-    },
-    {
-      "title": "kieraneglin / pinchflat",
-      "url": "https://github.com/kieraneglin/pinchflat",
-      "description": "Your next YouTube media manager",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5204,
-      "forks": 155,
-      "added_stars": "113 stars this month"
+      "added_stars": "50 stars this month"
     },
     {
       "title": "plausible / analytics",
@@ -90,9 +80,9 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 28331,
-      "forks": 1770,
-      "added_stars": "897 stars this month"
+      "stars": 28355,
+      "forks": 1771,
+      "added_stars": "878 stars this month"
     },
     {
       "title": "openai / symphony",
@@ -100,9 +90,9 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26415,
-      "forks": 2674,
-      "added_stars": "731 stars this month"
+      "stars": 26435,
+      "forks": 2677,
+      "added_stars": "737 stars this month"
     },
     {
       "title": "supabase / realtime",
@@ -110,9 +100,19 @@
       "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 7612,
+      "stars": 7613,
       "forks": 454,
       "added_stars": "22 stars this month"
+    },
+    {
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5207,
+      "forks": 155,
+      "added_stars": "112 stars this month"
     },
     {
       "title": "open-telemetry / opentelemetry-erlang-contrib",

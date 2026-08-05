@@ -2,17 +2,27 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
+    {
+      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1277,
+      "forks": 1274,
+      "added_stars": "7 stars this month"
+    },
     {
       "title": "hashicorp / agent-skills",
       "url": "https://github.com/hashicorp/agent-skills",
       "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 776,
-      "forks": 115,
-      "added_stars": "80 stars this month"
+      "stars": 781,
+      "forks": 116,
+      "added_stars": "82 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -20,9 +30,9 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4991,
+      "stars": 4992,
       "forks": 4403,
-      "added_stars": "16 stars this month"
+      "added_stars": "17 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -35,24 +45,24 @@
       "added_stars": "13 stars this month"
     },
     {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1219,
+      "forks": 568,
+      "added_stars": "25 stars this month"
+    },
+    {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 2076,
-      "forks": 1252,
-      "added_stars": "22 stars this month"
-    },
-    {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1217,
-      "forks": 568,
-      "added_stars": "23 stars this month"
+      "forks": 1253,
+      "added_stars": "21 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-iam",
@@ -101,7 +111,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 159,
-      "forks": 186,
+      "forks": 187,
       "added_stars": "8 stars this month"
     },
     {
@@ -110,19 +120,9 @@
       "description": "Terraform module to create AWS ECS resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 675,
+      "stars": 676,
       "forks": 666,
       "added_stars": "3 stars this month"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1277,
-      "forks": 1274,
-      "added_stars": "7 stars this month"
     }
   ]
 }

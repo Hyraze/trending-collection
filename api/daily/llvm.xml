@@ -4,21 +4,26 @@
   <title>GitHub Llvm Languages Daily Trending</title>
   <description>Daily Trending of Llvm Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
   <item>
     <title>llvm / llvm-project</title>
     <link>https://github.com/llvm/llvm-project</link>
     <description>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</description>
   </item>
   <item>
-    <title>intel / llvm</title>
-    <link>https://github.com/intel/llvm</link>
-    <description>Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.</description>
-  </item>
-  <item>
     <title>KhronosGroup / SPIRV-LLVM-Translator</title>
     <link>https://github.com/KhronosGroup/SPIRV-LLVM-Translator</link>
     <description>A tool and a library for bi-directional translation between SPIR-V and LLVM IR</description>
+  </item>
+  <item>
+    <title>EnzymeAD / Enzyme</title>
+    <link>https://github.com/EnzymeAD/Enzyme</link>
+    <description>High-performance automatic differentiation of LLVM and MLIR.</description>
+  </item>
+  <item>
+    <title>intel / llvm</title>
+    <link>https://github.com/intel/llvm</link>
+    <description>Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.</description>
   </item>
 </channel>
 </rss>

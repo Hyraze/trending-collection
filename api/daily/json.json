@@ -2,7 +2,7 @@
   "title": "GitHub Json Languages Daily Trending",
   "description": "Daily Trending of Json Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
       "title": "mdn / browser-compat-data",
@@ -10,9 +10,9 @@
       "description": "Browser compatibility data for Web technologies as displayed on MDN",
       "language": "JSON",
       "languageColor": "#292929",
-      "stars": 5714,
-      "forks": 2610,
-      "added_stars": "2 stars today"
+      "stars": 5713,
+      "forks": 2611,
+      "added_stars": "0 stars today"
     },
     {
       "title": "Fyrd / caniuse",
@@ -21,7 +21,17 @@
       "language": "JSON",
       "languageColor": "#292929",
       "stars": 5862,
-      "forks": 1421,
+      "forks": 1420,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "osmlab / name-suggestion-index",
+      "url": "https://github.com/osmlab/name-suggestion-index",
+      "description": "Canonical common brand names, operators, transit, and flags for OpenStreetMap.",
+      "language": "JSON",
+      "languageColor": "#292929",
+      "stars": 866,
+      "forks": 1039,
       "added_stars": "0 stars today"
     }
   ]

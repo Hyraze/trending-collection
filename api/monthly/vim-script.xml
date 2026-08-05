@@ -4,16 +4,16 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
-  <item>
-    <title>vim / vim</title>
-    <link>https://github.com/vim/vim</link>
-    <description>The official Vim repository</description>
-  </item>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
     <description>Vim-fork focused on extensibility and usability</description>
+  </item>
+  <item>
+    <title>vim / vim</title>
+    <link>https://github.com/vim/vim</link>
+    <description>The official Vim repository</description>
   </item>
   <item>
     <title>github / copilot.vim</title>
@@ -41,11 +41,6 @@
     <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
   </item>
   <item>
-    <title>kristijanhusak / vim-dadbod-ui</title>
-    <link>https://github.com/kristijanhusak/vim-dadbod-ui</link>
-    <description>Simple UI for https://github.com/tpope/vim-dadbod</description>
-  </item>
-  <item>
     <title>morhetz / gruvbox</title>
     <link>https://github.com/morhetz/gruvbox</link>
     <description>Retro groove color scheme for Vim</description>
@@ -56,14 +51,14 @@
     <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
-    <title>tpope / vim-rhubarb</title>
-    <link>https://github.com/tpope/vim-rhubarb</link>
-    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
+    <title>derekhe / msfs2020-map-enhancement</title>
+    <link>https://github.com/derekhe/msfs2020-map-enhancement</link>
+    <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
-    <title>tpope / vim-abolish</title>
-    <link>https://github.com/tpope/vim-abolish</link>
-    <description>abolish.vim: Work with several variants of a word at once</description>
+    <title>andymass / vim-matchup</title>
+    <link>https://github.com/andymass/vim-matchup</link>
+    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
   </item>
   <item>
     <title>tpope / vim-eunuch</title>
@@ -76,9 +71,14 @@
     <description>A tree explorer plugin for vim.</description>
   </item>
   <item>
-    <title>editorconfig / editorconfig-vim</title>
-    <link>https://github.com/editorconfig/editorconfig-vim</link>
-    <description>EditorConfig plugin for Vim</description>
+    <title>tpope / vim-rhubarb</title>
+    <link>https://github.com/tpope/vim-rhubarb</link>
+    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
+  </item>
+  <item>
+    <title>hrsh7th / vim-vsnip</title>
+    <link>https://github.com/hrsh7th/vim-vsnip</link>
+    <description>Snippet plugin for vim/nvim that supports LSP/VSCode&#x27;s snippet format.</description>
   </item>
   <item>
     <title>amix / vimrc</title>
@@ -91,14 +91,24 @@
     <description>Multiple cursors plugin for vim/neovim</description>
   </item>
   <item>
-    <title>easymotion / vim-easymotion</title>
-    <link>https://github.com/easymotion/vim-easymotion</link>
-    <description>Vim motions on speed!</description>
+    <title>kristijanhusak / vim-dadbod-ui</title>
+    <link>https://github.com/kristijanhusak/vim-dadbod-ui</link>
+    <description>Simple UI for https://github.com/tpope/vim-dadbod</description>
   </item>
   <item>
-    <title>tpope / vim-rails</title>
-    <link>https://github.com/tpope/vim-rails</link>
-    <description>rails.vim: Ruby on Rails power tools</description>
+    <title>jbranchaud / til</title>
+    <link>https://github.com/jbranchaud/til</link>
+    <description>📝 Today I Learned</description>
+  </item>
+  <item>
+    <title>romainl / vim-cool</title>
+    <link>https://github.com/romainl/vim-cool</link>
+    <description>A very simple plugin that makes hlsearch more useful.</description>
+  </item>
+  <item>
+    <title>tpope / vim-abolish</title>
+    <link>https://github.com/tpope/vim-abolish</link>
+    <description>abolish.vim: Work with several variants of a word at once</description>
   </item>
 </channel>
 </rss>

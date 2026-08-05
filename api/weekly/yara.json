@@ -2,27 +2,17 @@
   "title": "GitHub Yara Languages Daily Trending",
   "description": "Daily Trending of Yara Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
-    {
-      "title": "mthcht / awesome-lists",
-      "url": "https://github.com/mthcht/awesome-lists",
-      "description": "Awesome Security lists for SOC/CERT/CTI",
-      "language": "YARA",
-      "languageColor": "#220000",
-      "stars": 1842,
-      "forks": 224,
-      "added_stars": "25 stars this week"
-    },
     {
       "title": "magicsword-io / LOLDrivers",
       "url": "https://github.com/magicsword-io/LOLDrivers",
       "description": "Living Off The Land Drivers",
       "language": "YARA",
       "languageColor": "#220000",
-      "stars": 1722,
-      "forks": 219,
-      "added_stars": "15 stars this week"
+      "stars": 1725,
+      "forks": 218,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "chainguard-dev / malcontent",
@@ -40,9 +30,9 @@
       "description": "YARA signature and IOC database for my scanners and tools",
       "language": "YARA",
       "languageColor": "#220000",
-      "stars": 2998,
+      "stars": 2999,
       "forks": 673,
-      "added_stars": "2 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
       "title": "Yara-Rules / rules",
@@ -50,9 +40,19 @@
       "description": "Repository of yara rules",
       "language": "YARA",
       "languageColor": "#220000",
-      "stars": 4863,
-      "forks": 1064,
-      "added_stars": "7 stars this week"
+      "stars": 4864,
+      "forks": 1063,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "mthcht / awesome-lists",
+      "url": "https://github.com/mthcht/awesome-lists",
+      "description": "Awesome Security lists for SOC/CERT/CTI",
+      "language": "YARA",
+      "languageColor": "#220000",
+      "stars": 1843,
+      "forks": 225,
+      "added_stars": "19 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "abseil / abseil-cpp",
@@ -10,179 +10,9 @@
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18049,
-      "forks": 3177,
-      "added_stars": "832 stars this month"
-    },
-    {
-      "title": "ggml-org / whisper.cpp",
-      "url": "https://github.com/ggml-org/whisper.cpp",
-      "description": "Port of OpenAI's Whisper model in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 52561,
-      "forks": 6004,
-      "added_stars": "1,501 stars this month"
-    },
-    {
-      "title": "aseprite / aseprite",
-      "url": "https://github.com/aseprite/aseprite",
-      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 38501,
-      "forks": 8552,
-      "added_stars": "766 stars this month"
-    },
-    {
-      "title": "grpc / grpc",
-      "url": "https://github.com/grpc/grpc",
-      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 45251,
-      "forks": 11349,
-      "added_stars": "467 stars this month"
-    },
-    {
-      "title": "vllm-project / vllm-ascend",
-      "url": "https://github.com/vllm-project/vllm-ascend",
-      "description": "Community maintained hardware plugin for vLLM on Ascend",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 2553,
-      "forks": 1955,
-      "added_stars": "311 stars this month"
-    },
-    {
-      "title": "moonshine-ai / moonshine",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10607,
-      "forks": 573,
-      "added_stars": "2,037 stars this month"
-    },
-    {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 196778,
-      "forks": 75834,
-      "added_stars": "1,515 stars this month"
-    },
-    {
-      "title": "google-ai-edge / LiteRT",
-      "url": "https://github.com/google-ai-edge/LiteRT",
-      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3248,
-      "forks": 414,
-      "added_stars": "632 stars this month"
-    },
-    {
-      "title": "catchorg / Catch2",
-      "url": "https://github.com/catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 21412,
-      "forks": 3474,
-      "added_stars": "1,103 stars this month"
-    },
-    {
-      "title": "YimMenu / YimMenuV2",
-      "url": "https://github.com/YimMenu/YimMenuV2",
-      "description": "Experimental menu for GTA 5: Enhanced",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1615,
-      "forks": 379,
-      "added_stars": "336 stars this month"
-    },
-    {
-      "title": "nlohmann / json",
-      "url": "https://github.com/nlohmann/json",
-      "description": "JSON for Modern C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 50279,
-      "forks": 7451,
-      "added_stars": "313 stars this month"
-    },
-    {
-      "title": "ocornut / imgui",
-      "url": "https://github.com/ocornut/imgui",
-      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 75481,
-      "forks": 11982,
-      "added_stars": "1,431 stars this month"
-    },
-    {
-      "title": "godotengine / godot",
-      "url": "https://github.com/godotengine/godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 115086,
-      "forks": 26225,
-      "added_stars": "1,876 stars this month"
-    },
-    {
-      "title": "gabime / spdlog",
-      "url": "https://github.com/gabime/spdlog",
-      "description": "Fast C++ logging library.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 29338,
-      "forks": 5361,
-      "added_stars": "497 stars this month"
-    },
-    {
-      "title": "LibreCAD / LibreCAD",
-      "url": "https://github.com/LibreCAD/LibreCAD",
-      "description": "LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customizable, and has dozens of translations.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6202,
-      "forks": 1412,
-      "added_stars": "244 stars this month"
-    },
-    {
-      "title": "microsoft / terminal",
-      "url": "https://github.com/microsoft/terminal",
-      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 104469,
-      "forks": 9478,
-      "added_stars": "817 stars this month"
-    },
-    {
-      "title": "shadps4-emu / shadPS4",
-      "url": "https://github.com/shadps4-emu/shadPS4",
-      "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 32365,
-      "forks": 2381,
-      "added_stars": "795 stars this month"
-    },
-    {
-      "title": "protocolbuffers / protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 71682,
-      "forks": 16204,
-      "added_stars": "304 stars this month"
+      "stars": 18053,
+      "forks": 3176,
+      "added_stars": "834 stars this month"
     },
     {
       "title": "jrouwe / JoltPhysics",
@@ -190,9 +20,169 @@
       "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11243,
-      "forks": 932,
-      "added_stars": "712 stars this month"
+      "stars": 11256,
+      "forks": 939,
+      "added_stars": "715 stars this month"
+    },
+    {
+      "title": "ggml-org / whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 52584,
+      "forks": 6022,
+      "added_stars": "1,495 stars this month"
+    },
+    {
+      "title": "grpc / grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 45249,
+      "forks": 11350,
+      "added_stars": "470 stars this month"
+    },
+    {
+      "title": "aseprite / aseprite",
+      "url": "https://github.com/aseprite/aseprite",
+      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 38518,
+      "forks": 8571,
+      "added_stars": "763 stars this month"
+    },
+    {
+      "title": "vllm-project / vllm-ascend",
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "description": "Community maintained hardware plugin for vLLM on Ascend",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2560,
+      "forks": 1972,
+      "added_stars": "312 stars this month"
+    },
+    {
+      "title": "moonshine-ai / moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10616,
+      "forks": 577,
+      "added_stars": "2,043 stars this month"
+    },
+    {
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 196805,
+      "forks": 75851,
+      "added_stars": "1,521 stars this month"
+    },
+    {
+      "title": "google-ai-edge / LiteRT",
+      "url": "https://github.com/google-ai-edge/LiteRT",
+      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 3252,
+      "forks": 413,
+      "added_stars": "636 stars this month"
+    },
+    {
+      "title": "catchorg / Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 21416,
+      "forks": 3487,
+      "added_stars": "1,105 stars this month"
+    },
+    {
+      "title": "YimMenu / YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1620,
+      "forks": 379,
+      "added_stars": "338 stars this month"
+    },
+    {
+      "title": "nlohmann / json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 50285,
+      "forks": 7453,
+      "added_stars": "316 stars this month"
+    },
+    {
+      "title": "shadps4-emu / shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4",
+      "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 32376,
+      "forks": 2386,
+      "added_stars": "798 stars this month"
+    },
+    {
+      "title": "godotengine / godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 115148,
+      "forks": 26243,
+      "added_stars": "1,876 stars this month"
+    },
+    {
+      "title": "ocornut / imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 75498,
+      "forks": 11986,
+      "added_stars": "1,432 stars this month"
+    },
+    {
+      "title": "LibreCAD / LibreCAD",
+      "url": "https://github.com/LibreCAD/LibreCAD",
+      "description": "LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customizable, and has dozens of translations.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6205,
+      "forks": 1418,
+      "added_stars": "243 stars this month"
+    },
+    {
+      "title": "nasa / fprime",
+      "url": "https://github.com/nasa/fprime",
+      "description": "F´ - A flight software and embedded systems framework",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 11625,
+      "forks": 1802,
+      "added_stars": "504 stars this month"
+    },
+    {
+      "title": "microsoft / terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 104478,
+      "forks": 9483,
+      "added_stars": "821 stars this month"
     },
     {
       "title": "amnezia-vpn / amnezia-client",
@@ -200,9 +190,19 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14285,
-      "forks": 1059,
-      "added_stars": "1,565 stars this month"
+      "stars": 14307,
+      "forks": 1061,
+      "added_stars": "1,578 stars this month"
+    },
+    {
+      "title": "kvcache-ai / Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6157,
+      "forks": 1051,
+      "added_stars": "419 stars this month"
     },
     {
       "title": "barry-ran / QtScrcpy",
@@ -210,39 +210,39 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 30879,
-      "forks": 3666,
-      "added_stars": "865 stars this month"
+      "stars": 30901,
+      "forks": 3665,
+      "added_stars": "879 stars this month"
     },
     {
-      "title": "chriskohlhoff / asio",
-      "url": "https://github.com/chriskohlhoff/asio",
-      "description": "Asio C++ Library",
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6150,
-      "forks": 1536,
-      "added_stars": "367 stars this month"
+      "stars": 71685,
+      "forks": 16202,
+      "added_stars": "302 stars this month"
     },
     {
-      "title": "wolfpld / tracy",
-      "url": "https://github.com/wolfpld/tracy",
-      "description": "Frame profiler",
+      "title": "geo-tp / ESP32-Bit-Pirate",
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16517,
-      "forks": 1206,
-      "added_stars": "386 stars this month"
+      "stars": 5328,
+      "forks": 429,
+      "added_stars": "1,210 stars this month"
     },
     {
-      "title": "alibaba / zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
+      "title": "ClickHouse / ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 15372,
-      "forks": 972,
-      "added_stars": "2,699 stars this month"
+      "stars": 49061,
+      "forks": 8747,
+      "added_stars": "682 stars this month"
     }
   ]
 }

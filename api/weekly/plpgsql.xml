@@ -4,7 +4,12 @@
   <title>GitHub Plpgsql Languages Daily Trending</title>
   <description>Daily Trending of Plpgsql Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <item>
+    <title>openmaptiles / openmaptiles</title>
+    <link>https://github.com/openmaptiles/openmaptiles</link>
+    <description>OpenMapTiles Vector Tile Schema Implementation</description>
+  </item>
   <item>
     <title>DataDog / storedog</title>
     <link>https://github.com/DataDog/storedog</link>
@@ -34,16 +39,6 @@
     <title>postgis / postgis</title>
     <link>https://github.com/postgis/postgis</link>
     <description>PostGIS spatial database extension to PostgreSQL [mirror]</description>
-  </item>
-  <item>
-    <title>openmaptiles / openmaptiles</title>
-    <link>https://github.com/openmaptiles/openmaptiles</link>
-    <description>OpenMapTiles Vector Tile Schema Implementation</description>
-  </item>
-  <item>
-    <title>sbdchd / squawk</title>
-    <link>https://github.com/sbdchd/squawk</link>
-    <description>🐘 Linter for Postgres migrations &amp; SQL</description>
   </item>
 </channel>
 </rss>

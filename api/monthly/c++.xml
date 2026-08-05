@@ -4,11 +4,16 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>abseil / abseil-cpp</title>
     <link>https://github.com/abseil/abseil-cpp</link>
     <description>Abseil Common Libraries (C++)</description>
+  </item>
+  <item>
+    <title>jrouwe / JoltPhysics</title>
+    <link>https://github.com/jrouwe/JoltPhysics</link>
+    <description>A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.</description>
   </item>
   <item>
     <title>ggml-org / whisper.cpp</title>
@@ -16,14 +21,14 @@
     <description>Port of OpenAI&#x27;s Whisper model in C/C++</description>
   </item>
   <item>
-    <title>aseprite / aseprite</title>
-    <link>https://github.com/aseprite/aseprite</link>
-    <description>Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)</description>
-  </item>
-  <item>
     <title>grpc / grpc</title>
     <link>https://github.com/grpc/grpc</link>
     <description>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</description>
+  </item>
+  <item>
+    <title>aseprite / aseprite</title>
+    <link>https://github.com/aseprite/aseprite</link>
+    <description>Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)</description>
   </item>
   <item>
     <title>vllm-project / vllm-ascend</title>
@@ -61,9 +66,9 @@
     <description>JSON for Modern C++</description>
   </item>
   <item>
-    <title>ocornut / imgui</title>
-    <link>https://github.com/ocornut/imgui</link>
-    <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
+    <title>shadps4-emu / shadPS4</title>
+    <link>https://github.com/shadps4-emu/shadPS4</link>
+    <description>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</description>
   </item>
   <item>
     <title>godotengine / godot</title>
@@ -71,9 +76,9 @@
     <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
   </item>
   <item>
-    <title>gabime / spdlog</title>
-    <link>https://github.com/gabime/spdlog</link>
-    <description>Fast C++ logging library.</description>
+    <title>ocornut / imgui</title>
+    <link>https://github.com/ocornut/imgui</link>
+    <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
   </item>
   <item>
     <title>LibreCAD / LibreCAD</title>
@@ -81,24 +86,14 @@
     <description>LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customizable, and has dozens of translations.</description>
   </item>
   <item>
+    <title>nasa / fprime</title>
+    <link>https://github.com/nasa/fprime</link>
+    <description>F´ - A flight software and embedded systems framework</description>
+  </item>
+  <item>
     <title>microsoft / terminal</title>
     <link>https://github.com/microsoft/terminal</link>
     <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
-  </item>
-  <item>
-    <title>shadps4-emu / shadPS4</title>
-    <link>https://github.com/shadps4-emu/shadPS4</link>
-    <description>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</description>
-  </item>
-  <item>
-    <title>protocolbuffers / protobuf</title>
-    <link>https://github.com/protocolbuffers/protobuf</link>
-    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
-  </item>
-  <item>
-    <title>jrouwe / JoltPhysics</title>
-    <link>https://github.com/jrouwe/JoltPhysics</link>
-    <description>A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.</description>
   </item>
   <item>
     <title>amnezia-vpn / amnezia-client</title>
@@ -106,24 +101,29 @@
     <description>Amnezia VPN Client (Desktop+Mobile)</description>
   </item>
   <item>
+    <title>kvcache-ai / Mooncake</title>
+    <link>https://github.com/kvcache-ai/Mooncake</link>
+    <description>Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.</description>
+  </item>
+  <item>
     <title>barry-ran / QtScrcpy</title>
     <link>https://github.com/barry-ran/QtScrcpy</link>
     <description>Android real-time display control software</description>
   </item>
   <item>
-    <title>chriskohlhoff / asio</title>
-    <link>https://github.com/chriskohlhoff/asio</link>
-    <description>Asio C++ Library</description>
+    <title>protocolbuffers / protobuf</title>
+    <link>https://github.com/protocolbuffers/protobuf</link>
+    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
   </item>
   <item>
-    <title>wolfpld / tracy</title>
-    <link>https://github.com/wolfpld/tracy</link>
-    <description>Frame profiler</description>
+    <title>geo-tp / ESP32-Bit-Pirate</title>
+    <link>https://github.com/geo-tp/ESP32-Bit-Pirate</link>
+    <description>A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol</description>
   </item>
   <item>
-    <title>alibaba / zvec</title>
-    <link>https://github.com/alibaba/zvec</link>
-    <description>A lightweight, lightning-fast, in-process vector database</description>
+    <title>ClickHouse / ClickHouse</title>
+    <link>https://github.com/ClickHouse/ClickHouse</link>
+    <description>ClickHouse® is a real-time analytics database management system</description>
   </item>
 </channel>
 </rss>

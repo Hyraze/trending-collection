@@ -4,11 +4,11 @@
   <title>GitHub Mdx Languages Daily Trending</title>
   <description>Daily Trending of Mdx Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
   <item>
-    <title>withastro / docs</title>
-    <link>https://github.com/withastro/docs</link>
-    <description>Astro documentation</description>
+    <title>getsentry / sentry-docs</title>
+    <link>https://github.com/getsentry/sentry-docs</link>
+    <description>Sentry&#x27;s documentation (and tools to build it)</description>
   </item>
   <item>
     <title>twbs / bootstrap</title>
@@ -16,69 +16,24 @@
     <description>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</description>
   </item>
   <item>
+    <title>prisma / web</title>
+    <link>https://github.com/prisma/web</link>
+    <description>📚 Prisma Web Monorepo</description>
+  </item>
+  <item>
+    <title>dair-ai / Prompt-Engineering-Guide</title>
+    <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+    <description>🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.</description>
+  </item>
+  <item>
+    <title>huggingface / agents-course</title>
+    <link>https://github.com/huggingface/agents-course</link>
+    <description>This repository contains the Hugging Face Agents Course.</description>
+  </item>
+  <item>
     <title>enactic / openarm</title>
     <link>https://github.com/enactic/openarm</link>
     <description>A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.</description>
-  </item>
-  <item>
-    <title>lmstudio-ai / docs</title>
-    <link>https://github.com/lmstudio-ai/docs</link>
-    <description>LM Studio App and Developer Docs</description>
-  </item>
-  <item>
-    <title>langchain-ai / docs</title>
-    <link>https://github.com/langchain-ai/docs</link>
-    <description>Unified LangChain documentation.</description>
-  </item>
-  <item>
-    <title>smartcontractkit / documentation</title>
-    <link>https://github.com/smartcontractkit/documentation</link>
-    <description>https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators</description>
-  </item>
-  <item>
-    <title>react / react-native-website</title>
-    <link>https://github.com/react/react-native-website</link>
-    <description>The React Native website and docs</description>
-  </item>
-  <item>
-    <title>DevCaress / guia-entrevistas-de-programacion</title>
-    <link>https://github.com/DevCaress/guia-entrevistas-de-programacion</link>
-    <description></description>
-  </item>
-  <item>
-    <title>mintlify / docs</title>
-    <link>https://github.com/mintlify/docs</link>
-    <description>Official Mintlify documentation</description>
-  </item>
-  <item>
-    <title>microsoft / aspire.dev</title>
-    <link>https://github.com/microsoft/aspire.dev</link>
-    <description>The official website for all things aspire.dev.</description>
-  </item>
-  <item>
-    <title>hunvreus / basecoat</title>
-    <link>https://github.com/hunvreus/basecoat</link>
-    <description>A components library built with Tailwind CSS that works with any web stack.</description>
-  </item>
-  <item>
-    <title>MetaMask / metamask-docs</title>
-    <link>https://github.com/MetaMask/metamask-docs</link>
-    <description>Developer documentation for MetaMask</description>
-  </item>
-  <item>
-    <title>ionic-team / capacitor-docs</title>
-    <link>https://github.com/ionic-team/capacitor-docs</link>
-    <description></description>
-  </item>
-  <item>
-    <title>yangshun / front-end-interview-handbook</title>
-    <link>https://github.com/yangshun/front-end-interview-handbook</link>
-    <description>Front End interview preparation materials for busy engineers (updated for 2026)</description>
-  </item>
-  <item>
-    <title>discord / discord-api-docs</title>
-    <link>https://github.com/discord/discord-api-docs</link>
-    <description>Official Discord Developer Docs</description>
   </item>
   <item>
     <title>cloudflare / cloudflare-docs</title>
@@ -86,14 +41,44 @@
     <description>Cloudflare’s documentation</description>
   </item>
   <item>
-    <title>kufu / smarthr-design-system</title>
-    <link>https://github.com/kufu/smarthr-design-system</link>
+    <title>processing / p5.js-website</title>
+    <link>https://github.com/processing/p5.js-website</link>
+    <description>New p5.js website!</description>
+  </item>
+  <item>
+    <title>netbirdio / docs</title>
+    <link>https://github.com/netbirdio/docs</link>
     <description></description>
   </item>
   <item>
-    <title>tauri-apps / tauri-docs</title>
-    <link>https://github.com/tauri-apps/tauri-docs</link>
-    <description>The source for all Tauri project documentation.</description>
+    <title>withastro / docs</title>
+    <link>https://github.com/withastro/docs</link>
+    <description>Astro documentation</description>
+  </item>
+  <item>
+    <title>hunvreus / basecoat</title>
+    <link>https://github.com/hunvreus/basecoat</link>
+    <description>A components library built with Tailwind CSS that works with any web stack.</description>
+  </item>
+  <item>
+    <title>jellyfin / jellyfin.org</title>
+    <link>https://github.com/jellyfin/jellyfin.org</link>
+    <description>Jellyfin Project website, blog, and user documentation</description>
+  </item>
+  <item>
+    <title>newrelic / docs-website</title>
+    <link>https://github.com/newrelic/docs-website</link>
+    <description>Source code for @newrelic docs. We welcome pull requests and questions on our docs!</description>
+  </item>
+  <item>
+    <title>ngrok / ngrok-docs</title>
+    <link>https://github.com/ngrok/ngrok-docs</link>
+    <description>ngrok&#x27;s official documentation</description>
+  </item>
+  <item>
+    <title>wandb / docs</title>
+    <link>https://github.com/wandb/docs</link>
+    <description>The product documentation for Weights &amp; Biases, published at https://docs.wandb.ai</description>
   </item>
   <item>
     <title>JSONbored / awesome-claude</title>
@@ -101,9 +86,24 @@
     <description>HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP package.</description>
   </item>
   <item>
-    <title>freeCodeCamp / contribute</title>
-    <link>https://github.com/freeCodeCamp/contribute</link>
-    <description>Begin your contribution journey here.</description>
+    <title>react / react-native-website</title>
+    <link>https://github.com/react/react-native-website</link>
+    <description>The React Native website and docs</description>
+  </item>
+  <item>
+    <title>wix / react-native-navigation</title>
+    <link>https://github.com/wix/react-native-navigation</link>
+    <description>A complete native navigation solution for React Native</description>
+  </item>
+  <item>
+    <title>gpxstudio / gpx.studio</title>
+    <link>https://github.com/gpxstudio/gpx.studio</link>
+    <description>the online GPX file editor</description>
+  </item>
+  <item>
+    <title>mintlify / docs</title>
+    <link>https://github.com/mintlify/docs</link>
+    <description>Official Mintlify documentation</description>
   </item>
 </channel>
 </rss>

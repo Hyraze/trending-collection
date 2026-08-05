@@ -4,17 +4,7 @@
   <title>GitHub Systemverilog Languages Daily Trending</title>
   <description>Daily Trending of Systemverilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
-  <item>
-    <title>verilator / verilator</title>
-    <link>https://github.com/verilator/verilator</link>
-    <description>Verilator open-source SystemVerilog simulator and lint system</description>
-  </item>
-  <item>
-    <title>openhwgroup / cvw</title>
-    <link>https://github.com/openhwgroup/cvw</link>
-    <description>CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.</description>
-  </item>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
   <item>
     <title>lowRISC / opentitan</title>
     <link>https://github.com/lowRISC/opentitan</link>
@@ -26,19 +16,29 @@
     <description>Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)</description>
   </item>
   <item>
+    <title>adam-maj / tiny-gpu</title>
+    <link>https://github.com/adam-maj/tiny-gpu</link>
+    <description>A minimal GPU design in Verilog to learn how GPUs work from the ground up</description>
+  </item>
+  <item>
+    <title>verilator / verilator</title>
+    <link>https://github.com/verilator/verilator</link>
+    <description>Verilator open-source SystemVerilog simulator and lint system</description>
+  </item>
+  <item>
     <title>pulp-platform / axi</title>
     <link>https://github.com/pulp-platform/axi</link>
     <description>AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</description>
   </item>
   <item>
+    <title>lowRISC / ethernet</title>
+    <link>https://github.com/lowRISC/ethernet</link>
+    <description>Open-source memory-mapped Ethernet MAC for FPGA with RGMII interface</description>
+  </item>
+  <item>
     <title>chipsalliance / caliptra-ss</title>
     <link>https://github.com/chipsalliance/caliptra-ss</link>
     <description>HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.</description>
-  </item>
-  <item>
-    <title>chipsalliance / i3c-core</title>
-    <link>https://github.com/chipsalliance/i3c-core</link>
-    <description></description>
   </item>
 </channel>
 </rss>

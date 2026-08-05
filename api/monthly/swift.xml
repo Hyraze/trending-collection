@@ -4,7 +4,7 @@
   <title>GitHub Swift Languages Daily Trending</title>
   <description>Daily Trending of Swift Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>permissionlesstech / bitchat</title>
     <link>https://github.com/permissionlesstech/bitchat</link>
@@ -31,6 +31,11 @@
     <description>Dynamic Island for macOS</description>
   </item>
   <item>
+    <title>jaywcjlove / awesome-mac</title>
+    <link>https://github.com/jaywcjlove/awesome-mac</link>
+    <description> This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.</description>
+  </item>
+  <item>
     <title>duongductrong / Snapzy</title>
     <link>https://github.com/duongductrong/Snapzy</link>
     <description>An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.</description>
@@ -39,11 +44,6 @@
     <title>Starmel / OpenSuperWhisper</title>
     <link>https://github.com/Starmel/OpenSuperWhisper</link>
     <description>macOS dictation app</description>
-  </item>
-  <item>
-    <title>jaywcjlove / awesome-mac</title>
-    <link>https://github.com/jaywcjlove/awesome-mac</link>
-    <description> This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.</description>
   </item>
   <item>
     <title>Beingpax / VoiceInk</title>
@@ -56,9 +56,9 @@
     <description>Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.</description>
   </item>
   <item>
-    <title>FluidInference / FluidAudio</title>
-    <link>https://github.com/FluidInference/FluidAudio</link>
-    <description>Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.</description>
+    <title>tranvuongquocdat / SideScreen</title>
+    <link>https://github.com/tranvuongquocdat/SideScreen</link>
+    <description></description>
   </item>
   <item>
     <title>TelegramMessenger / Telegram-iOS</title>
@@ -66,19 +66,9 @@
     <description>Telegram-iOS</description>
   </item>
   <item>
-    <title>tranvuongquocdat / SideScreen</title>
-    <link>https://github.com/tranvuongquocdat/SideScreen</link>
-    <description></description>
-  </item>
-  <item>
     <title>kitlangton / Hex</title>
     <link>https://github.com/kitlangton/Hex</link>
     <description>VOICE → WORDS</description>
-  </item>
-  <item>
-    <title>exelban / stats</title>
-    <link>https://github.com/exelban/stats</link>
-    <description>macOS system monitor in your menu bar</description>
   </item>
   <item>
     <title>openai / tart</title>
@@ -86,9 +76,9 @@
     <description>macOS and Linux VMs on Apple Silicon to use in CI and other automations</description>
   </item>
   <item>
-    <title>jordanbaird / Ice</title>
-    <link>https://github.com/jordanbaird/Ice</link>
-    <description>Powerful menu bar manager for macOS</description>
+    <title>exelban / stats</title>
+    <link>https://github.com/exelban/stats</link>
+    <description>macOS system monitor in your menu bar</description>
   </item>
   <item>
     <title>sozercan / kaset</title>
@@ -101,19 +91,29 @@
     <description>In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</description>
   </item>
   <item>
+    <title>FluidInference / FluidAudio</title>
+    <link>https://github.com/FluidInference/FluidAudio</link>
+    <description>Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.</description>
+  </item>
+  <item>
     <title>ninxsoft / Mist</title>
     <link>https://github.com/ninxsoft/Mist</link>
     <description>A Mac utility that automatically downloads macOS Firmwares / Installers.</description>
   </item>
   <item>
-    <title>rxhanson / Rectangle</title>
-    <link>https://github.com/rxhanson/Rectangle</link>
-    <description>Move and resize windows on macOS with keyboard shortcuts and snap areas</description>
+    <title>minh-ton / reynard-browser</title>
+    <link>https://github.com/minh-ton/reynard-browser</link>
+    <description>An experimental Gecko-based web browser for iOS 13+.</description>
   </item>
   <item>
-    <title>Aidoku / Aidoku</title>
-    <link>https://github.com/Aidoku/Aidoku</link>
-    <description>Free and open source manga reader for iOS and iPadOS</description>
+    <title>jordanbaird / Ice</title>
+    <link>https://github.com/jordanbaird/Ice</link>
+    <description>Powerful menu bar manager for macOS</description>
+  </item>
+  <item>
+    <title>Alamofire / Alamofire</title>
+    <link>https://github.com/Alamofire/Alamofire</link>
+    <description>Elegant HTTP Networking in Swift</description>
   </item>
 </channel>
 </rss>

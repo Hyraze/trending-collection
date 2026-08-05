@@ -4,26 +4,26 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
-  <item>
-    <title>Zackriya-Solutions / meetily</title>
-    <link>https://github.com/Zackriya-Solutions/meetily</link>
-    <description>Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes</description>
-  </item>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>1jehuang / jcode</title>
     <link>https://github.com/1jehuang/jcode</link>
     <description>The most RAM efficient harness</description>
   </item>
   <item>
-    <title>TencentCloud / CubeSandbox</title>
-    <link>https://github.com/TencentCloud/CubeSandbox</link>
-    <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
+    <title>Zackriya-Solutions / meetily</title>
+    <link>https://github.com/Zackriya-Solutions/meetily</link>
+    <description>Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes</description>
   </item>
   <item>
     <title>openai / codex</title>
     <link>https://github.com/openai/codex</link>
     <description>Lightweight coding agent that runs in your terminal</description>
+  </item>
+  <item>
+    <title>TencentCloud / CubeSandbox</title>
+    <link>https://github.com/TencentCloud/CubeSandbox</link>
+    <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
   </item>
   <item>
     <title>Pumpkin-MC / Pumpkin</title>
@@ -41,19 +41,14 @@
     <description>20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</description>
   </item>
   <item>
-    <title>dani-garcia / vaultwarden</title>
-    <link>https://github.com/dani-garcia/vaultwarden</link>
-    <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
-  </item>
-  <item>
     <title>wealthfolio / wealthfolio</title>
     <link>https://github.com/wealthfolio/wealthfolio</link>
     <description>A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.</description>
   </item>
   <item>
-    <title>apache / datafusion</title>
-    <link>https://github.com/apache/datafusion</link>
-    <description>Apache DataFusion SQL Query Engine</description>
+    <title>dani-garcia / vaultwarden</title>
+    <link>https://github.com/dani-garcia/vaultwarden</link>
+    <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
   </item>
   <item>
     <title>DioxusLabs / dioxus</title>
@@ -64,6 +59,11 @@
     <title>rustdesk / rustdesk</title>
     <link>https://github.com/rustdesk/rustdesk</link>
     <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+  </item>
+  <item>
+    <title>apache / datafusion</title>
+    <link>https://github.com/apache/datafusion</link>
+    <description>Apache DataFusion SQL Query Engine</description>
   </item>
   <item>
     <title>andrewrabert / jellium-desktop</title>
@@ -96,9 +96,9 @@
     <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
   </item>
   <item>
-    <title>biomejs / biome</title>
-    <link>https://github.com/biomejs/biome</link>
-    <description>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</description>
+    <title>denoland / deno</title>
+    <link>https://github.com/denoland/deno</link>
+    <description>A modern runtime for JavaScript and TypeScript.</description>
   </item>
   <item>
     <title>atuinsh / atuin</title>
@@ -106,14 +106,9 @@
     <description>✨ Making your shell magical</description>
   </item>
   <item>
-    <title>denoland / deno</title>
-    <link>https://github.com/denoland/deno</link>
-    <description>A modern runtime for JavaScript and TypeScript.</description>
-  </item>
-  <item>
-    <title>oxc-project / oxc</title>
-    <link>https://github.com/oxc-project/oxc</link>
-    <description>⚓ A collection of high-performance JavaScript tools.</description>
+    <title>biomejs / biome</title>
+    <link>https://github.com/biomejs/biome</link>
+    <description>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</description>
   </item>
 </channel>
 </rss>

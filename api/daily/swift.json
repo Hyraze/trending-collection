@@ -2,47 +2,87 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
+    {
+      "title": "apple / container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 48634,
+      "forks": 1670,
+      "added_stars": "34 stars today"
+    },
     {
       "title": "Lakr233 / vphone-cli",
       "url": "https://github.com/Lakr233/vphone-cli",
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7486,
-      "forks": 1096,
-      "added_stars": "52 stars today"
+      "stars": 7538,
+      "forks": 1099,
+      "added_stars": "30 stars today"
     },
     {
-      "title": "iina / iina",
-      "url": "https://github.com/iina/iina",
-      "description": "The modern video player for macOS.",
+      "title": "realm / SwiftLint",
+      "url": "https://github.com/realm/SwiftLint",
+      "description": "A tool to enforce Swift style and conventions.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 45801,
-      "forks": 2882,
-      "added_stars": "13 stars today"
+      "stars": 19682,
+      "forks": 2318,
+      "added_stars": "1 star today"
     },
     {
-      "title": "utmapp / UTM",
-      "url": "https://github.com/utmapp/UTM",
-      "description": "Virtual machines for iOS and macOS",
+      "title": "osaurus-ai / osaurus",
+      "url": "https://github.com/osaurus-ai/osaurus",
+      "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 34878,
-      "forks": 1775,
-      "added_stars": "13 stars today"
+      "stars": 7523,
+      "forks": 428,
+      "added_stars": "32 stars today"
     },
     {
-      "title": "nikitabobko / AeroSpace",
-      "url": "https://github.com/nikitabobko/AeroSpace",
-      "description": "AeroSpace is an i3-like tiling window manager for macOS",
+      "title": "pointfreeco / swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 22135,
-      "forks": 611,
-      "added_stars": "34 stars today"
+      "stars": 14854,
+      "forks": 1675,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "apple / swift-nio",
+      "url": "https://github.com/apple/swift-nio",
+      "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 8499,
+      "forks": 778,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "swiftlang / swift-syntax",
+      "url": "https://github.com/swiftlang/swift-syntax",
+      "description": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 3687,
+      "forks": 536,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "manaflow-ai / cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 25603,
+      "forks": 2146,
+      "added_stars": "59 stars today"
     },
     {
       "title": "lwouis / alt-tab-macos",
@@ -50,139 +90,89 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 16125,
-      "forks": 811,
-      "added_stars": "8 stars today"
+      "stars": 16129,
+      "forks": 816,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "darrylmorley / whatcable",
-      "url": "https://github.com/darrylmorley/whatcable",
-      "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+      "title": "momenbasel / PureMac",
+      "url": "https://github.com/momenbasel/PureMac",
+      "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8077,
-      "forks": 241,
-      "added_stars": "21 stars today"
+      "stars": 5588,
+      "forks": 311,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "groue / GRDB.swift",
-      "url": "https://github.com/groue/GRDB.swift",
-      "description": "A toolkit for SQLite databases, with a focus on application development",
+      "title": "vapor / vapor",
+      "url": "https://github.com/vapor/vapor",
+      "description": "💧 A server-side Swift HTTP web framework.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8583,
-      "forks": 1007,
-      "added_stars": "3 stars today"
+      "stars": 26177,
+      "forks": 1519,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "rooootdev / lara",
-      "url": "https://github.com/rooootdev/lara",
-      "description": "iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.",
+      "title": "onevcat / Kingfisher",
+      "url": "https://github.com/onevcat/Kingfisher",
+      "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1382,
-      "forks": 182,
-      "added_stars": "5 stars today"
+      "stars": 24387,
+      "forks": 2764,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "dwarvesf / hidden",
-      "url": "https://github.com/dwarvesf/hidden",
-      "description": "An ultra-light MacOS utility that helps hide menu bar icons",
+      "title": "sozercan / kaset",
+      "url": "https://github.com/sozercan/kaset",
+      "description": "📼 The missing YouTube and YouTube Music macOS app",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14516,
-      "forks": 447,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "zachlatta / freeflow",
-      "url": "https://github.com/zachlatta/freeflow",
-      "description": "Free & fast alternative to Wispr Flow",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 2349,
-      "forks": 225,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "FluidInference / FluidAudio",
-      "url": "https://github.com/FluidInference/FluidAudio",
-      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 2600,
-      "forks": 365,
+      "stars": 1743,
+      "forks": 123,
       "added_stars": "13 stars today"
     },
     {
-      "title": "tddworks / ClaudeBar",
-      "url": "https://github.com/tddworks/ClaudeBar",
-      "description": "A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.",
+      "title": "airbnb / lottie-ios",
+      "url": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1391,
-      "forks": 125,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "Finb / Bark",
-      "url": "https://github.com/Finb/Bark",
-      "description": "Bark is an iOS App which allows you to push custom notifications to your iPhone",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 8849,
-      "forks": 677,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "pluk-inc / markdown-preview",
-      "url": "https://github.com/pluk-inc/markdown-preview",
-      "description": "A simple Markdown viewer for reading .md files",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1753,
-      "forks": 72,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "modelcontextprotocol / swift-sdk",
-      "url": "https://github.com/modelcontextprotocol/swift-sdk",
-      "description": "The official Swift SDK for Model Context Protocol servers and clients.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1456,
-      "forks": 212,
+      "stars": 26808,
+      "forks": 3829,
       "added_stars": "0 stars today"
     },
     {
-      "title": "Ranchero-Software / NetNewsWire",
-      "url": "https://github.com/Ranchero-Software/NetNewsWire",
-      "description": "RSS reader for macOS and iOS.",
+      "title": "home-assistant / iOS",
+      "url": "https://github.com/home-assistant/iOS",
+      "description": "📱 Home Assistant for Apple platforms",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 10256,
-      "forks": 730,
-      "added_stars": "6 stars today"
+      "stars": 2284,
+      "forks": 491,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "Aidoku / Aidoku",
-      "url": "https://github.com/Aidoku/Aidoku",
-      "description": "Free and open source manga reader for iOS and iPadOS",
+      "title": "utmapp / UTM",
+      "url": "https://github.com/utmapp/UTM",
+      "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4417,
-      "forks": 272,
-      "added_stars": "5 stars today"
+      "stars": 34880,
+      "forks": 1771,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "steipete / CodexBar",
-      "url": "https://github.com/steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "title": "ChartsOrg / Charts",
+      "url": "https://github.com/ChartsOrg/Charts",
+      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 19594,
-      "forks": 1635,
-      "added_stars": "65 stars today"
+      "stars": 28009,
+      "forks": 5991,
+      "added_stars": "1 star today"
     }
   ]
 }

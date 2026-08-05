@@ -2,7 +2,7 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "gradle / gradle",
@@ -10,9 +10,9 @@
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 18753,
-      "forks": 5329,
-      "added_stars": "33 stars this week"
+      "stars": 18754,
+      "forks": 5334,
+      "added_stars": "30 stars this week"
     },
     {
       "title": "nextflow-io / nextflow",
@@ -20,9 +20,29 @@
       "description": "A DSL for data-driven computational pipelines",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 3455,
-      "forks": 800,
+      "stars": 3456,
+      "forks": 799,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "rundeck / rundeck",
+      "url": "https://github.com/rundeck/rundeck",
+      "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 6252,
+      "forks": 983,
       "added_stars": "6 stars this week"
+    },
+    {
+      "title": "ben-manes / gradle-versions-plugin",
+      "url": "https://github.com/ben-manes/gradle-versions-plugin",
+      "description": "Gradle plugin to discover dependency updates",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 4077,
+      "forks": 205,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "gravitee-io / issues",
@@ -35,14 +55,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "rundeck / rundeck",
-      "url": "https://github.com/rundeck/rundeck",
-      "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
+      "title": "apache / grails-core",
+      "url": "https://github.com/apache/grails-core",
+      "description": "Grails - the Web Application Framework",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 6252,
-      "forks": 983,
-      "added_stars": "8 stars this week"
+      "stars": 2924,
+      "forks": 972,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "okta / okta-jwt-verifier-java",
@@ -52,16 +72,6 @@
       "languageColor": "#4298b8",
       "stars": 96,
       "forks": 39,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "apache / grails-core",
-      "url": "https://github.com/apache/grails-core",
-      "description": "Grails - the Web Application Framework",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 2924,
-      "forks": 972,
       "added_stars": "0 stars this week"
     }
   ]

@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
     <title>block / buzz</title>
     <link>https://github.com/block/buzz</link>
@@ -14,6 +14,21 @@
     <title>1jehuang / jcode</title>
     <link>https://github.com/1jehuang/jcode</link>
     <description>The most RAM efficient harness</description>
+  </item>
+  <item>
+    <title>sharkdp / bat</title>
+    <link>https://github.com/sharkdp/bat</link>
+    <description>A cat(1) clone with wings.</description>
+  </item>
+  <item>
+    <title>rustfs / rustfs</title>
+    <link>https://github.com/rustfs/rustfs</link>
+    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
+  </item>
+  <item>
+    <title>agavra / tuicr</title>
+    <link>https://github.com/agavra/tuicr</link>
+    <description>a code review TUI with vim keybindings</description>
   </item>
   <item>
     <title>BurntSushi / ripgrep</title>
@@ -26,34 +41,9 @@
     <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
   </item>
   <item>
-    <title>agavra / tuicr</title>
-    <link>https://github.com/agavra/tuicr</link>
-    <description>a code review TUI with vim keybindings</description>
-  </item>
-  <item>
-    <title>rustfs / rustfs</title>
-    <link>https://github.com/rustfs/rustfs</link>
-    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
-  </item>
-  <item>
-    <title>tokio-rs / topcoat</title>
-    <link>https://github.com/tokio-rs/topcoat</link>
-    <description>A batteries-included framework for building web apps</description>
-  </item>
-  <item>
-    <title>vectordotdev / vector</title>
-    <link>https://github.com/vectordotdev/vector</link>
-    <description>A high-performance observability data pipeline.</description>
-  </item>
-  <item>
-    <title>BoundaryML / baml</title>
-    <link>https://github.com/BoundaryML/baml</link>
-    <description>The programming language for agents</description>
-  </item>
-  <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+    <title>atuinsh / atuin</title>
+    <link>https://github.com/atuinsh/atuin</link>
+    <description>✨ Making your shell magical</description>
   </item>
   <item>
     <title>openai / codex</title>
@@ -61,19 +51,9 @@
     <description>Lightweight coding agent that runs in your terminal</description>
   </item>
   <item>
-    <title>atuinsh / atuin</title>
-    <link>https://github.com/atuinsh/atuin</link>
-    <description>✨ Making your shell magical</description>
-  </item>
-  <item>
     <title>clockworklabs / SpacetimeDB</title>
     <link>https://github.com/clockworklabs/SpacetimeDB</link>
     <description>Development at the speed of light</description>
-  </item>
-  <item>
-    <title>tonhowtf / omniget</title>
-    <link>https://github.com/tonhowtf/omniget</link>
-    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
   </item>
   <item>
     <title>astral-sh / uv</title>
@@ -81,29 +61,44 @@
     <description>An extremely fast Python package and project manager, written in Rust.</description>
   </item>
   <item>
-    <title>ovexro / dockpanel</title>
-    <link>https://github.com/ovexro/dockpanel</link>
-    <description>Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel.</description>
+    <title>tokio-rs / topcoat</title>
+    <link>https://github.com/tokio-rs/topcoat</link>
+    <description>A batteries-included framework for building web apps</description>
   </item>
   <item>
-    <title>max-sixty / worktrunk</title>
-    <link>https://github.com/max-sixty/worktrunk</link>
-    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+    <title>rustdesk / rustdesk</title>
+    <link>https://github.com/rustdesk/rustdesk</link>
+    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
   </item>
   <item>
-    <title>ai-dynamo / dynamo</title>
-    <link>https://github.com/ai-dynamo/dynamo</link>
-    <description>A Datacenter Scale Distributed Inference Serving Framework</description>
+    <title>foundry-rs / foundry</title>
+    <link>https://github.com/foundry-rs/foundry</link>
+    <description>Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</description>
+  </item>
+  <item>
+    <title>stalwartlabs / stalwart</title>
+    <link>https://github.com/stalwartlabs/stalwart</link>
+    <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
+  </item>
+  <item>
+    <title>BoundaryML / baml</title>
+    <link>https://github.com/BoundaryML/baml</link>
+    <description>The programming language for agents</description>
+  </item>
+  <item>
+    <title>vectordotdev / vector</title>
+    <link>https://github.com/vectordotdev/vector</link>
+    <description>A high-performance observability data pipeline.</description>
+  </item>
+  <item>
+    <title>zed-industries / zed</title>
+    <link>https://github.com/zed-industries/zed</link>
+    <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
   </item>
   <item>
     <title>modelcontextprotocol / rust-sdk</title>
     <link>https://github.com/modelcontextprotocol/rust-sdk</link>
     <description>The official Rust SDK for the Model Context Protocol</description>
-  </item>
-  <item>
-    <title>cjpais / Handy</title>
-    <link>https://github.com/cjpais/Handy</link>
-    <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
   </item>
 </channel>
 </rss>

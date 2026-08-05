@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -36,11 +36,6 @@
     <description>Manage your macOS using Nix</description>
   </item>
   <item>
-    <title>NixOS / nix.dev</title>
-    <link>https://github.com/NixOS/nix.dev</link>
-    <description>Official documentation for getting things done with Nix.</description>
-  </item>
-  <item>
     <title>microvm-nix / microvm.nix</title>
     <link>https://github.com/microvm-nix/microvm.nix</link>
     <description>NixOS MicroVMs</description>
@@ -51,14 +46,19 @@
     <description>Manage system config using nix on any distro</description>
   </item>
   <item>
-    <title>Mic92 / sops-nix</title>
-    <link>https://github.com/Mic92/sops-nix</link>
-    <description>Atomic secret provisioning for NixOS based on sops</description>
+    <title>NixOS / nix.dev</title>
+    <link>https://github.com/NixOS/nix.dev</link>
+    <description>Official documentation for getting things done with Nix.</description>
   </item>
   <item>
-    <title>nix-community / disko</title>
-    <link>https://github.com/nix-community/disko</link>
-    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
+    <title>NotAShelf / nvf</title>
+    <link>https://github.com/NotAShelf/nvf</link>
+    <description>Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS</description>
+  </item>
+  <item>
+    <title>sodiboo / niri-flake</title>
+    <link>https://github.com/sodiboo/niri-flake</link>
+    <description>Nix-native configuration for niri</description>
   </item>
 </channel>
 </rss>

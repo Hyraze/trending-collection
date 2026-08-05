@@ -2,17 +2,27 @@
   "title": "GitHub Batchfile Languages Daily Trending",
   "description": "Daily Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
+    {
+      "title": "tytsxai / IDM-Activation-Script-Chinese",
+      "url": "https://github.com/tytsxai/IDM-Activation-Script-Chinese",
+      "description": "IDM 激活脚本中文版 · GPL-3.0 开源 Windows 批处理工具：支持试用期冻结、普通激活、一键重置与环境自检，GBK 中文菜单无乱码 | Chinese edition of IDM Activation Script — GBK-encoded batch toolkit for Internet Download Manager on Windows 7/8/10/11, no binary patching, automatic registry backup",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 1491,
+      "forks": 109,
+      "added_stars": "363 stars this week"
+    },
     {
       "title": "Flowseal / zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 31707,
-      "forks": 2445,
-      "added_stars": "258 stars this week"
+      "stars": 31738,
+      "forks": 2447,
+      "added_stars": "248 stars this week"
     },
     {
       "title": "ionuttbara / windows-defender-remover",
@@ -20,9 +30,19 @@
       "description": "A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 8142,
-      "forks": 518,
-      "added_stars": "47 stars this week"
+      "stars": 8140,
+      "forks": 519,
+      "added_stars": "42 stars this week"
+    },
+    {
+      "title": "AveYo / MediaCreationTool.bat",
+      "url": "https://github.com/AveYo/MediaCreationTool.bat",
+      "description": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 10269,
+      "forks": 3138,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "MyOnee / R",
@@ -35,14 +55,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Alex313031 / Thorium-Win",
-      "url": "https://github.com/Alex313031/Thorium-Win",
-      "description": "Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium",
+      "title": "patterniha / MITM-DomainFronting",
+      "url": "https://github.com/patterniha/MITM-DomainFronting",
+      "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 2498,
-      "forks": 53,
-      "added_stars": "11 stars this week"
+      "stars": 2755,
+      "forks": 216,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "RockBlack-VPN / ip-address",
@@ -50,19 +70,9 @@
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 2171,
+      "stars": 2173,
       "forks": 185,
       "added_stars": "8 stars this week"
-    },
-    {
-      "title": "AveYo / MediaCreationTool.bat",
-      "url": "https://github.com/AveYo/MediaCreationTool.bat",
-      "description": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
-      "language": "Batchfile",
-      "languageColor": "#C1F12E",
-      "stars": 10269,
-      "forks": 3138,
-      "added_stars": "11 stars this week"
     }
   ]
 }

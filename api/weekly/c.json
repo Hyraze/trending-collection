@@ -2,37 +2,17 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
-      "title": "obsproject / obs-studio",
-      "url": "https://github.com/obsproject/obs-studio",
-      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "title": "antirez / ds4",
+      "url": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 74494,
-      "forks": 9548,
-      "added_stars": "333 stars this week"
-    },
-    {
-      "title": "openwrt / openwrt",
-      "url": "https://github.com/openwrt/openwrt",
-      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27856,
-      "forks": 12714,
-      "added_stars": "199 stars this week"
-    },
-    {
-      "title": "libretro / RetroArch",
-      "url": "https://github.com/libretro/RetroArch",
-      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13457,
-      "forks": 2171,
-      "added_stars": "51 stars this week"
+      "stars": 20584,
+      "forks": 1826,
+      "added_stars": "1,213 stars this week"
     },
     {
       "title": "microsoft / PowerToys",
@@ -40,19 +20,59 @@
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 137442,
-      "forks": 8434,
-      "added_stars": "692 stars this week"
+      "stars": 137467,
+      "forks": 8447,
+      "added_stars": "698 stars this week"
     },
     {
-      "title": "antirez / ds4",
-      "url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "title": "obsproject / obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 20425,
-      "forks": 1805,
-      "added_stars": "985 stars this week"
+      "stars": 74554,
+      "forks": 9575,
+      "added_stars": "370 stars this week"
+    },
+    {
+      "title": "DarkFlippers / unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 21997,
+      "forks": 1924,
+      "added_stars": "84 stars this week"
+    },
+    {
+      "title": "pgvector / pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 22483,
+      "forks": 1273,
+      "added_stars": "116 stars this week"
+    },
+    {
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 495,
+      "forks": 142,
+      "added_stars": "69 stars this week"
+    },
+    {
+      "title": "xiaojieonly / Ehviewer_CN_SXJ",
+      "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+      "description": "ehviewer，用爱发电，快乐前行",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 25874,
+      "forks": 684,
+      "added_stars": "224 stars this week"
     },
     {
       "title": "madler / zlib",
@@ -60,9 +80,29 @@
       "description": "A massively spiffy yet delicately unobtrusive compression library.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6996,
+      "stars": 6997,
       "forks": 2825,
-      "added_stars": "18 stars this week"
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "merbanan / rtl_433",
+      "url": "https://github.com/merbanan/rtl_433",
+      "description": "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7642,
+      "forks": 1561,
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "tursodatabase / libsql",
+      "url": "https://github.com/tursodatabase/libsql",
+      "description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17091,
+      "forks": 521,
+      "added_stars": "90 stars this week"
     },
     {
       "title": "xemu-project / xemu",
@@ -71,8 +111,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 4022,
-      "forks": 489,
-      "added_stars": "26 stars this week"
+      "forks": 488,
+      "added_stars": "20 stars this week"
     },
     {
       "title": "karpathy / llama2.c",
@@ -80,9 +120,9 @@
       "description": "Inference Llama 2 in one file of pure C",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 19916,
-      "forks": 2594,
-      "added_stars": "101 stars this week"
+      "stars": 19921,
+      "forks": 2596,
+      "added_stars": "97 stars this week"
     },
     {
       "title": "redcanaryco / atomic-red-team",
@@ -90,29 +130,29 @@
       "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12351,
-      "forks": 3185,
-      "added_stars": "79 stars this week"
+      "stars": 12350,
+      "forks": 3184,
+      "added_stars": "78 stars this week"
     },
     {
-      "title": "trezor / trezor-firmware",
-      "url": "https://github.com/trezor/trezor-firmware",
-      "description": "🔒 Trezor Firmware Monorepo",
+      "title": "openwrt / openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1790,
-      "forks": 785,
-      "added_stars": "9 stars this week"
+      "stars": 27865,
+      "forks": 12720,
+      "added_stars": "165 stars this week"
     },
     {
-      "title": "sumatrapdfreader / sumatrapdf",
-      "url": "https://github.com/sumatrapdfreader/sumatrapdf",
-      "description": "SumatraPDF reader",
+      "title": "openssl / openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17244,
-      "forks": 2007,
-      "added_stars": "63 stars this week"
+      "stars": 30562,
+      "forks": 11385,
+      "added_stars": "45 stars this week"
     },
     {
       "title": "brunodev85 / winlator",
@@ -120,49 +160,9 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 18467,
-      "forks": 1585,
+      "stars": 18472,
+      "forks": 1590,
       "added_stars": "102 stars this week"
-    },
-    {
-      "title": "lcdyk0517 / arkos4clone",
-      "url": "https://github.com/lcdyk0517/arkos4clone",
-      "description": "ArkOS for Unofficial Devices",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 609,
-      "forks": 323,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "pgvector / pgvector",
-      "url": "https://github.com/pgvector/pgvector",
-      "description": "Open-source vector similarity search for Postgres",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 22468,
-      "forks": 1269,
-      "added_stars": "108 stars this week"
-    },
-    {
-      "title": "DarkFlippers / unleashed-firmware",
-      "url": "https://github.com/DarkFlippers/unleashed-firmware",
-      "description": "Flipper Zero Unleashed Firmware",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 21987,
-      "forks": 1925,
-      "added_stars": "83 stars this week"
-    },
-    {
-      "title": "termux / termux-x11",
-      "url": "https://github.com/termux/termux-x11",
-      "description": "Termux X-server add-on.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4491,
-      "forks": 627,
-      "added_stars": "42 stars this week"
     },
     {
       "title": "betaflight / betaflight",
@@ -170,29 +170,19 @@
       "description": "Open Source Flight Controller Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11306,
-      "forks": 3934,
-      "added_stars": "46 stars this week"
+      "stars": 11312,
+      "forks": 3942,
+      "added_stars": "48 stars this week"
     },
     {
-      "title": "yugabyte / yugabyte-db",
-      "url": "https://github.com/yugabyte/yugabyte-db",
-      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+      "title": "fwupd / fwupd",
+      "url": "https://github.com/fwupd/fwupd",
+      "description": "A system daemon to allow session software to update firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10446,
-      "forks": 1297,
-      "added_stars": "21 stars this week"
-    },
-    {
-      "title": "kingToolbox / WindTerm",
-      "url": "https://github.com/kingToolbox/WindTerm",
-      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 31845,
-      "forks": 2429,
-      "added_stars": "108 stars this week"
+      "stars": 4106,
+      "forks": 620,
+      "added_stars": "9 stars this week"
     }
   ]
 }

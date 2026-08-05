@@ -4,7 +4,7 @@
   <title>GitHub Ruby Languages Daily Trending</title>
   <description>Daily Trending of Ruby Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>rails / rails</title>
     <link>https://github.com/rails/rails</link>
@@ -14,11 +14,6 @@
     <title>gitlabhq / gitlabhq</title>
     <link>https://github.com/gitlabhq/gitlabhq</link>
     <description>GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com</description>
-  </item>
-  <item>
-    <title>Freika / dawarich</title>
-    <link>https://github.com/Freika/dawarich</link>
-    <description>Your favorite self-hostable alternative to Google Timeline (Google Location History)</description>
   </item>
   <item>
     <title>discourse / discourse</title>
@@ -31,6 +26,11 @@
     <description>Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</description>
   </item>
   <item>
+    <title>Freika / dawarich</title>
+    <link>https://github.com/Freika/dawarich</link>
+    <description>Your favorite self-hostable alternative to Google Timeline (Google Location History)</description>
+  </item>
+  <item>
     <title>ruby / ruby</title>
     <link>https://github.com/ruby/ruby</link>
     <description>The Ruby Programming Language</description>
@@ -41,29 +41,14 @@
     <description>Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</description>
   </item>
   <item>
-    <title>Homebrew / homebrew-cask</title>
-    <link>https://github.com/Homebrew/homebrew-cask</link>
-    <description>🍻 A CLI workflow for the administration of macOS applications distributed as binaries</description>
-  </item>
-  <item>
-    <title>dependabot / dependabot-core</title>
-    <link>https://github.com/dependabot/dependabot-core</link>
-    <description>🤖 Dependabot&#x27;s core logic for creating update PRs.</description>
-  </item>
-  <item>
-    <title>Homebrew / brew</title>
-    <link>https://github.com/Homebrew/brew</link>
-    <description>🍺 The Package Manager for Everywhere</description>
-  </item>
-  <item>
     <title>rapid7 / metasploit-framework</title>
     <link>https://github.com/rapid7/metasploit-framework</link>
     <description>Metasploit Framework</description>
   </item>
   <item>
-    <title>we-promise / sure</title>
-    <link>https://github.com/we-promise/sure</link>
-    <description>The personal finance app for everyone (by everyone)</description>
+    <title>Homebrew / homebrew-cask</title>
+    <link>https://github.com/Homebrew/homebrew-cask</link>
+    <description>🍻 A CLI workflow for the administration of macOS applications distributed as binaries</description>
   </item>
   <item>
     <title>opf / openproject</title>
@@ -71,9 +56,34 @@
     <description>OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub</description>
   </item>
   <item>
+    <title>we-promise / sure</title>
+    <link>https://github.com/we-promise/sure</link>
+    <description>The personal finance app for everyone (by everyone)</description>
+  </item>
+  <item>
+    <title>jekyll / jekyll</title>
+    <link>https://github.com/jekyll/jekyll</link>
+    <description>🌐 Jekyll is a blog-aware static site generator in Ruby</description>
+  </item>
+  <item>
     <title>antiwork / gumroad</title>
     <link>https://github.com/antiwork/gumroad</link>
     <description>See what sticks</description>
+  </item>
+  <item>
+    <title>dependabot / dependabot-core</title>
+    <link>https://github.com/dependabot/dependabot-core</link>
+    <description>🤖 Dependabot&#x27;s core logic for creating update PRs.</description>
+  </item>
+  <item>
+    <title>zammad / zammad</title>
+    <link>https://github.com/zammad/zammad</link>
+    <description>Zammad is a web based open source helpdesk/customer support system.</description>
+  </item>
+  <item>
+    <title>Homebrew / brew</title>
+    <link>https://github.com/Homebrew/brew</link>
+    <description>🍺 The Package Manager for Everywhere</description>
   </item>
   <item>
     <title>github-linguist / linguist</title>
@@ -86,9 +96,14 @@
     <description>Create agents that monitor and act on your behalf. Your agents are standing by!</description>
   </item>
   <item>
-    <title>jekyll / jekyll</title>
-    <link>https://github.com/jekyll/jekyll</link>
-    <description>🌐 Jekyll is a blog-aware static site generator in Ruby</description>
+    <title>midudev / autoskills</title>
+    <link>https://github.com/midudev/autoskills</link>
+    <description>One command. Your entire AI skill stack. Installed.</description>
+  </item>
+  <item>
+    <title>freeCodeCamp / devdocs</title>
+    <link>https://github.com/freeCodeCamp/devdocs</link>
+    <description>API Documentation Browser</description>
   </item>
   <item>
     <title>ruby / rubygems</title>
@@ -96,19 +111,9 @@
     <description>Library packaging and distribution for Ruby.</description>
   </item>
   <item>
-    <title>midudev / autoskills</title>
-    <link>https://github.com/midudev/autoskills</link>
-    <description>One command. Your entire AI skill stack. Installed.</description>
-  </item>
-  <item>
-    <title>github / explore</title>
-    <link>https://github.com/github/explore</link>
-    <description>Community-curated topic and collection pages on GitHub</description>
-  </item>
-  <item>
-    <title>fastlane / fastlane</title>
-    <link>https://github.com/fastlane/fastlane</link>
-    <description>🚀 The easiest way to automate building and releasing your iOS and Android apps</description>
+    <title>basecamp / once-campfire</title>
+    <link>https://github.com/basecamp/once-campfire</link>
+    <description>Super simple group chat, without a subscription</description>
   </item>
   <item>
     <title>spree / spree</title>
@@ -116,14 +121,9 @@
     <description>Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.</description>
   </item>
   <item>
-    <title>basecamp / kamal</title>
-    <link>https://github.com/basecamp/kamal</link>
-    <description>Deploy web apps anywhere.</description>
-  </item>
-  <item>
-    <title>Homebrew / homebrew-core</title>
-    <link>https://github.com/Homebrew/homebrew-core</link>
-    <description>🍻 Default formulae for the missing package manager for macOS (or Linux)</description>
+    <title>github / explore</title>
+    <link>https://github.com/github/explore</link>
+    <description>Community-curated topic and collection pages on GitHub</description>
   </item>
 </channel>
 </rss>

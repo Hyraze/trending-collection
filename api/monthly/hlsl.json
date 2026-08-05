@@ -2,7 +2,7 @@
   "title": "GitHub Hlsl Languages Daily Trending",
   "description": "Daily Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "Blinue / Magpie",
@@ -10,9 +10,9 @@
       "description": "A general-purpose window upscaler for Windows 10/11.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 14280,
+      "stars": 14287,
       "forks": 583,
-      "added_stars": "209 stars this month"
+      "added_stars": "205 stars this month"
     },
     {
       "title": "JamesCJ60 / Universal-x86-Tuning-Utility",
@@ -20,9 +20,9 @@
       "description": "Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 2739,
+      "stars": 2741,
       "forks": 88,
-      "added_stars": "66 stars this month"
+      "added_stars": "67 stars this month"
     },
     {
       "title": "clshortfuse / renodx",
@@ -30,19 +30,9 @@
       "description": "Renovation Engine for DirectX Games",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 1563,
+      "stars": 1564,
       "forks": 115,
       "added_stars": "94 stars this month"
-    },
-    {
-      "title": "crosire / reshade-shaders",
-      "url": "https://github.com/crosire/reshade-shaders",
-      "description": "A collection of post-processing shaders written for ReShade.",
-      "language": "HLSL",
-      "languageColor": "#aace60",
-      "stars": 1185,
-      "forks": 422,
-      "added_stars": "7 stars this month"
     },
     {
       "title": "leotorrez / ZZMI-Package",
@@ -55,6 +45,16 @@
       "added_stars": "2 stars this month"
     },
     {
+      "title": "crosire / reshade-shaders",
+      "url": "https://github.com/crosire/reshade-shaders",
+      "description": "A collection of post-processing shaders written for ReShade.",
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 1186,
+      "forks": 422,
+      "added_stars": "8 stars this month"
+    },
+    {
       "title": "ray-cast / ray-mmd",
       "url": "https://github.com/ray-cast/ray-mmd",
       "description": "🎨 The project is designed to create a physically-based rendering at mikumikudance.",
@@ -62,7 +62,7 @@
       "languageColor": "#aace60",
       "stars": 1904,
       "forks": 574,
-      "added_stars": "16 stars this month"
+      "added_stars": "15 stars this month"
     }
   ]
 }

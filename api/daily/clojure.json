@@ -2,17 +2,37 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
+    {
+      "title": "metabase / metabase",
+      "url": "https://github.com/metabase/metabase",
+      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 48533,
+      "forks": 6709,
+      "added_stars": "22 stars today"
+    },
     {
       "title": "logseq / logseq",
       "url": "https://github.com/logseq/logseq",
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 44244,
-      "forks": 2748,
-      "added_stars": "24 stars today"
+      "stars": 44276,
+      "forks": 2747,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "tonsky / FiraCode",
+      "url": "https://github.com/tonsky/FiraCode",
+      "description": "Free monospaced font with programming ligatures",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 81890,
+      "forks": 3189,
+      "added_stars": "5 stars today"
     },
     {
       "title": "cognitect-labs / test-runner",
@@ -25,24 +45,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "penpot / penpot",
-      "url": "https://github.com/penpot/penpot",
-      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "title": "status-im / status-legacy",
+      "url": "https://github.com/status-im/status-legacy",
+      "description": "a free (libre) open source, mobile OS for Ethereum",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 58068,
-      "forks": 3883,
-      "added_stars": "67 stars today"
-    },
-    {
-      "title": "metabase / metabase",
-      "url": "https://github.com/metabase/metabase",
-      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 48514,
-      "forks": 6707,
-      "added_stars": "22 stars today"
+      "stars": 4019,
+      "forks": 990,
+      "added_stars": "0 stars today"
     }
   ]
 }

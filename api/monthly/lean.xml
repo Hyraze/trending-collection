@@ -4,7 +4,7 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>leanprover-community / mathlib4</title>
     <link>https://github.com/leanprover-community/mathlib4</link>
@@ -59,6 +59,21 @@
     <title>leanprover-community / quote4</title>
     <link>https://github.com/leanprover-community/quote4</link>
     <description>Intuitive, type-safe expression quotations for Lean 4.</description>
+  </item>
+  <item>
+    <title>Verified-zkEVM / evm-asm</title>
+    <link>https://github.com/Verified-zkEVM/evm-asm</link>
+    <description></description>
+  </item>
+  <item>
+    <title>ImperialCollegeLondon / FLT</title>
+    <link>https://github.com/ImperialCollegeLondon/FLT</link>
+    <description>Ongoing Lean formalisation of the proof of Fermat&#x27;s Last Theorem</description>
+  </item>
+  <item>
+    <title>leanprover-community / mathlib3</title>
+    <link>https://github.com/leanprover-community/mathlib3</link>
+    <description>Lean 3&#x27;s obsolete mathematical components library: please use mathlib4</description>
   </item>
 </channel>
 </rss>

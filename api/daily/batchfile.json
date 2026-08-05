@@ -2,17 +2,37 @@
   "title": "GitHub Batchfile Languages Daily Trending",
   "description": "Daily Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
+    {
+      "title": "tytsxai / IDM-Activation-Script-Chinese",
+      "url": "https://github.com/tytsxai/IDM-Activation-Script-Chinese",
+      "description": "IDM 激活脚本中文版 · GPL-3.0 开源 Windows 批处理工具：支持试用期冻结、普通激活、一键重置与环境自检，GBK 中文菜单无乱码 | Chinese edition of IDM Activation Script — GBK-encoded batch toolkit for Internet Download Manager on Windows 7/8/10/11, no binary patching, automatic registry backup",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 1491,
+      "forks": 109,
+      "added_stars": "50 stars today"
+    },
     {
       "title": "Flowseal / zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 31707,
-      "forks": 2445,
-      "added_stars": "39 stars today"
+      "stars": 31737,
+      "forks": 2447,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "ShadowWhisperer / Remove-MS-Edge",
+      "url": "https://github.com/ShadowWhisperer/Remove-MS-Edge",
+      "description": "Uninstall Microsoft Edge with an executable or batch script.",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 5382,
+      "forks": 204,
+      "added_stars": "5 stars today"
     },
     {
       "title": "enhorse / java-interview",
@@ -20,8 +40,8 @@
       "description": "Вопросы и ответы к интервью Java разработчика",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 6170,
-      "forks": 2044,
+      "stars": 6171,
+      "forks": 2045,
       "added_stars": "1 star today"
     },
     {
@@ -30,9 +50,49 @@
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 2171,
+      "stars": 2173,
       "forks": 185,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "MyOnee / R",
+      "url": "https://github.com/MyOnee/R",
+      "description": "Free RDP from Github Actions",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 63,
+      "forks": 847,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "VirtualHotBar / HotPEToolBox",
+      "url": "https://github.com/VirtualHotBar/HotPEToolBox",
+      "description": "一个纯净、强大、优雅的WinPE",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 2119,
+      "forks": 153,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "shlima / keneetic-antifilter",
+      "url": "https://github.com/shlima/keneetic-antifilter",
+      "description": "Правила маршрутизации youtube, instagram, chatgpt для роутеров keenetic",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 461,
+      "forks": 23,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Aetherinox / pause-windows-updates",
+      "url": "https://github.com/Aetherinox/pause-windows-updates",
+      "description": "Pause & disable Windows updates for any duration. Remove Recall / Copilot. Debloat / privacy / telemetry tools. Supports Windows 10 and 11.",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 868,
+      "forks": 48,
+      "added_stars": "2 stars today"
     }
   ]
 }

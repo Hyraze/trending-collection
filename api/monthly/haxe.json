@@ -2,7 +2,7 @@
   "title": "GitHub Haxe Languages Daily Trending",
   "description": "Daily Trending of Haxe Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "CodenameCrew / CodenameEngine",
@@ -11,8 +11,18 @@
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": 461,
-      "forks": 349,
+      "forks": 351,
       "added_stars": "7 stars this month"
+    },
+    {
+      "title": "HaxeFoundation / haxe",
+      "url": "https://github.com/HaxeFoundation/haxe",
+      "description": "Haxe - The Cross-Platform Toolkit",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 6904,
+      "forks": 704,
+      "added_stars": "23 stars this month"
     },
     {
       "title": "Psych-Slice / P-Slice",
@@ -23,16 +33,6 @@
       "stars": 164,
       "forks": 116,
       "added_stars": "10 stars this month"
-    },
-    {
-      "title": "HaxeFoundation / haxe",
-      "url": "https://github.com/HaxeFoundation/haxe",
-      "description": "Haxe - The Cross-Platform Toolkit",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 6903,
-      "forks": 704,
-      "added_stars": "22 stars this month"
     },
     {
       "title": "beihu235 / Psych-Engine-0.71h-android",
@@ -50,9 +50,9 @@
       "description": "A rhythm game made with HaxeFlixel",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": 3698,
-      "forks": 2534,
-      "added_stars": "37 stars this month"
+      "stars": 3702,
+      "forks": 2532,
+      "added_stars": "40 stars this month"
     },
     {
       "title": "Snirozu / Funkin-Psych-Online",
@@ -61,7 +61,7 @@
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": 100,
-      "forks": 84,
+      "forks": 85,
       "added_stars": "2 stars this month"
     }
   ]

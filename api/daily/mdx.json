@@ -2,17 +2,17 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
-      "title": "withastro / docs",
-      "url": "https://github.com/withastro/docs",
-      "description": "Astro documentation",
+      "title": "getsentry / sentry-docs",
+      "url": "https://github.com/getsentry/sentry-docs",
+      "description": "Sentry's documentation (and tools to build it)",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 1670,
-      "forks": 1867,
-      "added_stars": "2 stars today"
+      "stars": 441,
+      "forks": 1693,
+      "added_stars": "0 stars today"
     },
     {
       "title": "twbs / bootstrap",
@@ -20,9 +20,39 @@
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 174555,
-      "forks": 78697,
-      "added_stars": "9 stars today"
+      "stars": 174558,
+      "forks": 78693,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "prisma / web",
+      "url": "https://github.com/prisma/web",
+      "description": "📚 Prisma Web Monorepo",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1093,
+      "forks": 979,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "dair-ai / Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 77266,
+      "forks": 8490,
+      "added_stars": "36 stars today"
+    },
+    {
+      "title": "huggingface / agents-course",
+      "url": "https://github.com/huggingface/agents-course",
+      "description": "This repository contains the Hugging Face Agents Course.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 30681,
+      "forks": 2190,
+      "added_stars": "35 stars today"
     },
     {
       "title": "enactic / openarm",
@@ -30,128 +60,8 @@
       "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 2807,
+      "stars": 2811,
       "forks": 307,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "lmstudio-ai / docs",
-      "url": "https://github.com/lmstudio-ai/docs",
-      "description": "LM Studio App and Developer Docs",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 146,
-      "forks": 125,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "langchain-ai / docs",
-      "url": "https://github.com/langchain-ai/docs",
-      "description": "Unified LangChain documentation.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 388,
-      "forks": 2563,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "smartcontractkit / documentation",
-      "url": "https://github.com/smartcontractkit/documentation",
-      "description": "https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 525,
-      "forks": 471,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "react / react-native-website",
-      "url": "https://github.com/react/react-native-website",
-      "description": "The React Native website and docs",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 2152,
-      "forks": 6259,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "DevCaress / guia-entrevistas-de-programacion",
-      "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
-      "description": "",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 7785,
-      "forks": 1069,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "mintlify / docs",
-      "url": "https://github.com/mintlify/docs",
-      "description": "Official Mintlify documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 428,
-      "forks": 237,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "microsoft / aspire.dev",
-      "url": "https://github.com/microsoft/aspire.dev",
-      "description": "The official website for all things aspire.dev.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 187,
-      "forks": 81,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hunvreus / basecoat",
-      "url": "https://github.com/hunvreus/basecoat",
-      "description": "A components library built with Tailwind CSS that works with any web stack.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 4207,
-      "forks": 138,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "MetaMask / metamask-docs",
-      "url": "https://github.com/MetaMask/metamask-docs",
-      "description": "Developer documentation for MetaMask",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 857,
-      "forks": 2047,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ionic-team / capacitor-docs",
-      "url": "https://github.com/ionic-team/capacitor-docs",
-      "description": "",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 48,
-      "forks": 728,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "yangshun / front-end-interview-handbook",
-      "url": "https://github.com/yangshun/front-end-interview-handbook",
-      "description": "Front End interview preparation materials for busy engineers (updated for 2026)",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 43982,
-      "forks": 5928,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "discord / discord-api-docs",
-      "url": "https://github.com/discord/discord-api-docs",
-      "description": "Official Discord Developer Docs",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 6449,
-      "forks": 1374,
       "added_stars": "3 stars today"
     },
     {
@@ -160,29 +70,89 @@
       "description": "Cloudflare’s documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 5035,
-      "forks": 16198,
-      "added_stars": "2 stars today"
+      "stars": 5043,
+      "forks": 16213,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "kufu / smarthr-design-system",
-      "url": "https://github.com/kufu/smarthr-design-system",
-      "description": "",
+      "title": "processing / p5.js-website",
+      "url": "https://github.com/processing/p5.js-website",
+      "description": "New p5.js website!",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 55,
-      "forks": 2,
+      "stars": 92,
+      "forks": 307,
       "added_stars": "0 stars today"
     },
     {
-      "title": "tauri-apps / tauri-docs",
-      "url": "https://github.com/tauri-apps/tauri-docs",
-      "description": "The source for all Tauri project documentation.",
+      "title": "netbirdio / docs",
+      "url": "https://github.com/netbirdio/docs",
+      "description": "",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 1124,
-      "forks": 884,
-      "added_stars": "1 star today"
+      "stars": 35,
+      "forks": 132,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "withastro / docs",
+      "url": "https://github.com/withastro/docs",
+      "description": "Astro documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1672,
+      "forks": 1867,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "hunvreus / basecoat",
+      "url": "https://github.com/hunvreus/basecoat",
+      "description": "A components library built with Tailwind CSS that works with any web stack.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 4213,
+      "forks": 138,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "jellyfin / jellyfin.org",
+      "url": "https://github.com/jellyfin/jellyfin.org",
+      "description": "Jellyfin Project website, blog, and user documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 157,
+      "forks": 684,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "newrelic / docs-website",
+      "url": "https://github.com/newrelic/docs-website",
+      "description": "Source code for @newrelic docs. We welcome pull requests and questions on our docs!",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 197,
+      "forks": 1458,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ngrok / ngrok-docs",
+      "url": "https://github.com/ngrok/ngrok-docs",
+      "description": "ngrok's official documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 159,
+      "forks": 4189,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "wandb / docs",
+      "url": "https://github.com/wandb/docs",
+      "description": "The product documentation for Weights & Biases, published at https://docs.wandb.ai",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 23,
+      "forks": 54,
+      "added_stars": "0 stars today"
     },
     {
       "title": "JSONbored / awesome-claude",
@@ -195,13 +165,43 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "freeCodeCamp / contribute",
-      "url": "https://github.com/freeCodeCamp/contribute",
-      "description": "Begin your contribution journey here.",
+      "title": "react / react-native-website",
+      "url": "https://github.com/react/react-native-website",
+      "description": "The React Native website and docs",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 153,
-      "forks": 378,
+      "stars": 2152,
+      "forks": 6260,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "wix / react-native-navigation",
+      "url": "https://github.com/wix/react-native-navigation",
+      "description": "A complete native navigation solution for React Native",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 13177,
+      "forks": 2631,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "gpxstudio / gpx.studio",
+      "url": "https://github.com/gpxstudio/gpx.studio",
+      "description": "the online GPX file editor",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1147,
+      "forks": 249,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "mintlify / docs",
+      "url": "https://github.com/mintlify/docs",
+      "description": "Official Mintlify documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 428,
+      "forks": 237,
       "added_stars": "0 stars today"
     }
   ]

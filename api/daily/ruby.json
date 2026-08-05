@@ -2,47 +2,47 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
-      "title": "chatwoot / chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "title": "rails / rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 35452,
-      "forks": 8502,
-      "added_stars": "42 stars today"
-    },
-    {
-      "title": "jekyll / jekyll",
-      "url": "https://github.com/jekyll/jekyll",
-      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 51609,
-      "forks": 10301,
+      "stars": 58675,
+      "forks": 22346,
       "added_stars": "5 stars today"
     },
     {
-      "title": "we-promise / sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
+      "title": "gitlabhq / gitlabhq",
+      "url": "https://github.com/gitlabhq/gitlabhq",
+      "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 9279,
-      "forks": 326,
-      "added_stars": "21 stars today"
+      "stars": 24525,
+      "forks": 5973,
+      "added_stars": "1 star today"
     },
     {
-      "title": "Freika / dawarich",
-      "url": "https://github.com/Freika/dawarich",
-      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
+      "title": "rapid7 / metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 9981,
-      "forks": 346,
-      "added_stars": "15 stars today"
+      "stars": 38741,
+      "forks": 14929,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "ubicloud / ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 12204,
+      "forks": 582,
+      "added_stars": "1 star today"
     },
     {
       "title": "Homebrew / homebrew-core",
@@ -51,38 +51,48 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 15478,
-      "forks": 13714,
-      "added_stars": "4 stars today"
+      "forks": 13713,
+      "added_stars": "1 star today"
     },
     {
-      "title": "github-linguist / linguist",
-      "url": "https://github.com/github-linguist/linguist",
-      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "title": "fastlane / fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 13612,
-      "forks": 5315,
-      "added_stars": "0 stars today"
+      "stars": 41937,
+      "forks": 6022,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "rapid7 / metasploit-framework",
-      "url": "https://github.com/rapid7/metasploit-framework",
-      "description": "Metasploit Framework",
+      "title": "spree / spree",
+      "url": "https://github.com/spree/spree",
+      "description": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 38734,
-      "forks": 14927,
-      "added_stars": "15 stars today"
+      "stars": 15599,
+      "forks": 5284,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "Homebrew / brew",
-      "url": "https://github.com/Homebrew/brew",
-      "description": "🍺 The Package Manager for Everywhere",
+      "title": "DataDog / dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog's client library for Ruby",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 49046,
-      "forks": 11268,
-      "added_stars": "10 stars today"
+      "stars": 415,
+      "forks": 411,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "puma / puma",
+      "url": "https://github.com/puma/puma",
+      "description": "A Ruby/Rack web server built for parallelism",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 7915,
+      "forks": 1490,
+      "added_stars": "1 star today"
     },
     {
       "title": "decidim / decidim",
@@ -91,8 +101,118 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 1799,
-      "forks": 474,
+      "forks": 475,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "discourse / discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 47596,
+      "forks": 8975,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "forem / forem",
+      "url": "https://github.com/forem/forem",
+      "description": "For empowering community 🌱",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 22757,
+      "forks": 4177,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "faker-ruby / faker",
+      "url": "https://github.com/faker-ruby/faker",
+      "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 11931,
+      "forks": 3215,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "mastodon / mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 50168,
+      "forks": 7475,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "opf / openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 15760,
+      "forks": 3401,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "Homebrew / homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 22144,
+      "forks": 11783,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Freika / dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 9983,
+      "forks": 347,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "ytti / oxidized",
+      "url": "https://github.com/ytti/oxidized",
+      "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 3484,
+      "forks": 1050,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "hackclub / stardance",
+      "url": "https://github.com/hackclub/stardance",
+      "description": "The largest high school STEM event of the summer!",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 90,
+      "forks": 90,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "postalserver / postal",
+      "url": "https://github.com/postalserver/postal",
+      "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 16719,
+      "forks": 1267,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "ruby / rubygems",
+      "url": "https://github.com/ruby/rubygems",
+      "description": "Library packaging and distribution for Ruby.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 3949,
+      "forks": 1929,
+      "added_stars": "0 stars today"
     },
     {
       "title": "rubysec / ruby-advisory-db",
@@ -105,113 +225,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "antiwork / gumroad",
-      "url": "https://github.com/antiwork/gumroad",
-      "description": "See what sticks",
+      "title": "ruby / gem_rbs_collection",
+      "url": "https://github.com/ruby/gem_rbs_collection",
+      "description": "A collection of RBS for gems.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 9509,
-      "forks": 2003,
+      "stars": 303,
+      "forks": 134,
       "added_stars": "0 stars today"
     },
     {
-      "title": "Homebrew / homebrew-cask",
-      "url": "https://github.com/Homebrew/homebrew-cask",
-      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "title": "ruby / ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 22140,
-      "forks": 11779,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "opf / openproject",
-      "url": "https://github.com/opf/openproject",
-      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 15750,
-      "forks": 3399,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "spree / spree",
-      "url": "https://github.com/spree/spree",
-      "description": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 15598,
-      "forks": 5285,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "hackclub / hcb",
-      "url": "https://github.com/hackclub/hcb",
-      "description": "🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 862,
-      "forks": 129,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hackclub / hackatime",
-      "url": "https://github.com/hackclub/hackatime",
-      "description": "Free, open source, WakaTime-compatible coding time tracker",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 177,
-      "forks": 146,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "github / gemoji",
-      "url": "https://github.com/github/gemoji",
-      "description": "Emoji images and names.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 4528,
-      "forks": 803,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "dependabot / dependabot-core",
-      "url": "https://github.com/dependabot/dependabot-core",
-      "description": "🤖 Dependabot's core logic for creating update PRs.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 5712,
-      "forks": 1479,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "googleapis / google-api-ruby-client",
-      "url": "https://github.com/googleapis/google-api-ruby-client",
-      "description": "REST client for Google APIs",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 2893,
-      "forks": 884,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "jruby / jruby",
-      "url": "https://github.com/jruby/jruby",
-      "description": "JRuby, an implementation of Ruby on the JVM",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 3910,
-      "forks": 945,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "faker-ruby / faker",
-      "url": "https://github.com/faker-ruby/faker",
-      "description": "A library for generating fake data such as names, addresses, and phone numbers.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 11931,
-      "forks": 3217,
+      "stars": 23671,
+      "forks": 5625,
       "added_stars": "2 stars today"
     }
   ]

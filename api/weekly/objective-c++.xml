@@ -4,7 +4,12 @@
   <title>GitHub Objective-c++ Languages Daily Trending</title>
   <description>Daily Trending of Objective-c++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <item>
+    <title>pocketsvg / PocketSVG</title>
+    <link>https://github.com/pocketsvg/PocketSVG</link>
+    <description>Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths</description>
+  </item>
   <item>
     <title>microsoft / onnxruntime-swift-package-manager</title>
     <link>https://github.com/microsoft/onnxruntime-swift-package-manager</link>
@@ -16,24 +21,14 @@
     <description>MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple&#x27;s Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.</description>
   </item>
   <item>
-    <title>pocketsvg / PocketSVG</title>
-    <link>https://github.com/pocketsvg/PocketSVG</link>
-    <description>Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths</description>
-  </item>
-  <item>
     <title>gree / unity-webview</title>
     <link>https://github.com/gree/unity-webview</link>
     <description></description>
   </item>
   <item>
-    <title>northpolesec / santa</title>
-    <link>https://github.com/northpolesec/santa</link>
-    <description>A binary and file access authorization system for macOS.</description>
-  </item>
-  <item>
-    <title>callstack / liquid-glass</title>
-    <link>https://github.com/callstack/liquid-glass</link>
-    <description>Liquid Glass in React Native</description>
+    <title>thusvill / LiveWallpaperMacOS</title>
+    <link>https://github.com/thusvill/LiveWallpaperMacOS</link>
+    <description>This is a Opensource Live wallpaper solution for MacOS</description>
   </item>
   <item>
     <title>sbmpost / AutoRaise</title>
@@ -41,9 +36,9 @@
     <description>AutoRaise (and focus) a window when hovering over it with the mouse</description>
   </item>
   <item>
-    <title>thusvill / LiveWallpaperMacOS</title>
-    <link>https://github.com/thusvill/LiveWallpaperMacOS</link>
-    <description>This is a Opensource Live wallpaper solution for MacOS</description>
+    <title>callstack / liquid-glass</title>
+    <link>https://github.com/callstack/liquid-glass</link>
+    <description>Liquid Glass in React Native</description>
   </item>
 </channel>
 </rss>

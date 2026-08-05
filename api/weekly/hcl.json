@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -11,7 +11,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 2076,
-      "forks": 1252,
+      "forks": 1253,
       "added_stars": "5 stars this week"
     },
     {
@@ -20,9 +20,9 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4991,
+      "stars": 4992,
       "forks": 4403,
-      "added_stars": "4 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -75,14 +75,24 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "cashapp / hermit-packages",
-      "url": "https://github.com/cashapp/hermit-packages",
-      "description": "Hermit manages isolated, self-bootstrapping sets of tools in software projects.",
+      "title": "bridgecrewio / checkov-action",
+      "url": "https://github.com/bridgecrewio/checkov-action",
+      "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 159,
-      "forks": 186,
-      "added_stars": "2 stars this week"
+      "stars": 312,
+      "forks": 114,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 350,
+      "forks": 239,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-ecs",
@@ -90,19 +100,39 @@
       "description": "Terraform module to create AWS ECS resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 675,
+      "stars": 676,
       "forks": 666,
       "added_stars": "1 star this week"
     },
     {
-      "title": "Azure / terraform-azurerm-avm-res-network-privatednszone",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-network-privatednszone",
-      "description": "Terraform Azure Verified Resource Module for Private DNS Zone",
+      "title": "chainguard-images / images",
+      "url": "https://github.com/chainguard-images/images",
+      "description": "Public Chainguard Images",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 30,
-      "forks": 24,
-      "added_stars": "0 stars this week"
+      "stars": 686,
+      "forks": 175,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "cashapp / hermit-packages",
+      "url": "https://github.com/cashapp/hermit-packages",
+      "description": "Hermit manages isolated, self-bootstrapping sets of tools in software projects.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 159,
+      "forks": 187,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 28,
+      "forks": 67,
+      "added_stars": "1 star this week"
     }
   ]
 }

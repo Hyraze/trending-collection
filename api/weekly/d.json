@@ -2,7 +2,7 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "abraunegg / onedrive",
@@ -10,9 +10,9 @@
       "description": "OneDrive Client for Linux",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 12663,
+      "stars": 12666,
       "forks": 912,
-      "added_stars": "17 stars this week"
+      "added_stars": "20 stars this week"
     },
     {
       "title": "Dadoum / anisette-v3-server",
@@ -20,9 +20,9 @@
       "description": "sidestore's anisette-v3 compatible server",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 524,
-      "forks": 2292,
-      "added_stars": "3 stars this week"
+      "stars": 525,
+      "forks": 2291,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "Dadoum / Sideloader",
@@ -40,9 +40,19 @@
       "description": "dmd D Programming Language compiler",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 3294,
+      "stars": 3293,
       "forks": 710,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "dlang / phobos",
+      "url": "https://github.com/dlang/phobos",
+      "description": "The standard library of the D programming language",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 1253,
+      "forks": 772,
+      "added_stars": "0 stars this week"
     }
   ]
 }

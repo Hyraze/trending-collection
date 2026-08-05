@@ -4,31 +4,16 @@
   <title>GitHub Glsl Languages Daily Trending</title>
   <description>Daily Trending of Glsl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
-  <item>
-    <title>bambosan / mirai</title>
-    <link>https://github.com/bambosan/mirai</link>
-    <description>A Vibrant Visual Shader for MCBE</description>
-  </item>
-  <item>
-    <title>X0nk / Bliss-Shader</title>
-    <link>https://github.com/X0nk/Bliss-Shader</link>
-    <description>A minecraft shader which is an edit of chocapic v9</description>
-  </item>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
     <title>vanillagreencom / vstack</title>
     <link>https://github.com/vanillagreencom/vstack</link>
     <description>Skills, agents, hooks. Cross-harness. With a side of Pi.</description>
   </item>
   <item>
-    <title>sixthsurge / photon</title>
-    <link>https://github.com/sixthsurge/photon</link>
-    <description>A gameplay-focused shader pack for Minecraft</description>
-  </item>
-  <item>
-    <title>cizia64 / CrossMix-OS</title>
-    <link>https://github.com/cizia64/CrossMix-OS</link>
-    <description>Enhanced OS for the TrimUI Smart Pro</description>
+    <title>bambosan / mirai</title>
+    <link>https://github.com/bambosan/mirai</link>
+    <description>A Vibrant Visual Shader for MCBE</description>
   </item>
   <item>
     <title>HaringPro / Revelation</title>
@@ -36,24 +21,34 @@
     <description>An explorative shaderpack for Minecraft: Java Edition</description>
   </item>
   <item>
+    <title>sixthsurge / photon</title>
+    <link>https://github.com/sixthsurge/photon</link>
+    <description>A gameplay-focused shader pack for Minecraft</description>
+  </item>
+  <item>
+    <title>X0nk / Bliss-Shader</title>
+    <link>https://github.com/X0nk/Bliss-Shader</link>
+    <description>A minecraft shader which is an edit of chocapic v9</description>
+  </item>
+  <item>
+    <title>cizia64 / CrossMix-OS</title>
+    <link>https://github.com/cizia64/CrossMix-OS</link>
+    <description>Enhanced OS for the TrimUI Smart Pro</description>
+  </item>
+  <item>
     <title>libretro / glsl-shaders</title>
     <link>https://github.com/libretro/glsl-shaders</link>
     <description>This repo is for glsl shaders converted by hand from libretro&#x27;s common-shaders repo, since some don&#x27;t play nicely with the cg2glsl script.</description>
   </item>
   <item>
-    <title>SaschaWillems / Vulkan</title>
-    <link>https://github.com/SaschaWillems/Vulkan</link>
-    <description>C++ examples for the Vulkan graphics API</description>
-  </item>
-  <item>
-    <title>0xhckr / ghostty-shaders</title>
-    <link>https://github.com/0xhckr/ghostty-shaders</link>
-    <description>A repository containing many free shaders to use with ghostty (the terminal)</description>
-  </item>
-  <item>
     <title>KhronosGroup / SPIRV-Cross</title>
     <link>https://github.com/KhronosGroup/SPIRV-Cross</link>
     <description>SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.</description>
+  </item>
+  <item>
+    <title>SaschaWillems / Vulkan</title>
+    <link>https://github.com/SaschaWillems/Vulkan</link>
+    <description>C++ examples for the Vulkan graphics API</description>
   </item>
 </channel>
 </rss>

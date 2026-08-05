@@ -4,31 +4,41 @@
   <title>GitHub Javascript Languages Daily Trending</title>
   <description>Daily Trending of Javascript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
   <item>
-    <title>louislam / uptime-kuma</title>
-    <link>https://github.com/louislam/uptime-kuma</link>
-    <description>A fancy self-hosted monitoring tool</description>
+    <title>webpack / webpack</title>
+    <link>https://github.com/webpack/webpack</link>
+    <description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &quot;loaders&quot;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</description>
   </item>
   <item>
-    <title>4ian / GDevelop</title>
-    <link>https://github.com/4ian/GDevelop</link>
-    <description>🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.</description>
+    <title>vercel / next.js</title>
+    <link>https://github.com/vercel/next.js</link>
+    <description>The React Framework</description>
   </item>
   <item>
-    <title>NodeBB / NodeBB</title>
-    <link>https://github.com/NodeBB/NodeBB</link>
-    <description>Node.js based forum software built for the modern web</description>
+    <title>sveltejs / svelte</title>
+    <link>https://github.com/sveltejs/svelte</link>
+    <description>web development for the rest of us</description>
   </item>
   <item>
-    <title>jellyfin / jellyfin-web</title>
-    <link>https://github.com/jellyfin/jellyfin-web</link>
-    <description>The Free Software Media System - Official Web Client</description>
+    <title>greensock / GSAP</title>
+    <link>https://github.com/greensock/GSAP</link>
+    <description>GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web</description>
   </item>
   <item>
-    <title>Acode-Foundation / Acode</title>
-    <link>https://github.com/Acode-Foundation/Acode</link>
-    <description>Acode - powerful text/code editor for android</description>
+    <title>byoungd / up</title>
+    <link>https://github.com/byoungd/up</link>
+    <description>An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语</description>
+  </item>
+  <item>
+    <title>fastify / fastify</title>
+    <link>https://github.com/fastify/fastify</link>
+    <description>Fast and low overhead web framework, for Node.js</description>
+  </item>
+  <item>
+    <title>openai / codex-plugin-cc</title>
+    <link>https://github.com/openai/codex-plugin-cc</link>
+    <description>Use Codex from Claude Code to review code or delegate tasks.</description>
   </item>
   <item>
     <title>pdone / lx-music-source</title>
@@ -36,14 +46,19 @@
     <description>洛雪音乐源</description>
   </item>
   <item>
-    <title>SillyTavern / SillyTavern</title>
-    <link>https://github.com/SillyTavern/SillyTavern</link>
-    <description>LLM Frontend for Power Users.</description>
+    <title>expressjs / express</title>
+    <link>https://github.com/expressjs/express</link>
+    <description>Fast, unopinionated, minimalist web framework for node.</description>
   </item>
   <item>
-    <title>nodejs / node</title>
-    <link>https://github.com/nodejs/node</link>
-    <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
+    <title>projectdiscovery / nuclei-templates</title>
+    <link>https://github.com/projectdiscovery/nuclei-templates</link>
+    <description>Community curated list of templates for the nuclei engine to find security vulnerabilities.</description>
+  </item>
+  <item>
+    <title>Leonxlnx / taste-skill</title>
+    <link>https://github.com/Leonxlnx/taste-skill</link>
+    <description>Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop</description>
   </item>
   <item>
     <title>NomaDamas / k-skill</title>
@@ -51,24 +66,29 @@
     <description>한국인을 위한 스킬 모음집 - 에이전트를 한국인으로</description>
   </item>
   <item>
-    <title>is-a-dev / register</title>
-    <link>https://github.com/is-a-dev/register</link>
-    <description>Grab your own sweet-looking &#x27;.is-a.dev&#x27; subdomain.</description>
+    <title>ryanmcdermott / clean-code-javascript</title>
+    <link>https://github.com/ryanmcdermott/clean-code-javascript</link>
+    <description>Clean Code concepts adapted for JavaScript</description>
   </item>
   <item>
-    <title>validatorjs / validator.js</title>
-    <link>https://github.com/validatorjs/validator.js</link>
-    <description>String validation</description>
+    <title>TryGhost / Ghost</title>
+    <link>https://github.com/TryGhost/Ghost</link>
+    <description>Independent technology for modern publishing, memberships, subscriptions and newsletters.</description>
   </item>
   <item>
-    <title>Axorax / awesome-free-apps</title>
-    <link>https://github.com/Axorax/awesome-free-apps</link>
-    <description>Curated list of the best free apps for PC and mobile</description>
+    <title>worldwonderer / oh-story-claudecode</title>
+    <link>https://github.com/worldwonderer/oh-story-claudecode</link>
+    <description>网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.</description>
   </item>
   <item>
-    <title>techjarves / Uncensored-Local-Studio</title>
-    <link>https://github.com/techjarves/Uncensored-Local-Studio</link>
-    <description>Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech &amp; Speech to Text</description>
+    <title>sveltejs / kit</title>
+    <link>https://github.com/sveltejs/kit</link>
+    <description>web development, streamlined</description>
+  </item>
+  <item>
+    <title>react / react</title>
+    <link>https://github.com/react/react</link>
+    <description>The library for web and native user interfaces.</description>
   </item>
 </channel>
 </rss>

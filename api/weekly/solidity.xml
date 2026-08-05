@@ -4,21 +4,11 @@
   <title>GitHub Solidity Languages Daily Trending</title>
   <description>Daily Trending of Solidity Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
     <title>OpenZeppelin / openzeppelin-contracts</title>
     <link>https://github.com/OpenZeppelin/openzeppelin-contracts</link>
     <description>OpenZeppelin Contracts is a library for secure smart contract development.</description>
-  </item>
-  <item>
-    <title>Uniswap / v4-core</title>
-    <link>https://github.com/Uniswap/v4-core</link>
-    <description>🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4</description>
-  </item>
-  <item>
-    <title>aave / aave-v4</title>
-    <link>https://github.com/aave/aave-v4</link>
-    <description>Aave V4</description>
   </item>
   <item>
     <title>foundry-rs / forge-std</title>
@@ -36,14 +26,9 @@
     <description>Assertions, equality checks and other test helpers</description>
   </item>
   <item>
-    <title>1inch / swap-vm</title>
-    <link>https://github.com/1inch/swap-vm</link>
+    <title>coinbase / smart-wallet</title>
+    <link>https://github.com/coinbase/smart-wallet</link>
     <description></description>
-  </item>
-  <item>
-    <title>Uniswap / v4-periphery</title>
-    <link>https://github.com/Uniswap/v4-periphery</link>
-    <description>🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4</description>
   </item>
   <item>
     <title>transmissions11 / solmate</title>
@@ -51,24 +36,19 @@
     <description>Modern, opinionated, and gas optimized building blocks for smart contract development.</description>
   </item>
   <item>
-    <title>aave-dao / aave-v3-origin</title>
-    <link>https://github.com/aave-dao/aave-v3-origin</link>
-    <description>Aave v3.6 protocol</description>
-  </item>
-  <item>
-    <title>Uniswap / permit2</title>
-    <link>https://github.com/Uniswap/permit2</link>
-    <description>🔑🔑🔑 next generation token approvals mechanism</description>
-  </item>
-  <item>
-    <title>coinbase / smart-wallet</title>
-    <link>https://github.com/coinbase/smart-wallet</link>
-    <description></description>
-  </item>
-  <item>
     <title>Vectorized / solady</title>
     <link>https://github.com/Vectorized/solady</link>
     <description>Optimized Solidity snippets.</description>
+  </item>
+  <item>
+    <title>1inch / swap-vm</title>
+    <link>https://github.com/1inch/swap-vm</link>
+    <description></description>
+  </item>
+  <item>
+    <title>0xProject / 0x-settler</title>
+    <link>https://github.com/0xProject/0x-settler</link>
+    <description>0x settlement contracts using Permit2</description>
   </item>
   <item>
     <title>GNSPS / solidity-bytes-utils</title>
@@ -76,9 +56,14 @@
     <description>Utility Solidity library composed of basic operations for tightly packed bytes arrays</description>
   </item>
   <item>
-    <title>Uniswap / v2-periphery</title>
-    <link>https://github.com/Uniswap/v2-periphery</link>
-    <description>🎚 Peripheral smart contracts for interacting with Uniswap V2</description>
+    <title>Uniswap / permit2</title>
+    <link>https://github.com/Uniswap/permit2</link>
+    <description>🔑🔑🔑 next generation token approvals mechanism</description>
+  </item>
+  <item>
+    <title>Uniswap / v4-core</title>
+    <link>https://github.com/Uniswap/v4-core</link>
+    <description>🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4</description>
   </item>
 </channel>
 </rss>

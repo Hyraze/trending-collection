@@ -2,8 +2,18 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
+    {
+      "title": "temporalio / helm-charts",
+      "url": "https://github.com/temporalio/helm-charts",
+      "description": "Temporal Helm charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 554,
+      "forks": 447,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "prometheus-community / helm-charts",
       "url": "https://github.com/prometheus-community/helm-charts",
@@ -11,27 +21,27 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": 6165,
-      "forks": 5379,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "netbox-community / netbox-chart",
-      "url": "https://github.com/netbox-community/netbox-chart",
-      "description": "A Helm chart for NetBox",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 350,
-      "forks": 183,
+      "forks": 5378,
       "added_stars": "0 stars today"
     },
     {
-      "title": "jenkinsci / helm-charts",
-      "url": "https://github.com/jenkinsci/helm-charts",
-      "description": "Jenkins helm charts",
+      "title": "swagger-api / swagger-codegen",
+      "url": "https://github.com/swagger-api/swagger-codegen",
+      "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 657,
-      "forks": 929,
+      "stars": 17779,
+      "forks": 5966,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "codefresh-contrib / gitops-certification-examples",
+      "url": "https://github.com/codefresh-contrib/gitops-certification-examples",
+      "description": "GitOps Certification Level 1 examples",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 302,
+      "forks": 5944,
       "added_stars": "0 stars today"
     },
     {
@@ -40,8 +50,38 @@
       "description": "The helm chart to deploy Harbor",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 1509,
+      "stars": 1510,
       "forks": 861,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "argoproj / argo-helm",
+      "url": "https://github.com/argoproj/argo-helm",
+      "description": "ArgoProj Helm Charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 2338,
+      "forks": 2100,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "aws / eks-charts",
+      "url": "https://github.com/aws/eks-charts",
+      "description": "Amazon EKS Helm chart repository",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 1302,
+      "forks": 1082,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Kong / charts",
+      "url": "https://github.com/Kong/charts",
+      "description": "Helm charts for Kong",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 296,
+      "forks": 492,
       "added_stars": "0 stars today"
     },
     {
@@ -50,7 +90,7 @@
       "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 883,
+      "stars": 885,
       "forks": 792,
       "added_stars": "1 star today"
     }

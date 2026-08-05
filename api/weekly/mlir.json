@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 19847,
-      "forks": 3072,
-      "added_stars": "58 stars this week"
+      "stars": 19853,
+      "forks": 3074,
+      "added_stars": "52 stars this week"
     },
     {
       "title": "triton-lang / triton-ascend",
@@ -21,7 +21,7 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 128,
-      "forks": 171,
+      "forks": 172,
       "added_stars": "10 stars this week"
     },
     {
@@ -31,7 +31,7 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 295,
-      "forks": 140,
+      "forks": 141,
       "added_stars": "1 star this week"
     },
     {
@@ -40,8 +40,18 @@
       "description": "Github mirror of trition-lang/triton repo.",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 184,
+      "stars": 185,
       "forks": 64,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "intel / intel-xpu-backend-for-triton",
+      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
+      "description": "OpenAI Triton backend for Intel® GPUs",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 264,
+      "forks": 106,
       "added_stars": "2 stars this week"
     },
     {
@@ -50,19 +60,9 @@
       "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 678,
-      "forks": 212,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "intel / intel-xpu-backend-for-triton",
-      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
-      "description": "OpenAI Triton backend for Intel® GPUs",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 263,
-      "forks": 105,
-      "added_stars": "1 star this week"
+      "stars": 679,
+      "forks": 211,
+      "added_stars": "4 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Matlab Languages Daily Trending",
   "description": "Daily Trending of Matlab Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
       "title": "fieldtrip / fieldtrip",
@@ -21,8 +21,18 @@
       "language": "MATLAB",
       "languageColor": "#e16737",
       "stars": 7724,
-      "forks": 1912,
-      "added_stars": "2 stars today"
+      "forks": 1911,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "CERN / TIGRE",
+      "url": "https://github.com/CERN/TIGRE",
+      "description": "TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox",
+      "language": "MATLAB",
+      "languageColor": "#e16737",
+      "stars": 795,
+      "forks": 256,
+      "added_stars": "1 star today"
     }
   ]
 }

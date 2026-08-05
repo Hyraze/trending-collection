@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:01:59 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
   <item>
     <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
     <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
@@ -41,9 +41,14 @@
     <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
-    <title>cashapp / hermit-packages</title>
-    <link>https://github.com/cashapp/hermit-packages</link>
-    <description>Hermit manages isolated, self-bootstrapping sets of tools in software projects.</description>
+    <title>bridgecrewio / checkov-action</title>
+    <link>https://github.com/bridgecrewio/checkov-action</link>
+    <description>This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.</description>
+  </item>
+  <item>
+    <title>cloudposse / terraform-aws-ecs-container-definition</title>
+    <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
+    <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-ecs</title>
@@ -51,9 +56,19 @@
     <description>Terraform module to create AWS ECS resources 🇺🇦</description>
   </item>
   <item>
-    <title>Azure / terraform-azurerm-avm-res-network-privatednszone</title>
-    <link>https://github.com/Azure/terraform-azurerm-avm-res-network-privatednszone</link>
-    <description>Terraform Azure Verified Resource Module for Private DNS Zone</description>
+    <title>chainguard-images / images</title>
+    <link>https://github.com/chainguard-images/images</link>
+    <description>Public Chainguard Images</description>
+  </item>
+  <item>
+    <title>cashapp / hermit-packages</title>
+    <link>https://github.com/cashapp/hermit-packages</link>
+    <description>Hermit manages isolated, self-bootstrapping sets of tools in software projects.</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-elasticache</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-elasticache</link>
+    <description>Terraform module to create AWS ElastiCache resources 🇺🇦</description>
   </item>
 </channel>
 </rss>

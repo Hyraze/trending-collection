@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "web-platform-dx / web-features",
@@ -10,9 +10,9 @@
       "description": "Exploring how to present Web platform features adoptability",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 892,
-      "forks": 308,
-      "added_stars": "20 stars this month"
+      "stars": 893,
+      "forks": 309,
+      "added_stars": "21 stars this month"
     },
     {
       "title": "aquaproj / aqua-registry",
@@ -21,8 +21,18 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": 362,
-      "forks": 379,
+      "forks": 380,
       "added_stars": "11 stars this month"
+    },
+    {
+      "title": "Mafyuh / iac",
+      "url": "https://github.com/Mafyuh/iac",
+      "description": "GitOps-driven Infrastructure as Code for my homelab",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 807,
+      "forks": 53,
+      "added_stars": "306 stars this month"
     },
     {
       "title": "stashapp / CommunityScrapers",
@@ -30,7 +40,7 @@
       "description": "This is a public repository containing scrapers created by the Stash Community.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 829,
+      "stars": 828,
       "forks": 519,
       "added_stars": "11 stars this month"
     },
@@ -50,9 +60,19 @@
       "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 13514,
-      "forks": 1657,
-      "added_stars": "116 stars this month"
+      "stars": 13515,
+      "forks": 1659,
+      "added_stars": "115 stars this month"
+    },
+    {
+      "title": "kubeflow / community-distribution",
+      "url": "https://github.com/kubeflow/community-distribution",
+      "description": "Kubeflow Community Distribution",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 1028,
+      "forks": 1069,
+      "added_stars": "3 stars this month"
     }
   ]
 }

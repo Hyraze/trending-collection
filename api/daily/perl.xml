@@ -4,16 +4,11 @@
   <title>GitHub Perl Languages Daily Trending</title>
   <description>Daily Trending of Perl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
   <item>
     <title>asbru-cm / asbru-cm</title>
     <link>https://github.com/asbru-cm/asbru-cm</link>
     <description>Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.</description>
-  </item>
-  <item>
-    <title>lm-sensors / lm-sensors</title>
-    <link>https://github.com/lm-sensors/lm-sensors</link>
-    <description>lm-sensors repository</description>
   </item>
   <item>
     <title>szTheory / exifcleaner</title>
@@ -21,14 +16,19 @@
     <description>Cross-platform desktop GUI app to clean image metadata</description>
   </item>
   <item>
-    <title>OpenKore / openkore</title>
-    <link>https://github.com/OpenKore/openkore</link>
-    <description>A free/open source client and automation tool for Ragnarok Online</description>
+    <title>manwar / perlweeklychallenge-club</title>
+    <link>https://github.com/manwar/perlweeklychallenge-club</link>
+    <description>Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…</description>
   </item>
   <item>
-    <title>Perl / perl5</title>
-    <link>https://github.com/Perl/perl5</link>
-    <description>🐪 The Perl programming language</description>
+    <title>lm-sensors / lm-sensors</title>
+    <link>https://github.com/lm-sensors/lm-sensors</link>
+    <description>lm-sensors repository</description>
+  </item>
+  <item>
+    <title>glpi-project / glpi-agent</title>
+    <link>https://github.com/glpi-project/glpi-agent</link>
+    <description>GLPI Agent</description>
   </item>
   <item>
     <title>brendangregg / FlameGraph</title>
@@ -36,34 +36,19 @@
     <description>Stack trace visualizer</description>
   </item>
   <item>
-    <title>yaml / yaml-test-suite</title>
-    <link>https://github.com/yaml/yaml-test-suite</link>
-    <description>Comprehensive, language independent Test Suite for YAML</description>
-  </item>
-  <item>
-    <title>awsdocs / aws-cdk-guide</title>
-    <link>https://github.com/awsdocs/aws-cdk-guide</link>
-    <description>User guide for the AWS Cloud Development Kit (CDK).</description>
-  </item>
-  <item>
-    <title>AlDanial / cloc</title>
-    <link>https://github.com/AlDanial/cloc</link>
-    <description>cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</description>
-  </item>
-  <item>
-    <title>Difegue / LANraragi</title>
-    <link>https://github.com/Difegue/LANraragi</link>
-    <description>Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.</description>
-  </item>
-  <item>
-    <title>manwar / perlweeklychallenge-club</title>
-    <link>https://github.com/manwar/perlweeklychallenge-club</link>
-    <description>Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…</description>
+    <title>adrienverge / openfortivpn</title>
+    <link>https://github.com/adrienverge/openfortivpn</link>
+    <description>Client for PPP+TLS VPN tunnel services</description>
   </item>
   <item>
     <title>inverse-inc / packetfence</title>
     <link>https://github.com/inverse-inc/packetfence</link>
     <description>PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…</description>
+  </item>
+  <item>
+    <title>AlDanial / cloc</title>
+    <link>https://github.com/AlDanial/cloc</link>
+    <description>cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</description>
   </item>
 </channel>
 </rss>

@@ -4,7 +4,7 @@
   <title>GitHub Mustache Languages Daily Trending</title>
   <description>Daily Trending of Mustache Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>prometheus-community / helm-charts</title>
     <link>https://github.com/prometheus-community/helm-charts</link>
@@ -26,24 +26,24 @@
     <description>This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.</description>
   </item>
   <item>
-    <title>argoproj / argo-helm</title>
-    <link>https://github.com/argoproj/argo-helm</link>
-    <description>ArgoProj Helm Charts</description>
-  </item>
-  <item>
     <title>goharbor / harbor-helm</title>
     <link>https://github.com/goharbor/harbor-helm</link>
     <description>The helm chart to deploy Harbor</description>
   </item>
   <item>
-    <title>temporalio / helm-charts</title>
-    <link>https://github.com/temporalio/helm-charts</link>
-    <description>Temporal Helm charts</description>
+    <title>argoproj / argo-helm</title>
+    <link>https://github.com/argoproj/argo-helm</link>
+    <description>ArgoProj Helm Charts</description>
   </item>
   <item>
     <title>aws / eks-charts</title>
     <link>https://github.com/aws/eks-charts</link>
     <description>Amazon EKS Helm chart repository</description>
+  </item>
+  <item>
+    <title>temporalio / helm-charts</title>
+    <link>https://github.com/temporalio/helm-charts</link>
+    <description>Temporal Helm charts</description>
   </item>
   <item>
     <title>goauthentik / helm</title>

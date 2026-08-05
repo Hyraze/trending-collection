@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "satijalab / seurat",
@@ -21,8 +21,18 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 5054,
-      "forks": 2125,
-      "added_stars": "18 stars this month"
+      "forks": 2124,
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "Rdatatable / data.table",
+      "url": "https://github.com/Rdatatable/data.table",
+      "description": "R's data.table package extends data.frame:",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 3904,
+      "forks": 1050,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "tidyverse / ggplot2",
@@ -31,18 +41,8 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 6982,
-      "forks": 2130,
-      "added_stars": "28 stars this month"
-    },
-    {
-      "title": "Rdatatable / data.table",
-      "url": "https://github.com/Rdatatable/data.table",
-      "description": "R's data.table package extends data.frame:",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 3905,
-      "forks": 1049,
-      "added_stars": "11 stars this month"
+      "forks": 2129,
+      "added_stars": "29 stars this month"
     },
     {
       "title": "swirldev / swirl_courses",
@@ -52,7 +52,17 @@
       "languageColor": "#198CE7",
       "stars": 4573,
       "forks": 7200,
-      "added_stars": "11 stars this month"
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "rstudio / shiny",
+      "url": "https://github.com/rstudio/shiny",
+      "description": "Easy interactive web applications with R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5673,
+      "forks": 1889,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "jinworks / CellChat",
@@ -62,7 +72,17 @@
       "languageColor": "#198CE7",
       "stars": 643,
       "forks": 109,
-      "added_stars": "13 stars this month"
+      "added_stars": "14 stars this month"
+    },
+    {
+      "title": "hadley / r4ds",
+      "url": "https://github.com/hadley/r4ds",
+      "description": "R for data science: a book",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5128,
+      "forks": 4435,
+      "added_stars": "57 stars this month"
     },
     {
       "title": "rdpeng / ProgrammingAssignment2",
@@ -71,28 +91,8 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 890,
-      "forks": 143402,
+      "forks": 143397,
       "added_stars": "2 stars this month"
-    },
-    {
-      "title": "rstudio / shiny",
-      "url": "https://github.com/rstudio/shiny",
-      "description": "Easy interactive web applications with R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5674,
-      "forks": 1889,
-      "added_stars": "17 stars this month"
-    },
-    {
-      "title": "hadley / r4ds",
-      "url": "https://github.com/hadley/r4ds",
-      "description": "R for data science: a book",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5127,
-      "forks": 4434,
-      "added_stars": "54 stars this month"
     },
     {
       "title": "sqjin / CellChat",

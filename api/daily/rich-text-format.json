@@ -2,36 +2,16 @@
   "title": "GitHub Rich-text-format Languages Daily Trending",
   "description": "Daily Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
     {
-      "title": "ckeditor / ckeditor4",
-      "url": "https://github.com/ckeditor/ckeditor4",
-      "description": "The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.",
+      "title": "cncf / foundation",
+      "url": "https://github.com/cncf/foundation",
+      "description": "☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": 5822,
-      "forks": 2447,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "artur-graniszewski / DLSS-Enabler",
-      "url": "https://github.com/artur-graniszewski/DLSS-Enabler",
-      "description": "Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.",
-      "language": "Rich Text Format",
-      "languageColor": "#ccc",
-      "stars": 1279,
-      "forks": 36,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "jlord / patchwork",
-      "url": "https://github.com/jlord/patchwork",
-      "description": "All the Git-it Workshop completers!",
-      "language": "Rich Text Format",
-      "languageColor": "#ccc",
-      "stars": 1161,
-      "forks": 41929,
+      "stars": 689,
+      "forks": 841,
       "added_stars": "0 stars today"
     },
     {
@@ -40,18 +20,18 @@
       "description": "Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen / TURZX",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": 2188,
+      "stars": 2189,
       "forks": 389,
       "added_stars": "2 stars today"
     },
     {
-      "title": "cncf / foundation",
-      "url": "https://github.com/cncf/foundation",
-      "description": "☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.",
+      "title": "ckeditor / ckeditor4",
+      "url": "https://github.com/ckeditor/ckeditor4",
+      "description": "The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": 689,
-      "forks": 840,
+      "stars": 5822,
+      "forks": 2447,
       "added_stars": "0 stars today"
     }
   ]

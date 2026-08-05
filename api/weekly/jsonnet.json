@@ -2,7 +2,7 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "prometheus-operator / kube-prometheus",
@@ -12,17 +12,7 @@
       "languageColor": "#0064bd",
       "stars": 7712,
       "forks": 2043,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "kubernetes-monitoring / kubernetes-mixin",
-      "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
-      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 2433,
-      "forks": 640,
-      "added_stars": "4 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "argoproj / argocd-example-apps",
@@ -30,8 +20,18 @@
       "description": "Example Apps to Demonstrate Argo CD",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": 2149,
-      "forks": 10159,
+      "stars": 2151,
+      "forks": 10161,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "kubernetes-monitoring / kubernetes-mixin",
+      "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
+      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 2434,
+      "forks": 640,
       "added_stars": "3 stars this week"
     }
   ]

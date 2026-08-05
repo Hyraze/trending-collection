@@ -4,7 +4,7 @@
   <title>GitHub Gdscript Languages Daily Trending</title>
   <description>Daily Trending of Gdscript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>hi-godot / godot-ai</title>
     <link>https://github.com/hi-godot/godot-ai</link>
@@ -26,6 +26,11 @@
     <description>Demonstration and Template Projects</description>
   </item>
   <item>
+    <title>dialogic-godot / dialogic</title>
+    <link>https://github.com/dialogic-godot/dialogic</link>
+    <description>💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!</description>
+  </item>
+  <item>
     <title>RodZill4 / material-maker</title>
     <link>https://github.com/RodZill4/material-maker</link>
     <description>A procedural textures authoring and 3D model painting tool based on the Godot game engine</description>
@@ -34,11 +39,6 @@
     <title>endlessm / threadbare</title>
     <link>https://github.com/endlessm/threadbare</link>
     <description>Rebuild an unraveling world</description>
-  </item>
-  <item>
-    <title>dialogic-godot / dialogic</title>
-    <link>https://github.com/dialogic-godot/dialogic</link>
-    <description>💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!</description>
   </item>
   <item>
     <title>Alexofp / BDCC</title>
@@ -61,9 +61,9 @@
     <description>🐝 behavior tree AI for Godot Engine</description>
   </item>
   <item>
-    <title>Maaack / Godot-Game-Template</title>
-    <link>https://github.com/Maaack/Godot-Game-Template</link>
-    <description>Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.</description>
+    <title>youichi-uda / godot-mcp-pro</title>
+    <link>https://github.com/youichi-uda/godot-mcp-pro</link>
+    <description>162 MCP tools for AI-powered Godot 4 development. Scene, animation, 3D, physics, particles, audio, shader, input simulation, runtime analysis, navigation, testing &amp; more. $15 one-time.</description>
   </item>
   <item>
     <title>MudkipWorld / PNGTuber-Remix</title>
@@ -71,9 +71,9 @@
     <description>An Open-source PNGTubing app :D</description>
   </item>
   <item>
-    <title>youichi-uda / godot-mcp-pro</title>
-    <link>https://github.com/youichi-uda/godot-mcp-pro</link>
-    <description>162 MCP tools for AI-powered Godot 4 development. Scene, animation, 3D, physics, particles, audio, shader, input simulation, runtime analysis, navigation, testing &amp; more. $15 one-time.</description>
+    <title>Maaack / Godot-Game-Template</title>
+    <link>https://github.com/Maaack/Godot-Game-Template</link>
+    <description>Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.</description>
   </item>
 </channel>
 </rss>

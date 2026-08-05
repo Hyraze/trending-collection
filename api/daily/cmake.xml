@@ -4,36 +4,11 @@
   <title>GitHub Cmake Languages Daily Trending</title>
   <description>Daily Trending of Cmake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
-  <item>
-    <title>shinchiro / mpv-winbuild-cmake</title>
-    <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
-    <description>CMake-based MinGW-w64 Cross Toolchain</description>
-  </item>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
   <item>
     <title>microsoft / vcpkg</title>
     <link>https://github.com/microsoft/vcpkg</link>
     <description>C++ Library Manager for Windows, Linux, and MacOS</description>
-  </item>
-  <item>
-    <title>steinbergmedia / vst3sdk</title>
-    <link>https://github.com/steinbergmedia/vst3sdk</link>
-    <description>VST 3 Plug-In SDK</description>
-  </item>
-  <item>
-    <title>bilke / cmake-modules</title>
-    <link>https://github.com/bilke/cmake-modules</link>
-    <description>Additional CMake functionality. Most of the modules are from Rylie Pavlik (https://github.com/rpavlik/cmake-modules)</description>
-  </item>
-  <item>
-    <title>arsenm / sanitizers-cmake</title>
-    <link>https://github.com/arsenm/sanitizers-cmake</link>
-    <description>CMake modules to help use sanitizers</description>
-  </item>
-  <item>
-    <title>leetal / ios-cmake</title>
-    <link>https://github.com/leetal/ios-cmake</link>
-    <description>A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development</description>
   </item>
   <item>
     <title>jrl-umi3218 / jrl-cmakemodules</title>
@@ -41,24 +16,14 @@
     <description>CMake utility toolbox</description>
   </item>
   <item>
-    <title>KiCad / kicad-footprints</title>
-    <link>https://github.com/KiCad/kicad-footprints</link>
-    <description>Official KiCad Footprint Libraries for Kicad version 5</description>
-  </item>
-  <item>
-    <title>KiCad / kicad-symbols</title>
-    <link>https://github.com/KiCad/kicad-symbols</link>
-    <description>Official KiCad schematic symbol libraries for Kicad 5</description>
-  </item>
-  <item>
     <title>ecmwf / ecbuild</title>
     <link>https://github.com/ecmwf/ecbuild</link>
     <description>A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</description>
   </item>
   <item>
-    <title>minecraft-linux / mcpelauncher-manifest</title>
-    <link>https://github.com/minecraft-linux/mcpelauncher-manifest</link>
-    <description>The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.</description>
+    <title>shinchiro / mpv-winbuild-cmake</title>
+    <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
+    <description>CMake-based MinGW-w64 Cross Toolchain</description>
   </item>
   <item>
     <title>boostorg / cmake</title>
@@ -66,29 +31,34 @@
     <description>CMake support infrastructure Boost submodule</description>
   </item>
   <item>
-    <title>Andersama / obs-asio</title>
-    <link>https://github.com/Andersama/obs-asio</link>
-    <description>ASIO plugin for OBS-Studio</description>
+    <title>bilke / cmake-modules</title>
+    <link>https://github.com/bilke/cmake-modules</link>
+    <description>Additional CMake functionality. Most of the modules are from Rylie Pavlik (https://github.com/rpavlik/cmake-modules)</description>
   </item>
   <item>
-    <title>corrosion-rs / corrosion</title>
-    <link>https://github.com/corrosion-rs/corrosion</link>
-    <description>Marrying Rust and CMake - Easy Rust and C/C++ Integration!</description>
+    <title>bkaradzic / bgfx.cmake</title>
+    <link>https://github.com/bkaradzic/bgfx.cmake</link>
+    <description>CMake build scripts for bgfx. Released under public domain.</description>
   </item>
   <item>
-    <title>editorconfig / editorconfig-core-test</title>
-    <link>https://github.com/editorconfig/editorconfig-core-test</link>
-    <description>Testings for EditorConfig Core</description>
+    <title>steinbergmedia / vst3sdk</title>
+    <link>https://github.com/steinbergmedia/vst3sdk</link>
+    <description>VST 3 Plug-In SDK</description>
+  </item>
+  <item>
+    <title>leetal / ios-cmake</title>
+    <link>https://github.com/leetal/ios-cmake</link>
+    <description>A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development</description>
+  </item>
+  <item>
+    <title>KiCad / kicad-footprints</title>
+    <link>https://github.com/KiCad/kicad-footprints</link>
+    <description>Official KiCad Footprint Libraries for Kicad version 5</description>
   </item>
   <item>
     <title>flathub / shared-modules</title>
     <link>https://github.com/flathub/shared-modules</link>
     <description>Common Flatpak modules that can be used as a git submodule</description>
-  </item>
-  <item>
-    <title>GEOS-ESM / GEOSgcm</title>
-    <link>https://github.com/GEOS-ESM/GEOSgcm</link>
-    <description>GEOS Earth System Model GEOSgcm Fixture</description>
   </item>
 </channel>
 </rss>

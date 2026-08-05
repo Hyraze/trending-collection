@@ -4,21 +4,31 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
     <description>Nix Packages collection &amp; NixOS</description>
   </item>
   <item>
-    <title>nix-community / stylix</title>
-    <link>https://github.com/nix-community/stylix</link>
-    <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
+    <title>graham33 / nixos-dgx-spark</title>
+    <link>https://github.com/graham33/nixos-dgx-spark</link>
+    <description>Use Nix and NixOS on your DGX Spark!</description>
   </item>
   <item>
-    <title>nix-community / ethereum.nix</title>
-    <link>https://github.com/nix-community/ethereum.nix</link>
-    <description>Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon,@bbjubjub2494]</description>
+    <title>nix-community / home-manager</title>
+    <link>https://github.com/nix-community/home-manager</link>
+    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+  </item>
+  <item>
+    <title>nix-darwin / nix-darwin</title>
+    <link>https://github.com/nix-darwin/nix-darwin</link>
+    <description>Manage your macOS using Nix</description>
+  </item>
+  <item>
+    <title>xddxdd / nix-cachyos-kernel</title>
+    <link>https://github.com/xddxdd/nix-cachyos-kernel</link>
+    <description>CachyOS kernel for NixOS</description>
   </item>
   <item>
     <title>microvm-nix / microvm.nix</title>
@@ -29,26 +39,6 @@
     <title>numtide / llm-agents.nix</title>
     <link>https://github.com/numtide/llm-agents.nix</link>
     <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
-  </item>
-  <item>
-    <title>sodiboo / niri-flake</title>
-    <link>https://github.com/sodiboo/niri-flake</link>
-    <description>Nix-native configuration for niri</description>
-  </item>
-  <item>
-    <title>oxalica / rust-overlay</title>
-    <link>https://github.com/oxalica/rust-overlay</link>
-    <description>Pure and reproducible nix overlay of binary distributed rust toolchains</description>
-  </item>
-  <item>
-    <title>Mic92 / sops-nix</title>
-    <link>https://github.com/Mic92/sops-nix</link>
-    <description>Atomic secret provisioning for NixOS based on sops</description>
-  </item>
-  <item>
-    <title>nix-darwin / nix-darwin</title>
-    <link>https://github.com/nix-darwin/nix-darwin</link>
-    <description>Manage your macOS using Nix</description>
   </item>
   <item>
     <title>NixOS / nixos-hardware</title>
@@ -64,6 +54,11 @@
     <title>supabase / postgres</title>
     <link>https://github.com/supabase/postgres</link>
     <description>Unmodified Postgres with some useful extensions</description>
+  </item>
+  <item>
+    <title>numtide / system-manager</title>
+    <link>https://github.com/numtide/system-manager</link>
+    <description>Manage system config using nix on any distro</description>
   </item>
 </channel>
 </rss>

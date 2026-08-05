@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
     {
       "title": "virgiliojr94 / book-to-skill",
@@ -10,9 +10,9 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16010,
-      "forks": 1712,
-      "added_stars": "5,405 stars this week"
+      "stars": 16524,
+      "forks": 1753,
+      "added_stars": "5,420 stars this week"
     },
     {
       "title": "ayghri / i-have-adhd",
@@ -20,49 +20,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16372,
-      "forks": 925,
-      "added_stars": "5,012 stars this week"
-    },
-    {
-      "title": "andrewyng / aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 15984,
-      "forks": 1686,
-      "added_stars": "444 stars this week"
-    },
-    {
-      "title": "microsoft / TRELLIS.2",
-      "url": "https://github.com/microsoft/TRELLIS.2",
-      "description": "Native and Compact Structured Latents for 3D Generation",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 10329,
-      "forks": 1236,
-      "added_stars": "1,250 stars this week"
-    },
-    {
-      "title": "shiyu-coder / Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 35871,
-      "forks": 5970,
-      "added_stars": "1,379 stars this week"
-    },
-    {
-      "title": "microsoft / VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 51906,
-      "forks": 5749,
-      "added_stars": "1,357 stars this week"
+      "stars": 16864,
+      "forks": 954,
+      "added_stars": "4,389 stars this week"
     },
     {
       "title": "huggingface / speech-to-speech",
@@ -70,29 +30,49 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10752,
-      "forks": 1321,
-      "added_stars": "4,135 stars this week"
+      "stars": 10984,
+      "forks": 1351,
+      "added_stars": "4,009 stars this week"
     },
     {
-      "title": "arc53 / DocsGPT",
-      "url": "https://github.com/arc53/DocsGPT",
-      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "title": "shiyu-coder / Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 18192,
-      "forks": 2110,
-      "added_stars": "82 stars this week"
+      "stars": 35999,
+      "forks": 5988,
+      "added_stars": "1,244 stars this week"
     },
     {
-      "title": "razzant / ouroboros",
-      "url": "https://github.com/razzant/ouroboros",
-      "description": "Ouroboros — self-creating AI agent. Born Feb 16, 2026.",
+      "title": "microsoft / TRELLIS.2",
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "description": "Native and Compact Structured Latents for 3D Generation",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 917,
-      "forks": 571,
-      "added_stars": "175 stars this week"
+      "stars": 10375,
+      "forks": 1241,
+      "added_stars": "1,308 stars this week"
+    },
+    {
+      "title": "microsoft / VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 51937,
+      "forks": 5748,
+      "added_stars": "1,136 stars this week"
+    },
+    {
+      "title": "andrewyng / aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 16022,
+      "forks": 1689,
+      "added_stars": "421 stars this week"
     },
     {
       "title": "modelcontextprotocol / python-sdk",
@@ -100,9 +80,29 @@
       "description": "The official Python SDK for Model Context Protocol servers and clients",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23875,
-      "forks": 3737,
-      "added_stars": "145 stars this week"
+      "stars": 23888,
+      "forks": 3743,
+      "added_stars": "152 stars this week"
+    },
+    {
+      "title": "arc53 / DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 18198,
+      "forks": 2110,
+      "added_stars": "51 stars this week"
+    },
+    {
+      "title": "OWASP / CheatSheetSeries",
+      "url": "https://github.com/OWASP/CheatSheetSeries",
+      "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 32804,
+      "forks": 4568,
+      "added_stars": "114 stars this week"
     },
     {
       "title": "sherlock-project / sherlock",
@@ -110,29 +110,29 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 88174,
-      "forks": 10350,
-      "added_stars": "1,052 stars this week"
+      "stars": 88247,
+      "forks": 10363,
+      "added_stars": "1,024 stars this week"
     },
     {
-      "title": "Tracer-Cloud / opensre",
-      "url": "https://github.com/Tracer-Cloud/opensre",
-      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+      "title": "neka-nat / freecad-mcp",
+      "url": "https://github.com/neka-nat/freecad-mcp",
+      "description": "FreeCAD MCP(Model Context Protocol) server",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9884,
-      "forks": 1402,
-      "added_stars": "537 stars this week"
+      "stars": 1622,
+      "forks": 229,
+      "added_stars": "131 stars this week"
     },
     {
-      "title": "HKUDS / OpenSpace",
-      "url": "https://github.com/HKUDS/OpenSpace",
-      "description": "\"OpenSpace: The Skill Management Layer for AI Agents\" -- https://open-space.cloud/",
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7264,
-      "forks": 879,
-      "added_stars": "181 stars this week"
+      "stars": 32664,
+      "forks": 3227,
+      "added_stars": "647 stars this week"
     }
   ]
 }

@@ -2,37 +2,27 @@
   "title": "GitHub Roff Languages Daily Trending",
   "description": "Daily Trending of Roff Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
-    {
-      "title": "sidpalas / devops-directive-docker-course",
-      "url": "https://github.com/sidpalas/devops-directive-docker-course",
-      "description": "Companion repo for complete Docker course",
-      "language": "Roff",
-      "languageColor": "#ecdebe",
-      "stars": 3322,
-      "forks": 2516,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "DataDog / docker-dd-agent",
-      "url": "https://github.com/DataDog/docker-dd-agent",
-      "description": "Datadog Agent Dockerfile for Trusted Builds.",
-      "language": "Roff",
-      "languageColor": "#ecdebe",
-      "stars": 301,
-      "forks": 183,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "TapXWorld / ChinaTextbook",
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": 76554,
-      "forks": 17250,
-      "added_stars": "168 stars today"
+      "stars": 76745,
+      "forks": 17325,
+      "added_stars": "132 stars today"
+    },
+    {
+      "title": "sidpalas / devops-directive-docker-course",
+      "url": "https://github.com/sidpalas/devops-directive-docker-course",
+      "description": "Companion repo for complete Docker course",
+      "language": "Roff",
+      "languageColor": "#ecdebe",
+      "stars": 3323,
+      "forks": 2519,
+      "added_stars": "1 star today"
     }
   ]
 }

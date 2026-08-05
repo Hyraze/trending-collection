@@ -2,17 +2,27 @@
   "title": "GitHub Batchfile Languages Daily Trending",
   "description": "Daily Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
+    {
+      "title": "tytsxai / IDM-Activation-Script-Chinese",
+      "url": "https://github.com/tytsxai/IDM-Activation-Script-Chinese",
+      "description": "IDM 激活脚本中文版 · GPL-3.0 开源 Windows 批处理工具：支持试用期冻结、普通激活、一键重置与环境自检，GBK 中文菜单无乱码 | Chinese edition of IDM Activation Script — GBK-encoded batch toolkit for Internet Download Manager on Windows 7/8/10/11, no binary patching, automatic registry backup",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 1491,
+      "forks": 109,
+      "added_stars": "716 stars this month"
+    },
     {
       "title": "Flowseal / zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 31707,
-      "forks": 2445,
-      "added_stars": "1,452 stars this month"
+      "stars": 31738,
+      "forks": 2447,
+      "added_stars": "1,453 stars this month"
     },
     {
       "title": "Alex313031 / Thorium-Win",
@@ -20,7 +30,7 @@
       "description": "Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 2498,
+      "stars": 2500,
       "forks": 53,
       "added_stars": "55 stars this month"
     },
@@ -30,19 +40,19 @@
       "description": "A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 8142,
-      "forks": 518,
-      "added_stars": "192 stars this month"
+      "stars": 8140,
+      "forks": 519,
+      "added_stars": "190 stars this month"
     },
     {
-      "title": "illsk1lls / ZipRipper",
-      "url": "https://github.com/illsk1lls/ZipRipper",
-      "description": "A CMD script to crack password protected ZIP, RAR, 7z and PDF files, using JohnTheRipper.",
+      "title": "VirtualHotBar / HotPEToolBox",
+      "url": "https://github.com/VirtualHotBar/HotPEToolBox",
+      "description": "一个纯净、强大、优雅的WinPE",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 769,
-      "forks": 110,
-      "added_stars": "34 stars this month"
+      "stars": 2119,
+      "forks": 153,
+      "added_stars": "61 stars this month"
     },
     {
       "title": "AveYo / MediaCreationTool.bat",
@@ -52,17 +62,17 @@
       "languageColor": "#C1F12E",
       "stars": 10269,
       "forks": 3138,
-      "added_stars": "48 stars this month"
+      "added_stars": "47 stars this month"
     },
     {
-      "title": "VirtualHotBar / HotPEToolBox",
-      "url": "https://github.com/VirtualHotBar/HotPEToolBox",
-      "description": "一个纯净、强大、优雅的WinPE",
+      "title": "ShadowWhisperer / Remove-MS-Edge",
+      "url": "https://github.com/ShadowWhisperer/Remove-MS-Edge",
+      "description": "Uninstall Microsoft Edge with an executable or batch script.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": 2118,
-      "forks": 153,
-      "added_stars": "62 stars this month"
+      "stars": 5382,
+      "forks": 204,
+      "added_stars": "115 stars this month"
     }
   ]
 }

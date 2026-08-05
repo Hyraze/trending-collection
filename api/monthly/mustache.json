@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "prometheus-community / helm-charts",
@@ -11,7 +11,7 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": 6165,
-      "forks": 5379,
+      "forks": 5378,
       "added_stars": "22 stars this month"
     },
     {
@@ -30,9 +30,9 @@
       "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 17780,
+      "stars": 17779,
       "forks": 5966,
-      "added_stars": "28 stars this month"
+      "added_stars": "27 stars this month"
     },
     {
       "title": "amzn / selling-partner-api-models",
@@ -40,9 +40,19 @@
       "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 883,
+      "stars": 885,
       "forks": 792,
       "added_stars": "17 stars this month"
+    },
+    {
+      "title": "goharbor / harbor-helm",
+      "url": "https://github.com/goharbor/harbor-helm",
+      "description": "The helm chart to deploy Harbor",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 1510,
+      "forks": 861,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "argoproj / argo-helm",
@@ -55,14 +65,14 @@
       "added_stars": "21 stars this month"
     },
     {
-      "title": "goharbor / harbor-helm",
-      "url": "https://github.com/goharbor/harbor-helm",
-      "description": "The helm chart to deploy Harbor",
+      "title": "aws / eks-charts",
+      "url": "https://github.com/aws/eks-charts",
+      "description": "Amazon EKS Helm chart repository",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 1509,
-      "forks": 861,
-      "added_stars": "7 stars this month"
+      "stars": 1302,
+      "forks": 1082,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "temporalio / helm-charts",
@@ -75,24 +85,14 @@
       "added_stars": "7 stars this month"
     },
     {
-      "title": "aws / eks-charts",
-      "url": "https://github.com/aws/eks-charts",
-      "description": "Amazon EKS Helm chart repository",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 1302,
-      "forks": 1082,
-      "added_stars": "4 stars this month"
-    },
-    {
       "title": "goauthentik / helm",
       "url": "https://github.com/goauthentik/helm",
       "description": "Helm chart for authentik",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 180,
+      "stars": 181,
       "forks": 67,
-      "added_stars": "2 stars this month"
+      "added_stars": "3 stars this month"
     },
     {
       "title": "netbox-community / netbox-chart",
@@ -100,9 +100,9 @@
       "description": "A Helm chart for NetBox",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 350,
-      "forks": 183,
-      "added_stars": "5 stars this month"
+      "stars": 351,
+      "forks": 185,
+      "added_stars": "6 stars this month"
     }
   ]
 }

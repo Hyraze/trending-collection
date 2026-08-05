@@ -2,37 +2,17 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 04:58:47 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
   "items": [
-    {
-      "title": "gravitee-io / issues",
-      "url": "https://github.com/gravitee-io/issues",
-      "description": "Gravitee.io - API Platform - Issues",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 68,
-      "forks": 28,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "gradle / gradle",
       "url": "https://github.com/gradle/gradle",
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 18753,
-      "forks": 5329,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "apache / grails-core",
-      "url": "https://github.com/apache/grails-core",
-      "description": "Grails - the Web Application Framework",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 2924,
-      "forks": 972,
-      "added_stars": "0 stars today"
+      "stars": 18754,
+      "forks": 5334,
+      "added_stars": "3 stars today"
     },
     {
       "title": "rundeck / rundeck",
@@ -43,6 +23,26 @@
       "stars": 6252,
       "forks": 983,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "nextflow-io / nextflow",
+      "url": "https://github.com/nextflow-io/nextflow",
+      "description": "A DSL for data-driven computational pipelines",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 3456,
+      "forks": 799,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "apache / grails-core",
+      "url": "https://github.com/apache/grails-core",
+      "description": "Grails - the Web Application Framework",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 2924,
+      "forks": 972,
+      "added_stars": "0 stars today"
     }
   ]
 }

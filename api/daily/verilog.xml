@@ -4,16 +4,11 @@
   <title>GitHub Verilog Languages Daily Trending</title>
   <description>Daily Trending of Verilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
   <item>
-    <title>The-OpenROAD-Project / OpenSTA</title>
-    <link>https://github.com/The-OpenROAD-Project/OpenSTA</link>
-    <description>OpenSTA engine</description>
-  </item>
-  <item>
-    <title>YosysHQ / picorv32</title>
-    <link>https://github.com/YosysHQ/picorv32</link>
-    <description>PicoRV32 - A Size-Optimized RISC-V CPU</description>
+    <title>The-OpenROAD-Project / OpenROAD</title>
+    <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
+    <description>OpenROAD&#x27;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</description>
   </item>
   <item>
     <title>analogdevicesinc / hdl</title>
@@ -21,14 +16,29 @@
     <description>HDL libraries and projects</description>
   </item>
   <item>
-    <title>alexforencich / verilog-ethernet</title>
-    <link>https://github.com/alexforencich/verilog-ethernet</link>
-    <description>Verilog Ethernet components for FPGA implementation</description>
+    <title>The-OpenROAD-Project / OpenSTA</title>
+    <link>https://github.com/The-OpenROAD-Project/OpenSTA</link>
+    <description>OpenSTA engine</description>
   </item>
   <item>
-    <title>The-OpenROAD-Project / OpenROAD</title>
-    <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
-    <description>OpenROAD&#x27;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</description>
+    <title>EttusResearch / uhd</title>
+    <link>https://github.com/EttusResearch/uhd</link>
+    <description>The USRP™ Hardware Driver Repository</description>
+  </item>
+  <item>
+    <title>YosysHQ / picorv32</title>
+    <link>https://github.com/YosysHQ/picorv32</link>
+    <description>PicoRV32 - A Size-Optimized RISC-V CPU</description>
+  </item>
+  <item>
+    <title>The-OpenROAD-Project / OpenROAD-flow-scripts</title>
+    <link>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</link>
+    <description>OpenROAD&#x27;s scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/</description>
+  </item>
+  <item>
+    <title>vortexgpgpu / vortex</title>
+    <link>https://github.com/vortexgpgpu/vortex</link>
+    <description></description>
   </item>
 </channel>
 </rss>

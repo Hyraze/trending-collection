@@ -4,7 +4,7 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>permissionlesstech / bitchat</title>
     <link>https://github.com/permissionlesstech/bitchat</link>
@@ -31,14 +31,14 @@
     <description>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.</description>
   </item>
   <item>
-    <title>koala73 / worldmonitor</title>
-    <link>https://github.com/koala73/worldmonitor</link>
-    <description>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</description>
-  </item>
-  <item>
     <title>Nutlope / hallmark</title>
     <link>https://github.com/Nutlope/hallmark</link>
     <description>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</description>
+  </item>
+  <item>
+    <title>koala73 / worldmonitor</title>
+    <link>https://github.com/koala73/worldmonitor</link>
+    <description>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</description>
   </item>
   <item>
     <title>iOfficeAI / OfficeCLI</title>
@@ -46,39 +46,19 @@
     <description>OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.</description>
   </item>
   <item>
-    <title>bradautomates / claude-video</title>
-    <link>https://github.com/bradautomates/claude-video</link>
-    <description>Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
-  </item>
-  <item>
-    <title>Zackriya-Solutions / meetily</title>
-    <link>https://github.com/Zackriya-Solutions/meetily</link>
-    <description>Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes</description>
-  </item>
-  <item>
     <title>huggingface / speech-to-speech</title>
     <link>https://github.com/huggingface/speech-to-speech</link>
     <description>Build local voice agents with open-source models</description>
   </item>
   <item>
+    <title>bradautomates / claude-video</title>
+    <link>https://github.com/bradautomates/claude-video</link>
+    <description>Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
+  </item>
+  <item>
     <title>wonderwhy-er / DesktopCommanderMCP</title>
     <link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
     <description>This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities</description>
-  </item>
-  <item>
-    <title>facebook / astryx</title>
-    <link>https://github.com/facebook/astryx</link>
-    <description>An open source design system that&#x27;s fully customizable and agent ready</description>
-  </item>
-  <item>
-    <title>openai / codex-plugin-cc</title>
-    <link>https://github.com/openai/codex-plugin-cc</link>
-    <description>Use Codex from Claude Code to review code or delegate tasks.</description>
-  </item>
-  <item>
-    <title>asgeirtj / system_prompts_leaks</title>
-    <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-    <description>Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.</description>
   </item>
   <item>
     <title>1jehuang / jcode</title>
@@ -101,9 +81,14 @@
     <description>The design language that makes your AI harness better at design.</description>
   </item>
   <item>
-    <title>usestrix / strix</title>
-    <link>https://github.com/usestrix/strix</link>
-    <description>Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</description>
+    <title>facebook / astryx</title>
+    <link>https://github.com/facebook/astryx</link>
+    <description>An open source design system that&#x27;s fully customizable and agent ready</description>
+  </item>
+  <item>
+    <title>pingdotgg / t3code</title>
+    <link>https://github.com/pingdotgg/t3code</link>
+    <description></description>
   </item>
   <item>
     <title>OpenCut-app / OpenCut</title>
@@ -111,9 +96,24 @@
     <description>The open-source CapCut alternative</description>
   </item>
   <item>
-    <title>pingdotgg / t3code</title>
-    <link>https://github.com/pingdotgg/t3code</link>
-    <description></description>
+    <title>HKUDS / Vibe-Trading</title>
+    <link>https://github.com/HKUDS/Vibe-Trading</link>
+    <description>&quot;Vibe-Trading: Your Personal Trading Agent&quot;</description>
+  </item>
+  <item>
+    <title>openai / codex-plugin-cc</title>
+    <link>https://github.com/openai/codex-plugin-cc</link>
+    <description>Use Codex from Claude Code to review code or delegate tasks.</description>
+  </item>
+  <item>
+    <title>every-app / open-seo</title>
+    <link>https://github.com/every-app/open-seo</link>
+    <description>Open source alternative to Semrush and Ahrefs</description>
+  </item>
+  <item>
+    <title>usestrix / strix</title>
+    <link>https://github.com/usestrix/strix</link>
+    <description>Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</description>
   </item>
 </channel>
 </rss>

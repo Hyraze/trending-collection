@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "erlang / otp",
@@ -10,8 +10,8 @@
       "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 12320,
-      "forks": 3250,
+      "stars": 12321,
+      "forks": 3255,
       "added_stars": "183 stars this month"
     },
     {
@@ -20,9 +20,9 @@
       "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 16585,
+      "stars": 16589,
       "forks": 2542,
-      "added_stars": "148 stars this month"
+      "added_stars": "149 stars this month"
     },
     {
       "title": "apache / couchdb",
@@ -30,19 +30,9 @@
       "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 6934,
+      "stars": 6932,
       "forks": 1077,
       "added_stars": "24 stars this month"
-    },
-    {
-      "title": "blt / port_compiler",
-      "url": "https://github.com/blt/port_compiler",
-      "description": "A rebar3 port compiler",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 69,
-      "forks": 40,
-      "added_stars": "0 stars this month"
     },
     {
       "title": "eproxus / meck",
@@ -55,14 +45,24 @@
       "added_stars": "1 star this month"
     },
     {
+      "title": "blt / port_compiler",
+      "url": "https://github.com/blt/port_compiler",
+      "description": "A rebar3 port compiler",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 69,
+      "forks": 40,
+      "added_stars": "0 stars this month"
+    },
+    {
       "title": "processone / ejabberd",
       "url": "https://github.com/processone/ejabberd",
       "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
       "language": "Erlang",
       "languageColor": "#B83998",
       "stars": 6710,
-      "forks": 1547,
-      "added_stars": "20 stars this month"
+      "forks": 1546,
+      "added_stars": "21 stars this month"
     },
     {
       "title": "ninenines / cowboy",

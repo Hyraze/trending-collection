@@ -2,37 +2,17 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
-    {
-      "title": "OtterMind / Chat2DB",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 27623,
-      "forks": 2989,
-      "added_stars": "194 stars this week"
-    },
     {
       "title": "github / copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10341,
+      "stars": 10346,
       "forks": 1395,
-      "added_stars": "304 stars this week"
-    },
-    {
-      "title": "jenkinsci / jenkins",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 26407,
-      "forks": 9770,
-      "added_stars": "582 stars this week"
+      "added_stars": "307 stars this week"
     },
     {
       "title": "quarkusio / quarkus",
@@ -40,59 +20,19 @@
       "description": "Quarkus: Supersonic Subatomic Java.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 15808,
-      "forks": 3260,
+      "stars": 15807,
+      "forks": 3259,
       "added_stars": "20 stars this week"
     },
     {
-      "title": "termux / termux-app",
-      "url": "https://github.com/termux/termux-app",
-      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "title": "jenkinsci / jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 58608,
-      "forks": 7125,
-      "added_stars": "390 stars this week"
-    },
-    {
-      "title": "NationalSecurityAgency / ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 71834,
-      "forks": 7857,
-      "added_stars": "388 stars this week"
-    },
-    {
-      "title": "JabRef / jabref",
-      "url": "https://github.com/JabRef/jabref",
-      "description": "Desktop app for managing BibTeX and BibLaTeX (.bib) libraries",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4532,
-      "forks": 3490,
-      "added_stars": "88 stars this week"
-    },
-    {
-      "title": "DrKLO / Telegram",
-      "url": "https://github.com/DrKLO/Telegram",
-      "description": "Telegram for Android source",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 29652,
-      "forks": 9865,
-      "added_stars": "62 stars this week"
-    },
-    {
-      "title": "iluwatar / java-design-patterns",
-      "url": "https://github.com/iluwatar/java-design-patterns",
-      "description": "Design patterns implemented in Java",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 94519,
-      "forks": 27412,
-      "added_stars": "296 stars this week"
+      "stars": 26413,
+      "forks": 9774,
+      "added_stars": "381 stars this week"
     },
     {
       "title": "Apicurio / apicurio-registry",
@@ -100,19 +40,39 @@
       "description": "An API/Schema registry - stores APIs and Schemas.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 889,
-      "forks": 530,
-      "added_stars": "23 stars this week"
+      "stars": 892,
+      "forks": 544,
+      "added_stars": "20 stars this week"
     },
     {
-      "title": "iBotPeaches / Apktool",
-      "url": "https://github.com/iBotPeaches/Apktool",
-      "description": "A tool for reverse engineering Android apk files",
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25198,
-      "forks": 3977,
-      "added_stars": "91 stars this week"
+      "stars": 71900,
+      "forks": 7863,
+      "added_stars": "390 stars this week"
+    },
+    {
+      "title": "dbeaver / dbeaver",
+      "url": "https://github.com/dbeaver/dbeaver",
+      "description": "Free universal database tool and SQL client",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 51295,
+      "forks": 4317,
+      "added_stars": "127 stars this week"
+    },
+    {
+      "title": "termux / termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 58671,
+      "forks": 7135,
+      "added_stars": "399 stars this week"
     },
     {
       "title": "Creators-of-Create / Create",
@@ -120,89 +80,19 @@
       "description": "[NeoForge Mod] Building Tools and Aesthetic Technology",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4399,
-      "forks": 1377,
-      "added_stars": "25 stars this week"
+      "stars": 4403,
+      "forks": 1376,
+      "added_stars": "22 stars this week"
     },
     {
-      "title": "RikkaApps / Shizuku-API",
-      "url": "https://github.com/RikkaApps/Shizuku-API",
-      "description": "The API and the developer guide for Shizuku and Sui.",
+      "title": "iluwatar / java-design-patterns",
+      "url": "https://github.com/iluwatar/java-design-patterns",
+      "description": "Design patterns implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2409,
-      "forks": 1054,
-      "added_stars": "36 stars this week"
-    },
-    {
-      "title": "langchain4j / langchain4j",
-      "url": "https://github.com/langchain4j/langchain4j",
-      "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 12774,
-      "forks": 2418,
-      "added_stars": "69 stars this week"
-    },
-    {
-      "title": "NotHarshhaa / DevOps-Projects",
-      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
-      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4790,
-      "forks": 4385,
-      "added_stars": "87 stars this week"
-    },
-    {
-      "title": "halo-dev / halo",
-      "url": "https://github.com/halo-dev/halo",
-      "description": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 39470,
-      "forks": 10325,
-      "added_stars": "122 stars this week"
-    },
-    {
-      "title": "DependencyTrack / dependency-track",
-      "url": "https://github.com/DependencyTrack/dependency-track",
-      "description": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4069,
-      "forks": 790,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "LaurieWired / GhidraMCP",
-      "url": "https://github.com/LaurieWired/GhidraMCP",
-      "description": "MCP Server for Ghidra",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9698,
-      "forks": 1004,
-      "added_stars": "99 stars this week"
-    },
-    {
-      "title": "camunda / camunda",
-      "url": "https://github.com/camunda/camunda",
-      "description": "Process Orchestration Framework",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4231,
-      "forks": 807,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "apache / iceberg",
-      "url": "https://github.com/apache/iceberg",
-      "description": "Apache Iceberg",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9108,
-      "forks": 3427,
-      "added_stars": "27 stars this week"
+      "stars": 94529,
+      "forks": 27415,
+      "added_stars": "277 stars this week"
     },
     {
       "title": "woheller69 / FreeDroidWarn",
@@ -210,29 +100,159 @@
       "description": "",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3034,
+      "stars": 3045,
       "forks": 109,
       "added_stars": "85 stars this week"
     },
     {
-      "title": "zaproxy / zaproxy",
-      "url": "https://github.com/zaproxy/zaproxy",
-      "description": "The ZAP by Checkmarx Core project",
+      "title": "DrKLO / Telegram",
+      "url": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 15530,
-      "forks": 2604,
-      "added_stars": "46 stars this week"
+      "stars": 29661,
+      "forks": 9869,
+      "added_stars": "73 stars this week"
     },
     {
-      "title": "keycloak / keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "title": "TeamNewPipe / NewPipe",
+      "url": "https://github.com/TeamNewPipe/NewPipe",
+      "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 35976,
-      "forks": 8723,
+      "stars": 39230,
+      "forks": 3708,
+      "added_stars": "103 stars this week"
+    },
+    {
+      "title": "halo-dev / halo",
+      "url": "https://github.com/halo-dev/halo",
+      "description": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 39475,
+      "forks": 10326,
       "added_stars": "124 stars this week"
+    },
+    {
+      "title": "modelcontextprotocol / java-sdk",
+      "url": "https://github.com/modelcontextprotocol/java-sdk",
+      "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 3636,
+      "forks": 1101,
+      "added_stars": "42 stars this week"
+    },
+    {
+      "title": "iBotPeaches / Apktool",
+      "url": "https://github.com/iBotPeaches/Apktool",
+      "description": "A tool for reverse engineering Android apk files",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 25202,
+      "forks": 3975,
+      "added_stars": "81 stars this week"
+    },
+    {
+      "title": "TheAlgorithms / Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 66102,
+      "forks": 21241,
+      "added_stars": "63 stars this week"
+    },
+    {
+      "title": "Azure / azure-sdk-for-java",
+      "url": "https://github.com/Azure/azure-sdk-for-java",
+      "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2566,
+      "forks": 2180,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "NotHarshhaa / DevOps-Projects",
+      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
+      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4798,
+      "forks": 4388,
+      "added_stars": "90 stars this week"
+    },
+    {
+      "title": "HMCL-dev / HMCL",
+      "url": "https://github.com/HMCL-dev/HMCL",
+      "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 9792,
+      "forks": 919,
+      "added_stars": "74 stars this week"
+    },
+    {
+      "title": "opensearch-project / OpenSearch",
+      "url": "https://github.com/opensearch-project/OpenSearch",
+      "description": "🔎 Open source distributed and RESTful search engine.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 13458,
+      "forks": 2877,
+      "added_stars": "59 stars this week"
+    },
+    {
+      "title": "DependencyTrack / dependency-track",
+      "url": "https://github.com/DependencyTrack/dependency-track",
+      "description": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4078,
+      "forks": 790,
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "spring-projects / spring-boot",
+      "url": "https://github.com/spring-projects/spring-boot",
+      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 81246,
+      "forks": 42102,
+      "added_stars": "107 stars this week"
+    },
+    {
+      "title": "camunda / camunda",
+      "url": "https://github.com/camunda/camunda",
+      "description": "Process Orchestration Framework",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4233,
+      "forks": 807,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "LaurieWired / GhidraMCP",
+      "url": "https://github.com/LaurieWired/GhidraMCP",
+      "description": "MCP Server for Ghidra",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 9711,
+      "forks": 1007,
+      "added_stars": "107 stars this week"
+    },
+    {
+      "title": "openjdk / jdk",
+      "url": "https://github.com/openjdk/jdk",
+      "description": "JDK main-line development https://openjdk.org/projects/jdk",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 23186,
+      "forks": 6396,
+      "added_stars": "37 stars this week"
     }
   ]
 }

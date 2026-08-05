@@ -4,7 +4,7 @@
   <title>GitHub Objective-c Languages Daily Trending</title>
   <description>Daily Trending of Objective-c Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>maderix / ANE</title>
     <link>https://github.com/maderix/ANE</link>
@@ -36,11 +36,6 @@
     <description>The Git interface you&#x27;ve been missing all your life has finally arrived.</description>
   </item>
   <item>
-    <title>PojavLauncherTeam / PojavLauncher_iOS</title>
-    <link>https://github.com/PojavLauncherTeam/PojavLauncher_iOS</link>
-    <description>A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS</description>
-  </item>
-  <item>
     <title>objective-see / LuLu</title>
     <link>https://github.com/objective-see/LuLu</link>
     <description>LuLu is the free open-source macOS firewall</description>
@@ -49,6 +44,11 @@
     <title>realm / realm-swift</title>
     <link>https://github.com/realm/realm-swift</link>
     <description>Realm is a mobile database: a replacement for Core Data &amp; SQLite</description>
+  </item>
+  <item>
+    <title>PojavLauncherTeam / PojavLauncher_iOS</title>
+    <link>https://github.com/PojavLauncherTeam/PojavLauncher_iOS</link>
+    <description>A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS</description>
   </item>
   <item>
     <title>gnachman / iTerm2</title>
@@ -61,24 +61,19 @@
     <description>Staggeringly powerful macOS desktop automation with Lua</description>
   </item>
   <item>
-    <title>dcloudio / uni-app</title>
-    <link>https://github.com/dcloudio/uni-app</link>
-    <description>A cross-platform framework using Vue.js</description>
-  </item>
-  <item>
     <title>google / GoogleUtilities</title>
     <link>https://github.com/google/GoogleUtilities</link>
+    <description></description>
+  </item>
+  <item>
+    <title>google / GoogleDataTransport</title>
+    <link>https://github.com/google/GoogleDataTransport</link>
     <description></description>
   </item>
   <item>
     <title>google / promises</title>
     <link>https://github.com/google/promises</link>
     <description>Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</description>
-  </item>
-  <item>
-    <title>google / GoogleDataTransport</title>
-    <link>https://github.com/google/GoogleDataTransport</link>
-    <description></description>
   </item>
   <item>
     <title>google / gtm-session-fetcher</title>
@@ -101,14 +96,14 @@
     <description>Asynchronous image downloader with cache support as a UIImageView category</description>
   </item>
   <item>
+    <title>dcloudio / uni-app</title>
+    <link>https://github.com/dcloudio/uni-app</link>
+    <description>A cross-platform framework using Vue.js</description>
+  </item>
+  <item>
     <title>adjust / ios_sdk</title>
     <link>https://github.com/adjust/ios_sdk</link>
     <description>This is the iOS SDK of</description>
-  </item>
-  <item>
-    <title>kstenerud / KSCrash</title>
-    <link>https://github.com/kstenerud/KSCrash</link>
-    <description>The Ultimate iOS Crash Reporter</description>
   </item>
 </channel>
 </rss>

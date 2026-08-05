@@ -4,16 +4,26 @@
   <title>GitHub Mlir Languages Daily Trending</title>
   <description>Daily Trending of Mlir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 04:58:47 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
   <item>
-    <title>openxla / stablehlo</title>
-    <link>https://github.com/openxla/stablehlo</link>
-    <description>Backward compatible ML compute opset inspired by HLO/MHLO</description>
+    <title>triton-lang / triton-ascend</title>
+    <link>https://github.com/triton-lang/triton-ascend</link>
+    <description>Triton language and compiler for Ascend NPU</description>
+  </item>
+  <item>
+    <title>triton-lang / triton</title>
+    <link>https://github.com/triton-lang/triton</link>
+    <description>Development repository for the Triton language and compiler</description>
   </item>
   <item>
     <title>intel / intel-xpu-backend-for-triton</title>
     <link>https://github.com/intel/intel-xpu-backend-for-triton</link>
     <description>OpenAI Triton backend for Intel® GPUs</description>
+  </item>
+  <item>
+    <title>openxla / stablehlo</title>
+    <link>https://github.com/openxla/stablehlo</link>
+    <description>Backward compatible ML compute opset inspired by HLO/MHLO</description>
   </item>
 </channel>
 </rss>

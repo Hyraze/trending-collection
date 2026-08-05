@@ -4,7 +4,7 @@
   <title>GitHub Ocaml Languages Daily Trending</title>
   <description>Daily Trending of Ocaml Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 04 Aug 2026 05:04:00 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
   <item>
     <title>ocaml / ocaml</title>
     <link>https://github.com/ocaml/ocaml</link>
@@ -21,6 +21,11 @@
     <description>🔎 Static code analysis engine to find security issues in code.</description>
   </item>
   <item>
+    <title>janestreet / bonsai</title>
+    <link>https://github.com/janestreet/bonsai</link>
+    <description>A library for building dynamic webapps, using Js_of_ocaml</description>
+  </item>
+  <item>
     <title>ocaml / dune</title>
     <link>https://github.com/ocaml/dune</link>
     <description>A composable build system for OCaml.</description>
@@ -31,14 +36,14 @@
     <description>The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.</description>
   </item>
   <item>
-    <title>MLstate / opalang</title>
-    <link>https://github.com/MLstate/opalang</link>
-    <description>The Opa Language for Web Application Development</description>
-  </item>
-  <item>
     <title>MinaProtocol / mina</title>
     <link>https://github.com/MinaProtocol/mina</link>
     <description>Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.</description>
+  </item>
+  <item>
+    <title>MLstate / opalang</title>
+    <link>https://github.com/MLstate/opalang</link>
+    <description>The Opa Language for Web Application Development</description>
   </item>
   <item>
     <title>bcpierce00 / unison</title>

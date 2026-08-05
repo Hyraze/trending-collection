@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 19847,
-      "forks": 3072,
-      "added_stars": "291 stars this month"
+      "stars": 19853,
+      "forks": 3074,
+      "added_stars": "295 stars this month"
     },
     {
       "title": "triton-lang / triton-ascend",
@@ -21,8 +21,8 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 128,
-      "forks": 171,
-      "added_stars": "41 stars this month"
+      "forks": 172,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "intel / intel-xpu-backend-for-triton",
@@ -30,9 +30,9 @@
       "description": "OpenAI Triton backend for Intel® GPUs",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 263,
-      "forks": 105,
-      "added_stars": "7 stars this month"
+      "stars": 264,
+      "forks": 106,
+      "added_stars": "8 stars this month"
     },
     {
       "title": "tenstorrent / tt-mlir",
@@ -41,7 +41,7 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 295,
-      "forks": 140,
+      "forks": 141,
       "added_stars": "6 stars this month"
     }
   ]

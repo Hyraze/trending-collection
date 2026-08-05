@@ -2,28 +2,8 @@
   "title": "GitHub Adblock-filter-list Languages Daily Trending",
   "description": "Daily Trending of Adblock-filter-list Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
-    {
-      "title": "AdguardTeam / AdguardFilters",
-      "url": "https://github.com/AdguardTeam/AdguardFilters",
-      "description": "AdGuard Content Blocking Filters",
-      "language": "Adblock Filter List",
-      "languageColor": "#800000",
-      "stars": 4433,
-      "forks": 821,
-      "added_stars": "17 stars this week"
-    },
-    {
-      "title": "uBlockOrigin / uAssets",
-      "url": "https://github.com/uBlockOrigin/uAssets",
-      "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
-      "language": "Adblock Filter List",
-      "languageColor": "#800000",
-      "stars": 5916,
-      "forks": 1020,
-      "added_stars": "22 stars this week"
-    },
     {
       "title": "easylist / easylist",
       "url": "https://github.com/easylist/easylist",
@@ -31,8 +11,28 @@
       "language": "Adblock Filter List",
       "languageColor": "#800000",
       "stars": 3075,
-      "forks": 898,
-      "added_stars": "11 stars this week"
+      "forks": 899,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "uBlockOrigin / uAssets",
+      "url": "https://github.com/uBlockOrigin/uAssets",
+      "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
+      "language": "Adblock Filter List",
+      "languageColor": "#800000",
+      "stars": 5919,
+      "forks": 1021,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "AdguardTeam / AdguardFilters",
+      "url": "https://github.com/AdguardTeam/AdguardFilters",
+      "description": "AdGuard Content Blocking Filters",
+      "language": "Adblock Filter List",
+      "languageColor": "#800000",
+      "stars": 4436,
+      "forks": 819,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "TG-Twilight / AWAvenue-Ads-Rule",
@@ -40,19 +40,9 @@
       "description": "众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 6322,
+      "stars": 6324,
       "forks": 163,
-      "added_stars": "43 stars this week"
-    },
-    {
-      "title": "MajkiIT / polish-ads-filter",
-      "url": "https://github.com/MajkiIT/polish-ads-filter",
-      "description": "CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard",
-      "language": "Adblock Filter List",
-      "languageColor": "#800000",
-      "stars": 734,
-      "forks": 100,
-      "added_stars": "1 star this week"
+      "added_stars": "36 stars this week"
     },
     {
       "title": "AdguardTeam / AdGuardSDNSFilter",
@@ -62,7 +52,17 @@
       "languageColor": "#800000",
       "stars": 1325,
       "forks": 183,
-      "added_stars": "7 stars this week"
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "MajkiIT / polish-ads-filter",
+      "url": "https://github.com/MajkiIT/polish-ads-filter",
+      "description": "CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard",
+      "language": "Adblock Filter List",
+      "languageColor": "#800000",
+      "stars": 734,
+      "forks": 100,
+      "added_stars": "0 stars this week"
     }
   ]
 }

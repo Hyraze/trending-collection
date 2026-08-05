@@ -2,27 +2,27 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 04 Aug 2026 05:01:59 GMT",
+  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
   "items": [
-    {
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 201874,
-      "forks": 17402,
-      "added_stars": "10,434 stars this week"
-    },
     {
       "title": "tw93 / Mole",
       "url": "https://github.com/tw93/Mole",
       "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 61699,
-      "forks": 2178,
-      "added_stars": "1,495 stars this week"
+      "stars": 61996,
+      "forks": 2183,
+      "added_stars": "1,605 stars this week"
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 203618,
+      "forks": 17580,
+      "added_stars": "10,597 stars this week"
     },
     {
       "title": "InfinityLoop1308 / PipePipe",
@@ -30,19 +30,9 @@
       "description": "An open-source Android app to let you browse YouTube and other services freely.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 5802,
+      "stars": 5806,
       "forks": 190,
-      "added_stars": "72 stars this week"
-    },
-    {
-      "title": "nvm-sh / nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 94329,
-      "forks": 10307,
-      "added_stars": "96 stars this week"
+      "added_stars": "71 stars this week"
     },
     {
       "title": "ROCm / ROCm",
@@ -50,9 +40,9 @@
       "description": "AMD ROCm™ Software - GitHub Home",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 6747,
-      "forks": 591,
-      "added_stars": "30 stars this week"
+      "stars": 6748,
+      "forks": 592,
+      "added_stars": "28 stars this week"
     },
     {
       "title": "basecamp / omarchy",
@@ -60,8 +50,48 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 24286,
+      "stars": 24304,
       "forks": 2438,
+      "added_stars": "158 stars this week"
+    },
+    {
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 94337,
+      "forks": 10311,
+      "added_stars": "90 stars this week"
+    },
+    {
+      "title": "themactep / thingino-firmware",
+      "url": "https://github.com/themactep/thingino-firmware",
+      "description": "Open-source firmware for Ingenic SoC IP cameras",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1975,
+      "forks": 282,
+      "added_stars": "144 stars this week"
+    },
+    {
+      "title": "dockur / windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 52745,
+      "forks": 4568,
+      "added_stars": "136 stars this week"
+    },
+    {
+      "title": "HQarroum / docker-android",
+      "url": "https://github.com/HQarroum/docker-android",
+      "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 7204,
+      "forks": 551,
       "added_stars": "161 stars this week"
     },
     {
@@ -70,69 +100,9 @@
       "description": "A package build system for Termux.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 16713,
+      "stars": 16725,
       "forks": 4271,
-      "added_stars": "57 stars this week"
-    },
-    {
-      "title": "themactep / thingino-firmware",
-      "url": "https://github.com/themactep/thingino-firmware",
-      "description": "Open-source firmware for Ingenic SoC IP cameras",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1961,
-      "forks": 280,
-      "added_stars": "129 stars this week"
-    },
-    {
-      "title": "community-scripts / ProxmoxVE",
-      "url": "https://github.com/community-scripts/ProxmoxVE",
-      "description": "Proxmox VE Helper-Scripts (Community Edition)",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 29160,
-      "forks": 2808,
-      "added_stars": "88 stars this week"
-    },
-    {
-      "title": "1N3 / Sn1per",
-      "url": "https://github.com/1N3/Sn1per",
-      "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 10687,
-      "forks": 2137,
-      "added_stars": "79 stars this week"
-    },
-    {
-      "title": "HQarroum / docker-android",
-      "url": "https://github.com/HQarroum/docker-android",
-      "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 7197,
-      "forks": 551,
-      "added_stars": "156 stars this week"
-    },
-    {
-      "title": "dockur / windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 52738,
-      "forks": 4564,
-      "added_stars": "138 stars this week"
-    },
-    {
-      "title": "awesome-jellyfin / awesome-jellyfin",
-      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 8798,
-      "forks": 258,
-      "added_stars": "87 stars this week"
+      "added_stars": "47 stars this week"
     },
     {
       "title": "obra / superpowers",
@@ -140,9 +110,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 265834,
-      "forks": 23772,
-      "added_stars": "4,014 stars this week"
+      "stars": 266648,
+      "forks": 23837,
+      "added_stars": "4,192 stars this week"
     },
     {
       "title": "a2aproject / A2A",
@@ -150,19 +120,9 @@
       "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 25171,
+      "stars": 25193,
       "forks": 2550,
-      "added_stars": "137 stars this week"
-    },
-    {
-      "title": "wondelai / skills",
-      "url": "https://github.com/wondelai/skills",
-      "description": "Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1833,
-      "forks": 187,
-      "added_stars": "82 stars this week"
+      "added_stars": "121 stars this week"
     },
     {
       "title": "deanpeters / Product-Manager-Skills",
@@ -170,19 +130,49 @@
       "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 6236,
-      "forks": 758,
-      "added_stars": "238 stars this week"
+      "stars": 6262,
+      "forks": 760,
+      "added_stars": "249 stars this week"
     },
     {
-      "title": "HyDE-Project / HyDE",
-      "url": "https://github.com/HyDE-Project/HyDE",
-      "description": "HyDE, your Development Environment 🖥️💻",
+      "title": "community-scripts / ProxmoxVE",
+      "url": "https://github.com/community-scripts/ProxmoxVE",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9446,
-      "forks": 624,
-      "added_stars": "53 stars this week"
+      "stars": 29169,
+      "forks": 2812,
+      "added_stars": "83 stars this week"
+    },
+    {
+      "title": "Astrosp / Awesome-OSINT-List",
+      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
+      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4048,
+      "forks": 524,
+      "added_stars": "130 stars this week"
+    },
+    {
+      "title": "github / copilot-cli",
+      "url": "https://github.com/github/copilot-cli",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 11056,
+      "forks": 1865,
+      "added_stars": "48 stars this week"
+    },
+    {
+      "title": "czlonkowski / n8n-skills",
+      "url": "https://github.com/czlonkowski/n8n-skills",
+      "description": "n8n skillset for Claude Code to build flawless n8n workflows",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 5981,
+      "forks": 997,
+      "added_stars": "83 stars this week"
     }
   ]
 }
