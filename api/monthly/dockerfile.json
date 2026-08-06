@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "vulhub / vulhub",
@@ -10,9 +10,9 @@
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 21081,
+      "stars": 21084,
       "forks": 4796,
-      "added_stars": "178 stars this month"
+      "added_stars": "186 stars this month"
     },
     {
       "title": "goldbergyoni / nodebestpractices",
@@ -20,9 +20,9 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 105476,
-      "forks": 10708,
-      "added_stars": "183 stars this month"
+      "stars": 105477,
+      "forks": 10709,
+      "added_stars": "175 stars this month"
     },
     {
       "title": "autowarefoundation / autoware",
@@ -30,19 +30,9 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 11944,
-      "forks": 3678,
-      "added_stars": "158 stars this month"
-    },
-    {
-      "title": "dotnet / dotnet-docker",
-      "url": "https://github.com/dotnet/dotnet-docker",
-      "description": "Official container images for .NET",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 4858,
-      "forks": 1973,
-      "added_stars": "11 stars this month"
+      "stars": 11947,
+      "forks": 3679,
+      "added_stars": "160 stars this month"
     },
     {
       "title": "corretto / corretto-docker",
@@ -65,14 +55,14 @@
       "added_stars": "22 stars this month"
     },
     {
-      "title": "freeCodeCamp / rdb-alpha",
-      "url": "https://github.com/freeCodeCamp/rdb-alpha",
+      "title": "linuxserver / docker-unifi-network-application",
+      "url": "https://github.com/linuxserver/docker-unifi-network-application",
       "description": "",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 161,
-      "forks": 984,
-      "added_stars": "12 stars this month"
+      "stars": 1159,
+      "forks": 97,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "kubernetes-sigs / contributor-playground",
@@ -81,8 +71,28 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 281,
-      "forks": 2054,
-      "added_stars": "3 stars this month"
+      "forks": 2055,
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "freeCodeCamp / rdb-alpha",
+      "url": "https://github.com/freeCodeCamp/rdb-alpha",
+      "description": "",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 161,
+      "forks": 985,
+      "added_stars": "11 stars this month"
+    },
+    {
+      "title": "docker-library / php",
+      "url": "https://github.com/docker-library/php",
+      "description": "Docker Official Image packaging for PHP",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4033,
+      "forks": 2015,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "MicrosoftDocs / windows-powershell-docs",
@@ -91,7 +101,17 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 502,
-      "forks": 634,
+      "forks": 633,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "nordquant / dbt-student-repo",
+      "url": "https://github.com/nordquant/dbt-student-repo",
+      "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 21,
+      "forks": 2841,
       "added_stars": "2 stars this month"
     },
     {
@@ -105,34 +125,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "docker-library / php",
-      "url": "https://github.com/docker-library/php",
-      "description": "Docker Official Image packaging for PHP",
+      "title": "dotnet / dotnet-docker",
+      "url": "https://github.com/dotnet/dotnet-docker",
+      "description": "Official container images for .NET",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 4032,
-      "forks": 2015,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "linuxserver / docker-plex",
-      "url": "https://github.com/linuxserver/docker-plex",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 1427,
-      "forks": 226,
-      "added_stars": "8 stars this month"
-    },
-    {
-      "title": "linuxserver / docker-unifi-network-application",
-      "url": "https://github.com/linuxserver/docker-unifi-network-application",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 1159,
-      "forks": 97,
-      "added_stars": "11 stars this month"
+      "stars": 4859,
+      "forks": 1973,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "Gar-b-age / CookLikeHOC",
@@ -142,7 +142,7 @@
       "languageColor": "#384d54",
       "stars": 23765,
       "forks": 2357,
-      "added_stars": "160 stars this month"
+      "added_stars": "159 stars this month"
     }
   ]
 }

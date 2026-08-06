@@ -2,17 +2,17 @@
   "title": "GitHub Ejs Languages Daily Trending",
   "description": "Daily Trending of Ejs Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
-      "title": "Fechin / reference",
-      "url": "https://github.com/Fechin/reference",
-      "description": "⭕ Share quick reference cheat sheet for developers.",
+      "title": "LondheShubham153 / node-todo-cicd",
+      "url": "https://github.com/LondheShubham153/node-todo-cicd",
+      "description": "",
       "language": "EJS",
       "languageColor": "#a91e50",
-      "stars": 10741,
-      "forks": 1315,
-      "added_stars": "3 stars today"
+      "stars": 278,
+      "forks": 6074,
+      "added_stars": "0 stars today"
     },
     {
       "title": "github / haikus-for-codespaces",
@@ -21,8 +21,28 @@
       "language": "EJS",
       "languageColor": "#a91e50",
       "stars": 2829,
-      "forks": 4796,
+      "forks": 4798,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "keikaavousi / fake-store-api",
+      "url": "https://github.com/keikaavousi/fake-store-api",
+      "description": "FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data",
+      "language": "EJS",
+      "languageColor": "#a91e50",
+      "stars": 2579,
+      "forks": 516,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "Ovi / DummyJSON",
+      "url": "https://github.com/Ovi/DummyJSON",
+      "description": "DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.",
+      "language": "EJS",
+      "languageColor": "#a91e50",
+      "stars": 2882,
+      "forks": 302,
+      "added_stars": "1 star today"
     }
   ]
 }

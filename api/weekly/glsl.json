@@ -2,18 +2,8 @@
   "title": "GitHub Glsl Languages Daily Trending",
   "description": "Daily Trending of Glsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
-    {
-      "title": "vanillagreencom / vstack",
-      "url": "https://github.com/vanillagreencom/vstack",
-      "description": "Skills, agents, hooks. Cross-harness. With a side of Pi.",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 52,
-      "forks": 20,
-      "added_stars": "3 stars this week"
-    },
     {
       "title": "bambosan / mirai",
       "url": "https://github.com/bambosan/mirai",
@@ -25,6 +15,16 @@
       "added_stars": "2 stars this week"
     },
     {
+      "title": "X0nk / Bliss-Shader",
+      "url": "https://github.com/X0nk/Bliss-Shader",
+      "description": "A minecraft shader which is an edit of chocapic v9",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": 1002,
+      "forks": 131,
+      "added_stars": "11 stars this week"
+    },
+    {
       "title": "HaringPro / Revelation",
       "url": "https://github.com/HaringPro/Revelation",
       "description": "An explorative shaderpack for Minecraft: Java Edition",
@@ -32,7 +32,7 @@
       "languageColor": "#5686a5",
       "stars": 606,
       "forks": 35,
-      "added_stars": "6 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "sixthsurge / photon",
@@ -40,18 +40,8 @@
       "description": "A gameplay-focused shader pack for Minecraft",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 1857,
+      "stars": 1858,
       "forks": 312,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "X0nk / Bliss-Shader",
-      "url": "https://github.com/X0nk/Bliss-Shader",
-      "description": "A minecraft shader which is an edit of chocapic v9",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 1000,
-      "forks": 131,
       "added_stars": "9 stars this week"
     },
     {
@@ -65,6 +55,16 @@
       "added_stars": "2 stars this week"
     },
     {
+      "title": "KhronosGroup / SPIRV-Cross",
+      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
+      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": 2481,
+      "forks": 697,
+      "added_stars": "6 stars this week"
+    },
+    {
       "title": "libretro / glsl-shaders",
       "url": "https://github.com/libretro/glsl-shaders",
       "description": "This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.",
@@ -72,17 +72,7 @@
       "languageColor": "#5686a5",
       "stars": 1217,
       "forks": 248,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "KhronosGroup / SPIRV-Cross",
-      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
-      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 2478,
-      "forks": 695,
-      "added_stars": "4 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "SaschaWillems / Vulkan",
@@ -90,9 +80,9 @@
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 12088,
+      "stars": 12090,
       "forks": 2225,
-      "added_stars": "12 stars this week"
+      "added_stars": "15 stars this week"
     }
   ]
 }

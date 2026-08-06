@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "E3SM-Project / E3SM",
@@ -25,13 +25,43 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "Reference-LAPACK / lapack",
+      "url": "https://github.com/Reference-LAPACK/lapack",
+      "description": "LAPACK development repository",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1883,
+      "forks": 510,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1727,
+      "forks": 868,
+      "added_stars": "7 stars this week"
+    },
+    {
       "title": "firemodels / fds",
       "url": "https://github.com/firemodels/fds",
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 858,
+      "stars": 860,
       "forks": 687,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1178,
+      "forks": 492,
       "added_stars": "4 stars this week"
     },
     {
@@ -45,24 +75,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "title": "ecmwf / fckit",
+      "url": "https://github.com/ecmwf/fckit",
+      "description": "A Fortran toolkit for interoperating Fortran with C/C++",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1724,
-      "forks": 868,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1177,
-      "forks": 492,
-      "added_stars": "4 stars this week"
+      "stars": 48,
+      "forks": 21,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "GEOS-ESM / MAPL",
@@ -75,24 +95,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "ecmwf / fckit",
-      "url": "https://github.com/ecmwf/fckit",
-      "description": "A Fortran toolkit for interoperating Fortran with C/C++",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 48,
-      "forks": 21,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "ElmerCSC / elmerfem",
       "url": "https://github.com/ElmerCSC/elmerfem",
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1647,
-      "forks": 390,
-      "added_stars": "5 stars this week"
+      "stars": 1650,
+      "forks": 391,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "grimme-lab / xtb",
@@ -111,7 +121,7 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 944,
-      "forks": 532,
+      "forks": 533,
       "added_stars": "2 stars this week"
     }
   ]

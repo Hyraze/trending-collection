@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "gpuweb / gpuweb",
@@ -10,9 +10,9 @@
       "description": "Where the GPU for the Web work happens!",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 5446,
+      "stars": 5447,
       "forks": 375,
-      "added_stars": "29 stars this month"
+      "added_stars": "30 stars this month"
     },
     {
       "title": "webmachinelearning / webmcp",
@@ -20,9 +20,9 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 2934,
-      "forks": 190,
-      "added_stars": "206 stars this month"
+      "stars": 2944,
+      "forks": 189,
+      "added_stars": "208 stars this month"
     },
     {
       "title": "WICG / first-party-sets",
@@ -40,8 +40,8 @@
       "description": "The Topics API",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 872,
-      "forks": 887,
+      "stars": 873,
+      "forks": 888,
       "added_stars": "13 stars this month"
     },
     {
@@ -70,9 +70,9 @@
       "description": "Repository for the WebXR Device API Specification.",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 3146,
+      "stars": 3147,
       "forks": 423,
-      "added_stars": "5 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "w3c / webextensions",
@@ -83,6 +83,16 @@
       "stars": 706,
       "forks": 90,
       "added_stars": "4 stars this month"
+    },
+    {
+      "title": "patcg-individual-drafts / private-aggregation-api",
+      "url": "https://github.com/patcg-individual-drafts/private-aggregation-api",
+      "description": "Explainer for proposed web platform API",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 62,
+      "forks": 36,
+      "added_stars": "1 star this month"
     }
   ]
 }

@@ -2,47 +2,17 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
-      "title": "ilyamiro / imperative-dots",
-      "url": "https://github.com/ilyamiro/imperative-dots",
-      "description": "A collection of my dots for those who are not using NixOS with an install script.",
+      "title": "caelestia-dots / shell",
+      "url": "https://github.com/caelestia-dots/shell",
+      "description": "A fluid, morphing shell for your Linux desktop",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 188,
-      "forks": 47,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "AvengeMedia / DankMaterialShell",
-      "url": "https://github.com/AvengeMedia/DankMaterialShell",
-      "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 7497,
-      "forks": 468,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "jaxparrow07 / nothing-kde-widgets",
-      "url": "https://github.com/jaxparrow07/nothing-kde-widgets",
-      "description": "Nothing OS themed widgets for KDE Plasma",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 178,
-      "forks": 12,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "anthonycaccese / 240-MP",
-      "url": "https://github.com/anthonycaccese/240-MP",
-      "description": "240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 371,
-      "forks": 36,
-      "added_stars": "2 stars today"
+      "stars": 10993,
+      "forks": 778,
+      "added_stars": "44 stars today"
     },
     {
       "title": "Darkkal44 / qylock",
@@ -50,9 +20,39 @@
       "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 2411,
-      "forks": 96,
-      "added_stars": "7 stars today"
+      "stars": 2413,
+      "forks": 97,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "AvengeMedia / DankMaterialShell",
+      "url": "https://github.com/AvengeMedia/DankMaterialShell",
+      "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 7508,
+      "forks": 468,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "liixini / skwd-wall",
+      "url": "https://github.com/liixini/skwd-wall",
+      "description": "An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 573,
+      "forks": 20,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "ilyamiro / imperative-dots",
+      "url": "https://github.com/ilyamiro/imperative-dots",
+      "description": "A collection of my dots for those who are not using NixOS with an install script.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 193,
+      "forks": 47,
+      "added_stars": "5 stars today"
     },
     {
       "title": "Swordfish90 / cool-retro-term",
@@ -60,9 +60,39 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 25864,
+      "stars": 25867,
       "forks": 996,
-      "added_stars": "8 stars today"
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "anthonycaccese / 240-MP",
+      "url": "https://github.com/anthonycaccese/240-MP",
+      "description": "240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 373,
+      "forks": 36,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "jaxparrow07 / nothing-kde-widgets",
+      "url": "https://github.com/jaxparrow07/nothing-kde-widgets",
+      "description": "Nothing OS themed widgets for KDE Plasma",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 179,
+      "forks": 12,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "end-4 / dots-hyprland",
+      "url": "https://github.com/end-4/dots-hyprland",
+      "description": "Usability-first dotfiles",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 15436,
+      "forks": 1289,
+      "added_stars": "11 stars today"
     },
     {
       "title": "snowarch / iNiR",
@@ -70,19 +100,29 @@
       "description": "A Niri shell illogical-impulse based - with some modifications..",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 1359,
+      "stars": 1362,
       "forks": 77,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "Keyitdev / sddm-astronaut-theme",
+      "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
+      "description": "Series of modern looking themes for SDDM.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 3120,
+      "forks": 201,
       "added_stars": "3 stars today"
     },
     {
-      "title": "caelestia-dots / shell",
-      "url": "https://github.com/caelestia-dots/shell",
-      "description": "A fluid, morphing shell for your Linux desktop",
+      "title": "mylinuxforwork / dotfiles",
+      "url": "https://github.com/mylinuxforwork/dotfiles",
+      "description": "The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 10963,
-      "forks": 775,
-      "added_stars": "42 stars today"
+      "stars": 4944,
+      "forks": 364,
+      "added_stars": "5 stars today"
     }
   ]
 }

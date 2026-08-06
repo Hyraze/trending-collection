@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
@@ -31,9 +31,14 @@
     <description>Retro groove color scheme for Vim</description>
   </item>
   <item>
-    <title>sainnhe / everforest</title>
-    <link>https://github.com/sainnhe/everforest</link>
-    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
+    <title>chrisbra / csv.vim</title>
+    <link>https://github.com/chrisbra/csv.vim</link>
+    <description>A Filetype plugin for csv files</description>
+  </item>
+  <item>
+    <title>andymass / vim-matchup</title>
+    <link>https://github.com/andymass/vim-matchup</link>
+    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
   </item>
   <item>
     <title>dense-analysis / ale</title>
@@ -51,34 +56,24 @@
     <description>Vim plugin for LLM-assisted code/text completion</description>
   </item>
   <item>
-    <title>wellle / targets.vim</title>
-    <link>https://github.com/wellle/targets.vim</link>
-    <description>Vim plugin that provides additional text objects</description>
-  </item>
-  <item>
-    <title>chrisbra / csv.vim</title>
-    <link>https://github.com/chrisbra/csv.vim</link>
-    <description>A Filetype plugin for csv files</description>
-  </item>
-  <item>
-    <title>vim-syntastic / syntastic</title>
-    <link>https://github.com/vim-syntastic/syntastic</link>
-    <description>Syntax checking hacks for vim</description>
-  </item>
-  <item>
     <title>leafgarland / typescript-vim</title>
     <link>https://github.com/leafgarland/typescript-vim</link>
     <description>Typescript syntax files for Vim</description>
   </item>
   <item>
-    <title>ryanoasis / vim-devicons</title>
-    <link>https://github.com/ryanoasis/vim-devicons</link>
-    <description>Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more</description>
+    <title>sainnhe / everforest</title>
+    <link>https://github.com/sainnhe/everforest</link>
+    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
-    <title>mattn / vim-lsp-settings</title>
-    <link>https://github.com/mattn/vim-lsp-settings</link>
-    <description>Auto configurations for Language Server for vim-lsp</description>
+    <title>jbranchaud / til</title>
+    <link>https://github.com/jbranchaud/til</link>
+    <description>📝 Today I Learned</description>
+  </item>
+  <item>
+    <title>tpope / vim-rails</title>
+    <link>https://github.com/tpope/vim-rails</link>
+    <description>rails.vim: Ruby on Rails power tools</description>
   </item>
   <item>
     <title>derekhe / msfs2020-map-enhancement</title>
@@ -86,34 +81,29 @@
     <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
-    <title>junegunn / vader.vim</title>
-    <link>https://github.com/junegunn/vader.vim</link>
-    <description>A simple Vimscript test framework</description>
+    <title>vim-syntastic / syntastic</title>
+    <link>https://github.com/vim-syntastic/syntastic</link>
+    <description>Syntax checking hacks for vim</description>
   </item>
   <item>
-    <title>kana / vim-textobj-user</title>
-    <link>https://github.com/kana/vim-textobj-user</link>
-    <description>Vim plugin: Create your own text objects</description>
+    <title>mattn / vim-lsp-settings</title>
+    <link>https://github.com/mattn/vim-lsp-settings</link>
+    <description>Auto configurations for Language Server for vim-lsp</description>
   </item>
   <item>
-    <title>tpope / vim-eunuch</title>
-    <link>https://github.com/tpope/vim-eunuch</link>
-    <description>eunuch.vim: Helpers for UNIX</description>
+    <title>mhinz / vim-signify</title>
+    <link>https://github.com/mhinz/vim-signify</link>
+    <description>➕ Show a diff using Vim its sign column.</description>
   </item>
   <item>
-    <title>gelguy / wilder.nvim</title>
-    <link>https://github.com/gelguy/wilder.nvim</link>
-    <description>A more adventurous wildmenu</description>
+    <title>prettier / vim-prettier</title>
+    <link>https://github.com/prettier/vim-prettier</link>
+    <description>A Vim plugin for Prettier</description>
   </item>
   <item>
-    <title>andymass / vim-matchup</title>
-    <link>https://github.com/andymass/vim-matchup</link>
-    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
-  </item>
-  <item>
-    <title>NLKNguyen / papercolor-theme</title>
-    <link>https://github.com/NLKNguyen/papercolor-theme</link>
-    <description>🎨 Light &amp; Dark Vim color schemes inspired by Google&#x27;s Material Design</description>
+    <title>Yggdroot / indentLine</title>
+    <link>https://github.com/Yggdroot/indentLine</link>
+    <description>A vim plugin to display the indention levels with thin vertical lines</description>
   </item>
 </channel>
 </rss>

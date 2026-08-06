@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -14,11 +14,6 @@
     <title>nix-community / home-manager</title>
     <link>https://github.com/nix-community/home-manager</link>
     <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
-  </item>
-  <item>
-    <title>numtide / llm-agents.nix</title>
-    <link>https://github.com/numtide/llm-agents.nix</link>
-    <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
   </item>
   <item>
     <title>supabase / postgres</title>
@@ -36,29 +31,39 @@
     <description>Manage your macOS using Nix</description>
   </item>
   <item>
-    <title>microvm-nix / microvm.nix</title>
-    <link>https://github.com/microvm-nix/microvm.nix</link>
-    <description>NixOS MicroVMs</description>
-  </item>
-  <item>
     <title>numtide / system-manager</title>
     <link>https://github.com/numtide/system-manager</link>
     <description>Manage system config using nix on any distro</description>
   </item>
   <item>
-    <title>NixOS / nix.dev</title>
-    <link>https://github.com/NixOS/nix.dev</link>
-    <description>Official documentation for getting things done with Nix.</description>
+    <title>nix-community / disko</title>
+    <link>https://github.com/nix-community/disko</link>
+    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
   </item>
   <item>
-    <title>NotAShelf / nvf</title>
-    <link>https://github.com/NotAShelf/nvf</link>
-    <description>Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS</description>
+    <title>Mic92 / sops-nix</title>
+    <link>https://github.com/Mic92/sops-nix</link>
+    <description>Atomic secret provisioning for NixOS based on sops</description>
   </item>
   <item>
-    <title>sodiboo / niri-flake</title>
-    <link>https://github.com/sodiboo/niri-flake</link>
-    <description>Nix-native configuration for niri</description>
+    <title>Misterio77 / nix-starter-configs</title>
+    <link>https://github.com/Misterio77/nix-starter-configs</link>
+    <description>Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</description>
+  </item>
+  <item>
+    <title>numtide / llm-agents.nix</title>
+    <link>https://github.com/numtide/llm-agents.nix</link>
+    <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
+  </item>
+  <item>
+    <title>microvm-nix / microvm.nix</title>
+    <link>https://github.com/microvm-nix/microvm.nix</link>
+    <description>NixOS MicroVMs</description>
+  </item>
+  <item>
+    <title>feel-co / hjem</title>
+    <link>https://github.com/feel-co/hjem</link>
+    <description>Streamlined, elegant $HOME management with Nix</description>
   </item>
 </channel>
 </rss>

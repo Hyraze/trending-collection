@@ -4,7 +4,7 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>antirez / ds4</title>
     <link>https://github.com/antirez/ds4</link>
@@ -31,44 +31,14 @@
     <description>Open-source vector similarity search for Postgres</description>
   </item>
   <item>
-    <title>tr4m0ryp / tr4mpass</title>
-    <link>https://github.com/tr4m0ryp/tr4mpass</link>
-    <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
+    <title>kingToolbox / WindTerm</title>
+    <link>https://github.com/kingToolbox/WindTerm</link>
+    <description>A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.</description>
   </item>
   <item>
-    <title>xiaojieonly / Ehviewer_CN_SXJ</title>
-    <link>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</link>
-    <description>ehviewer，用爱发电，快乐前行</description>
-  </item>
-  <item>
-    <title>madler / zlib</title>
-    <link>https://github.com/madler/zlib</link>
-    <description>A massively spiffy yet delicately unobtrusive compression library.</description>
-  </item>
-  <item>
-    <title>merbanan / rtl_433</title>
-    <link>https://github.com/merbanan/rtl_433</link>
-    <description>Program to decode radio transmissions from devices on the ISM bands (and other frequencies)</description>
-  </item>
-  <item>
-    <title>tursodatabase / libsql</title>
-    <link>https://github.com/tursodatabase/libsql</link>
-    <description>libSQL is a fork of SQLite that is both Open Source, and Open Contributions.</description>
-  </item>
-  <item>
-    <title>xemu-project / xemu</title>
-    <link>https://github.com/xemu-project/xemu</link>
-    <description>Original Xbox Emulator for Windows, macOS, and Linux (Active Development)</description>
-  </item>
-  <item>
-    <title>karpathy / llama2.c</title>
-    <link>https://github.com/karpathy/llama2.c</link>
-    <description>Inference Llama 2 in one file of pure C</description>
-  </item>
-  <item>
-    <title>redcanaryco / atomic-red-team</title>
-    <link>https://github.com/redcanaryco/atomic-red-team</link>
-    <description>Small and highly portable detection tests based on MITRE&#x27;s ATT&amp;CK.</description>
+    <title>mcu-tools / mcuboot</title>
+    <link>https://github.com/mcu-tools/mcuboot</link>
+    <description>Secure boot for 32-bit Microcontrollers!</description>
   </item>
   <item>
     <title>openwrt / openwrt</title>
@@ -76,14 +46,14 @@
     <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
   </item>
   <item>
-    <title>openssl / openssl</title>
-    <link>https://github.com/openssl/openssl</link>
-    <description>General purpose TLS and crypto library</description>
+    <title>tr4m0ryp / tr4mpass</title>
+    <link>https://github.com/tr4m0ryp/tr4mpass</link>
+    <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
   </item>
   <item>
-    <title>brunodev85 / winlator</title>
-    <link>https://github.com/brunodev85/winlator</link>
-    <description>Android application for running Windows applications with Wine and Box86/Box64</description>
+    <title>flipperdevices / flipperzero-firmware</title>
+    <link>https://github.com/flipperdevices/flipperzero-firmware</link>
+    <description>Flipper Zero firmware source code</description>
   </item>
   <item>
     <title>betaflight / betaflight</title>
@@ -91,9 +61,49 @@
     <description>Open Source Flight Controller Firmware</description>
   </item>
   <item>
-    <title>fwupd / fwupd</title>
-    <link>https://github.com/fwupd/fwupd</link>
-    <description>A system daemon to allow session software to update firmware</description>
+    <title>tursodatabase / libsql</title>
+    <link>https://github.com/tursodatabase/libsql</link>
+    <description>libSQL is a fork of SQLite that is both Open Source, and Open Contributions.</description>
+  </item>
+  <item>
+    <title>karpathy / llama2.c</title>
+    <link>https://github.com/karpathy/llama2.c</link>
+    <description>Inference Llama 2 in one file of pure C</description>
+  </item>
+  <item>
+    <title>HandBrake / HandBrake</title>
+    <link>https://github.com/HandBrake/HandBrake</link>
+    <description>HandBrake&#x27;s development repository</description>
+  </item>
+  <item>
+    <title>xiaojieonly / Ehviewer_CN_SXJ</title>
+    <link>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</link>
+    <description>ehviewer，用爱发电，快乐前行</description>
+  </item>
+  <item>
+    <title>brunodev85 / winlator</title>
+    <link>https://github.com/brunodev85/winlator</link>
+    <description>Android application for running Windows applications with Wine and Box86/Box64</description>
+  </item>
+  <item>
+    <title>vedderb / bldc</title>
+    <link>https://github.com/vedderb/bldc</link>
+    <description>The VESC motor control firmware</description>
+  </item>
+  <item>
+    <title>xmrig / xmrig</title>
+    <link>https://github.com/xmrig/xmrig</link>
+    <description>RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark</description>
+  </item>
+  <item>
+    <title>glfw / glfw</title>
+    <link>https://github.com/glfw/glfw</link>
+    <description>A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input</description>
+  </item>
+  <item>
+    <title>zephyrproject-rtos / zephyr</title>
+    <link>https://github.com/zephyrproject-rtos/zephyr</link>
+    <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
   </item>
 </channel>
 </rss>

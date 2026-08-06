@@ -4,21 +4,21 @@
   <title>GitHub Makefile Languages Daily Trending</title>
   <description>Daily Trending of Makefile Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>deepseek-ai / DeepSeek-LLM</title>
     <link>https://github.com/deepseek-ai/DeepSeek-LLM</link>
     <description>DeepSeek LLM: Let there be answers</description>
   </item>
   <item>
-    <title>mindsdb / mindshub</title>
-    <link>https://github.com/mindsdb/mindshub</link>
-    <description>Make AI do actual work. Swap the model anytime — keep everything you&#x27;ve built.</description>
-  </item>
-  <item>
     <title>openwrt / packages</title>
     <link>https://github.com/openwrt/packages</link>
     <description>Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</description>
+  </item>
+  <item>
+    <title>golang-standards / project-layout</title>
+    <link>https://github.com/golang-standards/project-layout</link>
+    <description>Standard Go Project Layout</description>
   </item>
   <item>
     <title>awesome-selfhosted / awesome-selfhosted-data</title>
@@ -31,14 +31,14 @@
     <description>Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux &amp; Docker)</description>
   </item>
   <item>
-    <title>golang-standards / project-layout</title>
-    <link>https://github.com/golang-standards/project-layout</link>
-    <description>Standard Go Project Layout</description>
-  </item>
-  <item>
     <title>ROCKNIX / distribution</title>
     <link>https://github.com/ROCKNIX/distribution</link>
     <description></description>
+  </item>
+  <item>
+    <title>freebsd / freebsd-ports</title>
+    <link>https://github.com/freebsd/freebsd-ports</link>
+    <description>FreeBSD ports tree (read-only mirror)</description>
   </item>
   <item>
     <title>open-telemetry / opentelemetry-proto</title>
@@ -51,9 +51,9 @@
     <description>Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</description>
   </item>
   <item>
-    <title>freebsd / freebsd-ports</title>
-    <link>https://github.com/freebsd/freebsd-ports</link>
-    <description>FreeBSD ports tree (read-only mirror)</description>
+    <title>PartialVolume / shredos.x86_64</title>
+    <link>https://github.com/PartialVolume/shredos.x86_64</link>
+    <description>Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe</description>
   </item>
   <item>
     <title>NetBSD / pkgsrc</title>
@@ -76,9 +76,9 @@
     <description>OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt</description>
   </item>
   <item>
-    <title>githubnext / agentics</title>
-    <link>https://github.com/githubnext/agentics</link>
-    <description>A sample pack of GitHub Agentic Workflows!</description>
+    <title>LibreELEC / LibreELEC.tv</title>
+    <link>https://github.com/LibreELEC/LibreELEC.tv</link>
+    <description>Just enough OS for KODI</description>
   </item>
 </channel>
 </rss>

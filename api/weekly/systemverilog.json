@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "verilator / verilator",
@@ -10,19 +10,9 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3811,
+      "stars": 3816,
       "forks": 869,
-      "added_stars": "32 stars this week"
-    },
-    {
-      "title": "lowRISC / ibex",
-      "url": "https://github.com/lowRISC/ibex",
-      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 2000,
-      "forks": 783,
-      "added_stars": "11 stars this week"
+      "added_stars": "35 stars this week"
     },
     {
       "title": "lowRISC / opentitan",
@@ -35,54 +25,14 @@
       "added_stars": "11 stars this week"
     },
     {
-      "title": "chipsalliance / caliptra-rtl",
-      "url": "https://github.com/chipsalliance/caliptra-rtl",
-      "description": "HW Design Collateral for Caliptra RoT IP",
+      "title": "lowRISC / ibex",
+      "url": "https://github.com/lowRISC/ibex",
+      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 148,
-      "forks": 101,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "chipsalliance / Cores-VeeR-EL2",
-      "url": "https://github.com/chipsalliance/Cores-VeeR-EL2",
-      "description": "VeeR EL2 Core",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 343,
-      "forks": 109,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "pulp-platform / axi",
-      "url": "https://github.com/pulp-platform/axi",
-      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 1647,
-      "forks": 363,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "adam-maj / tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 12811,
-      "forks": 1226,
-      "added_stars": "34 stars this week"
-    },
-    {
-      "title": "chipsalliance / adams-bridge",
-      "url": "https://github.com/chipsalliance/adams-bridge",
-      "description": "Post-Quantum Cryptography IP Core (Crystals-Dilithium)",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 59,
-      "forks": 17,
-      "added_stars": "0 stars this week"
+      "stars": 2000,
+      "forks": 783,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "chipsalliance / i3c-core",
@@ -95,14 +45,64 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "openhwgroup / cvw",
-      "url": "https://github.com/openhwgroup/cvw",
-      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+      "title": "chipsalliance / caliptra-ss",
+      "url": "https://github.com/chipsalliance/caliptra-ss",
+      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 596,
-      "forks": 550,
-      "added_stars": "8 stars this week"
+      "stars": 47,
+      "forks": 54,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "pulp-platform / axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 1649,
+      "forks": 364,
+      "added_stars": "10 stars this week"
+    },
+    {
+      "title": "chipsalliance / caliptra-rtl",
+      "url": "https://github.com/chipsalliance/caliptra-rtl",
+      "description": "HW Design Collateral for Caliptra RoT IP",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 148,
+      "forks": 101,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "chipsalliance / adams-bridge",
+      "url": "https://github.com/chipsalliance/adams-bridge",
+      "description": "Post-Quantum Cryptography IP Core (Crystals-Dilithium)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 59,
+      "forks": 17,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "adam-maj / tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 12814,
+      "forks": 1228,
+      "added_stars": "31 stars this week"
+    },
+    {
+      "title": "bsc-loca / sargantana",
+      "url": "https://github.com/bsc-loca/sargantana",
+      "description": "",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 161,
+      "forks": 44,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "pulp-platform / register_interface",
@@ -120,19 +120,9 @@
       "description": "RISC-V Debug Support for our PULP RISC-V Cores",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 320,
+      "stars": 321,
       "forks": 97,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "lowRISC / ethernet",
-      "url": "https://github.com/lowRISC/ethernet",
-      "description": "Open-source memory-mapped Ethernet MAC for FPGA with RGMII interface",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 22,
-      "forks": 12,
-      "added_stars": "1 star this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Hlsl Languages Daily Trending",
   "description": "Daily Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "JamesCJ60 / Universal-x86-Tuning-Utility",
@@ -10,9 +10,19 @@
       "description": "Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 2741,
+      "stars": 2743,
       "forks": 88,
-      "added_stars": "18 stars this week"
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "clshortfuse / renodx",
+      "url": "https://github.com/clshortfuse/renodx",
+      "description": "Renovation Engine for DirectX Games",
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 1565,
+      "forks": 116,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "Blinue / Magpie",
@@ -20,9 +30,9 @@
       "description": "A general-purpose window upscaler for Windows 10/11.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 14287,
+      "stars": 14297,
       "forks": 583,
-      "added_stars": "43 stars this week"
+      "added_stars": "48 stars this week"
     },
     {
       "title": "leotorrez / ZZMI-Package",
@@ -35,23 +45,13 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "clshortfuse / renodx",
-      "url": "https://github.com/clshortfuse/renodx",
-      "description": "Renovation Engine for DirectX Games",
-      "language": "HLSL",
-      "languageColor": "#aace60",
-      "stars": 1564,
-      "forks": 115,
-      "added_stars": "19 stars this week"
-    },
-    {
       "title": "crosire / reshade-shaders",
       "url": "https://github.com/crosire/reshade-shaders",
       "description": "A collection of post-processing shaders written for ReShade.",
       "language": "HLSL",
       "languageColor": "#aace60",
       "stars": 1186,
-      "forks": 422,
+      "forks": 421,
       "added_stars": "1 star this week"
     },
     {
@@ -62,16 +62,6 @@
       "languageColor": "#aace60",
       "stars": 1904,
       "forks": 574,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "SilentNightSound / GIMI-Package",
-      "url": "https://github.com/SilentNightSound/GIMI-Package",
-      "description": "GIMI Package for XXMI",
-      "language": "HLSL",
-      "languageColor": "#aace60",
-      "stars": 83,
-      "forks": 7,
       "added_stars": "1 star this week"
     }
   ]

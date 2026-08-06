@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "block / buzz",
@@ -10,9 +10,9 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 22646,
-      "forks": 2535,
-      "added_stars": "7,262 stars this week"
+      "stars": 23350,
+      "forks": 2656,
+      "added_stars": "6,456 stars this week"
     },
     {
       "title": "1jehuang / jcode",
@@ -20,9 +20,9 @@
       "description": "The most RAM efficient harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15927,
-      "forks": 1756,
-      "added_stars": "3,294 stars this week"
+      "stars": 16111,
+      "forks": 1789,
+      "added_stars": "2,903 stars this week"
     },
     {
       "title": "sharkdp / bat",
@@ -30,39 +30,9 @@
       "description": "A cat(1) clone with wings.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60093,
-      "forks": 1619,
+      "stars": 60114,
+      "forks": 1620,
       "added_stars": "213 stars this week"
-    },
-    {
-      "title": "rustfs / rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 30650,
-      "forks": 1358,
-      "added_stars": "321 stars this week"
-    },
-    {
-      "title": "agavra / tuicr",
-      "url": "https://github.com/agavra/tuicr",
-      "description": "a code review TUI with vim keybindings",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2387,
-      "forks": 185,
-      "added_stars": "1,187 stars this week"
-    },
-    {
-      "title": "BurntSushi / ripgrep",
-      "url": "https://github.com/BurntSushi/ripgrep",
-      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 66995,
-      "forks": 2699,
-      "added_stars": "397 stars this week"
     },
     {
       "title": "dani-garcia / vaultwarden",
@@ -70,29 +40,29 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 64952,
-      "forks": 3082,
-      "added_stars": "479 stars this week"
+      "stars": 65008,
+      "forks": 3090,
+      "added_stars": "469 stars this week"
     },
     {
-      "title": "atuinsh / atuin",
-      "url": "https://github.com/atuinsh/atuin",
-      "description": "✨ Making your shell magical",
+      "title": "agavra / tuicr",
+      "url": "https://github.com/agavra/tuicr",
+      "description": "a code review TUI with vim keybindings",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31030,
-      "forks": 920,
-      "added_stars": "194 stars this week"
+      "stars": 2435,
+      "forks": 188,
+      "added_stars": "859 stars this week"
     },
     {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "title": "BurntSushi / ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 103992,
-      "forks": 15704,
-      "added_stars": "1,874 stars this week"
+      "stars": 67036,
+      "forks": 2703,
+      "added_stars": "383 stars this week"
     },
     {
       "title": "clockworklabs / SpacetimeDB",
@@ -100,29 +70,29 @@
       "description": "Development at the speed of light",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24973,
-      "forks": 1034,
-      "added_stars": "149 stars this week"
+      "stars": 24976,
+      "forks": 1036,
+      "added_stars": "122 stars this week"
     },
     {
-      "title": "astral-sh / uv",
-      "url": "https://github.com/astral-sh/uv",
-      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 88353,
-      "forks": 3443,
-      "added_stars": "368 stars this week"
+      "stars": 104251,
+      "forks": 15755,
+      "added_stars": "1,839 stars this week"
     },
     {
-      "title": "tokio-rs / topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
+      "title": "moghtech / komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 4253,
-      "forks": 153,
-      "added_stars": "702 stars this week"
+      "stars": 11841,
+      "forks": 373,
+      "added_stars": "97 stars this week"
     },
     {
       "title": "rustdesk / rustdesk",
@@ -130,59 +100,29 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 119627,
-      "forks": 18275,
-      "added_stars": "553 stars this week"
+      "stars": 119711,
+      "forks": 18296,
+      "added_stars": "557 stars this week"
     },
     {
-      "title": "foundry-rs / foundry",
-      "url": "https://github.com/foundry-rs/foundry",
-      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "title": "emilk / egui",
+      "url": "https://github.com/emilk/egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10542,
-      "forks": 2593,
-      "added_stars": "21 stars this week"
+      "stars": 29979,
+      "forks": 2097,
+      "added_stars": "98 stars this week"
     },
     {
-      "title": "stalwartlabs / stalwart",
-      "url": "https://github.com/stalwartlabs/stalwart",
-      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "title": "gleam-lang / gleam",
+      "url": "https://github.com/gleam-lang/gleam",
+      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14019,
-      "forks": 865,
-      "added_stars": "142 stars this week"
-    },
-    {
-      "title": "BoundaryML / baml",
-      "url": "https://github.com/BoundaryML/baml",
-      "description": "The programming language for agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8808,
-      "forks": 466,
-      "added_stars": "128 stars this week"
-    },
-    {
-      "title": "vectordotdev / vector",
-      "url": "https://github.com/vectordotdev/vector",
-      "description": "A high-performance observability data pipeline.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 22296,
-      "forks": 2235,
-      "added_stars": "60 stars this week"
-    },
-    {
-      "title": "zed-industries / zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 88051,
-      "forks": 9866,
-      "added_stars": "437 stars this week"
+      "stars": 21713,
+      "forks": 999,
+      "added_stars": "28 stars this week"
     },
     {
       "title": "modelcontextprotocol / rust-sdk",
@@ -190,9 +130,79 @@
       "description": "The official Rust SDK for the Model Context Protocol",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3756,
-      "forks": 579,
-      "added_stars": "77 stars this week"
+      "stars": 3760,
+      "forks": 582,
+      "added_stars": "57 stars this week"
+    },
+    {
+      "title": "bytecodealliance / wasmtime",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 18483,
+      "forks": 1786,
+      "added_stars": "40 stars this week"
+    },
+    {
+      "title": "rustfs / rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 30686,
+      "forks": 1360,
+      "added_stars": "310 stars this week"
+    },
+    {
+      "title": "tokio-rs / tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 32835,
+      "forks": 3182,
+      "added_stars": "135 stars this week"
+    },
+    {
+      "title": "cjpais / Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 28834,
+      "forks": 2529,
+      "added_stars": "957 stars this week"
+    },
+    {
+      "title": "freenet / freenet-core",
+      "url": "https://github.com/freenet/freenet-core",
+      "description": "Declare your digital independence",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3035,
+      "forks": 181,
+      "added_stars": "62 stars this week"
+    },
+    {
+      "title": "foundry-rs / foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 10546,
+      "forks": 2590,
+      "added_stars": "20 stars this week"
+    },
+    {
+      "title": "stalwartlabs / stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 14038,
+      "forks": 866,
+      "added_stars": "147 stars this week"
     }
   ]
 }

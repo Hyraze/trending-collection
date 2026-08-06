@@ -4,61 +4,16 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
   <item>
     <title>firecrawl / pdf-inspector</title>
     <link>https://github.com/firecrawl/pdf-inspector</link>
     <description>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.</description>
   </item>
   <item>
-    <title>denoland / deno</title>
-    <link>https://github.com/denoland/deno</link>
-    <description>A modern runtime for JavaScript and TypeScript.</description>
-  </item>
-  <item>
-    <title>rust-lang / rust</title>
-    <link>https://github.com/rust-lang/rust</link>
-    <description>Empowering everyone to build reliable and efficient software.</description>
-  </item>
-  <item>
-    <title>rolldown / rolldown</title>
-    <link>https://github.com/rolldown/rolldown</link>
-    <description>Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</description>
-  </item>
-  <item>
-    <title>n0-computer / iroh</title>
-    <link>https://github.com/n0-computer/iroh</link>
-    <description>IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.</description>
-  </item>
-  <item>
-    <title>farion1231 / cc-switch</title>
-    <link>https://github.com/farion1231/cc-switch</link>
-    <description>A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io</description>
-  </item>
-  <item>
-    <title>LargeModGames / spotatui</title>
-    <link>https://github.com/LargeModGames/spotatui</link>
-    <description>A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.</description>
-  </item>
-  <item>
-    <title>FalkorDB / FalkorDB</title>
-    <link>https://github.com/FalkorDB/FalkorDB</link>
-    <description>A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).</description>
-  </item>
-  <item>
-    <title>quickwit-oss / tantivy</title>
-    <link>https://github.com/quickwit-oss/tantivy</link>
-    <description>Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust</description>
-  </item>
-  <item>
-    <title>tokio-rs / tokio</title>
-    <link>https://github.com/tokio-rs/tokio</link>
-    <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
-  </item>
-  <item>
-    <title>moghtech / komodo</title>
-    <link>https://github.com/moghtech/komodo</link>
-    <description>🦎 a tool to build and deploy software on many servers 🦎</description>
+    <title>ovexro / dockpanel</title>
+    <link>https://github.com/ovexro/dockpanel</link>
+    <description>Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel.</description>
   </item>
   <item>
     <title>risingwavelabs / risingwave</title>
@@ -66,34 +21,14 @@
     <description>Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.</description>
   </item>
   <item>
-    <title>qdrant / qdrant</title>
-    <link>https://github.com/qdrant/qdrant</link>
-    <description>Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</description>
+    <title>farion1231 / cc-switch</title>
+    <link>https://github.com/farion1231/cc-switch</link>
+    <description>A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io</description>
   </item>
   <item>
-    <title>PyO3 / pyo3</title>
-    <link>https://github.com/PyO3/pyo3</link>
-    <description>Rust bindings for the Python interpreter</description>
-  </item>
-  <item>
-    <title>rerun-io / rerun</title>
-    <link>https://github.com/rerun-io/rerun</link>
-    <description>Visualize, query, and stream to train on multimodal robotics data.</description>
-  </item>
-  <item>
-    <title>rtk-ai / rtk</title>
-    <link>https://github.com/rtk-ai/rtk</link>
-    <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
-  </item>
-  <item>
-    <title>rust-lang / rust-clippy</title>
-    <link>https://github.com/rust-lang/rust-clippy</link>
-    <description>A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/</description>
-  </item>
-  <item>
-    <title>zellij-org / zellij</title>
-    <link>https://github.com/zellij-org/zellij</link>
-    <description>A terminal workspace with batteries included</description>
+    <title>tokio-rs / tokio</title>
+    <link>https://github.com/tokio-rs/tokio</link>
+    <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
   </item>
   <item>
     <title>pnpm / pnpm</title>
@@ -101,9 +36,64 @@
     <description>Fast, disk space efficient package manager</description>
   </item>
   <item>
+    <title>FalkorDB / FalkorDB</title>
+    <link>https://github.com/FalkorDB/FalkorDB</link>
+    <description>A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).</description>
+  </item>
+  <item>
     <title>katanemo / plano</title>
     <link>https://github.com/katanemo/plano</link>
     <description>Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.</description>
+  </item>
+  <item>
+    <title>yvgude / lean-ctx</title>
+    <link>https://github.com/yvgude/lean-ctx</link>
+    <description>Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.</description>
+  </item>
+  <item>
+    <title>rust-lang / rust</title>
+    <link>https://github.com/rust-lang/rust</link>
+    <description>Empowering everyone to build reliable and efficient software.</description>
+  </item>
+  <item>
+    <title>moghtech / komodo</title>
+    <link>https://github.com/moghtech/komodo</link>
+    <description>🦎 a tool to build and deploy software on many servers 🦎</description>
+  </item>
+  <item>
+    <title>astral-sh / uv</title>
+    <link>https://github.com/astral-sh/uv</link>
+    <description>An extremely fast Python package and project manager, written in Rust.</description>
+  </item>
+  <item>
+    <title>zed-industries / zed</title>
+    <link>https://github.com/zed-industries/zed</link>
+    <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
+  </item>
+  <item>
+    <title>openai / codex</title>
+    <link>https://github.com/openai/codex</link>
+    <description>Lightweight coding agent that runs in your terminal</description>
+  </item>
+  <item>
+    <title>juspay / hyperswitch</title>
+    <link>https://github.com/juspay/hyperswitch</link>
+    <description>Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation</description>
+  </item>
+  <item>
+    <title>pola-rs / polars</title>
+    <link>https://github.com/pola-rs/polars</link>
+    <description>Extremely fast Query Engine for DataFrames, written in Rust</description>
+  </item>
+  <item>
+    <title>hyperium / hyper</title>
+    <link>https://github.com/hyperium/hyper</link>
+    <description>An HTTP library for Rust</description>
+  </item>
+  <item>
+    <title>WeaveMindAI / weft</title>
+    <link>https://github.com/WeaveMindAI/weft</link>
+    <description>A programming language for AI orchestrations (POC)</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,9 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27205,
-      "forks": 12405,
-      "added_stars": "69 stars this month"
+      "stars": 27206,
+      "forks": 12407,
+      "added_stars": "70 stars this month"
     },
     {
       "title": "ethereum / ERCs",
@@ -20,9 +20,9 @@
       "description": "The Ethereum Request for Comment repository",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 743,
-      "forks": 1022,
-      "added_stars": "17 stars this month"
+      "stars": 744,
+      "forks": 1024,
+      "added_stars": "19 stars this month"
     },
     {
       "title": "dapphub / ds-test",
@@ -60,7 +60,7 @@
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 4287,
+      "stars": 4288,
       "forks": 708,
       "added_stars": "7 stars this month"
     },
@@ -71,7 +71,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 3345,
-      "forks": 481,
+      "forks": 483,
       "added_stars": "13 stars this month"
     },
     {
@@ -80,9 +80,9 @@
       "description": "🔑🔑🔑 next generation token approvals mechanism",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 947,
+      "stars": 948,
       "forks": 296,
-      "added_stars": "9 stars this month"
+      "added_stars": "10 stars this month"
     },
     {
       "title": "Arachnid / solidity-stringutils",
@@ -101,18 +101,8 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 195,
-      "forks": 113,
+      "forks": 112,
       "added_stars": "11 stars this month"
-    },
-    {
-      "title": "dmfxyz / murky",
-      "url": "https://github.com/dmfxyz/murky",
-      "description": "Merkle Proof Generator and Validator in Solidity",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 513,
-      "forks": 57,
-      "added_stars": "1 star this month"
     },
     {
       "title": "Uniswap / v4-periphery",
@@ -125,6 +115,36 @@
       "added_stars": "5 stars this month"
     },
     {
+      "title": "dmfxyz / murky",
+      "url": "https://github.com/dmfxyz/murky",
+      "description": "Merkle Proof Generator and Validator in Solidity",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 513,
+      "forks": 57,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "morpho-org / vault-v2",
+      "url": "https://github.com/morpho-org/vault-v2",
+      "description": "Morpho Vault V2",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 94,
+      "forks": 71,
+      "added_stars": "5 stars this month"
+    },
+    {
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 2527,
+      "forks": 1314,
+      "added_stars": "13 stars this month"
+    },
+    {
       "title": "foundry-rs / book",
       "url": "https://github.com/foundry-rs/book",
       "description": "A book on all things Foundry, available at https://getfoundry.sh.",
@@ -135,36 +155,6 @@
       "added_stars": "6 stars this month"
     },
     {
-      "title": "morpho-org / vault-v2",
-      "url": "https://github.com/morpho-org/vault-v2",
-      "description": "Morpho Vault V2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 93,
-      "forks": 71,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 2527,
-      "forks": 1316,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "OpenZeppelin / openzeppelin-foundry-upgrades",
-      "url": "https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades",
-      "description": "Foundry library for deploying and managing upgradeable contracts",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 257,
-      "forks": 42,
-      "added_stars": "2 stars this month"
-    },
-    {
       "title": "aave-dao / aave-v3-origin",
       "url": "https://github.com/aave-dao/aave-v3-origin",
       "description": "Aave v3.6 protocol",
@@ -172,17 +162,7 @@
       "languageColor": "#AA6746",
       "stars": 290,
       "forks": 218,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "base / contracts",
-      "url": "https://github.com/base/contracts",
-      "description": "",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 320,
-      "forks": 235,
-      "added_stars": "13 stars this month"
+      "added_stars": "3 stars this month"
     }
   ]
 }

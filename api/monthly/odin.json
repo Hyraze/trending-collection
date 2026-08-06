@@ -2,7 +2,7 @@
   "title": "GitHub Odin Languages Daily Trending",
   "description": "Daily Trending of Odin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "odin-lang / Odin",
@@ -10,9 +10,9 @@
       "description": "Odin Programming Language",
       "language": "Odin",
       "languageColor": "#60AFFE",
-      "stars": 11610,
-      "forks": 1042,
-      "added_stars": "698 stars this month"
+      "stars": 11618,
+      "forks": 1045,
+      "added_stars": "700 stars this month"
     },
     {
       "title": "DanielGavin / ols",
@@ -20,9 +20,9 @@
       "description": "Language server for Odin",
       "language": "Odin",
       "languageColor": "#60AFFE",
-      "stars": 1130,
-      "forks": 174,
-      "added_stars": "80 stars this month"
+      "stars": 1131,
+      "forks": 175,
+      "added_stars": "81 stars this month"
     },
     {
       "title": "odin-lang / examples",
@@ -30,9 +30,19 @@
       "description": "Examples of idiomatic Odin code",
       "language": "Odin",
       "languageColor": "#60AFFE",
-      "stars": 734,
+      "stars": 736,
       "forks": 100,
-      "added_stars": "57 stars this month"
+      "added_stars": "55 stars this month"
+    },
+    {
+      "title": "leotmp / no_gfx_api",
+      "url": "https://github.com/leotmp/no_gfx_api",
+      "description": "",
+      "language": "Odin",
+      "languageColor": "#60AFFE",
+      "stars": 258,
+      "forks": 16,
+      "added_stars": "24 stars this month"
     }
   ]
 }

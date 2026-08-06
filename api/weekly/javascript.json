@@ -2,27 +2,27 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
+    {
+      "title": "woosal1337 / blog",
+      "url": "https://github.com/woosal1337/blog",
+      "description": "My blog website.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 406,
+      "forks": 32,
+      "added_stars": "160 stars this week"
+    },
     {
       "title": "citrolabs / ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8415,
-      "forks": 406,
-      "added_stars": "2,633 stars this week"
-    },
-    {
-      "title": "earthtojake / text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "A library of agent skills for CAD, CAE and CAM",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 12830,
-      "forks": 1352,
-      "added_stars": "1,431 stars this week"
+      "stars": 8836,
+      "forks": 420,
+      "added_stars": "2,737 stars this week"
     },
     {
       "title": "NomaDamas / k-skill",
@@ -30,19 +30,19 @@
       "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 7003,
-      "forks": 825,
-      "added_stars": "539 stars this week"
+      "stars": 7022,
+      "forks": 831,
+      "added_stars": "537 stars this week"
     },
     {
-      "title": "WhiskeySockets / Baileys",
-      "url": "https://github.com/WhiskeySockets/Baileys",
-      "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 10598,
-      "forks": 3274,
-      "added_stars": "311 stars this week"
+      "stars": 12917,
+      "forks": 1364,
+      "added_stars": "1,082 stars this week"
     },
     {
       "title": "byoungd / up",
@@ -50,9 +50,29 @@
       "description": "An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 57302,
-      "forks": 5870,
-      "added_stars": "971 stars this week"
+      "stars": 57536,
+      "forks": 5898,
+      "added_stars": "974 stars this week"
+    },
+    {
+      "title": "WhiskeySockets / Baileys",
+      "url": "https://github.com/WhiskeySockets/Baileys",
+      "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 10611,
+      "forks": 3276,
+      "added_stars": "300 stars this week"
+    },
+    {
+      "title": "lodash / lodash",
+      "url": "https://github.com/lodash/lodash",
+      "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 61291,
+      "forks": 7194,
+      "added_stars": "43 stars this week"
     },
     {
       "title": "pdone / lx-music-source",
@@ -60,9 +80,9 @@
       "description": "洛雪音乐源",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 7635,
-      "forks": 631,
-      "added_stars": "206 stars this week"
+      "stars": 7664,
+      "forks": 634,
+      "added_stars": "225 stars this week"
     },
     {
       "title": "Acode-Foundation / Acode",
@@ -70,59 +90,19 @@
       "description": "Acode - powerful text/code editor for android",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6360,
-      "forks": 1383,
-      "added_stars": "145 stars this week"
+      "stars": 6380,
+      "forks": 1388,
+      "added_stars": "146 stars this week"
     },
     {
-      "title": "WordPress / gutenberg",
-      "url": "https://github.com/WordPress/gutenberg",
-      "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+      "title": "vllm-project / recipes",
+      "url": "https://github.com/vllm-project/recipes",
+      "description": "Common recipes to run vLLM",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 11745,
-      "forks": 4865,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "projectdiscovery / nuclei-templates",
-      "url": "https://github.com/projectdiscovery/nuclei-templates",
-      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 12751,
-      "forks": 3603,
-      "added_stars": "46 stars this week"
-    },
-    {
-      "title": "mailcow / mailcow-dockerized",
-      "url": "https://github.com/mailcow/mailcow-dockerized",
-      "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 13230,
-      "forks": 1770,
-      "added_stars": "50 stars this week"
-    },
-    {
-      "title": "zarazhangrui / follow-builders",
-      "url": "https://github.com/zarazhangrui/follow-builders",
-      "description": "AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 6160,
-      "forks": 803,
-      "added_stars": "158 stars this week"
-    },
-    {
-      "title": "jgraph / drawio",
-      "url": "https://github.com/jgraph/drawio",
-      "description": "draw.io is a JavaScript, client-side editor for general diagramming.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 7295,
-      "forks": 1132,
-      "added_stars": "169 stars this week"
+      "stars": 956,
+      "forks": 365,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "Axorax / awesome-free-apps",
@@ -130,9 +110,49 @@
       "description": "Curated list of the best free apps for PC and mobile",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 7209,
-      "forks": 412,
-      "added_stars": "178 stars this week"
+      "stars": 7222,
+      "forks": 413,
+      "added_stars": "196 stars this week"
+    },
+    {
+      "title": "sveltejs / svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 87909,
+      "forks": 5179,
+      "added_stars": "271 stars this week"
+    },
+    {
+      "title": "zarazhangrui / follow-builders",
+      "url": "https://github.com/zarazhangrui/follow-builders",
+      "description": "AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 6168,
+      "forks": 805,
+      "added_stars": "106 stars this week"
+    },
+    {
+      "title": "visualbruno / 3DGenStudio",
+      "url": "https://github.com/visualbruno/3DGenStudio",
+      "description": "Orchestrate complete 3D generation pipelines — from text-to-image, image editing, mesh generation, UV unwrapping, to texturing — all in a single visual workspace powered by ComfyUI and external APIs.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 472,
+      "forks": 78,
+      "added_stars": "51 stars this week"
+    },
+    {
+      "title": "zotero / zotero",
+      "url": "https://github.com/zotero/zotero",
+      "description": "Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 14883,
+      "forks": 1085,
+      "added_stars": "73 stars this week"
     },
     {
       "title": "louislam / uptime-kuma",
@@ -140,29 +160,29 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 89824,
-      "forks": 8204,
-      "added_stars": "276 stars this week"
+      "stars": 89874,
+      "forks": 8206,
+      "added_stars": "292 stars this week"
     },
     {
-      "title": "ulsklyc / yuvomi",
-      "url": "https://github.com/ulsklyc/yuvomi",
-      "description": "Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.",
+      "title": "mailcow / mailcow-dockerized",
+      "url": "https://github.com/mailcow/mailcow-dockerized",
+      "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1265,
-      "forks": 106,
-      "added_stars": "196 stars this week"
+      "stars": 13231,
+      "forks": 1769,
+      "added_stars": "47 stars this week"
     },
     {
-      "title": "wekan / wekan",
-      "url": "https://github.com/wekan/wekan",
-      "description": "The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.",
+      "title": "projectdiscovery / nuclei-templates",
+      "url": "https://github.com/projectdiscovery/nuclei-templates",
+      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 21016,
-      "forks": 2995,
-      "added_stars": "17 stars this week"
+      "stars": 12755,
+      "forks": 3611,
+      "added_stars": "45 stars this week"
     }
   ]
 }

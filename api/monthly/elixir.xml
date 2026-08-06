@@ -4,7 +4,7 @@
   <title>GitHub Elixir Languages Daily Trending</title>
   <description>Daily Trending of Elixir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>elixir-lang / elixir</title>
     <link>https://github.com/elixir-lang/elixir</link>
@@ -31,14 +31,14 @@
     <description>Rich, real-time user experiences with server-rendered HTML</description>
   </item>
   <item>
-    <title>elixir-lsp / elixir_sense</title>
-    <link>https://github.com/elixir-lsp/elixir_sense</link>
-    <description>Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more</description>
-  </item>
-  <item>
     <title>icoretech / codex-pooler</title>
     <link>https://github.com/icoretech/codex-pooler</link>
     <description>The full featured self-hosted Codex gateway, for teams, agents and you</description>
+  </item>
+  <item>
+    <title>elixir-lsp / elixir_sense</title>
+    <link>https://github.com/elixir-lsp/elixir_sense</link>
+    <description>Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more</description>
   </item>
   <item>
     <title>plausible / analytics</title>
@@ -46,14 +46,14 @@
     <description>Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.</description>
   </item>
   <item>
-    <title>openai / symphony</title>
-    <link>https://github.com/openai/symphony</link>
-    <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
-  </item>
-  <item>
     <title>supabase / realtime</title>
     <link>https://github.com/supabase/realtime</link>
     <description>Broadcast, Presence, and Postgres Changes via WebSockets</description>
+  </item>
+  <item>
+    <title>open-telemetry / opentelemetry-erlang-contrib</title>
+    <link>https://github.com/open-telemetry/opentelemetry-erlang-contrib</link>
+    <description>OpenTelemetry instrumentation for Erlang &amp; Elixir</description>
   </item>
   <item>
     <title>kieraneglin / pinchflat</title>
@@ -61,9 +61,14 @@
     <description>Your next YouTube media manager</description>
   </item>
   <item>
-    <title>open-telemetry / opentelemetry-erlang-contrib</title>
-    <link>https://github.com/open-telemetry/opentelemetry-erlang-contrib</link>
-    <description>OpenTelemetry instrumentation for Erlang &amp; Elixir</description>
+    <title>beyond-all-reason / teiserver</title>
+    <link>https://github.com/beyond-all-reason/teiserver</link>
+    <description>Middleware server for online gaming</description>
+  </item>
+  <item>
+    <title>openai / symphony</title>
+    <link>https://github.com/openai/symphony</link>
+    <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
   </item>
 </channel>
 </rss>

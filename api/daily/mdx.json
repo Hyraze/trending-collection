@@ -2,67 +2,17 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
-    {
-      "title": "getsentry / sentry-docs",
-      "url": "https://github.com/getsentry/sentry-docs",
-      "description": "Sentry's documentation (and tools to build it)",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 441,
-      "forks": 1693,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "twbs / bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 174558,
-      "forks": 78693,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "prisma / web",
-      "url": "https://github.com/prisma/web",
-      "description": "📚 Prisma Web Monorepo",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 1093,
-      "forks": 979,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "dair-ai / Prompt-Engineering-Guide",
-      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 77266,
-      "forks": 8490,
-      "added_stars": "36 stars today"
-    },
-    {
-      "title": "huggingface / agents-course",
-      "url": "https://github.com/huggingface/agents-course",
-      "description": "This repository contains the Hugging Face Agents Course.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 30681,
-      "forks": 2190,
-      "added_stars": "35 stars today"
-    },
-    {
-      "title": "enactic / openarm",
-      "url": "https://github.com/enactic/openarm",
-      "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 2811,
-      "forks": 307,
-      "added_stars": "3 stars today"
+      "stars": 174567,
+      "forks": 78690,
+      "added_stars": "18 stars today"
     },
     {
       "title": "cloudflare / cloudflare-docs",
@@ -70,29 +20,59 @@
       "description": "Cloudflare’s documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 5043,
-      "forks": 16213,
-      "added_stars": "10 stars today"
+      "stars": 5048,
+      "forks": 16227,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "processing / p5.js-website",
-      "url": "https://github.com/processing/p5.js-website",
-      "description": "New p5.js website!",
+      "title": "getsentry / sentry-docs",
+      "url": "https://github.com/getsentry/sentry-docs",
+      "description": "Sentry's documentation (and tools to build it)",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 92,
-      "forks": 307,
+      "stars": 441,
+      "forks": 1692,
       "added_stars": "0 stars today"
     },
     {
-      "title": "netbirdio / docs",
-      "url": "https://github.com/netbirdio/docs",
-      "description": "",
+      "title": "dair-ai / Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 35,
-      "forks": 132,
+      "stars": 77296,
+      "forks": 8495,
+      "added_stars": "31 stars today"
+    },
+    {
+      "title": "langchain-ai / docs",
+      "url": "https://github.com/langchain-ai/docs",
+      "description": "Unified LangChain documentation.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 391,
+      "forks": 2568,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "wasp-lang / open-saas",
+      "url": "https://github.com/wasp-lang/open-saas",
+      "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 15167,
+      "forks": 1811,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "prisma / web",
+      "url": "https://github.com/prisma/web",
+      "description": "📚 Prisma Web Monorepo",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1095,
+      "forks": 979,
+      "added_stars": "1 star today"
     },
     {
       "title": "withastro / docs",
@@ -101,47 +81,17 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 1672,
-      "forks": 1867,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "hunvreus / basecoat",
-      "url": "https://github.com/hunvreus/basecoat",
-      "description": "A components library built with Tailwind CSS that works with any web stack.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 4213,
-      "forks": 138,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "jellyfin / jellyfin.org",
-      "url": "https://github.com/jellyfin/jellyfin.org",
-      "description": "Jellyfin Project website, blog, and user documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 157,
-      "forks": 684,
+      "forks": 1868,
       "added_stars": "0 stars today"
     },
     {
-      "title": "newrelic / docs-website",
-      "url": "https://github.com/newrelic/docs-website",
-      "description": "Source code for @newrelic docs. We welcome pull requests and questions on our docs!",
+      "title": "langfuse / langfuse-docs",
+      "url": "https://github.com/langfuse/langfuse-docs",
+      "description": "🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 197,
-      "forks": 1458,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ngrok / ngrok-docs",
-      "url": "https://github.com/ngrok/ngrok-docs",
-      "description": "ngrok's official documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 159,
-      "forks": 4189,
+      "stars": 231,
+      "forks": 274,
       "added_stars": "0 stars today"
     },
     {
@@ -155,44 +105,64 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "JSONbored / awesome-claude",
-      "url": "https://github.com/JSONbored/awesome-claude",
-      "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP package.",
+      "title": "aws-amplify / docs",
+      "url": "https://github.com/aws-amplify/docs",
+      "description": "AWS Amplify Framework Documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 286,
-      "forks": 118,
+      "stars": 506,
+      "forks": 1085,
       "added_stars": "0 stars today"
     },
     {
-      "title": "react / react-native-website",
-      "url": "https://github.com/react/react-native-website",
-      "description": "The React Native website and docs",
+      "title": "ionic-team / capacitor-docs",
+      "url": "https://github.com/ionic-team/capacitor-docs",
+      "description": "",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 2152,
-      "forks": 6260,
+      "stars": 48,
+      "forks": 732,
       "added_stars": "0 stars today"
     },
     {
-      "title": "wix / react-native-navigation",
-      "url": "https://github.com/wix/react-native-navigation",
-      "description": "A complete native navigation solution for React Native",
+      "title": "MetaMask / metamask-docs",
+      "url": "https://github.com/MetaMask/metamask-docs",
+      "description": "Developer documentation for MetaMask",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 13177,
-      "forks": 2631,
+      "stars": 856,
+      "forks": 2047,
       "added_stars": "0 stars today"
     },
     {
-      "title": "gpxstudio / gpx.studio",
-      "url": "https://github.com/gpxstudio/gpx.studio",
-      "description": "the online GPX file editor",
+      "title": "expressjs / expressjs.com",
+      "url": "https://github.com/expressjs/expressjs.com",
+      "description": "The Express.js Website",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 1147,
-      "forks": 249,
-      "added_stars": "2 stars today"
+      "stars": 5359,
+      "forks": 2232,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "huggingface / agents-course",
+      "url": "https://github.com/huggingface/agents-course",
+      "description": "This repository contains the Hugging Face Agents Course.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 30718,
+      "forks": 2192,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "detekt / detekt",
+      "url": "https://github.com/detekt/detekt",
+      "description": "Static code analysis for Kotlin",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 7020,
+      "forks": 852,
+      "added_stars": "1 star today"
     },
     {
       "title": "mintlify / docs",
@@ -200,9 +170,19 @@
       "description": "Official Mintlify documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 428,
+      "stars": 427,
       "forks": 237,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "enactic / openarm",
+      "url": "https://github.com/enactic/openarm",
+      "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 2814,
+      "forks": 307,
+      "added_stars": "4 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "The-OpenROAD-Project / OpenROAD",
@@ -10,19 +10,9 @@
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 2940,
-      "forks": 976,
-      "added_stars": "151 stars this month"
-    },
-    {
-      "title": "YosysHQ / picorv32",
-      "url": "https://github.com/YosysHQ/picorv32",
-      "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 4303,
-      "forks": 985,
-      "added_stars": "65 stars this month"
+      "stars": 2945,
+      "forks": 977,
+      "added_stars": "154 stars this month"
     },
     {
       "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
@@ -32,7 +22,17 @@
       "languageColor": "#b2b7f8",
       "stars": 699,
       "forks": 518,
-      "added_stars": "34 stars this month"
+      "added_stars": "32 stars this month"
+    },
+    {
+      "title": "YosysHQ / picorv32",
+      "url": "https://github.com/YosysHQ/picorv32",
+      "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 4303,
+      "forks": 987,
+      "added_stars": "65 stars this month"
     },
     {
       "title": "OSCPU / yosys-sta",
@@ -50,7 +50,7 @@
       "description": "",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 2187,
+      "stars": 2188,
       "forks": 518,
       "added_stars": "56 stars this month"
     },
@@ -80,9 +80,9 @@
       "description": "HDL libraries and projects",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 1988,
-      "forks": 1670,
-      "added_stars": "30 stars this month"
+      "stars": 1990,
+      "forks": 1671,
+      "added_stars": "31 stars this month"
     },
     {
       "title": "OpenPOWERFoundation / a2o",

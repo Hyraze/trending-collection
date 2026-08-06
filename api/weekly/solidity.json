@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,9 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27205,
-      "forks": 12405,
-      "added_stars": "13 stars this week"
+      "stars": 27206,
+      "forks": 12407,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -45,14 +45,24 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "aave / aave-v4",
+      "url": "https://github.com/aave/aave-v4",
+      "description": "Aave V4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 195,
+      "forks": 112,
+      "added_stars": "2 stars this week"
+    },
+    {
       "title": "coinbase / smart-wallet",
       "url": "https://github.com/coinbase/smart-wallet",
       "description": "",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 484,
+      "stars": 485,
       "forks": 175,
-      "added_stars": "0 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "transmissions11 / solmate",
@@ -60,39 +70,9 @@
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 4287,
+      "stars": 4288,
       "forks": 708,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "Vectorized / solady",
-      "url": "https://github.com/Vectorized/solady",
-      "description": "Optimized Solidity snippets.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 3345,
-      "forks": 481,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "1inch / swap-vm",
-      "url": "https://github.com/1inch/swap-vm",
-      "description": "",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 29,
-      "forks": 31,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "0xProject / 0x-settler",
-      "url": "https://github.com/0xProject/0x-settler",
-      "description": "0x settlement contracts using Permit2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 103,
-      "forks": 69,
-      "added_stars": "2 stars this week"
     },
     {
       "title": "GNSPS / solidity-bytes-utils",
@@ -105,14 +85,44 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Uniswap / permit2",
-      "url": "https://github.com/Uniswap/permit2",
-      "description": "🔑🔑🔑 next generation token approvals mechanism",
+      "title": "Vectorized / solady",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 947,
-      "forks": 296,
-      "added_stars": "2 stars this week"
+      "stars": 3345,
+      "forks": 483,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "0xProject / 0x-settler",
+      "url": "https://github.com/0xProject/0x-settler",
+      "description": "0x settlement contracts using Permit2",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 104,
+      "forks": 69,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "across-protocol / contracts",
+      "url": "https://github.com/across-protocol/contracts",
+      "description": "Smart contracts for Across protocol",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 151,
+      "forks": 89,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "celo-org / celo-monorepo",
+      "url": "https://github.com/celo-org/celo-monorepo",
+      "description": "Official repository for core projects comprising the Celo platform",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 801,
+      "forks": 478,
+      "added_stars": "1 star this week"
     },
     {
       "title": "Uniswap / v4-core",
@@ -121,8 +131,8 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 2527,
-      "forks": 1316,
-      "added_stars": "1 star this week"
+      "forks": 1314,
+      "added_stars": "0 stars this week"
     }
   ]
 }

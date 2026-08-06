@@ -2,7 +2,7 @@
   "title": "GitHub Smalltalk Languages Daily Trending",
   "description": "Daily Trending of Smalltalk Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "pharo-project / pharo",
@@ -12,6 +12,16 @@
       "languageColor": "#596706",
       "stars": 1479,
       "forks": 431,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "feenkcom / gtoolkit",
+      "url": "https://github.com/feenkcom/gtoolkit",
+      "description": "Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.",
+      "language": "Smalltalk",
+      "languageColor": "#596706",
+      "stars": 1550,
+      "forks": 68,
       "added_stars": "1 star today"
     }
   ]

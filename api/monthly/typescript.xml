@@ -4,7 +4,7 @@
   <title>GitHub Typescript Languages Daily Trending</title>
   <description>Daily Trending of Typescript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>diegosouzapw / OmniRoute</title>
     <link>https://github.com/diegosouzapw/OmniRoute</link>
@@ -21,19 +21,14 @@
     <description>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</description>
   </item>
   <item>
+    <title>MadsLorentzen / ai-job-search</title>
+    <link>https://github.com/MadsLorentzen/ai-job-search</link>
+    <description>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</description>
+  </item>
+  <item>
     <title>wonderwhy-er / DesktopCommanderMCP</title>
     <link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
     <description>This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities</description>
-  </item>
-  <item>
-    <title>facebook / astryx</title>
-    <link>https://github.com/facebook/astryx</link>
-    <description>An open source design system that&#x27;s fully customizable and agent ready</description>
-  </item>
-  <item>
-    <title>pingdotgg / t3code</title>
-    <link>https://github.com/pingdotgg/t3code</link>
-    <description></description>
   </item>
   <item>
     <title>OpenCut-app / OpenCut</title>
@@ -41,9 +36,19 @@
     <description>The open-source CapCut alternative</description>
   </item>
   <item>
+    <title>pingdotgg / t3code</title>
+    <link>https://github.com/pingdotgg/t3code</link>
+    <description></description>
+  </item>
+  <item>
     <title>every-app / open-seo</title>
     <link>https://github.com/every-app/open-seo</link>
     <description>Open source alternative to Semrush and Ahrefs</description>
+  </item>
+  <item>
+    <title>facebook / astryx</title>
+    <link>https://github.com/facebook/astryx</link>
+    <description>An open source design system that&#x27;s fully customizable and agent ready</description>
   </item>
   <item>
     <title>jamiepine / voicebox</title>
@@ -56,19 +61,14 @@
     <description>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI</description>
   </item>
   <item>
-    <title>google-labs-code / stitch-skills</title>
-    <link>https://github.com/google-labs-code/stitch-skills</link>
-    <description>A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</description>
-  </item>
-  <item>
     <title>MoonshotAI / kimi-code</title>
     <link>https://github.com/MoonshotAI/kimi-code</link>
     <description>Kimi Code CLI — The Starting Point for Next-Gen Agents</description>
   </item>
   <item>
-    <title>ibelick / ui-skills</title>
-    <link>https://github.com/ibelick/ui-skills</link>
-    <description>Skills for Design Engineers</description>
+    <title>google-labs-code / stitch-skills</title>
+    <link>https://github.com/google-labs-code/stitch-skills</link>
+    <description>A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</description>
   </item>
   <item>
     <title>different-ai / openwork</title>
@@ -76,9 +76,9 @@
     <description>The open-source alternative to Claude Cowork (powered by opencode)</description>
   </item>
   <item>
-    <title>shadcn-ui / ui</title>
-    <link>https://github.com/shadcn-ui/ui</link>
-    <description>A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.</description>
+    <title>ibelick / ui-skills</title>
+    <link>https://github.com/ibelick/ui-skills</link>
+    <description>Skills for Design Engineers</description>
   </item>
   <item>
     <title>actions / checkout</title>
@@ -86,14 +86,19 @@
     <description>Action for checking out a repo</description>
   </item>
   <item>
+    <title>shadcn-ui / ui</title>
+    <link>https://github.com/shadcn-ui/ui</link>
+    <description>A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.</description>
+  </item>
+  <item>
     <title>prisma / prisma</title>
     <link>https://github.com/prisma/prisma</link>
     <description>Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</description>
   </item>
   <item>
-    <title>dreamhunter2333 / cloudflare_temp_email</title>
-    <link>https://github.com/dreamhunter2333/cloudflare_temp_email</link>
-    <description>CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot</description>
+    <title>TencentCloud / TencentDB-Agent-Memory</title>
+    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
+    <description>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
   </item>
   <item>
     <title>rowboatlabs / rowboat</title>
@@ -101,9 +106,19 @@
     <description>Open-source AI coworker, with memory</description>
   </item>
   <item>
-    <title>alibaba / page-agent</title>
-    <link>https://github.com/alibaba/page-agent</link>
-    <description>JavaScript in-page GUI agent. Control web interfaces with natural language.</description>
+    <title>moeru-ai / airi</title>
+    <link>https://github.com/moeru-ai/airi</link>
+    <description>💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#x27;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.</description>
+  </item>
+  <item>
+    <title>likec4 / likec4</title>
+    <link>https://github.com/likec4/likec4</link>
+    <description>Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code</description>
+  </item>
+  <item>
+    <title>can1357 / oh-my-pi</title>
+    <link>https://github.com/can1357/oh-my-pi</link>
+    <description>⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more</description>
   </item>
 </channel>
 </rss>

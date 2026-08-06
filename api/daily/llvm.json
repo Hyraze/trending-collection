@@ -2,7 +2,7 @@
   "title": "GitHub Llvm Languages Daily Trending",
   "description": "Daily Trending of Llvm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "llvm / llvm-project",
@@ -10,19 +10,9 @@
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 39638,
-      "forks": 18103,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "KhronosGroup / SPIRV-LLVM-Translator",
-      "url": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator",
-      "description": "A tool and a library for bi-directional translation between SPIR-V and LLVM IR",
-      "language": "LLVM",
-      "languageColor": "#185619",
-      "stars": 623,
-      "forks": 273,
-      "added_stars": "1 star today"
+      "stars": 39650,
+      "forks": 18113,
+      "added_stars": "16 stars today"
     },
     {
       "title": "EnzymeAD / Enzyme",
@@ -30,18 +20,8 @@
       "description": "High-performance automatic differentiation of LLVM and MLIR.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 1662,
+      "stars": 1664,
       "forks": 181,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "intel / llvm",
-      "url": "https://github.com/intel/llvm",
-      "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
-      "language": "LLVM",
-      "languageColor": "#185619",
-      "stars": 1512,
-      "forks": 848,
       "added_stars": "0 stars today"
     }
   ]

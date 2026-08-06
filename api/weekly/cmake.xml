@@ -4,7 +4,7 @@
   <title>GitHub Cmake Languages Daily Trending</title>
   <description>Daily Trending of Cmake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>microsoft / vcpkg</title>
     <link>https://github.com/microsoft/vcpkg</link>
@@ -26,19 +26,14 @@
     <description>A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development</description>
   </item>
   <item>
-    <title>minecraft-linux / mcpelauncher-manifest</title>
-    <link>https://github.com/minecraft-linux/mcpelauncher-manifest</link>
-    <description>The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.</description>
-  </item>
-  <item>
-    <title>KiCad / kicad-symbols</title>
-    <link>https://github.com/KiCad/kicad-symbols</link>
-    <description>Official KiCad schematic symbol libraries for Kicad 5</description>
-  </item>
-  <item>
     <title>jrl-umi3218 / jrl-cmakemodules</title>
     <link>https://github.com/jrl-umi3218/jrl-cmakemodules</link>
     <description>CMake utility toolbox</description>
+  </item>
+  <item>
+    <title>minecraft-linux / mcpelauncher-manifest</title>
+    <link>https://github.com/minecraft-linux/mcpelauncher-manifest</link>
+    <description>The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.</description>
   </item>
   <item>
     <title>arsenm / sanitizers-cmake</title>
@@ -51,19 +46,19 @@
     <description>Common Flatpak modules that can be used as a git submodule</description>
   </item>
   <item>
+    <title>KiCad / kicad-symbols</title>
+    <link>https://github.com/KiCad/kicad-symbols</link>
+    <description>Official KiCad schematic symbol libraries for Kicad 5</description>
+  </item>
+  <item>
     <title>ecmwf / ecbuild</title>
     <link>https://github.com/ecmwf/ecbuild</link>
     <description>A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</description>
   </item>
   <item>
-    <title>Andersama / obs-asio</title>
-    <link>https://github.com/Andersama/obs-asio</link>
-    <description>ASIO plugin for OBS-Studio</description>
-  </item>
-  <item>
-    <title>steinbergmedia / vst3sdk</title>
-    <link>https://github.com/steinbergmedia/vst3sdk</link>
-    <description>VST 3 Plug-In SDK</description>
+    <title>GEOS-ESM / GEOSgcm</title>
+    <link>https://github.com/GEOS-ESM/GEOSgcm</link>
+    <description>GEOS Earth System Model GEOSgcm Fixture</description>
   </item>
   <item>
     <title>OpenMoonRay / openmoonray</title>
@@ -71,19 +66,19 @@
     <description>MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.</description>
   </item>
   <item>
-    <title>KIT-MRT / mrt_cmake_modules</title>
-    <link>https://github.com/KIT-MRT/mrt_cmake_modules</link>
-    <description>Automated catkin project handling framework</description>
+    <title>steinbergmedia / vst3sdk</title>
+    <link>https://github.com/steinbergmedia/vst3sdk</link>
+    <description>VST 3 Plug-In SDK</description>
   </item>
   <item>
-    <title>corrosion-rs / corrosion</title>
-    <link>https://github.com/corrosion-rs/corrosion</link>
-    <description>Marrying Rust and CMake - Easy Rust and C/C++ Integration!</description>
+    <title>Andersama / obs-asio</title>
+    <link>https://github.com/Andersama/obs-asio</link>
+    <description>ASIO plugin for OBS-Studio</description>
   </item>
   <item>
-    <title>GEOS-ESM / GEOSgcm</title>
-    <link>https://github.com/GEOS-ESM/GEOSgcm</link>
-    <description>GEOS Earth System Model GEOSgcm Fixture</description>
+    <title>tier4 / tier4_autoware_msgs</title>
+    <link>https://github.com/tier4/tier4_autoware_msgs</link>
+    <description>TIER IV&#x27;s extension messages for Autoware</description>
   </item>
 </channel>
 </rss>

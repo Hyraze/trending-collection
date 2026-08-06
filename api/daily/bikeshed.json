@@ -2,18 +2,8 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
-    {
-      "title": "webmachinelearning / webmcp",
-      "url": "https://github.com/webmachinelearning/webmcp",
-      "description": "🤖 WebMCP",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 2934,
-      "forks": 190,
-      "added_stars": "7 stars today"
-    },
     {
       "title": "w3c / csswg-drafts",
       "url": "https://github.com/w3c/csswg-drafts",
@@ -25,14 +15,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "gpuweb / gpuweb",
-      "url": "https://github.com/gpuweb/gpuweb",
-      "description": "Where the GPU for the Web work happens!",
+      "title": "webmachinelearning / webmcp",
+      "url": "https://github.com/webmachinelearning/webmcp",
+      "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 5446,
-      "forks": 375,
-      "added_stars": "2 stars today"
+      "stars": 2944,
+      "forks": 189,
+      "added_stars": "6 stars today"
     },
     {
       "title": "w3c / ServiceWorker",
@@ -55,14 +45,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "patcg-individual-drafts / topics",
-      "url": "https://github.com/patcg-individual-drafts/topics",
-      "description": "The Topics API",
+      "title": "w3c / resource-timing",
+      "url": "https://github.com/w3c/resource-timing",
+      "description": "Resource Timing",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 872,
-      "forks": 887,
+      "stars": 134,
+      "forks": 40,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "immersive-web / webxr",
+      "url": "https://github.com/immersive-web/webxr",
+      "description": "Repository for the WebXR Device API Specification.",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 3147,
+      "forks": 423,
+      "added_stars": "1 star today"
     }
   ]
 }

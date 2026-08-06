@@ -4,7 +4,7 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>permissionlesstech / bitchat</title>
     <link>https://github.com/permissionlesstech/bitchat</link>
@@ -31,19 +31,19 @@
     <description>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.</description>
   </item>
   <item>
-    <title>Nutlope / hallmark</title>
-    <link>https://github.com/Nutlope/hallmark</link>
-    <description>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</description>
-  </item>
-  <item>
     <title>koala73 / worldmonitor</title>
     <link>https://github.com/koala73/worldmonitor</link>
     <description>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</description>
   </item>
   <item>
-    <title>iOfficeAI / OfficeCLI</title>
-    <link>https://github.com/iOfficeAI/OfficeCLI</link>
-    <description>OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.</description>
+    <title>Nutlope / hallmark</title>
+    <link>https://github.com/Nutlope/hallmark</link>
+    <description>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</description>
+  </item>
+  <item>
+    <title>MadsLorentzen / ai-job-search</title>
+    <link>https://github.com/MadsLorentzen/ai-job-search</link>
+    <description>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</description>
   </item>
   <item>
     <title>huggingface / speech-to-speech</title>
@@ -51,14 +51,9 @@
     <description>Build local voice agents with open-source models</description>
   </item>
   <item>
-    <title>bradautomates / claude-video</title>
-    <link>https://github.com/bradautomates/claude-video</link>
-    <description>Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
-  </item>
-  <item>
-    <title>wonderwhy-er / DesktopCommanderMCP</title>
-    <link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
-    <description>This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities</description>
+    <title>iOfficeAI / OfficeCLI</title>
+    <link>https://github.com/iOfficeAI/OfficeCLI</link>
+    <description>OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.</description>
   </item>
   <item>
     <title>1jehuang / jcode</title>
@@ -66,9 +61,9 @@
     <description>The most RAM efficient harness</description>
   </item>
   <item>
-    <title>Shubhamsaboo / awesome-llm-apps</title>
-    <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
-    <description>100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.</description>
+    <title>wonderwhy-er / DesktopCommanderMCP</title>
+    <link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
+    <description>This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities</description>
   </item>
   <item>
     <title>HKUDS / DeepTutor</title>
@@ -76,19 +71,9 @@
     <description>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</description>
   </item>
   <item>
-    <title>pbakaus / impeccable</title>
-    <link>https://github.com/pbakaus/impeccable</link>
-    <description>The design language that makes your AI harness better at design.</description>
-  </item>
-  <item>
-    <title>facebook / astryx</title>
-    <link>https://github.com/facebook/astryx</link>
-    <description>An open source design system that&#x27;s fully customizable and agent ready</description>
-  </item>
-  <item>
-    <title>pingdotgg / t3code</title>
-    <link>https://github.com/pingdotgg/t3code</link>
-    <description></description>
+    <title>Shubhamsaboo / awesome-llm-apps</title>
+    <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
+    <description>100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.</description>
   </item>
   <item>
     <title>OpenCut-app / OpenCut</title>
@@ -96,14 +81,19 @@
     <description>The open-source CapCut alternative</description>
   </item>
   <item>
-    <title>HKUDS / Vibe-Trading</title>
-    <link>https://github.com/HKUDS/Vibe-Trading</link>
-    <description>&quot;Vibe-Trading: Your Personal Trading Agent&quot;</description>
+    <title>pbakaus / impeccable</title>
+    <link>https://github.com/pbakaus/impeccable</link>
+    <description>The design language that makes your AI harness better at design.</description>
   </item>
   <item>
-    <title>openai / codex-plugin-cc</title>
-    <link>https://github.com/openai/codex-plugin-cc</link>
-    <description>Use Codex from Claude Code to review code or delegate tasks.</description>
+    <title>pingdotgg / t3code</title>
+    <link>https://github.com/pingdotgg/t3code</link>
+    <description></description>
+  </item>
+  <item>
+    <title>bradautomates / claude-video</title>
+    <link>https://github.com/bradautomates/claude-video</link>
+    <description>Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
   </item>
   <item>
     <title>every-app / open-seo</title>
@@ -111,9 +101,24 @@
     <description>Open source alternative to Semrush and Ahrefs</description>
   </item>
   <item>
+    <title>HKUDS / Vibe-Trading</title>
+    <link>https://github.com/HKUDS/Vibe-Trading</link>
+    <description>&quot;Vibe-Trading: Your Personal Trading Agent&quot;</description>
+  </item>
+  <item>
+    <title>facebook / astryx</title>
+    <link>https://github.com/facebook/astryx</link>
+    <description>An open source design system that&#x27;s fully customizable and agent ready</description>
+  </item>
+  <item>
     <title>usestrix / strix</title>
     <link>https://github.com/usestrix/strix</link>
     <description>Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</description>
+  </item>
+  <item>
+    <title>tirth8205 / code-review-graph</title>
+    <link>https://github.com/tirth8205/code-review-graph</link>
+    <description>Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.</description>
   </item>
 </channel>
 </rss>

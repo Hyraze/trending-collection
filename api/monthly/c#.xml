@@ -4,11 +4,11 @@
   <title>GitHub C# Languages Daily Trending</title>
   <description>Daily Trending of C# Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
-    <title>HarbourMasters / Lighthouse</title>
-    <link>https://github.com/HarbourMasters/Lighthouse</link>
-    <description></description>
+    <title>php / php-src</title>
+    <link>https://github.com/php/php-src</link>
+    <description>The PHP Interpreter</description>
   </item>
   <item>
     <title>antirez / ds4</title>
@@ -16,14 +16,14 @@
     <description>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</description>
   </item>
   <item>
-    <title>xiaojieonly / Ehviewer_CN_SXJ</title>
-    <link>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</link>
-    <description>ehviewer，用爱发电，快乐前行</description>
+    <title>obsproject / obs-studio</title>
+    <link>https://github.com/obsproject/obs-studio</link>
+    <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
   </item>
   <item>
-    <title>microsoft / mimalloc</title>
-    <link>https://github.com/microsoft/mimalloc</link>
-    <description>mimalloc is a compact general purpose allocator with excellent performance.</description>
+    <title>lz4 / lz4</title>
+    <link>https://github.com/lz4/lz4</link>
+    <description>Extremely Fast Compression algorithm</description>
   </item>
   <item>
     <title>openssl / openssl</title>
@@ -31,64 +31,59 @@
     <description>General purpose TLS and crypto library</description>
   </item>
   <item>
-    <title>microsoft / PowerToys</title>
-    <link>https://github.com/microsoft/PowerToys</link>
-    <description>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows</description>
+    <title>git / git</title>
+    <link>https://github.com/git/git</link>
+    <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
   </item>
   <item>
-    <title>Mbed-TLS / mbedtls</title>
-    <link>https://github.com/Mbed-TLS/mbedtls</link>
-    <description>An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</description>
+    <title>linux-rdma / rdma-core</title>
+    <link>https://github.com/linux-rdma/rdma-core</link>
+    <description>RDMA core userspace libraries and daemons</description>
   </item>
   <item>
-    <title>openzfs / zfs</title>
-    <link>https://github.com/openzfs/zfs</link>
-    <description>OpenZFS on Linux and FreeBSD</description>
+    <title>daos-stack / daos</title>
+    <link>https://github.com/daos-stack/daos</link>
+    <description>DAOS Storage Stack (client libraries, storage engine, control plane)</description>
   </item>
   <item>
-    <title>tr4m0ryp / tr4mpass</title>
-    <link>https://github.com/tr4m0ryp/tr4mpass</link>
-    <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
+    <title>vedderb / bldc</title>
+    <link>https://github.com/vedderb/bldc</link>
+    <description>The VESC motor control firmware</description>
   </item>
   <item>
-    <title>tmux / tmux</title>
-    <link>https://github.com/tmux/tmux</link>
-    <description>tmux source code</description>
+    <title>nothings / stb</title>
+    <link>https://github.com/nothings/stb</link>
+    <description>stb single-file public domain libraries for C/C++</description>
   </item>
   <item>
-    <title>portapack-mayhem / mayhem-firmware</title>
-    <link>https://github.com/portapack-mayhem/mayhem-firmware</link>
-    <description>The firmware for the HackRF+PortaPack H1/H2/H4/H4M</description>
+    <title>lvgl / lvgl</title>
+    <link>https://github.com/lvgl/lvgl</link>
+    <description>LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.</description>
   </item>
   <item>
-    <title>FreeRTOS / FreeRTOS-Kernel</title>
-    <link>https://github.com/FreeRTOS/FreeRTOS-Kernel</link>
-    <description>FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.</description>
+    <title>armel / uv-k1-k5v3-firmware-custom</title>
+    <link>https://github.com/armel/uv-k1-k5v3-firmware-custom</link>
+    <description>This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel</description>
   </item>
   <item>
-    <title>qmk / qmk_firmware</title>
-    <link>https://github.com/qmk/qmk_firmware</link>
-    <description>Open-source keyboard firmware for Atmel AVR and Arm USB families</description>
+    <title>betaflight / betaflight</title>
+    <link>https://github.com/betaflight/betaflight</link>
+    <description>Open Source Flight Controller Firmware</description>
   </item>
   <item>
-    <title>ThrowTheSwitch / Unity</title>
-    <link>https://github.com/ThrowTheSwitch/Unity</link>
-    <description>Simple unit testing for C</description>
+    <title>sonic-net / sonic-buildimage</title>
+    <link>https://github.com/sonic-net/sonic-buildimage</link>
+    <description>Scripts which perform an installable binary image build for SONiC</description>
   </item>
   <item>
-    <title>glfw / glfw</title>
-    <link>https://github.com/glfw/glfw</link>
-    <description>A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input</description>
+    <title>radareorg / radare2</title>
+    <link>https://github.com/radareorg/radare2</link>
+    <description>UNIX-like reverse engineering framework and command-line toolset</description>
   </item>
   <item>
-    <title>redis / redis</title>
-    <link>https://github.com/redis/redis</link>
-    <description>For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.</description>
-  </item>
-  <item>
-    <title>jqlang / jq</title>
-    <link>https://github.com/jqlang/jq</link>
-    <description>Command-line JSON processor</description>
+    <title>FRRouting / frr</title>
+    <link>https://github.com/FRRouting/frr</link>
+    <description>The FRRouting Protocol Suite</description>
   </item>
 </channel>
 </rss>

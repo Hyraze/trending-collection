@@ -4,21 +4,21 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>deepseek-ai / DeepEP</title>
     <link>https://github.com/deepseek-ai/DeepEP</link>
     <description>DeepEP: an efficient expert-parallel communication library</description>
   </item>
   <item>
-    <title>deepseek-ai / DeepGEMM</title>
-    <link>https://github.com/deepseek-ai/DeepGEMM</link>
-    <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
-  </item>
-  <item>
     <title>thu-ml / SageAttention</title>
     <link>https://github.com/thu-ml/SageAttention</link>
     <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
+  </item>
+  <item>
+    <title>deepseek-ai / DeepGEMM</title>
+    <link>https://github.com/deepseek-ai/DeepGEMM</link>
+    <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
   </item>
   <item>
     <title>alibaba / rtp-llm</title>
@@ -41,14 +41,14 @@
     <description>NCCL Tests</description>
   </item>
   <item>
-    <title>karpathy / llm.c</title>
-    <link>https://github.com/karpathy/llm.c</link>
-    <description>LLM training in simple, raw C/CUDA</description>
-  </item>
-  <item>
     <title>HazyResearch / ThunderKittens</title>
     <link>https://github.com/HazyResearch/ThunderKittens</link>
     <description>Tile primitives for speedy kernels</description>
+  </item>
+  <item>
+    <title>karpathy / llm.c</title>
+    <link>https://github.com/karpathy/llm.c</link>
+    <description>LLM training in simple, raw C/CUDA</description>
   </item>
   <item>
     <title>NVlabs / instant-ngp</title>
@@ -61,6 +61,11 @@
     <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
   </item>
   <item>
+    <title>NVIDIA / raft</title>
+    <link>https://github.com/NVIDIA/raft</link>
+    <description>RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</description>
+  </item>
+  <item>
     <title>NVIDIA / cuopt</title>
     <link>https://github.com/NVIDIA/cuopt</link>
     <description>GPU accelerated decision optimization</description>
@@ -69,11 +74,6 @@
     <title>Dao-AILab / causal-conv1d</title>
     <link>https://github.com/Dao-AILab/causal-conv1d</link>
     <description>Causal depthwise conv1d in CUDA, with a PyTorch interface</description>
-  </item>
-  <item>
-    <title>BBuf / how-to-optim-algorithm-in-cuda</title>
-    <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
-    <description>how to optimize some algorithm in cuda.</description>
   </item>
 </channel>
 </rss>

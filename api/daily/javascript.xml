@@ -4,11 +4,11 @@
   <title>GitHub Javascript Languages Daily Trending</title>
   <description>Daily Trending of Javascript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
   <item>
-    <title>webpack / webpack</title>
-    <link>https://github.com/webpack/webpack</link>
-    <description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &quot;loaders&quot;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</description>
+    <title>addyosmani / agent-skills</title>
+    <link>https://github.com/addyosmani/agent-skills</link>
+    <description>Production-grade engineering skills for AI coding agents.</description>
   </item>
   <item>
     <title>vercel / next.js</title>
@@ -16,44 +16,9 @@
     <description>The React Framework</description>
   </item>
   <item>
-    <title>sveltejs / svelte</title>
-    <link>https://github.com/sveltejs/svelte</link>
-    <description>web development for the rest of us</description>
-  </item>
-  <item>
-    <title>greensock / GSAP</title>
-    <link>https://github.com/greensock/GSAP</link>
-    <description>GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web</description>
-  </item>
-  <item>
-    <title>byoungd / up</title>
-    <link>https://github.com/byoungd/up</link>
-    <description>An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语</description>
-  </item>
-  <item>
-    <title>fastify / fastify</title>
-    <link>https://github.com/fastify/fastify</link>
-    <description>Fast and low overhead web framework, for Node.js</description>
-  </item>
-  <item>
-    <title>openai / codex-plugin-cc</title>
-    <link>https://github.com/openai/codex-plugin-cc</link>
-    <description>Use Codex from Claude Code to review code or delegate tasks.</description>
-  </item>
-  <item>
-    <title>pdone / lx-music-source</title>
-    <link>https://github.com/pdone/lx-music-source</link>
-    <description>洛雪音乐源</description>
-  </item>
-  <item>
-    <title>expressjs / express</title>
-    <link>https://github.com/expressjs/express</link>
-    <description>Fast, unopinionated, minimalist web framework for node.</description>
-  </item>
-  <item>
-    <title>projectdiscovery / nuclei-templates</title>
-    <link>https://github.com/projectdiscovery/nuclei-templates</link>
-    <description>Community curated list of templates for the nuclei engine to find security vulnerabilities.</description>
+    <title>pbakaus / impeccable</title>
+    <link>https://github.com/pbakaus/impeccable</link>
+    <description>The design language that makes your AI harness better at design.</description>
   </item>
   <item>
     <title>Leonxlnx / taste-skill</title>
@@ -61,14 +26,34 @@
     <description>Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop</description>
   </item>
   <item>
-    <title>NomaDamas / k-skill</title>
-    <link>https://github.com/NomaDamas/k-skill</link>
-    <description>한국인을 위한 스킬 모음집 - 에이전트를 한국인으로</description>
+    <title>byoungd / up</title>
+    <link>https://github.com/byoungd/up</link>
+    <description>An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语</description>
   </item>
   <item>
-    <title>ryanmcdermott / clean-code-javascript</title>
-    <link>https://github.com/ryanmcdermott/clean-code-javascript</link>
-    <description>Clean Code concepts adapted for JavaScript</description>
+    <title>eze-is / web-access</title>
+    <link>https://github.com/eze-is/web-access</link>
+    <description>给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治</description>
+  </item>
+  <item>
+    <title>xuanyustudio / LocalMiniDrama</title>
+    <link>https://github.com/xuanyustudio/LocalMiniDrama</link>
+    <description>🎬 seedance2接入 开源本地 AI 短剧 &amp; 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线</description>
+  </item>
+  <item>
+    <title>is-a-dev / register</title>
+    <link>https://github.com/is-a-dev/register</link>
+    <description>Grab your own sweet-looking &#x27;.is-a.dev&#x27; subdomain.</description>
+  </item>
+  <item>
+    <title>nodejs / node</title>
+    <link>https://github.com/nodejs/node</link>
+    <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
+  </item>
+  <item>
+    <title>atlassian / atlassian-mcp-server</title>
+    <link>https://github.com/atlassian/atlassian-mcp-server</link>
+    <description>Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.</description>
   </item>
   <item>
     <title>TryGhost / Ghost</title>
@@ -76,19 +61,19 @@
     <description>Independent technology for modern publishing, memberships, subscriptions and newsletters.</description>
   </item>
   <item>
-    <title>worldwonderer / oh-story-claudecode</title>
-    <link>https://github.com/worldwonderer/oh-story-claudecode</link>
-    <description>网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.</description>
+    <title>webpack / webpack</title>
+    <link>https://github.com/webpack/webpack</link>
+    <description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &quot;loaders&quot;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</description>
   </item>
   <item>
-    <title>sveltejs / kit</title>
-    <link>https://github.com/sveltejs/kit</link>
-    <description>web development, streamlined</description>
+    <title>OWASP / threat-dragon</title>
+    <link>https://github.com/OWASP/threat-dragon</link>
+    <description>An open source threat modeling tool from OWASP</description>
   </item>
   <item>
-    <title>react / react</title>
-    <link>https://github.com/react/react</link>
-    <description>The library for web and native user interfaces.</description>
+    <title>zotero / zotero</title>
+    <link>https://github.com/zotero/zotero</link>
+    <description>Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.</description>
   </item>
 </channel>
 </rss>

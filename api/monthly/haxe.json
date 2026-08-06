@@ -2,7 +2,7 @@
   "title": "GitHub Haxe Languages Daily Trending",
   "description": "Daily Trending of Haxe Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "CodenameCrew / CodenameEngine",
@@ -10,9 +10,9 @@
       "description": "awesome fnf engine :D",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": 461,
-      "forks": 351,
-      "added_stars": "7 stars this month"
+      "stars": 462,
+      "forks": 350,
+      "added_stars": "8 stars this month"
     },
     {
       "title": "HaxeFoundation / haxe",
@@ -35,6 +35,16 @@
       "added_stars": "10 stars this month"
     },
     {
+      "title": "FunkinCrew / Funkin",
+      "url": "https://github.com/FunkinCrew/Funkin",
+      "description": "A rhythm game made with HaxeFlixel",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 3706,
+      "forks": 2534,
+      "added_stars": "43 stars this month"
+    },
+    {
       "title": "beihu235 / Psych-Engine-0.71h-android",
       "url": "https://github.com/beihu235/Psych-Engine-0.71h-android",
       "description": "",
@@ -45,16 +55,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "FunkinCrew / Funkin",
-      "url": "https://github.com/FunkinCrew/Funkin",
-      "description": "A rhythm game made with HaxeFlixel",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 3702,
-      "forks": 2532,
-      "added_stars": "40 stars this month"
-    },
-    {
       "title": "Snirozu / Funkin-Psych-Online",
       "url": "https://github.com/Snirozu/Funkin-Psych-Online",
       "description": "Friday Night Funkin' Mod that utilizes Online Features",
@@ -63,6 +63,16 @@
       "stars": 100,
       "forks": 85,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "deepnight / ldtk",
+      "url": "https://github.com/deepnight/ldtk",
+      "description": "Modern, lightweight and efficient 2D level editor",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 4146,
+      "forks": 263,
+      "added_stars": "39 stars this month"
     }
   ]
 }

@@ -2,8 +2,48 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
+    {
+      "title": "ddalcu / mlx-serve",
+      "url": "https://github.com/ddalcu/mlx-serve",
+      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 484,
+      "forks": 37,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "tigerbeetle / tigerbeetle",
+      "url": "https://github.com/tigerbeetle/tigerbeetle",
+      "description": "The financial transactions database designed for mission critical safety and performance.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 16734,
+      "forks": 877,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "Loongphy / codex-auth",
+      "url": "https://github.com/Loongphy/codex-auth",
+      "description": "A CLI tool to switch and manage Codex accounts",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2438,
+      "forks": 145,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "nullclaw / nullclaw",
+      "url": "https://github.com/nullclaw/nullclaw",
+      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 8002,
+      "forks": 933,
+      "added_stars": "6 stars today"
+    },
     {
       "title": "ziglang / zig",
       "url": "https://github.com/ziglang/zig",
@@ -12,117 +52,7 @@
       "languageColor": "#ec915c",
       "stars": 43347,
       "forks": 3223,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "roc-lang / roc",
-      "url": "https://github.com/roc-lang/roc",
-      "description": "A fast, friendly, functional language.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 5914,
-      "forks": 405,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "tigerbeetle / tigerbeetle",
-      "url": "https://github.com/tigerbeetle/tigerbeetle",
-      "description": "The financial transactions database designed for mission critical safety and performance.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 16727,
-      "forks": 877,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "ddalcu / mlx-serve",
-      "url": "https://github.com/ddalcu/mlx-serve",
-      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 453,
-      "forks": 36,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "Seafoam-Labs / Shelly-ALPM",
-      "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "description": "Pacman alternative for ArchLinux, designed with you in mind.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 961,
-      "forks": 81,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "nullclaw / nullclaw",
-      "url": "https://github.com/nullclaw/nullclaw",
-      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 7997,
-      "forks": 933,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "ghostty-org / ghostty",
-      "url": "https://github.com/ghostty-org/ghostty",
-      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 59195,
-      "forks": 3213,
-      "added_stars": "45 stars today"
-    },
-    {
-      "title": "jstrieb / github-stats",
-      "url": "https://github.com/jstrieb/github-stats",
-      "description": "Better GitHub statistics images for your profile, with stats from private repos too",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 3521,
-      "forks": 776,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "Loongphy / codex-auth",
-      "url": "https://github.com/Loongphy/codex-auth",
-      "description": "A CLI tool to switch and manage Codex accounts",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 2435,
-      "forks": 144,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "vercel-labs / native",
-      "url": "https://github.com/vercel-labs/native",
-      "description": "Toolkit for building native desktop apps",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 7211,
-      "forks": 287,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "pedropark99 / zig-book",
-      "url": "https://github.com/pedropark99/zig-book",
-      "description": "An open, technical and introductory book for the Zig programming language 📚📖",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 2668,
-      "forks": 163,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "lightpanda-io / browser",
-      "url": "https://github.com/lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 33449,
-      "forks": 1534,
-      "added_stars": "52 stars today"
+      "added_stars": "5 stars today"
     },
     {
       "title": "nullclaw / nullhub",
@@ -130,19 +60,119 @@
       "description": "Management console for the Null ecosystem — install, configure, and monitor AI agents, orchestration workflows, task pipelines, and system health",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1949,
-      "forks": 130,
-      "added_stars": "47 stars today"
+      "stars": 1933,
+      "forks": 118,
+      "added_stars": "32 stars today"
     },
     {
-      "title": "fubark / cyber",
-      "url": "https://github.com/fubark/cyber",
-      "description": "Fast and concurrent scripting.",
+      "title": "roc-lang / roc",
+      "url": "https://github.com/roc-lang/roc",
+      "description": "A fast, friendly, functional language.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1483,
-      "forks": 62,
-      "added_stars": "3 stars today"
+      "stars": 5916,
+      "forks": 403,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "kristoff-it / zine",
+      "url": "https://github.com/kristoff-it/zine",
+      "description": "Fast, Scalable, Flexible Static Site Generator (SSG)",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1515,
+      "forks": 103,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "jstrieb / github-stats",
+      "url": "https://github.com/jstrieb/github-stats",
+      "description": "Better GitHub statistics images for your profile, with stats from private repos too",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 3520,
+      "forks": 777,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "lightpanda-io / browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 33513,
+      "forks": 1536,
+      "added_stars": "68 stars today"
+    },
+    {
+      "title": "zml / zml",
+      "url": "https://github.com/zml/zml",
+      "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 3962,
+      "forks": 172,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "neurocyte / flow",
+      "url": "https://github.com/neurocyte/flow",
+      "description": "Flow Control: a programmer's text editor",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2160,
+      "forks": 113,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "vercel-labs / native",
+      "url": "https://github.com/vercel-labs/native",
+      "description": "Toolkit for building native desktop apps",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 7228,
+      "forks": 285,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "ghostty-org / ghostty",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 59255,
+      "forks": 3217,
+      "added_stars": "61 stars today"
+    },
+    {
+      "title": "dmtrKovalenko / odiff",
+      "url": "https://github.com/dmtrKovalenko/odiff",
+      "description": "A very fast SIMD-first image comparison library (with nodejs API)",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 3142,
+      "forks": 114,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "PixelGuys / Cubyz",
+      "url": "https://github.com/PixelGuys/Cubyz",
+      "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 3603,
+      "forks": 231,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "Seafoam-Labs / Shelly-ALPM",
+      "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
+      "description": "Pacman alternative for ArchLinux, designed with you in mind.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 966,
+      "forks": 81,
+      "added_stars": "6 stars today"
     }
   ]
 }

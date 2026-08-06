@@ -4,16 +4,16 @@
   <title>GitHub Objective-c Languages Daily Trending</title>
   <description>Daily Trending of Objective-c Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
-  <item>
-    <title>Hammerspoon / hammerspoon</title>
-    <link>https://github.com/Hammerspoon/hammerspoon</link>
-    <description>Staggeringly powerful macOS desktop automation with Lua</description>
-  </item>
+  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
   <item>
     <title>realm / realm-swift</title>
     <link>https://github.com/realm/realm-swift</link>
     <description>Realm is a mobile database: a replacement for Core Data &amp; SQLite</description>
+  </item>
+  <item>
+    <title>SDWebImage / SDWebImage</title>
+    <link>https://github.com/SDWebImage/SDWebImage</link>
+    <description>Asynchronous image downloader with cache support as a UIImageView category</description>
   </item>
   <item>
     <title>google / GoogleDataTransport</title>
@@ -21,44 +21,19 @@
     <description></description>
   </item>
   <item>
-    <title>amplitude / Amplitude-iOS</title>
-    <link>https://github.com/amplitude/Amplitude-iOS</link>
-    <description>Native iOS/tvOS/macOS SDK</description>
+    <title>AliSoftware / OHHTTPStubs</title>
+    <link>https://github.com/AliSoftware/OHHTTPStubs</link>
+    <description>Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!</description>
   </item>
   <item>
-    <title>CocoaLumberjack / CocoaLumberjack</title>
-    <link>https://github.com/CocoaLumberjack/CocoaLumberjack</link>
-    <description>A fast &amp; simple, yet powerful &amp; flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS</description>
+    <title>gnachman / iTerm2</title>
+    <link>https://github.com/gnachman/iTerm2</link>
+    <description>iTerm2 is a terminal emulator for Mac OS X that does amazing things.</description>
   </item>
   <item>
-    <title>darlinghq / darling</title>
-    <link>https://github.com/darlinghq/darling</link>
-    <description>Darwin/macOS emulation layer for Linux</description>
-  </item>
-  <item>
-    <title>SVGKit / SVGKit</title>
-    <link>https://github.com/SVGKit/SVGKit</link>
-    <description>Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)</description>
-  </item>
-  <item>
-    <title>google / gtm-session-fetcher</title>
-    <link>https://github.com/google/gtm-session-fetcher</link>
-    <description>Google Toolbox for Mac - Session Fetcher</description>
-  </item>
-  <item>
-    <title>adjust / ios_sdk</title>
-    <link>https://github.com/adjust/ios_sdk</link>
-    <description>This is the iOS SDK of</description>
-  </item>
-  <item>
-    <title>BranchMetrics / ios-branch-sdk-spm</title>
-    <link>https://github.com/BranchMetrics/ios-branch-sdk-spm</link>
-    <description>Branch iOS SDK Swift Package Manager distribution</description>
-  </item>
-  <item>
-    <title>kif-framework / KIF</title>
-    <link>https://github.com/kif-framework/KIF</link>
-    <description>Keep It Functional - An iOS Functional Testing Framework</description>
+    <title>zendesk / support_sdk_ios</title>
+    <link>https://github.com/zendesk/support_sdk_ios</link>
+    <description>Zendesk Support SDK for iOS</description>
   </item>
   <item>
     <title>jdg / MBProgressHUD</title>
@@ -66,24 +41,39 @@
     <description>MBProgressHUD + Customizations</description>
   </item>
   <item>
+    <title>kstenerud / KSCrash</title>
+    <link>https://github.com/kstenerud/KSCrash</link>
+    <description>The Ultimate iOS Crash Reporter</description>
+  </item>
+  <item>
+    <title>CocoaLumberjack / CocoaLumberjack</title>
+    <link>https://github.com/CocoaLumberjack/CocoaLumberjack</link>
+    <description>A fast &amp; simple, yet powerful &amp; flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS</description>
+  </item>
+  <item>
+    <title>adjust / ios_sdk</title>
+    <link>https://github.com/adjust/ios_sdk</link>
+    <description>This is the iOS SDK of</description>
+  </item>
+  <item>
+    <title>erikdoe / ocmock</title>
+    <link>https://github.com/erikdoe/ocmock</link>
+    <description>Mock objects for Objective-C</description>
+  </item>
+  <item>
+    <title>google / GoogleUtilities</title>
+    <link>https://github.com/google/GoogleUtilities</link>
+    <description></description>
+  </item>
+  <item>
     <title>FLEXTool / FLEX</title>
     <link>https://github.com/FLEXTool/FLEX</link>
     <description>An in-app debugging and exploration tool for iOS</description>
   </item>
   <item>
-    <title>Sequel-Ace / Sequel-Ace</title>
-    <link>https://github.com/Sequel-Ace/Sequel-Ace</link>
-    <description>MySQL/MariaDB database management for macOS</description>
-  </item>
-  <item>
-    <title>CleverTap / CTNotificationService</title>
-    <link>https://github.com/CleverTap/CTNotificationService</link>
-    <description>A simple Notification Service Extension class to add media attachments to iOS 10 rich push notifications</description>
-  </item>
-  <item>
-    <title>CleverTap / clevertap-ios-sdk</title>
-    <link>https://github.com/CleverTap/clevertap-ios-sdk</link>
-    <description>CleverTap iOS SDK</description>
+    <title>youtube / youtube-ios-player-helper</title>
+    <link>https://github.com/youtube/youtube-ios-player-helper</link>
+    <description>Lightweight helper library that allows iOS developers to add inline playback of YouTube videos through a WebView</description>
   </item>
 </channel>
 </rss>

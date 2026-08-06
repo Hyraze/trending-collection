@@ -4,21 +4,11 @@
   <title>GitHub Markdown Languages Daily Trending</title>
   <description>Daily Trending of Markdown Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>codecrafters-io / build-your-own-x</title>
     <link>https://github.com/codecrafters-io/build-your-own-x</link>
     <description>Master programming by recreating your favorite technologies from scratch.</description>
-  </item>
-  <item>
-    <title>MicrosoftDocs / azure-docs</title>
-    <link>https://github.com/MicrosoftDocs/azure-docs</link>
-    <description>Open source documentation of Microsoft Azure</description>
-  </item>
-  <item>
-    <title>mdn / content</title>
-    <link>https://github.com/mdn/content</link>
-    <description>The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.</description>
   </item>
   <item>
     <title>microsoft / vscode-docs</title>
@@ -26,14 +16,24 @@
     <description>Public documentation for Visual Studio Code</description>
   </item>
   <item>
-    <title>OAI / OpenAPI-Specification</title>
-    <link>https://github.com/OAI/OpenAPI-Specification</link>
-    <description>The OpenAPI Specification Repository</description>
+    <title>mdn / content</title>
+    <link>https://github.com/mdn/content</link>
+    <description>The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.</description>
+  </item>
+  <item>
+    <title>MicrosoftDocs / azure-docs</title>
+    <link>https://github.com/MicrosoftDocs/azure-docs</link>
+    <description>Open source documentation of Microsoft Azure</description>
   </item>
   <item>
     <title>tldr-pages / tldr</title>
     <link>https://github.com/tldr-pages/tldr</link>
     <description>Collaborative cheatsheets for console commands 📚.</description>
+  </item>
+  <item>
+    <title>OAI / OpenAPI-Specification</title>
+    <link>https://github.com/OAI/OpenAPI-Specification</link>
+    <description>The OpenAPI Specification Repository</description>
   </item>
   <item>
     <title>jaywcjlove / linux-command</title>
@@ -46,11 +46,6 @@
     <description>Source repo for Docker&#x27;s Documentation</description>
   </item>
   <item>
-    <title>ppy / osu-wiki</title>
-    <link>https://github.com/ppy/osu-wiki</link>
-    <description>home of the osu! wiki</description>
-  </item>
-  <item>
     <title>adr / madr</title>
     <link>https://github.com/adr/madr</link>
     <description>Markdown Architectural Decision Records</description>
@@ -61,14 +56,19 @@
     <description>RFCs for changes to Rust</description>
   </item>
   <item>
+    <title>ppy / osu-wiki</title>
+    <link>https://github.com/ppy/osu-wiki</link>
+    <description>home of the osu! wiki</description>
+  </item>
+  <item>
+    <title>TRaSH-Guides / Guides</title>
+    <link>https://github.com/TRaSH-Guides/Guides</link>
+    <description>TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.</description>
+  </item>
+  <item>
     <title>satoshilabs / slips</title>
     <link>https://github.com/satoshilabs/slips</link>
     <description>SatoshiLabs Improvement Proposals</description>
-  </item>
-  <item>
-    <title>Anmol-Baranwal / Cool-GIFs-For-GitHub</title>
-    <link>https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub</link>
-    <description>🤝 Awesome List of GIFs &amp; avatars to use in GitHub.</description>
   </item>
   <item>
     <title>swiftlang / swift-evolution</title>
@@ -81,19 +81,19 @@
     <description>This repository provides SAP style guides for coding and coding-related topics.</description>
   </item>
   <item>
-    <title>drknzz / GitHub-Achievements</title>
-    <link>https://github.com/drknzz/GitHub-Achievements</link>
-    <description>🔥 A Complete List of GitHub Profile Badges and Achievements 🔥</description>
-  </item>
-  <item>
     <title>rjmurillo / ai-agents</title>
     <link>https://github.com/rjmurillo/ai-agents</link>
     <description>Multi-agent system for software development</description>
   </item>
   <item>
-    <title>ethereum / ethereum-org-website</title>
-    <link>https://github.com/ethereum/ethereum-org-website</link>
-    <description>Ethereum.org is a primary online resource for the Ethereum community.</description>
+    <title>adambard / learnxinyminutes-docs</title>
+    <link>https://github.com/adambard/learnxinyminutes-docs</link>
+    <description>Code documentation written as code! How novel and totally my idea!</description>
+  </item>
+  <item>
+    <title>drknzz / GitHub-Achievements</title>
+    <link>https://github.com/drknzz/GitHub-Achievements</link>
+    <description>🔥 A Complete List of GitHub Profile Badges and Achievements 🔥</description>
   </item>
 </channel>
 </rss>

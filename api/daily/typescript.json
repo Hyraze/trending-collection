@@ -2,47 +2,27 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
+    {
+      "title": "cloudflare / computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3504,
+      "forks": 167,
+      "added_stars": "891 stars today"
+    },
     {
       "title": "TencentCloud / TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14025,
-      "forks": 1300,
-      "added_stars": "1,111 stars today"
-    },
-    {
-      "title": "cypress-io / cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 50828,
-      "forks": 3629,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "usekaneo / kaneo",
-      "url": "https://github.com/usekaneo/kaneo",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7348,
-      "forks": 581,
-      "added_stars": "559 stars today"
-    },
-    {
-      "title": "angular / angular",
-      "url": "https://github.com/angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 100864,
-      "forks": 27400,
-      "added_stars": "13 stars today"
+      "stars": 15279,
+      "forks": 1390,
+      "added_stars": "1,892 stars today"
     },
     {
       "title": "tailwindlabs / tailwindcss",
@@ -50,129 +30,69 @@
       "description": "A utility-first CSS framework for rapid UI development.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 96546,
-      "forks": 5537,
-      "added_stars": "52 stars today"
+      "stars": 96926,
+      "forks": 5552,
+      "added_stars": "408 stars today"
     },
     {
-      "title": "EveryInc / compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "title": "ever-co / ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 23922,
-      "forks": 1959,
-      "added_stars": "40 stars today"
+      "stars": 4266,
+      "forks": 851,
+      "added_stars": "86 stars today"
     },
     {
-      "title": "jamiepine / voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "title": "cypress-io / cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 49208,
-      "forks": 6047,
-      "added_stars": "575 stars today"
+      "stars": 50916,
+      "forks": 3636,
+      "added_stars": "200 stars today"
     },
     {
-      "title": "prisma / prisma",
-      "url": "https://github.com/prisma/prisma",
-      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "title": "ln-dev7 / circle",
+      "url": "https://github.com/ln-dev7/circle",
+      "description": "UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 47529,
-      "forks": 2518,
-      "added_stars": "15 stars today"
+      "stars": 3067,
+      "forks": 322,
+      "added_stars": "54 stars today"
     },
     {
-      "title": "grafana / grafana",
-      "url": "https://github.com/grafana/grafana",
-      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "title": "directus / directus",
+      "url": "https://github.com/directus/directus",
+      "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 76064,
-      "forks": 14489,
-      "added_stars": "38 stars today"
+      "stars": 37168,
+      "forks": 4884,
+      "added_stars": "99 stars today"
     },
     {
-      "title": "actions / checkout",
-      "url": "https://github.com/actions/checkout",
-      "description": "Action for checking out a repo",
+      "title": "melgarafael / DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8606,
-      "forks": 2739,
-      "added_stars": "8 stars today"
+      "stars": 357,
+      "forks": 186,
+      "added_stars": "36 stars today"
     },
     {
-      "title": "wonderwhy-er / DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "title": "angular / angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9167,
-      "forks": 1102,
-      "added_stars": "42 stars today"
-    },
-    {
-      "title": "vuejs / vue",
-      "url": "https://github.com/vuejs/vue",
-      "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 210191,
-      "forks": 33773,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "nrwl / nx",
-      "url": "https://github.com/nrwl/nx",
-      "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 29196,
-      "forks": 2978,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "babel / babel",
-      "url": "https://github.com/babel/babel",
-      "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 43975,
-      "forks": 5975,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "reduxjs / redux",
-      "url": "https://github.com/reduxjs/redux",
-      "description": "A JS library for predictable global state management",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 61513,
-      "forks": 15208,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "facebook / astryx",
-      "url": "https://github.com/facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 11621,
-      "forks": 987,
-      "added_stars": "158 stars today"
-    },
-    {
-      "title": "CodebuffAI / codebuff",
-      "url": "https://github.com/CodebuffAI/codebuff",
-      "description": "Generate code from the terminal!",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 8325,
-      "forks": 982,
-      "added_stars": "49 stars today"
+      "stars": 100951,
+      "forks": 27406,
+      "added_stars": "197 stars today"
     },
     {
       "title": "czlonkowski / n8n-mcp",
@@ -180,9 +100,29 @@
       "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22602,
-      "forks": 3602,
-      "added_stars": "68 stars today"
+      "stars": 22612,
+      "forks": 3607,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 14045,
+      "forks": 1257,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "can1357 / oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 22240,
+      "forks": 2112,
+      "added_stars": "363 stars today"
     }
   ]
 }

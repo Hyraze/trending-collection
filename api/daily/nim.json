@@ -2,7 +2,7 @@
   "title": "GitHub Nim Languages Daily Trending",
   "description": "Daily Trending of Nim Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "nim-lang / Nim",
@@ -10,9 +10,19 @@
       "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 18155,
-      "forks": 1546,
-      "added_stars": "4 stars today"
+      "stars": 18153,
+      "forks": 1547,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "zedeus / nitter",
+      "url": "https://github.com/zedeus/nitter",
+      "description": "Alternative Twitter front-end",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 13401,
+      "forks": 750,
+      "added_stars": "6 stars today"
     },
     {
       "title": "status-im / nimbus-eth2",
@@ -32,6 +42,36 @@
       "languageColor": "#ffc200",
       "stars": 498,
       "forks": 781,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "crashappsec / chalk",
+      "url": "https://github.com/crashappsec/chalk",
+      "description": "Chalk allows you to follow code from development, through builds and into production.",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 438,
+      "forks": 25,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "logos-messaging / logos-delivery",
+      "url": "https://github.com/logos-messaging/logos-delivery",
+      "description": "Logos Messaging protocols implemented in Nim",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 248,
+      "forks": 86,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "status-im / nimbus-eth1",
+      "url": "https://github.com/status-im/nimbus-eth1",
+      "description": "Nimbus: an Ethereum Execution Client for Resource-Restricted Devices",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 625,
+      "forks": 161,
       "added_stars": "0 stars today"
     }
   ]

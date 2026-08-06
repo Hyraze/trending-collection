@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3397-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3398-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-08-05
-_Top 3 per language · [view full day →](./2026/2026-08-05.md)_
+## 🔥 Today's Trending — 2026-08-06
+_Top 3 per language · [view full day →](./2026/2026-08-06.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
-| [uber/ADR](https://github.com/uber/ADR) | 🐍 | ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. |
-| [livekit/agents](https://github.com/livekit/agents) | 🐍 | A framework for building realtime voice AI agents 🤖🎙️📹 |
-| [browser-use/video-use](https://github.com/browser-use/video-use) | 🐍 | Edit videos with coding agents |
+| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 🐍 | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 🐍 | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 🐍 | We write your reusable computer vision tools. 💜 |
 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🦀 | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
-| [denoland/deno](https://github.com/denoland/deno) | 🦀 | A modern runtime for JavaScript and TypeScript. |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | 🦀 | Empowering everyone to build reliable and efficient software. |
-| [webpack/webpack](https://github.com/webpack/webpack) | ⚡ | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. |
+| [ovexro/dockpanel](https://github.com/ovexro/dockpanel) | 🦀 | Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel. |
+| [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 🦀 | Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⚡ | Production-grade engineering skills for AI coding agents. |
 | [vercel/next.js](https://github.com/vercel/next.js) | ⚡ | The React Framework |
-| [sveltejs/svelte](https://github.com/sveltejs/svelte) | ⚡ | web development for the rest of us |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | ⚡ | The design language that makes your AI harness better at design. |
 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🐹 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| [moby/moby](https://github.com/moby/moby) | 🐹 | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 🐹 | Production-Grade Container Scheduling and Management |
-| [apple/container](https://github.com/apple/container) | 🍎 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
+| [gastownhall/beads](https://github.com/gastownhall/beads) | 🐹 | Beads - A memory upgrade for your coding agent |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | 🐹 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 🍎 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 🍎 |  |
-| [realm/SwiftLint](https://github.com/realm/SwiftLint) | 🍎 | A tool to enforce Swift style and conventions. |
+| [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) | 🍎 | AeroSpace is an i3-like tiling window manager for macOS |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | 🔷 | Give your agent a computer 👾 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 🔷 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | 🔷 | Fast, easy and reliable testing for anything that runs in a browser. |
-| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 🔷 | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
+| [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 🔷 | A utility-first CSS framework for rapid UI development. |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-08-05.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-08-06](./2026/2026-08-06.md) | [loopx](https://github.com/huangruiteng/loopx) | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [agent-skills](https://github.com/addyosmani/agent-skills) | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | [computer](https://github.com/cloudflare/computer) |
 | [2026-08-05](./2026/2026-08-05.md) | [ADR](https://github.com/uber/ADR) | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [webpack](https://github.com/webpack/webpack) | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | [container](https://github.com/apple/container) | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
 | [2026-08-04](./2026/2026-08-04.md) | [system-design-primer](https://github.com/donnemartin/system-design-primer) | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
 | [2026-08-03](./2026/2026-08-03.md) | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [bat](https://github.com/sharkdp/bat) | [k-skill](https://github.com/NomaDamas/k-skill) | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | [stats](https://github.com/exelban/stats) | [kaneo](https://github.com/usekaneo/kaneo) |
 | [2026-08-02](./2026/2026-08-02.md) | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | [codex](https://github.com/openai/codex) | [k-skill](https://github.com/NomaDamas/k-skill) | [gh-stack](https://github.com/github/gh-stack) | [FluidAudio](https://github.com/FluidInference/FluidAudio) | [kaneo](https://github.com/usekaneo/kaneo) |
 | [2026-08-01](./2026/2026-08-01.md) | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | [codex](https://github.com/openai/codex) | [k-skill](https://github.com/NomaDamas/k-skill) | [gh-stack](https://github.com/github/gh-stack) | [FluidAudio](https://github.com/FluidInference/FluidAudio) | [kaneo](https://github.com/usekaneo/kaneo) |
 | [2026-07-31](./2026/2026-07-31.md) | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | [tuicr](https://github.com/agavra/tuicr) | [Baileys](https://github.com/WhiskeySockets/Baileys) | [argo-cd](https://github.com/argoproj/argo-cd) | [container](https://github.com/apple/container) | [openwork](https://github.com/different-ai/openwork) |
-| [2026-07-30](./2026/2026-07-30.md) | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | [jcode](https://github.com/1jehuang/jcode) | [ECC](https://github.com/affaan-m/ECC) | [open-code-review](https://github.com/alibaba/open-code-review) | [FineTune](https://github.com/ronitsingh10/FineTune) | [GeoLibre](https://github.com/opengeos/GeoLibre) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -52,16 +52,16 @@ _Most days on trending, all time_
 
 | Repository | Days on Trending |
 |---|---|
-| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2232 |
+| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2233 |
 | [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) | 2013 |
-| [vapor/vapor](https://github.com/vapor/vapor) | 1722 |
-| [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1488 |
+| [vapor/vapor](https://github.com/vapor/vapor) | 1723 |
+| [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1489 |
 | [danielgindi/Charts](https://github.com/danielgindi/Charts) | 1442 |
-| [realm/SwiftLint](https://github.com/realm/SwiftLint) | 1366 |
+| [realm/SwiftLint](https://github.com/realm/SwiftLint) | 1367 |
 | [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1337 |
 | [facebook/react](https://github.com/facebook/react) | 1314 |
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1249 |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 1245 |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1250 |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 1246 |
 
 ---
 
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
-| [uber/ADR](https://github.com/uber/ADR) | 🐍 | 2026-08-05 | ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. |
-| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 🐍 | 2026-08-05 | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. |
-| [Coldcard/firmware](https://github.com/Coldcard/firmware) | 🐍 | 2026-08-05 | ❄️ Firmware and simulator for Coldcard Hardware Wallet |
-| [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 🦀 | 2026-08-05 | A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG). |
-| [facebook/astryx](https://github.com/facebook/astryx) | 🔷 | 2026-08-05 | An open source design system that's fully customizable and agent ready |
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 🔷 | 2026-08-05 | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
-| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | 🐍 | 2026-08-04 | The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs |
-| [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) | 🐍 | 2026-08-04 | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products. |
-| [techjarves/Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio) | ⚡ | 2026-08-04 | Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text |
-| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 🔷 | 2026-08-04 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search |
+| [Comfy-Org/workflow_templates](https://github.com/Comfy-Org/workflow_templates) | 🐍 | 2026-08-06 | ComfyUI template workflows |
+| [mpfaffenberger/code_puppy](https://github.com/mpfaffenberger/code_puppy) | 🐍 | 2026-08-06 | Agentic AI for writing code |
+| [blader/humanizer](https://github.com/blader/humanizer) | 🐍 | 2026-08-06 | Agent skill that removes signs of AI-generated writing from text |
+| [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL) | 🐍 | 2026-08-06 | SkyRL: A Modular Full-stack RL Library for LLMs |
+| [anandprtp/Antra](https://github.com/anandprtp/Antra) | 🐍 | 2026-08-06 | A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3. |
+| [WeaveMindAI/weft](https://github.com/WeaveMindAI/weft) | 🦀 | 2026-08-06 | A programming language for AI orchestrations (POC) |
+| [OWASP/threat-dragon](https://github.com/OWASP/threat-dragon) | ⚡ | 2026-08-06 | An open source threat modeling tool from OWASP |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | 🔷 | 2026-08-06 | Give your agent a computer 👾 |
+| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 🔷 | 2026-08-06 | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
+| [ln-dev7/circle](https://github.com/ln-dev7/circle) | 🔷 | 2026-08-06 | UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams. |
 
 ---
 

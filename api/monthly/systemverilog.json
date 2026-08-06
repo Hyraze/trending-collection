@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "verilator / verilator",
@@ -10,9 +10,9 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3811,
+      "stars": 3816,
       "forks": 869,
-      "added_stars": "94 stars this month"
+      "added_stars": "97 stars this month"
     },
     {
       "title": "lowRISC / opentitan",
@@ -22,7 +22,7 @@
       "languageColor": "#DAE1C2",
       "stars": 3577,
       "forks": 1076,
-      "added_stars": "75 stars this month"
+      "added_stars": "73 stars this month"
     },
     {
       "title": "lowRISC / ibex",
@@ -40,9 +40,9 @@
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 596,
-      "forks": 550,
-      "added_stars": "40 stars this month"
+      "stars": 597,
+      "forks": 549,
+      "added_stars": "41 stars this month"
     },
     {
       "title": "adam-maj / tiny-gpu",
@@ -50,9 +50,19 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12811,
-      "forks": 1226,
-      "added_stars": "154 stars this month"
+      "stars": 12814,
+      "forks": 1228,
+      "added_stars": "148 stars this month"
+    },
+    {
+      "title": "chipsalliance / caliptra-rtl",
+      "url": "https://github.com/chipsalliance/caliptra-rtl",
+      "description": "HW Design Collateral for Caliptra RoT IP",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 148,
+      "forks": 101,
+      "added_stars": "3 stars this month"
     }
   ]
 }

@@ -4,11 +4,16 @@
   <title>GitHub Fortran Languages Daily Trending</title>
   <description>Daily Trending of Fortran Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>wrf-model / WRF</title>
     <link>https://github.com/wrf-model/WRF</link>
     <description>The official repository for the Weather Research and Forecasting (WRF) model</description>
+  </item>
+  <item>
+    <title>cp2k / cp2k</title>
+    <link>https://github.com/cp2k/cp2k</link>
+    <description>Quantum chemistry and solid state physics software package</description>
   </item>
   <item>
     <title>firemodels / fds</title>
@@ -19,11 +24,6 @@
     <title>OpenFAST / openfast</title>
     <link>https://github.com/OpenFAST/openfast</link>
     <description>Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</description>
-  </item>
-  <item>
-    <title>cp2k / cp2k</title>
-    <link>https://github.com/cp2k/cp2k</link>
-    <description>Quantum chemistry and solid state physics software package</description>
   </item>
   <item>
     <title>MetOffice / lfric_core</title>
@@ -51,11 +51,6 @@
     <description>Official git repository of Elmer FEM software</description>
   </item>
   <item>
-    <title>MetOffice / lfric_apps</title>
-    <link>https://github.com/MetOffice/lfric_apps</link>
-    <description>LFRic Applications</description>
-  </item>
-  <item>
     <title>grimme-lab / xtb</title>
     <link>https://github.com/grimme-lab/xtb</link>
     <description>Semiempirical Extended Tight-Binding Program Package</description>
@@ -66,9 +61,9 @@
     <description>repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)</description>
   </item>
   <item>
-    <title>ecmwf / fckit</title>
-    <link>https://github.com/ecmwf/fckit</link>
-    <description>A Fortran toolkit for interoperating Fortran with C/C++</description>
+    <title>MetOffice / lfric_apps</title>
+    <link>https://github.com/MetOffice/lfric_apps</link>
+    <description>LFRic Applications</description>
   </item>
 </channel>
 </rss>

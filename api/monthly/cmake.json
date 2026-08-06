@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27328,
-      "forks": 7662,
-      "added_stars": "142 stars this month"
+      "stars": 27330,
+      "forks": 7660,
+      "added_stars": "144 stars this month"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -20,9 +20,9 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1677,
+      "stars": 1678,
       "forks": 227,
-      "added_stars": "60 stars this month"
+      "added_stars": "59 stars this month"
     },
     {
       "title": "KIT-MRT / mrt_cmake_modules",
@@ -40,9 +40,9 @@
       "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1603,
+      "stars": 1605,
       "forks": 127,
-      "added_stars": "37 stars this month"
+      "added_stars": "36 stars this month"
     },
     {
       "title": "Andersama / obs-asio",
@@ -50,7 +50,7 @@
       "description": "ASIO plugin for OBS-Studio",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 834,
+      "stars": 835,
       "forks": 53,
       "added_stars": "5 stars this month"
     },
@@ -75,22 +75,12 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "ecmwf / ecbuild",
-      "url": "https://github.com/ecmwf/ecbuild",
-      "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 39,
-      "forks": 40,
-      "added_stars": "0 stars this month"
-    },
-    {
       "title": "leetal / ios-cmake",
       "url": "https://github.com/leetal/ios-cmake",
       "description": "A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS & tvOS C/C++/Obj-C++ development",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 2174,
+      "stars": 2175,
       "forks": 464,
       "added_stars": "6 stars this month"
     }

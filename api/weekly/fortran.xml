@@ -4,7 +4,7 @@
   <title>GitHub Fortran Languages Daily Trending</title>
   <description>Daily Trending of Fortran Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>E3SM-Project / E3SM</title>
     <link>https://github.com/E3SM-Project/E3SM</link>
@@ -16,14 +16,9 @@
     <description>Efficient and scalable spectral transforms</description>
   </item>
   <item>
-    <title>firemodels / fds</title>
-    <link>https://github.com/firemodels/fds</link>
-    <description>Fire Dynamics Simulator</description>
-  </item>
-  <item>
-    <title>MetOffice / lfric_core</title>
-    <link>https://github.com/MetOffice/lfric_core</link>
-    <description>LFRic Infrastructure</description>
+    <title>Reference-LAPACK / lapack</title>
+    <link>https://github.com/Reference-LAPACK/lapack</link>
+    <description>LAPACK development repository</description>
   </item>
   <item>
     <title>wrf-model / WRF</title>
@@ -31,19 +26,29 @@
     <description>The official repository for the Weather Research and Forecasting (WRF) model</description>
   </item>
   <item>
+    <title>firemodels / fds</title>
+    <link>https://github.com/firemodels/fds</link>
+    <description>Fire Dynamics Simulator</description>
+  </item>
+  <item>
     <title>cp2k / cp2k</title>
     <link>https://github.com/cp2k/cp2k</link>
     <description>Quantum chemistry and solid state physics software package</description>
   </item>
   <item>
-    <title>GEOS-ESM / MAPL</title>
-    <link>https://github.com/GEOS-ESM/MAPL</link>
-    <description>MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)</description>
+    <title>MetOffice / lfric_core</title>
+    <link>https://github.com/MetOffice/lfric_core</link>
+    <description>LFRic Infrastructure</description>
   </item>
   <item>
     <title>ecmwf / fckit</title>
     <link>https://github.com/ecmwf/fckit</link>
     <description>A Fortran toolkit for interoperating Fortran with C/C++</description>
+  </item>
+  <item>
+    <title>GEOS-ESM / MAPL</title>
+    <link>https://github.com/GEOS-ESM/MAPL</link>
+    <description>MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)</description>
   </item>
   <item>
     <title>ElmerCSC / elmerfem</title>

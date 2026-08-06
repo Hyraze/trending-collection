@@ -4,16 +4,16 @@
   <title>GitHub Javascript Languages Daily Trending</title>
   <description>Daily Trending of Javascript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <item>
+    <title>woosal1337 / blog</title>
+    <link>https://github.com/woosal1337/blog</link>
+    <description>My blog website.</description>
+  </item>
   <item>
     <title>citrolabs / ego-lite</title>
     <link>https://github.com/citrolabs/ego-lite</link>
     <description>The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.</description>
-  </item>
-  <item>
-    <title>earthtojake / text-to-cad</title>
-    <link>https://github.com/earthtojake/text-to-cad</link>
-    <description>A library of agent skills for CAD, CAE and CAM</description>
   </item>
   <item>
     <title>NomaDamas / k-skill</title>
@@ -21,14 +21,24 @@
     <description>한국인을 위한 스킬 모음집 - 에이전트를 한국인으로</description>
   </item>
   <item>
-    <title>WhiskeySockets / Baileys</title>
-    <link>https://github.com/WhiskeySockets/Baileys</link>
-    <description>Socket-based TS/JavaScript API for WhatsApp Web</description>
+    <title>earthtojake / text-to-cad</title>
+    <link>https://github.com/earthtojake/text-to-cad</link>
+    <description>A library of agent skills for CAD, CAE and CAM</description>
   </item>
   <item>
     <title>byoungd / up</title>
     <link>https://github.com/byoungd/up</link>
     <description>An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语</description>
+  </item>
+  <item>
+    <title>WhiskeySockets / Baileys</title>
+    <link>https://github.com/WhiskeySockets/Baileys</link>
+    <description>Socket-based TS/JavaScript API for WhatsApp Web</description>
+  </item>
+  <item>
+    <title>lodash / lodash</title>
+    <link>https://github.com/lodash/lodash</link>
+    <description>A modern JavaScript utility library delivering modularity, performance, &amp; extras.</description>
   </item>
   <item>
     <title>pdone / lx-music-source</title>
@@ -41,29 +51,9 @@
     <description>Acode - powerful text/code editor for android</description>
   </item>
   <item>
-    <title>WordPress / gutenberg</title>
-    <link>https://github.com/WordPress/gutenberg</link>
-    <description>The Block Editor project for WordPress and beyond. Plugin is available from the official repository.</description>
-  </item>
-  <item>
-    <title>projectdiscovery / nuclei-templates</title>
-    <link>https://github.com/projectdiscovery/nuclei-templates</link>
-    <description>Community curated list of templates for the nuclei engine to find security vulnerabilities.</description>
-  </item>
-  <item>
-    <title>mailcow / mailcow-dockerized</title>
-    <link>https://github.com/mailcow/mailcow-dockerized</link>
-    <description>mailcow: dockerized - 🐮 + 🐋 = 💕</description>
-  </item>
-  <item>
-    <title>zarazhangrui / follow-builders</title>
-    <link>https://github.com/zarazhangrui/follow-builders</link>
-    <description>AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.</description>
-  </item>
-  <item>
-    <title>jgraph / drawio</title>
-    <link>https://github.com/jgraph/drawio</link>
-    <description>draw.io is a JavaScript, client-side editor for general diagramming.</description>
+    <title>vllm-project / recipes</title>
+    <link>https://github.com/vllm-project/recipes</link>
+    <description>Common recipes to run vLLM</description>
   </item>
   <item>
     <title>Axorax / awesome-free-apps</title>
@@ -71,19 +61,39 @@
     <description>Curated list of the best free apps for PC and mobile</description>
   </item>
   <item>
+    <title>sveltejs / svelte</title>
+    <link>https://github.com/sveltejs/svelte</link>
+    <description>web development for the rest of us</description>
+  </item>
+  <item>
+    <title>zarazhangrui / follow-builders</title>
+    <link>https://github.com/zarazhangrui/follow-builders</link>
+    <description>AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.</description>
+  </item>
+  <item>
+    <title>visualbruno / 3DGenStudio</title>
+    <link>https://github.com/visualbruno/3DGenStudio</link>
+    <description>Orchestrate complete 3D generation pipelines — from text-to-image, image editing, mesh generation, UV unwrapping, to texturing — all in a single visual workspace powered by ComfyUI and external APIs.</description>
+  </item>
+  <item>
+    <title>zotero / zotero</title>
+    <link>https://github.com/zotero/zotero</link>
+    <description>Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.</description>
+  </item>
+  <item>
     <title>louislam / uptime-kuma</title>
     <link>https://github.com/louislam/uptime-kuma</link>
     <description>A fancy self-hosted monitoring tool</description>
   </item>
   <item>
-    <title>ulsklyc / yuvomi</title>
-    <link>https://github.com/ulsklyc/yuvomi</link>
-    <description>Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.</description>
+    <title>mailcow / mailcow-dockerized</title>
+    <link>https://github.com/mailcow/mailcow-dockerized</link>
+    <description>mailcow: dockerized - 🐮 + 🐋 = 💕</description>
   </item>
   <item>
-    <title>wekan / wekan</title>
-    <link>https://github.com/wekan/wekan</link>
-    <description>The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.</description>
+    <title>projectdiscovery / nuclei-templates</title>
+    <link>https://github.com/projectdiscovery/nuclei-templates</link>
+    <description>Community curated list of templates for the nuclei engine to find security vulnerabilities.</description>
   </item>
 </channel>
 </rss>

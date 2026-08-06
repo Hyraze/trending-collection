@@ -2,27 +2,17 @@
   "title": "GitHub Adblock-filter-list Languages Daily Trending",
   "description": "Daily Trending of Adblock-filter-list Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
-    {
-      "title": "easylist / easylist",
-      "url": "https://github.com/easylist/easylist",
-      "description": "EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)",
-      "language": "Adblock Filter List",
-      "languageColor": "#800000",
-      "stars": 3075,
-      "forks": 899,
-      "added_stars": "7 stars this week"
-    },
     {
       "title": "uBlockOrigin / uAssets",
       "url": "https://github.com/uBlockOrigin/uAssets",
       "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 5919,
-      "forks": 1021,
-      "added_stars": "24 stars this week"
+      "stars": 5923,
+      "forks": 1022,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "AdguardTeam / AdguardFilters",
@@ -30,19 +20,19 @@
       "description": "AdGuard Content Blocking Filters",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 4436,
-      "forks": 819,
-      "added_stars": "14 stars this week"
+      "stars": 4437,
+      "forks": 820,
+      "added_stars": "12 stars this week"
     },
     {
-      "title": "TG-Twilight / AWAvenue-Ads-Rule",
-      "url": "https://github.com/TG-Twilight/AWAvenue-Ads-Rule",
-      "description": "众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。",
+      "title": "easylist / easylist",
+      "url": "https://github.com/easylist/easylist",
+      "description": "EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 6324,
-      "forks": 163,
-      "added_stars": "36 stars this week"
+      "stars": 3076,
+      "forks": 899,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "AdguardTeam / AdGuardSDNSFilter",
@@ -50,7 +40,7 @@
       "description": "AdGuard DNS filter",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 1325,
+      "stars": 1326,
       "forks": 183,
       "added_stars": "5 stars this week"
     },
@@ -63,6 +53,16 @@
       "stars": 734,
       "forks": 100,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "TG-Twilight / AWAvenue-Ads-Rule",
+      "url": "https://github.com/TG-Twilight/AWAvenue-Ads-Rule",
+      "description": "众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。",
+      "language": "Adblock Filter List",
+      "languageColor": "#800000",
+      "stars": 6330,
+      "forks": 163,
+      "added_stars": "29 stars this week"
     }
   ]
 }

@@ -2,17 +2,17 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
-      "title": "apple / container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "title": "jaywcjlove / awesome-mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 48634,
-      "forks": 1670,
-      "added_stars": "34 stars today"
+      "stars": 109269,
+      "forks": 8303,
+      "added_stars": "73 stars today"
     },
     {
       "title": "Lakr233 / vphone-cli",
@@ -20,29 +20,49 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7538,
-      "forks": 1099,
-      "added_stars": "30 stars today"
+      "stars": 7568,
+      "forks": 1100,
+      "added_stars": "48 stars today"
     },
     {
-      "title": "realm / SwiftLint",
-      "url": "https://github.com/realm/SwiftLint",
-      "description": "A tool to enforce Swift style and conventions.",
+      "title": "nikitabobko / AeroSpace",
+      "url": "https://github.com/nikitabobko/AeroSpace",
+      "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 19682,
-      "forks": 2318,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "osaurus-ai / osaurus",
-      "url": "https://github.com/osaurus-ai/osaurus",
-      "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 7523,
-      "forks": 428,
+      "stars": 22207,
+      "forks": 615,
       "added_stars": "32 stars today"
+    },
+    {
+      "title": "TelegramMessenger / Telegram-iOS",
+      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 8820,
+      "forks": 2765,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "swiftlang / swift",
+      "url": "https://github.com/swiftlang/swift",
+      "description": "The Swift Programming Language",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 70219,
+      "forks": 10788,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "mozilla-mobile / firefox-ios",
+      "url": "https://github.com/mozilla-mobile/firefox-ios",
+      "description": "Firefox for iOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 13019,
+      "forks": 3252,
+      "added_stars": "0 stars today"
     },
     {
       "title": "pointfreeco / swift-composable-architecture",
@@ -50,39 +70,9 @@
       "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14854,
+      "stars": 14857,
       "forks": 1675,
       "added_stars": "3 stars today"
-    },
-    {
-      "title": "apple / swift-nio",
-      "url": "https://github.com/apple/swift-nio",
-      "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 8499,
-      "forks": 778,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "swiftlang / swift-syntax",
-      "url": "https://github.com/swiftlang/swift-syntax",
-      "description": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 3687,
-      "forks": 536,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "manaflow-ai / cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 25603,
-      "forks": 2146,
-      "added_stars": "59 stars today"
     },
     {
       "title": "lwouis / alt-tab-macos",
@@ -90,19 +80,39 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 16129,
-      "forks": 816,
-      "added_stars": "7 stars today"
+      "stars": 16130,
+      "forks": 817,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "momenbasel / PureMac",
-      "url": "https://github.com/momenbasel/PureMac",
-      "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+      "title": "Ranchero-Software / NetNewsWire",
+      "url": "https://github.com/Ranchero-Software/NetNewsWire",
+      "description": "RSS reader for macOS and iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5588,
-      "forks": 311,
-      "added_stars": "23 stars today"
+      "stars": 10264,
+      "forks": 732,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "realm / SwiftLint",
+      "url": "https://github.com/realm/SwiftLint",
+      "description": "A tool to enforce Swift style and conventions.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 19686,
+      "forks": 2318,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "zachlatta / freeflow",
+      "url": "https://github.com/zachlatta/freeflow",
+      "description": "Free & fast alternative to Wispr Flow",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2386,
+      "forks": 231,
+      "added_stars": "21 stars today"
     },
     {
       "title": "vapor / vapor",
@@ -110,9 +120,19 @@
       "description": "💧 A server-side Swift HTTP web framework.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 26177,
+      "stars": 26179,
       "forks": 1519,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "Octane0411 / open-vibe-island",
+      "url": "https://github.com/Octane0411/open-vibe-island",
+      "description": "Native macOS control center for AI coding agents — monitor sessions, approve actions, and jump back instantly.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 1895,
+      "forks": 322,
+      "added_stars": "8 stars today"
     },
     {
       "title": "onevcat / Kingfisher",
@@ -122,57 +142,47 @@
       "languageColor": "#F05138",
       "stars": 24387,
       "forks": 2764,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "sozercan / kaset",
-      "url": "https://github.com/sozercan/kaset",
-      "description": "📼 The missing YouTube and YouTube Music macOS app",
+      "title": "erha19 / ping-island",
+      "url": "https://github.com/erha19/ping-island",
+      "description": "A Dynamic Island-style command center for managing all your AI coding agents on macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1743,
-      "forks": 123,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "airbnb / lottie-ios",
-      "url": "https://github.com/airbnb/lottie-ios",
-      "description": "An iOS library to natively render After Effects vector animations",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 26808,
-      "forks": 3829,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "home-assistant / iOS",
-      "url": "https://github.com/home-assistant/iOS",
-      "description": "📱 Home Assistant for Apple platforms",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 2284,
-      "forks": 491,
+      "stars": 1031,
+      "forks": 113,
       "added_stars": "3 stars today"
     },
     {
-      "title": "utmapp / UTM",
-      "url": "https://github.com/utmapp/UTM",
-      "description": "Virtual machines for iOS and macOS",
+      "title": "Alamofire / Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 34880,
-      "forks": 1771,
-      "added_stars": "8 stars today"
+      "stars": 42410,
+      "forks": 7663,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "ChartsOrg / Charts",
-      "url": "https://github.com/ChartsOrg/Charts",
-      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+      "title": "osaurus-ai / osaurus",
+      "url": "https://github.com/osaurus-ai/osaurus",
+      "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 28009,
-      "forks": 5991,
-      "added_stars": "1 star today"
+      "stars": 7539,
+      "forks": 428,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "manaflow-ai / cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 25660,
+      "forks": 2157,
+      "added_stars": "57 stars today"
     }
   ]
 }

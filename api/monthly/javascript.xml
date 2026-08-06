@@ -4,7 +4,7 @@
   <title>GitHub Javascript Languages Daily Trending</title>
   <description>Daily Trending of Javascript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>pbakaus / impeccable</title>
     <link>https://github.com/pbakaus/impeccable</link>
@@ -36,6 +36,11 @@
     <description>Fast and low overhead web framework, for Node.js</description>
   </item>
   <item>
+    <title>saadeghi / daisyui</title>
+    <link>https://github.com/saadeghi/daisyui</link>
+    <description>🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</description>
+  </item>
+  <item>
     <title>OpenWhispr / openwhispr</title>
     <link>https://github.com/OpenWhispr/openwhispr</link>
     <description>Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.</description>
@@ -46,19 +51,9 @@
     <description>HTML is the new markdown. Lavish is the new editor for your HTML artifacts.</description>
   </item>
   <item>
-    <title>saadeghi / daisyui</title>
-    <link>https://github.com/saadeghi/daisyui</link>
-    <description>🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</description>
-  </item>
-  <item>
     <title>nodejs / node</title>
     <link>https://github.com/nodejs/node</link>
     <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
-  </item>
-  <item>
-    <title>tradesdontlie / tradingview-mcp</title>
-    <link>https://github.com/tradesdontlie/tradingview-mcp</link>
-    <description>AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation</description>
   </item>
   <item>
     <title>eslint / eslint</title>
@@ -66,9 +61,9 @@
     <description>Find and fix problems in your JavaScript code.</description>
   </item>
   <item>
-    <title>webtorrent / webtorrent</title>
-    <link>https://github.com/webtorrent/webtorrent</link>
-    <description>⚡️ Streaming torrent client for the web</description>
+    <title>tradesdontlie / tradingview-mcp</title>
+    <link>https://github.com/tradesdontlie/tradingview-mcp</link>
+    <description>AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation</description>
   </item>
   <item>
     <title>vercel / next.js</title>
@@ -76,24 +71,29 @@
     <description>The React Framework</description>
   </item>
   <item>
-    <title>ilysenko / codex-desktop-linux</title>
-    <link>https://github.com/ilysenko/codex-desktop-linux</link>
-    <description>Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.</description>
-  </item>
-  <item>
     <title>webpack / webpack</title>
     <link>https://github.com/webpack/webpack</link>
     <description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &quot;loaders&quot;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</description>
   </item>
   <item>
-    <title>atlassian / atlassian-mcp-server</title>
-    <link>https://github.com/atlassian/atlassian-mcp-server</link>
-    <description>Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.</description>
+    <title>webtorrent / webtorrent</title>
+    <link>https://github.com/webtorrent/webtorrent</link>
+    <description>⚡️ Streaming torrent client for the web</description>
+  </item>
+  <item>
+    <title>ilysenko / codex-desktop-linux</title>
+    <link>https://github.com/ilysenko/codex-desktop-linux</link>
+    <description>Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.</description>
   </item>
   <item>
     <title>microsoft / power-platform-skills</title>
     <link>https://github.com/microsoft/power-platform-skills</link>
     <description>A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.</description>
+  </item>
+  <item>
+    <title>projectdiscovery / nuclei-templates</title>
+    <link>https://github.com/projectdiscovery/nuclei-templates</link>
+    <description>Community curated list of templates for the nuclei engine to find security vulnerabilities.</description>
   </item>
   <item>
     <title>GargantuaX / gemini-watermark-remover</title>

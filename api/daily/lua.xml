@@ -4,26 +4,16 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
-  <item>
-    <title>apache / apisix</title>
-    <link>https://github.com/apache/apisix</link>
-    <description>The Cloud-Native API Gateway and AI Gateway</description>
-  </item>
+  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
   <item>
     <title>nvim-lua / kickstart.nvim</title>
     <link>https://github.com/nvim-lua/kickstart.nvim</link>
     <description>A launch point for your personal nvim configuration</description>
   </item>
   <item>
-    <title>MeanderingProgrammer / render-markdown.nvim</title>
-    <link>https://github.com/MeanderingProgrammer/render-markdown.nvim</link>
-    <description>Improve viewing Markdown in Neovim</description>
-  </item>
-  <item>
-    <title>opentibiabr / canary</title>
-    <link>https://github.com/opentibiabr/canary</link>
-    <description>Canary Server 15.25 for OpenTibia community.</description>
+    <title>yetone / avante.nvim</title>
+    <link>https://github.com/yetone/avante.nvim</link>
+    <description>Use your Neovim like using Cursor AI IDE!</description>
   </item>
   <item>
     <title>Kong / kong</title>
@@ -31,9 +21,24 @@
     <description>🦍 The API and AI Gateway</description>
   </item>
   <item>
-    <title>neovim / nvim-lspconfig</title>
-    <link>https://github.com/neovim/nvim-lspconfig</link>
-    <description>Quickstart configs for Nvim LSP</description>
+    <title>folke / tokyonight.nvim</title>
+    <link>https://github.com/folke/tokyonight.nvim</link>
+    <description>🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</description>
+  </item>
+  <item>
+    <title>overextended / ox_inventory</title>
+    <link>https://github.com/overextended/ox_inventory</link>
+    <description>Slot-based inventory with metadata.</description>
+  </item>
+  <item>
+    <title>amzxyz / rime-wanxiang</title>
+    <link>https://github.com/amzxyz/rime-wanxiang</link>
+    <description>「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066</description>
+  </item>
+  <item>
+    <title>nvim-tree / nvim-tree.lua</title>
+    <link>https://github.com/nvim-tree/nvim-tree.lua</link>
+    <description>A file explorer tree for neovim written in lua</description>
   </item>
   <item>
     <title>CopilotC-Nvim / CopilotChat.nvim</title>
@@ -41,44 +46,24 @@
     <description>Chat with GitHub Copilot in Neovim</description>
   </item>
   <item>
-    <title>Footagesus / WindUI</title>
-    <link>https://github.com/Footagesus/WindUI</link>
-    <description>WindUI is a open source UI library for Roblox Script Hubs</description>
-  </item>
-  <item>
-    <title>tarantool / tarantool</title>
-    <link>https://github.com/tarantool/tarantool</link>
-    <description>Get your data in RAM. Get compute close to data. Enjoy the performance.</description>
-  </item>
-  <item>
-    <title>LazyVim / LazyVim</title>
-    <link>https://github.com/LazyVim/LazyVim</link>
-    <description>Neovim config for the lazy</description>
-  </item>
-  <item>
-    <title>awesomeWM / awesome</title>
-    <link>https://github.com/awesomeWM/awesome</link>
-    <description>awesome window manager</description>
-  </item>
-  <item>
     <title>xmake-io / xmake</title>
     <link>https://github.com/xmake-io/xmake</link>
     <description>🔥 A cross-platform build utility based on Lua</description>
   </item>
   <item>
-    <title>LandSandBoat / server</title>
-    <link>https://github.com/LandSandBoat/server</link>
-    <description>⛵ LandSandBoat - a server emulator for Final Fantasy XI</description>
+    <title>neovim / nvim-lspconfig</title>
+    <link>https://github.com/neovim/nvim-lspconfig</link>
+    <description>Quickstart configs for Nvim LSP</description>
   </item>
   <item>
-    <title>mason-org / mason.nvim</title>
-    <link>https://github.com/mason-org/mason.nvim</link>
-    <description>Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</description>
+    <title>olimorris / codecompanion.nvim</title>
+    <link>https://github.com/olimorris/codecompanion.nvim</link>
+    <description>✨ AI Coding, Vim Style</description>
   </item>
   <item>
-    <title>stevearc / oil.nvim</title>
-    <link>https://github.com/stevearc/oil.nvim</link>
-    <description>Neovim file explorer: edit your filesystem like a buffer</description>
+    <title>tarantool / tarantool</title>
+    <link>https://github.com/tarantool/tarantool</link>
+    <description>Get your data in RAM. Get compute close to data. Enjoy the performance.</description>
   </item>
 </channel>
 </rss>

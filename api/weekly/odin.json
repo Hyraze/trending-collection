@@ -2,27 +2,37 @@
   "title": "GitHub Odin Languages Daily Trending",
   "description": "Daily Trending of Odin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
-    {
-      "title": "odin-lang / examples",
-      "url": "https://github.com/odin-lang/examples",
-      "description": "Examples of idiomatic Odin code",
-      "language": "Odin",
-      "languageColor": "#60AFFE",
-      "stars": 734,
-      "forks": 100,
-      "added_stars": "12 stars this week"
-    },
     {
       "title": "odin-lang / Odin",
       "url": "https://github.com/odin-lang/Odin",
       "description": "Odin Programming Language",
       "language": "Odin",
       "languageColor": "#60AFFE",
-      "stars": 11610,
-      "forks": 1042,
-      "added_stars": "85 stars this week"
+      "stars": 11618,
+      "forks": 1045,
+      "added_stars": "87 stars this week"
+    },
+    {
+      "title": "odin-lang / examples",
+      "url": "https://github.com/odin-lang/examples",
+      "description": "Examples of idiomatic Odin code",
+      "language": "Odin",
+      "languageColor": "#60AFFE",
+      "stars": 736,
+      "forks": 100,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "DanielGavin / ols",
+      "url": "https://github.com/DanielGavin/ols",
+      "description": "Language server for Odin",
+      "language": "Odin",
+      "languageColor": "#60AFFE",
+      "stars": 1131,
+      "forks": 175,
+      "added_stars": "18 stars this week"
     }
   ]
 }

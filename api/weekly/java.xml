@@ -4,26 +4,31 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>github / copilot-sdk</title>
     <link>https://github.com/github/copilot-sdk</link>
     <description>Multi-platform SDK for integrating GitHub Copilot Agent into apps and services</description>
   </item>
   <item>
-    <title>quarkusio / quarkus</title>
-    <link>https://github.com/quarkusio/quarkus</link>
-    <description>Quarkus: Supersonic Subatomic Java.</description>
+    <title>termux / termux-app</title>
+    <link>https://github.com/termux/termux-app</link>
+    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
+  </item>
+  <item>
+    <title>JabRef / jabref</title>
+    <link>https://github.com/JabRef/jabref</link>
+    <description>Desktop app for managing BibTeX and BibLaTeX (.bib) libraries</description>
+  </item>
+  <item>
+    <title>iluwatar / java-design-patterns</title>
+    <link>https://github.com/iluwatar/java-design-patterns</link>
+    <description>Design patterns implemented in Java</description>
   </item>
   <item>
     <title>jenkinsci / jenkins</title>
     <link>https://github.com/jenkinsci/jenkins</link>
     <description>Jenkins automation server</description>
-  </item>
-  <item>
-    <title>Apicurio / apicurio-registry</title>
-    <link>https://github.com/Apicurio/apicurio-registry</link>
-    <description>An API/Schema registry - stores APIs and Schemas.</description>
   </item>
   <item>
     <title>NationalSecurityAgency / ghidra</title>
@@ -36,24 +41,9 @@
     <description>Free universal database tool and SQL client</description>
   </item>
   <item>
-    <title>termux / termux-app</title>
-    <link>https://github.com/termux/termux-app</link>
-    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
-  </item>
-  <item>
-    <title>Creators-of-Create / Create</title>
-    <link>https://github.com/Creators-of-Create/Create</link>
-    <description>[NeoForge Mod] Building Tools and Aesthetic Technology</description>
-  </item>
-  <item>
-    <title>iluwatar / java-design-patterns</title>
-    <link>https://github.com/iluwatar/java-design-patterns</link>
-    <description>Design patterns implemented in Java</description>
-  </item>
-  <item>
-    <title>woheller69 / FreeDroidWarn</title>
-    <link>https://github.com/woheller69/FreeDroidWarn</link>
-    <description></description>
+    <title>quarkusio / quarkus</title>
+    <link>https://github.com/quarkusio/quarkus</link>
+    <description>Quarkus: Supersonic Subatomic Java.</description>
   </item>
   <item>
     <title>DrKLO / Telegram</title>
@@ -61,14 +51,29 @@
     <description>Telegram for Android source</description>
   </item>
   <item>
+    <title>woheller69 / FreeDroidWarn</title>
+    <link>https://github.com/woheller69/FreeDroidWarn</link>
+    <description></description>
+  </item>
+  <item>
+    <title>Apicurio / apicurio-registry</title>
+    <link>https://github.com/Apicurio/apicurio-registry</link>
+    <description>An API/Schema registry - stores APIs and Schemas.</description>
+  </item>
+  <item>
     <title>TeamNewPipe / NewPipe</title>
     <link>https://github.com/TeamNewPipe/NewPipe</link>
     <description>A libre lightweight streaming front-end for Android.</description>
   </item>
   <item>
-    <title>halo-dev / halo</title>
-    <link>https://github.com/halo-dev/halo</link>
-    <description>Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。</description>
+    <title>Creators-of-Create / Create</title>
+    <link>https://github.com/Creators-of-Create/Create</link>
+    <description>[NeoForge Mod] Building Tools and Aesthetic Technology</description>
+  </item>
+  <item>
+    <title>apache / doris</title>
+    <link>https://github.com/apache/doris</link>
+    <description>Apache Doris is a real-time analytics and hybrid search database for AI agents.</description>
   </item>
   <item>
     <title>modelcontextprotocol / java-sdk</title>
@@ -76,39 +81,14 @@
     <description>The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI</description>
   </item>
   <item>
-    <title>iBotPeaches / Apktool</title>
-    <link>https://github.com/iBotPeaches/Apktool</link>
-    <description>A tool for reverse engineering Android apk files</description>
+    <title>halo-dev / halo</title>
+    <link>https://github.com/halo-dev/halo</link>
+    <description>Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。</description>
   </item>
   <item>
-    <title>TheAlgorithms / Java</title>
-    <link>https://github.com/TheAlgorithms/Java</link>
-    <description>All Algorithms implemented in Java</description>
-  </item>
-  <item>
-    <title>Azure / azure-sdk-for-java</title>
-    <link>https://github.com/Azure/azure-sdk-for-java</link>
-    <description>This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.</description>
-  </item>
-  <item>
-    <title>NotHarshhaa / DevOps-Projects</title>
-    <link>https://github.com/NotHarshhaa/DevOps-Projects</link>
-    <description>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.</description>
-  </item>
-  <item>
-    <title>HMCL-dev / HMCL</title>
-    <link>https://github.com/HMCL-dev/HMCL</link>
-    <description>A Minecraft Launcher which is multi-functional, cross-platform and popular</description>
-  </item>
-  <item>
-    <title>opensearch-project / OpenSearch</title>
-    <link>https://github.com/opensearch-project/OpenSearch</link>
-    <description>🔎 Open source distributed and RESTful search engine.</description>
-  </item>
-  <item>
-    <title>DependencyTrack / dependency-track</title>
-    <link>https://github.com/DependencyTrack/dependency-track</link>
-    <description>Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.</description>
+    <title>TGX-Android / Telegram-X</title>
+    <link>https://github.com/TGX-Android/Telegram-X</link>
+    <description>The main repository of Telegram X — official alternative Telegram client for Android.</description>
   </item>
   <item>
     <title>spring-projects / spring-boot</title>
@@ -116,19 +96,29 @@
     <description>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</description>
   </item>
   <item>
-    <title>camunda / camunda</title>
-    <link>https://github.com/camunda/camunda</link>
-    <description>Process Orchestration Framework</description>
+    <title>DependencyTrack / dependency-track</title>
+    <link>https://github.com/DependencyTrack/dependency-track</link>
+    <description>Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.</description>
   </item>
   <item>
-    <title>LaurieWired / GhidraMCP</title>
-    <link>https://github.com/LaurieWired/GhidraMCP</link>
-    <description>MCP Server for Ghidra</description>
+    <title>kdn251 / interviews</title>
+    <link>https://github.com/kdn251/interviews</link>
+    <description>Everything you need to know to get the job.</description>
   </item>
   <item>
-    <title>openjdk / jdk</title>
-    <link>https://github.com/openjdk/jdk</link>
-    <description>JDK main-line development https://openjdk.org/projects/jdk</description>
+    <title>NotHarshhaa / DevOps-Projects</title>
+    <link>https://github.com/NotHarshhaa/DevOps-Projects</link>
+    <description>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.</description>
+  </item>
+  <item>
+    <title>emanuele-f / PCAPdroid</title>
+    <link>https://github.com/emanuele-f/PCAPdroid</link>
+    <description>No-root network monitor, firewall and PCAP dumper for Android</description>
+  </item>
+  <item>
+    <title>alibaba / fastjson2</title>
+    <link>https://github.com/alibaba/fastjson2</link>
+    <description>🚄 FASTJSON2 is a Java JSON library with excellent performance.</description>
   </item>
 </channel>
 </rss>

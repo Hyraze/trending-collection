@@ -4,7 +4,12 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
+  <item>
+    <title>bazelbuild / rules_rust</title>
+    <link>https://github.com/bazelbuild/rules_rust</link>
+    <description>Rust rules for Bazel</description>
+  </item>
   <item>
     <title>googleapis / googleapis</title>
     <link>https://github.com/googleapis/googleapis</link>
@@ -16,9 +21,34 @@
     <description>🥑 Language focused docker images, minus the operating system.</description>
   </item>
   <item>
+    <title>bazel-contrib / rules_python</title>
+    <link>https://github.com/bazel-contrib/rules_python</link>
+    <description>Bazel Python Rules</description>
+  </item>
+  <item>
     <title>bazelbuild / bazel-central-registry</title>
     <link>https://github.com/bazelbuild/bazel-central-registry</link>
     <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
+  </item>
+  <item>
+    <title>tilt-dev / tilt-extensions</title>
+    <link>https://github.com/tilt-dev/tilt-extensions</link>
+    <description>Extensions for Tilt</description>
+  </item>
+  <item>
+    <title>bazel-contrib / rules_distroless</title>
+    <link>https://github.com/bazel-contrib/rules_distroless</link>
+    <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
+  </item>
+  <item>
+    <title>openconfig / gnoi</title>
+    <link>https://github.com/openconfig/gnoi</link>
+    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
+  </item>
+  <item>
+    <title>aspect-build / rules_py</title>
+    <link>https://github.com/aspect-build/rules_py</link>
+    <description>More compatible Bazel rules for running Python tools and building Python projects</description>
   </item>
   <item>
     <title>cel-expr / cel-spec</title>
@@ -31,19 +61,14 @@
     <description>A standard library for use in specifying protocol buffer APIs.</description>
   </item>
   <item>
-    <title>bazel-contrib / rules_python</title>
-    <link>https://github.com/bazel-contrib/rules_python</link>
-    <description>Bazel Python Rules</description>
+    <title>grpc / grpc-proto</title>
+    <link>https://github.com/grpc/grpc-proto</link>
+    <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
   </item>
   <item>
-    <title>bazelbuild / rules_rust</title>
-    <link>https://github.com/bazelbuild/rules_rust</link>
-    <description>Rust rules for Bazel</description>
-  </item>
-  <item>
-    <title>tilt-dev / tilt-extensions</title>
-    <link>https://github.com/tilt-dev/tilt-extensions</link>
-    <description>Extensions for Tilt</description>
+    <title>ash2k / bazel-tools</title>
+    <link>https://github.com/ash2k/bazel-tools</link>
+    <description>Reusable bits for Bazel</description>
   </item>
   <item>
     <title>bazel-contrib / toolchains_llvm</title>
@@ -51,14 +76,9 @@
     <description>LLVM toolchain for bazel</description>
   </item>
   <item>
-    <title>openconfig / gnoi</title>
-    <link>https://github.com/openconfig/gnoi</link>
-    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
-  </item>
-  <item>
-    <title>bazel-contrib / rules_distroless</title>
-    <link>https://github.com/bazel-contrib/rules_distroless</link>
-    <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
+    <title>google / bazel-common</title>
+    <link>https://github.com/google/bazel-common</link>
+    <description>Common functionality for some Google open-source libraries that are built with Bazel</description>
   </item>
 </channel>
 </rss>

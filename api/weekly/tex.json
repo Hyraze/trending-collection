@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Daily Trending",
   "description": "Daily Trending of Tex Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "zhanwen / MathModel",
@@ -10,9 +10,9 @@
       "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 11056,
-      "forks": 2262,
-      "added_stars": "136 stars this week"
+      "stars": 11072,
+      "forks": 2261,
+      "added_stars": "142 stars this week"
     },
     {
       "title": "riscv / riscv-isa-manual",
@@ -22,17 +22,7 @@
       "languageColor": "#3D6117",
       "stars": 4746,
       "forks": 857,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "rstudio / cheatsheets",
-      "url": "https://github.com/rstudio/cheatsheets",
-      "description": "Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 6388,
-      "forks": 1943,
-      "added_stars": "7 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "dart-lang / language",
@@ -40,7 +30,7 @@
       "description": "Design of the Dart language",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 2927,
+      "stars": 2928,
       "forks": 236,
       "added_stars": "5 stars this week"
     },
@@ -50,9 +40,19 @@
       "description": "The LaTeX2e kernel",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 2438,
-      "forks": 316,
-      "added_stars": "6 stars this week"
+      "stars": 2440,
+      "forks": 315,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "rstudio / cheatsheets",
+      "url": "https://github.com/rstudio/cheatsheets",
+      "description": "Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 6388,
+      "forks": 1943,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "lervag / vimtex",
@@ -60,7 +60,7 @@
       "description": "VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 6331,
+      "stars": 6330,
       "forks": 415,
       "added_stars": "10 stars this week"
     },
@@ -70,9 +70,9 @@
       "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 28224,
+      "stars": 28232,
       "forks": 5297,
-      "added_stars": "71 stars this week"
+      "added_stars": "74 stars this week"
     },
     {
       "title": "sb2nov / resume",
@@ -80,9 +80,19 @@
       "description": "Software developer resume in Latex",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 6866,
+      "stars": 6875,
       "forks": 1878,
-      "added_stars": "23 stars this week"
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "billryan / resume",
+      "url": "https://github.com/billryan/resume",
+      "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 11316,
+      "forks": 2870,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "cplusplus / draft",
@@ -92,7 +102,7 @@
       "languageColor": "#3D6117",
       "stars": 191,
       "forks": 814,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
@@ -100,19 +110,29 @@
       "description": "Introduction to Autonomous Robots",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 3302,
+      "stars": 3304,
       "forks": 718,
       "added_stars": "6 stars this week"
     },
     {
-      "title": "exacity / deeplearningbook-chinese",
-      "url": "https://github.com/exacity/deeplearningbook-chinese",
-      "description": "Deep Learning Book Chinese Translation",
+      "title": "tuhdo / os01",
+      "url": "https://github.com/tuhdo/os01",
+      "description": "Bootstrap yourself to write an OS from scratch. A book for self-learner.",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 37356,
-      "forks": 9112,
-      "added_stars": "21 stars this week"
+      "stars": 13657,
+      "forks": 792,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "HarisIqbal88 / PlotNeuralNet",
+      "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+      "description": "Latex code for making neural networks diagrams",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 24934,
+      "forks": 3062,
+      "added_stars": "20 stars this week"
     }
   ]
 }

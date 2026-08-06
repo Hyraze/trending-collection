@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "goldbergyoni / nodebestpractices",
@@ -10,19 +10,9 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 105476,
-      "forks": 10708,
-      "added_stars": "39 stars this week"
-    },
-    {
-      "title": "vulhub / vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21081,
-      "forks": 4796,
-      "added_stars": "39 stars this week"
+      "stars": 105477,
+      "forks": 10709,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "nodejs / docker-node",
@@ -31,18 +21,8 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 8578,
-      "forks": 1991,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "autowarefoundation / autoware",
-      "url": "https://github.com/autowarefoundation/autoware",
-      "description": "Autoware - the world's leading open-source software project for autonomous driving",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 11944,
-      "forks": 3678,
-      "added_stars": "41 stars this week"
+      "forks": 1990,
+      "added_stars": "1 star this week"
     },
     {
       "title": "mikeroyal / Self-Hosting-Guide",
@@ -50,9 +30,39 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 22168,
+      "stars": 22172,
       "forks": 1108,
-      "added_stars": "102 stars this week"
+      "added_stars": "98 stars this week"
+    },
+    {
+      "title": "autowarefoundation / autoware",
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 11947,
+      "forks": 3679,
+      "added_stars": "41 stars this week"
+    },
+    {
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 21084,
+      "forks": 4796,
+      "added_stars": "42 stars this week"
+    },
+    {
+      "title": "redhat-openshift-ecosystem / certified-operators",
+      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
+      "description": "Production catalog for Red Hat Certified Operator Bundles",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 82,
+      "forks": 647,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "oxsecurity / megalinter",
@@ -60,9 +70,19 @@
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2543,
+      "stars": 2547,
       "forks": 303,
-      "added_stars": "4 stars this week"
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "laradock / laradock",
+      "url": "https://github.com/laradock/laradock",
+      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 12658,
+      "forks": 4361,
+      "added_stars": "1 star this week"
     },
     {
       "title": "microsoft / vscode-remote-release",
@@ -72,7 +92,17 @@
       "languageColor": "#384d54",
       "stars": 4140,
       "forks": 460,
-      "added_stars": "6 stars this week"
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "dotnet / dotnet-docker",
+      "url": "https://github.com/dotnet/dotnet-docker",
+      "description": "Official container images for .NET",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4859,
+      "forks": 1973,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "redhat-openshift-ecosystem / community-operators-prod",
@@ -82,17 +112,7 @@
       "languageColor": "#384d54",
       "stars": 138,
       "forks": 653,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "kubernetes-sigs / contributor-playground",
-      "url": "https://github.com/kubernetes-sigs/contributor-playground",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 281,
-      "forks": 2054,
-      "added_stars": "2 stars this week"
+      "added_stars": "0 stars this week"
     },
     {
       "title": "aws-amplify / amplify-hosting",
@@ -105,53 +125,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "dotnet / dotnet-docker",
-      "url": "https://github.com/dotnet/dotnet-docker",
-      "description": "Official container images for .NET",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 4858,
-      "forks": 1973,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "laradock / laradock",
-      "url": "https://github.com/laradock/laradock",
-      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 12658,
-      "forks": 4362,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "redhat-openshift-ecosystem / certified-operators",
-      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
-      "description": "Production catalog for Red Hat Certified Operator Bundles",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 82,
-      "forks": 646,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "corretto / corretto-docker",
-      "url": "https://github.com/corretto/corretto-docker",
-      "description": "Dockerfiles for Amazon Corretto Official images.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 200,
-      "forks": 68,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "MicrosoftDocs / windows-powershell-docs",
       "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
       "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 502,
-      "forks": 634,
+      "forks": 633,
       "added_stars": "0 stars this week"
     },
     {
@@ -162,27 +142,17 @@
       "languageColor": "#384d54",
       "stars": 2818,
       "forks": 1451,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "TechHutTV / homelab",
-      "url": "https://github.com/TechHutTV/homelab",
-      "description": "Homelab stacks, templates, and more fun resources!",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 3049,
-      "forks": 284,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "docker-library / python",
-      "url": "https://github.com/docker-library/python",
-      "description": "Docker Official Image packaging for Python",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2769,
-      "forks": 1108,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "nordquant / dbt-student-repo",
+      "url": "https://github.com/nordquant/dbt-student-repo",
+      "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 21,
+      "forks": 2841,
+      "added_stars": "0 stars this week"
     }
   ]
 }

@@ -4,26 +4,16 @@
   <title>GitHub Objective-c Languages Daily Trending</title>
   <description>Daily Trending of Objective-c Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
-  <item>
-    <title>git-up / GitUp</title>
-    <link>https://github.com/git-up/GitUp</link>
-    <description>The Git interface you&#x27;ve been missing all your life has finally arrived.</description>
-  </item>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>maderix / ANE</title>
     <link>https://github.com/maderix/ANE</link>
     <description>Training neural networks on Apple Neural Engine via reverse-engineered private APIs</description>
   </item>
   <item>
-    <title>gnachman / iTerm2</title>
-    <link>https://github.com/gnachman/iTerm2</link>
-    <description>iTerm2 is a terminal emulator for Mac OS X that does amazing things.</description>
-  </item>
-  <item>
-    <title>opa334 / TrollStore</title>
-    <link>https://github.com/opa334/TrollStore</link>
-    <description>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</description>
+    <title>git-up / GitUp</title>
+    <link>https://github.com/git-up/GitUp</link>
+    <description>The Git interface you&#x27;ve been missing all your life has finally arrived.</description>
   </item>
   <item>
     <title>realm / realm-swift</title>
@@ -31,9 +21,14 @@
     <description>Realm is a mobile database: a replacement for Core Data &amp; SQLite</description>
   </item>
   <item>
-    <title>Hammerspoon / hammerspoon</title>
-    <link>https://github.com/Hammerspoon/hammerspoon</link>
-    <description>Staggeringly powerful macOS desktop automation with Lua</description>
+    <title>opa334 / TrollStore</title>
+    <link>https://github.com/opa334/TrollStore</link>
+    <description>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</description>
+  </item>
+  <item>
+    <title>gnachman / iTerm2</title>
+    <link>https://github.com/gnachman/iTerm2</link>
+    <description>iTerm2 is a terminal emulator for Mac OS X that does amazing things.</description>
   </item>
   <item>
     <title>geode-sdk / ios-launcher</title>
@@ -41,9 +36,9 @@
     <description>Manages installing and launching Geometry Dash for iOS</description>
   </item>
   <item>
-    <title>objective-see / LuLu</title>
-    <link>https://github.com/objective-see/LuLu</link>
-    <description>LuLu is the free open-source macOS firewall</description>
+    <title>dcloudio / uni-app</title>
+    <link>https://github.com/dcloudio/uni-app</link>
+    <description>A cross-platform framework using Vue.js</description>
   </item>
   <item>
     <title>AFNetworking / AFNetworking</title>
@@ -51,19 +46,9 @@
     <description>A delightful networking framework for iOS, macOS, watchOS, and tvOS.</description>
   </item>
   <item>
-    <title>iodefog / VipVideo</title>
-    <link>https://github.com/iodefog/VipVideo</link>
-    <description>这是一个Mac/Windows聚合App，聚合常见电视/视频/音乐/小说。比如CCTV中央电视台直播免费观看, 爱奇艺、腾讯视频、芒果视频、优酷视频付费电影，VIP会员剧等免费观看，bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅、起点、七猫、有声小说等</description>
-  </item>
-  <item>
-    <title>PojavLauncherTeam / PojavLauncher_iOS</title>
-    <link>https://github.com/PojavLauncherTeam/PojavLauncher_iOS</link>
-    <description>A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS</description>
-  </item>
-  <item>
-    <title>keycastr / keycastr</title>
-    <link>https://github.com/keycastr/keycastr</link>
-    <description>KeyCastr, an open-source keystroke visualizer</description>
+    <title>Hammerspoon / hammerspoon</title>
+    <link>https://github.com/Hammerspoon/hammerspoon</link>
+    <description>Staggeringly powerful macOS desktop automation with Lua</description>
   </item>
   <item>
     <title>google / GoogleDataTransport</title>
@@ -81,29 +66,14 @@
     <description>Google Toolbox for Mac - Session Fetcher</description>
   </item>
   <item>
-    <title>google / promises</title>
-    <link>https://github.com/google/promises</link>
-    <description>Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</description>
+    <title>onfido / onfido-ios-sdk</title>
+    <link>https://github.com/onfido/onfido-ios-sdk</link>
+    <description>A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.</description>
   </item>
   <item>
-    <title>google / GoogleUtilities</title>
-    <link>https://github.com/google/GoogleUtilities</link>
-    <description></description>
-  </item>
-  <item>
-    <title>syncthing / syncthing-macos</title>
-    <link>https://github.com/syncthing/syncthing-macos</link>
-    <description>Official frugal and native macOS Syncthing application bundle</description>
-  </item>
-  <item>
-    <title>mixpanel / mixpanel-iphone</title>
-    <link>https://github.com/mixpanel/mixpanel-iphone</link>
-    <description>Official iOS (Objective-C) Tracking Library for Mixpanel Analytics</description>
-  </item>
-  <item>
-    <title>adjust / ios_sdk</title>
-    <link>https://github.com/adjust/ios_sdk</link>
-    <description>This is the iOS SDK of</description>
+    <title>noah-nuebling / mac-mouse-fix</title>
+    <link>https://github.com/noah-nuebling/mac-mouse-fix</link>
+    <description>Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!</description>
   </item>
 </channel>
 </rss>

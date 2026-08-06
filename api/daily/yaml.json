@@ -2,17 +2,17 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
-      "title": "GTFOBins / GTFOBins.github.io",
-      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
-      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+      "title": "kubeflow / community-distribution",
+      "url": "https://github.com/kubeflow/community-distribution",
+      "description": "Kubeflow Community Distribution",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 13515,
-      "forks": 1659,
-      "added_stars": "3 stars today"
+      "stars": 1029,
+      "forks": 1070,
+      "added_stars": "2 stars today"
     },
     {
       "title": "web-platform-dx / web-features",
@@ -20,19 +20,19 @@
       "description": "Exploring how to present Web platform features adoptability",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 893,
-      "forks": 309,
+      "stars": 894,
+      "forks": 310,
       "added_stars": "1 star today"
     },
     {
-      "title": "tyriis / home-ops",
-      "url": "https://github.com/tyriis/home-ops",
-      "description": "IaC for my HomeLab kubernetes cluster resources with Flux",
+      "title": "GTFOBins / GTFOBins.github.io",
+      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 80,
-      "forks": 4,
-      "added_stars": "0 stars today"
+      "stars": 13522,
+      "forks": 1660,
+      "added_stars": "6 stars today"
     }
   ]
 }

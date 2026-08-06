@@ -4,61 +4,11 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
   <item>
     <title>esengine / DeepSeek-Reasonix</title>
     <link>https://github.com/esengine/DeepSeek-Reasonix</link>
     <description>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
-  </item>
-  <item>
-    <title>moby / moby</title>
-    <link>https://github.com/moby/moby</link>
-    <description>The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
-  </item>
-  <item>
-    <title>kubernetes / kubernetes</title>
-    <link>https://github.com/kubernetes/kubernetes</link>
-    <description>Production-Grade Container Scheduling and Management</description>
-  </item>
-  <item>
-    <title>golang / go</title>
-    <link>https://github.com/golang/go</link>
-    <description>The Go programming language</description>
-  </item>
-  <item>
-    <title>projectdiscovery / nuclei</title>
-    <link>https://github.com/projectdiscovery/nuclei</link>
-    <description>Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</description>
-  </item>
-  <item>
-    <title>argoproj / argo-cd</title>
-    <link>https://github.com/argoproj/argo-cd</link>
-    <description>Declarative Continuous Deployment for Kubernetes</description>
-  </item>
-  <item>
-    <title>ethereum / go-ethereum</title>
-    <link>https://github.com/ethereum/go-ethereum</link>
-    <description>Go implementation of the Ethereum protocol</description>
-  </item>
-  <item>
-    <title>spf13 / viper</title>
-    <link>https://github.com/spf13/viper</link>
-    <description>Go configuration with fangs</description>
-  </item>
-  <item>
-    <title>multica-ai / multica</title>
-    <link>https://github.com/multica-ai/multica</link>
-    <description>The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.</description>
-  </item>
-  <item>
-    <title>docker / compose</title>
-    <link>https://github.com/docker/compose</link>
-    <description>Define and run multi-container applications with Docker</description>
-  </item>
-  <item>
-    <title>chaitin / SafeLine</title>
-    <link>https://github.com/chaitin/SafeLine</link>
-    <description>SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</description>
   </item>
   <item>
     <title>gastownhall / beads</title>
@@ -66,34 +16,24 @@
     <description>Beads - A memory upgrade for your coding agent</description>
   </item>
   <item>
-    <title>superplanehq / superplane</title>
-    <link>https://github.com/superplanehq/superplane</link>
-    <description>The open source control plane for agentic engineering.</description>
+    <title>multica-ai / multica</title>
+    <link>https://github.com/multica-ai/multica</link>
+    <description>The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.</description>
   </item>
   <item>
-    <title>aquasecurity / trivy</title>
-    <link>https://github.com/aquasecurity/trivy</link>
-    <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+    <title>binwiederhier / ntfy</title>
+    <link>https://github.com/binwiederhier/ntfy</link>
+    <description>Send push notifications to your phone or desktop using PUT/POST</description>
   </item>
   <item>
-    <title>dolthub / dolt</title>
-    <link>https://github.com/dolthub/dolt</link>
-    <description>Dolt – Git for Data</description>
+    <title>sundowndev / phoneinfoga</title>
+    <link>https://github.com/sundowndev/phoneinfoga</link>
+    <description>Information gathering framework for phone numbers</description>
   </item>
   <item>
-    <title>masterking32 / MasterDnsVPN</title>
-    <link>https://github.com/masterking32/MasterDnsVPN</link>
-    <description>Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.</description>
-  </item>
-  <item>
-    <title>zzet / gortex</title>
-    <link>https://github.com/zzet/gortex</link>
-    <description>High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d</description>
-  </item>
-  <item>
-    <title>danielmiessler / Fabric</title>
-    <link>https://github.com/danielmiessler/Fabric</link>
-    <description>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</description>
+    <title>projectdiscovery / nuclei</title>
+    <link>https://github.com/projectdiscovery/nuclei</link>
+    <description>Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</description>
   </item>
   <item>
     <title>Project-HAMi / HAMi</title>
@@ -101,24 +41,89 @@
     <description>Heterogeneous GPU Sharing on Kubernetes</description>
   </item>
   <item>
+    <title>docker / compose</title>
+    <link>https://github.com/docker/compose</link>
+    <description>Define and run multi-container applications with Docker</description>
+  </item>
+  <item>
+    <title>gin-gonic / gin</title>
+    <link>https://github.com/gin-gonic/gin</link>
+    <description>Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.</description>
+  </item>
+  <item>
+    <title>pulumi / pulumi</title>
+    <link>https://github.com/pulumi/pulumi</link>
+    <description>Pulumi - Infrastructure as Code in any programming language 🚀</description>
+  </item>
+  <item>
+    <title>zzet / gortex</title>
+    <link>https://github.com/zzet/gortex</link>
+    <description>High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d</description>
+  </item>
+  <item>
+    <title>pranshuparmar / witr</title>
+    <link>https://github.com/pranshuparmar/witr</link>
+    <description>Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.</description>
+  </item>
+  <item>
     <title>junegunn / fzf</title>
     <link>https://github.com/junegunn/fzf</link>
     <description>🌸 A command-line fuzzy finder</description>
   </item>
   <item>
-    <title>spf13 / cobra</title>
-    <link>https://github.com/spf13/cobra</link>
-    <description>A Commander for modern Go CLI interactions</description>
+    <title>github / github-mcp-server</title>
+    <link>https://github.com/github/github-mcp-server</link>
+    <description>GitHub&#x27;s official MCP Server</description>
   </item>
   <item>
-    <title>github / gh-stack</title>
-    <link>https://github.com/github/gh-stack</link>
-    <description>GitHub Stacked PRs</description>
+    <title>k3s-io / k3s</title>
+    <link>https://github.com/k3s-io/k3s</link>
+    <description>Lightweight Kubernetes</description>
   </item>
   <item>
-    <title>syncthing / syncthing</title>
-    <link>https://github.com/syncthing/syncthing</link>
-    <description>Open Source Continuous File Synchronization</description>
+    <title>superplanehq / superplane</title>
+    <link>https://github.com/superplanehq/superplane</link>
+    <description>The open source control plane for agentic engineering.</description>
+  </item>
+  <item>
+    <title>kubernetes-sigs / agent-sandbox</title>
+    <link>https://github.com/kubernetes-sigs/agent-sandbox</link>
+    <description>agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.</description>
+  </item>
+  <item>
+    <title>golang / go</title>
+    <link>https://github.com/golang/go</link>
+    <description>The Go programming language</description>
+  </item>
+  <item>
+    <title>leookun / cursor-byok</title>
+    <link>https://github.com/leookun/cursor-byok</link>
+    <description>Infinite BYOK in Cursor https://github.com/leookun/cursor-byok/releases</description>
+  </item>
+  <item>
+    <title>authzed / spicedb</title>
+    <link>https://github.com/authzed/spicedb</link>
+    <description>Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data</description>
+  </item>
+  <item>
+    <title>TwiN / gatus</title>
+    <link>https://github.com/TwiN/gatus</link>
+    <description>Automated developer-oriented status page with alerting and incident support</description>
+  </item>
+  <item>
+    <title>google / osv.dev</title>
+    <link>https://github.com/google/osv.dev</link>
+    <description>Open source vulnerability DB and triage service.</description>
+  </item>
+  <item>
+    <title>gastownhall / gascity</title>
+    <link>https://github.com/gastownhall/gascity</link>
+    <description>Orchestration-builder SDK for multi-agent coding workflows</description>
+  </item>
+  <item>
+    <title>wailsapp / wails</title>
+    <link>https://github.com/wailsapp/wails</link>
+    <description>Create beautiful applications using Go</description>
   </item>
 </channel>
 </rss>

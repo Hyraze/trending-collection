@@ -4,16 +4,11 @@
   <title>GitHub Scss Languages Daily Trending</title>
   <description>Daily Trending of Scss Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>academicpages / academicpages.github.io</title>
     <link>https://github.com/academicpages/academicpages.github.io</link>
     <description>Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.</description>
-  </item>
-  <item>
-    <title>material-components / material-web</title>
-    <link>https://github.com/material-components/material-web</link>
-    <description>Material Design Web Components</description>
   </item>
   <item>
     <title>vinceliuice / MacTahoe-gtk-theme</title>
@@ -26,39 +21,9 @@
     <description>The largest curated collection of markdown badges for your personal developer branding, profile, and projects.</description>
   </item>
   <item>
-    <title>cobiwave / simplefolio</title>
-    <link>https://github.com/cobiwave/simplefolio</link>
-    <description>⚡️ A minimal portfolio template for Developers</description>
-  </item>
-  <item>
-    <title>patternfly / patternfly</title>
-    <link>https://github.com/patternfly/patternfly</link>
-    <description>This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.</description>
-  </item>
-  <item>
-    <title>primer / css</title>
-    <link>https://github.com/primer/css</link>
-    <description>Primer is GitHub&#x27;s design system. This is the CSS implementation</description>
-  </item>
-  <item>
-    <title>uswds / uswds</title>
-    <link>https://github.com/uswds/uswds</link>
-    <description>The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.</description>
-  </item>
-  <item>
-    <title>appsecco / dvna</title>
-    <link>https://github.com/appsecco/dvna</link>
-    <description>Damn Vulnerable NodeJS Application</description>
-  </item>
-  <item>
-    <title>just-the-docs / just-the-docs</title>
-    <link>https://github.com/just-the-docs/just-the-docs</link>
-    <description>A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</description>
-  </item>
-  <item>
-    <title>opensearch-project / documentation-website</title>
-    <link>https://github.com/opensearch-project/documentation-website</link>
-    <description>The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.</description>
+    <title>material-components / material-web</title>
+    <link>https://github.com/material-components/material-web</link>
+    <description>Material Design Web Components</description>
   </item>
   <item>
     <title>conventional-commits / conventionalcommits.org</title>
@@ -66,9 +31,34 @@
     <description>The conventional commits specification</description>
   </item>
   <item>
-    <title>catppuccin / discord</title>
-    <link>https://github.com/catppuccin/discord</link>
-    <description>🎮 Soothing pastel theme for Discord</description>
+    <title>cobiwave / simplefolio</title>
+    <link>https://github.com/cobiwave/simplefolio</link>
+    <description>⚡️ A minimal portfolio template for Developers</description>
+  </item>
+  <item>
+    <title>primer / css</title>
+    <link>https://github.com/primer/css</link>
+    <description>Primer is GitHub&#x27;s design system. This is the CSS implementation</description>
+  </item>
+  <item>
+    <title>patternfly / patternfly</title>
+    <link>https://github.com/patternfly/patternfly</link>
+    <description>This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.</description>
+  </item>
+  <item>
+    <title>uswds / uswds</title>
+    <link>https://github.com/uswds/uswds</link>
+    <description>The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.</description>
+  </item>
+  <item>
+    <title>opensearch-project / documentation-website</title>
+    <link>https://github.com/opensearch-project/documentation-website</link>
+    <description>The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.</description>
+  </item>
+  <item>
+    <title>just-the-docs / just-the-docs</title>
+    <link>https://github.com/just-the-docs/just-the-docs</link>
+    <description>A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</description>
   </item>
   <item>
     <title>thingsym / hugo-theme-techdoc</title>
@@ -76,14 +66,24 @@
     <description>The Techdoc is a Hugo Theme for technical documentation.</description>
   </item>
   <item>
-    <title>okta / okta-developer-docs</title>
-    <link>https://github.com/okta/okta-developer-docs</link>
-    <description>okta-developer-docs</description>
+    <title>odoo / design-themes</title>
+    <link>https://github.com/odoo/design-themes</link>
+    <description></description>
   </item>
   <item>
     <title>ubuntu / yaru</title>
     <link>https://github.com/ubuntu/yaru</link>
     <description>All Ubuntu Yaru GNOME themes</description>
+  </item>
+  <item>
+    <title>appsecco / dvna</title>
+    <link>https://github.com/appsecco/dvna</link>
+    <description>Damn Vulnerable NodeJS Application</description>
+  </item>
+  <item>
+    <title>catppuccin / discord</title>
+    <link>https://github.com/catppuccin/discord</link>
+    <description>🎮 Soothing pastel theme for Discord</description>
   </item>
   <item>
     <title>angelbruni / Geckium</title>
@@ -94,11 +94,6 @@
     <title>foreverphoenix / the-phoenix-flavour</title>
     <link>https://github.com/foreverphoenix/the-phoenix-flavour</link>
     <description>A Wabbajack list for Skyrim Special Edition.</description>
-  </item>
-  <item>
-    <title>LineageOS / lineage_wiki</title>
-    <link>https://github.com/LineageOS/lineage_wiki</link>
-    <description></description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "argoproj / argo-cd",
@@ -10,9 +10,9 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23839,
-      "forks": 7690,
-      "added_stars": "675 stars this month"
+      "stars": 23852,
+      "forks": 7694,
+      "added_stars": "680 stars this month"
     },
     {
       "title": "tailscale / tailscale",
@@ -20,9 +20,9 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 34808,
-      "forks": 3025,
-      "added_stars": "1,860 stars this month"
+      "stars": 34856,
+      "forks": 3028,
+      "added_stars": "1,876 stars this month"
     },
     {
       "title": "alibaba / open-code-review",
@@ -30,9 +30,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18857,
-      "forks": 1276,
-      "added_stars": "8,956 stars this month"
+      "stars": 19222,
+      "forks": 1318,
+      "added_stars": "9,236 stars this month"
     },
     {
       "title": "microsoft / typescript-go",
@@ -40,9 +40,9 @@
       "description": "Staging repo for development of native port of TypeScript",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26141,
-      "forks": 1114,
-      "added_stars": "417 stars this month"
+      "stars": 26146,
+      "forks": 1115,
+      "added_stars": "416 stars this month"
     },
     {
       "title": "google / gvisor",
@@ -50,9 +50,9 @@
       "description": "Application Kernel for Containers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18980,
+      "stars": 18994,
       "forks": 1884,
-      "added_stars": "442 stars this month"
+      "added_stars": "446 stars this month"
     },
     {
       "title": "cli / cli",
@@ -60,19 +60,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 45668,
-      "forks": 8819,
-      "added_stars": "636 stars this month"
-    },
-    {
-      "title": "kunchenguid / no-mistakes",
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "description": "git push no-mistakes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7398,
-      "forks": 683,
-      "added_stars": "2,316 stars this month"
+      "stars": 45685,
+      "forks": 8825,
+      "added_stars": "643 stars this month"
     },
     {
       "title": "vxcontrol / pentagi",
@@ -80,39 +70,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 21607,
-      "forks": 2839,
-      "added_stars": "3,577 stars this month"
-    },
-    {
-      "title": "prometheus / prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 65554,
-      "forks": 10738,
-      "added_stars": "981 stars this month"
-    },
-    {
-      "title": "pocketbase / pocketbase",
-      "url": "https://github.com/pocketbase/pocketbase",
-      "description": "Open Source realtime backend in 1 file",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 60456,
-      "forks": 3624,
-      "added_stars": "1,143 stars this month"
-    },
-    {
-      "title": "yorukot / superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22239,
-      "forks": 804,
-      "added_stars": "4,084 stars this month"
+      "stars": 21653,
+      "forks": 2852,
+      "added_stars": "3,613 stars this month"
     },
     {
       "title": "pocket-id / pocket-id",
@@ -120,19 +80,29 @@
       "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8701,
+      "stars": 8713,
       "forks": 284,
-      "added_stars": "465 stars this month"
+      "added_stars": "474 stars this month"
     },
     {
-      "title": "schollz / croc",
-      "url": "https://github.com/schollz/croc",
-      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "title": "pocketbase / pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39332,
-      "forks": 1559,
-      "added_stars": "4,013 stars this month"
+      "stars": 60487,
+      "forks": 3625,
+      "added_stars": "1,144 stars this month"
+    },
+    {
+      "title": "yorukot / superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 22292,
+      "forks": 806,
+      "added_stars": "4,095 stars this month"
     },
     {
       "title": "projectdiscovery / nuclei",
@@ -140,9 +110,29 @@
       "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30303,
-      "forks": 3779,
-      "added_stars": "989 stars this month"
+      "stars": 30326,
+      "forks": 3780,
+      "added_stars": "1,002 stars this month"
+    },
+    {
+      "title": "schollz / croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 39392,
+      "forks": 1561,
+      "added_stars": "4,044 stars this month"
+    },
+    {
+      "title": "prometheus / prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 65600,
+      "forks": 10739,
+      "added_stars": "1,014 stars this month"
     },
     {
       "title": "hashicorp / terraform",
@@ -150,19 +140,9 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 49406,
-      "forks": 10594,
-      "added_stars": "957 stars this month"
-    },
-    {
-      "title": "gosom / google-maps-scraper",
-      "url": "https://github.com/gosom/google-maps-scraper",
-      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5416,
-      "forks": 845,
-      "added_stars": "785 stars this month"
+      "stars": 49417,
+      "forks": 10603,
+      "added_stars": "961 stars this month"
     },
     {
       "title": "golang / go",
@@ -170,9 +150,9 @@
       "description": "The Go programming language",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 135605,
-      "forks": 19244,
-      "added_stars": "1,361 stars this month"
+      "stars": 135646,
+      "forks": 19245,
+      "added_stars": "1,385 stars this month"
     },
     {
       "title": "sundowndev / phoneinfoga",
@@ -180,39 +160,9 @@
       "description": "Information gathering framework for phone numbers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 17318,
-      "forks": 5283,
-      "added_stars": "562 stars this month"
-    },
-    {
-      "title": "moby / moby",
-      "url": "https://github.com/moby/moby",
-      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 71975,
-      "forks": 19156,
-      "added_stars": "354 stars this month"
-    },
-    {
-      "title": "fatedier / frp",
-      "url": "https://github.com/fatedier/frp",
-      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 108564,
-      "forks": 15162,
-      "added_stars": "942 stars this month"
-    },
-    {
-      "title": "ethereum / go-ethereum",
-      "url": "https://github.com/ethereum/go-ethereum",
-      "description": "Go implementation of the Ethereum protocol",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 51264,
-      "forks": 22092,
-      "added_stars": "326 stars this month"
+      "stars": 17355,
+      "forks": 5355,
+      "added_stars": "593 stars this month"
     },
     {
       "title": "rclone / rclone",
@@ -220,19 +170,69 @@
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 58942,
-      "forks": 5285,
-      "added_stars": "852 stars this month"
+      "stars": 58965,
+      "forks": 5289,
+      "added_stars": "863 stars this month"
     },
     {
-      "title": "entireio / cli",
-      "url": "https://github.com/entireio/cli",
-      "description": "📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.",
+      "title": "moby / moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4902,
-      "forks": 379,
-      "added_stars": "318 stars this month"
+      "stars": 72008,
+      "forks": 19156,
+      "added_stars": "349 stars this month"
+    },
+    {
+      "title": "helm / helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 30108,
+      "forks": 7743,
+      "added_stars": "184 stars this month"
+    },
+    {
+      "title": "fatedier / frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 108586,
+      "forks": 15164,
+      "added_stars": "951 stars this month"
+    },
+    {
+      "title": "zitadel / zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14652,
+      "forks": 1212,
+      "added_stars": "379 stars this month"
+    },
+    {
+      "title": "gosom / google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5432,
+      "forks": 846,
+      "added_stars": "784 stars this month"
+    },
+    {
+      "title": "kunchenguid / no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7423,
+      "forks": 692,
+      "added_stars": "2,249 stars this month"
     }
   ]
 }

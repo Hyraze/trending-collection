@@ -4,12 +4,7 @@
   <title>GitHub Kotlin Languages Daily Trending</title>
   <description>Daily Trending of Kotlin Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
-  <item>
-    <title>JetBrains / kotlin</title>
-    <link>https://github.com/JetBrains/kotlin</link>
-    <description>The Kotlin Programming Language.</description>
-  </item>
+  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
   <item>
     <title>embabel / embabel-agent</title>
     <link>https://github.com/embabel/embabel-agent</link>
@@ -21,29 +16,44 @@
     <description>Legado 3.0 Book Reader with powerful controls</description>
   </item>
   <item>
-    <title>jay3-yy / BiliPai</title>
-    <link>https://github.com/jay3-yy/BiliPai</link>
-    <description>原生、纯净、可扩展 —— 重新定义你的 B 站体验</description>
+    <title>cwuom / NeriPlayer</title>
+    <link>https://github.com/cwuom/NeriPlayer</link>
+    <description>A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵</description>
   </item>
   <item>
-    <title>thejaustin / ShizukuPlus</title>
-    <link>https://github.com/thejaustin/ShizukuPlus</link>
-    <description>[ HOBBY PROJECT ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [WIP - Development slowed due to new job]</description>
+    <title>JingMatrix / Vector</title>
+    <link>https://github.com/JingMatrix/Vector</link>
+    <description>Modern Xposed Framework</description>
   </item>
   <item>
-    <title>Arturo254 / OpenTune</title>
-    <link>https://github.com/Arturo254/OpenTune</link>
-    <description>Un cliente de YouTube Music con Material Design 3, para Android</description>
+    <title>thunderbird / thunderbird-android</title>
+    <link>https://github.com/thunderbird/thunderbird-android</link>
+    <description>Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)</description>
   </item>
   <item>
-    <title>andreknieriem / open-headunit</title>
-    <link>https://github.com/andreknieriem/open-headunit</link>
-    <description>Headunit App for displaying Android Auto</description>
+    <title>Ujhhgtg / WeKit</title>
+    <link>https://github.com/Ujhhgtg/WeKit</link>
+    <description>WeChat, now with superpowers</description>
   </item>
   <item>
-    <title>dmzz-yyhyy / LightNovelReader</title>
-    <link>https://github.com/dmzz-yyhyy/LightNovelReader</link>
-    <description>一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。</description>
+    <title>JetBrains / kotlin</title>
+    <link>https://github.com/JetBrains/kotlin</link>
+    <description>The Kotlin Programming Language.</description>
+  </item>
+  <item>
+    <title>mpv-android / mpv-android</title>
+    <link>https://github.com/mpv-android/mpv-android</link>
+    <description>Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat</description>
+  </item>
+  <item>
+    <title>android / compose-samples</title>
+    <link>https://github.com/android/compose-samples</link>
+    <description>Official Jetpack Compose samples.</description>
+  </item>
+  <item>
+    <title>recloudstream / cloudstream</title>
+    <link>https://github.com/recloudstream/cloudstream</link>
+    <description>Android app for streaming and downloading media.</description>
   </item>
   <item>
     <title>mihonapp / mihon</title>
@@ -51,34 +61,34 @@
     <description>Free and open source manga reader for Android</description>
   </item>
   <item>
-    <title>cat3399 / blbl</title>
-    <link>https://github.com/cat3399/blbl</link>
-    <description>一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5</description>
+    <title>bitwarden / android</title>
+    <link>https://github.com/bitwarden/android</link>
+    <description>Bitwarden mobile apps (Password Manager and Authenticator) for Android.</description>
+  </item>
+  <item>
+    <title>Arturo254 / OpenTune</title>
+    <link>https://github.com/Arturo254/OpenTune</link>
+    <description>Un cliente de YouTube Music con Material Design 3, para Android</description>
+  </item>
+  <item>
+    <title>prof18 / feed-flow</title>
+    <link>https://github.com/prof18/feed-flow</link>
+    <description>FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.</description>
+  </item>
+  <item>
+    <title>signalapp / Signal-Android</title>
+    <link>https://github.com/signalapp/Signal-Android</link>
+    <description>A private messenger for Android.</description>
+  </item>
+  <item>
+    <title>aws / aws-sdk-kotlin</title>
+    <link>https://github.com/aws/aws-sdk-kotlin</link>
+    <description>Multiplatform AWS SDK for Kotlin</description>
   </item>
   <item>
     <title>element-hq / element-x-android</title>
     <link>https://github.com/element-hq/element-x-android</link>
     <description>Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose</description>
-  </item>
-  <item>
-    <title>maxrave-dev / SimpMusic</title>
-    <link>https://github.com/maxrave-dev/SimpMusic</link>
-    <description>A cross-platform music app using YouTube Music for backend</description>
-  </item>
-  <item>
-    <title>woocommerce / woocommerce-android</title>
-    <link>https://github.com/woocommerce/woocommerce-android</link>
-    <description>WooCommerce Android app</description>
-  </item>
-  <item>
-    <title>getsentry / sentry-java</title>
-    <link>https://github.com/getsentry/sentry-java</link>
-    <description>A Sentry SDK for Java, Android and other JVM languages.</description>
-  </item>
-  <item>
-    <title>ZalithLauncher / ZalithLauncher2</title>
-    <link>https://github.com/ZalithLauncher/ZalithLauncher2</link>
-    <description>A Minecraft: Java Edition Launcher for Android</description>
   </item>
 </channel>
 </rss>

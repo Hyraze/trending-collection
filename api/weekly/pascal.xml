@@ -4,7 +4,12 @@
   <title>GitHub Pascal Languages Daily Trending</title>
   <description>Daily Trending of Pascal Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <item>
+    <title>doublecmd / doublecmd</title>
+    <link>https://github.com/doublecmd/doublecmd</link>
+    <description>Double Commander is a free cross platform open source file manager with two panels side by side.</description>
+  </item>
   <item>
     <title>stascorp / rdpwrap</title>
     <link>https://github.com/stascorp/rdpwrap</link>
@@ -16,24 +21,19 @@
     <description>Cheat Engine. A development environment focused on modding</description>
   </item>
   <item>
-    <title>doublecmd / doublecmd</title>
-    <link>https://github.com/doublecmd/doublecmd</link>
-    <description>Double Commander is a free cross platform open source file manager with two panels side by side.</description>
-  </item>
-  <item>
     <title>Embarcadero / Dev-Cpp</title>
     <link>https://github.com/Embarcadero/Dev-Cpp</link>
     <description>A fast, portable, simple, and free C/C++ IDE</description>
   </item>
   <item>
-    <title>benjamimgois / goverlay</title>
-    <link>https://github.com/benjamimgois/goverlay</link>
-    <description>Goverlay is an easy graphical interface to configure linux gaming applications</description>
-  </item>
-  <item>
     <title>HeidiSQL / HeidiSQL</title>
     <link>https://github.com/HeidiSQL/HeidiSQL</link>
     <description>A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal</description>
+  </item>
+  <item>
+    <title>benjamimgois / goverlay</title>
+    <link>https://github.com/benjamimgois/goverlay</link>
+    <description>Goverlay is an easy graphical interface to configure linux gaming applications</description>
   </item>
   <item>
     <title>FrankBijnen / ExifToolGui</title>
@@ -44,6 +44,11 @@
     <title>transmission-remote-gui / transgui</title>
     <link>https://github.com/transmission-remote-gui/transgui</link>
     <description>🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.</description>
+  </item>
+  <item>
+    <title>keymanapp / keyman</title>
+    <link>https://github.com/keymanapp/keyman</link>
+    <description>Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web</description>
   </item>
   <item>
     <title>UltraStar-Deluxe / USDX</title>
@@ -71,19 +76,14 @@
     <description>Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.</description>
   </item>
   <item>
-    <title>keymanapp / keyman</title>
-    <link>https://github.com/keymanapp/keyman</link>
-    <description>Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web</description>
+    <title>lmbelo / pyscripter</title>
+    <link>https://github.com/lmbelo/pyscripter</link>
+    <description>Pyscripter is a feature-rich but lightweight Python IDE</description>
   </item>
   <item>
     <title>Runixe786 / MD3-Windows</title>
     <link>https://github.com/Runixe786/MD3-Windows</link>
     <description>Material you widgets for your windows desktop, adaptable with wallpaper colors with both light &amp; dark modes</description>
-  </item>
-  <item>
-    <title>lmbelo / pyscripter</title>
-    <link>https://github.com/lmbelo/pyscripter</link>
-    <description>Pyscripter is a feature-rich but lightweight Python IDE</description>
   </item>
   <item>
     <title>nodemcu / nodemcu-flasher</title>

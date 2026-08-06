@@ -2,7 +2,7 @@
   "title": "GitHub Handlebars Languages Daily Trending",
   "description": "Daily Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "elastic / integrations",
@@ -15,24 +15,24 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "wet-boew / wet-boew",
+      "url": "https://github.com/wet-boew/wet-boew",
+      "description": "Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.",
+      "language": "Handlebars",
+      "languageColor": "#f7931e",
+      "stars": 1732,
+      "forks": 658,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "rust-lang / rust-by-example",
       "url": "https://github.com/rust-lang/rust-by-example",
       "description": "Learn Rust with examples (Live code editor included)",
       "language": "Handlebars",
       "languageColor": "#f7931e",
-      "stars": 8064,
+      "stars": 8066,
       "forks": 1565,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "huggingface / hub-docs",
-      "url": "https://github.com/huggingface/hub-docs",
-      "description": "Docs of the Hugging Face Hub",
-      "language": "Handlebars",
-      "languageColor": "#f7931e",
-      "stars": 580,
-      "forks": 478,
-      "added_stars": "0 stars today"
+      "added_stars": "2 stars today"
     }
   ]
 }

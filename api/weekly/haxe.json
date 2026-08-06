@@ -2,8 +2,38 @@
   "title": "GitHub Haxe Languages Daily Trending",
   "description": "Daily Trending of Haxe Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
+    {
+      "title": "CodenameCrew / CodenameEngine",
+      "url": "https://github.com/CodenameCrew/CodenameEngine",
+      "description": "awesome fnf engine :D",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 462,
+      "forks": 350,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "FunkinCrew / Funkin",
+      "url": "https://github.com/FunkinCrew/Funkin",
+      "description": "A rhythm game made with HaxeFlixel",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 3706,
+      "forks": 2534,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "Psych-Slice / P-Slice",
+      "url": "https://github.com/Psych-Slice/P-Slice",
+      "description": "",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 164,
+      "forks": 116,
+      "added_stars": "2 stars this week"
+    },
     {
       "title": "beihu235 / Psych-Engine-0.71h-android",
       "url": "https://github.com/beihu235/Psych-Engine-0.71h-android",
@@ -15,26 +45,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Psych-Slice / P-Slice",
-      "url": "https://github.com/Psych-Slice/P-Slice",
-      "description": "",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 164,
-      "forks": 116,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "FunkinCrew / Funkin",
-      "url": "https://github.com/FunkinCrew/Funkin",
-      "description": "A rhythm game made with HaxeFlixel",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 3702,
-      "forks": 2532,
-      "added_stars": "11 stars this week"
-    },
-    {
       "title": "HaxeFoundation / haxe",
       "url": "https://github.com/HaxeFoundation/haxe",
       "description": "Haxe - The Cross-Platform Toolkit",
@@ -42,17 +52,7 @@
       "languageColor": "#df7900",
       "stars": 6904,
       "forks": 704,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "CodenameCrew / CodenameEngine",
-      "url": "https://github.com/CodenameCrew/CodenameEngine",
-      "description": "awesome fnf engine :D",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 461,
-      "forks": 351,
-      "added_stars": "2 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
       "title": "Snirozu / Funkin-Psych-Online",
@@ -63,16 +63,6 @@
       "stars": 100,
       "forks": 85,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "deepnight / ldtk",
-      "url": "https://github.com/deepnight/ldtk",
-      "description": "Modern, lightweight and efficient 2D level editor",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 4145,
-      "forks": 262,
-      "added_stars": "8 stars this week"
     }
   ]
 }

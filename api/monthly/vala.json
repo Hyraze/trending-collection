@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "kem-a / AppManager",
@@ -10,19 +10,9 @@
       "description": "MacOS style AppImage installer and management application",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1268,
+      "stars": 1303,
       "forks": 27,
-      "added_stars": "314 stars this month"
-    },
-    {
-      "title": "tkashkin / GameHub",
-      "url": "https://github.com/tkashkin/GameHub",
-      "description": "All your games in one place",
-      "language": "Vala",
-      "languageColor": "#a56de2",
-      "stars": 2821,
-      "forks": 206,
-      "added_stars": "29 stars this month"
+      "added_stars": "340 stars this month"
     },
     {
       "title": "Vysp3r / ProtonPlus",
@@ -30,9 +20,19 @@
       "description": "A modern compatibility tools manager",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1652,
+      "stars": 1654,
       "forks": 50,
       "added_stars": "85 stars this month"
+    },
+    {
+      "title": "tkashkin / GameHub",
+      "url": "https://github.com/tkashkin/GameHub",
+      "description": "All your games in one place",
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 2822,
+      "forks": 206,
+      "added_stars": "27 stars this month"
     },
     {
       "title": "BuddiesOfBudgie / budgie-desktop",
@@ -50,9 +50,9 @@
       "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 4213,
+      "stars": 4215,
       "forks": 151,
-      "added_stars": "63 stars this month"
+      "added_stars": "65 stars this month"
     },
     {
       "title": "christianloopp / komorebi",
@@ -72,7 +72,7 @@
       "languageColor": "#a56de2",
       "stars": 2551,
       "forks": 98,
-      "added_stars": "52 stars this month"
+      "added_stars": "51 stars this month"
     }
   ]
 }

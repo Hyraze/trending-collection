@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "mattpocock / skills",
@@ -10,9 +10,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 203622,
-      "forks": 17580,
-      "added_stars": "47,717 stars this month"
+      "stars": 205340,
+      "forks": 17738,
+      "added_stars": "48,530 stars this month"
     },
     {
       "title": "cloudflare / skills",
@@ -20,19 +20,19 @@
       "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2546,
-      "forks": 239,
-      "added_stars": "503 stars this month"
+      "stars": 2558,
+      "forks": 240,
+      "added_stars": "508 stars this month"
     },
     {
-      "title": "pystardust / ani-cli",
-      "url": "https://github.com/pystardust/ani-cli",
-      "description": "A cli tool to browse and play anime",
+      "title": "tw93 / Mole",
+      "url": "https://github.com/tw93/Mole",
+      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 13432,
-      "forks": 851,
-      "added_stars": "458 stars this month"
+      "stars": 62178,
+      "forks": 2193,
+      "added_stars": "4,308 stars this month"
     },
     {
       "title": "nvm-sh / nvm",
@@ -40,9 +40,69 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 94337,
-      "forks": 10311,
-      "added_stars": "466 stars this month"
+      "stars": 94347,
+      "forks": 10315,
+      "added_stars": "468 stars this month"
+    },
+    {
+      "title": "jqssun / android-titanium-browser",
+      "url": "https://github.com/jqssun/android-titanium-browser",
+      "description": "Secure open-source Android browser with support for extensions",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1887,
+      "forks": 69,
+      "added_stars": "530 stars this month"
+    },
+    {
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 24316,
+      "forks": 2442,
+      "added_stars": "574 stars this month"
+    },
+    {
+      "title": "ohmyzsh / ohmyzsh",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 189058,
+      "forks": 26572,
+      "added_stars": "1,100 stars this month"
+    },
+    {
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 267467,
+      "forks": 23899,
+      "added_stars": "21,920 stars this month"
+    },
+    {
+      "title": "themactep / thingino-firmware",
+      "url": "https://github.com/themactep/thingino-firmware",
+      "description": "Open-source firmware for Ingenic SoC IP cameras",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1987,
+      "forks": 283,
+      "added_stars": "216 stars this month"
+    },
+    {
+      "title": "termux / termux-packages",
+      "url": "https://github.com/termux/termux-packages",
+      "description": "A package build system for Termux.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 16729,
+      "forks": 4278,
+      "added_stars": "223 stars this month"
     },
     {
       "title": "fujibee / agmsg",
@@ -52,87 +112,17 @@
       "languageColor": "#89e051",
       "stars": 1401,
       "forks": 129,
-      "added_stars": "462 stars this month"
+      "added_stars": "455 stars this month"
     },
     {
-      "title": "jqssun / android-titanium-browser",
-      "url": "https://github.com/jqssun/android-titanium-browser",
-      "description": "Secure open-source Android browser with support for extensions",
+      "title": "Astrosp / Awesome-OSINT-List",
+      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
+      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1874,
-      "forks": 68,
-      "added_stars": "532 stars this month"
-    },
-    {
-      "title": "ohmyzsh / ohmyzsh",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 189012,
-      "forks": 26576,
-      "added_stars": "1,090 stars this month"
-    },
-    {
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 266649,
-      "forks": 23837,
-      "added_stars": "21,723 stars this month"
-    },
-    {
-      "title": "themactep / thingino-firmware",
-      "url": "https://github.com/themactep/thingino-firmware",
-      "description": "Open-source firmware for Ingenic SoC IP cameras",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1975,
-      "forks": 282,
-      "added_stars": "207 stars this month"
-    },
-    {
-      "title": "tw93 / Mole",
-      "url": "https://github.com/tw93/Mole",
-      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 61996,
-      "forks": 2183,
-      "added_stars": "4,200 stars this month"
-    },
-    {
-      "title": "basecamp / omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 24304,
-      "forks": 2438,
-      "added_stars": "566 stars this month"
-    },
-    {
-      "title": "termux / termux-packages",
-      "url": "https://github.com/termux/termux-packages",
-      "description": "A package build system for Termux.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 16725,
-      "forks": 4271,
-      "added_stars": "219 stars this month"
-    },
-    {
-      "title": "assafdori / bypass-mdm",
-      "url": "https://github.com/assafdori/bypass-mdm",
-      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 2045,
-      "forks": 487,
-      "added_stars": "158 stars this month"
+      "stars": 4111,
+      "forks": 538,
+      "added_stars": "463 stars this month"
     },
     {
       "title": "ophub / amlogic-s9xxx-armbian",
@@ -140,9 +130,9 @@
       "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9565,
-      "forks": 3075,
-      "added_stars": "198 stars this month"
+      "stars": 9569,
+      "forks": 3074,
+      "added_stars": "197 stars this month"
     }
   ]
 }

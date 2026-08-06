@@ -2,17 +2,17 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
-      "title": "metabase / metabase",
-      "url": "https://github.com/metabase/metabase",
-      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+      "title": "unclebob / swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 48533,
-      "forks": 6709,
-      "added_stars": "22 stars today"
+      "stars": 1602,
+      "forks": 172,
+      "added_stars": "66 stars today"
     },
     {
       "title": "logseq / logseq",
@@ -20,19 +20,29 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 44276,
-      "forks": 2747,
-      "added_stars": "35 stars today"
+      "stars": 44297,
+      "forks": 2752,
+      "added_stars": "19 stars today"
     },
     {
-      "title": "tonsky / FiraCode",
-      "url": "https://github.com/tonsky/FiraCode",
-      "description": "Free monospaced font with programming ligatures",
+      "title": "metabase / metabase",
+      "url": "https://github.com/metabase/metabase",
+      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 81890,
-      "forks": 3189,
-      "added_stars": "5 stars today"
+      "stars": 48553,
+      "forks": 6717,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "status-im / status-legacy",
+      "url": "https://github.com/status-im/status-legacy",
+      "description": "a free (libre) open source, mobile OS for Ethereum",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 4020,
+      "forks": 990,
+      "added_stars": "1 star today"
     },
     {
       "title": "cognitect-labs / test-runner",
@@ -45,14 +55,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "status-im / status-legacy",
-      "url": "https://github.com/status-im/status-legacy",
-      "description": "a free (libre) open source, mobile OS for Ethereum",
+      "title": "tonsky / FiraCode",
+      "url": "https://github.com/tonsky/FiraCode",
+      "description": "Free monospaced font with programming ligatures",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 4019,
-      "forks": 990,
-      "added_stars": "0 stars today"
+      "stars": 81895,
+      "forks": 3189,
+      "added_stars": "7 stars today"
     }
   ]
 }

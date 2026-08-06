@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "obra / superpowers",
@@ -10,39 +10,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 266648,
-      "forks": 23837,
-      "added_stars": "653 stars today"
-    },
-    {
-      "title": "tw93 / Mole",
-      "url": "https://github.com/tw93/Mole",
-      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 61996,
-      "forks": 2183,
-      "added_stars": "316 stars today"
-    },
-    {
-      "title": "ohmyzsh / ohmyzsh",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 189012,
-      "forks": 26576,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "Astrosp / Awesome-OSINT-List",
-      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
-      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 4048,
-      "forks": 524,
-      "added_stars": "32 stars today"
+      "stars": 267462,
+      "forks": 23898,
+      "added_stars": "931 stars today"
     },
     {
       "title": "mattpocock / skills",
@@ -50,9 +20,39 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 203616,
-      "forks": 17580,
-      "added_stars": "1,838 stars today"
+      "stars": 205337,
+      "forks": 17738,
+      "added_stars": "1,695 stars today"
+    },
+    {
+      "title": "tw93 / Mole",
+      "url": "https://github.com/tw93/Mole",
+      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 62176,
+      "forks": 2193,
+      "added_stars": "229 stars today"
+    },
+    {
+      "title": "pgsty / pigsty",
+      "url": "https://github.com/pgsty/pigsty",
+      "description": "Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 500+ PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 5480,
+      "forks": 373,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "Astrosp / Awesome-OSINT-List",
+      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
+      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4110,
+      "forks": 538,
+      "added_stars": "71 stars today"
     },
     {
       "title": "openshift / release",
@@ -62,107 +62,7 @@
       "languageColor": "#89e051",
       "stars": 325,
       "forks": 2312,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "SimoneAvogadro / android-reverse-engineering-skill",
-      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-      "description": "Claude Code skill to support Android app's reverse engineering",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 6687,
-      "forks": 735,
-      "added_stars": "34 stars today"
-    },
-    {
-      "title": "eugr / spark-vllm-docker",
-      "url": "https://github.com/eugr/spark-vllm-docker",
-      "description": "Docker configuration for running VLLM on dual DGX Sparks",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1954,
-      "forks": 352,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "acmesh-official / acme.sh",
-      "url": "https://github.com/acmesh-official/acme.sh",
-      "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 47393,
-      "forks": 5653,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "youngyangyang04 / leetcode-master",
-      "url": "https://github.com/youngyangyang04/leetcode-master",
-      "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 62097,
-      "forks": 12313,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "google / oss-fuzz",
-      "url": "https://github.com/google/oss-fuzz",
-      "description": "OSS-Fuzz - continuous fuzzing for open source software.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 12493,
-      "forks": 2839,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "longhorn / longhorn",
-      "url": "https://github.com/longhorn/longhorn",
-      "description": "Cloud-Native distributed storage built on and for Kubernetes",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 7905,
-      "forks": 725,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "super-linter / super-linter",
-      "url": "https://github.com/super-linter/super-linter",
-      "description": "Combination of multiple linters to run as a GitHub Action or standalone",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 10535,
-      "forks": 1074,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "nvm-sh / nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 94337,
-      "forks": 10311,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "github / copilot-cli",
-      "url": "https://github.com/github/copilot-cli",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11056,
-      "forks": 1865,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "marcusquinn / aidevops",
-      "url": "https://github.com/marcusquinn/aidevops",
-      "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 363,
-      "forks": 59,
-      "added_stars": "8 stars today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "Donchitos / Claude-Code-Game-Studios",
@@ -170,29 +70,49 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 23609,
-      "forks": 3381,
-      "added_stars": "35 stars today"
+      "stars": 23640,
+      "forks": 3382,
+      "added_stars": "28 stars today"
     },
     {
-      "title": "orbstack / orbstack",
-      "url": "https://github.com/orbstack/orbstack",
-      "description": "Fast, light, simple Docker containers & Linux machines",
+      "title": "SimoneAvogadro / android-reverse-engineering-skill",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9135,
-      "forks": 96,
-      "added_stars": "7 stars today"
+      "stars": 6694,
+      "forks": 735,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "a2aproject / A2A",
-      "url": "https://github.com/a2aproject/A2A",
-      "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 25193,
-      "forks": 2550,
+      "stars": 94347,
+      "forks": 10315,
       "added_stars": "18 stars today"
+    },
+    {
+      "title": "cloudflare / skills",
+      "url": "https://github.com/cloudflare/skills",
+      "description": "Skills for teaching agents how to build on Cloudflare.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2558,
+      "forks": 240,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "docker-library / official-images",
+      "url": "https://github.com/docker-library/official-images",
+      "description": "Primary source of truth for the Docker \"Official Images\" program",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 6988,
+      "forks": 2526,
+      "added_stars": "1 star today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Rescript Languages Daily Trending",
   "description": "Daily Trending of Rescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 03 Aug 2026 05:38:44 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "juspay / hyperswitch-control-center",
@@ -12,6 +12,16 @@
       "languageColor": "#ed5051",
       "stars": 85,
       "forks": 102,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "enviodev / hyperindex",
+      "url": "https://github.com/enviodev/hyperindex",
+      "description": "🚢 Ultra-Fast Multichain Indexer",
+      "language": "ReScript",
+      "languageColor": "#ed5051",
+      "stars": 540,
+      "forks": 54,
       "added_stars": "1 star this week"
     }
   ]

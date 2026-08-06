@@ -2,8 +2,18 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
+    {
+      "title": "satijalab / seurat",
+      "url": "https://github.com/satijalab/seurat",
+      "description": "R toolkit for single cell genomics",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 2783,
+      "forks": 995,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "tidyverse / dplyr",
       "url": "https://github.com/tidyverse/dplyr",
@@ -11,17 +21,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 5054,
-      "forks": 2124,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Rdatatable / data.table",
-      "url": "https://github.com/Rdatatable/data.table",
-      "description": "R's data.table package extends data.frame:",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 3904,
-      "forks": 1050,
+      "forks": 2123,
       "added_stars": "0 stars today"
     },
     {
@@ -30,28 +30,8 @@
       "description": "An implementation of the Grammar of Graphics in R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 6982,
+      "stars": 6981,
       "forks": 2129,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "rstudio / shiny",
-      "url": "https://github.com/rstudio/shiny",
-      "description": "Easy interactive web applications with R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5673,
-      "forks": 1889,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "satijalab / seurat",
-      "url": "https://github.com/satijalab/seurat",
-      "description": "R toolkit for single cell genomics",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 2783,
-      "forks": 994,
       "added_stars": "0 stars today"
     },
     {
@@ -65,24 +45,34 @@
       "added_stars": "1 star today"
     },
     {
+      "title": "rstudio / shiny",
+      "url": "https://github.com/rstudio/shiny",
+      "description": "Easy interactive web applications with R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5673,
+      "forks": 1889,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "hadley / r4ds",
       "url": "https://github.com/hadley/r4ds",
       "description": "R for data science: a book",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5128,
+      "stars": 5127,
       "forks": 4435,
-      "added_stars": "2 stars today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "rdpeng / ProgrammingAssignment2",
-      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
-      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+      "title": "swirldev / swirl_courses",
+      "url": "https://github.com/swirldev/swirl_courses",
+      "description": "🎓 A collection of interactive courses for the swirl R package.",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 890,
-      "forks": 143397,
-      "added_stars": "0 stars today"
+      "stars": 4574,
+      "forks": 7201,
+      "added_stars": "1 star today"
     },
     {
       "title": "r-spatial / sf",
@@ -93,6 +83,26 @@
       "stars": 1441,
       "forks": 302,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "stan-dev / cmdstanr",
+      "url": "https://github.com/stan-dev/cmdstanr",
+      "description": "CmdStanR: the R interface to CmdStan",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 158,
+      "forks": 68,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "posit-dev / skills",
+      "url": "https://github.com/posit-dev/skills",
+      "description": "A collection of Claude Skills from Posit",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 458,
+      "forks": 37,
+      "added_stars": "3 stars today"
     }
   ]
 }

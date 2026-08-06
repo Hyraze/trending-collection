@@ -2,17 +2,27 @@
   "title": "GitHub Adblock-filter-list Languages Daily Trending",
   "description": "Daily Trending of Adblock-filter-list Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
+    {
+      "title": "AdguardTeam / AdguardFilters",
+      "url": "https://github.com/AdguardTeam/AdguardFilters",
+      "description": "AdGuard Content Blocking Filters",
+      "language": "Adblock Filter List",
+      "languageColor": "#800000",
+      "stars": 4437,
+      "forks": 820,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "AdguardTeam / AdGuardSDNSFilter",
       "url": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
       "description": "AdGuard DNS filter",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 1325,
+      "stars": 1326,
       "forks": 183,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     }
   ]
 }

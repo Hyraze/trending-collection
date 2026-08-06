@@ -4,7 +4,7 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>zhaoxuya520 / reverse-skill</title>
     <link>https://github.com/zhaoxuya520/reverse-skill</link>
@@ -16,9 +16,19 @@
     <description>12 Weeks, 24 Lessons, AI for All!</description>
   </item>
   <item>
+    <title>lyogavin / airllm</title>
+    <link>https://github.com/lyogavin/airllm</link>
+    <description>AirLLM 70B inference with single 4GB GPU</description>
+  </item>
+  <item>
     <title>block / buzz</title>
     <link>https://github.com/block/buzz</link>
     <description>A hive mind communication platform</description>
+  </item>
+  <item>
+    <title>TencentCloud / TencentDB-Agent-Memory</title>
+    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
+    <description>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
   </item>
   <item>
     <title>virgiliojr94 / book-to-skill</title>
@@ -36,9 +46,14 @@
     <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
   </item>
   <item>
-    <title>lyogavin / airllm</title>
-    <link>https://github.com/lyogavin/airllm</link>
-    <description>AirLLM 70B inference with single 4GB GPU</description>
+    <title>esengine / DeepSeek-Reasonix</title>
+    <link>https://github.com/esengine/DeepSeek-Reasonix</link>
+    <description>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
+  </item>
+  <item>
+    <title>woosal1337 / blog</title>
+    <link>https://github.com/woosal1337/blog</link>
+    <description>My blog website.</description>
   </item>
   <item>
     <title>1jehuang / jcode</title>
@@ -46,29 +61,9 @@
     <description>The most RAM efficient harness</description>
   </item>
   <item>
-    <title>TencentCloud / TencentDB-Agent-Memory</title>
-    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
-    <description>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
-  </item>
-  <item>
-    <title>opengeos / GeoLibre</title>
-    <link>https://github.com/opengeos/GeoLibre</link>
-    <description>A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.</description>
-  </item>
-  <item>
-    <title>moeru-ai / airi</title>
-    <link>https://github.com/moeru-ai/airi</link>
-    <description>💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#x27;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.</description>
-  </item>
-  <item>
-    <title>alibaba / open-code-review</title>
-    <link>https://github.com/alibaba/open-code-review</link>
-    <description>Fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
-  </item>
-  <item>
-    <title>pascalorg / editor</title>
-    <link>https://github.com/pascalorg/editor</link>
-    <description>Create and share 3D architectural projects.</description>
+    <title>DataExpert-io / data-engineer-handbook</title>
+    <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
+    <description>This is a repo with links to everything you&#x27;d ever want to learn about data engineering</description>
   </item>
   <item>
     <title>citrolabs / ego-lite</title>

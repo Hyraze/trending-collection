@@ -2,7 +2,7 @@
   "title": "GitHub Ejs Languages Daily Trending",
   "description": "Daily Trending of Ejs Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "Fechin / reference",
@@ -10,19 +10,9 @@
       "description": "⭕ Share quick reference cheat sheet for developers.",
       "language": "EJS",
       "languageColor": "#a91e50",
-      "stars": 10741,
+      "stars": 10744,
       "forks": 1315,
       "added_stars": "28 stars this week"
-    },
-    {
-      "title": "docker / multi-container-app",
-      "url": "https://github.com/docker/multi-container-app",
-      "description": "",
-      "language": "EJS",
-      "languageColor": "#a91e50",
-      "stars": 228,
-      "forks": 651,
-      "added_stars": "0 stars this week"
     },
     {
       "title": "github / haikus-for-codespaces",
@@ -31,18 +21,18 @@
       "language": "EJS",
       "languageColor": "#a91e50",
       "stars": 2829,
-      "forks": 4796,
+      "forks": 4798,
       "added_stars": "15 stars this week"
     },
     {
-      "title": "Ovi / DummyJSON",
-      "url": "https://github.com/Ovi/DummyJSON",
-      "description": "DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.",
+      "title": "docker / multi-container-app",
+      "url": "https://github.com/docker/multi-container-app",
+      "description": "",
       "language": "EJS",
       "languageColor": "#a91e50",
-      "stars": 2881,
-      "forks": 302,
-      "added_stars": "8 stars this week"
+      "stars": 228,
+      "forks": 650,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "LondheShubham153 / node-todo-cicd",
@@ -51,8 +41,18 @@
       "language": "EJS",
       "languageColor": "#a91e50",
       "stars": 278,
-      "forks": 6073,
+      "forks": 6074,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "Ovi / DummyJSON",
+      "url": "https://github.com/Ovi/DummyJSON",
+      "description": "DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.",
+      "language": "EJS",
+      "languageColor": "#a91e50",
+      "stars": 2882,
+      "forks": 302,
+      "added_stars": "7 stars this week"
     }
   ]
 }

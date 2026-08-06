@@ -2,16 +2,16 @@
   "title": "GitHub Haxe Languages Daily Trending",
   "description": "Daily Trending of Haxe Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
-      "title": "HaxeFoundation / haxe",
-      "url": "https://github.com/HaxeFoundation/haxe",
-      "description": "Haxe - The Cross-Platform Toolkit",
+      "title": "CodenameCrew / CodenameEngine",
+      "url": "https://github.com/CodenameCrew/CodenameEngine",
+      "description": "awesome fnf engine :D",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": 6904,
-      "forks": 704,
+      "stars": 462,
+      "forks": 350,
       "added_stars": "1 star today"
     },
     {
@@ -20,18 +20,28 @@
       "description": "A rhythm game made with HaxeFlixel",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": 3702,
-      "forks": 2532,
-      "added_stars": "6 stars today"
+      "stars": 3706,
+      "forks": 2534,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "CodenameCrew / CodenameEngine",
-      "url": "https://github.com/CodenameCrew/CodenameEngine",
-      "description": "awesome fnf engine :D",
+      "title": "HaxeFoundation / haxe",
+      "url": "https://github.com/HaxeFoundation/haxe",
+      "description": "Haxe - The Cross-Platform Toolkit",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": 461,
-      "forks": 351,
+      "stars": 6904,
+      "forks": 704,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Psych-Slice / P-Slice",
+      "url": "https://github.com/Psych-Slice/P-Slice",
+      "description": "",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 164,
+      "forks": 116,
       "added_stars": "0 stars today"
     }
   ]

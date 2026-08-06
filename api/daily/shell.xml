@@ -4,26 +4,11 @@
   <title>GitHub Shell Languages Daily Trending</title>
   <description>Daily Trending of Shell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
   <item>
     <title>obra / superpowers</title>
     <link>https://github.com/obra/superpowers</link>
     <description>An agentic skills framework &amp; software development methodology that works.</description>
-  </item>
-  <item>
-    <title>tw93 / Mole</title>
-    <link>https://github.com/tw93/Mole</link>
-    <description>🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.</description>
-  </item>
-  <item>
-    <title>ohmyzsh / ohmyzsh</title>
-    <link>https://github.com/ohmyzsh/ohmyzsh</link>
-    <description>🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</description>
-  </item>
-  <item>
-    <title>Astrosp / Awesome-OSINT-List</title>
-    <link>https://github.com/Astrosp/Awesome-OSINT-List</link>
-    <description>📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust &amp; safety, AI.</description>
   </item>
   <item>
     <title>mattpocock / skills</title>
@@ -31,59 +16,24 @@
     <description>Skills for Real Engineers. Straight from my .agents directory.</description>
   </item>
   <item>
+    <title>tw93 / Mole</title>
+    <link>https://github.com/tw93/Mole</link>
+    <description>🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.</description>
+  </item>
+  <item>
+    <title>pgsty / pigsty</title>
+    <link>https://github.com/pgsty/pigsty</link>
+    <description>Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 500+ PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!</description>
+  </item>
+  <item>
+    <title>Astrosp / Awesome-OSINT-List</title>
+    <link>https://github.com/Astrosp/Awesome-OSINT-List</link>
+    <description>📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust &amp; safety, AI.</description>
+  </item>
+  <item>
     <title>openshift / release</title>
     <link>https://github.com/openshift/release</link>
     <description>Release tooling for OpenShift</description>
-  </item>
-  <item>
-    <title>SimoneAvogadro / android-reverse-engineering-skill</title>
-    <link>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</link>
-    <description>Claude Code skill to support Android app&#x27;s reverse engineering</description>
-  </item>
-  <item>
-    <title>eugr / spark-vllm-docker</title>
-    <link>https://github.com/eugr/spark-vllm-docker</link>
-    <description>Docker configuration for running VLLM on dual DGX Sparks</description>
-  </item>
-  <item>
-    <title>acmesh-official / acme.sh</title>
-    <link>https://github.com/acmesh-official/acme.sh</link>
-    <description>A pure Unix shell script ACME client for SSL / TLS certificate automation</description>
-  </item>
-  <item>
-    <title>youngyangyang04 / leetcode-master</title>
-    <link>https://github.com/youngyangyang04/leetcode-master</link>
-    <description>《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</description>
-  </item>
-  <item>
-    <title>google / oss-fuzz</title>
-    <link>https://github.com/google/oss-fuzz</link>
-    <description>OSS-Fuzz - continuous fuzzing for open source software.</description>
-  </item>
-  <item>
-    <title>longhorn / longhorn</title>
-    <link>https://github.com/longhorn/longhorn</link>
-    <description>Cloud-Native distributed storage built on and for Kubernetes</description>
-  </item>
-  <item>
-    <title>super-linter / super-linter</title>
-    <link>https://github.com/super-linter/super-linter</link>
-    <description>Combination of multiple linters to run as a GitHub Action or standalone</description>
-  </item>
-  <item>
-    <title>nvm-sh / nvm</title>
-    <link>https://github.com/nvm-sh/nvm</link>
-    <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
-  </item>
-  <item>
-    <title>github / copilot-cli</title>
-    <link>https://github.com/github/copilot-cli</link>
-    <description>GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.</description>
-  </item>
-  <item>
-    <title>marcusquinn / aidevops</title>
-    <link>https://github.com/marcusquinn/aidevops</link>
-    <description>Vibe-Coding is easy. DevOps is hard. OpenCode &amp; Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI &amp; API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.</description>
   </item>
   <item>
     <title>Donchitos / Claude-Code-Game-Studios</title>
@@ -91,14 +41,24 @@
     <description>Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.</description>
   </item>
   <item>
-    <title>orbstack / orbstack</title>
-    <link>https://github.com/orbstack/orbstack</link>
-    <description>Fast, light, simple Docker containers &amp; Linux machines</description>
+    <title>SimoneAvogadro / android-reverse-engineering-skill</title>
+    <link>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</link>
+    <description>Claude Code skill to support Android app&#x27;s reverse engineering</description>
   </item>
   <item>
-    <title>a2aproject / A2A</title>
-    <link>https://github.com/a2aproject/A2A</link>
-    <description>Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.</description>
+    <title>nvm-sh / nvm</title>
+    <link>https://github.com/nvm-sh/nvm</link>
+    <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
+  </item>
+  <item>
+    <title>cloudflare / skills</title>
+    <link>https://github.com/cloudflare/skills</link>
+    <description>Skills for teaching agents how to build on Cloudflare.</description>
+  </item>
+  <item>
+    <title>docker-library / official-images</title>
+    <link>https://github.com/docker-library/official-images</link>
+    <description>Primary source of truth for the Docker &quot;Official Images&quot; program</description>
   </item>
 </channel>
 </rss>

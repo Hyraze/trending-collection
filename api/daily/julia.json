@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "JuliaLang / julia",
@@ -12,7 +12,7 @@
       "languageColor": "#a270ba",
       "stars": 48982,
       "forks": 5955,
-      "added_stars": "5 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "JuliaRegistries / General",
@@ -22,16 +22,26 @@
       "languageColor": "#a270ba",
       "stars": 723,
       "forks": 587,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "CliMA / Oceananigans.jl",
-      "url": "https://github.com/CliMA/Oceananigans.jl",
-      "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "title": "CliMA / ClimaLand.jl",
+      "url": "https://github.com/CliMA/ClimaLand.jl",
+      "description": "Modular, GPU-capable land surface model of the CliMA Earth System Model, designed for data-driven parameterizations",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 1390,
-      "forks": 288,
+      "stars": 73,
+      "forks": 23,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "CliMA / ClimaAtmos.jl",
+      "url": "https://github.com/CliMA/ClimaAtmos.jl",
+      "description": "GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 124,
+      "forks": 37,
       "added_stars": "0 stars today"
     },
     {
@@ -45,24 +55,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "CliMA / ClimaAtmos.jl",
-      "url": "https://github.com/CliMA/ClimaAtmos.jl",
-      "description": "GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning",
+      "title": "CliMA / ClimaCore.jl",
+      "url": "https://github.com/CliMA/ClimaCore.jl",
+      "description": "GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 124,
-      "forks": 37,
-      "added_stars": "1 star today"
+      "stars": 114,
+      "forks": 18,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "CliMA / ClimaLand.jl",
-      "url": "https://github.com/CliMA/ClimaLand.jl",
-      "description": "Modular, GPU-capable land surface model of the CliMA Earth System Model, designed for data-driven parameterizations",
+      "title": "CliMA / Oceananigans.jl",
+      "url": "https://github.com/CliMA/Oceananigans.jl",
+      "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 73,
-      "forks": 23,
-      "added_stars": "0 stars today"
+      "stars": 1391,
+      "forks": 288,
+      "added_stars": "1 star today"
     }
   ]
 }

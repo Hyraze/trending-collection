@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepSeek-LLM",
@@ -10,19 +10,9 @@
       "description": "DeepSeek LLM: Let there be answers",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 7199,
+      "stars": 7203,
       "forks": 1270,
-      "added_stars": "223 stars this month"
-    },
-    {
-      "title": "mindsdb / mindshub",
-      "url": "https://github.com/mindsdb/mindshub",
-      "description": "Make AI do actual work. Swap the model anytime — keep everything you've built.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 39517,
-      "forks": 6224,
-      "added_stars": "195 stars this month"
+      "added_stars": "226 stars this month"
     },
     {
       "title": "openwrt / packages",
@@ -30,29 +20,9 @@
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4572,
-      "forks": 3932,
-      "added_stars": "44 stars this month"
-    },
-    {
-      "title": "awesome-selfhosted / awesome-selfhosted-data",
-      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
-      "description": "machine-readable data for https://awesome-selfhosted.net",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1087,
-      "forks": 1229,
-      "added_stars": "55 stars this month"
-    },
-    {
-      "title": "HaveAGitGat / Tdarr",
-      "url": "https://github.com/HaveAGitGat/Tdarr",
-      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4258,
-      "forks": 120,
-      "added_stars": "73 stars this month"
+      "stars": 4573,
+      "forks": 3933,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "golang-standards / project-layout",
@@ -61,8 +31,28 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": 56402,
-      "forks": 5431,
-      "added_stars": "232 stars this month"
+      "forks": 5432,
+      "added_stars": "228 stars this month"
+    },
+    {
+      "title": "awesome-selfhosted / awesome-selfhosted-data",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
+      "description": "machine-readable data for https://awesome-selfhosted.net",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1086,
+      "forks": 1236,
+      "added_stars": "55 stars this month"
+    },
+    {
+      "title": "HaveAGitGat / Tdarr",
+      "url": "https://github.com/HaveAGitGat/Tdarr",
+      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4261,
+      "forks": 120,
+      "added_stars": "73 stars this month"
     },
     {
       "title": "ROCKNIX / distribution",
@@ -70,29 +60,9 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1470,
+      "stars": 1473,
       "forks": 323,
-      "added_stars": "82 stars this month"
-    },
-    {
-      "title": "open-telemetry / opentelemetry-proto",
-      "url": "https://github.com/open-telemetry/opentelemetry-proto",
-      "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 800,
-      "forks": 318,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "foostan / crkbd",
-      "url": "https://github.com/foostan/crkbd",
-      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 7581,
-      "forks": 1098,
-      "added_stars": "81 stars this month"
+      "added_stars": "86 stars this month"
     },
     {
       "title": "freebsd / freebsd-ports",
@@ -105,14 +75,44 @@
       "added_stars": "14 stars this month"
     },
     {
+      "title": "open-telemetry / opentelemetry-proto",
+      "url": "https://github.com/open-telemetry/opentelemetry-proto",
+      "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 801,
+      "forks": 318,
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "foostan / crkbd",
+      "url": "https://github.com/foostan/crkbd",
+      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7581,
+      "forks": 1098,
+      "added_stars": "78 stars this month"
+    },
+    {
+      "title": "PartialVolume / shredos.x86_64",
+      "url": "https://github.com/PartialVolume/shredos.x86_64",
+      "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 3100,
+      "forks": 138,
+      "added_stars": "40 stars this month"
+    },
+    {
       "title": "NetBSD / pkgsrc",
       "url": "https://github.com/NetBSD/pkgsrc",
       "description": "Automatic conversion of the NetBSD pkgsrc CVS module, use with care",
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": 396,
-      "forks": 183,
-      "added_stars": "5 stars this month"
+      "forks": 182,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "geneontology / go-ontology",
@@ -120,8 +120,8 @@
       "description": "Source ontology files for the Gene Ontology",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 250,
-      "forks": 46,
+      "stars": 251,
+      "forks": 47,
       "added_stars": "7 stars this month"
     },
     {
@@ -132,7 +132,7 @@
       "languageColor": "#427819",
       "stars": 4301,
       "forks": 992,
-      "added_stars": "36 stars this month"
+      "added_stars": "35 stars this month"
     },
     {
       "title": "Ysurac / openmptcprouter",
@@ -145,14 +145,14 @@
       "added_stars": "22 stars this month"
     },
     {
-      "title": "githubnext / agentics",
-      "url": "https://github.com/githubnext/agentics",
-      "description": "A sample pack of GitHub Agentic Workflows!",
+      "title": "LibreELEC / LibreELEC.tv",
+      "url": "https://github.com/LibreELEC/LibreELEC.tv",
+      "description": "Just enough OS for KODI",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 884,
-      "forks": 129,
-      "added_stars": "66 stars this month"
+      "stars": 2793,
+      "forks": 1193,
+      "added_stars": "21 stars this month"
     }
   ]
 }

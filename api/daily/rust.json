@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "firecrawl / pdf-inspector",
@@ -10,108 +10,18 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10306,
-      "forks": 673,
-      "added_stars": "2,540 stars today"
+      "stars": 11665,
+      "forks": 785,
+      "added_stars": "1,582 stars today"
     },
     {
-      "title": "denoland / deno",
-      "url": "https://github.com/denoland/deno",
-      "description": "A modern runtime for JavaScript and TypeScript.",
+      "title": "ovexro / dockpanel",
+      "url": "https://github.com/ovexro/dockpanel",
+      "description": "Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 108085,
-      "forks": 6306,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "rust-lang / rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 115206,
-      "forks": 15369,
-      "added_stars": "51 stars today"
-    },
-    {
-      "title": "rolldown / rolldown",
-      "url": "https://github.com/rolldown/rolldown",
-      "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13862,
-      "forks": 1004,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "n0-computer / iroh",
-      "url": "https://github.com/n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12072,
-      "forks": 718,
-      "added_stars": "34 stars today"
-    },
-    {
-      "title": "farion1231 / cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 124476,
-      "forks": 8445,
-      "added_stars": "422 stars today"
-    },
-    {
-      "title": "LargeModGames / spotatui",
-      "url": "https://github.com/LargeModGames/spotatui",
-      "description": "A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1148,
-      "forks": 228,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "FalkorDB / FalkorDB",
-      "url": "https://github.com/FalkorDB/FalkorDB",
-      "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5283,
-      "forks": 417,
-      "added_stars": "182 stars today"
-    },
-    {
-      "title": "quickwit-oss / tantivy",
-      "url": "https://github.com/quickwit-oss/tantivy",
-      "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 15648,
-      "forks": 955,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "tokio-rs / tokio",
-      "url": "https://github.com/tokio-rs/tokio",
-      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 32804,
-      "forks": 3181,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "moghtech / komodo",
-      "url": "https://github.com/moghtech/komodo",
-      "description": "🦎 a tool to build and deploy software on many servers 🦎",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 11820,
-      "forks": 372,
+      "stars": 863,
+      "forks": 134,
       "added_stars": "28 stars today"
     },
     {
@@ -120,69 +30,29 @@
       "description": "Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9216,
+      "stars": 9219,
       "forks": 810,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "qdrant / qdrant",
-      "url": "https://github.com/qdrant/qdrant",
-      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 33784,
-      "forks": 2554,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "PyO3 / pyo3",
-      "url": "https://github.com/PyO3/pyo3",
-      "description": "Rust bindings for the Python interpreter",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 15993,
-      "forks": 1002,
       "added_stars": "7 stars today"
     },
     {
-      "title": "rerun-io / rerun",
-      "url": "https://github.com/rerun-io/rerun",
-      "description": "Visualize, query, and stream to train on multimodal robotics data.",
+      "title": "farion1231 / cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11250,
-      "forks": 816,
-      "added_stars": "10 stars today"
+      "stars": 124880,
+      "forks": 8477,
+      "added_stars": "454 stars today"
     },
     {
-      "title": "rtk-ai / rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "title": "tokio-rs / tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 74761,
-      "forks": 4700,
-      "added_stars": "181 stars today"
-    },
-    {
-      "title": "rust-lang / rust-clippy",
-      "url": "https://github.com/rust-lang/rust-clippy",
-      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13427,
-      "forks": 2095,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "zellij-org / zellij",
-      "url": "https://github.com/zellij-org/zellij",
-      "description": "A terminal workspace with batteries included",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 34712,
-      "forks": 1352,
-      "added_stars": "19 stars today"
+      "stars": 32835,
+      "forks": 3182,
+      "added_stars": "39 stars today"
     },
     {
       "title": "pnpm / pnpm",
@@ -190,9 +60,19 @@
       "description": "Fast, disk space efficient package manager",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 35971,
+      "stars": 35987,
       "forks": 1617,
-      "added_stars": "15 stars today"
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "FalkorDB / FalkorDB",
+      "url": "https://github.com/FalkorDB/FalkorDB",
+      "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5350,
+      "forks": 419,
+      "added_stars": "82 stars today"
     },
     {
       "title": "katanemo / plano",
@@ -200,9 +80,109 @@
       "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6956,
-      "forks": 481,
-      "added_stars": "25 stars today"
+      "stars": 6973,
+      "forks": 483,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "yvgude / lean-ctx",
+      "url": "https://github.com/yvgude/lean-ctx",
+      "description": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3516,
+      "forks": 315,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "rust-lang / rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 115292,
+      "forks": 15374,
+      "added_stars": "96 stars today"
+    },
+    {
+      "title": "moghtech / komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 11841,
+      "forks": 373,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "astral-sh / uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 88402,
+      "forks": 3448,
+      "added_stars": "54 stars today"
+    },
+    {
+      "title": "zed-industries / zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 88103,
+      "forks": 9884,
+      "added_stars": "72 stars today"
+    },
+    {
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 104251,
+      "forks": 15755,
+      "added_stars": "268 stars today"
+    },
+    {
+      "title": "juspay / hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 43403,
+      "forks": 5006,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "pola-rs / polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 39272,
+      "forks": 2997,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "hyperium / hyper",
+      "url": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 16260,
+      "forks": 1780,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "WeaveMindAI / weft",
+      "url": "https://github.com/WeaveMindAI/weft",
+      "description": "A programming language for AI orchestrations (POC)",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1789,
+      "forks": 203,
+      "added_stars": "12 stars today"
     }
   ]
 }

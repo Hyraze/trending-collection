@@ -2,27 +2,37 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
+    {
+      "title": "google / jsonnet",
+      "url": "https://github.com/google/jsonnet",
+      "description": "Jsonnet - The data templating language",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 7548,
+      "forks": 472,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "prometheus-operator / kube-prometheus",
       "url": "https://github.com/prometheus-operator/kube-prometheus",
       "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": 7712,
+      "stars": 7715,
       "forks": 2043,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "grafana / jsonnet-libs",
-      "url": "https://github.com/grafana/jsonnet-libs",
-      "description": "Grafana Labs' Jsonnet libraries",
+      "title": "kubernetes-monitoring / kubernetes-mixin",
+      "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
+      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": 726,
-      "forks": 188,
-      "added_stars": "0 stars today"
+      "stars": 2434,
+      "forks": 640,
+      "added_stars": "1 star today"
     }
   ]
 }

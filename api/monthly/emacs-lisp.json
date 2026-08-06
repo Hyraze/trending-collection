@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "xenodium / agent-shell",
@@ -10,9 +10,9 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1696,
+      "stars": 1700,
       "forks": 212,
-      "added_stars": "215 stars this month"
+      "added_stars": "211 stars this month"
     },
     {
       "title": "dakra / ghostel",
@@ -20,9 +20,9 @@
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 830,
+      "stars": 836,
       "forks": 48,
-      "added_stars": "235 stars this month"
+      "added_stars": "228 stars this month"
     },
     {
       "title": "doomemacs / core",
@@ -30,19 +30,19 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22545,
+      "stars": 22548,
       "forks": 3160,
-      "added_stars": "174 stars this month"
+      "added_stars": "165 stars this month"
     },
     {
-      "title": "google-coral / coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2495,
-      "forks": 319,
-      "added_stars": "66 stars this month"
+      "stars": 3470,
+      "forks": 419,
+      "added_stars": "54 stars this month"
     },
     {
       "title": "syl20bnr / spacemacs",
@@ -52,17 +52,7 @@
       "languageColor": "#c065db",
       "stars": 24573,
       "forks": 4837,
-      "added_stars": "35 stars this month"
-    },
-    {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3469,
-      "forks": 419,
-      "added_stars": "56 stars this month"
+      "added_stars": "34 stars this month"
     },
     {
       "title": "emacs-mirror / emacs",
@@ -70,7 +60,7 @@
       "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5139,
+      "stars": 5141,
       "forks": 1392,
       "added_stars": "40 stars this month"
     },
@@ -81,8 +71,8 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 7185,
-      "forks": 871,
-      "added_stars": "38 stars this month"
+      "forks": 873,
+      "added_stars": "35 stars this month"
     },
     {
       "title": "melpa / melpa",
@@ -91,7 +81,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 2964,
-      "forks": 2791,
+      "forks": 2793,
       "added_stars": "12 stars this month"
     },
     {
@@ -101,8 +91,18 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 50,
-      "forks": 26,
-      "added_stars": "14 stars this month"
+      "forks": 27,
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2499,
+      "forks": 319,
+      "added_stars": "67 stars this month"
     },
     {
       "title": "flycheck / flycheck",
@@ -110,19 +110,9 @@
       "description": "On the fly syntax checking for GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2528,
+      "stars": 2530,
       "forks": 460,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "qjcg / awesome-typst",
-      "url": "https://github.com/qjcg/awesome-typst",
-      "description": "Awesome Typst Links",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3548,
-      "forks": 165,
-      "added_stars": "50 stars this month"
+      "added_stars": "12 stars this month"
     },
     {
       "title": "jrblevin / markdown-mode",
@@ -132,7 +122,27 @@
       "languageColor": "#c065db",
       "stars": 1036,
       "forks": 184,
-      "added_stars": "7 stars this month"
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "qjcg / awesome-typst",
+      "url": "https://github.com/qjcg/awesome-typst",
+      "description": "Awesome Typst Links",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3549,
+      "forks": 166,
+      "added_stars": "50 stars this month"
+    },
+    {
+      "title": "bbatsov / projectile",
+      "url": "https://github.com/bbatsov/projectile",
+      "description": "Project Interaction Library for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 4227,
+      "forks": 587,
+      "added_stars": "16 stars this month"
     },
     {
       "title": "abo-abo / hydra",
@@ -145,16 +155,6 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "manzaltu / claude-code-ide.el",
-      "url": "https://github.com/manzaltu/claude-code-ide.el",
-      "description": "Claude Code IDE integration for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1636,
-      "forks": 110,
-      "added_stars": "31 stars this month"
-    },
-    {
       "title": "dimitri / el-get",
       "url": "https://github.com/dimitri/el-get",
       "description": "Manage the external elisp bits and pieces upon which you depend!",
@@ -163,6 +163,26 @@
       "stars": 1662,
       "forks": 449,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "manzaltu / claude-code-ide.el",
+      "url": "https://github.com/manzaltu/claude-code-ide.el",
+      "description": "Claude Code IDE integration for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1636,
+      "forks": 110,
+      "added_stars": "28 stars this month"
+    },
+    {
+      "title": "abo-abo / ace-window",
+      "url": "https://github.com/abo-abo/ace-window",
+      "description": "Quickly switch windows in Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1123,
+      "forks": 95,
+      "added_stars": "5 stars this month"
     }
   ]
 }

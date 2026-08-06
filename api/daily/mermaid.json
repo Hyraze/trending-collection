@@ -2,8 +2,18 @@
   "title": "GitHub Mermaid Languages Daily Trending",
   "description": "Daily Trending of Mermaid Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
+    {
+      "title": "MicrosoftDocs / defender-docs",
+      "url": "https://github.com/MicrosoftDocs/defender-docs",
+      "description": "",
+      "language": "Mermaid",
+      "languageColor": "#ff3670",
+      "stars": 165,
+      "forks": 393,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "dotnet / EntityFramework.Docs",
       "url": "https://github.com/dotnet/EntityFramework.Docs",
@@ -11,8 +21,8 @@
       "language": "Mermaid",
       "languageColor": "#ff3670",
       "stars": 1738,
-      "forks": 1969,
-      "added_stars": "1 star today"
+      "forks": 1970,
+      "added_stars": "0 stars today"
     }
   ]
 }

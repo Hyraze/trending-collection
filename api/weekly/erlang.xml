@@ -4,16 +4,21 @@
   <title>GitHub Erlang Languages Daily Trending</title>
   <description>Daily Trending of Erlang Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <item>
+    <title>emqx / emqx</title>
+    <link>https://github.com/emqx/emqx</link>
+    <description>The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles</description>
+  </item>
   <item>
     <title>erlang / otp</title>
     <link>https://github.com/erlang/otp</link>
     <description>Erlang/OTP</description>
   </item>
   <item>
-    <title>emqx / emqx</title>
-    <link>https://github.com/emqx/emqx</link>
-    <description>The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles</description>
+    <title>WhatsApp / erlfmt</title>
+    <link>https://github.com/WhatsApp/erlfmt</link>
+    <description>An automated code formatter for Erlang</description>
   </item>
   <item>
     <title>blt / port_compiler</title>
@@ -26,49 +31,14 @@
     <description>an erlang application for consuming, producing and manipulating json. inspired by yajl</description>
   </item>
   <item>
-    <title>WhatsApp / erlfmt</title>
-    <link>https://github.com/WhatsApp/erlfmt</link>
-    <description>An automated code formatter for Erlang</description>
-  </item>
-  <item>
-    <title>ninenines / ranch</title>
-    <link>https://github.com/ninenines/ranch</link>
-    <description>Socket acceptor pool for TCP protocols.</description>
-  </item>
-  <item>
-    <title>apache / couchdb</title>
-    <link>https://github.com/apache/couchdb</link>
-    <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
-  </item>
-  <item>
-    <title>potatosalad / erlang-jose</title>
-    <link>https://github.com/potatosalad/erlang-jose</link>
-    <description>JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</description>
-  </item>
-  <item>
     <title>ninenines / cowboy</title>
     <link>https://github.com/ninenines/cowboy</link>
     <description>Small, fast, modern HTTP server for Erlang/OTP.</description>
   </item>
   <item>
-    <title>ninenines / gun</title>
-    <link>https://github.com/ninenines/gun</link>
-    <description>HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</description>
-  </item>
-  <item>
     <title>ninenines / cowlib</title>
     <link>https://github.com/ninenines/cowlib</link>
     <description>Support library for manipulating Web protocols.</description>
-  </item>
-  <item>
-    <title>erlang-lager / lager</title>
-    <link>https://github.com/erlang-lager/lager</link>
-    <description>A logging framework for Erlang/OTP</description>
-  </item>
-  <item>
-    <title>proper-testing / proper</title>
-    <link>https://github.com/proper-testing/proper</link>
-    <description>PropEr: a QuickCheck-inspired property-based testing tool for Erlang</description>
   </item>
   <item>
     <title>erlang / rebar3</title>
@@ -81,9 +51,14 @@
     <description>Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</description>
   </item>
   <item>
-    <title>eproxus / meck</title>
-    <link>https://github.com/eproxus/meck</link>
-    <description>A mocking library for Erlang</description>
+    <title>erlang-lager / lager</title>
+    <link>https://github.com/erlang-lager/lager</link>
+    <description>A logging framework for Erlang/OTP</description>
+  </item>
+  <item>
+    <title>apache / couchdb</title>
+    <link>https://github.com/apache/couchdb</link>
+    <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
   </item>
 </channel>
 </rss>

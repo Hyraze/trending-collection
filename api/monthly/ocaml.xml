@@ -4,7 +4,7 @@
   <title>GitHub Ocaml Languages Daily Trending</title>
   <description>Daily Trending of Ocaml Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>ocaml / ocaml</title>
     <link>https://github.com/ocaml/ocaml</link>
@@ -14,11 +14,6 @@
     <title>semgrep / semgrep</title>
     <link>https://github.com/semgrep/semgrep</link>
     <description>Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.</description>
-  </item>
-  <item>
-    <title>opengrep / opengrep</title>
-    <link>https://github.com/opengrep/opengrep</link>
-    <description>🔎 Static code analysis engine to find security issues in code.</description>
   </item>
   <item>
     <title>janestreet / bonsai</title>
@@ -41,19 +36,24 @@
     <description>Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.</description>
   </item>
   <item>
+    <title>opengrep / opengrep</title>
+    <link>https://github.com/opengrep/opengrep</link>
+    <description>🔎 Static code analysis engine to find security issues in code.</description>
+  </item>
+  <item>
     <title>MLstate / opalang</title>
     <link>https://github.com/MLstate/opalang</link>
     <description>The Opa Language for Web Application Development</description>
   </item>
   <item>
-    <title>bcpierce00 / unison</title>
-    <link>https://github.com/bcpierce00/unison</link>
-    <description>Unison file synchronizer</description>
-  </item>
-  <item>
     <title>AeneasVerif / aeneas</title>
     <link>https://github.com/AeneasVerif/aeneas</link>
     <description>A verification toolchain for Rust programs</description>
+  </item>
+  <item>
+    <title>facebook / infer</title>
+    <link>https://github.com/facebook/infer</link>
+    <description>A static analyzer for Java, C, C++, and Objective-C</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "virgiliojr94 / book-to-skill",
@@ -10,9 +10,9 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16524,
-      "forks": 1753,
-      "added_stars": "5,420 stars this week"
+      "stars": 17081,
+      "forks": 1817,
+      "added_stars": "4,596 stars this week"
     },
     {
       "title": "ayghri / i-have-adhd",
@@ -20,9 +20,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16864,
-      "forks": 954,
-      "added_stars": "4,389 stars this week"
+      "stars": 17350,
+      "forks": 997,
+      "added_stars": "3,874 stars this week"
     },
     {
       "title": "huggingface / speech-to-speech",
@@ -30,9 +30,9 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10984,
-      "forks": 1351,
-      "added_stars": "4,009 stars this week"
+      "stars": 11264,
+      "forks": 1392,
+      "added_stars": "3,458 stars this week"
     },
     {
       "title": "shiyu-coder / Kronos",
@@ -40,39 +40,9 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 35999,
-      "forks": 5988,
-      "added_stars": "1,244 stars this week"
-    },
-    {
-      "title": "microsoft / TRELLIS.2",
-      "url": "https://github.com/microsoft/TRELLIS.2",
-      "description": "Native and Compact Structured Latents for 3D Generation",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 10375,
-      "forks": 1241,
-      "added_stars": "1,308 stars this week"
-    },
-    {
-      "title": "microsoft / VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 51937,
-      "forks": 5748,
-      "added_stars": "1,136 stars this week"
-    },
-    {
-      "title": "andrewyng / aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 16022,
-      "forks": 1689,
-      "added_stars": "421 stars this week"
+      "stars": 36062,
+      "forks": 6000,
+      "added_stars": "1,157 stars this week"
     },
     {
       "title": "modelcontextprotocol / python-sdk",
@@ -80,59 +50,79 @@
       "description": "The official Python SDK for Model Context Protocol servers and clients",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23888,
-      "forks": 3743,
-      "added_stars": "152 stars this week"
-    },
-    {
-      "title": "arc53 / DocsGPT",
-      "url": "https://github.com/arc53/DocsGPT",
-      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 18198,
-      "forks": 2110,
-      "added_stars": "51 stars this week"
-    },
-    {
-      "title": "OWASP / CheatSheetSeries",
-      "url": "https://github.com/OWASP/CheatSheetSeries",
-      "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 32804,
-      "forks": 4568,
-      "added_stars": "114 stars this week"
-    },
-    {
-      "title": "sherlock-project / sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 88247,
-      "forks": 10363,
-      "added_stars": "1,024 stars this week"
-    },
-    {
-      "title": "neka-nat / freecad-mcp",
-      "url": "https://github.com/neka-nat/freecad-mcp",
-      "description": "FreeCAD MCP(Model Context Protocol) server",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1622,
-      "forks": 229,
+      "stars": 23902,
+      "forks": 3744,
       "added_stars": "131 stars this week"
     },
     {
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "title": "microsoft / TRELLIS.2",
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "description": "Native and Compact Structured Latents for 3D Generation",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32664,
-      "forks": 3227,
-      "added_stars": "647 stars this week"
+      "stars": 10413,
+      "forks": 1249,
+      "added_stars": "1,309 stars this week"
+    },
+    {
+      "title": "RVC-Project / Retrieval-based-Voice-Conversion-WebUI",
+      "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+      "description": "Easily train a good VC model with voice data <= 10 mins!",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 37130,
+      "forks": 5186,
+      "added_stars": "343 stars this week"
+    },
+    {
+      "title": "donnemartin / system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 361690,
+      "forks": 57658,
+      "added_stars": "1,840 stars this week"
+    },
+    {
+      "title": "paperswithbacktest / awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 12736,
+      "forks": 1549,
+      "added_stars": "2,488 stars this week"
+    },
+    {
+      "title": "huangruiteng / loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2335,
+      "forks": 173,
+      "added_stars": "1,778 stars this week"
+    },
+    {
+      "title": "deepfakes / faceswap",
+      "url": "https://github.com/deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 57250,
+      "forks": 13499,
+      "added_stars": "1,154 stars this week"
+    },
+    {
+      "title": "abus-aikorea / voice-pro",
+      "url": "https://github.com/abus-aikorea/voice-pro",
+      "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 12050,
+      "forks": 1748,
+      "added_stars": "704 stars this week"
     }
   ]
 }

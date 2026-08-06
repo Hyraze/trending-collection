@@ -2,8 +2,18 @@
   "title": "GitHub Xslt Languages Daily Trending",
   "description": "Daily Trending of Xslt Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
+    {
+      "title": "usnistgov / OSCAL",
+      "url": "https://github.com/usnistgov/OSCAL",
+      "description": "Open Security Controls Assessment Language (OSCAL)",
+      "language": "XSLT",
+      "languageColor": "#EB8CEB",
+      "stars": 936,
+      "forks": 247,
+      "added_stars": "17 stars this month"
+    },
     {
       "title": "briankavanaugh / APA-7th-Edition",
       "url": "https://github.com/briankavanaugh/APA-7th-Edition",
@@ -13,16 +23,6 @@
       "stars": 216,
       "forks": 44,
       "added_stars": "4 stars this month"
-    },
-    {
-      "title": "usnistgov / OSCAL",
-      "url": "https://github.com/usnistgov/OSCAL",
-      "description": "Open Security Controls Assessment Language (OSCAL)",
-      "language": "XSLT",
-      "languageColor": "#EB8CEB",
-      "stars": 936,
-      "forks": 247,
-      "added_stars": "16 stars this month"
     },
     {
       "title": "codingo / BibWord",
@@ -40,7 +40,7 @@
       "description": "NIST SP 800-53 content and other OSCAL content examples",
       "language": "XSLT",
       "languageColor": "#EB8CEB",
-      "stars": 459,
+      "stars": 458,
       "forks": 186,
       "added_stars": "11 stars this month"
     },
@@ -50,9 +50,9 @@
       "description": "Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)",
       "language": "XSLT",
       "languageColor": "#EB8CEB",
-      "stars": 8720,
-      "forks": 1156,
-      "added_stars": "64 stars this month"
+      "stars": 8724,
+      "forks": 1157,
+      "added_stars": "67 stars this month"
     }
   ]
 }

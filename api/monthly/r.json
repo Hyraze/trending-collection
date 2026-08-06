@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "satijalab / seurat",
@@ -11,7 +11,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 2783,
-      "forks": 994,
+      "forks": 995,
       "added_stars": "25 stars this month"
     },
     {
@@ -21,8 +21,8 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 5054,
-      "forks": 2124,
-      "added_stars": "19 stars this month"
+      "forks": 2123,
+      "added_stars": "18 stars this month"
     },
     {
       "title": "Rdatatable / data.table",
@@ -30,9 +30,9 @@
       "description": "R's data.table package extends data.frame:",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 3904,
+      "stars": 3906,
       "forks": 1050,
-      "added_stars": "11 stars this month"
+      "added_stars": "13 stars this month"
     },
     {
       "title": "tidyverse / ggplot2",
@@ -40,9 +40,19 @@
       "description": "An implementation of the Grammar of Graphics in R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 6982,
+      "stars": 6981,
       "forks": 2129,
       "added_stars": "29 stars this month"
+    },
+    {
+      "title": "hadley / r4ds",
+      "url": "https://github.com/hadley/r4ds",
+      "description": "R for data science: a book",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5127,
+      "forks": 4435,
+      "added_stars": "57 stars this month"
     },
     {
       "title": "swirldev / swirl_courses",
@@ -50,9 +60,9 @@
       "description": "🎓 A collection of interactive courses for the swirl R package.",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 4573,
-      "forks": 7200,
-      "added_stars": "9 stars this month"
+      "stars": 4574,
+      "forks": 7201,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "rstudio / shiny",
@@ -75,26 +85,6 @@
       "added_stars": "14 stars this month"
     },
     {
-      "title": "hadley / r4ds",
-      "url": "https://github.com/hadley/r4ds",
-      "description": "R for data science: a book",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5128,
-      "forks": 4435,
-      "added_stars": "57 stars this month"
-    },
-    {
-      "title": "rdpeng / ProgrammingAssignment2",
-      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
-      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 890,
-      "forks": 143397,
-      "added_stars": "2 stars this month"
-    },
-    {
       "title": "sqjin / CellChat",
       "url": "https://github.com/sqjin/CellChat",
       "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",
@@ -113,6 +103,16 @@
       "stars": 1441,
       "forks": 302,
       "added_stars": "4 stars this month"
+    },
+    {
+      "title": "rdpeng / ProgrammingAssignment2",
+      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 889,
+      "forks": 143394,
+      "added_stars": "2 stars this month"
     }
   ]
 }

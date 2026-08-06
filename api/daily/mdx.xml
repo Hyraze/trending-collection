@@ -4,36 +4,11 @@
   <title>GitHub Mdx Languages Daily Trending</title>
   <description>Daily Trending of Mdx Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
-  <item>
-    <title>getsentry / sentry-docs</title>
-    <link>https://github.com/getsentry/sentry-docs</link>
-    <description>Sentry&#x27;s documentation (and tools to build it)</description>
-  </item>
+  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
   <item>
     <title>twbs / bootstrap</title>
     <link>https://github.com/twbs/bootstrap</link>
     <description>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</description>
-  </item>
-  <item>
-    <title>prisma / web</title>
-    <link>https://github.com/prisma/web</link>
-    <description>📚 Prisma Web Monorepo</description>
-  </item>
-  <item>
-    <title>dair-ai / Prompt-Engineering-Guide</title>
-    <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
-    <description>🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.</description>
-  </item>
-  <item>
-    <title>huggingface / agents-course</title>
-    <link>https://github.com/huggingface/agents-course</link>
-    <description>This repository contains the Hugging Face Agents Course.</description>
-  </item>
-  <item>
-    <title>enactic / openarm</title>
-    <link>https://github.com/enactic/openarm</link>
-    <description>A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.</description>
   </item>
   <item>
     <title>cloudflare / cloudflare-docs</title>
@@ -41,14 +16,29 @@
     <description>Cloudflare’s documentation</description>
   </item>
   <item>
-    <title>processing / p5.js-website</title>
-    <link>https://github.com/processing/p5.js-website</link>
-    <description>New p5.js website!</description>
+    <title>getsentry / sentry-docs</title>
+    <link>https://github.com/getsentry/sentry-docs</link>
+    <description>Sentry&#x27;s documentation (and tools to build it)</description>
   </item>
   <item>
-    <title>netbirdio / docs</title>
-    <link>https://github.com/netbirdio/docs</link>
-    <description></description>
+    <title>dair-ai / Prompt-Engineering-Guide</title>
+    <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+    <description>🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.</description>
+  </item>
+  <item>
+    <title>langchain-ai / docs</title>
+    <link>https://github.com/langchain-ai/docs</link>
+    <description>Unified LangChain documentation.</description>
+  </item>
+  <item>
+    <title>wasp-lang / open-saas</title>
+    <link>https://github.com/wasp-lang/open-saas</link>
+    <description>A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.</description>
+  </item>
+  <item>
+    <title>prisma / web</title>
+    <link>https://github.com/prisma/web</link>
+    <description>📚 Prisma Web Monorepo</description>
   </item>
   <item>
     <title>withastro / docs</title>
@@ -56,24 +46,9 @@
     <description>Astro documentation</description>
   </item>
   <item>
-    <title>hunvreus / basecoat</title>
-    <link>https://github.com/hunvreus/basecoat</link>
-    <description>A components library built with Tailwind CSS that works with any web stack.</description>
-  </item>
-  <item>
-    <title>jellyfin / jellyfin.org</title>
-    <link>https://github.com/jellyfin/jellyfin.org</link>
-    <description>Jellyfin Project website, blog, and user documentation</description>
-  </item>
-  <item>
-    <title>newrelic / docs-website</title>
-    <link>https://github.com/newrelic/docs-website</link>
-    <description>Source code for @newrelic docs. We welcome pull requests and questions on our docs!</description>
-  </item>
-  <item>
-    <title>ngrok / ngrok-docs</title>
-    <link>https://github.com/ngrok/ngrok-docs</link>
-    <description>ngrok&#x27;s official documentation</description>
+    <title>langfuse / langfuse-docs</title>
+    <link>https://github.com/langfuse/langfuse-docs</link>
+    <description>🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps</description>
   </item>
   <item>
     <title>wandb / docs</title>
@@ -81,29 +56,44 @@
     <description>The product documentation for Weights &amp; Biases, published at https://docs.wandb.ai</description>
   </item>
   <item>
-    <title>JSONbored / awesome-claude</title>
-    <link>https://github.com/JSONbored/awesome-claude</link>
-    <description>HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP package.</description>
+    <title>aws-amplify / docs</title>
+    <link>https://github.com/aws-amplify/docs</link>
+    <description>AWS Amplify Framework Documentation</description>
   </item>
   <item>
-    <title>react / react-native-website</title>
-    <link>https://github.com/react/react-native-website</link>
-    <description>The React Native website and docs</description>
+    <title>ionic-team / capacitor-docs</title>
+    <link>https://github.com/ionic-team/capacitor-docs</link>
+    <description></description>
   </item>
   <item>
-    <title>wix / react-native-navigation</title>
-    <link>https://github.com/wix/react-native-navigation</link>
-    <description>A complete native navigation solution for React Native</description>
+    <title>MetaMask / metamask-docs</title>
+    <link>https://github.com/MetaMask/metamask-docs</link>
+    <description>Developer documentation for MetaMask</description>
   </item>
   <item>
-    <title>gpxstudio / gpx.studio</title>
-    <link>https://github.com/gpxstudio/gpx.studio</link>
-    <description>the online GPX file editor</description>
+    <title>expressjs / expressjs.com</title>
+    <link>https://github.com/expressjs/expressjs.com</link>
+    <description>The Express.js Website</description>
+  </item>
+  <item>
+    <title>huggingface / agents-course</title>
+    <link>https://github.com/huggingface/agents-course</link>
+    <description>This repository contains the Hugging Face Agents Course.</description>
+  </item>
+  <item>
+    <title>detekt / detekt</title>
+    <link>https://github.com/detekt/detekt</link>
+    <description>Static code analysis for Kotlin</description>
   </item>
   <item>
     <title>mintlify / docs</title>
     <link>https://github.com/mintlify/docs</link>
     <description>Official Mintlify documentation</description>
+  </item>
+  <item>
+    <title>enactic / openarm</title>
+    <link>https://github.com/enactic/openarm</link>
+    <description>A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.</description>
   </item>
 </channel>
 </rss>

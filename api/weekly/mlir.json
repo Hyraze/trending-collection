@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 19853,
-      "forks": 3074,
-      "added_stars": "52 stars this week"
+      "stars": 19862,
+      "forks": 3076,
+      "added_stars": "57 stars this week"
     },
     {
       "title": "triton-lang / triton-ascend",
@@ -20,8 +20,8 @@
       "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 128,
-      "forks": 172,
+      "stars": 129,
+      "forks": 173,
       "added_stars": "10 stars this week"
     },
     {
@@ -33,6 +33,16 @@
       "stars": 295,
       "forks": 141,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "google / heir",
+      "url": "https://github.com/google/heir",
+      "description": "A compiler for homomorphic encryption",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 757,
+      "forks": 150,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "facebookexperimental / triton",
@@ -53,16 +63,6 @@
       "stars": 264,
       "forks": 106,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "openxla / stablehlo",
-      "url": "https://github.com/openxla/stablehlo",
-      "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 679,
-      "forks": 211,
-      "added_stars": "4 stars this week"
     }
   ]
 }

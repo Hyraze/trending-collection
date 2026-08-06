@@ -4,26 +4,21 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
-  <item>
-    <title>alibaba / open-code-review</title>
-    <link>https://github.com/alibaba/open-code-review</link>
-    <description>Fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
-  </item>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>esengine / DeepSeek-Reasonix</title>
     <link>https://github.com/esengine/DeepSeek-Reasonix</link>
     <description>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
   </item>
   <item>
+    <title>alibaba / open-code-review</title>
+    <link>https://github.com/alibaba/open-code-review</link>
+    <description>Fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+  </item>
+  <item>
     <title>mudler / LocalAI</title>
     <link>https://github.com/mudler/LocalAI</link>
     <description>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</description>
-  </item>
-  <item>
-    <title>gtsteffaniak / filebrowser</title>
-    <link>https://github.com/gtsteffaniak/filebrowser</link>
-    <description>📂 Web File Browser</description>
   </item>
   <item>
     <title>traefik / traefik</title>
@@ -41,54 +36,9 @@
     <description>GitHub Stacked PRs</description>
   </item>
   <item>
-    <title>cli / cli</title>
-    <link>https://github.com/cli/cli</link>
-    <description>GitHub’s official command line tool</description>
-  </item>
-  <item>
-    <title>caddyserver / caddy</title>
-    <link>https://github.com/caddyserver/caddy</link>
-    <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
-  </item>
-  <item>
-    <title>1Panel-dev / 1Panel</title>
-    <link>https://github.com/1Panel-dev/1Panel</link>
-    <description>🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.</description>
-  </item>
-  <item>
-    <title>ollama / ollama</title>
-    <link>https://github.com/ollama/ollama</link>
-    <description>Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
-  </item>
-  <item>
-    <title>junegunn / fzf</title>
-    <link>https://github.com/junegunn/fzf</link>
-    <description>🌸 A command-line fuzzy finder</description>
-  </item>
-  <item>
-    <title>chaitin / SafeLine</title>
-    <link>https://github.com/chaitin/SafeLine</link>
-    <description>SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</description>
-  </item>
-  <item>
-    <title>yorukot / superfile</title>
-    <link>https://github.com/yorukot/superfile</link>
-    <description>Pretty fancy and modern terminal file manager</description>
-  </item>
-  <item>
-    <title>multica-ai / multica</title>
-    <link>https://github.com/multica-ai/multica</link>
-    <description>The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.</description>
-  </item>
-  <item>
-    <title>kgretzky / evilginx2</title>
-    <link>https://github.com/kgretzky/evilginx2</link>
-    <description>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</description>
-  </item>
-  <item>
-    <title>ccfos / nightingale</title>
-    <link>https://github.com/ccfos/nightingale</link>
-    <description>Nightingale is to monitoring and alerting what Grafana is to visualization.</description>
+    <title>agent-substrate / substrate</title>
+    <link>https://github.com/agent-substrate/substrate</link>
+    <description>Agent Substrate: the core system</description>
   </item>
   <item>
     <title>binwiederhier / ntfy</title>
@@ -96,19 +46,49 @@
     <description>Send push notifications to your phone or desktop using PUT/POST</description>
   </item>
   <item>
-    <title>agent-substrate / substrate</title>
-    <link>https://github.com/agent-substrate/substrate</link>
-    <description>Agent Substrate: the core system</description>
+    <title>caddyserver / caddy</title>
+    <link>https://github.com/caddyserver/caddy</link>
+    <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
   </item>
   <item>
-    <title>labstack / echo</title>
-    <link>https://github.com/labstack/echo</link>
-    <description>High performance, minimalist Go web framework</description>
+    <title>junegunn / fzf</title>
+    <link>https://github.com/junegunn/fzf</link>
+    <description>🌸 A command-line fuzzy finder</description>
   </item>
   <item>
-    <title>ethereum / go-ethereum</title>
-    <link>https://github.com/ethereum/go-ethereum</link>
-    <description>Go implementation of the Ethereum protocol</description>
+    <title>1Panel-dev / 1Panel</title>
+    <link>https://github.com/1Panel-dev/1Panel</link>
+    <description>🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.</description>
+  </item>
+  <item>
+    <title>gtsteffaniak / filebrowser</title>
+    <link>https://github.com/gtsteffaniak/filebrowser</link>
+    <description>📂 Web File Browser</description>
+  </item>
+  <item>
+    <title>multica-ai / multica</title>
+    <link>https://github.com/multica-ai/multica</link>
+    <description>The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.</description>
+  </item>
+  <item>
+    <title>chaitin / SafeLine</title>
+    <link>https://github.com/chaitin/SafeLine</link>
+    <description>SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</description>
+  </item>
+  <item>
+    <title>kgretzky / evilginx2</title>
+    <link>https://github.com/kgretzky/evilginx2</link>
+    <description>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</description>
+  </item>
+  <item>
+    <title>cli / cli</title>
+    <link>https://github.com/cli/cli</link>
+    <description>GitHub’s official command line tool</description>
+  </item>
+  <item>
+    <title>sundowndev / phoneinfoga</title>
+    <link>https://github.com/sundowndev/phoneinfoga</link>
+    <description>Information gathering framework for phone numbers</description>
   </item>
   <item>
     <title>aquasecurity / trivy</title>
@@ -116,14 +96,29 @@
     <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
   </item>
   <item>
-    <title>docker / compose</title>
-    <link>https://github.com/docker/compose</link>
-    <description>Define and run multi-container applications with Docker</description>
+    <title>superplanehq / superplane</title>
+    <link>https://github.com/superplanehq/superplane</link>
+    <description>The open source control plane for agentic engineering.</description>
   </item>
   <item>
-    <title>grafana / alloy</title>
-    <link>https://github.com/grafana/alloy</link>
-    <description>OpenTelemetry Collector distribution with programmable pipelines</description>
+    <title>gastownhall / beads</title>
+    <link>https://github.com/gastownhall/beads</link>
+    <description>Beads - A memory upgrade for your coding agent</description>
+  </item>
+  <item>
+    <title>ethereum / go-ethereum</title>
+    <link>https://github.com/ethereum/go-ethereum</link>
+    <description>Go implementation of the Ethereum protocol</description>
+  </item>
+  <item>
+    <title>certimate-go / certimate</title>
+    <link>https://github.com/certimate-go/certimate</link>
+    <description>An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。</description>
+  </item>
+  <item>
+    <title>autobrr / qui</title>
+    <link>https://github.com/autobrr/qui</link>
+    <description>A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.</description>
   </item>
 </channel>
 </rss>

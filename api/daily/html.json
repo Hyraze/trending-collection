@@ -2,57 +2,37 @@
   "title": "GitHub Html Languages Daily Trending",
   "description": "Daily Trending of Html Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
+    {
+      "title": "web-platform-tests / wpt",
+      "url": "https://github.com/web-platform-tests/wpt",
+      "description": "Test suites for Web platform specs — including WHATWG, W3C, and others",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 6028,
+      "forks": 3886,
+      "added_stars": "6 stars today"
+    },
     {
       "title": "tt-a1i / archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 9205,
-      "forks": 737,
-      "added_stars": "295 stars today"
+      "stars": 9527,
+      "forks": 754,
+      "added_stars": "310 stars today"
     },
     {
-      "title": "averygan / reclip",
-      "url": "https://github.com/averygan/reclip",
-      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "title": "Unstructured-IO / unstructured",
+      "url": "https://github.com/Unstructured-IO/unstructured",
+      "description": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 6953,
-      "forks": 1248,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "adongwanai / AgentGuide",
-      "url": "https://github.com/adongwanai/AgentGuide",
-      "description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 7848,
-      "forks": 780,
-      "added_stars": "64 stars today"
-    },
-    {
-      "title": "op7418 / guizang-ppt-skill",
-      "url": "https://github.com/op7418/guizang-ppt-skill",
-      "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 23210,
-      "forks": 1675,
-      "added_stars": "104 stars today"
-    },
-    {
-      "title": "trickest / cve",
-      "url": "https://github.com/trickest/cve",
-      "description": "Gather and update all available and newest CVEs with their PoC.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 7974,
-      "forks": 982,
-      "added_stars": "1 star today"
+      "stars": 15264,
+      "forks": 1284,
+      "added_stars": "9 stars today"
     },
     {
       "title": "home-assistant / home-assistant.io",
@@ -60,39 +40,59 @@
       "description": "📘 Home Assistant User documentation",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 9665,
-      "forks": 8435,
-      "added_stars": "9 stars today"
+      "stars": 9667,
+      "forks": 8436,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "DefectDojo / django-DefectDojo",
-      "url": "https://github.com/DefectDojo/django-DefectDojo",
-      "description": "Open-Source Unified Vulnerability Management, DevSecOps & ASPM",
+      "title": "Commando-X / vuln-bank",
+      "url": "https://github.com/Commando-X/vuln-bank",
+      "description": "A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews. Features common vulnerabilities found in real-world applications, making it an ideal platform for security professionals, developers, and enthusiasts to learn pentesting and secure coding practices.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 4874,
-      "forks": 1925,
+      "stars": 880,
+      "forks": 321,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "OpenAEC-Foundation / open-pdf-studio",
+      "url": "https://github.com/OpenAEC-Foundation/open-pdf-studio",
+      "description": "",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 556,
+      "forks": 47,
+      "added_stars": "48 stars today"
+    },
+    {
+      "title": "cotes2020 / jekyll-theme-chirpy",
+      "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
+      "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 10208,
+      "forks": 7188,
       "added_stars": "3 stars today"
     },
     {
-      "title": "gustavoguanabara / html-css",
-      "url": "https://github.com/gustavoguanabara/html-css",
-      "description": "Curso de HTML5 e CSS3",
+      "title": "whatwg / html",
+      "url": "https://github.com/whatwg/html",
+      "description": "HTML Standard",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 16404,
-      "forks": 3867,
-      "added_stars": "4 stars today"
+      "stars": 9346,
+      "forks": 3193,
+      "added_stars": "1 star today"
     },
     {
-      "title": "lewislulu / html-ppt-skill",
-      "url": "https://github.com/lewislulu/html-ppt-skill",
-      "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
+      "title": "kananinirav / AWS-Certified-Cloud-Practitioner-Notes",
+      "url": "https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes",
+      "description": "AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 7634,
-      "forks": 674,
-      "added_stars": "35 stars today"
+      "stars": 4185,
+      "forks": 1454,
+      "added_stars": "4 stars today"
     }
   ]
 }

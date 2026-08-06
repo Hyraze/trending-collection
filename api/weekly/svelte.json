@@ -2,17 +2,17 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
-      "title": "open-webui / desktop",
-      "url": "https://github.com/open-webui/desktop",
-      "description": "Open WebUI Desktop 🌐",
+      "title": "imputnet / cobalt",
+      "url": "https://github.com/imputnet/cobalt",
+      "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 2478,
-      "forks": 239,
-      "added_stars": "57 stars this week"
+      "stars": 41977,
+      "forks": 3610,
+      "added_stars": "156 stars this week"
     },
     {
       "title": "Finsys / dockhand",
@@ -20,39 +20,29 @@
       "description": "Dockhand - Docker management you will like.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5491,
-      "forks": 214,
+      "stars": 5503,
+      "forks": 217,
       "added_stars": "110 stars this week"
     },
     {
-      "title": "imputnet / cobalt",
-      "url": "https://github.com/imputnet/cobalt",
-      "description": "best way to save what you love",
+      "title": "open-webui / desktop",
+      "url": "https://github.com/open-webui/desktop",
+      "description": "Open WebUI Desktop 🌐",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 41958,
-      "forks": 3609,
-      "added_stars": "150 stars this week"
+      "stars": 2485,
+      "forks": 240,
+      "added_stars": "62 stars this week"
     },
     {
-      "title": "rajnandan1 / kener",
-      "url": "https://github.com/rajnandan1/kener",
-      "description": "Stunning status pages, batteries included!",
+      "title": "sveltejs / svelte.dev",
+      "url": "https://github.com/sveltejs/svelte.dev",
+      "description": "The Svelte omnisite",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5085,
-      "forks": 288,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "dbgate / dbgate",
-      "url": "https://github.com/dbgate/dbgate",
-      "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 7185,
-      "forks": 446,
-      "added_stars": "13 stars this week"
+      "stars": 323,
+      "forks": 271,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "mathesar-foundation / mathesar",
@@ -60,19 +50,19 @@
       "description": "An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5084,
+      "stars": 5085,
       "forks": 485,
-      "added_stars": "23 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
-      "title": "b14ckyy / Kite-GC",
-      "url": "https://github.com/b14ckyy/Kite-GC",
-      "description": "Kite Ground Control (Kite GC) is a modern, cross-platform ground control station for INAV, ArduPilot and PX4 aircraft — planes, multirotors, VTOL, helicopters, rovers and boats.",
+      "title": "dbgate / dbgate",
+      "url": "https://github.com/dbgate/dbgate",
+      "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 84,
-      "forks": 13,
-      "added_stars": "44 stars this week"
+      "stars": 7187,
+      "forks": 445,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "mistweaverco / bananas",
@@ -80,9 +70,19 @@
       "description": "Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 6536,
-      "forks": 288,
+      "stars": 6537,
+      "forks": 289,
       "added_stars": "48 stars this week"
+    },
+    {
+      "title": "rajnandan1 / kener",
+      "url": "https://github.com/rajnandan1/kener",
+      "description": "Stunning status pages, batteries included!",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 5084,
+      "forks": 288,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "seanmorley15 / AdventureLog",
@@ -90,9 +90,9 @@
       "description": "Self-hostable travel tracker and trip planner.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 3458,
+      "stars": 3460,
       "forks": 234,
-      "added_stars": "24 stars this week"
+      "added_stars": "26 stars this week"
     },
     {
       "title": "VERT-sh / VERT",
@@ -100,9 +100,29 @@
       "description": "The next-generation file converter. Open source, fully local* and free forever.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 15330,
+      "stars": 15332,
       "forks": 814,
-      "added_stars": "35 stars this week"
+      "added_stars": "33 stars this week"
+    },
+    {
+      "title": "b14ckyy / Kite-GC",
+      "url": "https://github.com/b14ckyy/Kite-GC",
+      "description": "Kite Ground Control (Kite GC) is a modern, cross-platform ground control station for INAV, ArduPilot and PX4 aircraft — planes, multirotors, VTOL, helicopters, rovers and boats.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 87,
+      "forks": 13,
+      "added_stars": "45 stars this week"
+    },
+    {
+      "title": "jikan-me / website",
+      "url": "https://github.com/jikan-me/website",
+      "description": "Website source for Jikan.moe",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 53,
+      "forks": 370,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "PuruVJ / macos-web",
@@ -115,16 +135,6 @@
       "added_stars": "7 stars this week"
     },
     {
-      "title": "jikan-me / website",
-      "url": "https://github.com/jikan-me/website",
-      "description": "Website source for Jikan.moe",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 53,
-      "forks": 369,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "dora-team / dora.dev",
       "url": "https://github.com/dora-team/dora.dev",
       "description": "Public-facing knowledge site: https://dora.dev",
@@ -133,6 +143,16 @@
       "stars": 171,
       "forks": 45,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "Materialious / Materialious",
+      "url": "https://github.com/Materialious/Materialious",
+      "description": "Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 1103,
+      "forks": 65,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "ReVanced / revanced-website",
@@ -145,16 +165,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Materialious / Materialious",
-      "url": "https://github.com/Materialious/Materialious",
-      "description": "Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 1102,
-      "forks": 64,
-      "added_stars": "8 stars this week"
-    },
-    {
       "title": "satisfactorymodding / SatisfactoryModManager",
       "url": "https://github.com/satisfactorymodding/SatisfactoryModManager",
       "description": "A mod manager for easy installation of mods and modloader for Satisfactory",
@@ -162,7 +172,7 @@
       "languageColor": "#ff3e00",
       "stars": 490,
       "forks": 92,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "binimum / tidal-ui",
@@ -173,16 +183,6 @@
       "stars": 1359,
       "forks": 128,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "BetterDiscord / Installer",
-      "url": "https://github.com/BetterDiscord/Installer",
-      "description": "A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 1778,
-      "forks": 196,
-      "added_stars": "1 star this week"
     }
   ]
 }

@@ -2,8 +2,18 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
+    {
+      "title": "abraunegg / onedrive",
+      "url": "https://github.com/abraunegg/onedrive",
+      "description": "OneDrive Client for Linux",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 12665,
+      "forks": 913,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "dlang / dmd",
       "url": "https://github.com/dlang/dmd",
@@ -15,14 +25,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "abraunegg / onedrive",
-      "url": "https://github.com/abraunegg/onedrive",
-      "description": "OneDrive Client for Linux",
+      "title": "dlang / phobos",
+      "url": "https://github.com/dlang/phobos",
+      "description": "The standard library of the D programming language",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 12666,
-      "forks": 912,
-      "added_stars": "5 stars today"
+      "stars": 1253,
+      "forks": 772,
+      "added_stars": "0 stars today"
     },
     {
       "title": "Dadoum / Sideloader",

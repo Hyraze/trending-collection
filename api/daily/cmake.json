@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,49 +10,39 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27328,
-      "forks": 7662,
-      "added_stars": "3 stars today"
+      "stars": 27330,
+      "forks": 7660,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "jrl-umi3218 / jrl-cmakemodules",
-      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
-      "description": "CMake utility toolbox",
+      "title": "flathub / shared-modules",
+      "url": "https://github.com/flathub/shared-modules",
+      "description": "Common Flatpak modules that can be used as a git submodule",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 78,
-      "forks": 57,
+      "stars": 171,
+      "forks": 106,
       "added_stars": "0 stars today"
     },
     {
-      "title": "ecmwf / ecbuild",
-      "url": "https://github.com/ecmwf/ecbuild",
-      "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
+      "title": "corrosion-rs / corrosion",
+      "url": "https://github.com/corrosion-rs/corrosion",
+      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 39,
-      "forks": 40,
+      "stars": 1475,
+      "forks": 149,
       "added_stars": "0 stars today"
     },
     {
-      "title": "shinchiro / mpv-winbuild-cmake",
-      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
-      "description": "CMake-based MinGW-w64 Cross Toolchain",
+      "title": "minecraft-linux / mcpelauncher-manifest",
+      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1677,
-      "forks": 227,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "boostorg / cmake",
-      "url": "https://github.com/boostorg/cmake",
-      "description": "CMake support infrastructure Boost submodule",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 119,
-      "forks": 36,
-      "added_stars": "0 stars today"
+      "stars": 1605,
+      "forks": 127,
+      "added_stars": "1 star today"
     },
     {
       "title": "bilke / cmake-modules",
@@ -65,14 +55,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "bkaradzic / bgfx.cmake",
-      "url": "https://github.com/bkaradzic/bgfx.cmake",
-      "description": "CMake build scripts for bgfx. Released under public domain.",
+      "title": "leetal / ios-cmake",
+      "url": "https://github.com/leetal/ios-cmake",
+      "description": "A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS & tvOS C/C++/Obj-C++ development",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 40,
-      "forks": 35,
-      "added_stars": "2 stars today"
+      "stars": 2175,
+      "forks": 464,
+      "added_stars": "0 stars today"
     },
     {
       "title": "steinbergmedia / vst3sdk",
@@ -80,38 +70,38 @@
       "description": "VST 3 Plug-In SDK",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 2309,
+      "stars": 2311,
       "forks": 223,
       "added_stars": "1 star today"
     },
     {
-      "title": "leetal / ios-cmake",
-      "url": "https://github.com/leetal/ios-cmake",
-      "description": "A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS & tvOS C/C++/Obj-C++ development",
+      "title": "jrl-umi3218 / jrl-cmakemodules",
+      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
+      "description": "CMake utility toolbox",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 2174,
-      "forks": 464,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "KiCad / kicad-footprints",
-      "url": "https://github.com/KiCad/kicad-footprints",
-      "description": "Official KiCad Footprint Libraries for Kicad version 5",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 688,
-      "forks": 699,
+      "stars": 78,
+      "forks": 57,
       "added_stars": "0 stars today"
     },
     {
-      "title": "flathub / shared-modules",
-      "url": "https://github.com/flathub/shared-modules",
-      "description": "Common Flatpak modules that can be used as a git submodule",
+      "title": "shinchiro / mpv-winbuild-cmake",
+      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
+      "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 170,
-      "forks": 106,
+      "stars": 1678,
+      "forks": 227,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ecmwf / ecbuild",
+      "url": "https://github.com/ecmwf/ecbuild",
+      "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 39,
+      "forks": 40,
       "added_stars": "0 stars today"
     }
   ]

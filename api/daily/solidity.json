@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,28 +10,28 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27205,
-      "forks": 12405,
-      "added_stars": "4 stars today"
+      "stars": 27206,
+      "forks": 12407,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "PaulRBerg / prb-math",
-      "url": "https://github.com/PaulRBerg/prb-math",
-      "description": "Solidity library for advanced fixed-point math",
+      "title": "ethereum / ERCs",
+      "url": "https://github.com/ethereum/ERCs",
+      "description": "The Ethereum Request for Comment repository",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1005,
-      "forks": 145,
-      "added_stars": "0 stars today"
+      "stars": 744,
+      "forks": 1024,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "GNSPS / solidity-bytes-utils",
-      "url": "https://github.com/GNSPS/solidity-bytes-utils",
-      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
+      "title": "paxoslabs / pxl-boring-vault",
+      "url": "https://github.com/paxoslabs/pxl-boring-vault",
+      "description": "",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 563,
-      "forks": 112,
+      "stars": 21,
+      "forks": 24,
       "added_stars": "0 stars today"
     },
     {
@@ -45,43 +45,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "a16z / erc4626-tests",
-      "url": "https://github.com/a16z/erc4626-tests",
-      "description": "ERC4626 Property Tests",
+      "title": "foundry-rs / forge-std",
+      "url": "https://github.com/foundry-rs/forge-std",
+      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 220,
-      "forks": 42,
+      "stars": 1051,
+      "forks": 513,
       "added_stars": "0 stars today"
     },
     {
-      "title": "OpenZeppelin / openzeppelin-foundry-upgrades",
-      "url": "https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades",
-      "description": "Foundry library for deploying and managing upgradeable contracts",
+      "title": "dmfxyz / murky",
+      "url": "https://github.com/dmfxyz/murky",
+      "description": "Merkle Proof Generator and Validator in Solidity",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 257,
-      "forks": 42,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ethereum / ERCs",
-      "url": "https://github.com/ethereum/ERCs",
-      "description": "The Ethereum Request for Comment repository",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 743,
-      "forks": 1022,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "smartcontractkit / chainlink-brownie-contracts",
-      "url": "https://github.com/smartcontractkit/chainlink-brownie-contracts",
-      "description": "A repository for automatically using the latest chainlink repo from the core chainlink repo.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 510,
-      "forks": 93,
+      "stars": 513,
+      "forks": 57,
       "added_stars": "0 stars today"
     },
     {
@@ -95,23 +75,53 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "coinbase / smart-wallet",
-      "url": "https://github.com/coinbase/smart-wallet",
-      "description": "",
+      "title": "OpenZeppelin / openzeppelin-foundry-upgrades",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades",
+      "description": "Foundry library for deploying and managing upgradeable contracts",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 484,
-      "forks": 175,
+      "stars": 257,
+      "forks": 42,
       "added_stars": "0 stars today"
     },
     {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "title": "a16z / erc4626-tests",
+      "url": "https://github.com/a16z/erc4626-tests",
+      "description": "ERC4626 Property Tests",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 2527,
-      "forks": 1316,
+      "stars": 220,
+      "forks": 42,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "celo-org / celo-monorepo",
+      "url": "https://github.com/celo-org/celo-monorepo",
+      "description": "Official repository for core projects comprising the Celo platform",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 801,
+      "forks": 478,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "lifinance / contracts",
+      "url": "https://github.com/lifinance/contracts",
+      "description": "LI.FI Smart Contracts",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 209,
+      "forks": 108,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "GNSPS / solidity-bytes-utils",
+      "url": "https://github.com/GNSPS/solidity-bytes-utils",
+      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 563,
+      "forks": 112,
       "added_stars": "0 stars today"
     },
     {
@@ -121,37 +131,27 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 195,
-      "forks": 113,
+      "forks": 112,
       "added_stars": "0 stars today"
     },
     {
-      "title": "coinbase / spend-permissions",
-      "url": "https://github.com/coinbase/spend-permissions",
-      "description": "",
+      "title": "across-protocol / contracts",
+      "url": "https://github.com/across-protocol/contracts",
+      "description": "Smart contracts for Across protocol",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 49,
-      "forks": 30,
+      "stars": 151,
+      "forks": 89,
       "added_stars": "0 stars today"
     },
     {
-      "title": "foundry-rs / forge-std",
-      "url": "https://github.com/foundry-rs/forge-std",
-      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "title": "succinctlabs / sp1-contracts",
+      "url": "https://github.com/succinctlabs/sp1-contracts",
+      "description": "Smart contracts for onchain verification of SP1.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1051,
-      "forks": 513,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "morpho-org / vault-v2",
-      "url": "https://github.com/morpho-org/vault-v2",
-      "description": "Morpho Vault V2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 93,
-      "forks": 71,
+      "stars": 147,
+      "forks": 44,
       "added_stars": "0 stars today"
     },
     {
@@ -161,17 +161,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 3345,
-      "forks": 481,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "dmfxyz / murky",
-      "url": "https://github.com/dmfxyz/murky",
-      "description": "Merkle Proof Generator and Validator in Solidity",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 513,
-      "forks": 57,
+      "forks": 483,
       "added_stars": "0 stars today"
     }
   ]

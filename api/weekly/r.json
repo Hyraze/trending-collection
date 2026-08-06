@@ -2,17 +2,17 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
-      "title": "Rdatatable / data.table",
-      "url": "https://github.com/Rdatatable/data.table",
-      "description": "R's data.table package extends data.frame:",
+      "title": "tidyverse / dplyr",
+      "url": "https://github.com/tidyverse/dplyr",
+      "description": "dplyr: A grammar of data manipulation",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 3904,
-      "forks": 1050,
-      "added_stars": "0 stars this week"
+      "stars": 5054,
+      "forks": 2123,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "satijalab / seurat",
@@ -21,18 +21,8 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 2783,
-      "forks": 994,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "tidyverse / dplyr",
-      "url": "https://github.com/tidyverse/dplyr",
-      "description": "dplyr: A grammar of data manipulation",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5054,
-      "forks": 2124,
-      "added_stars": "9 stars this week"
+      "forks": 995,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "tidyverse / ggplot2",
@@ -40,9 +30,19 @@
       "description": "An implementation of the Grammar of Graphics in R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 6982,
+      "stars": 6981,
       "forks": 2129,
-      "added_stars": "10 stars this week"
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "Rdatatable / data.table",
+      "url": "https://github.com/Rdatatable/data.table",
+      "description": "R's data.table package extends data.frame:",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 3906,
+      "forks": 1050,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "rstudio / shiny",
@@ -55,26 +55,6 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "swirldev / swirl_courses",
-      "url": "https://github.com/swirldev/swirl_courses",
-      "description": "🎓 A collection of interactive courses for the swirl R package.",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 4573,
-      "forks": 7200,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "jinworks / CellChat",
-      "url": "https://github.com/jinworks/CellChat",
-      "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 643,
-      "forks": 109,
-      "added_stars": "4 stars this week"
-    },
-    {
       "title": "benjjneb / dada2",
       "url": "https://github.com/benjjneb/dada2",
       "description": "Accurate sample inference from amplicon data with single nucleotide resolution",
@@ -85,14 +65,54 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "swirldev / swirl_courses",
+      "url": "https://github.com/swirldev/swirl_courses",
+      "description": "🎓 A collection of interactive courses for the swirl R package.",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 4574,
+      "forks": 7201,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "sqjin / CellChat",
+      "url": "https://github.com/sqjin/CellChat",
+      "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 793,
+      "forks": 166,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "jinworks / CellChat",
+      "url": "https://github.com/jinworks/CellChat",
+      "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 643,
+      "forks": 109,
+      "added_stars": "5 stars this week"
+    },
+    {
       "title": "posit-dev / skills",
       "url": "https://github.com/posit-dev/skills",
       "description": "A collection of Claude Skills from Posit",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 455,
+      "stars": 458,
       "forks": 37,
-      "added_stars": "9 stars this week"
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "hadley / r4ds",
+      "url": "https://github.com/hadley/r4ds",
+      "description": "R for data science: a book",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5127,
+      "forks": 4435,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "nflverse / nflverse-data",
@@ -100,9 +120,9 @@
       "description": "Automated nflverse data repository",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 370,
+      "stars": 372,
       "forks": 39,
-      "added_stars": "1 star this week"
+      "added_stars": "3 stars this week"
     }
   ]
 }

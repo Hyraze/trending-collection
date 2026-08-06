@@ -4,16 +4,16 @@
   <title>GitHub Elixir Languages Daily Trending</title>
   <description>Daily Trending of Elixir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
-  <item>
-    <title>plausible / analytics</title>
-    <link>https://github.com/plausible/analytics</link>
-    <description>Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.</description>
-  </item>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>elixir-lang / elixir</title>
     <link>https://github.com/elixir-lang/elixir</link>
     <description>Simple from zero to scale</description>
+  </item>
+  <item>
+    <title>plausible / analytics</title>
+    <link>https://github.com/plausible/analytics</link>
+    <description>Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.</description>
   </item>
   <item>
     <title>blockscout / blockscout</title>
@@ -26,9 +26,9 @@
     <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
   </item>
   <item>
-    <title>phoenixframework / phoenix</title>
-    <link>https://github.com/phoenixframework/phoenix</link>
-    <description>Peace of mind from prototype to production</description>
+    <title>teslamate-org / teslamate</title>
+    <link>https://github.com/teslamate-org/teslamate</link>
+    <description>A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</description>
   </item>
   <item>
     <title>supabase / realtime</title>
@@ -36,9 +36,14 @@
     <description>Broadcast, Presence, and Postgres Changes via WebSockets</description>
   </item>
   <item>
-    <title>teslamate-org / teslamate</title>
-    <link>https://github.com/teslamate-org/teslamate</link>
-    <description>A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</description>
+    <title>phoenixframework / phoenix</title>
+    <link>https://github.com/phoenixframework/phoenix</link>
+    <description>Peace of mind from prototype to production</description>
+  </item>
+  <item>
+    <title>elixir-ecto / postgrex</title>
+    <link>https://github.com/elixir-ecto/postgrex</link>
+    <description>PostgreSQL driver for Elixir</description>
   </item>
   <item>
     <title>firezone / firezone</title>
@@ -46,9 +51,9 @@
     <description>Enterprise-ready zero-trust access platform built on WireGuard®.</description>
   </item>
   <item>
-    <title>OffchainLabs / blockscout</title>
-    <link>https://github.com/OffchainLabs/blockscout</link>
-    <description></description>
+    <title>ntrepid8 / ex_crypto</title>
+    <link>https://github.com/ntrepid8/ex_crypto</link>
+    <description>Wrapper around the Erlang crypto module for Elixir.</description>
   </item>
   <item>
     <title>open-telemetry / opentelemetry-erlang-contrib</title>
@@ -61,29 +66,29 @@
     <description>Cursor-based pagination for Elixir Ecto</description>
   </item>
   <item>
+    <title>OffchainLabs / blockscout</title>
+    <link>https://github.com/OffchainLabs/blockscout</link>
+    <description></description>
+  </item>
+  <item>
     <title>supabase / supavisor</title>
     <link>https://github.com/supabase/supavisor</link>
     <description>A cloud-native, multi-tenant Postgres connection pooler.</description>
   </item>
   <item>
-    <title>ntrepid8 / ex_crypto</title>
-    <link>https://github.com/ntrepid8/ex_crypto</link>
-    <description>Wrapper around the Erlang crypto module for Elixir.</description>
-  </item>
-  <item>
-    <title>sequinstream / sequin</title>
-    <link>https://github.com/sequinstream/sequin</link>
-    <description>Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more</description>
-  </item>
-  <item>
-    <title>Phineas / lanyard</title>
-    <link>https://github.com/Phineas/lanyard</link>
-    <description>🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds</description>
-  </item>
-  <item>
     <title>phoenixframework / phoenix_live_view</title>
     <link>https://github.com/phoenixframework/phoenix_live_view</link>
     <description>Rich, real-time user experiences with server-rendered HTML</description>
+  </item>
+  <item>
+    <title>hexpm / hex</title>
+    <link>https://github.com/hexpm/hex</link>
+    <description>Package manager for the Erlang ecosystem.</description>
+  </item>
+  <item>
+    <title>expert-lsp / expert</title>
+    <link>https://github.com/expert-lsp/expert</link>
+    <description>Official Elixir Language Server Protocol implementation</description>
   </item>
   <item>
     <title>kieraneglin / pinchflat</title>

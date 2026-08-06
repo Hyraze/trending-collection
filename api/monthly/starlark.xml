@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>googleapis / googleapis</title>
     <link>https://github.com/googleapis/googleapis</link>
@@ -21,24 +21,24 @@
     <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
   </item>
   <item>
-    <title>bazelbuild / bazel-central-registry</title>
-    <link>https://github.com/bazelbuild/bazel-central-registry</link>
-    <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
-  </item>
-  <item>
     <title>bazelbuild / bazel-skylib</title>
     <link>https://github.com/bazelbuild/bazel-skylib</link>
     <description>Common useful functions and rules for Bazel</description>
   </item>
   <item>
-    <title>grpc / grpc-proto</title>
-    <link>https://github.com/grpc/grpc-proto</link>
-    <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
+    <title>bazelbuild / bazel-central-registry</title>
+    <link>https://github.com/bazelbuild/bazel-central-registry</link>
+    <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
   </item>
   <item>
     <title>bazel-contrib / rules_python</title>
     <link>https://github.com/bazel-contrib/rules_python</link>
     <description>Bazel Python Rules</description>
+  </item>
+  <item>
+    <title>grpc / grpc-proto</title>
+    <link>https://github.com/grpc/grpc-proto</link>
+    <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
   </item>
   <item>
     <title>cel-expr / cel-spec</title>
@@ -51,11 +51,6 @@
     <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
   </item>
   <item>
-    <title>bazel-contrib / rules_perl</title>
-    <link>https://github.com/bazel-contrib/rules_perl</link>
-    <description>Perl rules for Bazel</description>
-  </item>
-  <item>
     <title>bazelbuild / rules_rust</title>
     <link>https://github.com/bazelbuild/rules_rust</link>
     <description>Rust rules for Bazel</description>
@@ -64,6 +59,11 @@
     <title>tilt-dev / tilt-extensions</title>
     <link>https://github.com/tilt-dev/tilt-extensions</link>
     <description>Extensions for Tilt</description>
+  </item>
+  <item>
+    <title>bazel-contrib / rules_perl</title>
+    <link>https://github.com/bazel-contrib/rules_perl</link>
+    <description>Perl rules for Bazel</description>
   </item>
   <item>
     <title>googleapis / api-common-protos</title>

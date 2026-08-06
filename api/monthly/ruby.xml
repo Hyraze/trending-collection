@@ -4,7 +4,7 @@
   <title>GitHub Ruby Languages Daily Trending</title>
   <description>Daily Trending of Ruby Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>rails / rails</title>
     <link>https://github.com/rails/rails</link>
@@ -41,14 +41,14 @@
     <description>Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</description>
   </item>
   <item>
+    <title>we-promise / sure</title>
+    <link>https://github.com/we-promise/sure</link>
+    <description>The personal finance app for everyone (by everyone)</description>
+  </item>
+  <item>
     <title>rapid7 / metasploit-framework</title>
     <link>https://github.com/rapid7/metasploit-framework</link>
     <description>Metasploit Framework</description>
-  </item>
-  <item>
-    <title>Homebrew / homebrew-cask</title>
-    <link>https://github.com/Homebrew/homebrew-cask</link>
-    <description>🍻 A CLI workflow for the administration of macOS applications distributed as binaries</description>
   </item>
   <item>
     <title>opf / openproject</title>
@@ -56,34 +56,14 @@
     <description>OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub</description>
   </item>
   <item>
-    <title>we-promise / sure</title>
-    <link>https://github.com/we-promise/sure</link>
-    <description>The personal finance app for everyone (by everyone)</description>
-  </item>
-  <item>
-    <title>jekyll / jekyll</title>
-    <link>https://github.com/jekyll/jekyll</link>
-    <description>🌐 Jekyll is a blog-aware static site generator in Ruby</description>
-  </item>
-  <item>
-    <title>antiwork / gumroad</title>
-    <link>https://github.com/antiwork/gumroad</link>
-    <description>See what sticks</description>
-  </item>
-  <item>
     <title>dependabot / dependabot-core</title>
     <link>https://github.com/dependabot/dependabot-core</link>
     <description>🤖 Dependabot&#x27;s core logic for creating update PRs.</description>
   </item>
   <item>
-    <title>zammad / zammad</title>
-    <link>https://github.com/zammad/zammad</link>
-    <description>Zammad is a web based open source helpdesk/customer support system.</description>
-  </item>
-  <item>
-    <title>Homebrew / brew</title>
-    <link>https://github.com/Homebrew/brew</link>
-    <description>🍺 The Package Manager for Everywhere</description>
+    <title>Homebrew / homebrew-cask</title>
+    <link>https://github.com/Homebrew/homebrew-cask</link>
+    <description>🍻 A CLI workflow for the administration of macOS applications distributed as binaries</description>
   </item>
   <item>
     <title>github-linguist / linguist</title>
@@ -91,9 +71,14 @@
     <description>Language Savant. If your repository&#x27;s language is being reported incorrectly, send us a pull request!</description>
   </item>
   <item>
-    <title>huginn / huginn</title>
-    <link>https://github.com/huginn/huginn</link>
-    <description>Create agents that monitor and act on your behalf. Your agents are standing by!</description>
+    <title>jekyll / jekyll</title>
+    <link>https://github.com/jekyll/jekyll</link>
+    <description>🌐 Jekyll is a blog-aware static site generator in Ruby</description>
+  </item>
+  <item>
+    <title>Homebrew / brew</title>
+    <link>https://github.com/Homebrew/brew</link>
+    <description>🍺 The Package Manager for Everywhere</description>
   </item>
   <item>
     <title>midudev / autoskills</title>
@@ -111,9 +96,9 @@
     <description>Library packaging and distribution for Ruby.</description>
   </item>
   <item>
-    <title>basecamp / once-campfire</title>
-    <link>https://github.com/basecamp/once-campfire</link>
-    <description>Super simple group chat, without a subscription</description>
+    <title>zammad / zammad</title>
+    <link>https://github.com/zammad/zammad</link>
+    <description>Zammad is a web based open source helpdesk/customer support system.</description>
   </item>
   <item>
     <title>spree / spree</title>
@@ -121,9 +106,19 @@
     <description>Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.</description>
   </item>
   <item>
+    <title>huginn / huginn</title>
+    <link>https://github.com/huginn/huginn</link>
+    <description>Create agents that monitor and act on your behalf. Your agents are standing by!</description>
+  </item>
+  <item>
     <title>github / explore</title>
     <link>https://github.com/github/explore</link>
     <description>Community-curated topic and collection pages on GitHub</description>
+  </item>
+  <item>
+    <title>basecamp / once-campfire</title>
+    <link>https://github.com/basecamp/once-campfire</link>
+    <description>Super simple group chat, without a subscription</description>
   </item>
 </channel>
 </rss>

@@ -2,38 +2,8 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
-    {
-      "title": "maderix / ANE",
-      "url": "https://github.com/maderix/ANE",
-      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 7231,
-      "forks": 963,
-      "added_stars": "318 stars this month"
-    },
-    {
-      "title": "noah-nuebling / mac-mouse-fix",
-      "url": "https://github.com/noah-nuebling/mac-mouse-fix",
-      "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 10626,
-      "forks": 383,
-      "added_stars": "278 stars this month"
-    },
-    {
-      "title": "opa334 / TrollStore",
-      "url": "https://github.com/opa334/TrollStore",
-      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 21876,
-      "forks": 1627,
-      "added_stars": "269 stars this month"
-    },
     {
       "title": "Mininglamp-OSS / octo-ios",
       "url": "https://github.com/Mininglamp-OSS/octo-ios",
@@ -45,14 +15,44 @@
       "added_stars": "338 stars this month"
     },
     {
+      "title": "maderix / ANE",
+      "url": "https://github.com/maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 7232,
+      "forks": 962,
+      "added_stars": "316 stars this month"
+    },
+    {
+      "title": "noah-nuebling / mac-mouse-fix",
+      "url": "https://github.com/noah-nuebling/mac-mouse-fix",
+      "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 10633,
+      "forks": 384,
+      "added_stars": "278 stars this month"
+    },
+    {
+      "title": "opa334 / TrollStore",
+      "url": "https://github.com/opa334/TrollStore",
+      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 21886,
+      "forks": 1627,
+      "added_stars": "268 stars this month"
+    },
+    {
       "title": "sparkle-project / Sparkle",
       "url": "https://github.com/sparkle-project/Sparkle",
       "description": "A software update framework for macOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 9431,
-      "forks": 1122,
-      "added_stars": "189 stars this month"
+      "stars": 9434,
+      "forks": 1125,
+      "added_stars": "191 stars this month"
     },
     {
       "title": "git-up / GitUp",
@@ -61,18 +61,8 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 12085,
-      "forks": 1481,
-      "added_stars": "67 stars this month"
-    },
-    {
-      "title": "objective-see / LuLu",
-      "url": "https://github.com/objective-see/LuLu",
-      "description": "LuLu is the free open-source macOS firewall",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 13017,
-      "forks": 588,
-      "added_stars": "153 stars this month"
+      "forks": 1482,
+      "added_stars": "66 stars this month"
     },
     {
       "title": "realm / realm-swift",
@@ -80,9 +70,19 @@
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 16613,
-      "forks": 2236,
+      "stars": 16614,
+      "forks": 2237,
       "added_stars": "17 stars this month"
+    },
+    {
+      "title": "objective-see / LuLu",
+      "url": "https://github.com/objective-see/LuLu",
+      "description": "LuLu is the free open-source macOS firewall",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 13022,
+      "forks": 588,
+      "added_stars": "154 stars this month"
     },
     {
       "title": "PojavLauncherTeam / PojavLauncher_iOS",
@@ -91,8 +91,8 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 3202,
-      "forks": 1308,
-      "added_stars": "46 stars this month"
+      "forks": 1313,
+      "added_stars": "44 stars this month"
     },
     {
       "title": "gnachman / iTerm2",
@@ -100,9 +100,9 @@
       "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 17904,
-      "forks": 1448,
-      "added_stars": "145 stars this month"
+      "stars": 17905,
+      "forks": 1449,
+      "added_stars": "139 stars this month"
     },
     {
       "title": "Hammerspoon / hammerspoon",
@@ -110,9 +110,9 @@
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 15848,
-      "forks": 706,
-      "added_stars": "189 stars this month"
+      "stars": 15851,
+      "forks": 707,
+      "added_stars": "188 stars this month"
     },
     {
       "title": "google / GoogleUtilities",
@@ -160,9 +160,9 @@
       "description": "iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 2019,
+      "stars": 2020,
       "forks": 858,
-      "added_stars": "6 stars this month"
+      "added_stars": "7 stars this month"
     },
     {
       "title": "google / GoogleSignIn-iOS",
@@ -170,9 +170,9 @@
       "description": "Enables iOS and macOS apps to sign in with Google.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 734,
+      "stars": 736,
       "forks": 277,
-      "added_stars": "7 stars this month"
+      "added_stars": "8 stars this month"
     },
     {
       "title": "SDWebImage / SDWebImage",
@@ -180,19 +180,9 @@
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 25637,
+      "stars": 25638,
       "forks": 5960,
-      "added_stars": "17 stars this month"
-    },
-    {
-      "title": "dcloudio / uni-app",
-      "url": "https://github.com/dcloudio/uni-app",
-      "description": "A cross-platform framework using Vue.js",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 41591,
-      "forks": 3709,
-      "added_stars": "76 stars this month"
+      "added_stars": "16 stars this month"
     },
     {
       "title": "adjust / ios_sdk",
@@ -201,8 +191,28 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 672,
-      "forks": 311,
+      "forks": 312,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "dcloudio / uni-app",
+      "url": "https://github.com/dcloudio/uni-app",
+      "description": "A cross-platform framework using Vue.js",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 41593,
+      "forks": 3709,
+      "added_stars": "78 stars this month"
+    },
+    {
+      "title": "kstenerud / KSCrash",
+      "url": "https://github.com/kstenerud/KSCrash",
+      "description": "The Ultimate iOS Crash Reporter",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 4476,
+      "forks": 739,
+      "added_stars": "14 stars this month"
     }
   ]
 }

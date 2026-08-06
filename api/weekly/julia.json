@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "JuliaLang / julia",
@@ -12,17 +12,7 @@
       "languageColor": "#a270ba",
       "stars": 48982,
       "forks": 5955,
-      "added_stars": "54 stars this week"
-    },
-    {
-      "title": "CliMA / Oceananigans.jl",
-      "url": "https://github.com/CliMA/Oceananigans.jl",
-      "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": 1390,
-      "forks": 288,
-      "added_stars": "8 stars this week"
+      "added_stars": "49 stars this week"
     },
     {
       "title": "JuliaRegistries / General",
@@ -33,6 +23,36 @@
       "stars": 723,
       "forks": 587,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "CliMA / Oceananigans.jl",
+      "url": "https://github.com/CliMA/Oceananigans.jl",
+      "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 1391,
+      "forks": 288,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "CliMA / ClimaCore.jl",
+      "url": "https://github.com/CliMA/ClimaCore.jl",
+      "description": "GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 114,
+      "forks": 18,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "CliMA / ClimaCoupler.jl",
+      "url": "https://github.com/CliMA/ClimaCoupler.jl",
+      "description": "ClimaCoupler: bringing atmosphere, land, and ocean together",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 46,
+      "forks": 8,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "CliMA / ClimaAtmos.jl",
@@ -50,9 +70,19 @@
       "description": "Interactive data visualizations and plotting in Julia",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 2795,
+      "stars": 2796,
       "forks": 393,
-      "added_stars": "4 stars this week"
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "oscar-system / Oscar.jl",
+      "url": "https://github.com/oscar-system/Oscar.jl",
+      "description": "A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 510,
+      "forks": 181,
+      "added_stars": "1 star this week"
     }
   ]
 }

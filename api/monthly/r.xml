@@ -4,7 +4,7 @@
   <title>GitHub R Languages Daily Trending</title>
   <description>Daily Trending of R Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>satijalab / seurat</title>
     <link>https://github.com/satijalab/seurat</link>
@@ -26,6 +26,11 @@
     <description>An implementation of the Grammar of Graphics in R</description>
   </item>
   <item>
+    <title>hadley / r4ds</title>
+    <link>https://github.com/hadley/r4ds</link>
+    <description>R for data science: a book</description>
+  </item>
+  <item>
     <title>swirldev / swirl_courses</title>
     <link>https://github.com/swirldev/swirl_courses</link>
     <description>🎓 A collection of interactive courses for the swirl R package.</description>
@@ -41,16 +46,6 @@
     <description>R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics</description>
   </item>
   <item>
-    <title>hadley / r4ds</title>
-    <link>https://github.com/hadley/r4ds</link>
-    <description>R for data science: a book</description>
-  </item>
-  <item>
-    <title>rdpeng / ProgrammingAssignment2</title>
-    <link>https://github.com/rdpeng/ProgrammingAssignment2</link>
-    <description>Repository for Programming Assignment 2 for R Programming on Coursera</description>
-  </item>
-  <item>
     <title>sqjin / CellChat</title>
     <link>https://github.com/sqjin/CellChat</link>
     <description>R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data</description>
@@ -59,6 +54,11 @@
     <title>r-spatial / sf</title>
     <link>https://github.com/r-spatial/sf</link>
     <description>Simple Features for R</description>
+  </item>
+  <item>
+    <title>rdpeng / ProgrammingAssignment2</title>
+    <link>https://github.com/rdpeng/ProgrammingAssignment2</link>
+    <description>Repository for Programming Assignment 2 for R Programming on Coursera</description>
   </item>
 </channel>
 </rss>

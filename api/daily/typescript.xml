@@ -4,26 +4,16 @@
   <title>GitHub Typescript Languages Daily Trending</title>
   <description>Daily Trending of Typescript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
+  <item>
+    <title>cloudflare / computer</title>
+    <link>https://github.com/cloudflare/computer</link>
+    <description>Give your agent a computer 👾</description>
+  </item>
   <item>
     <title>TencentCloud / TencentDB-Agent-Memory</title>
     <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
     <description>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
-  </item>
-  <item>
-    <title>cypress-io / cypress</title>
-    <link>https://github.com/cypress-io/cypress</link>
-    <description>Fast, easy and reliable testing for anything that runs in a browser.</description>
-  </item>
-  <item>
-    <title>usekaneo / kaneo</title>
-    <link>https://github.com/usekaneo/kaneo</link>
-    <description>🎯 All you need. Nothing you don&#x27;t. Open source project management that works for you, not against you.</description>
-  </item>
-  <item>
-    <title>angular / angular</title>
-    <link>https://github.com/angular/angular</link>
-    <description>Deliver web apps with confidence 🚀</description>
   </item>
   <item>
     <title>tailwindlabs / tailwindcss</title>
@@ -31,69 +21,49 @@
     <description>A utility-first CSS framework for rapid UI development.</description>
   </item>
   <item>
-    <title>EveryInc / compound-engineering-plugin</title>
-    <link>https://github.com/EveryInc/compound-engineering-plugin</link>
-    <description>Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more</description>
+    <title>ever-co / ever-gauzy</title>
+    <link>https://github.com/ever-co/ever-gauzy</link>
+    <description>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co</description>
   </item>
   <item>
-    <title>jamiepine / voicebox</title>
-    <link>https://github.com/jamiepine/voicebox</link>
-    <description>The open-source AI voice studio. Clone, dictate, create.</description>
+    <title>cypress-io / cypress</title>
+    <link>https://github.com/cypress-io/cypress</link>
+    <description>Fast, easy and reliable testing for anything that runs in a browser.</description>
   </item>
   <item>
-    <title>prisma / prisma</title>
-    <link>https://github.com/prisma/prisma</link>
-    <description>Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</description>
+    <title>ln-dev7 / circle</title>
+    <link>https://github.com/ln-dev7/circle</link>
+    <description>UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.</description>
   </item>
   <item>
-    <title>grafana / grafana</title>
-    <link>https://github.com/grafana/grafana</link>
-    <description>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</description>
+    <title>directus / directus</title>
+    <link>https://github.com/directus/directus</link>
+    <description>The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more.</description>
   </item>
   <item>
-    <title>actions / checkout</title>
-    <link>https://github.com/actions/checkout</link>
-    <description>Action for checking out a repo</description>
+    <title>melgarafael / DeskcommCRM</title>
+    <link>https://github.com/melgarafael/DeskcommCRM</link>
+    <description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.</description>
   </item>
   <item>
-    <title>wonderwhy-er / DesktopCommanderMCP</title>
-    <link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
-    <description>This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities</description>
-  </item>
-  <item>
-    <title>vuejs / vue</title>
-    <link>https://github.com/vuejs/vue</link>
-    <description>This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core</description>
-  </item>
-  <item>
-    <title>nrwl / nx</title>
-    <link>https://github.com/nrwl/nx</link>
-    <description>The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.</description>
-  </item>
-  <item>
-    <title>babel / babel</title>
-    <link>https://github.com/babel/babel</link>
-    <description>🐠 Babel is a compiler for writing next generation JavaScript.</description>
-  </item>
-  <item>
-    <title>reduxjs / redux</title>
-    <link>https://github.com/reduxjs/redux</link>
-    <description>A JS library for predictable global state management</description>
-  </item>
-  <item>
-    <title>facebook / astryx</title>
-    <link>https://github.com/facebook/astryx</link>
-    <description>An open source design system that&#x27;s fully customizable and agent ready</description>
-  </item>
-  <item>
-    <title>CodebuffAI / codebuff</title>
-    <link>https://github.com/CodebuffAI/codebuff</link>
-    <description>Generate code from the terminal!</description>
+    <title>angular / angular</title>
+    <link>https://github.com/angular/angular</link>
+    <description>Deliver web apps with confidence 🚀</description>
   </item>
   <item>
     <title>czlonkowski / n8n-mcp</title>
     <link>https://github.com/czlonkowski/n8n-mcp</link>
     <description>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you</description>
+  </item>
+  <item>
+    <title>dream-num / univer</title>
+    <link>https://github.com/dream-num/univer</link>
+    <description>Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.</description>
+  </item>
+  <item>
+    <title>can1357 / oh-my-pi</title>
+    <link>https://github.com/can1357/oh-my-pi</link>
+    <description>⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more</description>
   </item>
 </channel>
 </rss>

@@ -4,7 +4,7 @@
   <title>GitHub Haskell Languages Daily Trending</title>
   <description>Daily Trending of Haskell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:04:04 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
   <item>
     <title>jgm / pandoc</title>
     <link>https://github.com/jgm/pandoc</link>
@@ -14,6 +14,11 @@
     <title>koalaman / shellcheck</title>
     <link>https://github.com/koalaman/shellcheck</link>
     <description>ShellCheck, a static analysis tool for shell scripts</description>
+  </item>
+  <item>
+    <title>IntersectMBO / cardano-node</title>
+    <link>https://github.com/IntersectMBO/cardano-node</link>
+    <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
   </item>
   <item>
     <title>hadolint / hadolint</title>
@@ -26,44 +31,14 @@
     <description>The Daml smart contract language</description>
   </item>
   <item>
-    <title>haskell / haskell-language-server</title>
-    <link>https://github.com/haskell/haskell-language-server</link>
-    <description>Official Haskell IDE support via the language server protocol (LSP)</description>
-  </item>
-  <item>
     <title>haskell / cabal</title>
     <link>https://github.com/haskell/cabal</link>
     <description>Official upstream development repository for Cabal and cabal-install</description>
   </item>
   <item>
-    <title>IntersectMBO / plutus</title>
-    <link>https://github.com/IntersectMBO/plutus</link>
-    <description>The Plutus language implementation and tools</description>
-  </item>
-  <item>
-    <title>nammayatri / nammayatri</title>
-    <link>https://github.com/nammayatri/nammayatri</link>
-    <description>A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</description>
-  </item>
-  <item>
-    <title>monoscope-tech / monoscope</title>
-    <link>https://github.com/monoscope-tech/monoscope</link>
-    <description>Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.</description>
-  </item>
-  <item>
-    <title>IntersectMBO / cardano-node</title>
-    <link>https://github.com/IntersectMBO/cardano-node</link>
-    <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
-  </item>
-  <item>
-    <title>PostgREST / postgrest</title>
-    <link>https://github.com/PostgREST/postgrest</link>
-    <description>REST API for any Postgres database</description>
-  </item>
-  <item>
-    <title>halogenandtoast / ArkhamHorror</title>
-    <link>https://github.com/halogenandtoast/ArkhamHorror</link>
-    <description>An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced, endorsed, or supported by, or affiliated with Fantasy Flight Games.</description>
+    <title>haskell / haskell-language-server</title>
+    <link>https://github.com/haskell/haskell-language-server</link>
+    <description>Official Haskell IDE support via the language server protocol (LSP)</description>
   </item>
   <item>
     <title>simplex-chat / simplex-chat</title>
@@ -71,9 +46,44 @@
     <description>SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!</description>
   </item>
   <item>
+    <title>IntersectMBO / plutus</title>
+    <link>https://github.com/IntersectMBO/plutus</link>
+    <description>The Plutus language implementation and tools</description>
+  </item>
+  <item>
+    <title>monoscope-tech / monoscope</title>
+    <link>https://github.com/monoscope-tech/monoscope</link>
+    <description>Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.</description>
+  </item>
+  <item>
+    <title>tweag / tricorder</title>
+    <link>https://github.com/tweag/tricorder</link>
+    <description>Tricorder provides simple, fast, focused feedback when hacking on Haskell (with or without LLM agents).</description>
+  </item>
+  <item>
+    <title>PostgREST / postgrest</title>
+    <link>https://github.com/PostgREST/postgrest</link>
+    <description>REST API for any Postgres database</description>
+  </item>
+  <item>
+    <title>nammayatri / nammayatri</title>
+    <link>https://github.com/nammayatri/nammayatri</link>
+    <description>A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</description>
+  </item>
+  <item>
+    <title>cardano-foundation / cardano-wallet</title>
+    <link>https://github.com/cardano-foundation/cardano-wallet</link>
+    <description>HTTP server &amp; command-line for managing UTxOs and HD wallets in Cardano.</description>
+  </item>
+  <item>
     <title>simonmichael / hledger</title>
     <link>https://github.com/simonmichael/hledger</link>
     <description>Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</description>
+  </item>
+  <item>
+    <title>commercialhaskell / stack</title>
+    <link>https://github.com/commercialhaskell/stack</link>
+    <description>The Haskell Tool Stack</description>
   </item>
   <item>
     <title>mtolly / onyx</title>
@@ -81,19 +91,14 @@
     <description>Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games</description>
   </item>
   <item>
-    <title>IntersectMBO / cardano-ledger</title>
-    <link>https://github.com/IntersectMBO/cardano-ledger</link>
-    <description>The ledger implementation and specifications of the Cardano blockchain.</description>
-  </item>
-  <item>
     <title>elm / compiler</title>
     <link>https://github.com/elm/compiler</link>
     <description>Compiler for Elm, a functional language for reliable webapps.</description>
   </item>
   <item>
-    <title>commercialhaskell / stack</title>
-    <link>https://github.com/commercialhaskell/stack</link>
-    <description>The Haskell Tool Stack</description>
+    <title>halogenandtoast / ArkhamHorror</title>
+    <link>https://github.com/halogenandtoast/ArkhamHorror</link>
+    <description>An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced, endorsed, or supported by, or affiliated with Fantasy Flight Games.</description>
   </item>
   <item>
     <title>agda / agda</title>

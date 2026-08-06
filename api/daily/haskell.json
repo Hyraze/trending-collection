@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,19 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 45707,
-      "forks": 3933,
-      "added_stars": "37 stars today"
-    },
-    {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 19192,
-      "forks": 1324,
-      "added_stars": "14 stars today"
+      "stars": 45726,
+      "forks": 3936,
+      "added_stars": "20 stars today"
     },
     {
       "title": "PostgREST / postgrest",
@@ -32,7 +22,17 @@
       "languageColor": "#5e5086",
       "stars": 27496,
       "forks": 1219,
-      "added_stars": "4 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ad-si / Perspec",
+      "url": "https://github.com/ad-si/Perspec",
+      "description": "Scriptable desktop app to correct the perspective of images",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 743,
+      "forks": 38,
+      "added_stars": "19 stars today"
     },
     {
       "title": "digital-asset / daml",
@@ -45,6 +45,36 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 3179,
+      "forks": 755,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 39821,
+      "forks": 1938,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "commercialhaskell / stack",
+      "url": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 4073,
+      "forks": 848,
+      "added_stars": "1 star today"
+    },
+    {
       "title": "haskell / cabal",
       "url": "https://github.com/haskell/cabal",
       "description": "Official upstream development repository for Cabal and cabal-install",
@@ -55,14 +85,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 3179,
-      "forks": 755,
-      "added_stars": "1 star today"
+      "stars": 12336,
+      "forks": 502,
+      "added_stars": "2 stars today"
     },
     {
       "title": "nammayatri / nammayatri",
@@ -72,67 +102,27 @@
       "languageColor": "#5e5086",
       "stars": 2530,
       "forks": 389,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2906,
-      "forks": 420,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "haskell / haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2942,
-      "forks": 451,
       "added_stars": "0 stars today"
     },
     {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1501,
-      "forks": 64,
-      "added_stars": "2 stars today"
+      "stars": 19199,
+      "forks": 1327,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "title": "IntersectMBO / plutus",
+      "url": "https://github.com/IntersectMBO/plutus",
+      "description": "The Plutus language implementation and tools",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12334,
-      "forks": 502,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "wireapp / wire-server",
-      "url": "https://github.com/wireapp/wire-server",
-      "description": "🇪🇺 Wire back-end services",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2783,
-      "forks": 332,
+      "stars": 1635,
+      "forks": 509,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 39812,
-      "forks": 1937,
-      "added_stars": "4 stars today"
     }
   ]
 }

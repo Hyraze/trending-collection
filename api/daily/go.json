@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "esengine / DeepSeek-Reasonix",
@@ -10,109 +10,9 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30940,
-      "forks": 1987,
-      "added_stars": "922 stars today"
-    },
-    {
-      "title": "moby / moby",
-      "url": "https://github.com/moby/moby",
-      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 71975,
-      "forks": 19156,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "kubernetes / kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 124240,
-      "forks": 43758,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "golang / go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 135605,
-      "forks": 19244,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "projectdiscovery / nuclei",
-      "url": "https://github.com/projectdiscovery/nuclei",
-      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 30303,
-      "forks": 3779,
-      "added_stars": "59 stars today"
-    },
-    {
-      "title": "argoproj / argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 23839,
-      "forks": 7690,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "ethereum / go-ethereum",
-      "url": "https://github.com/ethereum/go-ethereum",
-      "description": "Go implementation of the Ethereum protocol",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 51264,
-      "forks": 22092,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "spf13 / viper",
-      "url": "https://github.com/spf13/viper",
-      "description": "Go configuration with fangs",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 30423,
-      "forks": 2282,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 44009,
-      "forks": 5578,
-      "added_stars": "406 stars today"
-    },
-    {
-      "title": "docker / compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 37974,
-      "forks": 5780,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "chaitin / SafeLine",
-      "url": "https://github.com/chaitin/SafeLine",
-      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22269,
-      "forks": 1496,
-      "added_stars": "60 stars today"
+      "stars": 31807,
+      "forks": 2051,
+      "added_stars": "747 stars today"
     },
     {
       "title": "gastownhall / beads",
@@ -120,69 +20,49 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26006,
-      "forks": 1747,
-      "added_stars": "102 stars today"
+      "stars": 26062,
+      "forks": 1751,
+      "added_stars": "71 stars today"
     },
     {
-      "title": "superplanehq / superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "The open source control plane for agentic engineering.",
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4617,
-      "forks": 489,
-      "added_stars": "177 stars today"
+      "stars": 44312,
+      "forks": 5622,
+      "added_stars": "332 stars today"
     },
     {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "title": "binwiederhier / ntfy",
+      "url": "https://github.com/binwiederhier/ntfy",
+      "description": "Send push notifications to your phone or desktop using PUT/POST",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37244,
-      "forks": 566,
-      "added_stars": "19 stars today"
+      "stars": 33094,
+      "forks": 1516,
+      "added_stars": "109 stars today"
     },
     {
-      "title": "dolthub / dolt",
-      "url": "https://github.com/dolthub/dolt",
-      "description": "Dolt – Git for Data",
+      "title": "sundowndev / phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24075,
-      "forks": 845,
-      "added_stars": "20 stars today"
+      "stars": 17355,
+      "forks": 5355,
+      "added_stars": "49 stars today"
     },
     {
-      "title": "masterking32 / MasterDnsVPN",
-      "url": "https://github.com/masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "title": "projectdiscovery / nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6897,
-      "forks": 777,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "zzet / gortex",
-      "url": "https://github.com/zzet/gortex",
-      "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1074,
-      "forks": 98,
-      "added_stars": "59 stars today"
-    },
-    {
-      "title": "danielmiessler / Fabric",
-      "url": "https://github.com/danielmiessler/Fabric",
-      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 43321,
-      "forks": 4221,
-      "added_stars": "17 stars today"
+      "stars": 30326,
+      "forks": 3780,
+      "added_stars": "38 stars today"
     },
     {
       "title": "Project-HAMi / HAMi",
@@ -190,9 +70,59 @@
       "description": "Heterogeneous GPU Sharing on Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4194,
-      "forks": 718,
-      "added_stars": "15 stars today"
+      "stars": 4231,
+      "forks": 724,
+      "added_stars": "38 stars today"
+    },
+    {
+      "title": "docker / compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 38013,
+      "forks": 5781,
+      "added_stars": "55 stars today"
+    },
+    {
+      "title": "gin-gonic / gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 89050,
+      "forks": 8661,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "pulumi / pulumi",
+      "url": "https://github.com/pulumi/pulumi",
+      "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 25531,
+      "forks": 1412,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "zzet / gortex",
+      "url": "https://github.com/zzet/gortex",
+      "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1088,
+      "forks": 97,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "pranshuparmar / witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19046,
+      "forks": 610,
+      "added_stars": "165 stars today"
     },
     {
       "title": "junegunn / fzf",
@@ -200,39 +130,119 @@
       "description": "🌸 A command-line fuzzy finder",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 82316,
-      "forks": 2840,
-      "added_stars": "42 stars today"
+      "stars": 82384,
+      "forks": 2846,
+      "added_stars": "85 stars today"
     },
     {
-      "title": "spf13 / cobra",
-      "url": "https://github.com/spf13/cobra",
-      "description": "A Commander for modern Go CLI interactions",
+      "title": "github / github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 44390,
-      "forks": 3197,
-      "added_stars": "16 stars today"
+      "stars": 31982,
+      "forks": 4729,
+      "added_stars": "25 stars today"
     },
     {
-      "title": "github / gh-stack",
-      "url": "https://github.com/github/gh-stack",
-      "description": "GitHub Stacked PRs",
+      "title": "k3s-io / k3s",
+      "url": "https://github.com/k3s-io/k3s",
+      "description": "Lightweight Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1055,
-      "forks": 44,
-      "added_stars": "57 stars today"
+      "stars": 33672,
+      "forks": 2697,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "syncthing / syncthing",
-      "url": "https://github.com/syncthing/syncthing",
-      "description": "Open Source Continuous File Synchronization",
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "The open source control plane for agentic engineering.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 87280,
-      "forks": 5391,
-      "added_stars": "44 stars today"
+      "stars": 4706,
+      "forks": 502,
+      "added_stars": "98 stars today"
+    },
+    {
+      "title": "kubernetes-sigs / agent-sandbox",
+      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3416,
+      "forks": 437,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "golang / go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 135646,
+      "forks": 19245,
+      "added_stars": "58 stars today"
+    },
+    {
+      "title": "leookun / cursor-byok",
+      "url": "https://github.com/leookun/cursor-byok",
+      "description": "Infinite BYOK in Cursor https://github.com/leookun/cursor-byok/releases",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2141,
+      "forks": 322,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "authzed / spicedb",
+      "url": "https://github.com/authzed/spicedb",
+      "description": "Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6933,
+      "forks": 410,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "TwiN / gatus",
+      "url": "https://github.com/TwiN/gatus",
+      "description": "Automated developer-oriented status page with alerting and incident support",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11722,
+      "forks": 790,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "google / osv.dev",
+      "url": "https://github.com/google/osv.dev",
+      "description": "Open source vulnerability DB and triage service.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2870,
+      "forks": 348,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "gastownhall / gascity",
+      "url": "https://github.com/gastownhall/gascity",
+      "description": "Orchestration-builder SDK for multi-agent coding workflows",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1077,
+      "forks": 347,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "wailsapp / wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 35705,
+      "forks": 1792,
+      "added_stars": "11 stars today"
     }
   ]
 }

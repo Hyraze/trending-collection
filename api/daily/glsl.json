@@ -2,37 +2,27 @@
   "title": "GitHub Glsl Languages Daily Trending",
   "description": "Daily Trending of Glsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
-    {
-      "title": "KhronosGroup / SPIRV-Cross",
-      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
-      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 2478,
-      "forks": 695,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "SaschaWillems / Vulkan",
       "url": "https://github.com/SaschaWillems/Vulkan",
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 12088,
+      "stars": 12090,
       "forks": 2225,
-      "added_stars": "2 stars today"
+      "added_stars": "3 stars today"
     },
     {
-      "title": "vanillagreencom / vstack",
-      "url": "https://github.com/vanillagreencom/vstack",
-      "description": "Skills, agents, hooks. Cross-harness. With a side of Pi.",
+      "title": "KhronosGroup / SPIRV-Cross",
+      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
+      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 52,
-      "forks": 20,
-      "added_stars": "0 stars today"
+      "stars": 2481,
+      "forks": 697,
+      "added_stars": "2 stars today"
     },
     {
       "title": "cizia64 / CrossMix-OS",
@@ -45,34 +35,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "sixthsurge / photon",
-      "url": "https://github.com/sixthsurge/photon",
-      "description": "A gameplay-focused shader pack for Minecraft",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 1857,
-      "forks": 312,
-      "added_stars": "3 stars today"
-    },
-    {
       "title": "0xhckr / ghostty-shaders",
       "url": "https://github.com/0xhckr/ghostty-shaders",
       "description": "A repository containing many free shaders to use with ghostty (the terminal)",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 1464,
+      "stars": 1465,
       "forks": 96,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "dyphire / mpv-config",
-      "url": "https://github.com/dyphire/mpv-config",
-      "description": "本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 1816,
-      "forks": 83,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     }
   ]
 }

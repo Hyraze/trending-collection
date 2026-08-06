@@ -2,27 +2,17 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1163,
-      "forks": 398,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "leanprover / lean4",
-      "url": "https://github.com/leanprover/lean4",
-      "description": "Lean 4 programming language and theorem prover",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 8694,
-      "forks": 928,
-      "added_stars": "7 stars today"
+      "stars": 3764,
+      "forks": 1560,
+      "added_stars": "3 stars today"
     },
     {
       "title": "harbor-framework / terminal-bench-science",
@@ -30,19 +20,9 @@
       "description": "Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 234,
-      "forks": 182,
+      "stars": 237,
+      "forks": 186,
       "added_stars": "3 stars today"
-    },
-    {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 3759,
-      "forks": 1556,
-      "added_stars": "11 stars today"
     },
     {
       "title": "leanprover-community / mathlib3",
@@ -55,6 +35,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "digama0 / lean4lean",
+      "url": "https://github.com/digama0/lean4lean",
+      "description": "Lean 4 kernel / 'external checker' written in Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 221,
+      "forks": 30,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "teorth / analysis",
       "url": "https://github.com/teorth/analysis",
       "description": "A Lean companion to Analysis I",
@@ -62,7 +52,37 @@
       "languageColor": "#ccc",
       "stars": 1844,
       "forks": 260,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover-community / physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 670,
+      "forks": 150,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "opencompl / veir",
+      "url": "https://github.com/opencompl/veir",
+      "description": "Verified Intermediate Representation",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 84,
+      "forks": 18,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "leanprover / lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 8700,
+      "forks": 928,
+      "added_stars": "7 stars today"
     }
   ]
 }

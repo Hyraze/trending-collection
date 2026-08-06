@@ -2,18 +2,8 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
-    {
-      "title": "microsoft-foundry / foundry-samples",
-      "url": "https://github.com/microsoft-foundry/foundry-samples",
-      "description": "Embedded samples in Azure AI Foundry docs",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 413,
-      "forks": 450,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "Azure / bicep-registry-modules",
       "url": "https://github.com/Azure/bicep-registry-modules",
@@ -25,16 +15,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator",
-      "url": "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator",
-      "description": "AZ-104 Microsoft Azure Administrator",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 4546,
-      "forks": 4486,
-      "added_stars": "1 star today"
-    },
-    {
       "title": "Azure / azure-quickstart-templates",
       "url": "https://github.com/Azure/azure-quickstart-templates",
       "description": "Azure Quickstart Templates",
@@ -42,7 +22,7 @@
       "languageColor": "#519aba",
       "stars": 14846,
       "forks": 16210,
-      "added_stars": "2 stars today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "Azure / bicep",
@@ -50,29 +30,29 @@
       "description": "Bicep is a declarative language for describing and deploying Azure resources",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 3623,
+      "stars": 3624,
       "forks": 822,
-      "added_stars": "0 stars today"
+      "added_stars": "3 stars today"
     },
     {
-      "title": "Azure-Samples / get-started-with-ai-chat",
-      "url": "https://github.com/Azure-Samples/get-started-with-ai-chat",
-      "description": "Basic sample for deploying chat web apps with Azure AI Foundry and SDKs",
+      "title": "MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator",
+      "url": "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator",
+      "description": "AZ-104 Microsoft Azure Administrator",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 273,
-      "forks": 391,
-      "added_stars": "0 stars today"
+      "stars": 4547,
+      "forks": 4486,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "microsoft / azure-container-apps",
-      "url": "https://github.com/microsoft/azure-container-apps",
-      "description": "Roadmap and issues for Azure Container Apps",
+      "title": "microsoft-foundry / foundry-samples",
+      "url": "https://github.com/microsoft-foundry/foundry-samples",
+      "description": "Embedded samples in Azure AI Foundry docs",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 443,
-      "forks": 53,
-      "added_stars": "0 stars today"
+      "stars": 414,
+      "forks": 451,
+      "added_stars": "1 star today"
     }
   ]
 }

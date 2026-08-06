@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
     {
       "title": "autowarefoundation / autoware",
@@ -10,29 +10,9 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 11944,
-      "forks": 3678,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "redhat-openshift-ecosystem / certified-operators",
-      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
-      "description": "Production catalog for Red Hat Certified Operator Bundles",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 82,
-      "forks": 646,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "microsoft / vscode-remote-release",
-      "url": "https://github.com/microsoft/vscode-remote-release",
-      "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 4140,
-      "forks": 460,
-      "added_stars": "0 stars today"
+      "stars": 11947,
+      "forks": 3679,
+      "added_stars": "3 stars today"
     },
     {
       "title": "vulhub / vulhub",
@@ -40,39 +20,9 @@
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 21081,
+      "stars": 21084,
       "forks": 4796,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "oxsecurity / megalinter",
-      "url": "https://github.com/oxsecurity/megalinter",
-      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2543,
-      "forks": 303,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "dotnet / dotnet-docker",
-      "url": "https://github.com/dotnet/dotnet-docker",
-      "description": "Official container images for .NET",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 4858,
-      "forks": 1973,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "nordquant / dbt-student-repo",
-      "url": "https://github.com/nordquant/dbt-student-repo",
-      "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21,
-      "forks": 2824,
-      "added_stars": "0 stars today"
+      "added_stars": "9 stars today"
     },
     {
       "title": "nodejs / docker-node",
@@ -81,8 +31,68 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 8578,
-      "forks": 1991,
+      "forks": 1990,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "streetsidesoftware / cspell-cli",
+      "url": "https://github.com/streetsidesoftware/cspell-cli",
+      "description": "CSpell command line spell checker.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 131,
+      "forks": 12,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "redhat-openshift-ecosystem / certified-operators",
+      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
+      "description": "Production catalog for Red Hat Certified Operator Bundles",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 82,
+      "forks": 647,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "oxsecurity / megalinter",
+      "url": "https://github.com/oxsecurity/megalinter",
+      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2547,
+      "forks": 303,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "JawadTechYT / JAWAD-MD",
+      "url": "https://github.com/JawadTechYT/JAWAD-MD",
+      "description": "A simple WhatsApp bot to manage groups",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 1434,
+      "forks": 4304,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "dotnet / dotnet-docker",
+      "url": "https://github.com/dotnet/dotnet-docker",
+      "description": "Official container images for .NET",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4859,
+      "forks": 1973,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "goldbergyoni / nodebestpractices",
+      "url": "https://github.com/goldbergyoni/nodebestpractices",
+      "description": "✅ The Node.js best practices list (July 2026)",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 105477,
+      "forks": 10709,
+      "added_stars": "5 stars today"
     },
     {
       "title": "piyushsachdeva / CKA-2024",
@@ -91,47 +101,47 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 1133,
-      "forks": 1912,
-      "added_stars": "1 star today"
+      "forks": 1914,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "compose-spec / compose-spec",
-      "url": "https://github.com/compose-spec/compose-spec",
-      "description": "The Compose specification",
+      "title": "render-examples / mysql",
+      "url": "https://github.com/render-examples/mysql",
+      "description": "MySQL 8.0 and 5.7 on Render",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2717,
-      "forks": 779,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "laradock / laradock",
-      "url": "https://github.com/laradock/laradock",
-      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 12658,
-      "forks": 4362,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "docker-library / python",
-      "url": "https://github.com/docker-library/python",
-      "description": "Docker Official Image packaging for Python",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2769,
-      "forks": 1108,
+      "stars": 44,
+      "forks": 1124,
       "added_stars": "0 stars today"
     },
     {
-      "title": "redhat-openshift-ecosystem / community-operators-prod",
-      "url": "https://github.com/redhat-openshift-ecosystem/community-operators-prod",
-      "description": "community-operators metadata backing OpenShift OperatorHub",
+      "title": "nordquant / dbt-student-repo",
+      "url": "https://github.com/nordquant/dbt-student-repo",
+      "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 138,
-      "forks": 653,
+      "stars": 21,
+      "forks": 2841,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "datawhalechina / vibe-vibe",
+      "url": "https://github.com/datawhalechina/vibe-vibe",
+      "description": "AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 5868,
+      "forks": 472,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "linuxserver / docker-unifi-network-application",
+      "url": "https://github.com/linuxserver/docker-unifi-network-application",
+      "description": "",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 1159,
+      "forks": 97,
       "added_stars": "0 stars today"
     }
   ]

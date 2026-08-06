@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Daily Trending",
   "description": "Daily Trending of Smali Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "LittleSurvival / copymanga-copy20",
@@ -10,7 +10,7 @@
       "description": "Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": 2487,
+      "stars": 2490,
       "forks": 15,
       "added_stars": "170 stars this month"
     },
@@ -20,9 +20,29 @@
       "description": "GameHub Lite is a community-maintained modified version of GameHub for education purposes",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": 1895,
+      "stars": 1897,
       "forks": 54,
-      "added_stars": "117 stars this month"
+      "added_stars": "114 stars this month"
+    },
+    {
+      "title": "The412Banner / BannerHub",
+      "url": "https://github.com/The412Banner/BannerHub",
+      "description": "GameHub ReVanced — extended with GOG, Epic & Amazon game libraries, Component Manager, Winlator HUD, per-game controls & configs, and more. Built via apktool smali patching.",
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 448,
+      "forks": 24,
+      "added_stars": "58 stars this month"
+    },
+    {
+      "title": "phhusson / treble_experimentations",
+      "url": "https://github.com/phhusson/treble_experimentations",
+      "description": "Notes about tinkering with Android Project Treble",
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 3578,
+      "forks": 700,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "sothx / xiaomi_pad_system_patch_additional_module",
@@ -31,28 +51,8 @@
       "language": "Smali",
       "languageColor": "#ccc",
       "stars": 43,
-      "forks": 210,
+      "forks": 209,
       "added_stars": "2 stars this month"
-    },
-    {
-      "title": "phhusson / treble_experimentations",
-      "url": "https://github.com/phhusson/treble_experimentations",
-      "description": "Notes about tinkering with Android Project Treble",
-      "language": "Smali",
-      "languageColor": "#ccc",
-      "stars": 3580,
-      "forks": 700,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "The412Banner / BannerHub",
-      "url": "https://github.com/The412Banner/BannerHub",
-      "description": "GameHub ReVanced — extended with GOG, Epic & Amazon game libraries, Component Manager, Winlator HUD, per-game controls & configs, and more. Built via apktool smali patching.",
-      "language": "Smali",
-      "languageColor": "#ccc",
-      "stars": 444,
-      "forks": 24,
-      "added_stars": "57 stars this month"
     },
     {
       "title": "AhMyth / AhMyth-Android-RAT",
@@ -60,9 +60,9 @@
       "description": "Android Remote Administration Tool",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": 5244,
-      "forks": 1870,
-      "added_stars": "53 stars this month"
+      "stars": 5247,
+      "forks": 1871,
+      "added_stars": "55 stars this month"
     },
     {
       "title": "vtosters / lite",
@@ -75,6 +75,16 @@
       "added_stars": "10 stars this month"
     },
     {
+      "title": "rianlu / smartisan-launcher-maintained",
+      "url": "https://github.com/rianlu/smartisan-launcher-maintained",
+      "description": "面向新版 Android 的 锤子桌面 非官方维护版",
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 702,
+      "forks": 27,
+      "added_stars": "137 stars this month"
+    },
+    {
       "title": "h4ck3r0 / Lemon-termux",
       "url": "https://github.com/h4ck3r0/Lemon-termux",
       "description": "Lemon Rat For Termux , No Error More Stable , All Error Fixed",
@@ -82,7 +92,7 @@
       "languageColor": "#ccc",
       "stars": 244,
       "forks": 45,
-      "added_stars": "9 stars this month"
+      "added_stars": "8 stars this month"
     }
   ]
 }

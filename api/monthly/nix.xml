@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -26,9 +26,9 @@
     <description>Manage your macOS using Nix</description>
   </item>
   <item>
-    <title>NixOS / nix.dev</title>
-    <link>https://github.com/NixOS/nix.dev</link>
-    <description>Official documentation for getting things done with Nix.</description>
+    <title>Mic92 / sops-nix</title>
+    <link>https://github.com/Mic92/sops-nix</link>
+    <description>Atomic secret provisioning for NixOS based on sops</description>
   </item>
   <item>
     <title>NixOS / nixos-hardware</title>
@@ -36,14 +36,24 @@
     <description>A collection of NixOS modules covering hardware quirks.</description>
   </item>
   <item>
-    <title>Mic92 / sops-nix</title>
-    <link>https://github.com/Mic92/sops-nix</link>
-    <description>Atomic secret provisioning for NixOS based on sops</description>
+    <title>cloud-gouv / securix</title>
+    <link>https://github.com/cloud-gouv/securix</link>
+    <description>SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.</description>
   </item>
   <item>
     <title>numtide / system-manager</title>
     <link>https://github.com/numtide/system-manager</link>
     <description>Manage system config using nix on any distro</description>
+  </item>
+  <item>
+    <title>NixOS / nix.dev</title>
+    <link>https://github.com/NixOS/nix.dev</link>
+    <description>Official documentation for getting things done with Nix.</description>
+  </item>
+  <item>
+    <title>Misterio77 / nix-starter-configs</title>
+    <link>https://github.com/Misterio77/nix-starter-configs</link>
+    <description>Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</description>
   </item>
   <item>
     <title>nix-community / NixOS-WSL</title>
@@ -61,24 +71,9 @@
     <description>NixOS MicroVMs</description>
   </item>
   <item>
-    <title>Misterio77 / nix-starter-configs</title>
-    <link>https://github.com/Misterio77/nix-starter-configs</link>
-    <description>Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</description>
-  </item>
-  <item>
     <title>nix-community / nixvim</title>
     <link>https://github.com/nix-community/nixvim</link>
     <description>Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</description>
-  </item>
-  <item>
-    <title>openclaw / nix-openclaw</title>
-    <link>https://github.com/openclaw/nix-openclaw</link>
-    <description>Packages OpenClaw for nix.</description>
-  </item>
-  <item>
-    <title>sodiboo / niri-flake</title>
-    <link>https://github.com/sodiboo/niri-flake</link>
-    <description>Nix-native configuration for niri</description>
   </item>
   <item>
     <title>feel-co / hjem</title>

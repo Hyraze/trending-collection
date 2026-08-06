@@ -2,46 +2,26 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:01:54 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
   "items": [
-    {
-      "title": "guchengwuyue / yshop-drink",
-      "url": "https://github.com/guchengwuyue/yshop-drink",
-      "description": "yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 1506,
-      "forks": 383,
-      "added_stars": "1 star today"
-    },
     {
       "title": "pgpartman / pg_partman",
       "url": "https://github.com/pgpartman/pg_partman",
       "description": "Partition management extension for PostgreSQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 2787,
+      "stars": 2788,
       "forks": 317,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "pgmq / pgmq",
-      "url": "https://github.com/pgmq/pgmq",
-      "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 5059,
-      "forks": 141,
       "added_stars": "2 stars today"
     },
     {
-      "title": "openmaptiles / openmaptiles",
-      "url": "https://github.com/openmaptiles/openmaptiles",
-      "description": "OpenMapTiles Vector Tile Schema Implementation",
+      "title": "supabase / splinter",
+      "url": "https://github.com/supabase/splinter",
+      "description": "Supabase Postgres Linter: Performance and Security Advisors",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 3131,
-      "forks": 672,
+      "stars": 261,
+      "forks": 100,
       "added_stars": "1 star today"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "swagger-api / swagger-codegen",
@@ -12,67 +12,7 @@
       "languageColor": "#724b3b",
       "stars": 17779,
       "forks": 5966,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "prometheus-community / helm-charts",
-      "url": "https://github.com/prometheus-community/helm-charts",
-      "description": "Prometheus community Helm charts",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 6165,
-      "forks": 5378,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "Kong / charts",
-      "url": "https://github.com/Kong/charts",
-      "description": "Helm charts for Kong",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 296,
-      "forks": 492,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "netbox-community / netbox-chart",
-      "url": "https://github.com/netbox-community/netbox-chart",
-      "description": "A Helm chart for NetBox",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 351,
-      "forks": 185,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "amzn / selling-partner-api-models",
-      "url": "https://github.com/amzn/selling-partner-api-models",
-      "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 885,
-      "forks": 792,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "argoproj / argo-helm",
-      "url": "https://github.com/argoproj/argo-helm",
-      "description": "ArgoProj Helm Charts",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 2338,
-      "forks": 2100,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "goharbor / harbor-helm",
-      "url": "https://github.com/goharbor/harbor-helm",
-      "description": "The helm chart to deploy Harbor",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 1510,
-      "forks": 861,
-      "added_stars": "3 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "aws / eks-charts",
@@ -85,6 +25,76 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "prometheus-community / helm-charts",
+      "url": "https://github.com/prometheus-community/helm-charts",
+      "description": "Prometheus community Helm charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 6165,
+      "forks": 5378,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "netbox-community / netbox-chart",
+      "url": "https://github.com/netbox-community/netbox-chart",
+      "description": "A Helm chart for NetBox",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 352,
+      "forks": 185,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "amzn / selling-partner-api-models",
+      "url": "https://github.com/amzn/selling-partner-api-models",
+      "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 887,
+      "forks": 790,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "Kong / charts",
+      "url": "https://github.com/Kong/charts",
+      "description": "Helm charts for Kong",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 296,
+      "forks": 492,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "argoproj / argo-helm",
+      "url": "https://github.com/argoproj/argo-helm",
+      "description": "ArgoProj Helm Charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 2338,
+      "forks": 2100,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "goharbor / harbor-helm",
+      "url": "https://github.com/goharbor/harbor-helm",
+      "description": "The helm chart to deploy Harbor",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 1510,
+      "forks": 862,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "FairwindsOps / charts",
+      "url": "https://github.com/FairwindsOps/charts",
+      "description": "Fairwinds helm chart repository",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 154,
+      "forks": 179,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "temporalio / helm-charts",
       "url": "https://github.com/temporalio/helm-charts",
       "description": "Temporal Helm charts",
@@ -95,6 +105,26 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "thmsgbrt / thmsgbrt",
+      "url": "https://github.com/thmsgbrt/thmsgbrt",
+      "description": "My awesome README.md",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 539,
+      "forks": 1378,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "jenkinsci / helm-charts",
+      "url": "https://github.com/jenkinsci/helm-charts",
+      "description": "Jenkins helm charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 658,
+      "forks": 929,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "codefresh-contrib / gitops-certification-examples",
       "url": "https://github.com/codefresh-contrib/gitops-certification-examples",
       "description": "GitOps Certification Level 1 examples",
@@ -102,27 +132,7 @@
       "languageColor": "#724b3b",
       "stars": 302,
       "forks": 5944,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "renovatebot / helm-charts",
-      "url": "https://github.com/renovatebot/helm-charts",
-      "description": "",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 140,
-      "forks": 83,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "thmsgbrt / thmsgbrt",
-      "url": "https://github.com/thmsgbrt/thmsgbrt",
-      "description": "My awesome README.md",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 538,
-      "forks": 1376,
-      "added_stars": "2 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator",
@@ -10,9 +10,9 @@
       "description": "AZ-104 Microsoft Azure Administrator",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 4546,
+      "stars": 4547,
       "forks": 4486,
-      "added_stars": "14 stars this week"
+      "added_stars": "13 stars this week"
     },
     {
       "title": "Azure / bicep-registry-modules",
@@ -30,19 +30,9 @@
       "description": "Bicep is a declarative language for describing and deploying Azure resources",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 3623,
+      "stars": 3624,
       "forks": 822,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "microsoft-foundry / foundry-samples",
-      "url": "https://github.com/microsoft-foundry/foundry-samples",
-      "description": "Embedded samples in Azure AI Foundry docs",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 413,
-      "forks": 450,
-      "added_stars": "9 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "Azure / azure-quickstart-templates",
@@ -50,9 +40,19 @@
       "description": "Azure Quickstart Templates",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 14846,
+      "stars": 14847,
       "forks": 16210,
       "added_stars": "7 stars this week"
+    },
+    {
+      "title": "microsoft-foundry / foundry-samples",
+      "url": "https://github.com/microsoft-foundry/foundry-samples",
+      "description": "Embedded samples in Azure AI Foundry docs",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 414,
+      "forks": 451,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "microsoft / azure-container-apps",
@@ -61,7 +61,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 443,
-      "forks": 53,
+      "forks": 52,
       "added_stars": "0 stars this week"
     }
   ]

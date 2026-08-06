@@ -4,26 +4,11 @@
   <title>GitHub Perl Languages Daily Trending</title>
   <description>Daily Trending of Perl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:01:54 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
   <item>
-    <title>asbru-cm / asbru-cm</title>
-    <link>https://github.com/asbru-cm/asbru-cm</link>
-    <description>Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.</description>
-  </item>
-  <item>
-    <title>szTheory / exifcleaner</title>
-    <link>https://github.com/szTheory/exifcleaner</link>
-    <description>Cross-platform desktop GUI app to clean image metadata</description>
-  </item>
-  <item>
-    <title>manwar / perlweeklychallenge-club</title>
-    <link>https://github.com/manwar/perlweeklychallenge-club</link>
-    <description>Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…</description>
-  </item>
-  <item>
-    <title>lm-sensors / lm-sensors</title>
-    <link>https://github.com/lm-sensors/lm-sensors</link>
-    <description>lm-sensors repository</description>
+    <title>brendangregg / FlameGraph</title>
+    <link>https://github.com/brendangregg/FlameGraph</link>
+    <description>Stack trace visualizer</description>
   </item>
   <item>
     <title>glpi-project / glpi-agent</title>
@@ -31,9 +16,29 @@
     <description>GLPI Agent</description>
   </item>
   <item>
-    <title>brendangregg / FlameGraph</title>
-    <link>https://github.com/brendangregg/FlameGraph</link>
-    <description>Stack trace visualizer</description>
+    <title>lm-sensors / lm-sensors</title>
+    <link>https://github.com/lm-sensors/lm-sensors</link>
+    <description>lm-sensors repository</description>
+  </item>
+  <item>
+    <title>manwar / perlweeklychallenge-club</title>
+    <link>https://github.com/manwar/perlweeklychallenge-club</link>
+    <description>Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…</description>
+  </item>
+  <item>
+    <title>szTheory / exifcleaner</title>
+    <link>https://github.com/szTheory/exifcleaner</link>
+    <description>Cross-platform desktop GUI app to clean image metadata</description>
+  </item>
+  <item>
+    <title>os-autoinst / os-autoinst-distri-opensuse</title>
+    <link>https://github.com/os-autoinst/os-autoinst-distri-opensuse</link>
+    <description>os-autoinst test cases for openSUSE</description>
+  </item>
+  <item>
+    <title>Perl / perl5</title>
+    <link>https://github.com/Perl/perl5</link>
+    <description>🐪 The Perl programming language</description>
   </item>
   <item>
     <title>adrienverge / openfortivpn</title>
@@ -41,14 +46,19 @@
     <description>Client for PPP+TLS VPN tunnel services</description>
   </item>
   <item>
-    <title>inverse-inc / packetfence</title>
-    <link>https://github.com/inverse-inc/packetfence</link>
-    <description>PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…</description>
+    <title>Zimbra / zm-build</title>
+    <link>https://github.com/Zimbra/zm-build</link>
+    <description>zm-build for Zimbra Collaboration Suite, FOSS Edition</description>
   </item>
   <item>
     <title>AlDanial / cloc</title>
     <link>https://github.com/AlDanial/cloc</link>
     <description>cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</description>
+  </item>
+  <item>
+    <title>exiftool / exiftool</title>
+    <link>https://github.com/exiftool/exiftool</link>
+    <description>ExifTool meta information reader/writer</description>
   </item>
 </channel>
 </rss>

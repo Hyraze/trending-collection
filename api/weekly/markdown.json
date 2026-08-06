@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Daily Trending",
   "description": "Daily Trending of Markdown Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:04:04 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
   "items": [
     {
       "title": "codecrafters-io / build-your-own-x",
@@ -10,9 +10,29 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 536147,
-      "forks": 50648,
-      "added_stars": "3,886 stars this week"
+      "stars": 536577,
+      "forks": 50685,
+      "added_stars": "4,025 stars this week"
+    },
+    {
+      "title": "microsoft / vscode-docs",
+      "url": "https://github.com/microsoft/vscode-docs",
+      "description": "Public documentation for Visual Studio Code",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 6586,
+      "forks": 5705,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "mdn / content",
+      "url": "https://github.com/mdn/content",
+      "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 10908,
+      "forks": 23185,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "MicrosoftDocs / azure-docs",
@@ -21,38 +41,8 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": 10939,
-      "forks": 21777,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "mdn / content",
-      "url": "https://github.com/mdn/content",
-      "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 10905,
-      "forks": 23184,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "microsoft / vscode-docs",
-      "url": "https://github.com/microsoft/vscode-docs",
-      "description": "Public documentation for Visual Studio Code",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 6585,
-      "forks": 5701,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "OAI / OpenAPI-Specification",
-      "url": "https://github.com/OAI/OpenAPI-Specification",
-      "description": "The OpenAPI Specification Repository",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 31130,
-      "forks": 9161,
-      "added_stars": "20 stars this week"
+      "forks": 21776,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "tldr-pages / tldr",
@@ -60,9 +50,19 @@
       "description": "Collaborative cheatsheets for console commands 📚.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 63301,
-      "forks": 5358,
-      "added_stars": "79 stars this week"
+      "stars": 63307,
+      "forks": 5360,
+      "added_stars": "78 stars this week"
+    },
+    {
+      "title": "OAI / OpenAPI-Specification",
+      "url": "https://github.com/OAI/OpenAPI-Specification",
+      "description": "The OpenAPI Specification Repository",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 31133,
+      "forks": 9162,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "jaywcjlove / linux-command",
@@ -70,9 +70,9 @@
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 36507,
-      "forks": 6598,
-      "added_stars": "62 stars this week"
+      "stars": 36519,
+      "forks": 6601,
+      "added_stars": "68 stars this week"
     },
     {
       "title": "docker / docs",
@@ -80,19 +80,9 @@
       "description": "Source repo for Docker's Documentation",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 4625,
-      "forks": 8419,
+      "stars": 4627,
+      "forks": 8418,
       "added_stars": "8 stars this week"
-    },
-    {
-      "title": "ppy / osu-wiki",
-      "url": "https://github.com/ppy/osu-wiki",
-      "description": "home of the osu! wiki",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 580,
-      "forks": 1182,
-      "added_stars": "1 star this week"
     },
     {
       "title": "adr / madr",
@@ -100,7 +90,7 @@
       "description": "Markdown Architectural Decision Records",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 2376,
+      "stars": 2378,
       "forks": 466,
       "added_stars": "20 stars this week"
     },
@@ -110,9 +100,29 @@
       "description": "RFCs for changes to Rust",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 6570,
+      "stars": 6571,
       "forks": 1698,
-      "added_stars": "6 stars this week"
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "ppy / osu-wiki",
+      "url": "https://github.com/ppy/osu-wiki",
+      "description": "home of the osu! wiki",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 581,
+      "forks": 1182,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "TRaSH-Guides / Guides",
+      "url": "https://github.com/TRaSH-Guides/Guides",
+      "description": "TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 3113,
+      "forks": 317,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "satoshilabs / slips",
@@ -122,17 +132,7 @@
       "languageColor": "#083fa1",
       "stars": 1685,
       "forks": 1899,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "Anmol-Baranwal / Cool-GIFs-For-GitHub",
-      "url": "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub",
-      "description": "🤝 Awesome List of GIFs & avatars to use in GitHub.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 2041,
-      "forks": 962,
-      "added_stars": "10 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "swiftlang / swift-evolution",
@@ -140,8 +140,8 @@
       "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 15865,
-      "forks": 2475,
+      "stars": 15864,
+      "forks": 2474,
       "added_stars": "5 stars this week"
     },
     {
@@ -152,17 +152,7 @@
       "languageColor": "#083fa1",
       "stars": 1990,
       "forks": 497,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "drknzz / GitHub-Achievements",
-      "url": "https://github.com/drknzz/GitHub-Achievements",
-      "description": "🔥 A Complete List of GitHub Profile Badges and Achievements 🔥",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 3033,
-      "forks": 306,
-      "added_stars": "15 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "rjmurillo / ai-agents",
@@ -175,14 +165,24 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "ethereum / ethereum-org-website",
-      "url": "https://github.com/ethereum/ethereum-org-website",
-      "description": "Ethereum.org is a primary online resource for the Ethereum community.",
+      "title": "adambard / learnxinyminutes-docs",
+      "url": "https://github.com/adambard/learnxinyminutes-docs",
+      "description": "Code documentation written as code! How novel and totally my idea!",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 5951,
-      "forks": 5412,
-      "added_stars": "6 stars this week"
+      "stars": 12319,
+      "forks": 3661,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "drknzz / GitHub-Achievements",
+      "url": "https://github.com/drknzz/GitHub-Achievements",
+      "description": "🔥 A Complete List of GitHub Profile Badges and Achievements 🔥",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 3036,
+      "forks": 306,
+      "added_stars": "14 stars this week"
     }
   ]
 }

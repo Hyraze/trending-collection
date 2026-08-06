@@ -4,7 +4,7 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 05 Aug 2026 05:06:14 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
   <item>
     <title>xenodium / agent-shell</title>
     <link>https://github.com/xenodium/agent-shell</link>
@@ -21,19 +21,14 @@
     <description>An Emacs framework for the stubborn martian hacker</description>
   </item>
   <item>
-    <title>google-coral / coralnpu</title>
-    <link>https://github.com/google-coral/coralnpu</link>
-    <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
+    <title>karthink / gptel</title>
+    <link>https://github.com/karthink/gptel</link>
+    <description>A simple, extensible LLM client for Emacs</description>
   </item>
   <item>
     <title>syl20bnr / spacemacs</title>
     <link>https://github.com/syl20bnr/spacemacs</link>
     <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
-  </item>
-  <item>
-    <title>karthink / gptel</title>
-    <link>https://github.com/karthink/gptel</link>
-    <description>A simple, extensible LLM client for Emacs</description>
   </item>
   <item>
     <title>emacs-mirror / emacs</title>
@@ -56,14 +51,14 @@
     <description>Official module library for Doom Emacs</description>
   </item>
   <item>
+    <title>google-coral / coralnpu</title>
+    <link>https://github.com/google-coral/coralnpu</link>
+    <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
+  </item>
+  <item>
     <title>flycheck / flycheck</title>
     <link>https://github.com/flycheck/flycheck</link>
     <description>On the fly syntax checking for GNU Emacs</description>
-  </item>
-  <item>
-    <title>qjcg / awesome-typst</title>
-    <link>https://github.com/qjcg/awesome-typst</link>
-    <description>Awesome Typst Links</description>
   </item>
   <item>
     <title>jrblevin / markdown-mode</title>
@@ -71,9 +66,24 @@
     <description>Emacs Markdown Mode</description>
   </item>
   <item>
+    <title>qjcg / awesome-typst</title>
+    <link>https://github.com/qjcg/awesome-typst</link>
+    <description>Awesome Typst Links</description>
+  </item>
+  <item>
+    <title>bbatsov / projectile</title>
+    <link>https://github.com/bbatsov/projectile</link>
+    <description>Project Interaction Library for Emacs</description>
+  </item>
+  <item>
     <title>abo-abo / hydra</title>
     <link>https://github.com/abo-abo/hydra</link>
     <description>make Emacs bindings that stick around</description>
+  </item>
+  <item>
+    <title>dimitri / el-get</title>
+    <link>https://github.com/dimitri/el-get</link>
+    <description>Manage the external elisp bits and pieces upon which you depend!</description>
   </item>
   <item>
     <title>manzaltu / claude-code-ide.el</title>
@@ -81,9 +91,9 @@
     <description>Claude Code IDE integration for Emacs</description>
   </item>
   <item>
-    <title>dimitri / el-get</title>
-    <link>https://github.com/dimitri/el-get</link>
-    <description>Manage the external elisp bits and pieces upon which you depend!</description>
+    <title>abo-abo / ace-window</title>
+    <link>https://github.com/abo-abo/ace-window</link>
+    <description>Quickly switch windows in Emacs</description>
   </item>
 </channel>
 </rss>

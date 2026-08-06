@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 05 Aug 2026 05:06:14 GMT",
+  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
   "items": [
     {
       "title": "permissionlesstech / bitchat",
@@ -10,9 +10,9 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 34460,
-      "forks": 5502,
-      "added_stars": "8,467 stars this month"
+      "stars": 34582,
+      "forks": 5523,
+      "added_stars": "8,603 stars this month"
     },
     {
       "title": "altic-dev / FluidVoice",
@@ -20,29 +20,9 @@
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9319,
-      "forks": 612,
-      "added_stars": "3,330 stars this month"
-    },
-    {
-      "title": "steipete / CodexBar",
-      "url": "https://github.com/steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 19652,
-      "forks": 1643,
-      "added_stars": "3,922 stars this month"
-    },
-    {
-      "title": "nikitabobko / AeroSpace",
-      "url": "https://github.com/nikitabobko/AeroSpace",
-      "description": "AeroSpace is an i3-like tiling window manager for macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 22183,
-      "forks": 612,
-      "added_stars": "740 stars this month"
+      "stars": 9360,
+      "forks": 617,
+      "added_stars": "3,221 stars this month"
     },
     {
       "title": "Ebullioscopic / Atoll",
@@ -50,19 +30,29 @@
       "description": "Dynamic Island for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3700,
-      "forks": 235,
-      "added_stars": "1,002 stars this month"
+      "stars": 3727,
+      "forks": 241,
+      "added_stars": "975 stars this month"
     },
     {
-      "title": "jaywcjlove / awesome-mac",
-      "url": "https://github.com/jaywcjlove/awesome-mac",
-      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "title": "steipete / CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 109216,
-      "forks": 8295,
-      "added_stars": "2,704 stars this month"
+      "stars": 19689,
+      "forks": 1649,
+      "added_stars": "3,679 stars this month"
+    },
+    {
+      "title": "nikitabobko / AeroSpace",
+      "url": "https://github.com/nikitabobko/AeroSpace",
+      "description": "AeroSpace is an i3-like tiling window manager for macOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 22207,
+      "forks": 615,
+      "added_stars": "763 stars this month"
     },
     {
       "title": "duongductrong / Snapzy",
@@ -70,29 +60,19 @@
       "description": "An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2627,
+      "stars": 2647,
       "forks": 141,
-      "added_stars": "745 stars this month"
+      "added_stars": "738 stars this month"
     },
     {
-      "title": "Starmel / OpenSuperWhisper",
-      "url": "https://github.com/Starmel/OpenSuperWhisper",
-      "description": "macOS dictation app",
+      "title": "jaywcjlove / awesome-mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2476,
-      "forks": 208,
-      "added_stars": "799 stars this month"
-    },
-    {
-      "title": "Beingpax / VoiceInk",
-      "url": "https://github.com/Beingpax/VoiceInk",
-      "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 5774,
-      "forks": 836,
-      "added_stars": "362 stars this month"
+      "stars": 109269,
+      "forks": 8303,
+      "added_stars": "2,708 stars this month"
     },
     {
       "title": "robinebers / openusage",
@@ -100,9 +80,39 @@
       "description": "Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3644,
-      "forks": 367,
-      "added_stars": "575 stars this month"
+      "stars": 3657,
+      "forks": 369,
+      "added_stars": "577 stars this month"
+    },
+    {
+      "title": "Starmel / OpenSuperWhisper",
+      "url": "https://github.com/Starmel/OpenSuperWhisper",
+      "description": "macOS dictation app",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2491,
+      "forks": 210,
+      "added_stars": "696 stars this month"
+    },
+    {
+      "title": "Beingpax / VoiceInk",
+      "url": "https://github.com/Beingpax/VoiceInk",
+      "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 5782,
+      "forks": 838,
+      "added_stars": "367 stars this month"
+    },
+    {
+      "title": "p0deje / Maccy",
+      "url": "https://github.com/p0deje/Maccy",
+      "description": "Lightweight clipboard manager for macOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 21032,
+      "forks": 1084,
+      "added_stars": "501 stars this month"
     },
     {
       "title": "tranvuongquocdat / SideScreen",
@@ -110,9 +120,9 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 700,
+      "stars": 708,
       "forks": 104,
-      "added_stars": "375 stars this month"
+      "added_stars": "383 stars this month"
     },
     {
       "title": "TelegramMessenger / Telegram-iOS",
@@ -120,19 +130,9 @@
       "description": "Telegram-iOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8811,
-      "forks": 2763,
-      "added_stars": "126 stars this month"
-    },
-    {
-      "title": "kitlangton / Hex",
-      "url": "https://github.com/kitlangton/Hex",
-      "description": "VOICE → WORDS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 2749,
-      "forks": 210,
-      "added_stars": "343 stars this month"
+      "stars": 8820,
+      "forks": 2765,
+      "added_stars": "132 stars this month"
     },
     {
       "title": "openai / tart",
@@ -140,59 +140,9 @@
       "description": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 6427,
+      "stars": 6436,
       "forks": 335,
-      "added_stars": "426 stars this month"
-    },
-    {
-      "title": "exelban / stats",
-      "url": "https://github.com/exelban/stats",
-      "description": "macOS system monitor in your menu bar",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 40976,
-      "forks": 1457,
-      "added_stars": "862 stars this month"
-    },
-    {
-      "title": "sozercan / kaset",
-      "url": "https://github.com/sozercan/kaset",
-      "description": "📼 The missing YouTube and YouTube Music macOS app",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1743,
-      "forks": 123,
-      "added_stars": "403 stars this month"
-    },
-    {
-      "title": "RevenueCat / purchases-ios",
-      "url": "https://github.com/RevenueCat/purchases-ios",
-      "description": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 3030,
-      "forks": 432,
-      "added_stars": "23 stars this month"
-    },
-    {
-      "title": "FluidInference / FluidAudio",
-      "url": "https://github.com/FluidInference/FluidAudio",
-      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 2609,
-      "forks": 366,
-      "added_stars": "233 stars this month"
-    },
-    {
-      "title": "ninxsoft / Mist",
-      "url": "https://github.com/ninxsoft/Mist",
-      "description": "A Mac utility that automatically downloads macOS Firmwares / Installers.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 5086,
-      "forks": 224,
-      "added_stars": "121 stars this month"
+      "added_stars": "428 stars this month"
     },
     {
       "title": "minh-ton / reynard-browser",
@@ -200,29 +150,79 @@
       "description": "An experimental Gecko-based web browser for iOS 13+.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1341,
+      "stars": 1344,
       "forks": 105,
-      "added_stars": "435 stars this month"
+      "added_stars": "436 stars this month"
     },
     {
-      "title": "jordanbaird / Ice",
-      "url": "https://github.com/jordanbaird/Ice",
-      "description": "Powerful menu bar manager for macOS",
+      "title": "momenbasel / PureMac",
+      "url": "https://github.com/momenbasel/PureMac",
+      "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 29153,
-      "forks": 836,
-      "added_stars": "549 stars this month"
+      "stars": 5601,
+      "forks": 311,
+      "added_stars": "579 stars this month"
     },
     {
-      "title": "Alamofire / Alamofire",
-      "url": "https://github.com/Alamofire/Alamofire",
-      "description": "Elegant HTTP Networking in Swift",
+      "title": "kitlangton / Hex",
+      "url": "https://github.com/kitlangton/Hex",
+      "description": "VOICE → WORDS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 42408,
-      "forks": 7662,
-      "added_stars": "45 stars this month"
+      "stars": 2758,
+      "forks": 210,
+      "added_stars": "347 stars this month"
+    },
+    {
+      "title": "RevenueCat / purchases-ios",
+      "url": "https://github.com/RevenueCat/purchases-ios",
+      "description": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 3031,
+      "forks": 432,
+      "added_stars": "24 stars this month"
+    },
+    {
+      "title": "darrylmorley / whatcable",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 8105,
+      "forks": 242,
+      "added_stars": "1,820 stars this month"
+    },
+    {
+      "title": "FluidInference / FluidAudio",
+      "url": "https://github.com/FluidInference/FluidAudio",
+      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2617,
+      "forks": 368,
+      "added_stars": "241 stars this month"
+    },
+    {
+      "title": "ninxsoft / Mist",
+      "url": "https://github.com/ninxsoft/Mist",
+      "description": "A Mac utility that automatically downloads macOS Firmwares / Installers.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 5089,
+      "forks": 224,
+      "added_stars": "118 stars this month"
+    },
+    {
+      "title": "ronitsingh10 / FineTune",
+      "url": "https://github.com/ronitsingh10/FineTune",
+      "description": "FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 8549,
+      "forks": 293,
+      "added_stars": "616 stars this month"
     }
   ]
 }
