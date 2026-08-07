@@ -4,51 +4,16 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <item>
+    <title>koreader / koreader</title>
+    <link>https://github.com/koreader/koreader</link>
+    <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
+  </item>
   <item>
     <title>nvim-lua / kickstart.nvim</title>
     <link>https://github.com/nvim-lua/kickstart.nvim</link>
     <description>A launch point for your personal nvim configuration</description>
-  </item>
-  <item>
-    <title>yetone / avante.nvim</title>
-    <link>https://github.com/yetone/avante.nvim</link>
-    <description>Use your Neovim like using Cursor AI IDE!</description>
-  </item>
-  <item>
-    <title>Kong / kong</title>
-    <link>https://github.com/Kong/kong</link>
-    <description>🦍 The API and AI Gateway</description>
-  </item>
-  <item>
-    <title>folke / tokyonight.nvim</title>
-    <link>https://github.com/folke/tokyonight.nvim</link>
-    <description>🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</description>
-  </item>
-  <item>
-    <title>overextended / ox_inventory</title>
-    <link>https://github.com/overextended/ox_inventory</link>
-    <description>Slot-based inventory with metadata.</description>
-  </item>
-  <item>
-    <title>amzxyz / rime-wanxiang</title>
-    <link>https://github.com/amzxyz/rime-wanxiang</link>
-    <description>「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066</description>
-  </item>
-  <item>
-    <title>nvim-tree / nvim-tree.lua</title>
-    <link>https://github.com/nvim-tree/nvim-tree.lua</link>
-    <description>A file explorer tree for neovim written in lua</description>
-  </item>
-  <item>
-    <title>CopilotC-Nvim / CopilotChat.nvim</title>
-    <link>https://github.com/CopilotC-Nvim/CopilotChat.nvim</link>
-    <description>Chat with GitHub Copilot in Neovim</description>
-  </item>
-  <item>
-    <title>xmake-io / xmake</title>
-    <link>https://github.com/xmake-io/xmake</link>
-    <description>🔥 A cross-platform build utility based on Lua</description>
   </item>
   <item>
     <title>neovim / nvim-lspconfig</title>
@@ -56,14 +21,44 @@
     <description>Quickstart configs for Nvim LSP</description>
   </item>
   <item>
-    <title>olimorris / codecompanion.nvim</title>
-    <link>https://github.com/olimorris/codecompanion.nvim</link>
-    <description>✨ AI Coding, Vim Style</description>
+    <title>folke / lazy.nvim</title>
+    <link>https://github.com/folke/lazy.nvim</link>
+    <description>💤 A modern plugin manager for Neovim</description>
   </item>
   <item>
-    <title>tarantool / tarantool</title>
-    <link>https://github.com/tarantool/tarantool</link>
-    <description>Get your data in RAM. Get compute close to data. Enjoy the performance.</description>
+    <title>Kong / kong</title>
+    <link>https://github.com/Kong/kong</link>
+    <description>🦍 The API and AI Gateway</description>
+  </item>
+  <item>
+    <title>coder / claudecode.nvim</title>
+    <link>https://github.com/coder/claudecode.nvim</link>
+    <description>🧩 Claude Code Neovim IDE Extension</description>
+  </item>
+  <item>
+    <title>amzxyz / rime-wanxiang</title>
+    <link>https://github.com/amzxyz/rime-wanxiang</link>
+    <description>「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066</description>
+  </item>
+  <item>
+    <title>Kong / kong-pongo</title>
+    <link>https://github.com/Kong/kong-pongo</link>
+    <description>Tooling to run plugin tests with Kong and Kong Enterprise</description>
+  </item>
+  <item>
+    <title>jitsi / docker-jitsi-meet</title>
+    <link>https://github.com/jitsi/docker-jitsi-meet</link>
+    <description>Jitsi Meet on Docker</description>
+  </item>
+  <item>
+    <title>MeanderingProgrammer / render-markdown.nvim</title>
+    <link>https://github.com/MeanderingProgrammer/render-markdown.nvim</link>
+    <description>Improve viewing Markdown in Neovim</description>
+  </item>
+  <item>
+    <title>ibhagwan / fzf-lua</title>
+    <link>https://github.com/ibhagwan/fzf-lua</link>
+    <description>Improved fzf.vim written in lua</description>
   </item>
 </channel>
 </rss>

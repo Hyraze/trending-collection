@@ -2,27 +2,27 @@
   "title": "GitHub Nim Languages Daily Trending",
   "description": "Daily Trending of Nim Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
-    {
-      "title": "zedeus / nitter",
-      "url": "https://github.com/zedeus/nitter",
-      "description": "Alternative Twitter front-end",
-      "language": "Nim",
-      "languageColor": "#ffc200",
-      "stars": 13401,
-      "forks": 750,
-      "added_stars": "47 stars this week"
-    },
     {
       "title": "nim-lang / Nim",
       "url": "https://github.com/nim-lang/Nim",
       "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 18153,
+      "stars": 18155,
       "forks": 1547,
-      "added_stars": "22 stars this week"
+      "added_stars": "20 stars this week"
+    },
+    {
+      "title": "zedeus / nitter",
+      "url": "https://github.com/zedeus/nitter",
+      "description": "Alternative Twitter front-end",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 13407,
+      "forks": 750,
+      "added_stars": "46 stars this week"
     },
     {
       "title": "logos-messaging / logos-delivery",
@@ -55,6 +55,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "status-im / nim-stew",
+      "url": "https://github.com/status-im/nim-stew",
+      "description": "stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 154,
+      "forks": 21,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "status-im / nimbus-eth1",
       "url": "https://github.com/status-im/nimbus-eth1",
       "description": "Nimbus: an Ethereum Execution Client for Resource-Restricted Devices",
@@ -65,14 +75,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "status-im / nim-stew",
-      "url": "https://github.com/status-im/nim-stew",
-      "description": "stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.",
+      "title": "tsoding / boomer",
+      "url": "https://github.com/tsoding/boomer",
+      "description": "Zoomer application for Linux",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 154,
-      "forks": 21,
-      "added_stars": "0 stars this week"
+      "stars": 834,
+      "forks": 71,
+      "added_stars": "3 stars this week"
     }
   ]
 }

@@ -4,11 +4,16 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
   <item>
     <title>block / buzz</title>
     <link>https://github.com/block/buzz</link>
     <description>A hive mind communication platform</description>
+  </item>
+  <item>
+    <title>agavra / tuicr</title>
+    <link>https://github.com/agavra/tuicr</link>
+    <description>a code review TUI with vim keybindings</description>
   </item>
   <item>
     <title>1jehuang / jcode</title>
@@ -26,9 +31,9 @@
     <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
   </item>
   <item>
-    <title>agavra / tuicr</title>
-    <link>https://github.com/agavra/tuicr</link>
-    <description>a code review TUI with vim keybindings</description>
+    <title>clockworklabs / SpacetimeDB</title>
+    <link>https://github.com/clockworklabs/SpacetimeDB</link>
+    <description>Development at the speed of light</description>
   </item>
   <item>
     <title>BurntSushi / ripgrep</title>
@@ -36,14 +41,14 @@
     <description>ripgrep recursively searches directories for a regex pattern while respecting your gitignore</description>
   </item>
   <item>
-    <title>clockworklabs / SpacetimeDB</title>
-    <link>https://github.com/clockworklabs/SpacetimeDB</link>
-    <description>Development at the speed of light</description>
-  </item>
-  <item>
     <title>openai / codex</title>
     <link>https://github.com/openai/codex</link>
     <description>Lightweight coding agent that runs in your terminal</description>
+  </item>
+  <item>
+    <title>astral-sh / uv</title>
+    <link>https://github.com/astral-sh/uv</link>
+    <description>An extremely fast Python package and project manager, written in Rust.</description>
   </item>
   <item>
     <title>moghtech / komodo</title>
@@ -61,9 +66,9 @@
     <description>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</description>
   </item>
   <item>
-    <title>gleam-lang / gleam</title>
-    <link>https://github.com/gleam-lang/gleam</link>
-    <description>⭐️ A friendly language for building type-safe, scalable systems!</description>
+    <title>sinelaw / fresh</title>
+    <link>https://github.com/sinelaw/fresh</link>
+    <description>Terminal based IDE &amp; text editor: easy, powerful and fast</description>
   </item>
   <item>
     <title>modelcontextprotocol / rust-sdk</title>
@@ -71,19 +76,19 @@
     <description>The official Rust SDK for the Model Context Protocol</description>
   </item>
   <item>
-    <title>bytecodealliance / wasmtime</title>
-    <link>https://github.com/bytecodealliance/wasmtime</link>
-    <description>A lightweight WebAssembly runtime that is fast, secure, and standards-compliant</description>
-  </item>
-  <item>
-    <title>rustfs / rustfs</title>
-    <link>https://github.com/rustfs/rustfs</link>
-    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
-  </item>
-  <item>
     <title>tokio-rs / tokio</title>
     <link>https://github.com/tokio-rs/tokio</link>
     <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
+  </item>
+  <item>
+    <title>zed-industries / zed</title>
+    <link>https://github.com/zed-industries/zed</link>
+    <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
+  </item>
+  <item>
+    <title>servo / servo</title>
+    <link>https://github.com/servo/servo</link>
+    <description>Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</description>
   </item>
   <item>
     <title>cjpais / Handy</title>
@@ -91,19 +96,14 @@
     <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
   </item>
   <item>
-    <title>freenet / freenet-core</title>
-    <link>https://github.com/freenet/freenet-core</link>
-    <description>Declare your digital independence</description>
+    <title>rust-lang / cargo</title>
+    <link>https://github.com/rust-lang/cargo</link>
+    <description>The Rust package manager</description>
   </item>
   <item>
-    <title>foundry-rs / foundry</title>
-    <link>https://github.com/foundry-rs/foundry</link>
-    <description>Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</description>
-  </item>
-  <item>
-    <title>stalwartlabs / stalwart</title>
-    <link>https://github.com/stalwartlabs/stalwart</link>
-    <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
+    <title>raphamorim / rio</title>
+    <link>https://github.com/raphamorim/rio</link>
+    <description>A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.</description>
   </item>
 </channel>
 </rss>

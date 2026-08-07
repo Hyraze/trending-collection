@@ -4,7 +4,7 @@
   <title>GitHub Erlang Languages Daily Trending</title>
   <description>Daily Trending of Erlang Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
   <item>
     <title>emqx / emqx</title>
     <link>https://github.com/emqx/emqx</link>
@@ -26,9 +26,14 @@
     <description>A rebar3 port compiler</description>
   </item>
   <item>
-    <title>talentdeficit / jsx</title>
-    <link>https://github.com/talentdeficit/jsx</link>
-    <description>an erlang application for consuming, producing and manipulating json. inspired by yajl</description>
+    <title>ninenines / cowlib</title>
+    <link>https://github.com/ninenines/cowlib</link>
+    <description>Support library for manipulating Web protocols.</description>
+  </item>
+  <item>
+    <title>ninenines / ranch</title>
+    <link>https://github.com/ninenines/ranch</link>
+    <description>Socket acceptor pool for TCP protocols.</description>
   </item>
   <item>
     <title>ninenines / cowboy</title>
@@ -36,14 +41,9 @@
     <description>Small, fast, modern HTTP server for Erlang/OTP.</description>
   </item>
   <item>
-    <title>ninenines / cowlib</title>
-    <link>https://github.com/ninenines/cowlib</link>
-    <description>Support library for manipulating Web protocols.</description>
-  </item>
-  <item>
-    <title>erlang / rebar3</title>
-    <link>https://github.com/erlang/rebar3</link>
-    <description>Erlang build tool that makes it easy to compile and test Erlang applications and releases.</description>
+    <title>erlang-lager / lager</title>
+    <link>https://github.com/erlang-lager/lager</link>
+    <description>A logging framework for Erlang/OTP</description>
   </item>
   <item>
     <title>processone / ejabberd</title>
@@ -51,14 +51,19 @@
     <description>Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</description>
   </item>
   <item>
-    <title>erlang-lager / lager</title>
-    <link>https://github.com/erlang-lager/lager</link>
-    <description>A logging framework for Erlang/OTP</description>
-  </item>
-  <item>
     <title>apache / couchdb</title>
     <link>https://github.com/apache/couchdb</link>
     <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
+  </item>
+  <item>
+    <title>potatosalad / erlang-jose</title>
+    <link>https://github.com/potatosalad/erlang-jose</link>
+    <description>JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</description>
+  </item>
+  <item>
+    <title>erlang / rebar3</title>
+    <link>https://github.com/erlang/rebar3</link>
+    <description>Erlang build tool that makes it easy to compile and test Erlang applications and releases.</description>
   </item>
 </channel>
 </rss>

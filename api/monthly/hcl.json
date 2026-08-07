@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -10,9 +10,19 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4994,
-      "forks": 4403,
-      "added_stars": "18 stars this month"
+      "stars": 4995,
+      "forks": 4404,
+      "added_stars": "16 stars this month"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2077,
+      "forks": 1253,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "hashicorp / agent-skills",
@@ -31,18 +41,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 3253,
-      "forks": 4628,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1221,
-      "forks": 568,
-      "added_stars": "25 stars this month"
+      "forks": 4627,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-iam",
@@ -50,9 +50,19 @@
       "description": "Terraform module to create AWS IAM resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 866,
-      "forks": 1107,
-      "added_stars": "2 stars this month"
+      "stars": 867,
+      "forks": 1109,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1222,
+      "forks": 568,
+      "added_stars": "26 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -60,7 +70,7 @@
       "description": "Terraform module to create AWS S3 resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 582,
+      "stars": 581,
       "forks": 3808,
       "added_stars": "3 stars this month"
     },
@@ -70,19 +80,9 @@
       "description": "Terraform AWS Cloud Control provider",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 313,
+      "stars": 314,
       "forks": 151,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2077,
-      "forks": 1252,
-      "added_stars": "22 stars this month"
+      "added_stars": "3 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -115,14 +115,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1277,
-      "forks": 1274,
-      "added_stars": "7 stars this month"
+      "stars": 120,
+      "forks": 202,
+      "added_stars": "0 stars this month"
     }
   ]
 }

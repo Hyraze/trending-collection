@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "microsoft / AI-For-Beginners",
@@ -10,9 +10,9 @@
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 62195,
-      "forks": 12097,
-      "added_stars": "8,926 stars this week"
+      "stars": 62796,
+      "forks": 12193,
+      "added_stars": "9,164 stars this week"
     },
     {
       "title": "lyogavin / airllm",
@@ -20,9 +20,9 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 29222,
-      "forks": 3136,
-      "added_stars": "4,659 stars this week"
+      "stars": 29677,
+      "forks": 3171,
+      "added_stars": "5,222 stars this week"
     },
     {
       "title": "DataExpert-io / data-engineer-handbook",
@@ -30,9 +30,9 @@
       "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 43130,
-      "forks": 8819,
-      "added_stars": "590 stars this week"
+      "stars": 43274,
+      "forks": 8904,
+      "added_stars": "716 stars this week"
     },
     {
       "title": "microsoft / generative-ai-for-beginners",
@@ -40,9 +40,9 @@
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 116667,
-      "forks": 61673,
-      "added_stars": "3,039 stars this week"
+      "stars": 116829,
+      "forks": 61747,
+      "added_stars": "3,095 stars this week"
     },
     {
       "title": "Lordog / dive-into-llms",
@@ -50,19 +50,9 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 47989,
-      "forks": 5755,
-      "added_stars": "1,623 stars this week"
-    },
-    {
-      "title": "chiphuyen / aie-book",
-      "url": "https://github.com/chiphuyen/aie-book",
-      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 16875,
-      "forks": 2462,
-      "added_stars": "196 stars this week"
+      "stars": 48139,
+      "forks": 5766,
+      "added_stars": "1,526 stars this week"
     },
     {
       "title": "microsoft / ai-agents-for-beginners",
@@ -70,9 +60,9 @@
       "description": "18 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 71380,
-      "forks": 23640,
-      "added_stars": "744 stars this week"
+      "stars": 71472,
+      "forks": 23670,
+      "added_stars": "760 stars this week"
     },
     {
       "title": "mrdbourke / zero-to-mastery-ml",
@@ -80,19 +70,19 @@
       "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 6654,
-      "forks": 4175,
-      "added_stars": "190 stars this week"
+      "stars": 6666,
+      "forks": 4178,
+      "added_stars": "201 stars this week"
     },
     {
-      "title": "Infrasys-AI / AISystem",
-      "url": "https://github.com/Infrasys-AI/AISystem",
-      "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+      "title": "chiphuyen / aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
+      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 17492,
-      "forks": 2452,
-      "added_stars": "152 stars this week"
+      "stars": 16887,
+      "forks": 2461,
+      "added_stars": "110 stars this week"
     },
     {
       "title": "microsoft / ML-For-Beginners",
@@ -100,29 +90,19 @@
       "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 89060,
-      "forks": 21828,
-      "added_stars": "350 stars this week"
+      "stars": 89086,
+      "forks": 21844,
+      "added_stars": "338 stars this week"
     },
     {
-      "title": "microsoft / mcp-for-beginners",
-      "url": "https://github.com/microsoft/mcp-for-beginners",
-      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+      "title": "Infrasys-AI / AISystem",
+      "url": "https://github.com/Infrasys-AI/AISystem",
+      "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 16928,
-      "forks": 5511,
-      "added_stars": "85 stars this week"
-    },
-    {
-      "title": "ed-donner / llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "description": "Repo to accompany my mastering LLM engineering course",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 6960,
-      "forks": 6798,
-      "added_stars": "69 stars this week"
+      "stars": 17507,
+      "forks": 2456,
+      "added_stars": "151 stars this week"
     },
     {
       "title": "openai / openai-cookbook",
@@ -130,39 +110,19 @@
       "description": "Examples and guides for using the OpenAI API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 75122,
-      "forks": 12697,
-      "added_stars": "159 stars this week"
+      "stars": 75151,
+      "forks": 12696,
+      "added_stars": "162 stars this week"
     },
     {
-      "title": "Infrasys-AI / AIInfra",
-      "url": "https://github.com/Infrasys-AI/AIInfra",
-      "description": "AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。",
+      "title": "microsoft / mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 7851,
-      "forks": 1010,
-      "added_stars": "93 stars this week"
-    },
-    {
-      "title": "kubernetes / community",
-      "url": "https://github.com/kubernetes/community",
-      "description": "Kubernetes Community Documentation",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 12960,
-      "forks": 5372,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "dscripka / openWakeWord",
-      "url": "https://github.com/dscripka/openWakeWord",
-      "description": "An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 2623,
-      "forks": 318,
-      "added_stars": "35 stars this week"
+      "stars": 16937,
+      "forks": 5521,
+      "added_stars": "85 stars this week"
     },
     {
       "title": "jackfrued / Python-100-Days",
@@ -170,9 +130,9 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 184886,
-      "forks": 55691,
-      "added_stars": "262 stars this week"
+      "stars": 184935,
+      "forks": 55694,
+      "added_stars": "270 stars this week"
     },
     {
       "title": "CompVis / stable-diffusion",
@@ -180,29 +140,59 @@
       "description": "A latent text-to-image diffusion model",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 73282,
-      "forks": 10581,
-      "added_stars": "70 stars this week"
+      "stars": 73291,
+      "forks": 10580,
+      "added_stars": "72 stars this week"
     },
     {
-      "title": "romanmichaelpaolucci / Quant-Guild-Library",
-      "url": "https://github.com/romanmichaelpaolucci/Quant-Guild-Library",
-      "description": "A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci",
+      "title": "Infrasys-AI / AIInfra",
+      "url": "https://github.com/Infrasys-AI/AIInfra",
+      "description": "AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 1341,
-      "forks": 317,
-      "added_stars": "28 stars this week"
+      "stars": 7867,
+      "forks": 1012,
+      "added_stars": "99 stars this week"
     },
     {
-      "title": "pathwaycom / llm-app",
-      "url": "https://github.com/pathwaycom/llm-app",
-      "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+      "title": "karpathy / micrograd",
+      "url": "https://github.com/karpathy/micrograd",
+      "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 59127,
-      "forks": 1467,
-      "added_stars": "274 stars this week"
+      "stars": 17027,
+      "forks": 2702,
+      "added_stars": "109 stars this week"
+    },
+    {
+      "title": "dscripka / openWakeWord",
+      "url": "https://github.com/dscripka/openWakeWord",
+      "description": "An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 2632,
+      "forks": 318,
+      "added_stars": "37 stars this week"
+    },
+    {
+      "title": "kubernetes / community",
+      "url": "https://github.com/kubernetes/community",
+      "description": "Kubernetes Community Documentation",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 12961,
+      "forks": 5374,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "charliedream1 / ai_quant_trade",
+      "url": "https://github.com/charliedream1/ai_quant_trade",
+      "description": "股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 6115,
+      "forks": 1165,
+      "added_stars": "83 stars this week"
     }
   ]
 }

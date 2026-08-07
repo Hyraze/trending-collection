@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Daily Trending",
   "description": "Daily Trending of Pascal Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "cheat-engine / cheat-engine",
@@ -10,9 +10,9 @@
       "description": "Cheat Engine. A development environment focused on modding",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 18881,
-      "forks": 2700,
-      "added_stars": "337 stars this month"
+      "stars": 18887,
+      "forks": 2703,
+      "added_stars": "331 stars this month"
     },
     {
       "title": "doublecmd / doublecmd",
@@ -20,9 +20,9 @@
       "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 4373,
+      "stars": 4379,
       "forks": 332,
-      "added_stars": "83 stars this month"
+      "added_stars": "84 stars this month"
     },
     {
       "title": "stascorp / rdpwrap",
@@ -30,9 +30,9 @@
       "description": "RDP Wrapper Library",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 16764,
+      "stars": 16768,
       "forks": 4049,
-      "added_stars": "108 stars this month"
+      "added_stars": "107 stars this month"
     },
     {
       "title": "benjamimgois / goverlay",
@@ -50,9 +50,9 @@
       "description": "Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 5546,
-      "forks": 1089,
-      "added_stars": "82 stars this month"
+      "stars": 5548,
+      "forks": 1090,
+      "added_stars": "83 stars this month"
     },
     {
       "title": "peazip / PeaZip",
@@ -60,9 +60,9 @@
       "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 7720,
+      "stars": 7724,
       "forks": 395,
-      "added_stars": "165 stars this month"
+      "added_stars": "162 stars this month"
     },
     {
       "title": "Embarcadero / Dev-Cpp",
@@ -72,7 +72,17 @@
       "languageColor": "#E3F171",
       "stars": 2977,
       "forks": 322,
-      "added_stars": "34 stars this month"
+      "added_stars": "32 stars this month"
+    },
+    {
+      "title": "UltraStar-Deluxe / USDX",
+      "url": "https://github.com/UltraStar-Deluxe/USDX",
+      "description": "The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 1238,
+      "forks": 201,
+      "added_stars": "25 stars this month"
     },
     {
       "title": "FrankBijnen / ExifToolGui",
@@ -82,17 +92,7 @@
       "languageColor": "#E3F171",
       "stars": 971,
       "forks": 49,
-      "added_stars": "33 stars this month"
-    },
-    {
-      "title": "UltraStar-Deluxe / USDX",
-      "url": "https://github.com/UltraStar-Deluxe/USDX",
-      "description": "The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 1236,
-      "forks": 201,
-      "added_stars": "24 stars this month"
+      "added_stars": "31 stars this month"
     },
     {
       "title": "TES5Edit / TES5Edit",
@@ -120,9 +120,9 @@
       "description": "Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 1353,
+      "stars": 1352,
       "forks": 252,
-      "added_stars": "18 stars this month"
+      "added_stars": "16 stars this month"
     },
     {
       "title": "nodemcu / nodemcu-flasher",
@@ -142,7 +142,7 @@
       "languageColor": "#E3F171",
       "stars": 3451,
       "forks": 307,
-      "added_stars": "19 stars this month"
+      "added_stars": "15 stars this month"
     },
     {
       "title": "lmbelo / pyscripter",
@@ -153,6 +153,26 @@
       "stars": 1248,
       "forks": 329,
       "added_stars": "5 stars this month"
+    },
+    {
+      "title": "pleumann / pasta80",
+      "url": "https://github.com/pleumann/pasta80",
+      "description": "Turbo Pascal 3.0-compatible compiler that generates machine code for classic and modern Z80 machines (currently CP/M, the Sinclair ZX Spectrum 48K/128K/Next, and the Agon Light/Console8).",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 188,
+      "forks": 9,
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "HeidiSQL / HeidiSQL",
+      "url": "https://github.com/HeidiSQL/HeidiSQL",
+      "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 6202,
+      "forks": 584,
+      "added_stars": "47 stars this month"
     }
   ]
 }

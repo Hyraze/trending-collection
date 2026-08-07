@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "rails / rails",
@@ -10,8 +10,8 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 58673,
-      "forks": 22348,
+      "stars": 58680,
+      "forks": 22356,
       "added_stars": "363 stars this month"
     },
     {
@@ -21,18 +21,8 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 24526,
-      "forks": 5973,
-      "added_stars": "191 stars this month"
-    },
-    {
-      "title": "discourse / discourse",
-      "url": "https://github.com/discourse/discourse",
-      "description": "A platform for community discussion. Free, open, simple.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 47606,
-      "forks": 8979,
-      "added_stars": "268 stars this month"
+      "forks": 5980,
+      "added_stars": "192 stars this month"
     },
     {
       "title": "docusealco / docuseal",
@@ -40,9 +30,19 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 18199,
-      "forks": 1811,
-      "added_stars": "781 stars this month"
+      "stars": 18215,
+      "forks": 1813,
+      "added_stars": "779 stars this month"
+    },
+    {
+      "title": "discourse / discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 47610,
+      "forks": 8980,
+      "added_stars": "261 stars this month"
     },
     {
       "title": "Freika / dawarich",
@@ -50,59 +50,9 @@
       "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 10017,
+      "stars": 10026,
       "forks": 348,
-      "added_stars": "443 stars this month"
-    },
-    {
-      "title": "ruby / ruby",
-      "url": "https://github.com/ruby/ruby",
-      "description": "The Ruby Programming Language",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 23668,
-      "forks": 5625,
-      "added_stars": "91 stars this month"
-    },
-    {
-      "title": "chatwoot / chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 35522,
-      "forks": 8527,
-      "added_stars": "1,524 stars this month"
-    },
-    {
-      "title": "we-promise / sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 9303,
-      "forks": 327,
-      "added_stars": "449 stars this month"
-    },
-    {
-      "title": "rapid7 / metasploit-framework",
-      "url": "https://github.com/rapid7/metasploit-framework",
-      "description": "Metasploit Framework",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 38747,
-      "forks": 14932,
-      "added_stars": "295 stars this month"
-    },
-    {
-      "title": "opf / openproject",
-      "url": "https://github.com/opf/openproject",
-      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 15768,
-      "forks": 3408,
-      "added_stars": "309 stars this month"
+      "added_stars": "431 stars this month"
     },
     {
       "title": "dependabot / dependabot-core",
@@ -111,38 +61,28 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 5714,
-      "forks": 1481,
-      "added_stars": "55 stars this month"
+      "forks": 1482,
+      "added_stars": "49 stars this month"
     },
     {
-      "title": "Homebrew / homebrew-cask",
-      "url": "https://github.com/Homebrew/homebrew-cask",
-      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "title": "opf / openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 22148,
-      "forks": 11784,
-      "added_stars": "74 stars this month"
+      "stars": 15779,
+      "forks": 3410,
+      "added_stars": "315 stars this month"
     },
     {
-      "title": "github-linguist / linguist",
-      "url": "https://github.com/github-linguist/linguist",
-      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "title": "rapid7 / metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 13619,
-      "forks": 5319,
-      "added_stars": "72 stars this month"
-    },
-    {
-      "title": "jekyll / jekyll",
-      "url": "https://github.com/jekyll/jekyll",
-      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 51615,
-      "forks": 10299,
-      "added_stars": "126 stars this month"
+      "stars": 38755,
+      "forks": 14933,
+      "added_stars": "294 stars this month"
     },
     {
       "title": "Homebrew / brew",
@@ -150,19 +90,39 @@
       "description": "🍺 The Package Manager for Everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 49088,
-      "forks": 11268,
-      "added_stars": "430 stars this month"
+      "stars": 49096,
+      "forks": 11267,
+      "added_stars": "426 stars this month"
     },
     {
-      "title": "midudev / autoskills",
-      "url": "https://github.com/midudev/autoskills",
-      "description": "One command. Your entire AI skill stack. Installed.",
+      "title": "chatwoot / chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 6631,
-      "forks": 600,
-      "added_stars": "497 stars this month"
+      "stars": 35558,
+      "forks": 8535,
+      "added_stars": "1,505 stars this month"
+    },
+    {
+      "title": "antiwork / gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "See what sticks",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 9524,
+      "forks": 2004,
+      "added_stars": "189 stars this month"
+    },
+    {
+      "title": "ruby / ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 23669,
+      "forks": 5625,
+      "added_stars": "89 stars this month"
     },
     {
       "title": "freeCodeCamp / devdocs",
@@ -170,9 +130,49 @@
       "description": "API Documentation Browser",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 39263,
-      "forks": 2617,
-      "added_stars": "156 stars this month"
+      "stars": 39267,
+      "forks": 2618,
+      "added_stars": "154 stars this month"
+    },
+    {
+      "title": "Homebrew / homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 22151,
+      "forks": 11793,
+      "added_stars": "76 stars this month"
+    },
+    {
+      "title": "midudev / autoskills",
+      "url": "https://github.com/midudev/autoskills",
+      "description": "One command. Your entire AI skill stack. Installed.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 6658,
+      "forks": 603,
+      "added_stars": "517 stars this month"
+    },
+    {
+      "title": "we-promise / sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 9315,
+      "forks": 334,
+      "added_stars": "453 stars this month"
+    },
+    {
+      "title": "jekyll / jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 51617,
+      "forks": 10299,
+      "added_stars": "127 stars this month"
     },
     {
       "title": "ruby / rubygems",
@@ -185,24 +185,34 @@
       "added_stars": "17 stars this month"
     },
     {
-      "title": "zammad / zammad",
-      "url": "https://github.com/zammad/zammad",
-      "description": "Zammad is a web based open source helpdesk/customer support system.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 5830,
-      "forks": 1029,
-      "added_stars": "100 stars this month"
-    },
-    {
       "title": "spree / spree",
       "url": "https://github.com/spree/spree",
       "description": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 15602,
-      "forks": 5284,
-      "added_stars": "93 stars this month"
+      "stars": 15605,
+      "forks": 5285,
+      "added_stars": "96 stars this month"
+    },
+    {
+      "title": "zammad / zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 5831,
+      "forks": 1029,
+      "added_stars": "102 stars this month"
+    },
+    {
+      "title": "googleapis / google-cloud-ruby",
+      "url": "https://github.com/googleapis/google-cloud-ruby",
+      "description": "Google Cloud Client Library for Ruby",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 1422,
+      "forks": 573,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "huginn / huginn",
@@ -210,29 +220,29 @@
       "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 49751,
-      "forks": 4287,
-      "added_stars": "230 stars this month"
+      "stars": 49754,
+      "forks": 4288,
+      "added_stars": "227 stars this month"
     },
     {
-      "title": "github / explore",
-      "url": "https://github.com/github/explore",
-      "description": "Community-curated topic and collection pages on GitHub",
+      "title": "github-linguist / linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 4844,
-      "forks": 14423,
-      "added_stars": "52 stars this month"
+      "stars": 13623,
+      "forks": 5324,
+      "added_stars": "73 stars this month"
     },
     {
-      "title": "basecamp / once-campfire",
-      "url": "https://github.com/basecamp/once-campfire",
-      "description": "Super simple group chat, without a subscription",
+      "title": "fastlane / fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 4467,
-      "forks": 761,
-      "added_stars": "77 stars this month"
+      "stars": 41950,
+      "forks": 6024,
+      "added_stars": "220 stars this month"
     }
   ]
 }

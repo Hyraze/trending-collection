@@ -4,7 +4,7 @@
   <title>GitHub Javascript Languages Daily Trending</title>
   <description>Daily Trending of Javascript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>pbakaus / impeccable</title>
     <link>https://github.com/pbakaus/impeccable</link>
@@ -16,19 +16,14 @@
     <description>Use Codex from Claude Code to review code or delegate tasks.</description>
   </item>
   <item>
-    <title>asgeirtj / system_prompts_leaks</title>
-    <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-    <description>Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.</description>
-  </item>
-  <item>
     <title>earthtojake / text-to-cad</title>
     <link>https://github.com/earthtojake/text-to-cad</link>
     <description>A library of agent skills for CAD, CAE and CAM</description>
   </item>
   <item>
-    <title>NomaDamas / k-skill</title>
-    <link>https://github.com/NomaDamas/k-skill</link>
-    <description>한국인을 위한 스킬 모음집 - 에이전트를 한국인으로</description>
+    <title>asgeirtj / system_prompts_leaks</title>
+    <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+    <description>Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.</description>
   </item>
   <item>
     <title>fastify / fastify</title>
@@ -36,14 +31,9 @@
     <description>Fast and low overhead web framework, for Node.js</description>
   </item>
   <item>
-    <title>saadeghi / daisyui</title>
-    <link>https://github.com/saadeghi/daisyui</link>
-    <description>🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</description>
-  </item>
-  <item>
-    <title>OpenWhispr / openwhispr</title>
-    <link>https://github.com/OpenWhispr/openwhispr</link>
-    <description>Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.</description>
+    <title>NomaDamas / k-skill</title>
+    <link>https://github.com/NomaDamas/k-skill</link>
+    <description>한국인을 위한 스킬 모음집 - 에이전트를 한국인으로</description>
   </item>
   <item>
     <title>kunchenguid / lavish-axi</title>
@@ -51,14 +41,19 @@
     <description>HTML is the new markdown. Lavish is the new editor for your HTML artifacts.</description>
   </item>
   <item>
-    <title>nodejs / node</title>
-    <link>https://github.com/nodejs/node</link>
-    <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
-  </item>
-  <item>
     <title>eslint / eslint</title>
     <link>https://github.com/eslint/eslint</link>
     <description>Find and fix problems in your JavaScript code.</description>
+  </item>
+  <item>
+    <title>OpenWhispr / openwhispr</title>
+    <link>https://github.com/OpenWhispr/openwhispr</link>
+    <description>Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.</description>
+  </item>
+  <item>
+    <title>webpack / webpack</title>
+    <link>https://github.com/webpack/webpack</link>
+    <description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &quot;loaders&quot;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</description>
   </item>
   <item>
     <title>tradesdontlie / tradingview-mcp</title>
@@ -71,14 +66,19 @@
     <description>The React Framework</description>
   </item>
   <item>
-    <title>webpack / webpack</title>
-    <link>https://github.com/webpack/webpack</link>
-    <description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &quot;loaders&quot;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</description>
+    <title>saadeghi / daisyui</title>
+    <link>https://github.com/saadeghi/daisyui</link>
+    <description>🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</description>
   </item>
   <item>
-    <title>webtorrent / webtorrent</title>
-    <link>https://github.com/webtorrent/webtorrent</link>
-    <description>⚡️ Streaming torrent client for the web</description>
+    <title>nodejs / node</title>
+    <link>https://github.com/nodejs/node</link>
+    <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
+  </item>
+  <item>
+    <title>WorldFlowAI / everything-claude-code</title>
+    <link>https://github.com/WorldFlowAI/everything-claude-code</link>
+    <description>Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development</description>
   </item>
   <item>
     <title>ilysenko / codex-desktop-linux</title>
@@ -94,6 +94,11 @@
     <title>projectdiscovery / nuclei-templates</title>
     <link>https://github.com/projectdiscovery/nuclei-templates</link>
     <description>Community curated list of templates for the nuclei engine to find security vulnerabilities.</description>
+  </item>
+  <item>
+    <title>lodash / lodash</title>
+    <link>https://github.com/lodash/lodash</link>
+    <description>A modern JavaScript utility library delivering modularity, performance, &amp; extras.</description>
   </item>
   <item>
     <title>GargantuaX / gemini-watermark-remover</title>

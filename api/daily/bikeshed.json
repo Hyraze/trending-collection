@@ -2,36 +2,26 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
-    {
-      "title": "w3c / csswg-drafts",
-      "url": "https://github.com/w3c/csswg-drafts",
-      "description": "CSS Working Group Editor Drafts",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 4854,
-      "forks": 803,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "webmachinelearning / webmcp",
       "url": "https://github.com/webmachinelearning/webmcp",
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 2944,
+      "stars": 2950,
       "forks": 189,
-      "added_stars": "6 stars today"
+      "added_stars": "8 stars today"
     },
     {
-      "title": "w3c / ServiceWorker",
-      "url": "https://github.com/w3c/ServiceWorker",
-      "description": "Service Workers",
+      "title": "immersive-web / webxr",
+      "url": "https://github.com/immersive-web/webxr",
+      "description": "Repository for the WebXR Device API Specification.",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 3632,
-      "forks": 323,
+      "stars": 3147,
+      "forks": 423,
       "added_stars": "0 stars today"
     },
     {
@@ -45,6 +35,36 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "WebAudio / web-audio-api",
+      "url": "https://github.com/WebAudio/web-audio-api",
+      "description": "The Web Audio API v1.0, developed by the W3C Audio WG",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 1127,
+      "forks": 179,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "w3c / ServiceWorker",
+      "url": "https://github.com/w3c/ServiceWorker",
+      "description": "Service Workers",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 3632,
+      "forks": 323,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "w3c / csswg-drafts",
+      "url": "https://github.com/w3c/csswg-drafts",
+      "description": "CSS Working Group Editor Drafts",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 4855,
+      "forks": 803,
+      "added_stars": "1 star today"
+    },
+    {
       "title": "w3c / resource-timing",
       "url": "https://github.com/w3c/resource-timing",
       "description": "Resource Timing",
@@ -55,14 +75,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "immersive-web / webxr",
-      "url": "https://github.com/immersive-web/webxr",
-      "description": "Repository for the WebXR Device API Specification.",
+      "title": "gpuweb / gpuweb",
+      "url": "https://github.com/gpuweb/gpuweb",
+      "description": "Where the GPU for the Web work happens!",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 3147,
-      "forks": 423,
-      "added_stars": "1 star today"
+      "stars": 5447,
+      "forks": 375,
+      "added_stars": "0 stars today"
     }
   ]
 }

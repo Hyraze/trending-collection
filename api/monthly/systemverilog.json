@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "verilator / verilator",
@@ -10,9 +10,9 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3816,
+      "stars": 3820,
       "forks": 869,
-      "added_stars": "97 stars this month"
+      "added_stars": "102 stars this month"
     },
     {
       "title": "lowRISC / opentitan",
@@ -21,18 +21,8 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": 3577,
-      "forks": 1076,
-      "added_stars": "73 stars this month"
-    },
-    {
-      "title": "lowRISC / ibex",
-      "url": "https://github.com/lowRISC/ibex",
-      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 2000,
-      "forks": 783,
-      "added_stars": "61 stars this month"
+      "forks": 1077,
+      "added_stars": "70 stars this month"
     },
     {
       "title": "openhwgroup / cvw",
@@ -42,17 +32,17 @@
       "languageColor": "#DAE1C2",
       "stars": 597,
       "forks": 549,
-      "added_stars": "41 stars this month"
+      "added_stars": "40 stars this month"
     },
     {
-      "title": "adam-maj / tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "title": "lowRISC / ibex",
+      "url": "https://github.com/lowRISC/ibex",
+      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12814,
-      "forks": 1228,
-      "added_stars": "148 stars this month"
+      "stars": 2001,
+      "forks": 783,
+      "added_stars": "60 stars this month"
     },
     {
       "title": "chipsalliance / caliptra-rtl",
@@ -63,6 +53,16 @@
       "stars": 148,
       "forks": 101,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "adam-maj / tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 12818,
+      "forks": 1226,
+      "added_stars": "149 stars this month"
     }
   ]
 }

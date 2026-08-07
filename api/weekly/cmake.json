@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,8 +10,8 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27330,
-      "forks": 7660,
+      "stars": 27334,
+      "forks": 7662,
       "added_stars": "29 stars this week"
     },
     {
@@ -20,29 +20,9 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1678,
+      "stars": 1683,
       "forks": 227,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "KiCad / kicad-footprints",
-      "url": "https://github.com/KiCad/kicad-footprints",
-      "description": "Official KiCad Footprint Libraries for Kicad version 5",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 688,
-      "forks": 699,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "leetal / ios-cmake",
-      "url": "https://github.com/leetal/ios-cmake",
-      "description": "A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS & tvOS C/C++/Obj-C++ development",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 2175,
-      "forks": 464,
-      "added_stars": "3 stars this week"
+      "added_stars": "19 stars this week"
     },
     {
       "title": "jrl-umi3218 / jrl-cmakemodules",
@@ -55,14 +35,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "minecraft-linux / mcpelauncher-manifest",
-      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
-      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
+      "title": "flathub / shared-modules",
+      "url": "https://github.com/flathub/shared-modules",
+      "description": "Common Flatpak modules that can be used as a git submodule",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1605,
-      "forks": 127,
-      "added_stars": "3 stars this week"
+      "stars": 171,
+      "forks": 106,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "KiCad / kicad-footprints",
+      "url": "https://github.com/KiCad/kicad-footprints",
+      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 688,
+      "forks": 699,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "arsenm / sanitizers-cmake",
@@ -75,14 +65,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "flathub / shared-modules",
-      "url": "https://github.com/flathub/shared-modules",
-      "description": "Common Flatpak modules that can be used as a git submodule",
+      "title": "minecraft-linux / mcpelauncher-manifest",
+      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 171,
-      "forks": 106,
-      "added_stars": "0 stars this week"
+      "stars": 1605,
+      "forks": 127,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "KiCad / kicad-symbols",
@@ -105,6 +95,46 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "steinbergmedia / vst3sdk",
+      "url": "https://github.com/steinbergmedia/vst3sdk",
+      "description": "VST 3 Plug-In SDK",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 2312,
+      "forks": 223,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "OpenMoonRay / openmoonray",
+      "url": "https://github.com/OpenMoonRay/openmoonray",
+      "description": "MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 4715,
+      "forks": 310,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "tier4 / tier4_autoware_msgs",
+      "url": "https://github.com/tier4/tier4_autoware_msgs",
+      "description": "TIER IV's extension messages for Autoware",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 21,
+      "forks": 60,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "Andersama / obs-asio",
+      "url": "https://github.com/Andersama/obs-asio",
+      "description": "ASIO plugin for OBS-Studio",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 836,
+      "forks": 53,
+      "added_stars": "2 stars this week"
+    },
+    {
       "title": "GEOS-ESM / GEOSgcm",
       "url": "https://github.com/GEOS-ESM/GEOSgcm",
       "description": "GEOS Earth System Model GEOSgcm Fixture",
@@ -115,44 +145,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "OpenMoonRay / openmoonray",
-      "url": "https://github.com/OpenMoonRay/openmoonray",
-      "description": "MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.",
+      "title": "corrosion-rs / corrosion",
+      "url": "https://github.com/corrosion-rs/corrosion",
+      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 4714,
-      "forks": 310,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "steinbergmedia / vst3sdk",
-      "url": "https://github.com/steinbergmedia/vst3sdk",
-      "description": "VST 3 Plug-In SDK",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 2311,
-      "forks": 223,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "Andersama / obs-asio",
-      "url": "https://github.com/Andersama/obs-asio",
-      "description": "ASIO plugin for OBS-Studio",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 835,
-      "forks": 53,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "tier4 / tier4_autoware_msgs",
-      "url": "https://github.com/tier4/tier4_autoware_msgs",
-      "description": "TIER IV's extension messages for Autoware",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 21,
-      "forks": 61,
-      "added_stars": "0 stars this week"
+      "stars": 1475,
+      "forks": 149,
+      "added_stars": "1 star this week"
     }
   ]
 }

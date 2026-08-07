@@ -2,18 +2,8 @@
   "title": "GitHub Glsl Languages Daily Trending",
   "description": "Daily Trending of Glsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
-    {
-      "title": "SaschaWillems / Vulkan",
-      "url": "https://github.com/SaschaWillems/Vulkan",
-      "description": "C++ examples for the Vulkan graphics API",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 12090,
-      "forks": 2225,
-      "added_stars": "3 stars today"
-    },
     {
       "title": "KhronosGroup / SPIRV-Cross",
       "url": "https://github.com/KhronosGroup/SPIRV-Cross",
@@ -22,6 +12,16 @@
       "languageColor": "#5686a5",
       "stars": 2481,
       "forks": 697,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "SaschaWillems / Vulkan",
+      "url": "https://github.com/SaschaWillems/Vulkan",
+      "description": "C++ examples for the Vulkan graphics API",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": 12092,
+      "forks": 2225,
       "added_stars": "2 stars today"
     },
     {
@@ -35,13 +35,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "0xhckr / ghostty-shaders",
-      "url": "https://github.com/0xhckr/ghostty-shaders",
-      "description": "A repository containing many free shaders to use with ghostty (the terminal)",
+      "title": "dyphire / mpv-config",
+      "url": "https://github.com/dyphire/mpv-config",
+      "description": "本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 1465,
-      "forks": 96,
+      "stars": 1822,
+      "forks": 84,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "X0nk / Bliss-Shader",
+      "url": "https://github.com/X0nk/Bliss-Shader",
+      "description": "A minecraft shader which is an edit of chocapic v9",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": 1002,
+      "forks": 132,
       "added_stars": "0 stars today"
     }
   ]

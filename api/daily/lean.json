@@ -2,18 +2,8 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
-    {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 3764,
-      "forks": 1560,
-      "added_stars": "3 stars today"
-    },
     {
       "title": "harbor-framework / terminal-bench-science",
       "url": "https://github.com/harbor-framework/terminal-bench-science",
@@ -21,57 +11,47 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 237,
-      "forks": 186,
-      "added_stars": "3 stars today"
+      "forks": 191,
+      "added_stars": "1 star today"
     },
     {
-      "title": "leanprover-community / mathlib3",
-      "url": "https://github.com/leanprover-community/mathlib3",
-      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
+      "title": "leanprover / comparator",
+      "url": "https://github.com/leanprover/comparator",
+      "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1664,
-      "forks": 289,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "digama0 / lean4lean",
-      "url": "https://github.com/digama0/lean4lean",
-      "description": "Lean 4 kernel / 'external checker' written in Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 221,
-      "forks": 30,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "teorth / analysis",
-      "url": "https://github.com/teorth/analysis",
-      "description": "A Lean companion to Analysis I",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1844,
-      "forks": 260,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover-community / physlib",
-      "url": "https://github.com/leanprover-community/physlib",
-      "description": "A project to digitalise results from physics into Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 670,
-      "forks": 150,
+      "stars": 118,
+      "forks": 21,
       "added_stars": "2 stars today"
     },
     {
-      "title": "opencompl / veir",
-      "url": "https://github.com/opencompl/veir",
-      "description": "Verified Intermediate Representation",
+      "title": "leanprover / verso",
+      "url": "https://github.com/leanprover/verso",
+      "description": "Lean documentation authoring tool",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 84,
-      "forks": 18,
+      "stars": 370,
+      "forks": 120,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "argumentcomputer / ix",
+      "url": "https://github.com/argumentcomputer/ix",
+      "description": "a zero-knowledge proof-carrying code platform for Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 85,
+      "forks": 3,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1166,
+      "forks": 400,
       "added_stars": "1 star today"
     },
     {
@@ -80,9 +60,39 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 8700,
-      "forks": 928,
-      "added_stars": "7 stars today"
+      "stars": 8708,
+      "forks": 929,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "emberian / dregg",
+      "url": "https://github.com/emberian/dregg",
+      "description": "Distributed object-capability authorization with ZK proofs",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 29,
+      "forks": 6,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "leanprover / lean-eval",
+      "url": "https://github.com/leanprover/lean-eval",
+      "description": "Comparator-based Lean formal mathematics eval",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 33,
+      "forks": 36,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 3766,
+      "forks": 1566,
+      "added_stars": "6 stars today"
     }
   ]
 }

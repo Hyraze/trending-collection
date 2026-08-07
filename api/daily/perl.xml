@@ -4,7 +4,7 @@
   <title>GitHub Perl Languages Daily Trending</title>
   <description>Daily Trending of Perl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
   <item>
     <title>brendangregg / FlameGraph</title>
     <link>https://github.com/brendangregg/FlameGraph</link>
@@ -21,34 +21,19 @@
     <description>lm-sensors repository</description>
   </item>
   <item>
-    <title>manwar / perlweeklychallenge-club</title>
-    <link>https://github.com/manwar/perlweeklychallenge-club</link>
-    <description>Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…</description>
+    <title>inverse-inc / packetfence</title>
+    <link>https://github.com/inverse-inc/packetfence</link>
+    <description>PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…</description>
   </item>
   <item>
-    <title>szTheory / exifcleaner</title>
-    <link>https://github.com/szTheory/exifcleaner</link>
-    <description>Cross-platform desktop GUI app to clean image metadata</description>
+    <title>metomi / fcm</title>
+    <link>https://github.com/metomi/fcm</link>
+    <description>🔨 FCM: a modern Fortran build system + wrappers to Subversion for scientific software development</description>
   </item>
   <item>
-    <title>os-autoinst / os-autoinst-distri-opensuse</title>
-    <link>https://github.com/os-autoinst/os-autoinst-distri-opensuse</link>
-    <description>os-autoinst test cases for openSUSE</description>
-  </item>
-  <item>
-    <title>Perl / perl5</title>
-    <link>https://github.com/Perl/perl5</link>
-    <description>🐪 The Perl programming language</description>
-  </item>
-  <item>
-    <title>adrienverge / openfortivpn</title>
-    <link>https://github.com/adrienverge/openfortivpn</link>
-    <description>Client for PPP+TLS VPN tunnel services</description>
-  </item>
-  <item>
-    <title>Zimbra / zm-build</title>
-    <link>https://github.com/Zimbra/zm-build</link>
-    <description>zm-build for Zimbra Collaboration Suite, FOSS Edition</description>
+    <title>exiftool / exiftool</title>
+    <link>https://github.com/exiftool/exiftool</link>
+    <description>ExifTool meta information reader/writer</description>
   </item>
   <item>
     <title>AlDanial / cloc</title>
@@ -56,9 +41,19 @@
     <description>cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</description>
   </item>
   <item>
-    <title>exiftool / exiftool</title>
-    <link>https://github.com/exiftool/exiftool</link>
-    <description>ExifTool meta information reader/writer</description>
+    <title>OpenKore / openkore</title>
+    <link>https://github.com/OpenKore/openkore</link>
+    <description>A free/open source client and automation tool for Ragnarok Online</description>
+  </item>
+  <item>
+    <title>szTheory / exifcleaner</title>
+    <link>https://github.com/szTheory/exifcleaner</link>
+    <description>Cross-platform desktop GUI app to clean image metadata</description>
+  </item>
+  <item>
+    <title>awsdocs / aws-cdk-guide</title>
+    <link>https://github.com/awsdocs/aws-cdk-guide</link>
+    <description>User guide for the AWS Cloud Development Kit (CDK).</description>
   </item>
 </channel>
 </rss>

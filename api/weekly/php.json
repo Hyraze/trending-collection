@@ -2,57 +2,17 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
-    {
-      "title": "grokability / snipe-it",
-      "url": "https://github.com/grokability/snipe-it",
-      "description": "A free open source IT asset/license management system",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 14759,
-      "forks": 3951,
-      "added_stars": "407 stars this week"
-    },
     {
       "title": "elementor / elementor",
       "url": "https://github.com/elementor/elementor",
       "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 7029,
+      "stars": 7033,
       "forks": 1557,
-      "added_stars": "58 stars this week"
-    },
-    {
-      "title": "matomo-org / matomo",
-      "url": "https://github.com/matomo-org/matomo",
-      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 21743,
-      "forks": 2883,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "pestphp / pest",
-      "url": "https://github.com/pestphp/pest",
-      "description": "The elegant testing framework for PHP developers and AI agents.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 11635,
-      "forks": 516,
-      "added_stars": "34 stars this week"
-    },
-    {
-      "title": "nextcloud / all-in-one",
-      "url": "https://github.com/nextcloud/all-in-one",
-      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 10228,
-      "forks": 1076,
-      "added_stars": "48 stars this week"
+      "added_stars": "61 stars this week"
     },
     {
       "title": "easychen / opc-methodology",
@@ -60,9 +20,39 @@
       "description": "《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 16578,
-      "forks": 1898,
-      "added_stars": "270 stars this week"
+      "stars": 16584,
+      "forks": 1900,
+      "added_stars": "284 stars this week"
+    },
+    {
+      "title": "grokability / snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 14767,
+      "forks": 3951,
+      "added_stars": "133 stars this week"
+    },
+    {
+      "title": "pestphp / pest",
+      "url": "https://github.com/pestphp/pest",
+      "description": "The elegant testing framework for PHP developers and AI agents.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 11636,
+      "forks": 516,
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "matomo-org / matomo",
+      "url": "https://github.com/matomo-org/matomo",
+      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 21748,
+      "forks": 2882,
+      "added_stars": "27 stars this week"
     },
     {
       "title": "laravel / framework",
@@ -70,19 +60,29 @@
       "description": "Laravel is a web application framework with expressive, elegant syntax.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 34850,
-      "forks": 11938,
+      "stars": 34851,
+      "forks": 11941,
       "added_stars": "33 stars this week"
     },
     {
-      "title": "SuiteCRM / SuiteCRM",
-      "url": "https://github.com/SuiteCRM/SuiteCRM",
-      "description": "SuiteCRM - Open source CRM for the world",
+      "title": "symfony / symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 5631,
-      "forks": 2391,
-      "added_stars": "32 stars this week"
+      "stars": 31120,
+      "forks": 9860,
+      "added_stars": "20 stars this week"
+    },
+    {
+      "title": "nextcloud / all-in-one",
+      "url": "https://github.com/nextcloud/all-in-one",
+      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 10232,
+      "forks": 1076,
+      "added_stars": "43 stars this week"
     },
     {
       "title": "shopware / shopware",
@@ -95,34 +95,64 @@
       "added_stars": "5 stars this week"
     },
     {
-      "title": "FreshRSS / FreshRSS",
-      "url": "https://github.com/FreshRSS/FreshRSS",
-      "description": "A free, self-hostable news aggregator…",
+      "title": "SuiteCRM / SuiteCRM",
+      "url": "https://github.com/SuiteCRM/SuiteCRM",
+      "description": "SuiteCRM - Open source CRM for the world",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 15704,
-      "forks": 1235,
-      "added_stars": "65 stars this week"
+      "stars": 5635,
+      "forks": 2391,
+      "added_stars": "35 stars this week"
     },
     {
-      "title": "woocommerce / woocommerce",
-      "url": "https://github.com/woocommerce/woocommerce",
-      "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
+      "title": "pterodactyl / panel",
+      "url": "https://github.com/pterodactyl/panel",
+      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 10445,
-      "forks": 10677,
-      "added_stars": "18 stars this week"
+      "stars": 9109,
+      "forks": 2634,
+      "added_stars": "40 stars this week"
     },
     {
-      "title": "filamentphp / filament",
-      "url": "https://github.com/filamentphp/filament",
-      "description": "A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire",
+      "title": "openemr / openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 31711,
-      "forks": 4195,
-      "added_stars": "84 stars this week"
+      "stars": 5354,
+      "forks": 3001,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "danielmiessler / SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 72646,
+      "forks": 25072,
+      "added_stars": "160 stars this week"
+    },
+    {
+      "title": "laravel / lsp",
+      "url": "https://github.com/laravel/lsp",
+      "description": "",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 245,
+      "forks": 7,
+      "added_stars": "67 stars this week"
+    },
+    {
+      "title": "pimcore / pimcore",
+      "url": "https://github.com/pimcore/pimcore",
+      "description": "Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 3822,
+      "forks": 1514,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "opnsense / core",
@@ -130,9 +160,19 @@
       "description": "OPNsense GUI, API and systems backend",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 4566,
+      "stars": 4570,
       "forks": 978,
-      "added_stars": "21 stars this week"
+      "added_stars": "23 stars this week"
+    },
+    {
+      "title": "lizhipay / acg-faka",
+      "url": "https://github.com/lizhipay/acg-faka",
+      "description": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 5419,
+      "forks": 1065,
+      "added_stars": "60 stars this week"
     },
     {
       "title": "WordPress / wordpress-develop",
@@ -141,28 +181,18 @@
       "language": "PHP",
       "languageColor": "#4F5D95",
       "stars": 3396,
-      "forks": 3574,
+      "forks": 3576,
       "added_stars": "7 stars this week"
     },
     {
-      "title": "symfony / symfony",
-      "url": "https://github.com/symfony/symfony",
-      "description": "The Symfony PHP framework",
+      "title": "glpi-project / glpi",
+      "url": "https://github.com/glpi-project/glpi",
+      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 31116,
-      "forks": 9860,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "bagisto / bagisto",
-      "url": "https://github.com/bagisto/bagisto",
-      "description": "Free and open source laravel eCommerce platform",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 27943,
-      "forks": 3234,
-      "added_stars": "86 stars this week"
+      "stars": 6200,
+      "forks": 1765,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "wp-cli / wp-cli",
@@ -170,29 +200,19 @@
       "description": "⚙️ WP-CLI framework",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 5131,
+      "stars": 5133,
       "forks": 1020,
-      "added_stars": "7 stars this week"
+      "added_stars": "10 stars this week"
     },
     {
-      "title": "OpenSID / OpenSID",
-      "url": "https://github.com/OpenSID/OpenSID",
-      "description": "Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID",
+      "title": "FreshRSS / FreshRSS",
+      "url": "https://github.com/FreshRSS/FreshRSS",
+      "description": "A free, self-hostable news aggregator…",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 1219,
-      "forks": 1176,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "pterodactyl / panel",
-      "url": "https://github.com/pterodactyl/panel",
-      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 9106,
-      "forks": 2632,
-      "added_stars": "40 stars this week"
+      "stars": 15711,
+      "forks": 1235,
+      "added_stars": "68 stars this week"
     },
     {
       "title": "freescout-help-desk / freescout",
@@ -200,29 +220,19 @@
       "description": "FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 4463,
+      "stars": 4464,
       "forks": 697,
-      "added_stars": "23 stars this week"
+      "added_stars": "19 stars this week"
     },
     {
-      "title": "invoiceninja / invoiceninja",
-      "url": "https://github.com/invoiceninja/invoiceninja",
-      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+      "title": "monicahq / monica",
+      "url": "https://github.com/monicahq/monica",
+      "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 9975,
-      "forks": 2682,
-      "added_stars": "38 stars this week"
-    },
-    {
-      "title": "lizhipay / acg-faka",
-      "url": "https://github.com/lizhipay/acg-faka",
-      "description": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 5411,
-      "forks": 1064,
-      "added_stars": "57 stars this week"
+      "stars": 24978,
+      "forks": 2572,
+      "added_stars": "60 stars this week"
     }
   ]
 }

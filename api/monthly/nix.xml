@@ -4,16 +4,11 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
     <description>Nix Packages collection &amp; NixOS</description>
-  </item>
-  <item>
-    <title>nix-community / home-manager</title>
-    <link>https://github.com/nix-community/home-manager</link>
-    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
   <item>
     <title>numtide / llm-agents.nix</title>
@@ -21,19 +16,14 @@
     <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
   </item>
   <item>
+    <title>nix-community / home-manager</title>
+    <link>https://github.com/nix-community/home-manager</link>
+    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+  </item>
+  <item>
     <title>nix-darwin / nix-darwin</title>
     <link>https://github.com/nix-darwin/nix-darwin</link>
     <description>Manage your macOS using Nix</description>
-  </item>
-  <item>
-    <title>Mic92 / sops-nix</title>
-    <link>https://github.com/Mic92/sops-nix</link>
-    <description>Atomic secret provisioning for NixOS based on sops</description>
-  </item>
-  <item>
-    <title>NixOS / nixos-hardware</title>
-    <link>https://github.com/NixOS/nixos-hardware</link>
-    <description>A collection of NixOS modules covering hardware quirks.</description>
   </item>
   <item>
     <title>cloud-gouv / securix</title>
@@ -41,19 +31,19 @@
     <description>SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.</description>
   </item>
   <item>
+    <title>Mic92 / sops-nix</title>
+    <link>https://github.com/Mic92/sops-nix</link>
+    <description>Atomic secret provisioning for NixOS based on sops</description>
+  </item>
+  <item>
     <title>numtide / system-manager</title>
     <link>https://github.com/numtide/system-manager</link>
     <description>Manage system config using nix on any distro</description>
   </item>
   <item>
-    <title>NixOS / nix.dev</title>
-    <link>https://github.com/NixOS/nix.dev</link>
-    <description>Official documentation for getting things done with Nix.</description>
-  </item>
-  <item>
-    <title>Misterio77 / nix-starter-configs</title>
-    <link>https://github.com/Misterio77/nix-starter-configs</link>
-    <description>Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</description>
+    <title>NixOS / nixos-hardware</title>
+    <link>https://github.com/NixOS/nixos-hardware</link>
+    <description>A collection of NixOS modules covering hardware quirks.</description>
   </item>
   <item>
     <title>nix-community / NixOS-WSL</title>
@@ -61,9 +51,14 @@
     <description>NixOS on WSL [maintainer=@nzbr]</description>
   </item>
   <item>
-    <title>nix-community / disko</title>
-    <link>https://github.com/nix-community/disko</link>
-    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
+    <title>Misterio77 / nix-starter-configs</title>
+    <link>https://github.com/Misterio77/nix-starter-configs</link>
+    <description>Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</description>
+  </item>
+  <item>
+    <title>NixOS / nix.dev</title>
+    <link>https://github.com/NixOS/nix.dev</link>
+    <description>Official documentation for getting things done with Nix.</description>
   </item>
   <item>
     <title>microvm-nix / microvm.nix</title>
@@ -71,14 +66,19 @@
     <description>NixOS MicroVMs</description>
   </item>
   <item>
-    <title>nix-community / nixvim</title>
-    <link>https://github.com/nix-community/nixvim</link>
-    <description>Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</description>
+    <title>nix-community / disko</title>
+    <link>https://github.com/nix-community/disko</link>
+    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
   </item>
   <item>
     <title>feel-co / hjem</title>
     <link>https://github.com/feel-co/hjem</link>
     <description>Streamlined, elegant $HOME management with Nix</description>
+  </item>
+  <item>
+    <title>nix-community / nixvim</title>
+    <link>https://github.com/nix-community/nixvim</link>
+    <description>Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</description>
   </item>
 </channel>
 </rss>

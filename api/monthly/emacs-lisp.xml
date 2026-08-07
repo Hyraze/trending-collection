@@ -4,7 +4,7 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>xenodium / agent-shell</title>
     <link>https://github.com/xenodium/agent-shell</link>
@@ -14,11 +14,6 @@
     <title>dakra / ghostel</title>
     <link>https://github.com/dakra/ghostel</link>
     <description>Terminal emulator powered by libghostty</description>
-  </item>
-  <item>
-    <title>doomemacs / core</title>
-    <link>https://github.com/doomemacs/core</link>
-    <description>An Emacs framework for the stubborn martian hacker</description>
   </item>
   <item>
     <title>karthink / gptel</title>
@@ -31,9 +26,9 @@
     <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
   </item>
   <item>
-    <title>emacs-mirror / emacs</title>
-    <link>https://github.com/emacs-mirror/emacs</link>
-    <description>Mirror of GNU Emacs</description>
+    <title>doomemacs / core</title>
+    <link>https://github.com/doomemacs/core</link>
+    <description>An Emacs framework for the stubborn martian hacker</description>
   </item>
   <item>
     <title>magit / magit</title>
@@ -41,19 +36,14 @@
     <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
   </item>
   <item>
+    <title>emacs-mirror / emacs</title>
+    <link>https://github.com/emacs-mirror/emacs</link>
+    <description>Mirror of GNU Emacs</description>
+  </item>
+  <item>
     <title>melpa / melpa</title>
     <link>https://github.com/melpa/melpa</link>
     <description>Recipes and build machinery for the biggest Emacs package repo</description>
-  </item>
-  <item>
-    <title>doomemacs / modules</title>
-    <link>https://github.com/doomemacs/modules</link>
-    <description>Official module library for Doom Emacs</description>
-  </item>
-  <item>
-    <title>google-coral / coralnpu</title>
-    <link>https://github.com/google-coral/coralnpu</link>
-    <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
   </item>
   <item>
     <title>flycheck / flycheck</title>
@@ -61,14 +51,19 @@
     <description>On the fly syntax checking for GNU Emacs</description>
   </item>
   <item>
-    <title>jrblevin / markdown-mode</title>
-    <link>https://github.com/jrblevin/markdown-mode</link>
-    <description>Emacs Markdown Mode</description>
+    <title>doomemacs / modules</title>
+    <link>https://github.com/doomemacs/modules</link>
+    <description>Official module library for Doom Emacs</description>
   </item>
   <item>
     <title>qjcg / awesome-typst</title>
     <link>https://github.com/qjcg/awesome-typst</link>
     <description>Awesome Typst Links</description>
+  </item>
+  <item>
+    <title>jrblevin / markdown-mode</title>
+    <link>https://github.com/jrblevin/markdown-mode</link>
+    <description>Emacs Markdown Mode</description>
   </item>
   <item>
     <title>bbatsov / projectile</title>
@@ -81,19 +76,24 @@
     <description>make Emacs bindings that stick around</description>
   </item>
   <item>
-    <title>dimitri / el-get</title>
-    <link>https://github.com/dimitri/el-get</link>
-    <description>Manage the external elisp bits and pieces upon which you depend!</description>
-  </item>
-  <item>
     <title>manzaltu / claude-code-ide.el</title>
     <link>https://github.com/manzaltu/claude-code-ide.el</link>
     <description>Claude Code IDE integration for Emacs</description>
   </item>
   <item>
+    <title>google-coral / coralnpu</title>
+    <link>https://github.com/google-coral/coralnpu</link>
+    <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
+  </item>
+  <item>
     <title>abo-abo / ace-window</title>
     <link>https://github.com/abo-abo/ace-window</link>
     <description>Quickly switch windows in Emacs</description>
+  </item>
+  <item>
+    <title>yoshiki / yaml-mode</title>
+    <link>https://github.com/yoshiki/yaml-mode</link>
+    <description>The emacs major mode for editing files in the YAML data serialization format.</description>
   </item>
 </channel>
 </rss>

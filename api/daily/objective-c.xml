@@ -4,61 +4,11 @@
   <title>GitHub Objective-c Languages Daily Trending</title>
   <description>Daily Trending of Objective-c Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
-  <item>
-    <title>realm / realm-swift</title>
-    <link>https://github.com/realm/realm-swift</link>
-    <description>Realm is a mobile database: a replacement for Core Data &amp; SQLite</description>
-  </item>
+  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
   <item>
     <title>SDWebImage / SDWebImage</title>
     <link>https://github.com/SDWebImage/SDWebImage</link>
     <description>Asynchronous image downloader with cache support as a UIImageView category</description>
-  </item>
-  <item>
-    <title>google / GoogleDataTransport</title>
-    <link>https://github.com/google/GoogleDataTransport</link>
-    <description></description>
-  </item>
-  <item>
-    <title>AliSoftware / OHHTTPStubs</title>
-    <link>https://github.com/AliSoftware/OHHTTPStubs</link>
-    <description>Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!</description>
-  </item>
-  <item>
-    <title>gnachman / iTerm2</title>
-    <link>https://github.com/gnachman/iTerm2</link>
-    <description>iTerm2 is a terminal emulator for Mac OS X that does amazing things.</description>
-  </item>
-  <item>
-    <title>zendesk / support_sdk_ios</title>
-    <link>https://github.com/zendesk/support_sdk_ios</link>
-    <description>Zendesk Support SDK for iOS</description>
-  </item>
-  <item>
-    <title>jdg / MBProgressHUD</title>
-    <link>https://github.com/jdg/MBProgressHUD</link>
-    <description>MBProgressHUD + Customizations</description>
-  </item>
-  <item>
-    <title>kstenerud / KSCrash</title>
-    <link>https://github.com/kstenerud/KSCrash</link>
-    <description>The Ultimate iOS Crash Reporter</description>
-  </item>
-  <item>
-    <title>CocoaLumberjack / CocoaLumberjack</title>
-    <link>https://github.com/CocoaLumberjack/CocoaLumberjack</link>
-    <description>A fast &amp; simple, yet powerful &amp; flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS</description>
-  </item>
-  <item>
-    <title>adjust / ios_sdk</title>
-    <link>https://github.com/adjust/ios_sdk</link>
-    <description>This is the iOS SDK of</description>
-  </item>
-  <item>
-    <title>erikdoe / ocmock</title>
-    <link>https://github.com/erikdoe/ocmock</link>
-    <description>Mock objects for Objective-C</description>
   </item>
   <item>
     <title>google / GoogleUtilities</title>
@@ -66,14 +16,54 @@
     <description></description>
   </item>
   <item>
-    <title>FLEXTool / FLEX</title>
-    <link>https://github.com/FLEXTool/FLEX</link>
-    <description>An in-app debugging and exploration tool for iOS</description>
+    <title>google / GoogleDataTransport</title>
+    <link>https://github.com/google/GoogleDataTransport</link>
+    <description></description>
   </item>
   <item>
-    <title>youtube / youtube-ios-player-helper</title>
-    <link>https://github.com/youtube/youtube-ios-player-helper</link>
-    <description>Lightweight helper library that allows iOS developers to add inline playback of YouTube videos through a WebView</description>
+    <title>google / promises</title>
+    <link>https://github.com/google/promises</link>
+    <description>Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</description>
+  </item>
+  <item>
+    <title>google / gtm-session-fetcher</title>
+    <link>https://github.com/google/gtm-session-fetcher</link>
+    <description>Google Toolbox for Mac - Session Fetcher</description>
+  </item>
+  <item>
+    <title>CocoaLumberjack / CocoaLumberjack</title>
+    <link>https://github.com/CocoaLumberjack/CocoaLumberjack</link>
+    <description>A fast &amp; simple, yet powerful &amp; flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS</description>
+  </item>
+  <item>
+    <title>realm / realm-swift</title>
+    <link>https://github.com/realm/realm-swift</link>
+    <description>Realm is a mobile database: a replacement for Core Data &amp; SQLite</description>
+  </item>
+  <item>
+    <title>PureLayout / PureLayout</title>
+    <link>https://github.com/PureLayout/PureLayout</link>
+    <description>The ultimate API for iOS &amp; OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.</description>
+  </item>
+  <item>
+    <title>dzenbot / DZNEmptyDataSet</title>
+    <link>https://github.com/dzenbot/DZNEmptyDataSet</link>
+    <description>A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display</description>
+  </item>
+  <item>
+    <title>SVProgressHUD / SVProgressHUD</title>
+    <link>https://github.com/SVProgressHUD/SVProgressHUD</link>
+    <description>A clean and lightweight progress HUD for your iOS and tvOS app.</description>
+  </item>
+  <item>
+    <title>WenchaoD / FSCalendar</title>
+    <link>https://github.com/WenchaoD/FSCalendar</link>
+    <description>A fully customizable iOS calendar library, compatible with Objective-C and Swift</description>
+  </item>
+  <item>
+    <title>bugsnag / bugsnag-cocoa</title>
+    <link>https://github.com/bugsnag/bugsnag-cocoa</link>
+    <description>BugSnag error monitoring &amp; exception reporter for iOS, macOS, tvOS and watchOS</description>
   </item>
 </channel>
 </rss>

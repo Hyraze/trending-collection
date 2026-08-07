@@ -4,7 +4,7 @@
   <title>GitHub Powershell Languages Daily Trending</title>
   <description>Daily Trending of Powershell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
   <item>
     <title>zhaoxuya520 / reverse-skill</title>
     <link>https://github.com/zhaoxuya520/reverse-skill</link>
@@ -19,6 +19,11 @@
     <title>microsoft / ActiveDirectoryTierModel</title>
     <link>https://github.com/microsoft/ActiveDirectoryTierModel</link>
     <description>Deployment of an Active Directory Tier Model structure to support Tier 0, Tier 1, and Tier 2 objects.</description>
+  </item>
+  <item>
+    <title>ChrisTitusTech / winutil</title>
+    <link>https://github.com/ChrisTitusTech/winutil</link>
+    <description>Chris Titus Tech&#x27;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates</description>
   </item>
   <item>
     <title>Orange-Cyberdefense / GOAD</title>
@@ -46,9 +51,9 @@
     <description>A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.</description>
   </item>
   <item>
-    <title>ChrisTitusTech / winutil</title>
-    <link>https://github.com/ChrisTitusTech/winutil</link>
-    <description>Chris Titus Tech&#x27;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates</description>
+    <title>microsoft / work-iq</title>
+    <link>https://github.com/microsoft/work-iq</link>
+    <description>MCP Server and CLI for accessing Work IQ</description>
   </item>
   <item>
     <title>ScoopInstaller / Scoop</title>
@@ -56,34 +61,14 @@
     <description>A command-line installer for Windows.</description>
   </item>
   <item>
-    <title>openhab / openhab-distro</title>
-    <link>https://github.com/openhab/openhab-distro</link>
-    <description>The binary distribution of openHAB</description>
-  </item>
-  <item>
-    <title>github / copilot-plugins</title>
-    <link>https://github.com/github/copilot-plugins</link>
-    <description>The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.</description>
-  </item>
-  <item>
     <title>cmderdev / cmder</title>
     <link>https://github.com/cmderdev/cmder</link>
     <description>Lovely console emulator package for Windows</description>
   </item>
   <item>
-    <title>PowerShellMafia / PowerSploit</title>
-    <link>https://github.com/PowerShellMafia/PowerSploit</link>
-    <description>PowerSploit - A PowerShell Post-Exploitation Framework</description>
-  </item>
-  <item>
-    <title>MicrosoftDocs / PowerShell-Docs</title>
-    <link>https://github.com/MicrosoftDocs/PowerShell-Docs</link>
-    <description>The official PowerShell documentation sources</description>
-  </item>
-  <item>
-    <title>microsoftgraph / microsoft-graph-docs-contrib</title>
-    <link>https://github.com/microsoftgraph/microsoft-graph-docs-contrib</link>
-    <description>Documentation for the Microsoft Graph REST API</description>
+    <title>ScoopInstaller / Extras</title>
+    <link>https://github.com/ScoopInstaller/Extras</link>
+    <description>📦 The Extras bucket for Scoop.</description>
   </item>
 </channel>
 </rss>

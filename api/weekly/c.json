@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "antirez / ds4",
@@ -10,19 +10,9 @@
       "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 20702,
-      "forks": 1844,
-      "added_stars": "1,266 stars this week"
-    },
-    {
-      "title": "microsoft / PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 137503,
-      "forks": 8449,
-      "added_stars": "668 stars this week"
+      "stars": 20821,
+      "forks": 1857,
+      "added_stars": "1,319 stars this week"
     },
     {
       "title": "obsproject / obs-studio",
@@ -30,9 +20,19 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 74605,
-      "forks": 9603,
-      "added_stars": "389 stars this week"
+      "stars": 74658,
+      "forks": 9622,
+      "added_stars": "423 stars this week"
+    },
+    {
+      "title": "microsoft / PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 137540,
+      "forks": 8462,
+      "added_stars": "573 stars this week"
     },
     {
       "title": "DarkFlippers / unleashed-firmware",
@@ -40,119 +40,19 @@
       "description": "Flipper Zero Unleashed Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22002,
-      "forks": 1923,
-      "added_stars": "78 stars this week"
+      "stars": 22014,
+      "forks": 1925,
+      "added_stars": "74 stars this week"
     },
     {
-      "title": "pgvector / pgvector",
-      "url": "https://github.com/pgvector/pgvector",
-      "description": "Open-source vector similarity search for Postgres",
+      "title": "86Box / 86Box",
+      "url": "https://github.com/86Box/86Box",
+      "description": "Emulator of x86-based machines.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22501,
-      "forks": 1274,
-      "added_stars": "114 stars this week"
-    },
-    {
-      "title": "kingToolbox / WindTerm",
-      "url": "https://github.com/kingToolbox/WindTerm",
-      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 31882,
-      "forks": 2431,
-      "added_stars": "107 stars this week"
-    },
-    {
-      "title": "mcu-tools / mcuboot",
-      "url": "https://github.com/mcu-tools/mcuboot",
-      "description": "Secure boot for 32-bit Microcontrollers!",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2017,
-      "forks": 963,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "openwrt / openwrt",
-      "url": "https://github.com/openwrt/openwrt",
-      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27873,
-      "forks": 12732,
-      "added_stars": "119 stars this week"
-    },
-    {
-      "title": "tr4m0ryp / tr4mpass",
-      "url": "https://github.com/tr4m0ryp/tr4mpass",
-      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 504,
-      "forks": 144,
-      "added_stars": "69 stars this week"
-    },
-    {
-      "title": "flipperdevices / flipperzero-firmware",
-      "url": "https://github.com/flipperdevices/flipperzero-firmware",
-      "description": "Flipper Zero firmware source code",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16429,
-      "forks": 3429,
-      "added_stars": "60 stars this week"
-    },
-    {
-      "title": "betaflight / betaflight",
-      "url": "https://github.com/betaflight/betaflight",
-      "description": "Open Source Flight Controller Firmware",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 11317,
-      "forks": 3946,
-      "added_stars": "49 stars this week"
-    },
-    {
-      "title": "tursodatabase / libsql",
-      "url": "https://github.com/tursodatabase/libsql",
-      "description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17096,
-      "forks": 522,
-      "added_stars": "97 stars this week"
-    },
-    {
-      "title": "karpathy / llama2.c",
-      "url": "https://github.com/karpathy/llama2.c",
-      "description": "Inference Llama 2 in one file of pure C",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 19931,
-      "forks": 2599,
-      "added_stars": "97 stars this week"
-    },
-    {
-      "title": "HandBrake / HandBrake",
-      "url": "https://github.com/HandBrake/HandBrake",
-      "description": "HandBrake's development repository",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 23939,
-      "forks": 1670,
-      "added_stars": "68 stars this week"
-    },
-    {
-      "title": "xiaojieonly / Ehviewer_CN_SXJ",
-      "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
-      "description": "ehviewer，用爱发电，快乐前行",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 25912,
-      "forks": 684,
-      "added_stars": "236 stars this week"
+      "stars": 4543,
+      "forks": 552,
+      "added_stars": "53 stars this week"
     },
     {
       "title": "brunodev85 / winlator",
@@ -160,9 +60,89 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 18487,
-      "forks": 1598,
-      "added_stars": "101 stars this week"
+      "stars": 18503,
+      "forks": 1602,
+      "added_stars": "108 stars this week"
+    },
+    {
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 509,
+      "forks": 145,
+      "added_stars": "71 stars this week"
+    },
+    {
+      "title": "betaflight / betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 11319,
+      "forks": 3948,
+      "added_stars": "48 stars this week"
+    },
+    {
+      "title": "flipperdevices / flipperzero-firmware",
+      "url": "https://github.com/flipperdevices/flipperzero-firmware",
+      "description": "Flipper Zero firmware source code",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16434,
+      "forks": 3429,
+      "added_stars": "55 stars this week"
+    },
+    {
+      "title": "karpathy / llama2.c",
+      "url": "https://github.com/karpathy/llama2.c",
+      "description": "Inference Llama 2 in one file of pure C",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 19938,
+      "forks": 2601,
+      "added_stars": "99 stars this week"
+    },
+    {
+      "title": "pret / pokeemerald",
+      "url": "https://github.com/pret/pokeemerald",
+      "description": "Decompilation of Pokémon Emerald",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3350,
+      "forks": 4361,
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "pgvector / pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 22519,
+      "forks": 1274,
+      "added_stars": "117 stars this week"
+    },
+    {
+      "title": "xiaojieonly / Ehviewer_CN_SXJ",
+      "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+      "description": "ehviewer，用爱发电，快乐前行",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 25943,
+      "forks": 683,
+      "added_stars": "247 stars this week"
+    },
+    {
+      "title": "timescale / timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 23248,
+      "forks": 1129,
+      "added_stars": "53 stars this week"
     },
     {
       "title": "vedderb / bldc",
@@ -170,19 +150,9 @@
       "description": "The VESC motor control firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3322,
-      "forks": 1902,
-      "added_stars": "20 stars this week"
-    },
-    {
-      "title": "xmrig / xmrig",
-      "url": "https://github.com/xmrig/xmrig",
-      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 10065,
-      "forks": 3822,
-      "added_stars": "12 stars this week"
+      "stars": 3328,
+      "forks": 1903,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "glfw / glfw",
@@ -190,19 +160,59 @@
       "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 15235,
-      "forks": 5912,
-      "added_stars": "29 stars this week"
+      "stars": 15234,
+      "forks": 5911,
+      "added_stars": "27 stars this week"
     },
     {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "title": "tursodatabase / libsql",
+      "url": "https://github.com/tursodatabase/libsql",
+      "description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16119,
-      "forks": 9680,
-      "added_stars": "77 stars this week"
+      "stars": 17100,
+      "forks": 524,
+      "added_stars": "92 stars this week"
+    },
+    {
+      "title": "kingToolbox / WindTerm",
+      "url": "https://github.com/kingToolbox/WindTerm",
+      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 31886,
+      "forks": 2432,
+      "added_stars": "101 stars this week"
+    },
+    {
+      "title": "git / git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 62443,
+      "forks": 28221,
+      "added_stars": "170 stars this week"
+    },
+    {
+      "title": "libsdl-org / SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple DirectMedia Layer",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16290,
+      "forks": 2899,
+      "added_stars": "75 stars this week"
+    },
+    {
+      "title": "portapack-mayhem / mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "The firmware for the HackRF+PortaPack H1/H2/H4/H4M",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5304,
+      "forks": 904,
+      "added_stars": "22 stars this week"
     }
   ]
 }

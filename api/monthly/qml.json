@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "caelestia-dots / shell",
@@ -10,9 +10,9 @@
       "description": "A fluid, morphing shell for your Linux desktop",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 10996,
-      "forks": 778,
-      "added_stars": "674 stars this month"
+      "stars": 11020,
+      "forks": 783,
+      "added_stars": "678 stars this month"
     },
     {
       "title": "end-4 / dots-hyprland",
@@ -20,69 +20,9 @@
       "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 15436,
-      "forks": 1289,
-      "added_stars": "466 stars this month"
-    },
-    {
-      "title": "Swordfish90 / cool-retro-term",
-      "url": "https://github.com/Swordfish90/cool-retro-term",
-      "description": "A good looking terminal emulator which mimics the old cathode display...",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 25867,
-      "forks": 996,
-      "added_stars": "146 stars this month"
-    },
-    {
-      "title": "mylinuxforwork / dotfiles",
-      "url": "https://github.com/mylinuxforwork/dotfiles",
-      "description": "The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 4944,
-      "forks": 364,
-      "added_stars": "103 stars this month"
-    },
-    {
-      "title": "snowarch / iNiR",
-      "url": "https://github.com/snowarch/iNiR",
-      "description": "A Niri shell illogical-impulse based - with some modifications..",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 1362,
-      "forks": 77,
-      "added_stars": "142 stars this month"
-    },
-    {
-      "title": "anthonycaccese / 240-MP",
-      "url": "https://github.com/anthonycaccese/240-MP",
-      "description": "240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 373,
-      "forks": 36,
-      "added_stars": "98 stars this month"
-    },
-    {
-      "title": "liixini / skwd-wall",
-      "url": "https://github.com/liixini/skwd-wall",
-      "description": "An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 573,
-      "forks": 20,
-      "added_stars": "111 stars this month"
-    },
-    {
-      "title": "Darkkal44 / qylock",
-      "url": "https://github.com/Darkkal44/qylock",
-      "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 2413,
-      "forks": 97,
-      "added_stars": "226 stars this month"
+      "stars": 15445,
+      "forks": 1291,
+      "added_stars": "475 stars this month"
     },
     {
       "title": "AvengeMedia / DankMaterialShell",
@@ -90,9 +30,69 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 7508,
+      "stars": 7522,
       "forks": 468,
-      "added_stars": "420 stars this month"
+      "added_stars": "415 stars this month"
+    },
+    {
+      "title": "mylinuxforwork / dotfiles",
+      "url": "https://github.com/mylinuxforwork/dotfiles",
+      "description": "The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 4945,
+      "forks": 365,
+      "added_stars": "104 stars this month"
+    },
+    {
+      "title": "Swordfish90 / cool-retro-term",
+      "url": "https://github.com/Swordfish90/cool-retro-term",
+      "description": "A good looking terminal emulator which mimics the old cathode display...",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 25875,
+      "forks": 998,
+      "added_stars": "142 stars this month"
+    },
+    {
+      "title": "snowarch / iNiR",
+      "url": "https://github.com/snowarch/iNiR",
+      "description": "A Niri shell illogical-impulse based - with some modifications..",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 1365,
+      "forks": 77,
+      "added_stars": "145 stars this month"
+    },
+    {
+      "title": "anthonycaccese / 240-MP",
+      "url": "https://github.com/anthonycaccese/240-MP",
+      "description": "240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 374,
+      "forks": 36,
+      "added_stars": "96 stars this month"
+    },
+    {
+      "title": "liixini / skwd-wall",
+      "url": "https://github.com/liixini/skwd-wall",
+      "description": "An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 574,
+      "forks": 20,
+      "added_stars": "112 stars this month"
+    },
+    {
+      "title": "Darkkal44 / qylock",
+      "url": "https://github.com/Darkkal44/qylock",
+      "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 2421,
+      "forks": 97,
+      "added_stars": "229 stars this month"
     },
     {
       "title": "luisbocanegra / plasma-panel-colorizer",
@@ -100,9 +100,9 @@
       "description": "Latte-Dock and WM status bar customization for the KDE Plasma panels",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 1132,
+      "stars": 1134,
       "forks": 29,
-      "added_stars": "41 stars this month"
+      "added_stars": "43 stars this month"
     },
     {
       "title": "Keyitdev / sddm-astronaut-theme",
@@ -110,9 +110,9 @@
       "description": "Series of modern looking themes for SDDM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 3120,
-      "forks": 201,
-      "added_stars": "113 stars this month"
+      "stars": 3131,
+      "forks": 200,
+      "added_stars": "119 stars this month"
     },
     {
       "title": "luisbocanegra / plasma-smart-video-wallpaper-reborn",
@@ -120,9 +120,9 @@
       "description": "Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 548,
+      "stars": 547,
       "forks": 33,
-      "added_stars": "24 stars this month"
+      "added_stars": "23 stars this month"
     },
     {
       "title": "catsout / wallpaper-engine-kde-plugin",
@@ -142,7 +142,7 @@
       "languageColor": "#44a51c",
       "stars": 427,
       "forks": 12,
-      "added_stars": "23 stars this month"
+      "added_stars": "21 stars this month"
     },
     {
       "title": "vinceliuice / WhiteSur-kde",
@@ -152,7 +152,17 @@
       "languageColor": "#44a51c",
       "stars": 1231,
       "forks": 91,
-      "added_stars": "21 stars this month"
+      "added_stars": "20 stars this month"
+    },
+    {
+      "title": "jaxparrow07 / liquidglass-kde-widgets",
+      "url": "https://github.com/jaxparrow07/liquidglass-kde-widgets",
+      "description": "Liquid Glass Widgets (MacOS) for KDE Plasma",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 99,
+      "forks": 7,
+      "added_stars": "32 stars this month"
     }
   ]
 }

@@ -2,56 +2,36 @@
   "title": "GitHub Nim Languages Daily Trending",
   "description": "Daily Trending of Nim Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
-    {
-      "title": "nim-lang / Nim",
-      "url": "https://github.com/nim-lang/Nim",
-      "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
-      "language": "Nim",
-      "languageColor": "#ffc200",
-      "stars": 18153,
-      "forks": 1547,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "zedeus / nitter",
       "url": "https://github.com/zedeus/nitter",
       "description": "Alternative Twitter front-end",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 13401,
+      "stars": 13407,
       "forks": 750,
-      "added_stars": "6 stars today"
+      "added_stars": "4 stars today"
     },
     {
-      "title": "status-im / nimbus-eth2",
-      "url": "https://github.com/status-im/nimbus-eth2",
-      "description": "Nim implementation of the Ethereum Beacon Chain",
+      "title": "vacp2p / nim-libp2p",
+      "url": "https://github.com/vacp2p/nim-libp2p",
+      "description": "libp2p implementation in Nim",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 660,
-      "forks": 328,
-      "added_stars": "0 stars today"
+      "stars": 318,
+      "forks": 73,
+      "added_stars": "1 star today"
     },
     {
-      "title": "nim-lang / packages",
-      "url": "https://github.com/nim-lang/packages",
-      "description": "List of packages for Nimble",
+      "title": "status-im / nimbus-eth1",
+      "url": "https://github.com/status-im/nimbus-eth1",
+      "description": "Nimbus: an Ethereum Execution Client for Resource-Restricted Devices",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 498,
-      "forks": 781,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "crashappsec / chalk",
-      "url": "https://github.com/crashappsec/chalk",
-      "description": "Chalk allows you to follow code from development, through builds and into production.",
-      "language": "Nim",
-      "languageColor": "#ffc200",
-      "stars": 438,
-      "forks": 25,
+      "stars": 625,
+      "forks": 161,
       "added_stars": "0 stars today"
     },
     {
@@ -65,13 +45,33 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "status-im / nimbus-eth1",
-      "url": "https://github.com/status-im/nimbus-eth1",
-      "description": "Nimbus: an Ethereum Execution Client for Resource-Restricted Devices",
+      "title": "nim-lang / packages",
+      "url": "https://github.com/nim-lang/packages",
+      "description": "List of packages for Nimble",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 625,
-      "forks": 161,
+      "stars": 498,
+      "forks": 781,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "status-im / nimbus-eth2",
+      "url": "https://github.com/status-im/nimbus-eth2",
+      "description": "Nim implementation of the Ethereum Beacon Chain",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 660,
+      "forks": 328,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "status-im / nim-stew",
+      "url": "https://github.com/status-im/nim-stew",
+      "description": "stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 154,
+      "forks": 21,
       "added_stars": "0 stars today"
     }
   ]

@@ -2,27 +2,17 @@
   "title": "GitHub Smalltalk Languages Daily Trending",
   "description": "Daily Trending of Smalltalk Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
-      "title": "pharo-project / pharo",
-      "url": "https://github.com/pharo-project/pharo",
-      "description": "Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.",
+      "title": "pharo-contributions / OSSubprocess",
+      "url": "https://github.com/pharo-contributions/OSSubprocess",
+      "description": "Forking Operating System Processes from within Pharo Language",
       "language": "Smalltalk",
       "languageColor": "#596706",
-      "stars": 1479,
-      "forks": 431,
+      "stars": 37,
+      "forks": 26,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "feenkcom / gtoolkit",
-      "url": "https://github.com/feenkcom/gtoolkit",
-      "description": "Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.",
-      "language": "Smalltalk",
-      "languageColor": "#596706",
-      "stars": 1550,
-      "forks": 68,
-      "added_stars": "1 star today"
     }
   ]
 }

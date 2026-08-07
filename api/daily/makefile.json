@@ -2,38 +2,8 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
-    {
-      "title": "open-telemetry / opentelemetry-specification",
-      "url": "https://github.com/open-telemetry/opentelemetry-specification",
-      "description": "Specifications for OpenTelemetry",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4301,
-      "forks": 992,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "dbt-labs / dbt-utils",
-      "url": "https://github.com/dbt-labs/dbt-utils",
-      "description": "Utility functions for dbt projects.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1786,
-      "forks": 630,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "golang-standards / project-layout",
-      "url": "https://github.com/golang-standards/project-layout",
-      "description": "Standard Go Project Layout",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 56402,
-      "forks": 5432,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "open-telemetry / opentelemetry-proto",
       "url": "https://github.com/open-telemetry/opentelemetry-proto",
@@ -42,16 +12,96 @@
       "languageColor": "#427819",
       "stars": 801,
       "forks": 318,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-specification",
+      "url": "https://github.com/open-telemetry/opentelemetry-specification",
+      "description": "Specifications for OpenTelemetry",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4302,
+      "forks": 992,
       "added_stars": "1 star today"
     },
     {
-      "title": "twilio / twilio-oai",
-      "url": "https://github.com/twilio/twilio-oai",
-      "description": "The Twilio OpenAPI Specification",
+      "title": "ROCKNIX / distribution",
+      "url": "https://github.com/ROCKNIX/distribution",
+      "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 167,
-      "forks": 105,
+      "stars": 1475,
+      "forks": 324,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "golang-standards / project-layout",
+      "url": "https://github.com/golang-standards/project-layout",
+      "description": "Standard Go Project Layout",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 56410,
+      "forks": 5433,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "uber-go / guide",
+      "url": "https://github.com/uber-go/guide",
+      "description": "The Uber Go Style Guide.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 17645,
+      "forks": 1811,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "LibreELEC / LibreELEC.tv",
+      "url": "https://github.com/LibreELEC/LibreELEC.tv",
+      "description": "Just enough OS for KODI",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 2794,
+      "forks": 1195,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "dbt-labs / dbt-utils",
+      "url": "https://github.com/dbt-labs/dbt-utils",
+      "description": "Utility functions for dbt projects.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1787,
+      "forks": 630,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "upbound / build",
+      "url": "https://github.com/upbound/build",
+      "description": "Upbound build and CI scripts",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 67,
+      "forks": 80,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "jobbole / awesome-python-cn",
+      "url": "https://github.com/jobbole/awesome-python-cn",
+      "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 30535,
+      "forks": 7943,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "awesome-selfhosted / awesome-selfhosted-data",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
+      "description": "machine-readable data for https://awesome-selfhosted.net",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1086,
+      "forks": 1237,
       "added_stars": "0 stars today"
     },
     {
@@ -65,34 +115,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "LibreELEC / LibreELEC.tv",
-      "url": "https://github.com/LibreELEC/LibreELEC.tv",
-      "description": "Just enough OS for KODI",
+      "title": "twilio / twilio-oai",
+      "url": "https://github.com/twilio/twilio-oai",
+      "description": "The Twilio OpenAPI Specification",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 2793,
-      "forks": 1193,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "freebsd / freebsd-ports",
-      "url": "https://github.com/freebsd/freebsd-ports",
-      "description": "FreeBSD ports tree (read-only mirror)",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1193,
-      "forks": 864,
+      "stars": 167,
+      "forks": 105,
       "added_stars": "0 stars today"
     },
     {
-      "title": "ROCKNIX / distribution",
-      "url": "https://github.com/ROCKNIX/distribution",
-      "description": "",
+      "title": "moul / http2curl",
+      "url": "https://github.com/moul/http2curl",
+      "description": "📐 Convert Golang's http.Request to CURL command line",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1473,
-      "forks": 323,
-      "added_stars": "5 stars today"
+      "stars": 797,
+      "forks": 72,
+      "added_stars": "0 stars today"
     },
     {
       "title": "deepseek-ai / DeepSeek-LLM",
@@ -100,49 +140,9 @@
       "description": "DeepSeek LLM: Let there be answers",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 7203,
-      "forks": 1270,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "jobbole / awesome-python-cn",
-      "url": "https://github.com/jobbole/awesome-python-cn",
-      "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 30533,
-      "forks": 7944,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "pfsense / FreeBSD-ports",
-      "url": "https://github.com/pfsense/FreeBSD-ports",
-      "description": "FreeBSD ports tree with pfSense changes",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 527,
-      "forks": 648,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "openwrt / packages",
-      "url": "https://github.com/openwrt/packages",
-      "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4573,
-      "forks": 3933,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "uber-go / guide",
-      "url": "https://github.com/uber-go/guide",
-      "description": "The Uber Go Style Guide.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 17644,
-      "forks": 1811,
-      "added_stars": "3 stars today"
+      "stars": 7208,
+      "forks": 1279,
+      "added_stars": "6 stars today"
     },
     {
       "title": "HaveAGitGat / Tdarr",
@@ -152,7 +152,7 @@
       "languageColor": "#427819",
       "stars": 4261,
       "forks": 120,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     }
   ]
 }

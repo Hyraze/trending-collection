@@ -4,7 +4,7 @@
   <title>GitHub Javascript Languages Daily Trending</title>
   <description>Daily Trending of Javascript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
   <item>
     <title>addyosmani / agent-skills</title>
     <link>https://github.com/addyosmani/agent-skills</link>
@@ -16,9 +16,9 @@
     <description>The React Framework</description>
   </item>
   <item>
-    <title>pbakaus / impeccable</title>
-    <link>https://github.com/pbakaus/impeccable</link>
-    <description>The design language that makes your AI harness better at design.</description>
+    <title>santifer / career-ops</title>
+    <link>https://github.com/santifer/career-ops</link>
+    <description>Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)</description>
   </item>
   <item>
     <title>Leonxlnx / taste-skill</title>
@@ -26,24 +26,9 @@
     <description>Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop</description>
   </item>
   <item>
-    <title>byoungd / up</title>
-    <link>https://github.com/byoungd/up</link>
-    <description>An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语</description>
-  </item>
-  <item>
-    <title>eze-is / web-access</title>
-    <link>https://github.com/eze-is/web-access</link>
-    <description>给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治</description>
-  </item>
-  <item>
-    <title>xuanyustudio / LocalMiniDrama</title>
-    <link>https://github.com/xuanyustudio/LocalMiniDrama</link>
-    <description>🎬 seedance2接入 开源本地 AI 短剧 &amp; 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线</description>
-  </item>
-  <item>
-    <title>is-a-dev / register</title>
-    <link>https://github.com/is-a-dev/register</link>
-    <description>Grab your own sweet-looking &#x27;.is-a.dev&#x27; subdomain.</description>
+    <title>Snailclimb / JavaGuide</title>
+    <link>https://github.com/Snailclimb/JavaGuide</link>
+    <description>Java 面试 &amp; 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发</description>
   </item>
   <item>
     <title>nodejs / node</title>
@@ -51,29 +36,44 @@
     <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
   </item>
   <item>
-    <title>atlassian / atlassian-mcp-server</title>
-    <link>https://github.com/atlassian/atlassian-mcp-server</link>
-    <description>Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.</description>
+    <title>JuliusBrussee / caveman</title>
+    <link>https://github.com/JuliusBrussee/caveman</link>
+    <description>🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman</description>
   </item>
   <item>
-    <title>TryGhost / Ghost</title>
-    <link>https://github.com/TryGhost/Ghost</link>
-    <description>Independent technology for modern publishing, memberships, subscriptions and newsletters.</description>
+    <title>projectdiscovery / nuclei-templates</title>
+    <link>https://github.com/projectdiscovery/nuclei-templates</link>
+    <description>Community curated list of templates for the nuclei engine to find security vulnerabilities.</description>
   </item>
   <item>
-    <title>webpack / webpack</title>
-    <link>https://github.com/webpack/webpack</link>
-    <description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &quot;loaders&quot;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</description>
+    <title>microsoft / Web-Dev-For-Beginners</title>
+    <link>https://github.com/microsoft/Web-Dev-For-Beginners</link>
+    <description>24 Lessons, 12 Weeks, Get Started as a Web Developer</description>
   </item>
   <item>
-    <title>OWASP / threat-dragon</title>
-    <link>https://github.com/OWASP/threat-dragon</link>
-    <description>An open source threat modeling tool from OWASP</description>
+    <title>drawdb-io / drawdb</title>
+    <link>https://github.com/drawdb-io/drawdb</link>
+    <description>Free, simple, and intuitive online database diagram editor and SQL generator.</description>
   </item>
   <item>
-    <title>zotero / zotero</title>
-    <link>https://github.com/zotero/zotero</link>
-    <description>Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.</description>
+    <title>freestylefly / awesome-gpt-image-2</title>
+    <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
+    <description>Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中</description>
+  </item>
+  <item>
+    <title>react / create-react-app</title>
+    <link>https://github.com/react/create-react-app</link>
+    <description>Set up a modern web app by running one command.</description>
+  </item>
+  <item>
+    <title>louislam / uptime-kuma</title>
+    <link>https://github.com/louislam/uptime-kuma</link>
+    <description>A fancy self-hosted monitoring tool</description>
+  </item>
+  <item>
+    <title>vrgamegirl19 / comfyui-vrgamedevgirl</title>
+    <link>https://github.com/vrgamegirl19/comfyui-vrgamedevgirl</link>
+    <description>Custom ComfyUI nodes for film grain, color matching, and video enhancement.</description>
   </item>
 </channel>
 </rss>

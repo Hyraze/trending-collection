@@ -2,37 +2,27 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
-    {
-      "title": "metabase / metabase",
-      "url": "https://github.com/metabase/metabase",
-      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 48553,
-      "forks": 6717,
-      "added_stars": "134 stars this week"
-    },
     {
       "title": "unclebob / swarm-forge",
       "url": "https://github.com/unclebob/swarm-forge",
       "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 1602,
-      "forks": 172,
-      "added_stars": "179 stars this week"
+      "stars": 1681,
+      "forks": 187,
+      "added_stars": "248 stars this week"
     },
     {
-      "title": "logseq / logseq",
-      "url": "https://github.com/logseq/logseq",
-      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+      "title": "metabase / metabase",
+      "url": "https://github.com/metabase/metabase",
+      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 44297,
-      "forks": 2752,
-      "added_stars": "165 stars this week"
+      "stars": 48568,
+      "forks": 6719,
+      "added_stars": "126 stars this week"
     },
     {
       "title": "tonsky / FiraCode",
@@ -40,9 +30,39 @@
       "description": "Free monospaced font with programming ligatures",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 81895,
+      "stars": 81899,
       "forks": 3189,
-      "added_stars": "44 stars this week"
+      "added_stars": "40 stars this week"
+    },
+    {
+      "title": "logseq / logseq",
+      "url": "https://github.com/logseq/logseq",
+      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 44301,
+      "forks": 2754,
+      "added_stars": "162 stars this week"
+    },
+    {
+      "title": "status-im / status-legacy",
+      "url": "https://github.com/status-im/status-legacy",
+      "description": "a free (libre) open source, mobile OS for Ethereum",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 4019,
+      "forks": 990,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "clj-kondo / clj-kondo",
+      "url": "https://github.com/clj-kondo/clj-kondo",
+      "description": "Static analyzer and linter for Clojure code that sparks joy",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 1847,
+      "forks": 306,
+      "added_stars": "1 star this week"
     },
     {
       "title": "penpot / penpot",
@@ -50,9 +70,9 @@
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 58161,
-      "forks": 3898,
-      "added_stars": "476 stars this week"
+      "stars": 58193,
+      "forks": 3902,
+      "added_stars": "420 stars this week"
     },
     {
       "title": "cognitect-labs / test-runner",
@@ -63,16 +83,6 @@
       "stars": 308,
       "forks": 36,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "clj-kondo / clj-kondo",
-      "url": "https://github.com/clj-kondo/clj-kondo",
-      "description": "Static analyzer and linter for Clojure code that sparks joy",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 1847,
-      "forks": 306,
-      "added_stars": "2 stars this week"
     }
   ]
 }

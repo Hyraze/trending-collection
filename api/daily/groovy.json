@@ -2,27 +2,27 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
-    {
-      "title": "rundeck / rundeck",
-      "url": "https://github.com/rundeck/rundeck",
-      "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 6254,
-      "forks": 984,
-      "added_stars": "3 stars today"
-    },
     {
       "title": "gradle / gradle",
       "url": "https://github.com/gradle/gradle",
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 18758,
-      "forks": 5333,
-      "added_stars": "6 stars today"
+      "stars": 18760,
+      "forks": 5340,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "gravitee-io / issues",
+      "url": "https://github.com/gravitee-io/issues",
+      "description": "Gravitee.io - API Platform - Issues",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 68,
+      "forks": 28,
+      "added_stars": "0 stars today"
     },
     {
       "title": "nextflow-io / nextflow",
@@ -30,19 +30,9 @@
       "description": "A DSL for data-driven computational pipelines",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 3456,
+      "stars": 3458,
       "forks": 799,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "openboxes / openboxes",
-      "url": "https://github.com/openboxes/openboxes",
-      "description": "OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 870,
-      "forks": 494,
-      "added_stars": "0 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "apache / grails-core",
@@ -51,7 +41,17 @@
       "language": "Groovy",
       "languageColor": "#4298b8",
       "stars": 2924,
-      "forks": 972,
+      "forks": 973,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "okta / okta-jwt-verifier-java",
+      "url": "https://github.com/okta/okta-jwt-verifier-java",
+      "description": "okta-jwt-verifier-java",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 96,
+      "forks": 39,
       "added_stars": "0 stars today"
     }
   ]

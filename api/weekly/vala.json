@@ -2,27 +2,27 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
-    {
-      "title": "linuxmint / timeshift",
-      "url": "https://github.com/linuxmint/timeshift",
-      "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
-      "language": "Vala",
-      "languageColor": "#a56de2",
-      "stars": 4215,
-      "forks": 151,
-      "added_stars": "18 stars this week"
-    },
     {
       "title": "kem-a / AppManager",
       "url": "https://github.com/kem-a/AppManager",
       "description": "MacOS style AppImage installer and management application",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1303,
+      "stars": 1333,
       "forks": 27,
-      "added_stars": "62 stars this week"
+      "added_stars": "91 stars this week"
+    },
+    {
+      "title": "linuxmint / timeshift",
+      "url": "https://github.com/linuxmint/timeshift",
+      "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 4218,
+      "forks": 151,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "tkashkin / GameHub",
@@ -33,6 +33,16 @@
       "stars": 2822,
       "forks": 206,
       "added_stars": "7 stars this week"
+    },
+    {
+      "title": "alainm23 / planify",
+      "url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 5517,
+      "forks": 319,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "christianloopp / komorebi",
@@ -52,17 +62,7 @@
       "languageColor": "#a56de2",
       "stars": 2551,
       "forks": 98,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "alainm23 / planify",
-      "url": "https://github.com/alainm23/planify",
-      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
-      "language": "Vala",
-      "languageColor": "#a56de2",
-      "stars": 5517,
-      "forks": 319,
-      "added_stars": "12 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "BuddiesOfBudgie / budgie-desktop",
@@ -80,9 +80,9 @@
       "description": "A modern compatibility tools manager",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1654,
+      "stars": 1655,
       "forks": 50,
-      "added_stars": "13 stars this week"
+      "added_stars": "11 stars this week"
     }
   ]
 }

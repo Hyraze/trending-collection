@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "DataDog / storedog",
@@ -15,32 +15,12 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "pgmq / pgmq",
-      "url": "https://github.com/pgmq/pgmq",
-      "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 5059,
-      "forks": 141,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "pgpartman / pg_partman",
-      "url": "https://github.com/pgpartman/pg_partman",
-      "description": "Partition management extension for PostgreSQL",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 2788,
-      "forks": 317,
-      "added_stars": "10 stars this week"
-    },
-    {
       "title": "postgis / postgis",
       "url": "https://github.com/postgis/postgis",
       "description": "PostGIS spatial database extension to PostgreSQL [mirror]",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 2193,
+      "stars": 2194,
       "forks": 432,
       "added_stars": "7 stars this week"
     },
@@ -50,19 +30,29 @@
       "description": "yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 1509,
+      "stars": 1510,
       "forks": 384,
-      "added_stars": "16 stars this week"
+      "added_stars": "14 stars this week"
     },
     {
-      "title": "Snowflake-Labs / modern-data-engineering-snowflake",
-      "url": "https://github.com/Snowflake-Labs/modern-data-engineering-snowflake",
-      "description": "Companion repository that goes along with Snowflake's \"Introduction to Modern Data Engineering with Snowflake\" course on Coursera",
+      "title": "pgpartman / pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 190,
-      "forks": 262,
-      "added_stars": "3 stars this week"
+      "stars": 2788,
+      "forks": 318,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "pgmq / pgmq",
+      "url": "https://github.com/pgmq/pgmq",
+      "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 5062,
+      "forks": 141,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "openmaptiles / openmaptiles",
@@ -71,7 +61,7 @@
       "language": "PLpgSQL",
       "languageColor": "#336790",
       "stars": 3133,
-      "forks": 672,
+      "forks": 673,
       "added_stars": "7 stars this week"
     },
     {
@@ -80,9 +70,9 @@
       "description": "qData is an open-source data governance and data development platform that integrates ETL, data development, metadata management, data quality, data assets, API services, and AI-powered data Q&A.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 543,
+      "stars": 545,
       "forks": 116,
-      "added_stars": "10 stars this week"
+      "added_stars": "9 stars this week"
     }
   ]
 }

@@ -4,16 +4,31 @@
   <title>GitHub Plpgsql Languages Daily Trending</title>
   <description>Daily Trending of Plpgsql Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <item>
+    <title>guchengwuyue / yshop-drink</title>
+    <link>https://github.com/guchengwuyue/yshop-drink</link>
+    <description>yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统</description>
+  </item>
+  <item>
+    <title>thanglequoc / vietnamese-provinces-database</title>
+    <link>https://github.com/thanglequoc/vietnamese-provinces-database</link>
+    <description>Comprehensive SQL and GIS datasets for Vietnamese administrative units, including provinces, districts, wards, and geospatial boundaries.</description>
+  </item>
   <item>
     <title>pgpartman / pg_partman</title>
     <link>https://github.com/pgpartman/pg_partman</link>
     <description>Partition management extension for PostgreSQL</description>
   </item>
   <item>
-    <title>supabase / splinter</title>
-    <link>https://github.com/supabase/splinter</link>
-    <description>Supabase Postgres Linter: Performance and Security Advisors</description>
+    <title>Snowflake-Labs / modern-data-engineering-snowflake</title>
+    <link>https://github.com/Snowflake-Labs/modern-data-engineering-snowflake</link>
+    <description>Companion repository that goes along with Snowflake&#x27;s &quot;Introduction to Modern Data Engineering with Snowflake&quot; course on Coursera</description>
+  </item>
+  <item>
+    <title>postgis / postgis</title>
+    <link>https://github.com/postgis/postgis</link>
+    <description>PostGIS spatial database extension to PostgreSQL [mirror]</description>
   </item>
 </channel>
 </rss>

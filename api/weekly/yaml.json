@@ -2,37 +2,27 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
-    {
-      "title": "web-platform-dx / web-features",
-      "url": "https://github.com/web-platform-dx/web-features",
-      "description": "Exploring how to present Web platform features adoptability",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 894,
-      "forks": 310,
-      "added_stars": "4 stars this week"
-    },
     {
       "title": "kubeflow / community-distribution",
       "url": "https://github.com/kubeflow/community-distribution",
       "description": "Kubeflow Community Distribution",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 1029,
+      "stars": 1030,
       "forks": 1070,
       "added_stars": "2 stars this week"
     },
     {
-      "title": "GTFOBins / GTFOBins.github.io",
-      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
-      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+      "title": "web-platform-dx / web-features",
+      "url": "https://github.com/web-platform-dx/web-features",
+      "description": "Exploring how to present Web platform features adoptability",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 13522,
-      "forks": 1660,
-      "added_stars": "23 stars this week"
+      "stars": 893,
+      "forks": 310,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "aquaproj / aqua-registry",
@@ -41,8 +31,18 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": 363,
-      "forks": 384,
+      "forks": 383,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "GTFOBins / GTFOBins.github.io",
+      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 13529,
+      "forks": 1660,
+      "added_stars": "30 stars this week"
     },
     {
       "title": "stashapp / CommunityScrapers",
@@ -50,19 +50,9 @@
       "description": "This is a public repository containing scrapers created by the Stash Community.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 828,
-      "forks": 519,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "usnistgov / macos_security",
-      "url": "https://github.com/usnistgov/macos_security",
-      "description": "macOS Security Compliance Project",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 2432,
-      "forks": 300,
-      "added_stars": "8 stars this week"
+      "stars": 829,
+      "forks": 520,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "sublime-security / sublime-rules",
@@ -73,6 +63,16 @@
       "stars": 368,
       "forks": 101,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "usnistgov / macos_security",
+      "url": "https://github.com/usnistgov/macos_security",
+      "description": "macOS Security Compliance Project",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 2434,
+      "forks": 300,
+      "added_stars": "9 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "1jehuang / jcode",
@@ -10,19 +10,9 @@
       "description": "The most RAM efficient harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16112,
-      "forks": 1789,
-      "added_stars": "7,992 stars this month"
-    },
-    {
-      "title": "Zackriya-Solutions / meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 28334,
-      "forks": 2971,
-      "added_stars": "12,154 stars this month"
+      "stars": 16237,
+      "forks": 1825,
+      "added_stars": "8,110 stars this month"
     },
     {
       "title": "openai / codex",
@@ -30,19 +20,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 104251,
-      "forks": 15755,
-      "added_stars": "8,934 stars this month"
-    },
-    {
-      "title": "TencentCloud / CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 10932,
-      "forks": 1009,
-      "added_stars": "3,756 stars this month"
+      "stars": 104485,
+      "forks": 15810,
+      "added_stars": "8,990 stars this month"
     },
     {
       "title": "Pumpkin-MC / Pumpkin",
@@ -50,39 +30,19 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10584,
-      "forks": 715,
-      "added_stars": "2,709 stars this month"
+      "stars": 10596,
+      "forks": 719,
+      "added_stars": "2,714 stars this month"
     },
     {
-      "title": "Automattic / harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "title": "Zackriya-Solutions / meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14209,
-      "forks": 547,
-      "added_stars": "3,253 stars this month"
-    },
-    {
-      "title": "cjpais / Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 28834,
-      "forks": 2529,
-      "added_stars": "3,064 stars this month"
-    },
-    {
-      "title": "raine / workmux",
-      "url": "https://github.com/raine/workmux",
-      "description": "git worktrees + tmux windows for zero-friction parallel dev",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2069,
-      "forks": 288,
-      "added_stars": "435 stars this month"
+      "stars": 28402,
+      "forks": 2992,
+      "added_stars": "9,965 stars this month"
     },
     {
       "title": "t8y2 / dbx",
@@ -90,9 +50,29 @@
       "description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13409,
-      "forks": 1363,
-      "added_stars": "4,799 stars this month"
+      "stars": 13554,
+      "forks": 1384,
+      "added_stars": "4,763 stars this month"
+    },
+    {
+      "title": "cjpais / Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 28916,
+      "forks": 2539,
+      "added_stars": "3,095 stars this month"
+    },
+    {
+      "title": "raine / workmux",
+      "url": "https://github.com/raine/workmux",
+      "description": "git worktrees + tmux windows for zero-friction parallel dev",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2078,
+      "forks": 293,
+      "added_stars": "440 stars this month"
     },
     {
       "title": "dani-garcia / vaultwarden",
@@ -100,69 +80,19 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 65008,
-      "forks": 3090,
-      "added_stars": "1,816 stars this month"
+      "stars": 65058,
+      "forks": 3096,
+      "added_stars": "1,826 stars this month"
     },
     {
-      "title": "wealthfolio / wealthfolio",
-      "url": "https://github.com/wealthfolio/wealthfolio",
-      "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
+      "title": "TencentCloud / CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8507,
-      "forks": 619,
-      "added_stars": "768 stars this month"
-    },
-    {
-      "title": "apache / datafusion",
-      "url": "https://github.com/apache/datafusion",
-      "description": "Apache DataFusion SQL Query Engine",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 9091,
-      "forks": 2282,
-      "added_stars": "163 stars this month"
-    },
-    {
-      "title": "max-sixty / worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6309,
-      "forks": 230,
-      "added_stars": "596 stars this month"
-    },
-    {
-      "title": "DioxusLabs / dioxus",
-      "url": "https://github.com/DioxusLabs/dioxus",
-      "description": "Fullstack app framework for web, desktop, and mobile.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 38507,
-      "forks": 1827,
-      "added_stars": "1,957 stars this month"
-    },
-    {
-      "title": "rustdesk / rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 119711,
-      "forks": 18296,
-      "added_stars": "2,344 stars this month"
-    },
-    {
-      "title": "andrewrabert / jellium-desktop",
-      "url": "https://github.com/andrewrabert/jellium-desktop",
-      "description": "An unofficial desktop client for Jellyfin",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1741,
-      "forks": 129,
-      "added_stars": "720 stars this month"
+      "stars": 10958,
+      "forks": 1012,
+      "added_stars": "3,490 stars this month"
     },
     {
       "title": "tokio-rs / tokio",
@@ -170,29 +100,29 @@
       "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32835,
-      "forks": 3182,
-      "added_stars": "432 stars this month"
+      "stars": 32852,
+      "forks": 3187,
+      "added_stars": "440 stars this month"
     },
     {
-      "title": "rust-lang / rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 115292,
-      "forks": 15374,
-      "added_stars": "1,717 stars this month"
+      "stars": 119791,
+      "forks": 18316,
+      "added_stars": "2,362 stars this month"
     },
     {
-      "title": "tonhowtf / omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "title": "DioxusLabs / dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8414,
-      "forks": 719,
-      "added_stars": "2,242 stars this month"
+      "stars": 38527,
+      "forks": 1829,
+      "added_stars": "1,967 stars this month"
     },
     {
       "title": "rustfs / rustfs",
@@ -200,9 +130,69 @@
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30686,
-      "forks": 1360,
-      "added_stars": "1,297 stars this month"
+      "stars": 30715,
+      "forks": 1362,
+      "added_stars": "1,288 stars this month"
+    },
+    {
+      "title": "rivet-dev / agentos",
+      "url": "https://github.com/rivet-dev/agentos",
+      "description": "Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4320,
+      "forks": 218,
+      "added_stars": "776 stars this month"
+    },
+    {
+      "title": "andrewrabert / jellium-desktop",
+      "url": "https://github.com/andrewrabert/jellium-desktop",
+      "description": "An unofficial desktop client for Jellyfin",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1745,
+      "forks": 129,
+      "added_stars": "720 stars this month"
+    },
+    {
+      "title": "rust-lang / rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 115316,
+      "forks": 15389,
+      "added_stars": "1,659 stars this month"
+    },
+    {
+      "title": "tonhowtf / omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8447,
+      "forks": 721,
+      "added_stars": "2,184 stars this month"
+    },
+    {
+      "title": "biomejs / biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 25520,
+      "forks": 1176,
+      "added_stars": "495 stars this month"
+    },
+    {
+      "title": "junhoyeo / tokscale",
+      "url": "https://github.com/junhoyeo/tokscale",
+      "description": "🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4827,
+      "forks": 402,
+      "added_stars": "774 stars this month"
     },
     {
       "title": "screenpipe / screenpipe",
@@ -210,9 +200,9 @@
       "description": "YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20765,
-      "forks": 2067,
-      "added_stars": "1,165 stars this month"
+      "stars": 20791,
+      "forks": 2074,
+      "added_stars": "1,169 stars this month"
     },
     {
       "title": "denoland / deno",
@@ -220,9 +210,19 @@
       "description": "A modern runtime for JavaScript and TypeScript.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 108164,
-      "forks": 6307,
-      "added_stars": "1,251 stars this month"
+      "stars": 108180,
+      "forks": 6317,
+      "added_stars": "1,175 stars this month"
+    },
+    {
+      "title": "astral-sh / uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 88453,
+      "forks": 3449,
+      "added_stars": "1,503 stars this month"
     }
   ]
 }

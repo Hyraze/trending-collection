@@ -2,127 +2,97 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
-    {
-      "title": "pterodactyl / panel",
-      "url": "https://github.com/pterodactyl/panel",
-      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 9106,
-      "forks": 2632,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "laravel / framework",
-      "url": "https://github.com/laravel/framework",
-      "description": "Laravel is a web application framework with expressive, elegant syntax.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 34850,
-      "forks": 11938,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "symfony / symfony",
-      "url": "https://github.com/symfony/symfony",
-      "description": "The Symfony PHP framework",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 31116,
-      "forks": 9860,
-      "added_stars": "5 stars today"
-    },
     {
       "title": "easychen / opc-methodology",
       "url": "https://github.com/easychen/opc-methodology",
       "description": "《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 16578,
-      "forks": 1898,
-      "added_stars": "161 stars today"
+      "stars": 16584,
+      "forks": 1900,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "SuiteCRM / SuiteCRM",
-      "url": "https://github.com/SuiteCRM/SuiteCRM",
-      "description": "SuiteCRM - Open source CRM for the world",
+      "title": "coollabsio / coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 5631,
-      "forks": 2391,
-      "added_stars": "6 stars today"
+      "stars": 60188,
+      "forks": 5223,
+      "added_stars": "37 stars today"
     },
     {
-      "title": "cedar2025 / Xboard",
-      "url": "https://github.com/cedar2025/Xboard",
-      "description": "High-performance panel based on V2board secondary development supporting new protocols and new features",
+      "title": "elementor / elementor",
+      "url": "https://github.com/elementor/elementor",
+      "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 4615,
-      "forks": 1302,
+      "stars": 7033,
+      "forks": 1557,
       "added_stars": "4 stars today"
     },
     {
-      "title": "Automattic / woocommerce-payments",
-      "url": "https://github.com/Automattic/woocommerce-payments",
-      "description": "Securely accept major credit and debit cards, and allow customers to pay you directly without leaving your WooCommerce store. View and manage transactions from one convenient place - your WordPress dashboard.",
+      "title": "laravel / boost",
+      "url": "https://github.com/laravel/boost",
+      "description": "Laravel-focused MCP server for augmenting your AI powered local development experience.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 191,
-      "forks": 83,
-      "added_stars": "0 stars today"
+      "stars": 3558,
+      "forks": 358,
+      "added_stars": "1 star today"
     },
     {
-      "title": "marcpope / borgbackupserver",
-      "url": "https://github.com/marcpope/borgbackupserver",
-      "description": "A GUI Manager for Multiple Borg Endpoints. Manage backup schedules, restores and much more.",
+      "title": "lizhipay / acg-faka",
+      "url": "https://github.com/lizhipay/acg-faka",
+      "description": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 279,
-      "forks": 23,
-      "added_stars": "7 stars today"
+      "stars": 5419,
+      "forks": 1065,
+      "added_stars": "19 stars today"
     },
     {
-      "title": "nextcloud / server",
-      "url": "https://github.com/nextcloud/server",
-      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "title": "openemr / openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 36342,
-      "forks": 5098,
-      "added_stars": "13 stars today"
+      "stars": 5354,
+      "forks": 3001,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "wallabag / wallabag",
-      "url": "https://github.com/wallabag/wallabag",
-      "description": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
+      "title": "PrestaShop / PrestaShop",
+      "url": "https://github.com/PrestaShop/PrestaShop",
+      "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 12878,
-      "forks": 884,
+      "stars": 9184,
+      "forks": 5046,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "librenms / librenms",
+      "url": "https://github.com/librenms/librenms",
+      "description": "Community-based GPL-licensed network monitoring system",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 4821,
+      "forks": 2751,
       "added_stars": "3 stars today"
     },
     {
-      "title": "laravel / ai",
-      "url": "https://github.com/laravel/ai",
-      "description": "The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.",
+      "title": "WordPress / mcp-adapter",
+      "url": "https://github.com/WordPress/mcp-adapter",
+      "description": "An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 1080,
-      "forks": 308,
+      "stars": 1541,
+      "forks": 174,
       "added_stars": "4 stars today"
-    },
-    {
-      "title": "opnsense / core",
-      "url": "https://github.com/opnsense/core",
-      "description": "OPNsense GUI, API and systems backend",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 4566,
-      "forks": 978,
-      "added_stars": "3 stars today"
     },
     {
       "title": "opensourcepos / opensourcepos",
@@ -130,9 +100,89 @@
       "description": "Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 4332,
-      "forks": 2591,
+      "stars": 4335,
+      "forks": 2593,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "larastan / larastan",
+      "url": "https://github.com/larastan/larastan",
+      "description": "⚗️ Adds code analysis to Laravel improving developer productivity and code quality.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 6480,
+      "forks": 501,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "invoiceninja / invoiceninja",
+      "url": "https://github.com/invoiceninja/invoiceninja",
+      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 9977,
+      "forks": 2682,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "pmmp / PocketMine-MP",
+      "url": "https://github.com/pmmp/PocketMine-MP",
+      "description": "Custom server software for Minecraft: Bedrock, built from scratch in PHP, C and C++",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 3570,
+      "forks": 1678,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "laravel / ai",
+      "url": "https://github.com/laravel/ai",
+      "description": "The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 1082,
+      "forks": 310,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "PHPMailer / PHPMailer",
+      "url": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 22276,
+      "forks": 9815,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "espocrm / espocrm",
+      "url": "https://github.com/espocrm/espocrm",
+      "description": "EspoCRM – Open Source CRM Application",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 3198,
+      "forks": 918,
       "added_stars": "4 stars today"
+    },
+    {
+      "title": "DenverCoder1 / github-readme-streak-stats",
+      "url": "https://github.com/DenverCoder1/github-readme-streak-stats",
+      "description": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 7051,
+      "forks": 1619,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "kimai / kimai",
+      "url": "https://github.com/kimai/kimai",
+      "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 4869,
+      "forks": 818,
+      "added_stars": "1 star today"
     },
     {
       "title": "drush-ops / drush",
@@ -145,74 +195,44 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "magento / magento2",
-      "url": "https://github.com/magento/magento2",
-      "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 12160,
-      "forks": 9356,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "wp-cli / wp-cli",
-      "url": "https://github.com/wp-cli/wp-cli",
-      "description": "⚙️ WP-CLI framework",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 5131,
-      "forks": 1020,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "phpstan / phpstan",
-      "url": "https://github.com/phpstan/phpstan",
-      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 14060,
-      "forks": 958,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "librenms / librenms",
-      "url": "https://github.com/librenms/librenms",
-      "description": "Community-based GPL-licensed network monitoring system",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 4820,
-      "forks": 2748,
-      "added_stars": "2 stars today"
-    },
-    {
       "title": "monicahq / monica",
       "url": "https://github.com/monicahq/monica",
       "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 24969,
-      "forks": 2563,
-      "added_stars": "10 stars today"
+      "stars": 24978,
+      "forks": 2572,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "centreon / centreon",
-      "url": "https://github.com/centreon/centreon",
-      "description": "Centreon is a network, system and application monitoring tool. Centreon is the only AIOps Platform Providing Holistic Visibility to Complex IT Workflows from Cloud to Edge.",
+      "title": "magento / magento2",
+      "url": "https://github.com/magento/magento2",
+      "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 162,
-      "forks": 59,
-      "added_stars": "1 star today"
+      "stars": 12164,
+      "forks": 9355,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "kimai / kimai",
-      "url": "https://github.com/kimai/kimai",
-      "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
+      "title": "woocommerce / woocommerce",
+      "url": "https://github.com/woocommerce/woocommerce",
+      "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 4868,
-      "forks": 818,
-      "added_stars": "6 stars today"
+      "stars": 10449,
+      "forks": 10679,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "danielmiessler / SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 72646,
+      "forks": 25072,
+      "added_stars": "17 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "gpuweb / gpuweb",
@@ -12,7 +12,7 @@
       "languageColor": "#5562ac",
       "stars": 5447,
       "forks": 375,
-      "added_stars": "30 stars this month"
+      "added_stars": "27 stars this month"
     },
     {
       "title": "webmachinelearning / webmcp",
@@ -20,9 +20,9 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 2944,
+      "stars": 2950,
       "forks": 189,
-      "added_stars": "208 stars this month"
+      "added_stars": "212 stars this month"
     },
     {
       "title": "WICG / first-party-sets",
@@ -31,8 +31,18 @@
       "language": "Bikeshed",
       "languageColor": "#5562ac",
       "stars": 398,
-      "forks": 166,
+      "forks": 167,
       "added_stars": "5 stars this month"
+    },
+    {
+      "title": "w3c / csswg-drafts",
+      "url": "https://github.com/w3c/csswg-drafts",
+      "description": "CSS Working Group Editor Drafts",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 4855,
+      "forks": 803,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "patcg-individual-drafts / topics",
@@ -42,37 +52,17 @@
       "languageColor": "#5562ac",
       "stars": 873,
       "forks": 888,
-      "added_stars": "13 stars this month"
+      "added_stars": "9 stars this month"
     },
     {
-      "title": "w3c / csswg-drafts",
-      "url": "https://github.com/w3c/csswg-drafts",
-      "description": "CSS Working Group Editor Drafts",
+      "title": "w3c / ServiceWorker",
+      "url": "https://github.com/w3c/ServiceWorker",
+      "description": "Service Workers",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4854,
-      "forks": 803,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "w3c / webappsec-permissions-policy",
-      "url": "https://github.com/w3c/webappsec-permissions-policy",
-      "description": "A mechanism to selectively enable and disable browser features and APIs",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 429,
-      "forks": 180,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "immersive-web / webxr",
-      "url": "https://github.com/immersive-web/webxr",
-      "description": "Repository for the WebXR Device API Specification.",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 3147,
-      "forks": 423,
-      "added_stars": "6 stars this month"
+      "stars": 3632,
+      "forks": 323,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "w3c / webextensions",
@@ -85,14 +75,34 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "patcg-individual-drafts / private-aggregation-api",
-      "url": "https://github.com/patcg-individual-drafts/private-aggregation-api",
-      "description": "Explainer for proposed web platform API",
+      "title": "w3c / webappsec-permissions-policy",
+      "url": "https://github.com/w3c/webappsec-permissions-policy",
+      "description": "A mechanism to selectively enable and disable browser features and APIs",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 62,
-      "forks": 36,
-      "added_stars": "1 star this month"
+      "stars": 429,
+      "forks": 180,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "immersive-web / webxr",
+      "url": "https://github.com/immersive-web/webxr",
+      "description": "Repository for the WebXR Device API Specification.",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 3147,
+      "forks": 423,
+      "added_stars": "5 stars this month"
+    },
+    {
+      "title": "WICG / declarative-partial-updates",
+      "url": "https://github.com/WICG/declarative-partial-updates",
+      "description": "",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 120,
+      "forks": 11,
+      "added_stars": "12 stars this month"
     }
   ]
 }

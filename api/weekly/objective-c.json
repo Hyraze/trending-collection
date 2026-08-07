@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "maderix / ANE",
@@ -10,19 +10,29 @@
       "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 7232,
-      "forks": 962,
-      "added_stars": "98 stars this week"
+      "stars": 7233,
+      "forks": 961,
+      "added_stars": "15 stars this week"
     },
     {
-      "title": "git-up / GitUp",
-      "url": "https://github.com/git-up/GitUp",
-      "description": "The Git interface you've been missing all your life has finally arrived.",
+      "title": "opa334 / TrollStore",
+      "url": "https://github.com/opa334/TrollStore",
+      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 12085,
-      "forks": 1482,
-      "added_stars": "9 stars this week"
+      "stars": 21893,
+      "forks": 1627,
+      "added_stars": "57 stars this week"
+    },
+    {
+      "title": "gnachman / iTerm2",
+      "url": "https://github.com/gnachman/iTerm2",
+      "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 17911,
+      "forks": 1452,
+      "added_stars": "29 stars this week"
     },
     {
       "title": "realm / realm-swift",
@@ -32,27 +42,7 @@
       "languageColor": "#438eff",
       "stars": 16614,
       "forks": 2237,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "opa334 / TrollStore",
-      "url": "https://github.com/opa334/TrollStore",
-      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 21886,
-      "forks": 1627,
-      "added_stars": "60 stars this week"
-    },
-    {
-      "title": "gnachman / iTerm2",
-      "url": "https://github.com/gnachman/iTerm2",
-      "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 17905,
-      "forks": 1449,
-      "added_stars": "27 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "geode-sdk / ios-launcher",
@@ -60,19 +50,19 @@
       "description": "Manages installing and launching Geometry Dash for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 663,
+      "stars": 664,
       "forks": 241,
       "added_stars": "12 stars this week"
     },
     {
-      "title": "dcloudio / uni-app",
-      "url": "https://github.com/dcloudio/uni-app",
-      "description": "A cross-platform framework using Vue.js",
+      "title": "git-up / GitUp",
+      "url": "https://github.com/git-up/GitUp",
+      "description": "The Git interface you've been missing all your life has finally arrived.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 41593,
-      "forks": 3709,
-      "added_stars": "17 stars this week"
+      "stars": 12088,
+      "forks": 1484,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "AFNetworking / AFNetworking",
@@ -90,9 +80,9 @@
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 15851,
+      "stars": 15869,
       "forks": 707,
-      "added_stars": "40 stars this week"
+      "added_stars": "39 stars this week"
     },
     {
       "title": "google / GoogleDataTransport",
@@ -121,8 +111,28 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 291,
-      "forks": 197,
+      "forks": 196,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "amplitude / Amplitude-iOS",
+      "url": "https://github.com/amplitude/Amplitude-iOS",
+      "description": "Native iOS/tvOS/macOS SDK",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 327,
+      "forks": 195,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "datatheorem / TrustKit",
+      "url": "https://github.com/datatheorem/TrustKit",
+      "description": "Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 2138,
+      "forks": 381,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "onfido / onfido-ios-sdk",
@@ -135,14 +145,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "noah-nuebling / mac-mouse-fix",
-      "url": "https://github.com/noah-nuebling/mac-mouse-fix",
-      "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
+      "title": "uber / ios-snapshot-test-case",
+      "url": "https://github.com/uber/ios-snapshot-test-case",
+      "description": "Snapshot view unit tests for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 10633,
-      "forks": 384,
-      "added_stars": "43 stars this week"
+      "stars": 1858,
+      "forks": 229,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "PojavLauncherTeam / PojavLauncher_iOS",
+      "url": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS",
+      "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 3203,
+      "forks": 1315,
+      "added_stars": "10 stars this week"
     }
   ]
 }

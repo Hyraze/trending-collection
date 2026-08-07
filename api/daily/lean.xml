@@ -4,46 +4,51 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
-  <item>
-    <title>leanprover-community / mathlib4</title>
-    <link>https://github.com/leanprover-community/mathlib4</link>
-    <description>The math library of Lean 4</description>
-  </item>
+  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
   <item>
     <title>harbor-framework / terminal-bench-science</title>
     <link>https://github.com/harbor-framework/terminal-bench-science</link>
     <description>Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal</description>
   </item>
   <item>
-    <title>leanprover-community / mathlib3</title>
-    <link>https://github.com/leanprover-community/mathlib3</link>
-    <description>Lean 3&#x27;s obsolete mathematical components library: please use mathlib4</description>
+    <title>leanprover / comparator</title>
+    <link>https://github.com/leanprover/comparator</link>
+    <description></description>
   </item>
   <item>
-    <title>digama0 / lean4lean</title>
-    <link>https://github.com/digama0/lean4lean</link>
-    <description>Lean 4 kernel / &#x27;external checker&#x27; written in Lean 4</description>
+    <title>leanprover / verso</title>
+    <link>https://github.com/leanprover/verso</link>
+    <description>Lean documentation authoring tool</description>
   </item>
   <item>
-    <title>teorth / analysis</title>
-    <link>https://github.com/teorth/analysis</link>
-    <description>A Lean companion to Analysis I</description>
+    <title>argumentcomputer / ix</title>
+    <link>https://github.com/argumentcomputer/ix</link>
+    <description>a zero-knowledge proof-carrying code platform for Lean 4</description>
   </item>
   <item>
-    <title>leanprover-community / physlib</title>
-    <link>https://github.com/leanprover-community/physlib</link>
-    <description>A project to digitalise results from physics into Lean.</description>
-  </item>
-  <item>
-    <title>opencompl / veir</title>
-    <link>https://github.com/opencompl/veir</link>
-    <description>Verified Intermediate Representation</description>
+    <title>google-deepmind / formal-conjectures</title>
+    <link>https://github.com/google-deepmind/formal-conjectures</link>
+    <description>A collection of formalized statements of conjectures in Lean.</description>
   </item>
   <item>
     <title>leanprover / lean4</title>
     <link>https://github.com/leanprover/lean4</link>
     <description>Lean 4 programming language and theorem prover</description>
+  </item>
+  <item>
+    <title>emberian / dregg</title>
+    <link>https://github.com/emberian/dregg</link>
+    <description>Distributed object-capability authorization with ZK proofs</description>
+  </item>
+  <item>
+    <title>leanprover / lean-eval</title>
+    <link>https://github.com/leanprover/lean-eval</link>
+    <description>Comparator-based Lean formal mathematics eval</description>
+  </item>
+  <item>
+    <title>leanprover-community / mathlib4</title>
+    <link>https://github.com/leanprover-community/mathlib4</link>
+    <description>The math library of Lean 4</description>
   </item>
 </channel>
 </rss>

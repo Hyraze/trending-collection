@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "chrislgarry / Apollo-11",
@@ -10,9 +10,9 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 71875,
-      "forks": 7960,
-      "added_stars": "3,739 stars this month"
+      "stars": 71901,
+      "forks": 7962,
+      "added_stars": "3,764 stars this month"
     },
     {
       "title": "pret / pokered",
@@ -20,9 +20,9 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4858,
+      "stars": 4863,
       "forks": 1279,
-      "added_stars": "75 stars this month"
+      "added_stars": "78 stars this month"
     },
     {
       "title": "ROCm / rocm-libraries",
@@ -31,7 +31,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 398,
-      "forks": 362,
+      "forks": 364,
       "added_stars": "25 stars this month"
     },
     {
@@ -41,8 +41,18 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 3059,
-      "forks": 995,
-      "added_stars": "63 stars this month"
+      "forks": 994,
+      "added_stars": "64 stars this month"
+    },
+    {
+      "title": "riscv / riscv-arch-test",
+      "url": "https://github.com/riscv/riscv-arch-test",
+      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 765,
+      "forks": 346,
+      "added_stars": "29 stars this month"
     },
     {
       "title": "Rangi42 / polishedcrystal",
@@ -50,19 +60,9 @@
       "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1598,
+      "stars": 1599,
       "forks": 328,
-      "added_stars": "42 stars this month"
-    },
-    {
-      "title": "apple / swift-crypto",
-      "url": "https://github.com/apple/swift-crypto",
-      "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1709,
-      "forks": 215,
-      "added_stars": "11 stars this month"
+      "added_stars": "41 stars this month"
     },
     {
       "title": "JSsixtyfour / smashremix",
@@ -75,24 +75,24 @@
       "added_stars": "11 stars this month"
     },
     {
+      "title": "apple / swift-crypto",
+      "url": "https://github.com/apple/swift-crypto",
+      "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1709,
+      "forks": 215,
+      "added_stars": "10 stars this month"
+    },
+    {
       "title": "apple / swift-nio-ssl",
       "url": "https://github.com/apple/swift-nio-ssl",
       "description": "TLS Support for SwiftNIO, based on BoringSSL.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 432,
+      "stars": 433,
       "forks": 169,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "vxunderground / MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 18609,
-      "forks": 2086,
-      "added_stars": "129 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
       "title": "aws / aws-lc",
@@ -100,9 +100,19 @@
       "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 814,
+      "stars": 815,
       "forks": 198,
-      "added_stars": "23 stars this month"
+      "added_stars": "24 stars this month"
+    },
+    {
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 18613,
+      "forks": 2087,
+      "added_stars": "129 stars this month"
     },
     {
       "title": "pret / pokecrystal",
@@ -115,14 +125,14 @@
       "added_stars": "25 stars this month"
     },
     {
-      "title": "riscv / riscv-arch-test",
-      "url": "https://github.com/riscv/riscv-arch-test",
-      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
+      "title": "espressif / esp-dl",
+      "url": "https://github.com/espressif/esp-dl",
+      "description": "Espressif deep-learning library for AIoT applications",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 763,
-      "forks": 346,
-      "added_stars": "28 stars this month"
+      "stars": 1102,
+      "forks": 218,
+      "added_stars": "34 stars this month"
     },
     {
       "title": "hasherezade / malware_training_vol1",
@@ -135,16 +145,6 @@
       "added_stars": "11 stars this month"
     },
     {
-      "title": "espressif / esp-dl",
-      "url": "https://github.com/espressif/esp-dl",
-      "description": "Espressif deep-learning library for AIoT applications",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1098,
-      "forks": 218,
-      "added_stars": "30 stars this month"
-    },
-    {
       "title": "SheerSt / pokewilds",
       "url": "https://github.com/SheerSt/pokewilds",
       "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
@@ -152,7 +152,7 @@
       "languageColor": "#6E4C13",
       "stars": 2873,
       "forks": 215,
-      "added_stars": "18 stars this month"
+      "added_stars": "16 stars this month"
     },
     {
       "title": "cRz-Shadows / Pokemon_Yellow_Legacy",
@@ -165,24 +165,24 @@
       "added_stars": "11 stars this month"
     },
     {
-      "title": "leachim6 / hello-world",
-      "url": "https://github.com/leachim6/hello-world",
-      "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
+      "title": "bitdump / BLHeli",
+      "url": "https://github.com/bitdump/BLHeli",
+      "description": "BLHeli for brushless ESC firmware",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 11910,
-      "forks": 2109,
-      "added_stars": "38 stars this month"
+      "stars": 2224,
+      "forks": 1145,
+      "added_stars": "10 stars this month"
     },
     {
-      "title": "ebitengine / purego",
-      "url": "https://github.com/ebitengine/purego",
-      "description": "A library for calling C functions from Go without Cgo",
+      "title": "cemu-project / cemu_graphic_packs",
+      "url": "https://github.com/cemu-project/cemu_graphic_packs",
+      "description": "Community Graphic Packs for Cemu",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3764,
-      "forks": 119,
-      "added_stars": "71 stars this month"
+      "stars": 1466,
+      "forks": 598,
+      "added_stars": "13 stars this month"
     }
   ]
 }

@@ -4,7 +4,7 @@
   <title>GitHub Zig Languages Daily Trending</title>
   <description>Daily Trending of Zig Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
   <item>
     <title>lightpanda-io / browser</title>
     <link>https://github.com/lightpanda-io/browser</link>
@@ -21,39 +21,14 @@
     <description>Pacman alternative for ArchLinux, designed with you in mind.</description>
   </item>
   <item>
-    <title>ghostty-org / ghostty</title>
-    <link>https://github.com/ghostty-org/ghostty</link>
-    <description>👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</description>
-  </item>
-  <item>
     <title>ddalcu / mlx-serve</title>
     <link>https://github.com/ddalcu/mlx-serve</link>
     <description>Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.</description>
   </item>
   <item>
-    <title>neurosnap / zmx</title>
-    <link>https://github.com/neurosnap/zmx</link>
-    <description>Session attach/detach for the terminal</description>
-  </item>
-  <item>
-    <title>roc-lang / roc</title>
-    <link>https://github.com/roc-lang/roc</link>
-    <description>A fast, friendly, functional language.</description>
-  </item>
-  <item>
-    <title>Loongphy / codex-auth</title>
-    <link>https://github.com/Loongphy/codex-auth</link>
-    <description>A CLI tool to switch and manage Codex accounts</description>
-  </item>
-  <item>
-    <title>david-vanderson / dvui</title>
-    <link>https://github.com/david-vanderson/dvui</link>
-    <description>Immediate Zig GUI for Apps and Games</description>
-  </item>
-  <item>
-    <title>dmtrKovalenko / odiff</title>
-    <link>https://github.com/dmtrKovalenko/odiff</link>
-    <description>A very fast SIMD-first image comparison library (with nodejs API)</description>
+    <title>ghostty-org / ghostty</title>
+    <link>https://github.com/ghostty-org/ghostty</link>
+    <description>👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</description>
   </item>
   <item>
     <title>jstrieb / github-stats</title>
@@ -61,19 +36,44 @@
     <description>Better GitHub statistics images for your profile, with stats from private repos too</description>
   </item>
   <item>
+    <title>Loongphy / codex-auth</title>
+    <link>https://github.com/Loongphy/codex-auth</link>
+    <description>A CLI tool to switch and manage Codex accounts</description>
+  </item>
+  <item>
+    <title>roc-lang / roc</title>
+    <link>https://github.com/roc-lang/roc</link>
+    <description>A fast, friendly, functional language.</description>
+  </item>
+  <item>
+    <title>dmtrKovalenko / odiff</title>
+    <link>https://github.com/dmtrKovalenko/odiff</link>
+    <description>A very fast SIMD-first image comparison library (with nodejs API)</description>
+  </item>
+  <item>
     <title>rockorager / libvaxis</title>
     <link>https://github.com/rockorager/libvaxis</link>
     <description>a modern tui library written in zig</description>
   </item>
   <item>
-    <title>nullclaw / nullhub</title>
-    <link>https://github.com/nullclaw/nullhub</link>
-    <description>Management console for the Null ecosystem — install, configure, and monitor AI agents, orchestration workflows, task pipelines, and system health</description>
+    <title>neurosnap / zmx</title>
+    <link>https://github.com/neurosnap/zmx</link>
+    <description>Session attach/detach for the terminal</description>
   </item>
   <item>
-    <title>kristoff-it / zine</title>
-    <link>https://github.com/kristoff-it/zine</link>
-    <description>Fast, Scalable, Flexible Static Site Generator (SSG)</description>
+    <title>PixelGuys / Cubyz</title>
+    <link>https://github.com/PixelGuys/Cubyz</link>
+    <description>Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.</description>
+  </item>
+  <item>
+    <title>neurocyte / flow</title>
+    <link>https://github.com/neurocyte/flow</link>
+    <description>Flow Control: a programmer&#x27;s text editor</description>
+  </item>
+  <item>
+    <title>david-vanderson / dvui</title>
+    <link>https://github.com/david-vanderson/dvui</link>
+    <description>Immediate Zig GUI for Apps and Games</description>
   </item>
   <item>
     <title>nullclaw / nullclaw</title>
@@ -81,9 +81,9 @@
     <description>Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig</description>
   </item>
   <item>
-    <title>riverwm / river</title>
-    <link>https://github.com/riverwm/river</link>
-    <description>[mirror] A non-monolithic Wayland compositor</description>
+    <title>nullclaw / nullhub</title>
+    <link>https://github.com/nullclaw/nullhub</link>
+    <description>Management console for the Null ecosystem — install, configure, and monitor AI agents, orchestration workflows, task pipelines, and system health</description>
   </item>
   <item>
     <title>tigerbeetle / tigerbeetle</title>

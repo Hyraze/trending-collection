@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "tabler / tabler",
@@ -10,9 +10,9 @@
       "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 41423,
-      "forks": 4398,
-      "added_stars": "198 stars this month"
+      "stars": 41425,
+      "forks": 4400,
+      "added_stars": "199 stars this month"
     },
     {
       "title": "satnaing / astro-paper",
@@ -20,9 +20,9 @@
       "description": "A minimal, accessible and SEO-friendly Astro blog theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 4927,
-      "forks": 1051,
-      "added_stars": "147 stars this month"
+      "stars": 4929,
+      "forks": 1053,
+      "added_stars": "146 stars this month"
     },
     {
       "title": "CuteLeaf / Firefly",
@@ -30,29 +30,9 @@
       "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 1821,
-      "forks": 1398,
-      "added_stars": "317 stars this month"
-    },
-    {
-      "title": "RyanFitzgerald / devportfolio",
-      "url": "https://github.com/RyanFitzgerald/devportfolio",
-      "description": "A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 4949,
-      "forks": 4168,
-      "added_stars": "29 stars this month"
-    },
-    {
-      "title": "jcalado / voxdmr-site",
-      "url": "https://github.com/jcalado/voxdmr-site",
-      "description": "voxDMR: Apps for DMR talkgroups.",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 35,
-      "forks": 7,
-      "added_stars": "12 stars this month"
+      "stars": 1825,
+      "forks": 1406,
+      "added_stars": "312 stars this month"
     },
     {
       "title": "ImranR98 / apps.obtainium.imranr.dev",
@@ -65,14 +45,14 @@
       "added_stars": "27 stars this month"
     },
     {
-      "title": "saicaca / fuwari",
-      "url": "https://github.com/saicaca/fuwari",
-      "description": "✨A static blog template built with Astro.",
+      "title": "jcalado / voxdmr-site",
+      "url": "https://github.com/jcalado/voxdmr-site",
+      "description": "voxDMR: Apps for DMR talkgroups.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 4872,
-      "forks": 1238,
-      "added_stars": "134 stars this month"
+      "stars": 35,
+      "forks": 7,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "samber / awesome-prometheus-alerts",
@@ -81,8 +61,28 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": 8130,
-      "forks": 1163,
-      "added_stars": "72 stars this month"
+      "forks": 1164,
+      "added_stars": "70 stars this month"
+    },
+    {
+      "title": "saicaca / fuwari",
+      "url": "https://github.com/saicaca/fuwari",
+      "description": "✨A static blog template built with Astro.",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 4878,
+      "forks": 1240,
+      "added_stars": "135 stars this month"
+    },
+    {
+      "title": "RyanFitzgerald / devportfolio",
+      "url": "https://github.com/RyanFitzgerald/devportfolio",
+      "description": "A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 4949,
+      "forks": 4168,
+      "added_stars": "28 stars this month"
     },
     {
       "title": "arthelokyo / astrowind",
@@ -90,9 +90,19 @@
       "description": "⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 5859,
-      "forks": 1653,
-      "added_stars": "84 stars this month"
+      "stars": 5862,
+      "forks": 1654,
+      "added_stars": "81 stars this month"
+    },
+    {
+      "title": "spicetify / docs",
+      "url": "https://github.com/spicetify/docs",
+      "description": "Documentation website for spicetify",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 192,
+      "forks": 603,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "hilmanski / freeStuffDev",
@@ -100,8 +110,8 @@
       "description": "Complete list of free stuff for developer",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 1947,
-      "forks": 1125,
+      "stars": 1948,
+      "forks": 1126,
       "added_stars": "25 stars this month"
     }
   ]

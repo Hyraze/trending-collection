@@ -4,7 +4,7 @@
   <title>GitHub Mustache Languages Daily Trending</title>
   <description>Daily Trending of Mustache Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>prometheus-community / helm-charts</title>
     <link>https://github.com/prometheus-community/helm-charts</link>
@@ -31,14 +31,14 @@
     <description>ArgoProj Helm Charts</description>
   </item>
   <item>
-    <title>goharbor / harbor-helm</title>
-    <link>https://github.com/goharbor/harbor-helm</link>
-    <description>The helm chart to deploy Harbor</description>
-  </item>
-  <item>
     <title>aws / eks-charts</title>
     <link>https://github.com/aws/eks-charts</link>
     <description>Amazon EKS Helm chart repository</description>
+  </item>
+  <item>
+    <title>goharbor / harbor-helm</title>
+    <link>https://github.com/goharbor/harbor-helm</link>
+    <description>The helm chart to deploy Harbor</description>
   </item>
   <item>
     <title>temporalio / helm-charts</title>
@@ -49,11 +49,6 @@
     <title>goauthentik / helm</title>
     <link>https://github.com/goauthentik/helm</link>
     <description>Helm chart for authentik</description>
-  </item>
-  <item>
-    <title>netbox-community / netbox-chart</title>
-    <link>https://github.com/netbox-community/netbox-chart</link>
-    <description>A Helm chart for NetBox</description>
   </item>
 </channel>
 </rss>

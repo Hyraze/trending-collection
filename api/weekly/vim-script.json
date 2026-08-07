@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "neovim / neovim",
@@ -10,9 +10,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 101636,
-      "forks": 7008,
-      "added_stars": "299 stars this week"
+      "stars": 101667,
+      "forks": 7009,
+      "added_stars": "311 stars this week"
     },
     {
       "title": "github / copilot.vim",
@@ -20,19 +20,9 @@
       "description": "Neovim plugin for GitHub Copilot",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 11663,
-      "forks": 793,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 35740,
-      "forks": 1936,
-      "added_stars": "17 stars this week"
+      "stars": 11665,
+      "forks": 795,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "vim / vim",
@@ -40,9 +30,19 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 40726,
-      "forks": 6106,
-      "added_stars": "63 stars this week"
+      "stars": 40731,
+      "forks": 6107,
+      "added_stars": "61 stars this week"
+    },
+    {
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 35742,
+      "forks": 1938,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "morhetz / gruvbox",
@@ -50,19 +50,9 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 15657,
+      "stars": 15660,
       "forks": 1127,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "chrisbra / csv.vim",
-      "url": "https://github.com/chrisbra/csv.vim",
-      "description": "A Filetype plugin for csv files",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 1325,
-      "forks": 66,
-      "added_stars": "0 stars this week"
+      "added_stars": "20 stars this week"
     },
     {
       "title": "andymass / vim-matchup",
@@ -72,6 +62,16 @@
       "languageColor": "#199f4b",
       "stars": 1917,
       "forks": 89,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "chrisbra / csv.vim",
+      "url": "https://github.com/chrisbra/csv.vim",
+      "description": "A Filetype plugin for csv files",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 1326,
+      "forks": 66,
       "added_stars": "1 star this week"
     },
     {
@@ -81,18 +81,8 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 14016,
-      "forks": 1484,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21755,
-      "forks": 1074,
-      "added_stars": "15 stars this week"
+      "forks": 1485,
+      "added_stars": "1 star this week"
     },
     {
       "title": "ggml-org / llama.vim",
@@ -100,39 +90,29 @@
       "description": "Vim plugin for LLM-assisted code/text completion",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 2127,
+      "stars": 2130,
       "forks": 115,
-      "added_stars": "9 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
-      "title": "leafgarland / typescript-vim",
-      "url": "https://github.com/leafgarland/typescript-vim",
-      "description": "Typescript syntax files for Vim",
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 1897,
-      "forks": 142,
+      "stars": 21756,
+      "forks": 1074,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "wellle / targets.vim",
+      "url": "https://github.com/wellle/targets.vim",
+      "description": "Vim plugin that provides additional text objects",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 2645,
+      "forks": 56,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "sainnhe / everforest",
-      "url": "https://github.com/sainnhe/everforest",
-      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4146,
-      "forks": 147,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "jbranchaud / til",
-      "url": "https://github.com/jbranchaud/til",
-      "description": "📝 Today I Learned",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 14133,
-      "forks": 758,
-      "added_stars": "1 star this week"
     },
     {
       "title": "tpope / vim-rails",
@@ -145,24 +125,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "derekhe / msfs2020-map-enhancement",
-      "url": "https://github.com/derekhe/msfs2020-map-enhancement",
-      "description": "MSFS2020 Map Enhancement",
+      "title": "Yggdroot / indentLine",
+      "url": "https://github.com/Yggdroot/indentLine",
+      "description": "A vim plugin to display the indention levels with thin vertical lines",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 354,
-      "forks": 44,
+      "stars": 4123,
+      "forks": 234,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "vim-syntastic / syntastic",
-      "url": "https://github.com/vim-syntastic/syntastic",
-      "description": "Syntax checking hacks for vim",
+      "title": "sainnhe / everforest",
+      "url": "https://github.com/sainnhe/everforest",
+      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 11223,
-      "forks": 1124,
-      "added_stars": "0 stars this week"
+      "stars": 4149,
+      "forks": 147,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "mattn / vim-lsp-settings",
@@ -172,6 +152,16 @@
       "languageColor": "#199f4b",
       "stars": 1415,
       "forks": 247,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "tpope / vim-sensible",
+      "url": "https://github.com/tpope/vim-sensible",
+      "description": "sensible.vim: Defaults everyone can agree on",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 5294,
+      "forks": 272,
       "added_stars": "1 star this week"
     },
     {
@@ -185,23 +175,43 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "prettier / vim-prettier",
-      "url": "https://github.com/prettier/vim-prettier",
-      "description": "A Vim plugin for Prettier",
+      "title": "romainl / vim-cool",
+      "url": "https://github.com/romainl/vim-cool",
+      "description": "A very simple plugin that makes hlsearch more useful.",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 1837,
-      "forks": 137,
+      "stars": 577,
+      "forks": 24,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Yggdroot / indentLine",
-      "url": "https://github.com/Yggdroot/indentLine",
-      "description": "A vim plugin to display the indention levels with thin vertical lines",
+      "title": "tpope / vim-endwise",
+      "url": "https://github.com/tpope/vim-endwise",
+      "description": "endwise.vim: Wisely add",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 4123,
-      "forks": 234,
+      "stars": 1168,
+      "forks": 103,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "jbranchaud / til",
+      "url": "https://github.com/jbranchaud/til",
+      "description": "📝 Today I Learned",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 14134,
+      "forks": 758,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "vim-syntastic / syntastic",
+      "url": "https://github.com/vim-syntastic/syntastic",
+      "description": "Syntax checking hacks for vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11223,
+      "forks": 1124,
       "added_stars": "0 stars this week"
     }
   ]

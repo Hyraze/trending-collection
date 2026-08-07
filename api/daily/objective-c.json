@@ -2,18 +2,8 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
-    {
-      "title": "realm / realm-swift",
-      "url": "https://github.com/realm/realm-swift",
-      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 16614,
-      "forks": 2237,
-      "added_stars": "1 star today"
-    },
     {
       "title": "SDWebImage / SDWebImage",
       "url": "https://github.com/SDWebImage/SDWebImage",
@@ -21,7 +11,17 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 25638,
-      "forks": 5960,
+      "forks": 5961,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "google / GoogleUtilities",
+      "url": "https://github.com/google/GoogleUtilities",
+      "description": "",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 134,
+      "forks": 74,
       "added_stars": "0 stars today"
     },
     {
@@ -35,53 +35,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "AliSoftware / OHHTTPStubs",
-      "url": "https://github.com/AliSoftware/OHHTTPStubs",
-      "description": "Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!",
+      "title": "google / promises",
+      "url": "https://github.com/google/promises",
+      "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 5072,
-      "forks": 597,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "gnachman / iTerm2",
-      "url": "https://github.com/gnachman/iTerm2",
-      "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 17905,
-      "forks": 1449,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "zendesk / support_sdk_ios",
-      "url": "https://github.com/zendesk/support_sdk_ios",
-      "description": "Zendesk Support SDK for iOS",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 55,
-      "forks": 38,
+      "stars": 3828,
+      "forks": 314,
       "added_stars": "0 stars today"
     },
     {
-      "title": "jdg / MBProgressHUD",
-      "url": "https://github.com/jdg/MBProgressHUD",
-      "description": "MBProgressHUD + Customizations",
+      "title": "google / gtm-session-fetcher",
+      "url": "https://github.com/google/gtm-session-fetcher",
+      "description": "Google Toolbox for Mac - Session Fetcher",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 15936,
-      "forks": 3562,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "kstenerud / KSCrash",
-      "url": "https://github.com/kstenerud/KSCrash",
-      "description": "The Ultimate iOS Crash Reporter",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 4476,
-      "forks": 739,
+      "stars": 291,
+      "forks": 196,
       "added_stars": "0 stars today"
     },
     {
@@ -95,53 +65,63 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "adjust / ios_sdk",
-      "url": "https://github.com/adjust/ios_sdk",
-      "description": "This is the iOS SDK of",
+      "title": "realm / realm-swift",
+      "url": "https://github.com/realm/realm-swift",
+      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 672,
-      "forks": 312,
+      "stars": 16614,
+      "forks": 2237,
       "added_stars": "0 stars today"
     },
     {
-      "title": "erikdoe / ocmock",
-      "url": "https://github.com/erikdoe/ocmock",
-      "description": "Mock objects for Objective-C",
+      "title": "PureLayout / PureLayout",
+      "url": "https://github.com/PureLayout/PureLayout",
+      "description": "The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 2171,
-      "forks": 609,
+      "stars": 7595,
+      "forks": 730,
       "added_stars": "0 stars today"
     },
     {
-      "title": "google / GoogleUtilities",
-      "url": "https://github.com/google/GoogleUtilities",
-      "description": "",
+      "title": "dzenbot / DZNEmptyDataSet",
+      "url": "https://github.com/dzenbot/DZNEmptyDataSet",
+      "description": "A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 134,
-      "forks": 75,
+      "stars": 12016,
+      "forks": 1711,
       "added_stars": "0 stars today"
     },
     {
-      "title": "FLEXTool / FLEX",
-      "url": "https://github.com/FLEXTool/FLEX",
-      "description": "An in-app debugging and exploration tool for iOS",
+      "title": "SVProgressHUD / SVProgressHUD",
+      "url": "https://github.com/SVProgressHUD/SVProgressHUD",
+      "description": "A clean and lightweight progress HUD for your iOS and tvOS app.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 14626,
-      "forks": 1791,
-      "added_stars": "1 star today"
+      "stars": 12453,
+      "forks": 2666,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "youtube / youtube-ios-player-helper",
-      "url": "https://github.com/youtube/youtube-ios-player-helper",
-      "description": "Lightweight helper library that allows iOS developers to add inline playback of YouTube videos through a WebView",
+      "title": "WenchaoD / FSCalendar",
+      "url": "https://github.com/WenchaoD/FSCalendar",
+      "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 1705,
-      "forks": 718,
+      "stars": 10646,
+      "forks": 1945,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bugsnag / bugsnag-cocoa",
+      "url": "https://github.com/bugsnag/bugsnag-cocoa",
+      "description": "BugSnag error monitoring & exception reporter for iOS, macOS, tvOS and watchOS",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 263,
+      "forks": 126,
       "added_stars": "0 stars today"
     }
   ]

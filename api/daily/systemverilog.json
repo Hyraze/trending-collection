@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
       "title": "lowRISC / opentitan",
@@ -11,18 +11,8 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": 3577,
-      "forks": 1076,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "verilator / verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3815,
-      "forks": 869,
-      "added_stars": "4 stars today"
+      "forks": 1077,
+      "added_stars": "0 stars today"
     },
     {
       "title": "chipsalliance / caliptra-ss",
@@ -32,6 +22,36 @@
       "languageColor": "#DAE1C2",
       "stars": 47,
       "forks": 54,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "lowRISC / ibex",
+      "url": "https://github.com/lowRISC/ibex",
+      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 2001,
+      "forks": 783,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "adam-maj / tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 12818,
+      "forks": 1226,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "chipsalliance / i3c-core",
+      "url": "https://github.com/chipsalliance/i3c-core",
+      "description": "",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 54,
+      "forks": 35,
       "added_stars": "0 stars today"
     },
     {
@@ -45,33 +65,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "chipsalliance / i3c-core",
-      "url": "https://github.com/chipsalliance/i3c-core",
-      "description": "",
+      "title": "openhwgroup / cvfpu",
+      "url": "https://github.com/openhwgroup/cvfpu",
+      "description": "Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 54,
-      "forks": 35,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "adam-maj / tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 12814,
-      "forks": 1228,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "bsc-loca / sargantana",
-      "url": "https://github.com/bsc-loca/sargantana",
-      "description": "",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 161,
-      "forks": 44,
+      "stars": 627,
+      "forks": 170,
       "added_stars": "0 stars today"
     },
     {
@@ -85,13 +85,33 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "lowRISC / ibex",
-      "url": "https://github.com/lowRISC/ibex",
-      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "title": "pulp-platform / common_cells",
+      "url": "https://github.com/pulp-platform/common_cells",
+      "description": "Common SystemVerilog components",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 2000,
-      "forks": 783,
+      "stars": 776,
+      "forks": 200,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3820,
+      "forks": 869,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "pulp-platform / axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 1649,
+      "forks": 364,
       "added_stars": "0 stars today"
     }
   ]

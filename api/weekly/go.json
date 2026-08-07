@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "esengine / DeepSeek-Reasonix",
@@ -10,9 +10,9 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31810,
-      "forks": 2051,
-      "added_stars": "3,408 stars this week"
+      "stars": 32566,
+      "forks": 2103,
+      "added_stars": "4,203 stars this week"
     },
     {
       "title": "alibaba / open-code-review",
@@ -20,29 +20,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19222,
-      "forks": 1318,
-      "added_stars": "3,293 stars this week"
-    },
-    {
-      "title": "mudler / LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 48274,
-      "forks": 4348,
-      "added_stars": "292 stars this week"
-    },
-    {
-      "title": "traefik / traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 64299,
-      "forks": 6123,
-      "added_stars": "142 stars this week"
+      "stars": 19405,
+      "forks": 1340,
+      "added_stars": "2,905 stars this week"
     },
     {
       "title": "passteque / gluetun",
@@ -50,9 +30,29 @@
       "description": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15096,
+      "stars": 15102,
       "forks": 604,
-      "added_stars": "98 stars this week"
+      "added_stars": "95 stars this week"
+    },
+    {
+      "title": "traefik / traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 64317,
+      "forks": 6124,
+      "added_stars": "145 stars this week"
+    },
+    {
+      "title": "mudler / LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 48300,
+      "forks": 4351,
+      "added_stars": "282 stars this week"
     },
     {
       "title": "github / gh-stack",
@@ -60,19 +60,9 @@
       "description": "GitHub Stacked PRs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1097,
-      "forks": 45,
-      "added_stars": "515 stars this week"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 983,
-      "forks": 202,
-      "added_stars": "86 stars this week"
+      "stars": 1139,
+      "forks": 48,
+      "added_stars": "541 stars this week"
     },
     {
       "title": "binwiederhier / ntfy",
@@ -80,19 +70,19 @@
       "description": "Send push notifications to your phone or desktop using PUT/POST",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 33094,
-      "forks": 1516,
-      "added_stars": "724 stars this week"
+      "stars": 33183,
+      "forks": 1524,
+      "added_stars": "787 stars this week"
     },
     {
-      "title": "caddyserver / caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 74693,
-      "forks": 4865,
-      "added_stars": "251 stars this week"
+      "stars": 44540,
+      "forks": 5656,
+      "added_stars": "1,878 stars this week"
     },
     {
       "title": "junegunn / fzf",
@@ -100,59 +90,9 @@
       "description": "🌸 A command-line fuzzy finder",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 82384,
-      "forks": 2846,
-      "added_stars": "354 stars this week"
-    },
-    {
-      "title": "1Panel-dev / 1Panel",
-      "url": "https://github.com/1Panel-dev/1Panel",
-      "description": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 36443,
-      "forks": 3282,
-      "added_stars": "105 stars this week"
-    },
-    {
-      "title": "gtsteffaniak / filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7679,
-      "forks": 402,
-      "added_stars": "123 stars this week"
-    },
-    {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 44312,
-      "forks": 5622,
-      "added_stars": "1,764 stars this week"
-    },
-    {
-      "title": "chaitin / SafeLine",
-      "url": "https://github.com/chaitin/SafeLine",
-      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22286,
-      "forks": 1499,
-      "added_stars": "280 stars this week"
-    },
-    {
-      "title": "kgretzky / evilginx2",
-      "url": "https://github.com/kgretzky/evilginx2",
-      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 15431,
-      "forks": 2691,
-      "added_stars": "49 stars this week"
+      "stars": 82418,
+      "forks": 2850,
+      "added_stars": "384 stars this week"
     },
     {
       "title": "cli / cli",
@@ -160,29 +100,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 45685,
-      "forks": 8825,
-      "added_stars": "201 stars this week"
-    },
-    {
-      "title": "sundowndev / phoneinfoga",
-      "url": "https://github.com/sundowndev/phoneinfoga",
-      "description": "Information gathering framework for phone numbers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17355,
-      "forks": 5355,
-      "added_stars": "162 stars this week"
-    },
-    {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 37270,
-      "forks": 569,
-      "added_stars": "147 stars this week"
+      "stars": 45719,
+      "forks": 8827,
+      "added_stars": "212 stars this week"
     },
     {
       "title": "superplanehq / superplane",
@@ -190,9 +110,19 @@
       "description": "The open source control plane for agentic engineering.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4706,
-      "forks": 502,
-      "added_stars": "335 stars this week"
+      "stars": 4795,
+      "forks": 517,
+      "added_stars": "436 stars this week"
+    },
+    {
+      "title": "kgretzky / evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15439,
+      "forks": 2692,
+      "added_stars": "53 stars this week"
     },
     {
       "title": "gastownhall / beads",
@@ -200,29 +130,59 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26062,
-      "forks": 1751,
-      "added_stars": "325 stars this week"
+      "stars": 26094,
+      "forks": 1750,
+      "added_stars": "348 stars this week"
     },
     {
-      "title": "ethereum / go-ethereum",
-      "url": "https://github.com/ethereum/go-ethereum",
-      "description": "Go implementation of the Ethereum protocol",
+      "title": "bettercap / bettercap",
+      "url": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 51269,
-      "forks": 22093,
-      "added_stars": "46 stars this week"
+      "stars": 19740,
+      "forks": 1701,
+      "added_stars": "185 stars this week"
     },
     {
-      "title": "certimate-go / certimate",
-      "url": "https://github.com/certimate-go/certimate",
-      "description": "An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。",
+      "title": "chaitin / SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9009,
-      "forks": 870,
-      "added_stars": "58 stars this week"
+      "stars": 22301,
+      "forks": 1499,
+      "added_stars": "282 stars this week"
+    },
+    {
+      "title": "sundowndev / phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17382,
+      "forks": 5394,
+      "added_stars": "176 stars this week"
+    },
+    {
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1055,
+      "forks": 211,
+      "added_stars": "89 stars this week"
+    },
+    {
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 177954,
+      "forks": 17290,
+      "added_stars": "755 stars this week"
     },
     {
       "title": "autobrr / qui",
@@ -230,9 +190,49 @@
       "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4310,
-      "forks": 144,
-      "added_stars": "47 stars this week"
+      "stars": 4321,
+      "forks": 143,
+      "added_stars": "51 stars this week"
+    },
+    {
+      "title": "gtsteffaniak / filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7689,
+      "forks": 402,
+      "added_stars": "116 stars this week"
+    },
+    {
+      "title": "kubescape / kubescape",
+      "url": "https://github.com/kubescape/kubescape",
+      "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11569,
+      "forks": 992,
+      "added_stars": "22 stars this week"
+    },
+    {
+      "title": "caddyserver / caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 74724,
+      "forks": 4866,
+      "added_stars": "253 stars this week"
+    },
+    {
+      "title": "pranshuparmar / witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19273,
+      "forks": 625,
+      "added_stars": "856 stars this week"
     }
   ]
 }

@@ -4,7 +4,7 @@
   <title>GitHub Yaml Languages Daily Trending</title>
   <description>Daily Trending of Yaml Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>web-platform-dx / web-features</title>
     <link>https://github.com/web-platform-dx/web-features</link>
@@ -16,19 +16,14 @@
     <description>aqua&#x27;s Standard Registry</description>
   </item>
   <item>
+    <title>Mafyuh / iac</title>
+    <link>https://github.com/Mafyuh/iac</link>
+    <description>GitOps-driven Infrastructure as Code for my homelab</description>
+  </item>
+  <item>
     <title>stashapp / CommunityScrapers</title>
     <link>https://github.com/stashapp/CommunityScrapers</link>
     <description>This is a public repository containing scrapers created by the Stash Community.</description>
-  </item>
-  <item>
-    <title>KSP-CKAN / NetKAN</title>
-    <link>https://github.com/KSP-CKAN/NetKAN</link>
-    <description>Metadata files used by the NetKAN/CKAN indexer for KSP</description>
-  </item>
-  <item>
-    <title>usnistgov / macos_security</title>
-    <link>https://github.com/usnistgov/macos_security</link>
-    <description>macOS Security Compliance Project</description>
   </item>
   <item>
     <title>GTFOBins / GTFOBins.github.io</title>
@@ -36,14 +31,24 @@
     <description>GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.</description>
   </item>
   <item>
-    <title>kubeflow / community-distribution</title>
-    <link>https://github.com/kubeflow/community-distribution</link>
-    <description>Kubeflow Community Distribution</description>
+    <title>usnistgov / macos_security</title>
+    <link>https://github.com/usnistgov/macos_security</link>
+    <description>macOS Security Compliance Project</description>
   </item>
   <item>
     <title>sublime-security / sublime-rules</title>
     <link>https://github.com/sublime-security/sublime-rules</link>
     <description>Sublime rules for email attack detection, prevention, and threat hunting.</description>
+  </item>
+  <item>
+    <title>kubeflow / community-distribution</title>
+    <link>https://github.com/kubeflow/community-distribution</link>
+    <description>Kubeflow Community Distribution</description>
+  </item>
+  <item>
+    <title>KSP-CKAN / NetKAN</title>
+    <link>https://github.com/KSP-CKAN/NetKAN</link>
+    <description>Metadata files used by the NetKAN/CKAN indexer for KSP</description>
   </item>
 </channel>
 </rss>

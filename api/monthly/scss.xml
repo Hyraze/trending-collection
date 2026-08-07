@@ -4,7 +4,12 @@
   <title>GitHub Scss Languages Daily Trending</title>
   <description>Daily Trending of Scss Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <item>
+    <title>Ileriayo / markdown-badges</title>
+    <link>https://github.com/Ileriayo/markdown-badges</link>
+    <description>The largest curated collection of markdown badges for your personal developer branding, profile, and projects.</description>
+  </item>
   <item>
     <title>academicpages / academicpages.github.io</title>
     <link>https://github.com/academicpages/academicpages.github.io</link>
@@ -16,9 +21,14 @@
     <description>Material Design Web Components</description>
   </item>
   <item>
-    <title>Ileriayo / markdown-badges</title>
-    <link>https://github.com/Ileriayo/markdown-badges</link>
-    <description>The largest curated collection of markdown badges for your personal developer branding, profile, and projects.</description>
+    <title>LineageOS / lineage_wiki</title>
+    <link>https://github.com/LineageOS/lineage_wiki</link>
+    <description></description>
+  </item>
+  <item>
+    <title>uswds / uswds</title>
+    <link>https://github.com/uswds/uswds</link>
+    <description>The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.</description>
   </item>
   <item>
     <title>odoo / design-themes</title>
@@ -26,14 +36,19 @@
     <description></description>
   </item>
   <item>
-    <title>LineageOS / lineage_wiki</title>
-    <link>https://github.com/LineageOS/lineage_wiki</link>
-    <description></description>
-  </item>
-  <item>
     <title>conventional-commits / conventionalcommits.org</title>
     <link>https://github.com/conventional-commits/conventionalcommits.org</link>
     <description>The conventional commits specification</description>
+  </item>
+  <item>
+    <title>vinceliuice / MacTahoe-gtk-theme</title>
+    <link>https://github.com/vinceliuice/MacTahoe-gtk-theme</link>
+    <description>MacOS Tahoe theme for gtk desktops</description>
+  </item>
+  <item>
+    <title>catppuccin / discord</title>
+    <link>https://github.com/catppuccin/discord</link>
+    <description>🎮 Soothing pastel theme for Discord</description>
   </item>
   <item>
     <title>primer / css</title>
@@ -46,34 +61,9 @@
     <description>The Techdoc is a Hugo Theme for technical documentation.</description>
   </item>
   <item>
-    <title>vinceliuice / MacTahoe-gtk-theme</title>
-    <link>https://github.com/vinceliuice/MacTahoe-gtk-theme</link>
-    <description>MacOS Tahoe theme for gtk desktops</description>
-  </item>
-  <item>
-    <title>uswds / uswds</title>
-    <link>https://github.com/uswds/uswds</link>
-    <description>The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.</description>
-  </item>
-  <item>
     <title>just-the-docs / just-the-docs</title>
     <link>https://github.com/just-the-docs/just-the-docs</link>
     <description>A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</description>
-  </item>
-  <item>
-    <title>catppuccin / discord</title>
-    <link>https://github.com/catppuccin/discord</link>
-    <description>🎮 Soothing pastel theme for Discord</description>
-  </item>
-  <item>
-    <title>aaaaalexis / obsidian-cupertino</title>
-    <link>https://github.com/aaaaalexis/obsidian-cupertino</link>
-    <description>A native look and feel Obsidian theme crafted for the way you think.</description>
-  </item>
-  <item>
-    <title>opensearch-project / documentation-website</title>
-    <link>https://github.com/opensearch-project/documentation-website</link>
-    <description>The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.</description>
   </item>
   <item>
     <title>ubuntu / yaru</title>
@@ -81,9 +71,9 @@
     <description>All Ubuntu Yaru GNOME themes</description>
   </item>
   <item>
-    <title>angelbruni / Geckium</title>
-    <link>https://github.com/angelbruni/Geckium</link>
-    <description>Chrome 1 - 58 theme for Firefox 115+</description>
+    <title>opensearch-project / documentation-website</title>
+    <link>https://github.com/opensearch-project/documentation-website</link>
+    <description>The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.</description>
   </item>
   <item>
     <title>nordtheme / nord</title>
@@ -91,9 +81,19 @@
     <description>An arctic, north-bluish color palette.</description>
   </item>
   <item>
+    <title>angelbruni / Geckium</title>
+    <link>https://github.com/angelbruni/Geckium</link>
+    <description>Chrome 1 - 58 theme for Firefox 115+</description>
+  </item>
+  <item>
     <title>foreverphoenix / the-phoenix-flavour</title>
     <link>https://github.com/foreverphoenix/the-phoenix-flavour</link>
     <description>A Wabbajack list for Skyrim Special Edition.</description>
+  </item>
+  <item>
+    <title>aaaaalexis / obsidian-cupertino</title>
+    <link>https://github.com/aaaaalexis/obsidian-cupertino</link>
+    <description>A native look and feel Obsidian theme crafted for the way you think.</description>
   </item>
   <item>
     <title>cobiwave / simplefolio</title>
@@ -109,6 +109,11 @@
     <title>SlRvb / Obsidian--ITS-Theme</title>
     <link>https://github.com/SlRvb/Obsidian--ITS-Theme</link>
     <description>Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed.</description>
+  </item>
+  <item>
+    <title>pages-themes / architect</title>
+    <link>https://github.com/pages-themes/architect</link>
+    <description>Architect is a Jekyll theme for GitHub Pages</description>
   </item>
 </channel>
 </rss>

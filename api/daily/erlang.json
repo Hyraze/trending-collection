@@ -2,8 +2,18 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
+    {
+      "title": "emqx / emqx",
+      "url": "https://github.com/emqx/emqx",
+      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 16599,
+      "forks": 2544,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "erlang / otp",
       "url": "https://github.com/erlang/otp",
@@ -11,38 +21,8 @@
       "language": "Erlang",
       "languageColor": "#B83998",
       "stars": 12321,
-      "forks": 3255,
+      "forks": 3267,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "emqx / emqx",
-      "url": "https://github.com/emqx/emqx",
-      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 16595,
-      "forks": 2543,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "WhatsApp / erlfmt",
-      "url": "https://github.com/WhatsApp/erlfmt",
-      "description": "An automated code formatter for Erlang",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 461,
-      "forks": 66,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "apache / couchdb",
-      "url": "https://github.com/apache/couchdb",
-      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 6932,
-      "forks": 1077,
-      "added_stars": "1 star today"
     },
     {
       "title": "blt / port_compiler",
@@ -55,13 +35,63 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "erlang / rebar3",
-      "url": "https://github.com/erlang/rebar3",
-      "description": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+      "title": "WhatsApp / erlfmt",
+      "url": "https://github.com/WhatsApp/erlfmt",
+      "description": "An automated code formatter for Erlang",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 1815,
-      "forks": 528,
+      "stars": 461,
+      "forks": 66,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "proper-testing / proper",
+      "url": "https://github.com/proper-testing/proper",
+      "description": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 916,
+      "forks": 167,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ninenines / cowboy",
+      "url": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 7523,
+      "forks": 1169,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "eproxus / meck",
+      "url": "https://github.com/eproxus/meck",
+      "description": "A mocking library for Erlang",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 839,
+      "forks": 230,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "apache / couchdb",
+      "url": "https://github.com/apache/couchdb",
+      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 6933,
+      "forks": 1077,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ninenines / gun",
+      "url": "https://github.com/ninenines/gun",
+      "description": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 947,
+      "forks": 245,
       "added_stars": "0 stars today"
     },
     {
@@ -85,13 +115,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "ninenines / cowboy",
-      "url": "https://github.com/ninenines/cowboy",
-      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "title": "hexpm / hex_core",
+      "url": "https://github.com/hexpm/hex_core",
+      "description": "Reference implementation of Hex specifications.",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 7521,
-      "forks": 1169,
+      "stars": 105,
+      "forks": 34,
       "added_stars": "0 stars today"
     }
   ]

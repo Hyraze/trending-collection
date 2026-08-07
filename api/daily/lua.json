@@ -2,27 +2,47 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
+    {
+      "title": "koreader / koreader",
+      "url": "https://github.com/koreader/koreader",
+      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 28750,
+      "forks": 1850,
+      "added_stars": "140 stars today"
+    },
     {
       "title": "nvim-lua / kickstart.nvim",
       "url": "https://github.com/nvim-lua/kickstart.nvim",
       "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 31218,
-      "forks": 46813,
-      "added_stars": "10 stars today"
+      "stars": 31225,
+      "forks": 46811,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "yetone / avante.nvim",
-      "url": "https://github.com/yetone/avante.nvim",
-      "description": "Use your Neovim like using Cursor AI IDE!",
+      "title": "neovim / nvim-lspconfig",
+      "url": "https://github.com/neovim/nvim-lspconfig",
+      "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 18103,
-      "forks": 842,
-      "added_stars": "2 stars today"
+      "stars": 13842,
+      "forks": 2474,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "folke / lazy.nvim",
+      "url": "https://github.com/folke/lazy.nvim",
+      "description": "💤 A modern plugin manager for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 21383,
+      "forks": 586,
+      "added_stars": "8 stars today"
     },
     {
       "title": "Kong / kong",
@@ -30,28 +50,18 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 43927,
-      "forks": 5196,
-      "added_stars": "6 stars today"
+      "stars": 43935,
+      "forks": 5197,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "folke / tokyonight.nvim",
-      "url": "https://github.com/folke/tokyonight.nvim",
-      "description": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+      "title": "coder / claudecode.nvim",
+      "url": "https://github.com/coder/claudecode.nvim",
+      "description": "🧩 Claude Code Neovim IDE Extension",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 8162,
-      "forks": 548,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "overextended / ox_inventory",
-      "url": "https://github.com/overextended/ox_inventory",
-      "description": "Slot-based inventory with metadata.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 563,
-      "forks": 1081,
+      "stars": 2985,
+      "forks": 211,
       "added_stars": "0 stars today"
     },
     {
@@ -60,69 +70,49 @@
       "description": "「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4312,
+      "stars": 4311,
       "forks": 159,
-      "added_stars": "14 stars today"
+      "added_stars": "6 stars today"
     },
     {
-      "title": "nvim-tree / nvim-tree.lua",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua",
-      "description": "A file explorer tree for neovim written in lua",
+      "title": "Kong / kong-pongo",
+      "url": "https://github.com/Kong/kong-pongo",
+      "description": "Tooling to run plugin tests with Kong and Kong Enterprise",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 8613,
-      "forks": 637,
+      "stars": 173,
+      "forks": 70,
       "added_stars": "0 stars today"
     },
     {
-      "title": "CopilotC-Nvim / CopilotChat.nvim",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
-      "description": "Chat with GitHub Copilot in Neovim",
+      "title": "jitsi / docker-jitsi-meet",
+      "url": "https://github.com/jitsi/docker-jitsi-meet",
+      "description": "Jitsi Meet on Docker",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3650,
-      "forks": 172,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "xmake-io / xmake",
-      "url": "https://github.com/xmake-io/xmake",
-      "description": "🔥 A cross-platform build utility based on Lua",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 12129,
-      "forks": 942,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "neovim / nvim-lspconfig",
-      "url": "https://github.com/neovim/nvim-lspconfig",
-      "description": "Quickstart configs for Nvim LSP",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 13836,
-      "forks": 2474,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "olimorris / codecompanion.nvim",
-      "url": "https://github.com/olimorris/codecompanion.nvim",
-      "description": "✨ AI Coding, Vim Style",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 6785,
-      "forks": 444,
+      "stars": 3593,
+      "forks": 1567,
       "added_stars": "1 star today"
     },
     {
-      "title": "tarantool / tarantool",
-      "url": "https://github.com/tarantool/tarantool",
-      "description": "Get your data in RAM. Get compute close to data. Enjoy the performance.",
+      "title": "MeanderingProgrammer / render-markdown.nvim",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+      "description": "Improve viewing Markdown in Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3660,
-      "forks": 415,
-      "added_stars": "2 stars today"
+      "stars": 4883,
+      "forks": 131,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "ibhagwan / fzf-lua",
+      "url": "https://github.com/ibhagwan/fzf-lua",
+      "description": "Improved fzf.vim written in lua",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 4405,
+      "forks": 262,
+      "added_stars": "5 stars today"
     }
   ]
 }

@@ -4,7 +4,12 @@
   <title>GitHub Jupyter-notebook Languages Daily Trending</title>
   <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <item>
+    <title>DataExpert-io / data-engineer-handbook</title>
+    <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
+    <description>This is a repo with links to everything you&#x27;d ever want to learn about data engineering</description>
+  </item>
   <item>
     <title>lyogavin / airllm</title>
     <link>https://github.com/lyogavin/airllm</link>
@@ -16,24 +21,29 @@
     <description>21 Lessons, Get Started Building with Generative AI</description>
   </item>
   <item>
-    <title>DataExpert-io / data-engineer-handbook</title>
-    <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
-    <description>This is a repo with links to everything you&#x27;d ever want to learn about data engineering</description>
+    <title>karpathy / micrograd</title>
+    <link>https://github.com/karpathy/micrograd</link>
+    <description>A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</description>
   </item>
   <item>
-    <title>Lordog / dive-into-llms</title>
-    <link>https://github.com/Lordog/dive-into-llms</link>
-    <description>《动手学大模型Dive into LLMs》系列编程实践教程</description>
+    <title>Pierian-Data / Complete-Python-3-Bootcamp</title>
+    <link>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp</link>
+    <description>Course Files for Complete Python 3 Bootcamp Course on Udemy</description>
   </item>
   <item>
-    <title>microsoft / ai-agents-for-beginners</title>
-    <link>https://github.com/microsoft/ai-agents-for-beginners</link>
-    <description>18 Lessons to Get Started Building AI Agents</description>
+    <title>anthropics / prompt-eng-interactive-tutorial</title>
+    <link>https://github.com/anthropics/prompt-eng-interactive-tutorial</link>
+    <description>Anthropic&#x27;s Interactive Prompt Engineering Tutorial</description>
   </item>
   <item>
-    <title>Biohub / esm</title>
-    <link>https://github.com/Biohub/esm</link>
-    <description></description>
+    <title>datawhalechina / llm-universe</title>
+    <link>https://github.com/datawhalechina/llm-universe</link>
+    <description>本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/</description>
+  </item>
+  <item>
+    <title>anthropics / courses</title>
+    <link>https://github.com/anthropics/courses</link>
+    <description>Anthropic&#x27;s educational courses</description>
   </item>
   <item>
     <title>GokuMohandas / Made-With-ML</title>
@@ -41,59 +51,54 @@
     <description>Learn how to develop, deploy and iterate on production-grade ML applications.</description>
   </item>
   <item>
-    <title>mrdbourke / pytorch-deep-learning</title>
-    <link>https://github.com/mrdbourke/pytorch-deep-learning</link>
-    <description>Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</description>
+    <title>charliedream1 / ai_quant_trade</title>
+    <link>https://github.com/charliedream1/ai_quant_trade</link>
+    <description>股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易</description>
   </item>
   <item>
-    <title>jackfrued / Python-100-Days</title>
-    <link>https://github.com/jackfrued/Python-100-Days</link>
-    <description>Python - 100天从新手到大师</description>
+    <title>ed-donner / agents</title>
+    <link>https://github.com/ed-donner/agents</link>
+    <description>Repo for the Complete Agentic AI Engineering Course</description>
   </item>
   <item>
-    <title>AI4Finance-Foundation / FinGPT</title>
-    <link>https://github.com/AI4Finance-Foundation/FinGPT</link>
-    <description>FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.</description>
+    <title>dscripka / openWakeWord</title>
+    <link>https://github.com/dscripka/openWakeWord</link>
+    <description>An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.</description>
   </item>
   <item>
-    <title>NielsRogge / Transformers-Tutorials</title>
-    <link>https://github.com/NielsRogge/Transformers-Tutorials</link>
-    <description>This repository contains demos I made with the Transformers library by HuggingFace.</description>
+    <title>NirDiamant / GenAI_Agents</title>
+    <link>https://github.com/NirDiamant/GenAI_Agents</link>
+    <description>50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.</description>
   </item>
   <item>
-    <title>kubernetes / community</title>
-    <link>https://github.com/kubernetes/community</link>
-    <description>Kubernetes Community Documentation</description>
+    <title>NirDiamant / agents-towards-production</title>
+    <link>https://github.com/NirDiamant/agents-towards-production</link>
+    <description>End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.</description>
   </item>
   <item>
-    <title>gepa-ai / gepa</title>
-    <link>https://github.com/gepa-ai/gepa</link>
-    <description>Optimize prompts, code, and more with AI-powered Reflective Optimization</description>
+    <title>facebookresearch / segment-anything</title>
+    <link>https://github.com/facebookresearch/segment-anything</link>
+    <description>The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</description>
   </item>
   <item>
-    <title>wesm / pydata-book</title>
-    <link>https://github.com/wesm/pydata-book</link>
-    <description>Materials and IPython notebooks for &quot;Python for Data Analysis&quot; by Wes McKinney, published by O&#x27;Reilly Media</description>
+    <title>DataTalksClub / llm-zoomcamp</title>
+    <link>https://github.com/DataTalksClub/llm-zoomcamp</link>
+    <description>LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.</description>
   </item>
   <item>
-    <title>datawhalechina / self-llm</title>
-    <link>https://github.com/datawhalechina/self-llm</link>
-    <description>《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程</description>
+    <title>langchain-ai / langchain-academy</title>
+    <link>https://github.com/langchain-ai/langchain-academy</link>
+    <description></description>
   </item>
   <item>
-    <title>FareedKhan-dev / all-agentic-architectures</title>
-    <link>https://github.com/FareedKhan-dev/all-agentic-architectures</link>
-    <description>35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.</description>
+    <title>Lordog / dive-into-llms</title>
+    <link>https://github.com/Lordog/dive-into-llms</link>
+    <description>《动手学大模型Dive into LLMs》系列编程实践教程</description>
   </item>
   <item>
-    <title>AI4Finance-Foundation / FinRobot</title>
-    <link>https://github.com/AI4Finance-Foundation/FinRobot</link>
-    <description>FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀</description>
-  </item>
-  <item>
-    <title>ed-donner / llm_engineering</title>
-    <link>https://github.com/ed-donner/llm_engineering</link>
-    <description>Repo to accompany my mastering LLM engineering course</description>
+    <title>PolymathicAI / the_well</title>
+    <link>https://github.com/PolymathicAI/the_well</link>
+    <description>A 15TB Collection of Physics Simulation Datasets</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Rich-text-format Languages Daily Trending",
   "description": "Daily Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "mathoudebine / turing-smart-screen-python",
@@ -10,9 +10,9 @@
       "description": "Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen / TURZX",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": 2190,
+      "stars": 2194,
       "forks": 391,
-      "added_stars": "13 stars this week"
+      "added_stars": "17 stars this week"
     },
     {
       "title": "cncf / foundation",
@@ -21,7 +21,7 @@
       "language": "Rich Text Format",
       "languageColor": "#ccc",
       "stars": 689,
-      "forks": 842,
+      "forks": 843,
       "added_stars": "0 stars this week"
     },
     {
@@ -35,16 +35,6 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "artur-graniszewski / DLSS-Enabler",
-      "url": "https://github.com/artur-graniszewski/DLSS-Enabler",
-      "description": "Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.",
-      "language": "Rich Text Format",
-      "languageColor": "#ccc",
-      "stars": 1280,
-      "forks": 36,
-      "added_stars": "5 stars this week"
-    },
-    {
       "title": "jlord / patchwork",
       "url": "https://github.com/jlord/patchwork",
       "description": "All the Git-it Workshop completers!",
@@ -53,6 +43,16 @@
       "stars": 1161,
       "forks": 41917,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "artur-graniszewski / DLSS-Enabler",
+      "url": "https://github.com/artur-graniszewski/DLSS-Enabler",
+      "description": "Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.",
+      "language": "Rich Text Format",
+      "languageColor": "#ccc",
+      "stars": 1280,
+      "forks": 36,
+      "added_stars": "5 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Roff Languages Daily Trending",
   "description": "Daily Trending of Roff Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
       "title": "TapXWorld / ChinaTextbook",
@@ -10,9 +10,19 @@
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": 76847,
-      "forks": 17362,
-      "added_stars": "157 stars today"
+      "stars": 77258,
+      "forks": 17451,
+      "added_stars": "134 stars today"
+    },
+    {
+      "title": "DataDog / docker-dd-agent",
+      "url": "https://github.com/DataDog/docker-dd-agent",
+      "description": "Datadog Agent Dockerfile for Trusted Builds.",
+      "language": "Roff",
+      "languageColor": "#ecdebe",
+      "stars": 301,
+      "forks": 183,
+      "added_stars": "0 stars today"
     },
     {
       "title": "sidpalas / devops-directive-docker-course",
@@ -20,9 +30,9 @@
       "description": "Companion repo for complete Docker course",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": 3323,
+      "stars": 3325,
       "forks": 2521,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     }
   ]
 }

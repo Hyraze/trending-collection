@@ -2,7 +2,7 @@
   "title": "GitHub Nunjucks Languages Daily Trending",
   "description": "Daily Trending of Nunjucks Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "GoogleChrome / web.dev",
@@ -20,9 +20,19 @@
       "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
       "language": "Nunjucks",
       "languageColor": "#3d8137",
-      "stars": 60884,
+      "stars": 60886,
       "forks": 11006,
-      "added_stars": "55 stars this month"
+      "added_stars": "57 stars this month"
+    },
+    {
+      "title": "alphagov / govuk-design-system",
+      "url": "https://github.com/alphagov/govuk-design-system",
+      "description": "One place for service teams to find styles, components and patterns for designing government services.",
+      "language": "Nunjucks",
+      "languageColor": "#3d8137",
+      "stars": 657,
+      "forks": 277,
+      "added_stars": "13 stars this month"
     }
   ]
 }

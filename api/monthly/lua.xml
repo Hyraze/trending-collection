@@ -4,16 +4,16 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
-  <item>
-    <title>PathOfBuildingCommunity / PathOfBuilding</title>
-    <link>https://github.com/PathOfBuildingCommunity/PathOfBuilding</link>
-    <description>Offline build planner for Path of Exile.</description>
-  </item>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>koreader / koreader</title>
     <link>https://github.com/koreader/koreader</link>
     <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
+  </item>
+  <item>
+    <title>PathOfBuildingCommunity / PathOfBuilding</title>
+    <link>https://github.com/PathOfBuildingCommunity/PathOfBuilding</link>
+    <description>Offline build planner for Path of Exile.</description>
   </item>
   <item>
     <title>apache / apisix</title>
@@ -26,11 +26,6 @@
     <description>Quickstart configs for Nvim LSP</description>
   </item>
   <item>
-    <title>bol-van / zapret-win-bundle</title>
-    <link>https://github.com/bol-van/zapret-win-bundle</link>
-    <description>zapret and blockcheck binary bundle for windows</description>
-  </item>
-  <item>
     <title>Kong / kong</title>
     <link>https://github.com/Kong/kong</link>
     <description>🦍 The API and AI Gateway</description>
@@ -41,24 +36,9 @@
     <description>🍨 Soothing pastel theme for Neovim</description>
   </item>
   <item>
-    <title>Footagesus / WindUI</title>
-    <link>https://github.com/Footagesus/WindUI</link>
-    <description>WindUI is a open source UI library for Roblox Script Hubs</description>
-  </item>
-  <item>
     <title>ntop / ntopng</title>
     <link>https://github.com/ntop/ntopng</link>
     <description>Web-based Traffic and Cybersecurity Network Traffic Monitoring</description>
-  </item>
-  <item>
-    <title>sindrets / diffview.nvim</title>
-    <link>https://github.com/sindrets/diffview.nvim</link>
-    <description>Single tabpage interface for easily cycling through diffs for all modified files for any git rev.</description>
-  </item>
-  <item>
-    <title>ibhagwan / fzf-lua</title>
-    <link>https://github.com/ibhagwan/fzf-lua</link>
-    <description>Improved fzf.vim written in lua</description>
   </item>
   <item>
     <title>folke / flash.nvim</title>
@@ -66,19 +46,24 @@
     <description>Navigate your code with search labels, enhanced character motions and Treesitter integration</description>
   </item>
   <item>
+    <title>bol-van / zapret-win-bundle</title>
+    <link>https://github.com/bol-van/zapret-win-bundle</link>
+    <description>zapret and blockcheck binary bundle for windows</description>
+  </item>
+  <item>
+    <title>ibhagwan / fzf-lua</title>
+    <link>https://github.com/ibhagwan/fzf-lua</link>
+    <description>Improved fzf.vim written in lua</description>
+  </item>
+  <item>
+    <title>Footagesus / WindUI</title>
+    <link>https://github.com/Footagesus/WindUI</link>
+    <description>WindUI is a open source UI library for Roblox Script Hubs</description>
+  </item>
+  <item>
     <title>AndyHazz / bookshelf.koplugin</title>
     <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
     <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
-  </item>
-  <item>
-    <title>olimorris / codecompanion.nvim</title>
-    <link>https://github.com/olimorris/codecompanion.nvim</link>
-    <description>✨ AI Coding, Vim Style</description>
-  </item>
-  <item>
-    <title>iDvel / rime-ice</title>
-    <link>https://github.com/iDvel/rime-ice</link>
-    <description>Rime 配置：雾凇拼音 | 长期维护的简体词库</description>
   </item>
   <item>
     <title>id577 / FS25_AdvancedDamageSystem</title>
@@ -86,19 +71,9 @@
     <description>Advanced Damage System mod for Farming Simulator 25</description>
   </item>
   <item>
-    <title>NeogitOrg / neogit</title>
-    <link>https://github.com/NeogitOrg/neogit</link>
-    <description>An interactive and powerful Git interface for Neovim, inspired by Magit</description>
-  </item>
-  <item>
-    <title>hrsh7th / nvim-cmp</title>
-    <link>https://github.com/hrsh7th/nvim-cmp</link>
-    <description>A completion plugin for neovim coded in Lua.</description>
-  </item>
-  <item>
-    <title>folke / snacks.nvim</title>
-    <link>https://github.com/folke/snacks.nvim</link>
-    <description>🍿 A collection of QoL plugins for Neovim</description>
+    <title>sindrets / diffview.nvim</title>
+    <link>https://github.com/sindrets/diffview.nvim</link>
+    <description>Single tabpage interface for easily cycling through diffs for all modified files for any git rev.</description>
   </item>
   <item>
     <title>overextended / ox_inventory</title>
@@ -106,9 +81,34 @@
     <description>Slot-based inventory with metadata.</description>
   </item>
   <item>
+    <title>hrsh7th / nvim-cmp</title>
+    <link>https://github.com/hrsh7th/nvim-cmp</link>
+    <description>A completion plugin for neovim coded in Lua.</description>
+  </item>
+  <item>
+    <title>NeogitOrg / neogit</title>
+    <link>https://github.com/NeogitOrg/neogit</link>
+    <description>An interactive and powerful Git interface for Neovim, inspired by Magit</description>
+  </item>
+  <item>
     <title>opentibiabr / otclient</title>
     <link>https://github.com/opentibiabr/otclient</link>
     <description>An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize</description>
+  </item>
+  <item>
+    <title>olimorris / codecompanion.nvim</title>
+    <link>https://github.com/olimorris/codecompanion.nvim</link>
+    <description>✨ AI Coding, Vim Style</description>
+  </item>
+  <item>
+    <title>rittermod / FS25_RealisticLivestockRM</title>
+    <link>https://github.com/rittermod/FS25_RealisticLivestockRM</link>
+    <description>FS25_RealisticLivestock - Ritter version</description>
+  </item>
+  <item>
+    <title>yetone / avante.nvim</title>
+    <link>https://github.com/yetone/avante.nvim</link>
+    <description>Use your Neovim like using Cursor AI IDE!</description>
   </item>
 </channel>
 </rss>

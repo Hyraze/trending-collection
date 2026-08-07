@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "Lakr233 / vphone-cli",
@@ -10,9 +10,9 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7569,
-      "forks": 1100,
-      "added_stars": "176 stars this week"
+      "stars": 7579,
+      "forks": 1101,
+      "added_stars": "183 stars this week"
     },
     {
       "title": "realm / SwiftLint",
@@ -21,8 +21,8 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 19686,
-      "forks": 2318,
-      "added_stars": "15 stars this week"
+      "forks": 2319,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "LiveContainer / LiveContainer",
@@ -30,9 +30,9 @@
       "description": "Run iOS apps without actually installing them!",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 10578,
-      "forks": 845,
-      "added_stars": "279 stars this week"
+      "stars": 10636,
+      "forks": 850,
+      "added_stars": "267 stars this week"
     },
     {
       "title": "utmapp / UTM",
@@ -40,59 +40,19 @@
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 34895,
-      "forks": 1772,
-      "added_stars": "90 stars this week"
+      "stars": 34912,
+      "forks": 1774,
+      "added_stars": "95 stars this week"
     },
     {
-      "title": "p0deje / Maccy",
-      "url": "https://github.com/p0deje/Maccy",
-      "description": "Lightweight clipboard manager for macOS",
+      "title": "home-assistant / iOS",
+      "url": "https://github.com/home-assistant/iOS",
+      "description": "📱 Home Assistant for Apple platforms",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 21032,
-      "forks": 1084,
-      "added_stars": "117 stars this week"
-    },
-    {
-      "title": "ronitsingh10 / FineTune",
-      "url": "https://github.com/ronitsingh10/FineTune",
-      "description": "FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 8549,
-      "forks": 293,
-      "added_stars": "135 stars this week"
-    },
-    {
-      "title": "TelegramMessenger / Telegram-iOS",
-      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
-      "description": "Telegram-iOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 8820,
-      "forks": 2765,
-      "added_stars": "37 stars this week"
-    },
-    {
-      "title": "FluidInference / FluidAudio",
-      "url": "https://github.com/FluidInference/FluidAudio",
-      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 2617,
-      "forks": 368,
-      "added_stars": "71 stars this week"
-    },
-    {
-      "title": "nikitabobko / AeroSpace",
-      "url": "https://github.com/nikitabobko/AeroSpace",
-      "description": "AeroSpace is an i3-like tiling window manager for macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 22207,
-      "forks": 615,
-      "added_stars": "196 stars this week"
+      "stars": 2289,
+      "forks": 493,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "quoid / userscripts",
@@ -100,19 +60,39 @@
       "description": "An open-source userscript manager for Safari",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4689,
+      "stars": 4691,
       "forks": 435,
-      "added_stars": "19 stars this week"
+      "added_stars": "21 stars this week"
     },
     {
-      "title": "github / CopilotForXcode",
-      "url": "https://github.com/github/CopilotForXcode",
-      "description": "AI coding assistant for Xcode",
+      "title": "TelegramMessenger / Telegram-iOS",
+      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 6247,
-      "forks": 1962,
-      "added_stars": "20 stars this week"
+      "stars": 8822,
+      "forks": 2773,
+      "added_stars": "39 stars this week"
+    },
+    {
+      "title": "swiftlang / swift",
+      "url": "https://github.com/swiftlang/swift",
+      "description": "The Swift Programming Language",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 70226,
+      "forks": 10788,
+      "added_stars": "29 stars this week"
+    },
+    {
+      "title": "ronitsingh10 / FineTune",
+      "url": "https://github.com/ronitsingh10/FineTune",
+      "description": "FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 8567,
+      "forks": 295,
+      "added_stars": "126 stars this week"
     },
     {
       "title": "Ranchero-Software / NetNewsWire",
@@ -120,19 +100,19 @@
       "description": "RSS reader for macOS and iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 10264,
+      "stars": 10263,
       "forks": 732,
-      "added_stars": "29 stars this week"
+      "added_stars": "27 stars this week"
     },
     {
-      "title": "iina / iina",
-      "url": "https://github.com/iina/iina",
-      "description": "The modern video player for macOS.",
+      "title": "nikitabobko / AeroSpace",
+      "url": "https://github.com/nikitabobko/AeroSpace",
+      "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 45824,
-      "forks": 2883,
-      "added_stars": "97 stars this week"
+      "stars": 22240,
+      "forks": 615,
+      "added_stars": "217 stars this week"
     },
     {
       "title": "apple / swift-nio",
@@ -140,9 +120,29 @@
       "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8500,
+      "stars": 8501,
       "forks": 780,
-      "added_stars": "3 stars this week"
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "FluidInference / FluidAudio",
+      "url": "https://github.com/FluidInference/FluidAudio",
+      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2623,
+      "forks": 368,
+      "added_stars": "65 stars this week"
+    },
+    {
+      "title": "Alamofire / Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 42411,
+      "forks": 7663,
+      "added_stars": "12 stars this week"
     }
   ]
 }

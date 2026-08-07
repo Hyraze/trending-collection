@@ -2,27 +2,27 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
+    {
+      "title": "microsoft / microsoft-ui-xaml",
+      "url": "https://github.com/microsoft/microsoft-ui-xaml",
+      "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 7833,
+      "forks": 874,
+      "added_stars": "42 stars this week"
+    },
     {
       "title": "geo-tp / ESP32-Bit-Pirate",
       "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5341,
+      "stars": 5356,
       "forks": 430,
-      "added_stars": "873 stars this week"
-    },
-    {
-      "title": "aria2 / aria2",
-      "url": "https://github.com/aria2/aria2",
-      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41651,
-      "forks": 3887,
-      "added_stars": "91 stars this week"
+      "added_stars": "737 stars this week"
     },
     {
       "title": "godotengine / godot",
@@ -30,109 +30,9 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 115228,
-      "forks": 26257,
-      "added_stars": "517 stars this week"
-    },
-    {
-      "title": "MaaAssistantArknights / MaaAssistantArknights",
-      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
-      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 22347,
-      "forks": 2758,
-      "added_stars": "198 stars this week"
-    },
-    {
-      "title": "microsoft / microsoft-ui-xaml",
-      "url": "https://github.com/microsoft/microsoft-ui-xaml",
-      "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 7829,
-      "forks": 873,
-      "added_stars": "48 stars this week"
-    },
-    {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 196881,
-      "forks": 75874,
-      "added_stars": "340 stars this week"
-    },
-    {
-      "title": "lightvector / KataGo",
-      "url": "https://github.com/lightvector/KataGo",
-      "description": "GTP engine and self-play learning in Go",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 4922,
-      "forks": 740,
-      "added_stars": "49 stars this week"
-    },
-    {
-      "title": "k4yt3x / video2x",
-      "url": "https://github.com/k4yt3x/video2x",
-      "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 20755,
-      "forks": 1797,
-      "added_stars": "97 stars this week"
-    },
-    {
-      "title": "wazuh / wazuh",
-      "url": "https://github.com/wazuh/wazuh",
-      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 16430,
-      "forks": 2420,
-      "added_stars": "105 stars this week"
-    },
-    {
-      "title": "grpc / grpc",
-      "url": "https://github.com/grpc/grpc",
-      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 45253,
-      "forks": 11351,
-      "added_stars": "55 stars this week"
-    },
-    {
-      "title": "argotorg / solidity",
-      "url": "https://github.com/argotorg/solidity",
-      "description": "Solidity, the Smart Contract Programming Language",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 25694,
-      "forks": 6145,
-      "added_stars": "26 stars this week"
-    },
-    {
-      "title": "MariaDB / server",
-      "url": "https://github.com/MariaDB/server",
-      "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8039,
-      "forks": 2082,
-      "added_stars": "140 stars this week"
-    },
-    {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 122848,
-      "forks": 21369,
-      "added_stars": "951 stars this week"
+      "stars": 115283,
+      "forks": 26273,
+      "added_stars": "519 stars this week"
     },
     {
       "title": "FEX-Emu / FEX",
@@ -140,9 +40,99 @@
       "description": "A fast usermode x86 and x86-64 emulator for Arm64 Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7823,
-      "forks": 311,
-      "added_stars": "73 stars this week"
+      "stars": 7827,
+      "forks": 313,
+      "added_stars": "71 stars this week"
+    },
+    {
+      "title": "MaaAssistantArknights / MaaAssistantArknights",
+      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 22359,
+      "forks": 2761,
+      "added_stars": "190 stars this week"
+    },
+    {
+      "title": "lightvector / KataGo",
+      "url": "https://github.com/lightvector/KataGo",
+      "description": "GTP engine and self-play learning in Go",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4928,
+      "forks": 738,
+      "added_stars": "50 stars this week"
+    },
+    {
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 196896,
+      "forks": 75903,
+      "added_stars": "356 stars this week"
+    },
+    {
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 122937,
+      "forks": 21400,
+      "added_stars": "921 stars this week"
+    },
+    {
+      "title": "MariaDB / server",
+      "url": "https://github.com/MariaDB/server",
+      "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8052,
+      "forks": 2082,
+      "added_stars": "146 stars this week"
+    },
+    {
+      "title": "aria2 / aria2",
+      "url": "https://github.com/aria2/aria2",
+      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41660,
+      "forks": 3888,
+      "added_stars": "88 stars this week"
+    },
+    {
+      "title": "trustwallet / wallet-core",
+      "url": "https://github.com/trustwallet/wallet-core",
+      "description": "Cross-platform, cross-blockchain wallet library.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 3547,
+      "forks": 1970,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "wazuh / wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16445,
+      "forks": 2422,
+      "added_stars": "111 stars this week"
+    },
+    {
+      "title": "argotorg / solidity",
+      "url": "https://github.com/argotorg/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 25693,
+      "forks": 6143,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "ClickHouse / ClickHouse",
@@ -150,39 +140,9 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 49086,
-      "forks": 8749,
-      "added_stars": "162 stars this week"
-    },
-    {
-      "title": "cifertech / ESP32-DIV",
-      "url": "https://github.com/cifertech/ESP32-DIV",
-      "description": "ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3665,
-      "forks": 499,
-      "added_stars": "97 stars this week"
-    },
-    {
-      "title": "twelvesec / PwnPad",
-      "url": "https://github.com/twelvesec/PwnPad",
-      "description": "PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It features a range of challenges that walk users through key hardware security concepts, from PCB design to side-channel attacks.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1181,
-      "forks": 110,
-      "added_stars": "195 stars this week"
-    },
-    {
-      "title": "microsoft / winget-cli",
-      "url": "https://github.com/microsoft/winget-cli",
-      "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 26279,
-      "forks": 1770,
-      "added_stars": "48 stars this week"
+      "stars": 49101,
+      "forks": 8754,
+      "added_stars": "169 stars this week"
     },
     {
       "title": "orailnoor / cross-platform-llm-client",
@@ -190,39 +150,69 @@
       "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 815,
-      "forks": 172,
-      "added_stars": "123 stars this week"
+      "stars": 836,
+      "forks": 175,
+      "added_stars": "143 stars this week"
     },
     {
-      "title": "brave / brave-core",
-      "url": "https://github.com/brave/brave-core",
-      "description": "Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues",
+      "title": "RPCS3 / rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3",
+      "description": "PlayStation 3 emulator and debugger",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3474,
-      "forks": 1370,
-      "added_stars": "22 stars this week"
+      "stars": 19377,
+      "forks": 2367,
+      "added_stars": "74 stars this week"
     },
     {
-      "title": "electron / electron",
-      "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "title": "dyang886 / Game-Cheats-Manager",
+      "url": "https://github.com/dyang886/Game-Cheats-Manager",
+      "description": "Easily download and manage single-player game cheats for your convenience",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 122365,
-      "forks": 17381,
-      "added_stars": "180 stars this week"
+      "stars": 13955,
+      "forks": 477,
+      "added_stars": "330 stars this week"
     },
     {
-      "title": "duckdb / duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
+      "title": "osquery / osquery",
+      "url": "https://github.com/osquery/osquery",
+      "description": "SQL powered operating system instrumentation, monitoring, and analytics.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 40031,
-      "forks": 3521,
-      "added_stars": "227 stars this week"
+      "stars": 23431,
+      "forks": 2589,
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "deepseek-ai / FlashMLA",
+      "url": "https://github.com/deepseek-ai/FlashMLA",
+      "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 12824,
+      "forks": 1115,
+      "added_stars": "38 stars this week"
+    },
+    {
+      "title": "MarlinFirmware / Marlin",
+      "url": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers. Marlin supports all common platforms. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 17516,
+      "forks": 19720,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "mltframework / shotcut",
+      "url": "https://github.com/mltframework/shotcut",
+      "description": "cross-platform (Qt), open-source (GPLv3) video editor",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 14855,
+      "forks": 1464,
+      "added_stars": "190 stars this week"
     }
   ]
 }

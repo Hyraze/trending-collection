@@ -4,7 +4,7 @@
   <title>GitHub Julia Languages Daily Trending</title>
   <description>Daily Trending of Julia Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
   <item>
     <title>JuliaLang / julia</title>
     <link>https://github.com/JuliaLang/julia</link>
@@ -21,6 +21,11 @@
     <description>🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs</description>
   </item>
   <item>
+    <title>CliMA / ClimaAtmos.jl</title>
+    <link>https://github.com/CliMA/ClimaAtmos.jl</link>
+    <description>GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning</description>
+  </item>
+  <item>
     <title>CliMA / ClimaCore.jl</title>
     <link>https://github.com/CliMA/ClimaCore.jl</link>
     <description>GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools</description>
@@ -31,19 +36,9 @@
     <description>ClimaCoupler: bringing atmosphere, land, and ocean together</description>
   </item>
   <item>
-    <title>CliMA / ClimaAtmos.jl</title>
-    <link>https://github.com/CliMA/ClimaAtmos.jl</link>
-    <description>GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning</description>
-  </item>
-  <item>
     <title>MakieOrg / Makie.jl</title>
     <link>https://github.com/MakieOrg/Makie.jl</link>
     <description>Interactive data visualizations and plotting in Julia</description>
-  </item>
-  <item>
-    <title>oscar-system / Oscar.jl</title>
-    <link>https://github.com/oscar-system/Oscar.jl</link>
-    <description>A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.</description>
   </item>
 </channel>
 </rss>

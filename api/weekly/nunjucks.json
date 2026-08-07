@@ -2,18 +2,8 @@
   "title": "GitHub Nunjucks Languages Daily Trending",
   "description": "Daily Trending of Nunjucks Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
-    {
-      "title": "GoogleChrome / web.dev",
-      "url": "https://github.com/GoogleChrome/web.dev",
-      "description": "The frontend, backend, and content source code for web.dev",
-      "language": "Nunjucks",
-      "languageColor": "#3d8137",
-      "stars": 3613,
-      "forks": 1542,
-      "added_stars": "1 star this week"
-    },
     {
       "title": "a11yproject / a11yproject.com",
       "url": "https://github.com/a11yproject/a11yproject.com",
@@ -25,13 +15,33 @@
       "added_stars": "3 stars this week"
     },
     {
+      "title": "h5bp / Front-end-Developer-Interview-Questions",
+      "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+      "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+      "language": "Nunjucks",
+      "languageColor": "#3d8137",
+      "stars": 60886,
+      "forks": 11006,
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "GoogleChrome / web.dev",
+      "url": "https://github.com/GoogleChrome/web.dev",
+      "description": "The frontend, backend, and content source code for web.dev",
+      "language": "Nunjucks",
+      "languageColor": "#3d8137",
+      "stars": 3613,
+      "forks": 1542,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "xdesro / personalsit.es",
       "url": "https://github.com/xdesro/personalsit.es",
       "description": "📇 A little directory of people's personal sites",
       "language": "Nunjucks",
       "languageColor": "#3d8137",
       "stars": 951,
-      "forks": 1013,
+      "forks": 1014,
       "added_stars": "1 star this week"
     }
   ]

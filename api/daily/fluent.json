@@ -2,17 +2,27 @@
   "title": "GitHub Fluent Languages Daily Trending",
   "description": "Daily Trending of Fluent Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
+    {
+      "title": "qarmin / czkawka",
+      "url": "https://github.com/qarmin/czkawka",
+      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "language": "Fluent",
+      "languageColor": "#ffcc33",
+      "stars": 32537,
+      "forks": 1133,
+      "added_stars": "33 stars today"
+    },
     {
       "title": "janeczku / calibre-web",
       "url": "https://github.com/janeczku/calibre-web",
       "description": "📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": 17819,
+      "stars": 17824,
       "forks": 1825,
-      "added_stars": "6 stars today"
+      "added_stars": "8 stars today"
     }
   ]
 }

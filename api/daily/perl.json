@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
       "title": "brendangregg / FlameGraph",
@@ -10,9 +10,9 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19651,
+      "stars": 19653,
       "forks": 2105,
-      "added_stars": "4 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "glpi-project / glpi-agent",
@@ -20,9 +20,9 @@
       "description": "GLPI Agent",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 466,
+      "stars": 467,
       "forks": 119,
-      "added_stars": "0 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "lm-sensors / lm-sensors",
@@ -30,18 +30,58 @@
       "description": "lm-sensors repository",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1128,
+      "stars": 1129,
       "forks": 298,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "inverse-inc / packetfence",
+      "url": "https://github.com/inverse-inc/packetfence",
+      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1663,
+      "forks": 321,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "metomi / fcm",
+      "url": "https://github.com/metomi/fcm",
+      "description": "🔨 FCM: a modern Fortran build system + wrappers to Subversion for scientific software development",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 44,
+      "forks": 17,
       "added_stars": "0 stars today"
     },
     {
-      "title": "manwar / perlweeklychallenge-club",
-      "url": "https://github.com/manwar/perlweeklychallenge-club",
-      "description": "Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…",
+      "title": "exiftool / exiftool",
+      "url": "https://github.com/exiftool/exiftool",
+      "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 220,
-      "forks": 353,
+      "stars": 4931,
+      "forks": 467,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "AlDanial / cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 23402,
+      "forks": 1119,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "OpenKore / openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1502,
+      "forks": 1214,
       "added_stars": "0 stars today"
     },
     {
@@ -55,64 +95,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "os-autoinst / os-autoinst-distri-opensuse",
-      "url": "https://github.com/os-autoinst/os-autoinst-distri-opensuse",
-      "description": "os-autoinst test cases for openSUSE",
+      "title": "awsdocs / aws-cdk-guide",
+      "url": "https://github.com/awsdocs/aws-cdk-guide",
+      "description": "User guide for the AWS Cloud Development Kit (CDK).",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 92,
-      "forks": 301,
+      "stars": 365,
+      "forks": 230,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "Perl / perl5",
-      "url": "https://github.com/Perl/perl5",
-      "description": "🐪 The Perl programming language",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 2310,
-      "forks": 636,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "adrienverge / openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3380,
-      "forks": 375,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "Zimbra / zm-build",
-      "url": "https://github.com/Zimbra/zm-build",
-      "description": "zm-build for Zimbra Collaboration Suite, FOSS Edition",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 240,
-      "forks": 103,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "AlDanial / cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 23400,
-      "forks": 1119,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "exiftool / exiftool",
-      "url": "https://github.com/exiftool/exiftool",
-      "description": "ExifTool meta information reader/writer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 4927,
-      "forks": 466,
-      "added_stars": "4 stars today"
     }
   ]
 }

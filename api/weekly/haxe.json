@@ -2,8 +2,18 @@
   "title": "GitHub Haxe Languages Daily Trending",
   "description": "Daily Trending of Haxe Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
+    {
+      "title": "FunkinCrew / Funkin",
+      "url": "https://github.com/FunkinCrew/Funkin",
+      "description": "A rhythm game made with HaxeFlixel",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": 3707,
+      "forks": 2536,
+      "added_stars": "15 stars this week"
+    },
     {
       "title": "CodenameCrew / CodenameEngine",
       "url": "https://github.com/CodenameCrew/CodenameEngine",
@@ -11,18 +21,8 @@
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": 462,
-      "forks": 350,
+      "forks": 351,
       "added_stars": "3 stars this week"
-    },
-    {
-      "title": "FunkinCrew / Funkin",
-      "url": "https://github.com/FunkinCrew/Funkin",
-      "description": "A rhythm game made with HaxeFlixel",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": 3706,
-      "forks": 2534,
-      "added_stars": "13 stars this week"
     },
     {
       "title": "Psych-Slice / P-Slice",
@@ -31,7 +31,7 @@
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": 164,
-      "forks": 116,
+      "forks": 117,
       "added_stars": "2 stars this week"
     },
     {
@@ -50,9 +50,9 @@
       "description": "Haxe - The Cross-Platform Toolkit",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": 6904,
+      "stars": 6905,
       "forks": 704,
-      "added_stars": "4 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "Snirozu / Funkin-Psych-Online",
@@ -61,7 +61,7 @@
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": 100,
-      "forks": 85,
+      "forks": 84,
       "added_stars": "1 star this week"
     }
   ]

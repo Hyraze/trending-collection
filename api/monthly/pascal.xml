@@ -4,7 +4,7 @@
   <title>GitHub Pascal Languages Daily Trending</title>
   <description>Daily Trending of Pascal Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>cheat-engine / cheat-engine</title>
     <link>https://github.com/cheat-engine/cheat-engine</link>
@@ -41,14 +41,14 @@
     <description>A fast, portable, simple, and free C/C++ IDE</description>
   </item>
   <item>
-    <title>FrankBijnen / ExifToolGui</title>
-    <link>https://github.com/FrankBijnen/ExifToolGui</link>
-    <description>A GUI for ExifTool</description>
-  </item>
-  <item>
     <title>UltraStar-Deluxe / USDX</title>
     <link>https://github.com/UltraStar-Deluxe/USDX</link>
     <description>The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™</description>
+  </item>
+  <item>
+    <title>FrankBijnen / ExifToolGui</title>
+    <link>https://github.com/FrankBijnen/ExifToolGui</link>
+    <description>A GUI for ExifTool</description>
   </item>
   <item>
     <title>TES5Edit / TES5Edit</title>
@@ -79,6 +79,16 @@
     <title>lmbelo / pyscripter</title>
     <link>https://github.com/lmbelo/pyscripter</link>
     <description>Pyscripter is a feature-rich but lightweight Python IDE</description>
+  </item>
+  <item>
+    <title>pleumann / pasta80</title>
+    <link>https://github.com/pleumann/pasta80</link>
+    <description>Turbo Pascal 3.0-compatible compiler that generates machine code for classic and modern Z80 machines (currently CP/M, the Sinclair ZX Spectrum 48K/128K/Next, and the Agon Light/Console8).</description>
+  </item>
+  <item>
+    <title>HeidiSQL / HeidiSQL</title>
+    <link>https://github.com/HeidiSQL/HeidiSQL</link>
+    <description>A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal</description>
   </item>
 </channel>
 </rss>

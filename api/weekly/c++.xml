@@ -4,16 +4,16 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
+  <item>
+    <title>microsoft / microsoft-ui-xaml</title>
+    <link>https://github.com/microsoft/microsoft-ui-xaml</link>
+    <description>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</description>
+  </item>
   <item>
     <title>geo-tp / ESP32-Bit-Pirate</title>
     <link>https://github.com/geo-tp/ESP32-Bit-Pirate</link>
     <description>A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol</description>
-  </item>
-  <item>
-    <title>aria2 / aria2</title>
-    <link>https://github.com/aria2/aria2</link>
-    <description>aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.</description>
   </item>
   <item>
     <title>godotengine / godot</title>
@@ -21,19 +21,14 @@
     <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
   </item>
   <item>
+    <title>FEX-Emu / FEX</title>
+    <link>https://github.com/FEX-Emu/FEX</link>
+    <description>A fast usermode x86 and x86-64 emulator for Arm64 Linux</description>
+  </item>
+  <item>
     <title>MaaAssistantArknights / MaaAssistantArknights</title>
     <link>https://github.com/MaaAssistantArknights/MaaAssistantArknights</link>
     <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
-  </item>
-  <item>
-    <title>microsoft / microsoft-ui-xaml</title>
-    <link>https://github.com/microsoft/microsoft-ui-xaml</link>
-    <description>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</description>
-  </item>
-  <item>
-    <title>tensorflow / tensorflow</title>
-    <link>https://github.com/tensorflow/tensorflow</link>
-    <description>An Open Source Machine Learning Framework for Everyone</description>
   </item>
   <item>
     <title>lightvector / KataGo</title>
@@ -41,29 +36,9 @@
     <description>GTP engine and self-play learning in Go</description>
   </item>
   <item>
-    <title>k4yt3x / video2x</title>
-    <link>https://github.com/k4yt3x/video2x</link>
-    <description>A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.</description>
-  </item>
-  <item>
-    <title>wazuh / wazuh</title>
-    <link>https://github.com/wazuh/wazuh</link>
-    <description>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</description>
-  </item>
-  <item>
-    <title>grpc / grpc</title>
-    <link>https://github.com/grpc/grpc</link>
-    <description>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</description>
-  </item>
-  <item>
-    <title>argotorg / solidity</title>
-    <link>https://github.com/argotorg/solidity</link>
-    <description>Solidity, the Smart Contract Programming Language</description>
-  </item>
-  <item>
-    <title>MariaDB / server</title>
-    <link>https://github.com/MariaDB/server</link>
-    <description>MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.</description>
+    <title>tensorflow / tensorflow</title>
+    <link>https://github.com/tensorflow/tensorflow</link>
+    <description>An Open Source Machine Learning Framework for Everyone</description>
   </item>
   <item>
     <title>ggml-org / llama.cpp</title>
@@ -71,9 +46,29 @@
     <description>LLM inference in C/C++</description>
   </item>
   <item>
-    <title>FEX-Emu / FEX</title>
-    <link>https://github.com/FEX-Emu/FEX</link>
-    <description>A fast usermode x86 and x86-64 emulator for Arm64 Linux</description>
+    <title>MariaDB / server</title>
+    <link>https://github.com/MariaDB/server</link>
+    <description>MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.</description>
+  </item>
+  <item>
+    <title>aria2 / aria2</title>
+    <link>https://github.com/aria2/aria2</link>
+    <description>aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.</description>
+  </item>
+  <item>
+    <title>trustwallet / wallet-core</title>
+    <link>https://github.com/trustwallet/wallet-core</link>
+    <description>Cross-platform, cross-blockchain wallet library.</description>
+  </item>
+  <item>
+    <title>wazuh / wazuh</title>
+    <link>https://github.com/wazuh/wazuh</link>
+    <description>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</description>
+  </item>
+  <item>
+    <title>argotorg / solidity</title>
+    <link>https://github.com/argotorg/solidity</link>
+    <description>Solidity, the Smart Contract Programming Language</description>
   </item>
   <item>
     <title>ClickHouse / ClickHouse</title>
@@ -81,39 +76,39 @@
     <description>ClickHouse® is a real-time analytics database management system</description>
   </item>
   <item>
-    <title>cifertech / ESP32-DIV</title>
-    <link>https://github.com/cifertech/ESP32-DIV</link>
-    <description>ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32</description>
-  </item>
-  <item>
-    <title>twelvesec / PwnPad</title>
-    <link>https://github.com/twelvesec/PwnPad</link>
-    <description>PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It features a range of challenges that walk users through key hardware security concepts, from PCB design to side-channel attacks.</description>
-  </item>
-  <item>
-    <title>microsoft / winget-cli</title>
-    <link>https://github.com/microsoft/winget-cli</link>
-    <description>WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).</description>
-  </item>
-  <item>
     <title>orailnoor / cross-platform-llm-client</title>
     <link>https://github.com/orailnoor/cross-platform-llm-client</link>
     <description>A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.</description>
   </item>
   <item>
-    <title>brave / brave-core</title>
-    <link>https://github.com/brave/brave-core</link>
-    <description>Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues</description>
+    <title>RPCS3 / rpcs3</title>
+    <link>https://github.com/RPCS3/rpcs3</link>
+    <description>PlayStation 3 emulator and debugger</description>
   </item>
   <item>
-    <title>electron / electron</title>
-    <link>https://github.com/electron/electron</link>
-    <description>Build cross-platform desktop apps with JavaScript, HTML, and CSS</description>
+    <title>dyang886 / Game-Cheats-Manager</title>
+    <link>https://github.com/dyang886/Game-Cheats-Manager</link>
+    <description>Easily download and manage single-player game cheats for your convenience</description>
   </item>
   <item>
-    <title>duckdb / duckdb</title>
-    <link>https://github.com/duckdb/duckdb</link>
-    <description>DuckDB is an analytical in-process SQL database management system</description>
+    <title>osquery / osquery</title>
+    <link>https://github.com/osquery/osquery</link>
+    <description>SQL powered operating system instrumentation, monitoring, and analytics.</description>
+  </item>
+  <item>
+    <title>deepseek-ai / FlashMLA</title>
+    <link>https://github.com/deepseek-ai/FlashMLA</link>
+    <description>FlashMLA: Efficient Multi-head Latent Attention Kernels</description>
+  </item>
+  <item>
+    <title>MarlinFirmware / Marlin</title>
+    <link>https://github.com/MarlinFirmware/Marlin</link>
+    <description>Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers. Marlin supports all common platforms. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.</description>
+  </item>
+  <item>
+    <title>mltframework / shotcut</title>
+    <link>https://github.com/mltframework/shotcut</link>
+    <description>cross-platform (Qt), open-source (GPLv3) video editor</description>
   </item>
 </channel>
 </rss>

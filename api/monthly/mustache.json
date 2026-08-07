@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "prometheus-community / helm-charts",
@@ -11,8 +11,8 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": 6165,
-      "forks": 5378,
-      "added_stars": "20 stars this month"
+      "forks": 5380,
+      "added_stars": "19 stars this month"
     },
     {
       "title": "renovatebot / helm-charts",
@@ -32,7 +32,7 @@
       "languageColor": "#724b3b",
       "stars": 17779,
       "forks": 5966,
-      "added_stars": "27 stars this month"
+      "added_stars": "26 stars this month"
     },
     {
       "title": "amzn / selling-partner-api-models",
@@ -50,19 +50,9 @@
       "description": "ArgoProj Helm Charts",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 2338,
-      "forks": 2100,
-      "added_stars": "19 stars this month"
-    },
-    {
-      "title": "goharbor / harbor-helm",
-      "url": "https://github.com/goharbor/harbor-helm",
-      "description": "The helm chart to deploy Harbor",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 1510,
-      "forks": 862,
-      "added_stars": "6 stars this month"
+      "stars": 2339,
+      "forks": 2097,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "aws / eks-charts",
@@ -75,6 +65,16 @@
       "added_stars": "3 stars this month"
     },
     {
+      "title": "goharbor / harbor-helm",
+      "url": "https://github.com/goharbor/harbor-helm",
+      "description": "The helm chart to deploy Harbor",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 1510,
+      "forks": 862,
+      "added_stars": "6 stars this month"
+    },
+    {
       "title": "temporalio / helm-charts",
       "url": "https://github.com/temporalio/helm-charts",
       "description": "Temporal Helm charts",
@@ -82,7 +82,7 @@
       "languageColor": "#724b3b",
       "stars": 554,
       "forks": 447,
-      "added_stars": "7 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "goauthentik / helm",
@@ -93,16 +93,6 @@
       "stars": 181,
       "forks": 67,
       "added_stars": "3 stars this month"
-    },
-    {
-      "title": "netbox-community / netbox-chart",
-      "url": "https://github.com/netbox-community/netbox-chart",
-      "description": "A Helm chart for NetBox",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 352,
-      "forks": 185,
-      "added_stars": "7 stars this month"
     }
   ]
 }

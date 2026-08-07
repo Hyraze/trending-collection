@@ -2,17 +2,27 @@
   "title": "GitHub Tex Languages Daily Trending",
   "description": "Daily Trending of Tex Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
-      "title": "zhanwen / MathModel",
-      "url": "https://github.com/zhanwen/MathModel",
-      "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
+      "title": "sb2nov / resume",
+      "url": "https://github.com/sb2nov/resume",
+      "description": "Software developer resume in Latex",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 11072,
-      "forks": 2261,
-      "added_stars": "20 stars today"
+      "stars": 6881,
+      "forks": 1879,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "posquit0 / Awesome-CV",
+      "url": "https://github.com/posquit0/Awesome-CV",
+      "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 28242,
+      "forks": 5297,
+      "added_stars": "13 stars today"
     },
     {
       "title": "dart-lang / language",
@@ -22,46 +32,6 @@
       "languageColor": "#3D6117",
       "stars": 2928,
       "forks": 236,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "billryan / resume",
-      "url": "https://github.com/billryan/resume",
-      "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 11316,
-      "forks": 2870,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "posquit0 / Awesome-CV",
-      "url": "https://github.com/posquit0/Awesome-CV",
-      "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 28232,
-      "forks": 5297,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "HarisIqbal88 / PlotNeuralNet",
-      "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
-      "description": "Latex code for making neural networks diagrams",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 24934,
-      "forks": 3062,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "riscv / riscv-isa-manual",
-      "url": "https://github.com/riscv/riscv-isa-manual",
-      "description": "RISC-V Instruction Set Manual",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 4746,
-      "forks": 857,
       "added_stars": "0 stars today"
     },
     {
@@ -70,29 +40,59 @@
       "description": "Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 6388,
-      "forks": 1943,
-      "added_stars": "0 stars today"
+      "stars": 6391,
+      "forks": 1944,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "tuhdo / os01",
-      "url": "https://github.com/tuhdo/os01",
-      "description": "Bootstrap yourself to write an OS from scratch. A book for self-learner.",
+      "title": "latex3 / latex2e",
+      "url": "https://github.com/latex3/latex2e",
+      "description": "The LaTeX2e kernel",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 13657,
-      "forks": 792,
+      "stars": 2441,
+      "forks": 315,
       "added_stars": "1 star today"
     },
     {
-      "title": "sb2nov / resume",
-      "url": "https://github.com/sb2nov/resume",
-      "description": "Software developer resume in Latex",
+      "title": "cplusplus / draft",
+      "url": "https://github.com/cplusplus/draft",
+      "description": "C++ standards drafts",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 6875,
-      "forks": 1878,
-      "added_stars": "9 stars today"
+      "stars": 191,
+      "forks": 814,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "zhanwen / MathModel",
+      "url": "https://github.com/zhanwen/MathModel",
+      "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 11091,
+      "forks": 2265,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "riscv / riscv-isa-manual",
+      "url": "https://github.com/riscv/riscv-isa-manual",
+      "description": "RISC-V Instruction Set Manual",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 4747,
+      "forks": 860,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "HarisIqbal88 / PlotNeuralNet",
+      "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+      "description": "Latex code for making neural networks diagrams",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 24934,
+      "forks": 3061,
+      "added_stars": "2 stars today"
     },
     {
       "title": "lervag / vimtex",
@@ -100,9 +100,19 @@
       "description": "VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 6330,
+      "stars": 6333,
       "forks": 415,
-      "added_stars": "1 star today"
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "lib-pku / libpku",
+      "url": "https://github.com/lib-pku/libpku",
+      "description": "贵校课程资料民间整理",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 33764,
+      "forks": 8213,
+      "added_stars": "6 stars today"
     }
   ]
 }

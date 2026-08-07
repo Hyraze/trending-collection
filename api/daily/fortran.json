@@ -2,46 +2,16 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "title": "MetOffice / lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 436,
-      "forks": 475,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1727,
-      "forks": 868,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "OpenFAST / openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 944,
-      "forks": 533,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "NGEET / fates",
-      "url": "https://github.com/NGEET/fates",
-      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 130,
-      "forks": 109,
+      "stars": 26,
+      "forks": 67,
       "added_stars": "0 stars today"
     },
     {
@@ -55,33 +25,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "Reference-LAPACK / lapack",
-      "url": "https://github.com/Reference-LAPACK/lapack",
-      "description": "LAPACK development repository",
+      "title": "MetOffice / lfric_apps",
+      "url": "https://github.com/MetOffice/lfric_apps",
+      "description": "LFRic Applications",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1883,
-      "forks": 510,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1178,
-      "forks": 492,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "MetOffice / lfric_core",
-      "url": "https://github.com/MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 26,
-      "forks": 67,
+      "stars": 31,
+      "forks": 108,
       "added_stars": "0 stars today"
     },
     {
@@ -92,6 +42,46 @@
       "languageColor": "#4d41b1",
       "stars": 54,
       "forks": 19,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1727,
+      "forks": 867,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "OpenFAST / openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 944,
+      "forks": 533,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1180,
+      "forks": 491,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "NGEET / fates",
+      "url": "https://github.com/NGEET/fates",
+      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 130,
+      "forks": 109,
       "added_stars": "0 stars today"
     }
   ]

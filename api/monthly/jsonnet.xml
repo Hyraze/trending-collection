@@ -4,7 +4,7 @@
   <title>GitHub Jsonnet Languages Daily Trending</title>
   <description>Daily Trending of Jsonnet Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>kubernetes-monitoring / kubernetes-mixin</title>
     <link>https://github.com/kubernetes-monitoring/kubernetes-mixin</link>
@@ -19,6 +19,11 @@
     <title>argoproj / argocd-example-apps</title>
     <link>https://github.com/argoproj/argocd-example-apps</link>
     <description>Example Apps to Demonstrate Argo CD</description>
+  </item>
+  <item>
+    <title>google / jsonnet</title>
+    <link>https://github.com/google/jsonnet</link>
+    <description>Jsonnet - The data templating language</description>
   </item>
 </channel>
 </rss>

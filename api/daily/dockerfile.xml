@@ -4,11 +4,16 @@
   <title>GitHub Dockerfile Languages Daily Trending</title>
   <description>Daily Trending of Dockerfile Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
   <item>
-    <title>autowarefoundation / autoware</title>
-    <link>https://github.com/autowarefoundation/autoware</link>
-    <description>Autoware - the world&#x27;s leading open-source software project for autonomous driving</description>
+    <title>datawhalechina / vibe-vibe</title>
+    <link>https://github.com/datawhalechina/vibe-vibe</link>
+    <description>AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn</description>
+  </item>
+  <item>
+    <title>laradock / laradock</title>
+    <link>https://github.com/laradock/laradock</link>
+    <description>Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch &amp; more.</description>
   </item>
   <item>
     <title>vulhub / vulhub</title>
@@ -16,29 +21,9 @@
     <description>Pre-Built Vulnerable Environments Based on Docker-Compose</description>
   </item>
   <item>
-    <title>nodejs / docker-node</title>
-    <link>https://github.com/nodejs/docker-node</link>
-    <description>Official Docker Image for Node.js 🐳 🐢 🚀</description>
-  </item>
-  <item>
-    <title>streetsidesoftware / cspell-cli</title>
-    <link>https://github.com/streetsidesoftware/cspell-cli</link>
-    <description>CSpell command line spell checker.</description>
-  </item>
-  <item>
     <title>redhat-openshift-ecosystem / certified-operators</title>
     <link>https://github.com/redhat-openshift-ecosystem/certified-operators</link>
     <description>Production catalog for Red Hat Certified Operator Bundles</description>
-  </item>
-  <item>
-    <title>oxsecurity / megalinter</title>
-    <link>https://github.com/oxsecurity/megalinter</link>
-    <description>🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</description>
-  </item>
-  <item>
-    <title>JawadTechYT / JAWAD-MD</title>
-    <link>https://github.com/JawadTechYT/JAWAD-MD</link>
-    <description>A simple WhatsApp bot to manage groups</description>
   </item>
   <item>
     <title>dotnet / dotnet-docker</title>
@@ -46,34 +31,54 @@
     <description>Official container images for .NET</description>
   </item>
   <item>
-    <title>goldbergyoni / nodebestpractices</title>
-    <link>https://github.com/goldbergyoni/nodebestpractices</link>
-    <description>✅ The Node.js best practices list (July 2026)</description>
-  </item>
-  <item>
-    <title>piyushsachdeva / CKA-2024</title>
-    <link>https://github.com/piyushsachdeva/CKA-2024</link>
-    <description>This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.</description>
-  </item>
-  <item>
-    <title>render-examples / mysql</title>
-    <link>https://github.com/render-examples/mysql</link>
-    <description>MySQL 8.0 and 5.7 on Render</description>
-  </item>
-  <item>
     <title>nordquant / dbt-student-repo</title>
     <link>https://github.com/nordquant/dbt-student-repo</link>
     <description>Starter Repository for the Complete dbt Bootcamp Zero to Hero Course</description>
   </item>
   <item>
-    <title>datawhalechina / vibe-vibe</title>
-    <link>https://github.com/datawhalechina/vibe-vibe</link>
-    <description>AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn</description>
+    <title>streetsidesoftware / cspell-cli</title>
+    <link>https://github.com/streetsidesoftware/cspell-cli</link>
+    <description>CSpell command line spell checker.</description>
   </item>
   <item>
-    <title>linuxserver / docker-unifi-network-application</title>
-    <link>https://github.com/linuxserver/docker-unifi-network-application</link>
+    <title>autowarefoundation / autoware</title>
+    <link>https://github.com/autowarefoundation/autoware</link>
+    <description>Autoware - the world&#x27;s leading open-source software project for autonomous driving</description>
+  </item>
+  <item>
+    <title>MicrosoftDocs / windows-powershell-docs</title>
+    <link>https://github.com/MicrosoftDocs/windows-powershell-docs</link>
+    <description>This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.</description>
+  </item>
+  <item>
+    <title>kubernetes-sigs / contributor-playground</title>
+    <link>https://github.com/kubernetes-sigs/contributor-playground</link>
     <description></description>
+  </item>
+  <item>
+    <title>oxsecurity / megalinter</title>
+    <link>https://github.com/oxsecurity/megalinter</link>
+    <description>🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</description>
+  </item>
+  <item>
+    <title>aws-amplify / amplify-hosting</title>
+    <link>https://github.com/aws-amplify/amplify-hosting</link>
+    <description>AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.</description>
+  </item>
+  <item>
+    <title>docker-library / python</title>
+    <link>https://github.com/docker-library/python</link>
+    <description>Docker Official Image packaging for Python</description>
+  </item>
+  <item>
+    <title>docker-library / php</title>
+    <link>https://github.com/docker-library/php</link>
+    <description>Docker Official Image packaging for PHP</description>
+  </item>
+  <item>
+    <title>piyushsachdeva / CKA-2024</title>
+    <link>https://github.com/piyushsachdeva/CKA-2024</link>
+    <description>This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.</description>
   </item>
 </channel>
 </rss>

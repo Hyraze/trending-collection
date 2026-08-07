@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,19 +10,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27330,
-      "forks": 7660,
-      "added_stars": "144 stars this month"
-    },
-    {
-      "title": "shinchiro / mpv-winbuild-cmake",
-      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
-      "description": "CMake-based MinGW-w64 Cross Toolchain",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1678,
-      "forks": 227,
-      "added_stars": "59 stars this month"
+      "stars": 27334,
+      "forks": 7662,
+      "added_stars": "143 stars this month"
     },
     {
       "title": "KIT-MRT / mrt_cmake_modules",
@@ -35,6 +25,16 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "shinchiro / mpv-winbuild-cmake",
+      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
+      "description": "CMake-based MinGW-w64 Cross Toolchain",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1683,
+      "forks": 227,
+      "added_stars": "57 stars this month"
+    },
+    {
       "title": "minecraft-linux / mcpelauncher-manifest",
       "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
       "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
@@ -42,7 +42,7 @@
       "languageColor": "#DA3434",
       "stars": 1605,
       "forks": 127,
-      "added_stars": "36 stars this month"
+      "added_stars": "38 stars this month"
     },
     {
       "title": "Andersama / obs-asio",
@@ -50,19 +50,9 @@
       "description": "ASIO plugin for OBS-Studio",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 835,
+      "stars": 836,
       "forks": 53,
       "added_stars": "5 stars this month"
-    },
-    {
-      "title": "KiCad / kicad-footprints",
-      "url": "https://github.com/KiCad/kicad-footprints",
-      "description": "Official KiCad Footprint Libraries for Kicad version 5",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 688,
-      "forks": 699,
-      "added_stars": "4 stars this month"
     },
     {
       "title": "arsenm / sanitizers-cmake",
@@ -75,14 +65,24 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "leetal / ios-cmake",
-      "url": "https://github.com/leetal/ios-cmake",
-      "description": "A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS & tvOS C/C++/Obj-C++ development",
+      "title": "KiCad / kicad-footprints",
+      "url": "https://github.com/KiCad/kicad-footprints",
+      "description": "Official KiCad Footprint Libraries for Kicad version 5",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 2175,
-      "forks": 464,
-      "added_stars": "6 stars this month"
+      "stars": 688,
+      "forks": 699,
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "jrl-umi3218 / jrl-cmakemodules",
+      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
+      "description": "CMake utility toolbox",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 78,
+      "forks": 57,
+      "added_stars": "1 star this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "koalaman / shellcheck",
@@ -10,8 +10,8 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 39821,
-      "forks": 1938,
+      "stars": 39827,
+      "forks": 1939,
       "added_stars": "204 stars this month"
     },
     {
@@ -20,9 +20,9 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19199,
-      "forks": 1327,
-      "added_stars": "1,541 stars this month"
+      "stars": 19205,
+      "forks": 1336,
+      "added_stars": "1,457 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -30,9 +30,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12336,
-      "forks": 502,
-      "added_stars": "81 stars this month"
+      "stars": 12338,
+      "forks": 501,
+      "added_stars": "78 stars this month"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -40,8 +40,8 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1505,
-      "forks": 64,
+      "stars": 1511,
+      "forks": 65,
       "added_stars": "217 stars this month"
     },
     {
@@ -62,7 +62,7 @@
       "languageColor": "#5e5086",
       "stars": 1743,
       "forks": 743,
-      "added_stars": "6 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
       "title": "IntersectMBO / cardano-node",
@@ -82,7 +82,7 @@
       "languageColor": "#5e5086",
       "stars": 4073,
       "forks": 848,
-      "added_stars": "7 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "jgm / pandoc",
@@ -90,9 +90,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 45726,
-      "forks": 3936,
-      "added_stars": "563 stars this month"
+      "stars": 45751,
+      "forks": 3939,
+      "added_stars": "570 stars this month"
     },
     {
       "title": "PostgREST / postgrest",
@@ -100,9 +100,19 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27496,
+      "stars": 27500,
       "forks": 1219,
-      "added_stars": "117 stars this month"
+      "added_stars": "114 stars this month"
+    },
+    {
+      "title": "simonmichael / hledger",
+      "url": "https://github.com/simonmichael/hledger",
+      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 4616,
+      "forks": 402,
+      "added_stars": "53 stars this month"
     },
     {
       "title": "mtolly / onyx",
@@ -115,6 +125,16 @@
       "added_stars": "4 stars this month"
     },
     {
+      "title": "haskell / haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2942,
+      "forks": 451,
+      "added_stars": "9 stars this month"
+    },
+    {
       "title": "clash-lang / clash-compiler",
       "url": "https://github.com/clash-lang/clash-compiler",
       "description": "Haskell to VHDL/Verilog/SystemVerilog compiler",
@@ -122,27 +142,17 @@
       "languageColor": "#5e5086",
       "stars": 1606,
       "forks": 168,
-      "added_stars": "12 stars this month"
+      "added_stars": "11 stars this month"
     },
     {
-      "title": "simonmichael / hledger",
-      "url": "https://github.com/simonmichael/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "title": "elm / compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4614,
-      "forks": 402,
-      "added_stars": "54 stars this month"
-    },
-    {
-      "title": "haskell / haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2941,
-      "forks": 451,
-      "added_stars": "8 stars this month"
+      "stars": 7854,
+      "forks": 688,
+      "added_stars": "50 stars this month"
     }
   ]
 }

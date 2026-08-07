@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "MoonshotAI / FlashKDA",
@@ -10,9 +10,9 @@
       "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1167,
+      "stars": 1172,
       "forks": 110,
-      "added_stars": "191 stars this week"
+      "added_stars": "74 stars this week"
     },
     {
       "title": "thu-ml / SageAttention",
@@ -20,9 +20,19 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3575,
-      "forks": 456,
-      "added_stars": "51 stars this week"
+      "stars": 3586,
+      "forks": 459,
+      "added_stars": "59 stars this week"
+    },
+    {
+      "title": "HazyResearch / ThunderKittens",
+      "url": "https://github.com/HazyResearch/ThunderKittens",
+      "description": "Tile primitives for speedy kernels",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3612,
+      "forks": 317,
+      "added_stars": "38 stars this week"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -30,9 +40,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 9951,
-      "forks": 1362,
-      "added_stars": "35 stars this week"
+      "stars": 9961,
+      "forks": 1363,
+      "added_stars": "42 stars this week"
     },
     {
       "title": "karpathy / llm.c",
@@ -40,29 +50,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30740,
-      "forks": 3720,
-      "added_stars": "72 stars this week"
-    },
-    {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1001,
-      "forks": 218,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "BBuf / how-to-optim-algorithm-in-cuda",
-      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
-      "description": "how to optimize some algorithm in cuda.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3185,
-      "forks": 289,
-      "added_stars": "18 stars this week"
+      "stars": 30745,
+      "forks": 3722,
+      "added_stars": "69 stars this week"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -70,9 +60,19 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7629,
-      "forks": 1153,
-      "added_stars": "44 stars this week"
+      "stars": 7632,
+      "forks": 1154,
+      "added_stars": "41 stars this week"
+    },
+    {
+      "title": "NVIDIA / cudf-spark-jni",
+      "url": "https://github.com/NVIDIA/cudf-spark-jni",
+      "description": "RAPIDS Accelerator JNI For Apache Spark",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 63,
+      "forks": 89,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "NVIDIA / cub",
@@ -85,34 +85,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "HazyResearch / ThunderKittens",
-      "url": "https://github.com/HazyResearch/ThunderKittens",
-      "description": "Tile primitives for speedy kernels",
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3608,
-      "forks": 316,
-      "added_stars": "34 stars this week"
-    },
-    {
-      "title": "NVIDIA / cudf-spark-jni",
-      "url": "https://github.com/NVIDIA/cudf-spark-jni",
-      "description": "RAPIDS Accelerator JNI For Apache Spark",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 63,
-      "forks": 89,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "NVIDIA / nvbench",
-      "url": "https://github.com/NVIDIA/nvbench",
-      "description": "CUDA Kernel Benchmarking Library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 913,
-      "forks": 116,
-      "added_stars": "1 star this week"
+      "stars": 1002,
+      "forks": 218,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "computerhistory / AlexNet-Source-Code",
@@ -122,7 +102,57 @@
       "languageColor": "#3A4E3A",
       "stars": 2961,
       "forks": 391,
-      "added_stars": "20 stars this week"
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1612,
+      "forks": 397,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "NVIDIA / nvbench",
+      "url": "https://github.com/NVIDIA/nvbench",
+      "description": "CUDA Kernel Benchmarking Library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 914,
+      "forks": 116,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "BBuf / how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3187,
+      "forks": 289,
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "rapidsai / cugraph",
+      "url": "https://github.com/rapidsai/cugraph",
+      "description": "cuGraph - RAPIDS Graph Analytics Library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2216,
+      "forks": 364,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2412,
+      "forks": 239,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "NVIDIA / cuCollections",
@@ -135,74 +165,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1612,
-      "forks": 397,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "rapidsai / cugraph",
-      "url": "https://github.com/rapidsai/cugraph",
-      "description": "cuGraph - RAPIDS Graph Analytics Library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2216,
-      "forks": 364,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "NVlabs / instant-ngp",
-      "url": "https://github.com/NVlabs/instant-ngp",
-      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 17512,
-      "forks": 2064,
-      "added_stars": "9 stars this week"
-    },
-    {
       "title": "NVIDIA / cuvs",
       "url": "https://github.com/NVIDIA/cuvs",
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 829,
-      "forks": 216,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "alibaba / rtp-llm",
-      "url": "https://github.com/alibaba/rtp-llm",
-      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1296,
-      "forks": 252,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "Dao-AILab / causal-conv1d",
-      "url": "https://github.com/Dao-AILab/causal-conv1d",
-      "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 930,
-      "forks": 202,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2409,
-      "forks": 239,
-      "added_stars": "13 stars this week"
+      "forks": 217,
+      "added_stars": "1 star this week"
     },
     {
       "title": "NVIDIA / raft",
@@ -210,9 +180,29 @@
       "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1035,
-      "forks": 243,
-      "added_stars": "4 stars this week"
+      "stars": 1036,
+      "forks": 244,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "Dao-AILab / causal-conv1d",
+      "url": "https://github.com/Dao-AILab/causal-conv1d",
+      "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 931,
+      "forks": 202,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "NVlabs / instant-ngp",
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 17515,
+      "forks": 2063,
+      "added_stars": "8 stars this week"
     }
   ]
 }

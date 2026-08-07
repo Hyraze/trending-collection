@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "github / copilot-sdk",
@@ -10,29 +10,9 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10354,
-      "forks": 1397,
-      "added_stars": "312 stars this week"
-    },
-    {
-      "title": "termux / termux-app",
-      "url": "https://github.com/termux/termux-app",
-      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 58734,
-      "forks": 7149,
-      "added_stars": "397 stars this week"
-    },
-    {
-      "title": "JabRef / jabref",
-      "url": "https://github.com/JabRef/jabref",
-      "description": "Desktop app for managing BibTeX and BibLaTeX (.bib) libraries",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4541,
-      "forks": 3494,
-      "added_stars": "57 stars this week"
+      "stars": 10357,
+      "forks": 1399,
+      "added_stars": "314 stars this week"
     },
     {
       "title": "iluwatar / java-design-patterns",
@@ -40,29 +20,19 @@
       "description": "Design patterns implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 94543,
-      "forks": 27417,
-      "added_stars": "207 stars this week"
+      "stars": 94552,
+      "forks": 27414,
+      "added_stars": "163 stars this week"
     },
     {
-      "title": "jenkinsci / jenkins",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "description": "Jenkins automation server",
+      "title": "termux / termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26421,
-      "forks": 9778,
-      "added_stars": "242 stars this week"
-    },
-    {
-      "title": "NationalSecurityAgency / ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 71955,
-      "forks": 7868,
-      "added_stars": "369 stars this week"
+      "stars": 58791,
+      "forks": 7149,
+      "added_stars": "404 stars this week"
     },
     {
       "title": "dbeaver / dbeaver",
@@ -70,19 +40,9 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 51310,
-      "forks": 4317,
-      "added_stars": "130 stars this week"
-    },
-    {
-      "title": "quarkusio / quarkus",
-      "url": "https://github.com/quarkusio/quarkus",
-      "description": "Quarkus: Supersonic Subatomic Java.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 15807,
-      "forks": 3261,
-      "added_stars": "19 stars this week"
+      "stars": 51332,
+      "forks": 4322,
+      "added_stars": "127 stars this week"
     },
     {
       "title": "DrKLO / Telegram",
@@ -91,128 +51,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 29669,
-      "forks": 9871,
-      "added_stars": "67 stars this week"
-    },
-    {
-      "title": "woheller69 / FreeDroidWarn",
-      "url": "https://github.com/woheller69/FreeDroidWarn",
-      "description": "",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 3052,
-      "forks": 109,
-      "added_stars": "87 stars this week"
-    },
-    {
-      "title": "Apicurio / apicurio-registry",
-      "url": "https://github.com/Apicurio/apicurio-registry",
-      "description": "An API/Schema registry - stores APIs and Schemas.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 895,
-      "forks": 552,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "TeamNewPipe / NewPipe",
-      "url": "https://github.com/TeamNewPipe/NewPipe",
-      "description": "A libre lightweight streaming front-end for Android.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 39244,
-      "forks": 3709,
-      "added_stars": "106 stars this week"
-    },
-    {
-      "title": "Creators-of-Create / Create",
-      "url": "https://github.com/Creators-of-Create/Create",
-      "description": "[NeoForge Mod] Building Tools and Aesthetic Technology",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4404,
-      "forks": 1376,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "apache / doris",
-      "url": "https://github.com/apache/doris",
-      "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 15731,
-      "forks": 3895,
-      "added_stars": "40 stars this week"
-    },
-    {
-      "title": "modelcontextprotocol / java-sdk",
-      "url": "https://github.com/modelcontextprotocol/java-sdk",
-      "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 3637,
-      "forks": 1101,
-      "added_stars": "35 stars this week"
-    },
-    {
-      "title": "halo-dev / halo",
-      "url": "https://github.com/halo-dev/halo",
-      "description": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 39477,
-      "forks": 10324,
-      "added_stars": "93 stars this week"
-    },
-    {
-      "title": "TGX-Android / Telegram-X",
-      "url": "https://github.com/TGX-Android/Telegram-X",
-      "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5882,
-      "forks": 1061,
-      "added_stars": "39 stars this week"
-    },
-    {
-      "title": "spring-projects / spring-boot",
-      "url": "https://github.com/spring-projects/spring-boot",
-      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 81257,
-      "forks": 42106,
-      "added_stars": "108 stars this week"
-    },
-    {
-      "title": "DependencyTrack / dependency-track",
-      "url": "https://github.com/DependencyTrack/dependency-track",
-      "description": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4081,
-      "forks": 790,
-      "added_stars": "28 stars this week"
-    },
-    {
-      "title": "kdn251 / interviews",
-      "url": "https://github.com/kdn251/interviews",
-      "description": "Everything you need to know to get the job.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 65167,
-      "forks": 12899,
-      "added_stars": "63 stars this week"
-    },
-    {
-      "title": "NotHarshhaa / DevOps-Projects",
-      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
-      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4810,
-      "forks": 4395,
-      "added_stars": "91 stars this week"
+      "forks": 9876,
+      "added_stars": "66 stars this week"
     },
     {
       "title": "emanuele-f / PCAPdroid",
@@ -220,9 +60,119 @@
       "description": "No-root network monitor, firewall and PCAP dumper for Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4386,
-      "forks": 519,
-      "added_stars": "91 stars this week"
+      "stars": 4394,
+      "forks": 520,
+      "added_stars": "94 stars this week"
+    },
+    {
+      "title": "google / guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 51659,
+      "forks": 11164,
+      "added_stars": "66 stars this week"
+    },
+    {
+      "title": "ashishps1 / awesome-system-design-resources",
+      "url": "https://github.com/ashishps1/awesome-system-design-resources",
+      "description": "Learn System Design concepts and prepare for interviews using free resources.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 40335,
+      "forks": 8588,
+      "added_stars": "287 stars this week"
+    },
+    {
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 72010,
+      "forks": 7874,
+      "added_stars": "386 stars this week"
+    },
+    {
+      "title": "spring-projects / spring-framework",
+      "url": "https://github.com/spring-projects/spring-framework",
+      "description": "Spring Framework",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 60168,
+      "forks": 38804,
+      "added_stars": "42 stars this week"
+    },
+    {
+      "title": "woheller69 / FreeDroidWarn",
+      "url": "https://github.com/woheller69/FreeDroidWarn",
+      "description": "",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 3062,
+      "forks": 110,
+      "added_stars": "85 stars this week"
+    },
+    {
+      "title": "jenkinsci / jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 26427,
+      "forks": 9790,
+      "added_stars": "192 stars this week"
+    },
+    {
+      "title": "TeamNewPipe / NewPipe",
+      "url": "https://github.com/TeamNewPipe/NewPipe",
+      "description": "A libre lightweight streaming front-end for Android.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 39256,
+      "forks": 3708,
+      "added_stars": "114 stars this week"
+    },
+    {
+      "title": "quarkusio / quarkus",
+      "url": "https://github.com/quarkusio/quarkus",
+      "description": "Quarkus: Supersonic Subatomic Java.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 15809,
+      "forks": 3263,
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "DependencyTrack / dependency-track",
+      "url": "https://github.com/DependencyTrack/dependency-track",
+      "description": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4086,
+      "forks": 792,
+      "added_stars": "30 stars this week"
+    },
+    {
+      "title": "NotHarshhaa / DevOps-Projects",
+      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
+      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4815,
+      "forks": 4401,
+      "added_stars": "81 stars this week"
+    },
+    {
+      "title": "StarRocks / starrocks",
+      "url": "https://github.com/StarRocks/starrocks",
+      "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 11975,
+      "forks": 2514,
+      "added_stars": "35 stars this week"
     },
     {
       "title": "alibaba / fastjson2",
@@ -230,9 +180,69 @@
       "description": "🚄 FASTJSON2 is a Java JSON library with excellent performance.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4384,
+      "stars": 4387,
       "forks": 593,
-      "added_stars": "25 stars this week"
+      "added_stars": "22 stars this week"
+    },
+    {
+      "title": "JabRef / jabref",
+      "url": "https://github.com/JabRef/jabref",
+      "description": "Desktop app for managing BibTeX and BibLaTeX (.bib) libraries",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4547,
+      "forks": 3496,
+      "added_stars": "53 stars this week"
+    },
+    {
+      "title": "spring-projects / spring-boot",
+      "url": "https://github.com/spring-projects/spring-boot",
+      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 81268,
+      "forks": 42116,
+      "added_stars": "109 stars this week"
+    },
+    {
+      "title": "Apicurio / apicurio-registry",
+      "url": "https://github.com/Apicurio/apicurio-registry",
+      "description": "An API/Schema registry - stores APIs and Schemas.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 898,
+      "forks": 560,
+      "added_stars": "22 stars this week"
+    },
+    {
+      "title": "alibaba / arthas",
+      "url": "https://github.com/alibaba/arthas",
+      "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 37477,
+      "forks": 7636,
+      "added_stars": "26 stars this week"
+    },
+    {
+      "title": "camunda / camunda",
+      "url": "https://github.com/camunda/camunda",
+      "description": "Process Orchestration Framework",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4236,
+      "forks": 810,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "apache / maven",
+      "url": "https://github.com/apache/maven",
+      "description": "Apache Maven core",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5305,
+      "forks": 3097,
+      "added_stars": "22 stars this week"
     }
   ]
 }

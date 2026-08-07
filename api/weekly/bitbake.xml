@@ -4,16 +4,21 @@
   <title>GitHub Bitbake Languages Daily Trending</title>
   <description>Daily Trending of Bitbake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
+  <item>
+    <title>qualcomm-linux / meta-qcom</title>
+    <link>https://github.com/qualcomm-linux/meta-qcom</link>
+    <description>OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms</description>
+  </item>
   <item>
     <title>OE4T / meta-tegra</title>
     <link>https://github.com/OE4T/meta-tegra</link>
     <description>BSP layer for NVIDIA Jetson platforms, based on L4T</description>
   </item>
   <item>
-    <title>openbmc / openbmc</title>
-    <link>https://github.com/openbmc/openbmc</link>
-    <description>OpenBMC Distribution</description>
+    <title>openembedded / openembedded-core</title>
+    <link>https://github.com/openembedded/openembedded-core</link>
+    <description>The official Git repository is at https://git.openembedded.org/openembedded-core/.</description>
   </item>
   <item>
     <title>sbabic / meta-swupdate</title>
@@ -21,39 +26,14 @@
     <description>Yocto receipes to generate a swupdate rootfilesystem as initrd</description>
   </item>
   <item>
-    <title>Freescale / meta-freescale</title>
-    <link>https://github.com/Freescale/meta-freescale</link>
-    <description>Layer containing NXP hardware support metadata</description>
-  </item>
-  <item>
-    <title>nxp-imx / meta-imx</title>
-    <link>https://github.com/nxp-imx/meta-imx</link>
-    <description>i.MX Yocto Project i.MX BSP Layer</description>
-  </item>
-  <item>
     <title>aws4embeddedlinux / meta-aws</title>
     <link>https://github.com/aws4embeddedlinux/meta-aws</link>
     <description>The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.</description>
   </item>
   <item>
-    <title>qualcomm-linux / meta-qcom</title>
-    <link>https://github.com/qualcomm-linux/meta-qcom</link>
-    <description>OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms</description>
-  </item>
-  <item>
-    <title>mendersoftware / meta-mender</title>
-    <link>https://github.com/mendersoftware/meta-mender</link>
-    <description>Yocto Project meta layer for the Mender client</description>
-  </item>
-  <item>
-    <title>openembedded / meta-openembedded</title>
-    <link>https://github.com/openembedded/meta-openembedded</link>
-    <description></description>
-  </item>
-  <item>
-    <title>Freescale / meta-freescale-3rdparty</title>
-    <link>https://github.com/Freescale/meta-freescale-3rdparty</link>
-    <description>OpenEmbedded/Yocto BSP layer for Freescale&#x27;s ARM based platforms</description>
+    <title>openbmc / openbmc</title>
+    <link>https://github.com/openbmc/openbmc</link>
+    <description>OpenBMC Distribution</description>
   </item>
   <item>
     <title>rauc / meta-rauc</title>
@@ -64,6 +44,26 @@
     <title>rust-embedded / meta-rust-bin</title>
     <link>https://github.com/rust-embedded/meta-rust-bin</link>
     <description>Yocto layer for installing Rust toolchain from pre-built binaries</description>
+  </item>
+  <item>
+    <title>Freescale / meta-freescale</title>
+    <link>https://github.com/Freescale/meta-freescale</link>
+    <description>Layer containing NXP hardware support metadata</description>
+  </item>
+  <item>
+    <title>openembedded / meta-openembedded</title>
+    <link>https://github.com/openembedded/meta-openembedded</link>
+    <description></description>
+  </item>
+  <item>
+    <title>nxp-imx / meta-imx</title>
+    <link>https://github.com/nxp-imx/meta-imx</link>
+    <description>i.MX Yocto Project i.MX BSP Layer</description>
+  </item>
+  <item>
+    <title>ros / meta-ros</title>
+    <link>https://github.com/ros/meta-ros</link>
+    <description>OpenEmbedded Layers for ROS 1 and ROS 2</description>
   </item>
 </channel>
 </rss>

@@ -2,8 +2,18 @@
   "title": "GitHub Dm Languages Daily Trending",
   "description": "Daily Trending of Dm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
+    {
+      "title": "cmss13-devs / cmss13",
+      "url": "https://github.com/cmss13-devs/cmss13",
+      "description": "Contains the code for CM-SS13",
+      "language": "DM",
+      "languageColor": "#447265",
+      "stars": 172,
+      "forks": 934,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "tgstation / tgstation",
       "url": "https://github.com/tgstation/tgstation",
@@ -15,53 +25,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "cmss13-devs / cmss13",
-      "url": "https://github.com/cmss13-devs/cmss13",
-      "description": "Contains the code for CM-SS13",
+      "title": "goonstation / goonstation",
+      "url": "https://github.com/goonstation/goonstation",
+      "description": "Repository for the Goonstation branch of SS13",
       "language": "DM",
       "languageColor": "#447265",
-      "stars": 172,
-      "forks": 931,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ParadiseSS13 / Paradise",
-      "url": "https://github.com/ParadiseSS13/Paradise",
-      "description": "Paradise Station's GitHub main repository.",
-      "language": "DM",
-      "languageColor": "#447265",
-      "stars": 445,
-      "forks": 1326,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Monkestation / Monkestation2.0",
-      "url": "https://github.com/Monkestation/Monkestation2.0",
-      "description": "A monkestation rebase to TG code",
-      "language": "DM",
-      "languageColor": "#447265",
-      "stars": 92,
-      "forks": 503,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Aurorastation / Aurora.3",
-      "url": "https://github.com/Aurorastation/Aurora.3",
-      "description": "The code for Aurorastation's new base, forked from Baystation12.",
-      "language": "DM",
-      "languageColor": "#447265",
-      "stars": 162,
-      "forks": 560,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "vgstation-coders / vgstation13",
-      "url": "https://github.com/vgstation-coders/vgstation13",
-      "description": "Butts",
-      "language": "DM",
-      "languageColor": "#447265",
-      "stars": 275,
-      "forks": 552,
+      "stars": 403,
+      "forks": 1814,
       "added_stars": "0 stars today"
     }
   ]

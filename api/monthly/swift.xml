@@ -4,7 +4,7 @@
   <title>GitHub Swift Languages Daily Trending</title>
   <description>Daily Trending of Swift Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>permissionlesstech / bitchat</title>
     <link>https://github.com/permissionlesstech/bitchat</link>
@@ -14,6 +14,11 @@
     <title>altic-dev / FluidVoice</title>
     <link>https://github.com/altic-dev/FluidVoice</link>
     <description>Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.</description>
+  </item>
+  <item>
+    <title>nikitabobko / AeroSpace</title>
+    <link>https://github.com/nikitabobko/AeroSpace</link>
+    <description>AeroSpace is an i3-like tiling window manager for macOS</description>
   </item>
   <item>
     <title>Ebullioscopic / Atoll</title>
@@ -26,9 +31,9 @@
     <description>Show usage stats for OpenAI Codex and Claude Code, without having to login.</description>
   </item>
   <item>
-    <title>nikitabobko / AeroSpace</title>
-    <link>https://github.com/nikitabobko/AeroSpace</link>
-    <description>AeroSpace is an i3-like tiling window manager for macOS</description>
+    <title>jaywcjlove / awesome-mac</title>
+    <link>https://github.com/jaywcjlove/awesome-mac</link>
+    <description> This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.</description>
   </item>
   <item>
     <title>duongductrong / Snapzy</title>
@@ -36,19 +41,9 @@
     <description>An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.</description>
   </item>
   <item>
-    <title>jaywcjlove / awesome-mac</title>
-    <link>https://github.com/jaywcjlove/awesome-mac</link>
-    <description> This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.</description>
-  </item>
-  <item>
     <title>robinebers / openusage</title>
     <link>https://github.com/robinebers/openusage</link>
     <description>Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.</description>
-  </item>
-  <item>
-    <title>Starmel / OpenSuperWhisper</title>
-    <link>https://github.com/Starmel/OpenSuperWhisper</link>
-    <description>macOS dictation app</description>
   </item>
   <item>
     <title>Beingpax / VoiceInk</title>
@@ -56,9 +51,9 @@
     <description>The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with no subscription</description>
   </item>
   <item>
-    <title>p0deje / Maccy</title>
-    <link>https://github.com/p0deje/Maccy</link>
-    <description>Lightweight clipboard manager for macOS</description>
+    <title>TelegramMessenger / Telegram-iOS</title>
+    <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
+    <description>Telegram-iOS</description>
   </item>
   <item>
     <title>tranvuongquocdat / SideScreen</title>
@@ -66,19 +61,9 @@
     <description></description>
   </item>
   <item>
-    <title>TelegramMessenger / Telegram-iOS</title>
-    <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
-    <description>Telegram-iOS</description>
-  </item>
-  <item>
     <title>openai / tart</title>
     <link>https://github.com/openai/tart</link>
     <description>macOS and Linux VMs on Apple Silicon to use in CI and other automations</description>
-  </item>
-  <item>
-    <title>minh-ton / reynard-browser</title>
-    <link>https://github.com/minh-ton/reynard-browser</link>
-    <description>An experimental Gecko-based web browser for iOS 13+.</description>
   </item>
   <item>
     <title>momenbasel / PureMac</title>
@@ -86,19 +71,14 @@
     <description>Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.</description>
   </item>
   <item>
+    <title>minh-ton / reynard-browser</title>
+    <link>https://github.com/minh-ton/reynard-browser</link>
+    <description>An experimental Gecko-based web browser for iOS 13+.</description>
+  </item>
+  <item>
     <title>kitlangton / Hex</title>
     <link>https://github.com/kitlangton/Hex</link>
     <description>VOICE → WORDS</description>
-  </item>
-  <item>
-    <title>RevenueCat / purchases-ios</title>
-    <link>https://github.com/RevenueCat/purchases-ios</link>
-    <description>In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</description>
-  </item>
-  <item>
-    <title>darrylmorley / whatcable</title>
-    <link>https://github.com/darrylmorley/whatcable</link>
-    <description>macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do</description>
   </item>
   <item>
     <title>FluidInference / FluidAudio</title>
@@ -106,14 +86,29 @@
     <description>Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.</description>
   </item>
   <item>
-    <title>ninxsoft / Mist</title>
-    <link>https://github.com/ninxsoft/Mist</link>
-    <description>A Mac utility that automatically downloads macOS Firmwares / Installers.</description>
-  </item>
-  <item>
     <title>ronitsingh10 / FineTune</title>
     <link>https://github.com/ronitsingh10/FineTune</link>
     <description>FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.</description>
+  </item>
+  <item>
+    <title>RevenueCat / purchases-ios</title>
+    <link>https://github.com/RevenueCat/purchases-ios</link>
+    <description>In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</description>
+  </item>
+  <item>
+    <title>p0deje / Maccy</title>
+    <link>https://github.com/p0deje/Maccy</link>
+    <description>Lightweight clipboard manager for macOS</description>
+  </item>
+  <item>
+    <title>Starmel / OpenSuperWhisper</title>
+    <link>https://github.com/Starmel/OpenSuperWhisper</link>
+    <description>macOS dictation app</description>
+  </item>
+  <item>
+    <title>darrylmorley / whatcable</title>
+    <link>https://github.com/darrylmorley/whatcable</link>
+    <description>macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
       "title": "ROCm / rocm-libraries",
@@ -11,88 +11,8 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 398,
-      "forks": 362,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "pret / pokered",
-      "url": "https://github.com/pret/pokered",
-      "description": "Disassembly of Pokémon Red/Blue",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 4858,
-      "forks": 1279,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "riscv / riscv-arch-test",
-      "url": "https://github.com/riscv/riscv-arch-test",
-      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 763,
-      "forks": 346,
+      "forks": 364,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "apple / swift-nio-ssl",
-      "url": "https://github.com/apple/swift-nio-ssl",
-      "description": "TLS Support for SwiftNIO, based on BoringSSL.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 432,
-      "forks": 169,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "vxunderground / MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 18609,
-      "forks": 2086,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "aws / aws-lc",
-      "url": "https://github.com/aws/aws-lc",
-      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 814,
-      "forks": 198,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "BLAKE3-team / BLAKE3",
-      "url": "https://github.com/BLAKE3-team/BLAKE3",
-      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 6357,
-      "forks": 469,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "briansmith / ring",
-      "url": "https://github.com/briansmith/ring",
-      "description": "An experiment.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 4102,
-      "forks": 798,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "PlummersSoftwareLLC / TinyRetroPad",
-      "url": "https://github.com/PlummersSoftwareLLC/TinyRetroPad",
-      "description": "",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1682,
-      "forks": 109,
-      "added_stars": "4 stars today"
     },
     {
       "title": "openhwgroup / cva6",
@@ -101,18 +21,48 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 3059,
-      "forks": 995,
+      "forks": 994,
       "added_stars": "2 stars today"
     },
     {
-      "title": "espressif / esp-dl",
-      "url": "https://github.com/espressif/esp-dl",
-      "description": "Espressif deep-learning library for AIoT applications",
+      "title": "BLAKE3-team / BLAKE3",
+      "url": "https://github.com/BLAKE3-team/BLAKE3",
+      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1098,
-      "forks": 218,
+      "stars": 6358,
+      "forks": 469,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 18613,
+      "forks": 2087,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "apple / swift-nio-ssl",
+      "url": "https://github.com/apple/swift-nio-ssl",
+      "description": "TLS Support for SwiftNIO, based on BoringSSL.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 433,
+      "forks": 169,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "riscv / riscv-arch-test",
+      "url": "https://github.com/riscv/riscv-arch-test",
+      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 765,
+      "forks": 346,
+      "added_stars": "2 stars today"
     },
     {
       "title": "livekit / rust-sdks",
@@ -120,9 +70,79 @@
       "description": "LiveKit realtime and server SDKs for Rust",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 475,
-      "forks": 207,
+      "stars": 476,
+      "forks": 208,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "z88dk / z88dk",
+      "url": "https://github.com/z88dk/z88dk",
+      "description": "The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1110,
+      "forks": 203,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "aws / aws-lc",
+      "url": "https://github.com/aws/aws-lc",
+      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 815,
+      "forks": 198,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "RibShark / OmniDrive",
+      "url": "https://github.com/RibShark/OmniDrive",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1014,
+      "forks": 53,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "PlummersSoftwareLLC / TinyRetroPad",
+      "url": "https://github.com/PlummersSoftwareLLC/TinyRetroPad",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1684,
+      "forks": 109,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "espressif / esp-dl",
+      "url": "https://github.com/espressif/esp-dl",
+      "description": "Espressif deep-learning library for AIoT applications",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1102,
+      "forks": 218,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "Rangi42 / polishedcrystal",
+      "url": "https://github.com/Rangi42/polishedcrystal",
+      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1599,
+      "forks": 328,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "boostorg / context",
+      "url": "https://github.com/boostorg/context",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 361,
+      "forks": 183,
+      "added_stars": "0 stars today"
     },
     {
       "title": "pret / pokecrystal",
@@ -132,26 +152,6 @@
       "languageColor": "#6E4C13",
       "stars": 2484,
       "forks": 964,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "chrislgarry / Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 71875,
-      "forks": 7960,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "pq-code-package / mldsa-native",
-      "url": "https://github.com/pq-code-package/mldsa-native",
-      "description": "Secure, fast, and portable C90 implementation of ML-DSA / FIPS 204",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 99,
-      "forks": 54,
       "added_stars": "0 stars today"
     },
     {
@@ -165,14 +165,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "cRz-Shadows / Pokemon_Yellow_Legacy",
-      "url": "https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy",
-      "description": "This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.",
+      "title": "pret / pokered",
+      "url": "https://github.com/pret/pokered",
+      "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 287,
-      "forks": 59,
-      "added_stars": "1 star today"
+      "stars": 4863,
+      "forks": 1279,
+      "added_stars": "4 stars today"
     }
   ]
 }

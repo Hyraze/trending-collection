@@ -2,7 +2,7 @@
   "title": "GitHub Handlebars Languages Daily Trending",
   "description": "Daily Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
       "title": "elastic / integrations",
@@ -13,6 +13,16 @@
       "stars": 330,
       "forks": 621,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "huggingface / hub-docs",
+      "url": "https://github.com/huggingface/hub-docs",
+      "description": "Docs of the Hugging Face Hub",
+      "language": "Handlebars",
+      "languageColor": "#f7931e",
+      "stars": 581,
+      "forks": 479,
+      "added_stars": "1 star today"
     },
     {
       "title": "wet-boew / wet-boew",
@@ -30,9 +40,9 @@
       "description": "Learn Rust with examples (Live code editor included)",
       "language": "Handlebars",
       "languageColor": "#f7931e",
-      "stars": 8066,
+      "stars": 8067,
       "forks": 1565,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Daily Trending",
   "description": "Daily Trending of Tex Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "zhanwen / MathModel",
@@ -10,9 +10,9 @@
       "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 11072,
-      "forks": 2261,
-      "added_stars": "540 stars this month"
+      "stars": 11091,
+      "forks": 2265,
+      "added_stars": "549 stars this month"
     },
     {
       "title": "sb2nov / resume",
@@ -20,9 +20,9 @@
       "description": "Software developer resume in Latex",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 6875,
-      "forks": 1878,
-      "added_stars": "120 stars this month"
+      "stars": 6881,
+      "forks": 1879,
+      "added_stars": "128 stars this month"
     },
     {
       "title": "lervag / vimtex",
@@ -30,29 +30,9 @@
       "description": "VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 6330,
+      "stars": 6333,
       "forks": 415,
-      "added_stars": "36 stars this month"
-    },
-    {
-      "title": "riscv / riscv-isa-manual",
-      "url": "https://github.com/riscv/riscv-isa-manual",
-      "description": "RISC-V Instruction Set Manual",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 4746,
-      "forks": 857,
-      "added_stars": "56 stars this month"
-    },
-    {
-      "title": "lib-pku / libpku",
-      "url": "https://github.com/lib-pku/libpku",
-      "description": "贵校课程资料民间整理",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 33758,
-      "forks": 8212,
-      "added_stars": "121 stars this month"
+      "added_stars": "39 stars this month"
     },
     {
       "title": "BetterCrypto / Applied-Crypto-Hardening",
@@ -65,24 +45,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "posquit0 / Awesome-CV",
-      "url": "https://github.com/posquit0/Awesome-CV",
-      "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
+      "title": "lib-pku / libpku",
+      "url": "https://github.com/lib-pku/libpku",
+      "description": "贵校课程资料民间整理",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 28232,
-      "forks": 5297,
-      "added_stars": "368 stars this month"
-    },
-    {
-      "title": "exacity / deeplearningbook-chinese",
-      "url": "https://github.com/exacity/deeplearningbook-chinese",
-      "description": "Deep Learning Book Chinese Translation",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 37355,
-      "forks": 9112,
-      "added_stars": "96 stars this month"
+      "stars": 33764,
+      "forks": 8213,
+      "added_stars": "122 stars this month"
     },
     {
       "title": "dart-lang / language",
@@ -95,24 +65,44 @@
       "added_stars": "12 stars this month"
     },
     {
-      "title": "tuhdo / os01",
-      "url": "https://github.com/tuhdo/os01",
-      "description": "Bootstrap yourself to write an OS from scratch. A book for self-learner.",
+      "title": "exacity / deeplearningbook-chinese",
+      "url": "https://github.com/exacity/deeplearningbook-chinese",
+      "description": "Deep Learning Book Chinese Translation",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 13657,
-      "forks": 792,
-      "added_stars": "66 stars this month"
+      "stars": 37356,
+      "forks": 9114,
+      "added_stars": "92 stars this month"
     },
     {
-      "title": "billryan / resume",
-      "url": "https://github.com/billryan/resume",
-      "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
+      "title": "riscv / riscv-isa-manual",
+      "url": "https://github.com/riscv/riscv-isa-manual",
+      "description": "RISC-V Instruction Set Manual",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 11316,
-      "forks": 2870,
-      "added_stars": "102 stars this month"
+      "stars": 4747,
+      "forks": 860,
+      "added_stars": "55 stars this month"
+    },
+    {
+      "title": "posquit0 / Awesome-CV",
+      "url": "https://github.com/posquit0/Awesome-CV",
+      "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 28242,
+      "forks": 5297,
+      "added_stars": "327 stars this month"
+    },
+    {
+      "title": "OpenLogicProject / OpenLogic",
+      "url": "https://github.com/OpenLogicProject/OpenLogic",
+      "description": "An open-source, customizable intermediate logic textbook",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 1341,
+      "forks": 282,
+      "added_stars": "21 stars this month"
     },
     {
       "title": "latex3 / latex2e",
@@ -120,9 +110,19 @@
       "description": "The LaTeX2e kernel",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 2440,
+      "stars": 2441,
       "forks": 315,
-      "added_stars": "25 stars this month"
+      "added_stars": "24 stars this month"
+    },
+    {
+      "title": "billryan / resume",
+      "url": "https://github.com/billryan/resume",
+      "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 11318,
+      "forks": 2869,
+      "added_stars": "100 stars this month"
     }
   ]
 }

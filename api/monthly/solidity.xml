@@ -4,7 +4,7 @@
   <title>GitHub Solidity Languages Daily Trending</title>
   <description>Daily Trending of Solidity Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>OpenZeppelin / openzeppelin-contracts</title>
     <link>https://github.com/OpenZeppelin/openzeppelin-contracts</link>
@@ -14,6 +14,11 @@
     <title>ethereum / ERCs</title>
     <link>https://github.com/ethereum/ERCs</link>
     <description>The Ethereum Request for Comment repository</description>
+  </item>
+  <item>
+    <title>aave / aave-v4</title>
+    <link>https://github.com/aave/aave-v4</link>
+    <description>Aave V4</description>
   </item>
   <item>
     <title>dapphub / ds-test</title>
@@ -46,16 +51,6 @@
     <description>🔑🔑🔑 next generation token approvals mechanism</description>
   </item>
   <item>
-    <title>Arachnid / solidity-stringutils</title>
-    <link>https://github.com/Arachnid/solidity-stringutils</link>
-    <description>Basic string utilities for Solidity</description>
-  </item>
-  <item>
-    <title>aave / aave-v4</title>
-    <link>https://github.com/aave/aave-v4</link>
-    <description>Aave V4</description>
-  </item>
-  <item>
     <title>Uniswap / v4-periphery</title>
     <link>https://github.com/Uniswap/v4-periphery</link>
     <description>🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4</description>
@@ -64,6 +59,11 @@
     <title>dmfxyz / murky</title>
     <link>https://github.com/dmfxyz/murky</link>
     <description>Merkle Proof Generator and Validator in Solidity</description>
+  </item>
+  <item>
+    <title>Arachnid / solidity-stringutils</title>
+    <link>https://github.com/Arachnid/solidity-stringutils</link>
+    <description>Basic string utilities for Solidity</description>
   </item>
   <item>
     <title>morpho-org / vault-v2</title>
@@ -76,14 +76,14 @@
     <description>🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4</description>
   </item>
   <item>
-    <title>foundry-rs / book</title>
-    <link>https://github.com/foundry-rs/book</link>
-    <description>A book on all things Foundry, available at https://getfoundry.sh.</description>
+    <title>AmazingAng / WTF-Solidity</title>
+    <link>https://github.com/AmazingAng/WTF-Solidity</link>
+    <description>WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy</description>
   </item>
   <item>
-    <title>aave-dao / aave-v3-origin</title>
-    <link>https://github.com/aave-dao/aave-v3-origin</link>
-    <description>Aave v3.6 protocol</description>
+    <title>Uniswap / v2-periphery</title>
+    <link>https://github.com/Uniswap/v2-periphery</link>
+    <description>🎚 Peripheral smart contracts for interacting with Uniswap V2</description>
   </item>
 </channel>
 </rss>

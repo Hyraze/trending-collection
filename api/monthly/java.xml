@@ -4,7 +4,7 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>iflytek / skillhub</title>
     <link>https://github.com/iflytek/skillhub</link>
@@ -16,14 +16,19 @@
     <description>The automation tower defense RTS</description>
   </item>
   <item>
+    <title>jenkinsci / jenkins</title>
+    <link>https://github.com/jenkinsci/jenkins</link>
+    <description>Jenkins automation server</description>
+  </item>
+  <item>
     <title>kestra-io / kestra</title>
     <link>https://github.com/kestra-io/kestra</link>
     <description>Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications</description>
   </item>
   <item>
-    <title>jenkinsci / jenkins</title>
-    <link>https://github.com/jenkinsci/jenkins</link>
-    <description>Jenkins automation server</description>
+    <title>elastic / elasticsearch</title>
+    <link>https://github.com/elastic/elasticsearch</link>
+    <description>Free and Open Source, Distributed, RESTful Search Engine</description>
   </item>
   <item>
     <title>yuliskov / SmartTube</title>
@@ -46,39 +51,14 @@
     <description>The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI</description>
   </item>
   <item>
-    <title>spring-projects / spring-boot</title>
-    <link>https://github.com/spring-projects/spring-boot</link>
-    <description>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</description>
-  </item>
-  <item>
     <title>github / copilot-sdk</title>
     <link>https://github.com/github/copilot-sdk</link>
     <description>Multi-platform SDK for integrating GitHub Copilot Agent into apps and services</description>
   </item>
   <item>
-    <title>elastic / elasticsearch</title>
-    <link>https://github.com/elastic/elasticsearch</link>
-    <description>Free and Open Source, Distributed, RESTful Search Engine</description>
-  </item>
-  <item>
-    <title>skylot / jadx</title>
-    <link>https://github.com/skylot/jadx</link>
-    <description>Dex to Java decompiler</description>
-  </item>
-  <item>
     <title>NationalSecurityAgency / ghidra</title>
     <link>https://github.com/NationalSecurityAgency/ghidra</link>
     <description>Ghidra is a software reverse engineering (SRE) framework</description>
-  </item>
-  <item>
-    <title>termux / termux-app</title>
-    <link>https://github.com/termux/termux-app</link>
-    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
-  </item>
-  <item>
-    <title>dataease / dataease</title>
-    <link>https://github.com/dataease/dataease</link>
-    <description>🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.</description>
   </item>
   <item>
     <title>openjdk / jdk</title>
@@ -91,14 +71,24 @@
     <description>Design patterns implemented in Java</description>
   </item>
   <item>
-    <title>apache / rocketmq</title>
-    <link>https://github.com/apache/rocketmq</link>
-    <description>Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.</description>
+    <title>skylot / jadx</title>
+    <link>https://github.com/skylot/jadx</link>
+    <description>Dex to Java decompiler</description>
   </item>
   <item>
-    <title>apache / cassandra</title>
-    <link>https://github.com/apache/cassandra</link>
-    <description>Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.</description>
+    <title>termux / termux-app</title>
+    <link>https://github.com/termux/termux-app</link>
+    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
+  </item>
+  <item>
+    <title>spring-projects / spring-boot</title>
+    <link>https://github.com/spring-projects/spring-boot</link>
+    <description>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</description>
+  </item>
+  <item>
+    <title>dataease / dataease</title>
+    <link>https://github.com/dataease/dataease</link>
+    <description>🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.</description>
   </item>
   <item>
     <title>LawnchairLauncher / lawnchair</title>
@@ -106,14 +96,29 @@
     <description>No clever tagline needed.</description>
   </item>
   <item>
+    <title>PaperMC / Paper</title>
+    <link>https://github.com/PaperMC/Paper</link>
+    <description>The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</description>
+  </item>
+  <item>
     <title>krahets / hello-algo</title>
     <link>https://github.com/krahets/hello-algo</link>
     <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现</description>
   </item>
   <item>
-    <title>RikkaApps / Shizuku-API</title>
-    <link>https://github.com/RikkaApps/Shizuku-API</link>
-    <description>The API and the developer guide for Shizuku and Sui.</description>
+    <title>apache / cassandra</title>
+    <link>https://github.com/apache/cassandra</link>
+    <description>Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.</description>
+  </item>
+  <item>
+    <title>kunal-kushwaha / DSA-Bootcamp-Java</title>
+    <link>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java</link>
+    <description>This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms + interview preparation bootcamp of WeMakeDevs.</description>
+  </item>
+  <item>
+    <title>apache / doris</title>
+    <link>https://github.com/apache/doris</link>
+    <description>Apache Doris is a real-time analytics and hybrid search database for AI agents.</description>
   </item>
 </channel>
 </rss>

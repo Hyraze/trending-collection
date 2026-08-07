@@ -2,7 +2,7 @@
   "title": "GitHub Nextflow Languages Daily Trending",
   "description": "Daily Trending of Nextflow Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "nf-core / modules",
@@ -11,7 +11,7 @@
       "language": "Nextflow",
       "languageColor": "#3ac486",
       "stars": 424,
-      "forks": 1087,
+      "forks": 1088,
       "added_stars": "2 stars this week"
     },
     {
@@ -22,6 +22,16 @@
       "languageColor": "#3ac486",
       "stars": 1348,
       "forks": 886,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "nf-core / sarek",
+      "url": "https://github.com/nf-core/sarek",
+      "description": "Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing",
+      "language": "Nextflow",
+      "languageColor": "#3ac486",
+      "stars": 590,
+      "forks": 541,
       "added_stars": "1 star this week"
     }
   ]

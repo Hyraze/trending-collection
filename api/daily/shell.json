@@ -2,87 +2,47 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
-    {
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 267462,
-      "forks": 23898,
-      "added_stars": "931 stars today"
-    },
     {
       "title": "mattpocock / skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 205337,
-      "forks": 17738,
-      "added_stars": "1,695 stars today"
+      "stars": 207389,
+      "forks": 17911,
+      "added_stars": "1,873 stars today"
     },
     {
-      "title": "tw93 / Mole",
-      "url": "https://github.com/tw93/Mole",
-      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 62176,
-      "forks": 2193,
-      "added_stars": "229 stars today"
+      "stars": 268219,
+      "forks": 23967,
+      "added_stars": "858 stars today"
     },
     {
-      "title": "pgsty / pigsty",
-      "url": "https://github.com/pgsty/pigsty",
-      "description": "Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 500+ PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!",
+      "title": "n8n-io / skills",
+      "url": "https://github.com/n8n-io/skills",
+      "description": "",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 5480,
-      "forks": 373,
-      "added_stars": "20 stars today"
+      "stars": 412,
+      "forks": 46,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "Astrosp / Awesome-OSINT-List",
-      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
-      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 4110,
-      "forks": 538,
-      "added_stars": "71 stars today"
-    },
-    {
-      "title": "openshift / release",
-      "url": "https://github.com/openshift/release",
-      "description": "Release tooling for OpenShift",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 325,
-      "forks": 2312,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Donchitos / Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 23640,
-      "forks": 3382,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "SimoneAvogadro / android-reverse-engineering-skill",
-      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-      "description": "Claude Code skill to support Android app's reverse engineering",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 6694,
-      "forks": 735,
-      "added_stars": "11 stars today"
+      "stars": 138974,
+      "forks": 22701,
+      "added_stars": "216 stars today"
     },
     {
       "title": "nvm-sh / nvm",
@@ -90,9 +50,69 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 94347,
-      "forks": 10315,
-      "added_stars": "18 stars today"
+      "stars": 94359,
+      "forks": 10322,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "Astrosp / Awesome-OSINT-List",
+      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
+      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4126,
+      "forks": 538,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "github / copilot-cli",
+      "url": "https://github.com/github/copilot-cli",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 11065,
+      "forks": 1873,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "BtbN / FFmpeg-Builds",
+      "url": "https://github.com/BtbN/FFmpeg-Builds",
+      "description": "",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 11423,
+      "forks": 1491,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "acmesh-official / acme.sh",
+      "url": "https://github.com/acmesh-official/acme.sh",
+      "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 47419,
+      "forks": 5652,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "1N3 / Sn1per",
+      "url": "https://github.com/1N3/Sn1per",
+      "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 10726,
+      "forks": 2139,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "llm-d / llm-d",
+      "url": "https://github.com/llm-d/llm-d",
+      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 3990,
+      "forks": 660,
+      "added_stars": "4 stars today"
     },
     {
       "title": "cloudflare / skills",
@@ -100,18 +120,78 @@
       "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2558,
+      "stars": 2565,
       "forks": 240,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "dockur / windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 52771,
+      "forks": 4579,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "hestiacp / hestiacp",
+      "url": "https://github.com/hestiacp/hestiacp",
+      "description": "Hestia Control Panel | A lightweight and powerful control panel for the modern web.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4449,
+      "forks": 914,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "PolyArch / humanize",
+      "url": "https://github.com/PolyArch/humanize",
+      "description": "From Automated Idea Factory to Realization",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1374,
+      "forks": 123,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "xiv3r / Burpsuite-Professional",
+      "url": "https://github.com/xiv3r/Burpsuite-Professional",
+      "description": "Burpsuite Professional Latest Version 2026",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2845,
+      "forks": 689,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "nyldn / claude-octopus",
+      "url": "https://github.com/nyldn/claude-octopus",
+      "description": "Surface AI blindspots before you ship. Put up to 8 AI models on every research, design or coding task.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 3938,
+      "forks": 368,
       "added_stars": "9 stars today"
     },
     {
-      "title": "docker-library / official-images",
-      "url": "https://github.com/docker-library/official-images",
-      "description": "Primary source of truth for the Docker \"Official Images\" program",
+      "title": "a2aproject / A2A",
+      "url": "https://github.com/a2aproject/A2A",
+      "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 6988,
-      "forks": 2526,
+      "stars": 25226,
+      "forks": 2551,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "bitnami / containers",
+      "url": "https://github.com/bitnami/containers",
+      "description": "Bitnami container images",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4447,
+      "forks": 6838,
       "added_stars": "1 star today"
     }
   ]

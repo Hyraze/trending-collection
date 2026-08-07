@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "leanprover-community / mathlib4",
@@ -10,9 +10,9 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 3764,
-      "forks": 1560,
-      "added_stars": "217 stars this month"
+      "stars": 3766,
+      "forks": 1566,
+      "added_stars": "214 stars this month"
     },
     {
       "title": "leanprover / lean4",
@@ -20,8 +20,8 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 8700,
-      "forks": 928,
+      "stars": 8708,
+      "forks": 929,
       "added_stars": "314 stars this month"
     },
     {
@@ -30,7 +30,7 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1165,
+      "stars": 1166,
       "forks": 400,
       "added_stars": "138 stars this month"
     },
@@ -41,8 +41,8 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 237,
-      "forks": 186,
-      "added_stars": "66 stars this month"
+      "forks": 191,
+      "added_stars": "67 stars this month"
     },
     {
       "title": "leanprover-community / batteries",
@@ -51,18 +51,8 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 413,
-      "forks": 155,
+      "forks": 156,
       "added_stars": "13 stars this month"
-    },
-    {
-      "title": "leanprover-community / LeanSearchClient",
-      "url": "https://github.com/leanprover-community/LeanSearchClient",
-      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 35,
-      "forks": 9,
-      "added_stars": "1 star this month"
     },
     {
       "title": "leanprover / lean4-cli",
@@ -71,18 +61,18 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 116,
-      "forks": 27,
-      "added_stars": "4 stars this month"
+      "forks": 28,
+      "added_stars": "3 stars this month"
     },
     {
-      "title": "leanprover-community / plausible",
-      "url": "https://github.com/leanprover-community/plausible",
-      "description": "",
+      "title": "leanprover-community / LeanSearchClient",
+      "url": "https://github.com/leanprover-community/LeanSearchClient",
+      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 112,
-      "forks": 27,
-      "added_stars": "11 stars this month"
+      "stars": 35,
+      "forks": 10,
+      "added_stars": "1 star this month"
     },
     {
       "title": "leanprover-community / ProofWidgets4",
@@ -91,8 +81,18 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 221,
-      "forks": 45,
+      "forks": 46,
       "added_stars": "8 stars this month"
+    },
+    {
+      "title": "leanprover-community / plausible",
+      "url": "https://github.com/leanprover-community/plausible",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 112,
+      "forks": 28,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "leanprover-community / aesop",
@@ -101,7 +101,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 394,
-      "forks": 58,
+      "forks": 59,
       "added_stars": "18 stars this month"
     },
     {
@@ -111,7 +111,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 111,
-      "forks": 25,
+      "forks": 26,
       "added_stars": "1 star this month"
     },
     {
@@ -120,19 +120,9 @@
       "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1664,
+      "stars": 1665,
       "forks": 289,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "Verified-zkEVM / evm-asm",
-      "url": "https://github.com/Verified-zkEVM/evm-asm",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 52,
-      "forks": 13,
-      "added_stars": "10 stars this month"
+      "added_stars": "3 stars this month"
     }
   ]
 }

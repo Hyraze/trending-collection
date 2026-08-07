@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Daily Trending",
   "description": "Daily Trending of Smali Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "LittleSurvival / copymanga-copy20",
@@ -10,9 +10,9 @@
       "description": "Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": 2490,
+      "stars": 2493,
       "forks": 15,
-      "added_stars": "170 stars this month"
+      "added_stars": "166 stars this month"
     },
     {
       "title": "Producdevity / gamehub-lite",
@@ -20,9 +20,19 @@
       "description": "GameHub Lite is a community-maintained modified version of GameHub for education purposes",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": 1897,
+      "stars": 1898,
       "forks": 54,
-      "added_stars": "114 stars this month"
+      "added_stars": "110 stars this month"
+    },
+    {
+      "title": "phhusson / treble_experimentations",
+      "url": "https://github.com/phhusson/treble_experimentations",
+      "description": "Notes about tinkering with Android Project Treble",
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": 3578,
+      "forks": 699,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "The412Banner / BannerHub",
@@ -32,17 +42,7 @@
       "languageColor": "#ccc",
       "stars": 448,
       "forks": 24,
-      "added_stars": "58 stars this month"
-    },
-    {
-      "title": "phhusson / treble_experimentations",
-      "url": "https://github.com/phhusson/treble_experimentations",
-      "description": "Notes about tinkering with Android Project Treble",
-      "language": "Smali",
-      "languageColor": "#ccc",
-      "stars": 3578,
-      "forks": 700,
-      "added_stars": "11 stars this month"
+      "added_stars": "53 stars this month"
     },
     {
       "title": "sothx / xiaomi_pad_system_patch_additional_module",
@@ -61,8 +61,8 @@
       "language": "Smali",
       "languageColor": "#ccc",
       "stars": 5247,
-      "forks": 1871,
-      "added_stars": "55 stars this month"
+      "forks": 1872,
+      "added_stars": "54 stars this month"
     },
     {
       "title": "vtosters / lite",
@@ -80,19 +80,9 @@
       "description": "面向新版 Android 的 锤子桌面 非官方维护版",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": 702,
+      "stars": 703,
       "forks": 27,
-      "added_stars": "137 stars this month"
-    },
-    {
-      "title": "h4ck3r0 / Lemon-termux",
-      "url": "https://github.com/h4ck3r0/Lemon-termux",
-      "description": "Lemon Rat For Termux , No Error More Stable , All Error Fixed",
-      "language": "Smali",
-      "languageColor": "#ccc",
-      "stars": 244,
-      "forks": 45,
-      "added_stars": "8 stars this month"
+      "added_stars": "139 stars this month"
     }
   ]
 }

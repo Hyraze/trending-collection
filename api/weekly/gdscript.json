@@ -2,17 +2,17 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
-      "title": "hi-godot / godot-ai",
-      "url": "https://github.com/hi-godot/godot-ai",
-      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "title": "yurineko73 / Godot-MCP-Native",
+      "url": "https://github.com/yurineko73/Godot-MCP-Native",
+      "description": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 1458,
-      "forks": 93,
-      "added_stars": "141 stars this week"
+      "stars": 629,
+      "forks": 59,
+      "added_stars": "70 stars this week"
     },
     {
       "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
@@ -20,19 +20,19 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2978,
-      "forks": 296,
-      "added_stars": "78 stars this week"
+      "stars": 2997,
+      "forks": 297,
+      "added_stars": "95 stars this week"
     },
     {
-      "title": "yurineko73 / Godot-MCP-Native",
-      "url": "https://github.com/yurineko73/Godot-MCP-Native",
-      "description": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.",
+      "title": "hi-godot / godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 619,
-      "forks": 59,
-      "added_stars": "76 stars this week"
+      "stars": 1477,
+      "forks": 95,
+      "added_stars": "141 stars this week"
     },
     {
       "title": "Orama-Interactive / Pixelorama",
@@ -40,9 +40,9 @@
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 10056,
+      "stars": 10060,
       "forks": 533,
-      "added_stars": "49 stars this week"
+      "added_stars": "44 stars this week"
     },
     {
       "title": "Alexofp / BDCC",
@@ -50,9 +50,9 @@
       "description": "Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 333,
+      "stars": 334,
       "forks": 122,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "godotengine / godot-demo-projects",
@@ -60,9 +60,19 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 9286,
-      "forks": 2203,
-      "added_stars": "31 stars this week"
+      "stars": 9290,
+      "forks": 2206,
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "gdquest-demos / godot-open-rpg",
+      "url": "https://github.com/gdquest-demos/godot-open-rpg",
+      "description": "Learn to create turn-based combat with this Open Source RPG demo ⚔",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 2918,
+      "forks": 350,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "bitbrain / beehave",
@@ -72,27 +82,17 @@
       "languageColor": "#355570",
       "stars": 3215,
       "forks": 165,
-      "added_stars": "16 stars this week"
+      "added_stars": "15 stars this week"
     },
     {
-      "title": "elliotfontaine / yard-godot",
-      "url": "https://github.com/elliotfontaine/yard-godot",
-      "description": "YARD is an editor plugin for Godot to manage resources and query them at runtime, with a table view in the editor as the cherry on top.",
+      "title": "mbrlabs / Lorien",
+      "url": "https://github.com/mbrlabs/Lorien",
+      "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 307,
-      "forks": 18,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "MudkipWorld / PNGTuber-Remix",
-      "url": "https://github.com/MudkipWorld/PNGTuber-Remix",
-      "description": "An Open-source PNGTubing app :D",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 356,
-      "forks": 50,
-      "added_stars": "5 stars this week"
+      "stars": 6755,
+      "forks": 304,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "Maaack / Godot-Game-Template",
@@ -100,9 +100,9 @@
       "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 1575,
+      "stars": 1578,
       "forks": 102,
-      "added_stars": "16 stars this week"
+      "added_stars": "18 stars this week"
     },
     {
       "title": "dialogic-godot / dialogic",
@@ -110,29 +110,39 @@
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 5881,
+      "stars": 5885,
       "forks": 340,
-      "added_stars": "22 stars this week"
+      "added_stars": "23 stars this week"
     },
     {
-      "title": "GDQuest / learn-gdscript",
-      "url": "https://github.com/GDQuest/learn-gdscript",
-      "description": "Learn Godot's GDScript programming language from zero, right in your browser, for free.",
+      "title": "MudkipWorld / PNGTuber-Remix",
+      "url": "https://github.com/MudkipWorld/PNGTuber-Remix",
+      "description": "An Open-source PNGTubing app :D",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2754,
-      "forks": 234,
+      "stars": 357,
+      "forks": 50,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "RodZill4 / material-maker",
+      "url": "https://github.com/RodZill4/material-maker",
+      "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 5809,
+      "forks": 364,
+      "added_stars": "29 stars this week"
+    },
+    {
+      "title": "bitwes / Gut",
+      "url": "https://github.com/bitwes/Gut",
+      "description": "Godot Unit Test. Unit testing tool for Godot Game Engine.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 2673,
+      "forks": 148,
       "added_stars": "11 stars this week"
-    },
-    {
-      "title": "gdquest-demos / godot-open-rpg",
-      "url": "https://github.com/gdquest-demos/godot-open-rpg",
-      "description": "Learn to create turn-based combat with this Open Source RPG demo ⚔",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 2914,
-      "forks": 349,
-      "added_stars": "17 stars this week"
     }
   ]
 }

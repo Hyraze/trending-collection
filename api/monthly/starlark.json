@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,7 +10,7 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8668,
+      "stars": 8669,
       "forks": 2610,
       "added_stars": "47 stars this month"
     },
@@ -20,9 +20,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 22907,
-      "forks": 1416,
-      "added_stars": "121 stars this month"
+      "stars": 22913,
+      "forks": 1417,
+      "added_stars": "124 stars this month"
     },
     {
       "title": "uber / hermetic_cc_toolchain",
@@ -30,19 +30,9 @@
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 397,
+      "stars": 398,
       "forks": 87,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "bazelbuild / bazel-skylib",
-      "url": "https://github.com/bazelbuild/bazel-skylib",
-      "description": "Common useful functions and rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 444,
-      "forks": 201,
-      "added_stars": "3 stars this month"
+      "added_stars": "4 stars this month"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -55,14 +45,34 @@
       "added_stars": "5 stars this month"
     },
     {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3925,
+      "forks": 302,
+      "added_stars": "58 stars this month"
+    },
+    {
+      "title": "bazelbuild / bazel-skylib",
+      "url": "https://github.com/bazelbuild/bazel-skylib",
+      "description": "Common useful functions and rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 444,
+      "forks": 201,
+      "added_stars": "3 stars this month"
+    },
+    {
       "title": "bazel-contrib / rules_python",
       "url": "https://github.com/bazel-contrib/rules_python",
       "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 681,
+      "stars": 682,
       "forks": 707,
-      "added_stars": "6 stars this month"
+      "added_stars": "7 stars this month"
     },
     {
       "title": "grpc / grpc-proto",
@@ -73,16 +83,6 @@
       "stars": 293,
       "forks": 115,
       "added_stars": "1 star this month"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3924,
-      "forks": 302,
-      "added_stars": "58 stars this month"
     },
     {
       "title": "openconfig / gnoi",
@@ -105,16 +105,6 @@
       "added_stars": "11 stars this month"
     },
     {
-      "title": "tilt-dev / tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 242,
-      "forks": 191,
-      "added_stars": "1 star this month"
-    },
-    {
       "title": "bazel-contrib / rules_perl",
       "url": "https://github.com/bazel-contrib/rules_perl",
       "description": "Perl rules for Bazel",
@@ -123,6 +113,16 @@
       "stars": 31,
       "forks": 49,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "tilt-dev / tilt-extensions",
+      "url": "https://github.com/tilt-dev/tilt-extensions",
+      "description": "Extensions for Tilt",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 242,
+      "forks": 191,
+      "added_stars": "1 star this month"
     },
     {
       "title": "googleapis / api-common-protos",

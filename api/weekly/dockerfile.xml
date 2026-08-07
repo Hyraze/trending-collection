@@ -4,11 +4,11 @@
   <title>GitHub Dockerfile Languages Daily Trending</title>
   <description>Daily Trending of Dockerfile Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
   <item>
-    <title>goldbergyoni / nodebestpractices</title>
-    <link>https://github.com/goldbergyoni/nodebestpractices</link>
-    <description>✅ The Node.js best practices list (July 2026)</description>
+    <title>mikeroyal / Self-Hosting-Guide</title>
+    <link>https://github.com/mikeroyal/Self-Hosting-Guide</link>
+    <description>Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</description>
   </item>
   <item>
     <title>nodejs / docker-node</title>
@@ -16,14 +16,14 @@
     <description>Official Docker Image for Node.js 🐳 🐢 🚀</description>
   </item>
   <item>
-    <title>mikeroyal / Self-Hosting-Guide</title>
-    <link>https://github.com/mikeroyal/Self-Hosting-Guide</link>
-    <description>Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</description>
-  </item>
-  <item>
     <title>autowarefoundation / autoware</title>
     <link>https://github.com/autowarefoundation/autoware</link>
     <description>Autoware - the world&#x27;s leading open-source software project for autonomous driving</description>
+  </item>
+  <item>
+    <title>goldbergyoni / nodebestpractices</title>
+    <link>https://github.com/goldbergyoni/nodebestpractices</link>
+    <description>✅ The Node.js best practices list (July 2026)</description>
   </item>
   <item>
     <title>vulhub / vulhub</title>
@@ -31,9 +31,9 @@
     <description>Pre-Built Vulnerable Environments Based on Docker-Compose</description>
   </item>
   <item>
-    <title>redhat-openshift-ecosystem / certified-operators</title>
-    <link>https://github.com/redhat-openshift-ecosystem/certified-operators</link>
-    <description>Production catalog for Red Hat Certified Operator Bundles</description>
+    <title>laradock / laradock</title>
+    <link>https://github.com/laradock/laradock</link>
+    <description>Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch &amp; more.</description>
   </item>
   <item>
     <title>oxsecurity / megalinter</title>
@@ -41,14 +41,9 @@
     <description>🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</description>
   </item>
   <item>
-    <title>laradock / laradock</title>
-    <link>https://github.com/laradock/laradock</link>
-    <description>Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch &amp; more.</description>
-  </item>
-  <item>
-    <title>microsoft / vscode-remote-release</title>
-    <link>https://github.com/microsoft/vscode-remote-release</link>
-    <description>Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#x27;s full feature set.</description>
+    <title>redhat-openshift-ecosystem / certified-operators</title>
+    <link>https://github.com/redhat-openshift-ecosystem/certified-operators</link>
+    <description>Production catalog for Red Hat Certified Operator Bundles</description>
   </item>
   <item>
     <title>dotnet / dotnet-docker</title>
@@ -56,9 +51,14 @@
     <description>Official container images for .NET</description>
   </item>
   <item>
-    <title>redhat-openshift-ecosystem / community-operators-prod</title>
-    <link>https://github.com/redhat-openshift-ecosystem/community-operators-prod</link>
-    <description>community-operators metadata backing OpenShift OperatorHub</description>
+    <title>nordquant / dbt-student-repo</title>
+    <link>https://github.com/nordquant/dbt-student-repo</link>
+    <description>Starter Repository for the Complete dbt Bootcamp Zero to Hero Course</description>
+  </item>
+  <item>
+    <title>microsoft / vscode-remote-release</title>
+    <link>https://github.com/microsoft/vscode-remote-release</link>
+    <description>Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#x27;s full feature set.</description>
   </item>
   <item>
     <title>aws-amplify / amplify-hosting</title>
@@ -66,19 +66,14 @@
     <description>AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.</description>
   </item>
   <item>
-    <title>MicrosoftDocs / windows-powershell-docs</title>
-    <link>https://github.com/MicrosoftDocs/windows-powershell-docs</link>
-    <description>This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.</description>
+    <title>redhat-openshift-ecosystem / community-operators-prod</title>
+    <link>https://github.com/redhat-openshift-ecosystem/community-operators-prod</link>
+    <description>community-operators metadata backing OpenShift OperatorHub</description>
   </item>
   <item>
-    <title>zabbix / zabbix-docker</title>
-    <link>https://github.com/zabbix/zabbix-docker</link>
-    <description>Official Zabbix Dockerfiles</description>
-  </item>
-  <item>
-    <title>nordquant / dbt-student-repo</title>
-    <link>https://github.com/nordquant/dbt-student-repo</link>
-    <description>Starter Repository for the Complete dbt Bootcamp Zero to Hero Course</description>
+    <title>docker-library / python</title>
+    <link>https://github.com/docker-library/python</link>
+    <description>Docker Official Image packaging for Python</description>
   </item>
 </channel>
 </rss>

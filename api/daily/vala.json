@@ -2,17 +2,37 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
-      "title": "BuddiesOfBudgie / budgie-desktop",
-      "url": "https://github.com/BuddiesOfBudgie/budgie-desktop",
-      "description": "Budgie Desktop is a familiar, modern desktop environment.",
+      "title": "kem-a / AppManager",
+      "url": "https://github.com/kem-a/AppManager",
+      "description": "MacOS style AppImage installer and management application",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1326,
-      "forks": 64,
+      "stars": 1333,
+      "forks": 27,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "alainm23 / planify",
+      "url": "https://github.com/alainm23/planify",
+      "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 5517,
+      "forks": 319,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "Vysp3r / ProtonPlus",
+      "url": "https://github.com/Vysp3r/ProtonPlus",
+      "description": "A modern compatibility tools manager",
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 1655,
+      "forks": 50,
+      "added_stars": "1 star today"
     }
   ]
 }

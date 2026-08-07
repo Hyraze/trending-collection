@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator",
@@ -12,7 +12,7 @@
       "languageColor": "#519aba",
       "stars": 4547,
       "forks": 4486,
-      "added_stars": "71 stars this month"
+      "added_stars": "65 stars this month"
     },
     {
       "title": "microsoft-foundry / foundry-samples",
@@ -20,9 +20,9 @@
       "description": "Embedded samples in Azure AI Foundry docs",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 414,
-      "forks": 451,
-      "added_stars": "36 stars this month"
+      "stars": 415,
+      "forks": 453,
+      "added_stars": "37 stars this month"
     },
     {
       "title": "Azure / azure-quickstart-templates",
@@ -31,7 +31,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 14847,
-      "forks": 16210,
+      "forks": 16209,
       "added_stars": "27 stars this month"
     },
     {
@@ -41,7 +41,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 3624,
-      "forks": 822,
+      "forks": 823,
       "added_stars": "17 stars this month"
     },
     {
@@ -51,7 +51,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 734,
-      "forks": 558,
+      "forks": 559,
       "added_stars": "6 stars this month"
     },
     {
@@ -63,16 +63,6 @@
       "stars": 443,
       "forks": 52,
       "added_stars": "4 stars this month"
-    },
-    {
-      "title": "Azure-Samples / get-started-with-ai-chat",
-      "url": "https://github.com/Azure-Samples/get-started-with-ai-chat",
-      "description": "Basic sample for deploying chat web apps with Azure AI Foundry and SDKs",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 273,
-      "forks": 391,
-      "added_stars": "10 stars this month"
     }
   ]
 }

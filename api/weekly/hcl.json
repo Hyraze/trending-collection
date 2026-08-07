@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -11,7 +11,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 2077,
-      "forks": 1252,
+      "forks": 1253,
       "added_stars": "5 stars this week"
     },
     {
@@ -20,9 +20,9 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4994,
-      "forks": 4403,
-      "added_stars": "7 stars this week"
+      "stars": 4995,
+      "forks": 4404,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -31,8 +31,18 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 3253,
-      "forks": 4628,
-      "added_stars": "3 stars this week"
+      "forks": 4627,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 581,
+      "forks": 3808,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -45,36 +55,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "kubernetes / k8s.io",
-      "url": "https://github.com/kubernetes/k8s.io",
-      "description": "Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 977,
-      "forks": 1029,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 582,
-      "forks": 3808,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-iam",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
-      "description": "Terraform module to create AWS IAM resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 866,
-      "forks": 1107,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "bridgecrewio / checkov-action",
       "url": "https://github.com/bridgecrewio/checkov-action",
       "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
@@ -85,34 +65,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "title": "kubernetes / k8s.io",
+      "url": "https://github.com/kubernetes/k8s.io",
+      "description": "Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1046,
-      "forks": 771,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "hashicorp / setup-packer",
-      "url": "https://github.com/hashicorp/setup-packer",
-      "description": "Run HashiCorp Packer as part of your GitHub Actions Workflow",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 165,
-      "forks": 88,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 350,
-      "forks": 239,
-      "added_stars": "0 stars this week"
+      "stars": 976,
+      "forks": 1029,
+      "added_stars": "1 star this week"
     },
     {
       "title": "chainguard-images / images",
@@ -125,14 +85,54 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
-      "description": "Terraform Azure Verified Resource Module for Key Vault",
+      "title": "hashicorp / setup-packer",
+      "url": "https://github.com/hashicorp/setup-packer",
+      "description": "Run HashiCorp Packer as part of your GitHub Actions Workflow",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 48,
-      "forks": 57,
-      "added_stars": "1 star this week"
+      "stars": 165,
+      "forks": 88,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-iam",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
+      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 867,
+      "forks": 1109,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 350,
+      "forks": 239,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "aws-ia / terraform-aws-eks-blueprints",
+      "url": "https://github.com/aws-ia/terraform-aws-eks-blueprints",
+      "description": "Configure and deploy complete EKS clusters.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3033,
+      "forks": 1514,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1046,
+      "forks": 771,
+      "added_stars": "2 stars this week"
     }
   ]
 }

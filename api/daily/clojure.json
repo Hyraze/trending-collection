@@ -2,7 +2,7 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
       "title": "unclebob / swarm-forge",
@@ -10,19 +10,9 @@
       "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 1602,
-      "forks": 172,
-      "added_stars": "66 stars today"
-    },
-    {
-      "title": "logseq / logseq",
-      "url": "https://github.com/logseq/logseq",
-      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 44297,
-      "forks": 2752,
-      "added_stars": "19 stars today"
+      "stars": 1680,
+      "forks": 187,
+      "added_stars": "85 stars today"
     },
     {
       "title": "metabase / metabase",
@@ -30,19 +20,19 @@
       "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 48553,
-      "forks": 6717,
-      "added_stars": "18 stars today"
+      "stars": 48568,
+      "forks": 6719,
+      "added_stars": "22 stars today"
     },
     {
-      "title": "status-im / status-legacy",
-      "url": "https://github.com/status-im/status-legacy",
-      "description": "a free (libre) open source, mobile OS for Ethereum",
+      "title": "logseq / logseq",
+      "url": "https://github.com/logseq/logseq",
+      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 4020,
-      "forks": 990,
-      "added_stars": "1 star today"
+      "stars": 44301,
+      "forks": 2754,
+      "added_stars": "19 stars today"
     },
     {
       "title": "cognitect-labs / test-runner",
@@ -55,14 +45,34 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "status-im / status-legacy",
+      "url": "https://github.com/status-im/status-legacy",
+      "description": "a free (libre) open source, mobile OS for Ethereum",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 4019,
+      "forks": 990,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "tonsky / FiraCode",
       "url": "https://github.com/tonsky/FiraCode",
       "description": "Free monospaced font with programming ligatures",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 81895,
+      "stars": 81899,
       "forks": 3189,
-      "added_stars": "7 stars today"
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "penpot / penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 58193,
+      "forks": 3902,
+      "added_stars": "39 stars today"
     }
   ]
 }

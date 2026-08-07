@@ -2,56 +2,16 @@
   "title": "GitHub Markdown Languages Daily Trending",
   "description": "Daily Trending of Markdown Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
-      "title": "OAI / OpenAPI-Specification",
-      "url": "https://github.com/OAI/OpenAPI-Specification",
-      "description": "The OpenAPI Specification Repository",
+      "title": "microsoft / vscode-docs",
+      "url": "https://github.com/microsoft/vscode-docs",
+      "description": "Public documentation for Visual Studio Code",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 31133,
-      "forks": 9162,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "mdn / content",
-      "url": "https://github.com/mdn/content",
-      "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 10908,
-      "forks": 23185,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "tldr-pages / tldr",
-      "url": "https://github.com/tldr-pages/tldr",
-      "description": "Collaborative cheatsheets for console commands 📚.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 63307,
-      "forks": 5360,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "MicrosoftDocs / azure-docs",
-      "url": "https://github.com/MicrosoftDocs/azure-docs",
-      "description": "Open source documentation of Microsoft Azure",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 10939,
-      "forks": 21776,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "swiftlang / swift-evolution",
-      "url": "https://github.com/swiftlang/swift-evolution",
-      "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 15864,
-      "forks": 2474,
+      "stars": 6587,
+      "forks": 5710,
       "added_stars": "1 star today"
     },
     {
@@ -60,29 +20,39 @@
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 36519,
+      "stars": 36531,
       "forks": 6601,
-      "added_stars": "12 stars today"
+      "added_stars": "9 stars today"
     },
     {
-      "title": "rust-lang / rfcs",
-      "url": "https://github.com/rust-lang/rfcs",
-      "description": "RFCs for changes to Rust",
+      "title": "OAI / OpenAPI-Specification",
+      "url": "https://github.com/OAI/OpenAPI-Specification",
+      "description": "The OpenAPI Specification Repository",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 6571,
-      "forks": 1698,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ethereum / ethereum-org-website",
-      "url": "https://github.com/ethereum/ethereum-org-website",
-      "description": "Ethereum.org is a primary online resource for the Ethereum community.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 5952,
-      "forks": 5411,
+      "stars": 31133,
+      "forks": 9161,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "alexandresanlim / Badges4-README.md-Profile",
+      "url": "https://github.com/alexandresanlim/Badges4-README.md-Profile",
+      "description": "Improve your README.md profile with these amazing badges.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 13376,
+      "forks": 1681,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "mdn / content",
+      "url": "https://github.com/mdn/content",
+      "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 10908,
+      "forks": 23189,
+      "added_stars": "1 star today"
     },
     {
       "title": "ppy / osu-wiki",
@@ -91,18 +61,8 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": 581,
-      "forks": 1182,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "docker / docs",
-      "url": "https://github.com/docker/docs",
-      "description": "Source repo for Docker's Documentation",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 4627,
-      "forks": 8418,
-      "added_stars": "2 stars today"
+      "forks": 1184,
+      "added_stars": "0 stars today"
     },
     {
       "title": "rjmurillo / ai-agents",
@@ -110,7 +70,7 @@
       "description": "Multi-agent system for software development",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 40,
+      "stars": 41,
       "forks": 13,
       "added_stars": "0 stars today"
     },
@@ -120,7 +80,7 @@
       "description": "This repository provides SAP style guides for coding and coding-related topics.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 1990,
+      "stars": 1987,
       "forks": 497,
       "added_stars": "2 stars today"
     },
@@ -130,29 +90,49 @@
       "description": "🔥 A Complete List of GitHub Profile Badges and Achievements 🔥",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 3036,
-      "forks": 306,
-      "added_stars": "3 stars today"
+      "stars": 3038,
+      "forks": 307,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "adambard / learnxinyminutes-docs",
-      "url": "https://github.com/adambard/learnxinyminutes-docs",
-      "description": "Code documentation written as code! How novel and totally my idea!",
+      "title": "swiftlang / swift-evolution",
+      "url": "https://github.com/swiftlang/swift-evolution",
+      "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 12319,
-      "forks": 3661,
+      "stars": 15863,
+      "forks": 2474,
       "added_stars": "0 stars today"
     },
     {
-      "title": "codecrafters-io / build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "title": "tiekoettercom / searx-instances-uptime",
+      "url": "https://github.com/tiekoettercom/searx-instances-uptime",
+      "description": "📈 Uptime monitor and status page for SearXNG and SearX instances",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 536576,
-      "forks": 50685,
-      "added_stars": "474 stars today"
+      "stars": 24,
+      "forks": 2,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "tldr-pages / tldr",
+      "url": "https://github.com/tldr-pages/tldr",
+      "description": "Collaborative cheatsheets for console commands 📚.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 63319,
+      "forks": 5361,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "docker / docs",
+      "url": "https://github.com/docker/docs",
+      "description": "Source repo for Docker's Documentation",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 4627,
+      "forks": 8419,
+      "added_stars": "0 stars today"
     },
     {
       "title": "adr / madr",
@@ -160,19 +140,29 @@
       "description": "Markdown Architectural Decision Records",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 2378,
+      "stars": 2384,
       "forks": 466,
-      "added_stars": "4 stars today"
+      "added_stars": "5 stars today"
     },
     {
-      "title": "microsoft / vscode-docs",
-      "url": "https://github.com/microsoft/vscode-docs",
-      "description": "Public documentation for Visual Studio Code",
+      "title": "codecrafters-io / build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 6586,
-      "forks": 5705,
-      "added_stars": "1 star today"
+      "stars": 536940,
+      "forks": 50718,
+      "added_stars": "408 stars today"
+    },
+    {
+      "title": "mdn / translated-content",
+      "url": "https://github.com/mdn/translated-content",
+      "description": "7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 2016,
+      "forks": 8313,
+      "added_stars": "0 stars today"
     }
   ]
 }

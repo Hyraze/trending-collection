@@ -2,17 +2,47 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
-      "title": "elixir-lang / elixir",
-      "url": "https://github.com/elixir-lang/elixir",
-      "description": "Simple from zero to scale",
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26593,
-      "forks": 3664,
-      "added_stars": "1 star today"
+      "stars": 8811,
+      "forks": 996,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "openai / symphony",
+      "url": "https://github.com/openai/symphony",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 26464,
+      "forks": 2684,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4627,
+      "forks": 3128,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "googleapis / elixir-google-api",
+      "url": "https://github.com/googleapis/elixir-google-api",
+      "description": "Elixir client libraries for accessing Google APIs.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 1080,
+      "forks": 474,
+      "added_stars": "0 stars today"
     },
     {
       "title": "open-telemetry / opentelemetry-erlang-contrib",
@@ -21,38 +51,28 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 216,
-      "forks": 166,
+      "forks": 167,
       "added_stars": "0 stars today"
     },
     {
-      "title": "openai / symphony",
-      "url": "https://github.com/openai/symphony",
-      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "title": "elixir-lang / elixir",
+      "url": "https://github.com/elixir-lang/elixir",
+      "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26448,
-      "forks": 2680,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "blockscout / blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 4628,
-      "forks": 3130,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "firezone / firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 8991,
-      "forks": 439,
+      "stars": 26594,
+      "forks": 3669,
       "added_stars": "3 stars today"
+    },
+    {
+      "title": "supabase / realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 7615,
+      "forks": 453,
+      "added_stars": "2 stars today"
     },
     {
       "title": "phoenixframework / phoenix",
@@ -60,58 +80,18 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23110,
-      "forks": 3085,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 28374,
-      "forks": 1772,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "phoenixframework / phoenix_live_view",
-      "url": "https://github.com/phoenixframework/phoenix_live_view",
-      "description": "Rich, real-time user experiences with server-rendered HTML",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 6812,
-      "forks": 1050,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 8805,
-      "forks": 997,
+      "stars": 23111,
+      "forks": 3090,
       "added_stars": "1 star today"
     },
     {
-      "title": "ex-aws / ex_aws",
-      "url": "https://github.com/ex-aws/ex_aws",
-      "description": "A flexible, easy to use set of clients AWS APIs for Elixir",
+      "title": "ntrepid8 / ex_crypto",
+      "url": "https://github.com/ntrepid8/ex_crypto",
+      "description": "Wrapper around the Erlang crypto module for Elixir.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1339,
-      "forks": 575,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "elixir-lsp / elixir-ls",
-      "url": "https://github.com/elixir-lsp/elixir-ls",
-      "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 1770,
-      "forks": 226,
+      "stars": 161,
+      "forks": 51,
       "added_stars": "0 stars today"
     },
     {
@@ -125,44 +105,34 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "livebook-dev / livebook",
-      "url": "https://github.com/livebook-dev/livebook",
-      "description": "Automate code & data workflows with interactive Elixir notebooks",
+      "title": "wintermeyer / vutuv",
+      "url": "https://github.com/wintermeyer/vutuv",
+      "description": "vutuv is a social network. Think of it as a fast, secure and less annoying open-source alternative for LinkedIn, Facebook and X.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5834,
-      "forks": 506,
+      "stars": 328,
+      "forks": 42,
       "added_stars": "0 stars today"
     },
     {
-      "title": "expert-lsp / expert",
-      "url": "https://github.com/expert-lsp/expert",
-      "description": "Official Elixir Language Server Protocol implementation",
+      "title": "elixir-ecto / ecto",
+      "url": "https://github.com/elixir-ecto/ecto",
+      "description": "A toolkit for data mapping and language integrated query.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 2030,
-      "forks": 108,
+      "stars": 6485,
+      "forks": 1481,
       "added_stars": "0 stars today"
     },
     {
-      "title": "supabase / realtime",
-      "url": "https://github.com/supabase/realtime",
-      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 7613,
-      "forks": 454,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ntrepid8 / ex_crypto",
-      "url": "https://github.com/ntrepid8/ex_crypto",
-      "description": "Wrapper around the Erlang crypto module for Elixir.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 161,
-      "forks": 51,
-      "added_stars": "0 stars today"
+      "stars": 8992,
+      "forks": 440,
+      "added_stars": "2 stars today"
     }
   ]
 }

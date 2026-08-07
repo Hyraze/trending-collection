@@ -2,47 +2,67 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
-      "title": "embabel / embabel-agent",
-      "url": "https://github.com/embabel/embabel-agent",
-      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "title": "JetBrains / kotlin",
+      "url": "https://github.com/JetBrains/kotlin",
+      "description": "The Kotlin Programming Language.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3967,
-      "forks": 397,
-      "added_stars": "21 stars today"
+      "stars": 53320,
+      "forks": 6389,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "LegadoTeam / legado",
-      "url": "https://github.com/LegadoTeam/legado",
-      "description": "Legado 3.0 Book Reader with powerful controls",
+      "title": "MatsuriDayo / NekoBoxForAndroid",
+      "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
+      "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 610,
-      "forks": 180,
-      "added_stars": "18 stars today"
+      "stars": 22202,
+      "forks": 1790,
+      "added_stars": "22 stars today"
     },
     {
-      "title": "cwuom / NeriPlayer",
-      "url": "https://github.com/cwuom/NeriPlayer",
-      "description": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵",
+      "title": "bannedbook / fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2695,
-      "forks": 92,
-      "added_stars": "7 stars today"
+      "stars": 49540,
+      "forks": 8224,
+      "added_stars": "47 stars today"
     },
     {
-      "title": "JingMatrix / Vector",
-      "url": "https://github.com/JingMatrix/Vector",
-      "description": "Modern Xposed Framework",
+      "title": "kitsumed / ShizuCallRecorder",
+      "url": "https://github.com/kitsumed/ShizuCallRecorder",
+      "description": "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 11988,
-      "forks": 805,
-      "added_stars": "19 stars today"
+      "stars": 1173,
+      "forks": 41,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "misaka10032w / Han1meViewer",
+      "url": "https://github.com/misaka10032w/Han1meViewer",
+      "description": "hanime1的三方客户端，提高了一些播放体验",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 212,
+      "forks": 17,
+      "added_stars": "43 stars today"
+    },
+    {
+      "title": "Dev4Mod / WaEnhancer",
+      "url": "https://github.com/Dev4Mod/WaEnhancer",
+      "description": "WhatsApp tools for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 1617,
+      "forks": 216,
+      "added_stars": "5 stars today"
     },
     {
       "title": "thunderbird / thunderbird-android",
@@ -50,99 +70,39 @@
       "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 13801,
-      "forks": 2779,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "Ujhhgtg / WeKit",
-      "url": "https://github.com/Ujhhgtg/WeKit",
-      "description": "WeChat, now with superpowers",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 448,
-      "forks": 97,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "JetBrains / kotlin",
-      "url": "https://github.com/JetBrains/kotlin",
-      "description": "The Kotlin Programming Language.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 53315,
-      "forks": 6388,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "mpv-android / mpv-android",
-      "url": "https://github.com/mpv-android/mpv-android",
-      "description": "Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 3444,
-      "forks": 447,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "android / compose-samples",
-      "url": "https://github.com/android/compose-samples",
-      "description": "Official Jetpack Compose samples.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 23352,
-      "forks": 5460,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "recloudstream / cloudstream",
-      "url": "https://github.com/recloudstream/cloudstream",
-      "description": "Android app for streaming and downloading media.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 10365,
-      "forks": 986,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "mihonapp / mihon",
-      "url": "https://github.com/mihonapp/mihon",
-      "description": "Free and open source manga reader for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 22592,
-      "forks": 1377,
-      "added_stars": "42 stars today"
-    },
-    {
-      "title": "bitwarden / android",
-      "url": "https://github.com/bitwarden/android",
-      "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 9174,
-      "forks": 1025,
+      "stars": 13803,
+      "forks": 2778,
       "added_stars": "4 stars today"
     },
     {
-      "title": "Arturo254 / OpenTune",
-      "url": "https://github.com/Arturo254/OpenTune",
-      "description": "Un cliente de YouTube Music con Material Design 3, para Android",
+      "title": "Kotlin / kotlin-lsp",
+      "url": "https://github.com/Kotlin/kotlin-lsp",
+      "description": "Kotlin Language Server and plugin for Visual Studio Code",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1805,
-      "forks": 150,
-      "added_stars": "11 stars today"
+      "stars": 3460,
+      "forks": 85,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "prof18 / feed-flow",
-      "url": "https://github.com/prof18/feed-flow",
-      "description": "FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.",
+      "title": "KotatsuApp / Kotatsu",
+      "url": "https://github.com/KotatsuApp/Kotatsu",
+      "description": "Manga reader for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1094,
-      "forks": 58,
-      "added_stars": "28 stars today"
+      "stars": 8793,
+      "forks": 873,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "android / nowinandroid",
+      "url": "https://github.com/android/nowinandroid",
+      "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 21636,
+      "forks": 4560,
+      "added_stars": "6 stars today"
     },
     {
       "title": "signalapp / Signal-Android",
@@ -150,29 +110,29 @@
       "description": "A private messenger for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 29161,
-      "forks": 6828,
-      "added_stars": "8 stars today"
+      "stars": 29166,
+      "forks": 6831,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "aws / aws-sdk-kotlin",
-      "url": "https://github.com/aws/aws-sdk-kotlin",
-      "description": "Multiplatform AWS SDK for Kotlin",
+      "title": "Ujhhgtg / WeKit",
+      "url": "https://github.com/Ujhhgtg/WeKit",
+      "description": "WeChat, now with superpowers",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 501,
-      "forks": 64,
-      "added_stars": "0 stars today"
+      "stars": 454,
+      "forks": 98,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "element-hq / element-x-android",
-      "url": "https://github.com/element-hq/element-x-android",
-      "description": "Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose",
+      "title": "libre-tube / LibreTube",
+      "url": "https://github.com/libre-tube/LibreTube",
+      "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2309,
-      "forks": 580,
-      "added_stars": "2 stars today"
+      "stars": 12418,
+      "forks": 637,
+      "added_stars": "3 stars today"
     }
   ]
 }

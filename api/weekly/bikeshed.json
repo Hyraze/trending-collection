@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "webmachinelearning / webmcp",
@@ -10,9 +10,9 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 2944,
+      "stars": 2950,
       "forks": 189,
-      "added_stars": "51 stars this week"
+      "added_stars": "46 stars this week"
     },
     {
       "title": "w3c / csswg-drafts",
@@ -20,9 +20,9 @@
       "description": "CSS Working Group Editor Drafts",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4854,
+      "stars": 4855,
       "forks": 803,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "gpuweb / gpuweb",
@@ -32,17 +32,7 @@
       "languageColor": "#5562ac",
       "stars": 5447,
       "forks": 375,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "w3c / attribution",
-      "url": "https://github.com/w3c/attribution",
-      "description": "Attribution API",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 107,
-      "forks": 84,
-      "added_stars": "1 star this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "w3c / ServiceWorker",
@@ -62,16 +52,6 @@
       "languageColor": "#5562ac",
       "stars": 429,
       "forks": 180,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "patcg-individual-drafts / topics",
-      "url": "https://github.com/patcg-individual-drafts/topics",
-      "description": "The Topics API",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 873,
-      "forks": 888,
       "added_stars": "1 star this week"
     },
     {
@@ -95,6 +75,16 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "patcg-individual-drafts / topics",
+      "url": "https://github.com/patcg-individual-drafts/topics",
+      "description": "The Topics API",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 873,
+      "forks": 888,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "w3c / webextensions",
       "url": "https://github.com/w3c/webextensions",
       "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
@@ -111,8 +101,8 @@
       "language": "Bikeshed",
       "languageColor": "#5562ac",
       "stars": 398,
-      "forks": 166,
-      "added_stars": "1 star this week"
+      "forks": 167,
+      "added_stars": "0 stars this week"
     }
   ]
 }

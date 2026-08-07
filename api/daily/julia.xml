@@ -4,11 +4,11 @@
   <title>GitHub Julia Languages Daily Trending</title>
   <description>Daily Trending of Julia Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
   <item>
-    <title>JuliaLang / julia</title>
-    <link>https://github.com/JuliaLang/julia</link>
-    <description>The Julia Programming Language</description>
+    <title>CliMA / ClimaAtmos.jl</title>
+    <link>https://github.com/CliMA/ClimaAtmos.jl</link>
+    <description>GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning</description>
   </item>
   <item>
     <title>JuliaRegistries / General</title>
@@ -16,19 +16,9 @@
     <description>The official registry of general Julia packages</description>
   </item>
   <item>
-    <title>CliMA / ClimaLand.jl</title>
-    <link>https://github.com/CliMA/ClimaLand.jl</link>
-    <description>Modular, GPU-capable land surface model of the CliMA Earth System Model, designed for data-driven parameterizations</description>
-  </item>
-  <item>
-    <title>CliMA / ClimaAtmos.jl</title>
-    <link>https://github.com/CliMA/ClimaAtmos.jl</link>
-    <description>GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning</description>
-  </item>
-  <item>
-    <title>CliMA / ClimaCoupler.jl</title>
-    <link>https://github.com/CliMA/ClimaCoupler.jl</link>
-    <description>ClimaCoupler: bringing atmosphere, land, and ocean together</description>
+    <title>JuliaPlots / Plots.jl</title>
+    <link>https://github.com/JuliaPlots/Plots.jl</link>
+    <description>Powerful convenience for Julia visualizations and data analysis</description>
   </item>
   <item>
     <title>CliMA / ClimaCore.jl</title>
@@ -36,9 +26,19 @@
     <description>GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools</description>
   </item>
   <item>
-    <title>CliMA / Oceananigans.jl</title>
-    <link>https://github.com/CliMA/Oceananigans.jl</link>
-    <description>🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs</description>
+    <title>MakieOrg / Makie.jl</title>
+    <link>https://github.com/MakieOrg/Makie.jl</link>
+    <description>Interactive data visualizations and plotting in Julia</description>
+  </item>
+  <item>
+    <title>CliMA / ClimaLand.jl</title>
+    <link>https://github.com/CliMA/ClimaLand.jl</link>
+    <description>Modular, GPU-capable land surface model of the CliMA Earth System Model, designed for data-driven parameterizations</description>
+  </item>
+  <item>
+    <title>CliMA / ClimaCoupler.jl</title>
+    <link>https://github.com/CliMA/ClimaCoupler.jl</link>
+    <description>ClimaCoupler: bringing atmosphere, land, and ocean together</description>
   </item>
 </channel>
 </rss>

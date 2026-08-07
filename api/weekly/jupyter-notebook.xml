@@ -4,7 +4,7 @@
   <title>GitHub Jupyter-notebook Languages Daily Trending</title>
   <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
   <item>
     <title>microsoft / AI-For-Beginners</title>
     <link>https://github.com/microsoft/AI-For-Beginners</link>
@@ -31,11 +31,6 @@
     <description>《动手学大模型Dive into LLMs》系列编程实践教程</description>
   </item>
   <item>
-    <title>chiphuyen / aie-book</title>
-    <link>https://github.com/chiphuyen/aie-book</link>
-    <description>[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)</description>
-  </item>
-  <item>
     <title>microsoft / ai-agents-for-beginners</title>
     <link>https://github.com/microsoft/ai-agents-for-beginners</link>
     <description>18 Lessons to Get Started Building AI Agents</description>
@@ -46,9 +41,9 @@
     <description>All course materials for the Zero to Mastery Machine Learning and Data Science course.</description>
   </item>
   <item>
-    <title>Infrasys-AI / AISystem</title>
-    <link>https://github.com/Infrasys-AI/AISystem</link>
-    <description>AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术</description>
+    <title>chiphuyen / aie-book</title>
+    <link>https://github.com/chiphuyen/aie-book</link>
+    <description>[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)</description>
   </item>
   <item>
     <title>microsoft / ML-For-Beginners</title>
@@ -56,14 +51,9 @@
     <description>12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</description>
   </item>
   <item>
-    <title>microsoft / mcp-for-beginners</title>
-    <link>https://github.com/microsoft/mcp-for-beginners</link>
-    <description>This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.</description>
-  </item>
-  <item>
-    <title>ed-donner / llm_engineering</title>
-    <link>https://github.com/ed-donner/llm_engineering</link>
-    <description>Repo to accompany my mastering LLM engineering course</description>
+    <title>Infrasys-AI / AISystem</title>
+    <link>https://github.com/Infrasys-AI/AISystem</link>
+    <description>AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术</description>
   </item>
   <item>
     <title>openai / openai-cookbook</title>
@@ -71,19 +61,9 @@
     <description>Examples and guides for using the OpenAI API</description>
   </item>
   <item>
-    <title>Infrasys-AI / AIInfra</title>
-    <link>https://github.com/Infrasys-AI/AIInfra</link>
-    <description>AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。</description>
-  </item>
-  <item>
-    <title>kubernetes / community</title>
-    <link>https://github.com/kubernetes/community</link>
-    <description>Kubernetes Community Documentation</description>
-  </item>
-  <item>
-    <title>dscripka / openWakeWord</title>
-    <link>https://github.com/dscripka/openWakeWord</link>
-    <description>An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.</description>
+    <title>microsoft / mcp-for-beginners</title>
+    <link>https://github.com/microsoft/mcp-for-beginners</link>
+    <description>This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.</description>
   </item>
   <item>
     <title>jackfrued / Python-100-Days</title>
@@ -96,14 +76,29 @@
     <description>A latent text-to-image diffusion model</description>
   </item>
   <item>
-    <title>romanmichaelpaolucci / Quant-Guild-Library</title>
-    <link>https://github.com/romanmichaelpaolucci/Quant-Guild-Library</link>
-    <description>A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci</description>
+    <title>Infrasys-AI / AIInfra</title>
+    <link>https://github.com/Infrasys-AI/AIInfra</link>
+    <description>AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。</description>
   </item>
   <item>
-    <title>pathwaycom / llm-app</title>
-    <link>https://github.com/pathwaycom/llm-app</link>
-    <description>Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</description>
+    <title>karpathy / micrograd</title>
+    <link>https://github.com/karpathy/micrograd</link>
+    <description>A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</description>
+  </item>
+  <item>
+    <title>dscripka / openWakeWord</title>
+    <link>https://github.com/dscripka/openWakeWord</link>
+    <description>An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.</description>
+  </item>
+  <item>
+    <title>kubernetes / community</title>
+    <link>https://github.com/kubernetes/community</link>
+    <description>Kubernetes Community Documentation</description>
+  </item>
+  <item>
+    <title>charliedream1 / ai_quant_trade</title>
+    <link>https://github.com/charliedream1/ai_quant_trade</link>
+    <description>股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易</description>
   </item>
 </channel>
 </rss>

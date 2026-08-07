@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "tw93 / Mole",
@@ -10,9 +10,9 @@
       "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 62178,
-      "forks": 2193,
-      "added_stars": "1,548 stars this week"
+      "stars": 62338,
+      "forks": 2196,
+      "added_stars": "1,534 stars this week"
     },
     {
       "title": "mattpocock / skills",
@@ -20,29 +20,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 205340,
-      "forks": 17738,
-      "added_stars": "10,682 stars this week"
-    },
-    {
-      "title": "InfinityLoop1308 / PipePipe",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "description": "An open-source Android app to let you browse YouTube and other services freely.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 5814,
-      "forks": 190,
-      "added_stars": "68 stars this week"
-    },
-    {
-      "title": "dockur / macos",
-      "url": "https://github.com/dockur/macos",
-      "description": "MacOS inside a Docker container.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 21313,
-      "forks": 1097,
-      "added_stars": "192 stars this week"
+      "stars": 207392,
+      "forks": 17911,
+      "added_stars": "10,969 stars this week"
     },
     {
       "title": "themactep / thingino-firmware",
@@ -50,39 +30,9 @@
       "description": "Open-source firmware for Ingenic SoC IP cameras",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1987,
+      "stars": 1990,
       "forks": 283,
-      "added_stars": "130 stars this week"
-    },
-    {
-      "title": "ROCm / ROCm",
-      "url": "https://github.com/ROCm/ROCm",
-      "description": "AMD ROCm™ Software - GitHub Home",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 6749,
-      "forks": 592,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "HQarroum / docker-android",
-      "url": "https://github.com/HQarroum/docker-android",
-      "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 7207,
-      "forks": 551,
-      "added_stars": "122 stars this week"
-    },
-    {
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 267465,
-      "forks": 23899,
-      "added_stars": "4,352 stars this week"
+      "added_stars": "116 stars this week"
     },
     {
       "title": "basecamp / omarchy",
@@ -90,19 +40,19 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 24316,
-      "forks": 2442,
-      "added_stars": "159 stars this week"
+      "stars": 24360,
+      "forks": 2445,
+      "added_stars": "175 stars this week"
     },
     {
-      "title": "nvm-sh / nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "title": "InfinityLoop1308 / PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 94347,
-      "forks": 10315,
-      "added_stars": "92 stars this week"
+      "stars": 5826,
+      "forks": 191,
+      "added_stars": "76 stars this week"
     },
     {
       "title": "Astrosp / Awesome-OSINT-List",
@@ -110,19 +60,9 @@
       "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 4110,
+      "stars": 4126,
       "forks": 538,
-      "added_stars": "187 stars this week"
-    },
-    {
-      "title": "deanpeters / Product-Manager-Skills",
-      "url": "https://github.com/deanpeters/Product-Manager-Skills",
-      "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 6276,
-      "forks": 761,
-      "added_stars": "244 stars this week"
+      "added_stars": "197 stars this week"
     },
     {
       "title": "dockur / windows",
@@ -130,9 +70,19 @@
       "description": "Windows inside a Docker container.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 52754,
-      "forks": 4576,
-      "added_stars": "139 stars this week"
+      "stars": 52771,
+      "forks": 4579,
+      "added_stars": "116 stars this week"
+    },
+    {
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 94359,
+      "forks": 10322,
+      "added_stars": "85 stars this week"
     },
     {
       "title": "awesome-jellyfin / awesome-jellyfin",
@@ -140,39 +90,9 @@
       "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 8817,
+      "stars": 8827,
       "forks": 260,
-      "added_stars": "83 stars this week"
-    },
-    {
-      "title": "termux / termux-packages",
-      "url": "https://github.com/termux/termux-packages",
-      "description": "A package build system for Termux.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 16729,
-      "forks": 4278,
-      "added_stars": "51 stars this week"
-    },
-    {
-      "title": "czlonkowski / n8n-skills",
-      "url": "https://github.com/czlonkowski/n8n-skills",
-      "description": "n8n skillset for Claude Code to build flawless n8n workflows",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 5989,
-      "forks": 998,
-      "added_stars": "75 stars this week"
-    },
-    {
-      "title": "ophub / amlogic-s9xxx-armbian",
-      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
-      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 9569,
-      "forks": 3074,
-      "added_stars": "47 stars this week"
+      "added_stars": "85 stars this week"
     },
     {
       "title": "github / copilot-cli",
@@ -180,9 +100,79 @@
       "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 11066,
-      "forks": 1871,
-      "added_stars": "52 stars this week"
+      "stars": 11065,
+      "forks": 1873,
+      "added_stars": "51 stars this week"
+    },
+    {
+      "title": "xiv3r / Burpsuite-Professional",
+      "url": "https://github.com/xiv3r/Burpsuite-Professional",
+      "description": "Burpsuite Professional Latest Version 2026",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2845,
+      "forks": 689,
+      "added_stars": "47 stars this week"
+    },
+    {
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 268220,
+      "forks": 23967,
+      "added_stars": "4,427 stars this week"
+    },
+    {
+      "title": "HQarroum / docker-android",
+      "url": "https://github.com/HQarroum/docker-android",
+      "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 7211,
+      "forks": 551,
+      "added_stars": "88 stars this week"
+    },
+    {
+      "title": "deanpeters / Product-Manager-Skills",
+      "url": "https://github.com/deanpeters/Product-Manager-Skills",
+      "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 6302,
+      "forks": 764,
+      "added_stars": "217 stars this week"
+    },
+    {
+      "title": "czlonkowski / n8n-skills",
+      "url": "https://github.com/czlonkowski/n8n-skills",
+      "description": "n8n skillset for Claude Code to build flawless n8n workflows",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 5993,
+      "forks": 996,
+      "added_stars": "70 stars this week"
+    },
+    {
+      "title": "a2aproject / A2A",
+      "url": "https://github.com/a2aproject/A2A",
+      "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 25226,
+      "forks": 2551,
+      "added_stars": "131 stars this week"
+    },
+    {
+      "title": "BtbN / FFmpeg-Builds",
+      "url": "https://github.com/BtbN/FFmpeg-Builds",
+      "description": "",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 11423,
+      "forks": 1491,
+      "added_stars": "71 stars this week"
     }
   ]
 }

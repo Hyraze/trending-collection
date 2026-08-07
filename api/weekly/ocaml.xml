@@ -4,21 +4,11 @@
   <title>GitHub Ocaml Languages Daily Trending</title>
   <description>Daily Trending of Ocaml Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
   <item>
     <title>ocaml / ocaml</title>
     <link>https://github.com/ocaml/ocaml</link>
     <description>The core OCaml system: compilers, runtime system, base libraries</description>
-  </item>
-  <item>
-    <title>opengrep / opengrep</title>
-    <link>https://github.com/opengrep/opengrep</link>
-    <description>🔎 Static code analysis engine to find security issues in code.</description>
-  </item>
-  <item>
-    <title>rocq-prover / rocq</title>
-    <link>https://github.com/rocq-prover/rocq</link>
-    <description>The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.</description>
   </item>
   <item>
     <title>semgrep / semgrep</title>
@@ -31,24 +21,29 @@
     <description>A Rust verification tool</description>
   </item>
   <item>
+    <title>rocq-prover / rocq</title>
+    <link>https://github.com/rocq-prover/rocq</link>
+    <description>The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.</description>
+  </item>
+  <item>
+    <title>ocaml / opam</title>
+    <link>https://github.com/ocaml/opam</link>
+    <description>opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.</description>
+  </item>
+  <item>
     <title>ocaml / dune</title>
     <link>https://github.com/ocaml/dune</link>
     <description>A composable build system for OCaml.</description>
   </item>
   <item>
-    <title>oxcaml / oxcaml</title>
-    <link>https://github.com/oxcaml/oxcaml</link>
-    <description>OCaml - Oxidized!</description>
+    <title>opengrep / opengrep</title>
+    <link>https://github.com/opengrep/opengrep</link>
+    <description>🔎 Static code analysis engine to find security issues in code.</description>
   </item>
   <item>
-    <title>caffeinelabs / motoko</title>
-    <link>https://github.com/caffeinelabs/motoko</link>
-    <description>Simple high-level language for writing Internet Computer canisters</description>
-  </item>
-  <item>
-    <title>janestreet / hardcaml</title>
-    <link>https://github.com/janestreet/hardcaml</link>
-    <description>Hardcaml is an OCaml library for designing hardware.</description>
+    <title>janestreet / magic-trace</title>
+    <link>https://github.com/janestreet/magic-trace</link>
+    <description>magic-trace collects and displays high-resolution traces of what a process is doing</description>
   </item>
   <item>
     <title>semgrep / ocaml-tree-sitter-core</title>
@@ -59,6 +54,21 @@
     <title>MinaProtocol / mina</title>
     <link>https://github.com/MinaProtocol/mina</link>
     <description>Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.</description>
+  </item>
+  <item>
+    <title>oxcaml / oxcaml</title>
+    <link>https://github.com/oxcaml/oxcaml</link>
+    <description>OCaml - Oxidized!</description>
+  </item>
+  <item>
+    <title>janestreet / hardcaml</title>
+    <link>https://github.com/janestreet/hardcaml</link>
+    <description>Hardcaml is an OCaml library for designing hardware.</description>
+  </item>
+  <item>
+    <title>facebook / infer</title>
+    <link>https://github.com/facebook/infer</link>
+    <description>A static analyzer for Java, C, C++, and Objective-C</description>
   </item>
 </channel>
 </rss>

@@ -4,106 +4,11 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
-  <item>
-    <title>gabime / spdlog</title>
-    <link>https://github.com/gabime/spdlog</link>
-    <description>Fast C++ logging library.</description>
-  </item>
-  <item>
-    <title>google / googletest</title>
-    <link>https://github.com/google/googletest</link>
-    <description>GoogleTest - Google Testing and Mocking Framework</description>
-  </item>
-  <item>
-    <title>nlohmann / json</title>
-    <link>https://github.com/nlohmann/json</link>
-    <description>JSON for Modern C++</description>
-  </item>
-  <item>
-    <title>SwagSoftware / KisakCOD</title>
-    <link>https://github.com/SwagSoftware/KisakCOD</link>
-    <description>COD4 Open Source Reimplementation</description>
-  </item>
-  <item>
-    <title>ggml-org / llama.cpp</title>
-    <link>https://github.com/ggml-org/llama.cpp</link>
-    <description>LLM inference in C/C++</description>
-  </item>
-  <item>
-    <title>mltframework / shotcut</title>
-    <link>https://github.com/mltframework/shotcut</link>
-    <description>cross-platform (Qt), open-source (GPLv3) video editor</description>
-  </item>
-  <item>
-    <title>orailnoor / cross-platform-llm-client</title>
-    <link>https://github.com/orailnoor/cross-platform-llm-client</link>
-    <description>A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.</description>
-  </item>
+  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
   <item>
     <title>FEX-Emu / FEX</title>
     <link>https://github.com/FEX-Emu/FEX</link>
     <description>A fast usermode x86 and x86-64 emulator for Arm64 Linux</description>
-  </item>
-  <item>
-    <title>LadybirdBrowser / ladybird</title>
-    <link>https://github.com/LadybirdBrowser/ladybird</link>
-    <description>Truly independent web browser</description>
-  </item>
-  <item>
-    <title>ai-dynamo / nixl</title>
-    <link>https://github.com/ai-dynamo/nixl</link>
-    <description>NVIDIA Inference Xfer Library (NIXL)</description>
-  </item>
-  <item>
-    <title>MariaDB / server</title>
-    <link>https://github.com/MariaDB/server</link>
-    <description>MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.</description>
-  </item>
-  <item>
-    <title>iree-org / iree</title>
-    <link>https://github.com/iree-org/iree</link>
-    <description>A retargetable MLIR-based machine learning compiler and runtime toolkit.</description>
-  </item>
-  <item>
-    <title>envoyproxy / envoy</title>
-    <link>https://github.com/envoyproxy/envoy</link>
-    <description>Cloud-native high-performance edge/middle/service proxy</description>
-  </item>
-  <item>
-    <title>dyang886 / Game-Cheats-Manager</title>
-    <link>https://github.com/dyang886/Game-Cheats-Manager</link>
-    <description>Easily download and manage single-player game cheats for your convenience</description>
-  </item>
-  <item>
-    <title>ArduPilot / ardupilot</title>
-    <link>https://github.com/ArduPilot/ardupilot</link>
-    <description>ArduPlane, ArduCopter, ArduRover, ArduSub source</description>
-  </item>
-  <item>
-    <title>NVIDIA / nccl</title>
-    <link>https://github.com/NVIDIA/nccl</link>
-    <description>Optimized primitives for collective multi-GPU communication</description>
-  </item>
-  <item>
-    <title>godotengine / godot</title>
-    <link>https://github.com/godotengine/godot</link>
-    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
-  </item>
-  <item>
-    <title>telegramdesktop / tdesktop</title>
-    <link>https://github.com/telegramdesktop/tdesktop</link>
-    <description>Telegram Desktop messaging app</description>
-  </item>
-  <item>
-    <title>google / or-tools</title>
-    <link>https://github.com/google/or-tools</link>
-    <description>Google&#x27;s Operations Research tools:</description>
-  </item>
-  <item>
-    <title>EsotericSoftware / spine-runtimes</title>
-    <link>https://github.com/EsotericSoftware/spine-runtimes</link>
-    <description>2D skeletal animation runtimes for Spine.</description>
   </item>
   <item>
     <title>tensorflow / tensorflow</title>
@@ -111,9 +16,109 @@
     <description>An Open Source Machine Learning Framework for Everyone</description>
   </item>
   <item>
-    <title>bitcoin / bitcoin</title>
-    <link>https://github.com/bitcoin/bitcoin</link>
-    <description>Bitcoin Core integration/staging tree</description>
+    <title>ai-dynamo / nixl</title>
+    <link>https://github.com/ai-dynamo/nixl</link>
+    <description>NVIDIA Inference Xfer Library (NIXL)</description>
+  </item>
+  <item>
+    <title>Fincept-Corporation / FinceptTerminal</title>
+    <link>https://github.com/Fincept-Corporation/FinceptTerminal</link>
+    <description>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.</description>
+  </item>
+  <item>
+    <title>orailnoor / cross-platform-llm-client</title>
+    <link>https://github.com/orailnoor/cross-platform-llm-client</link>
+    <description>A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.</description>
+  </item>
+  <item>
+    <title>google / googletest</title>
+    <link>https://github.com/google/googletest</link>
+    <description>GoogleTest - Google Testing and Mocking Framework</description>
+  </item>
+  <item>
+    <title>gabime / spdlog</title>
+    <link>https://github.com/gabime/spdlog</link>
+    <description>Fast C++ logging library.</description>
+  </item>
+  <item>
+    <title>cloudflare / workerd</title>
+    <link>https://github.com/cloudflare/workerd</link>
+    <description>The JavaScript / Wasm runtime that powers Cloudflare Workers</description>
+  </item>
+  <item>
+    <title>colmap / colmap</title>
+    <link>https://github.com/colmap/colmap</link>
+    <description>COLMAP - Structure-from-Motion and Multi-View Stereo</description>
+  </item>
+  <item>
+    <title>nlohmann / json</title>
+    <link>https://github.com/nlohmann/json</link>
+    <description>JSON for Modern C++</description>
+  </item>
+  <item>
+    <title>MariaDB / server</title>
+    <link>https://github.com/MariaDB/server</link>
+    <description>MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.</description>
+  </item>
+  <item>
+    <title>realsenseai / librealsense</title>
+    <link>https://github.com/realsenseai/librealsense</link>
+    <description>RealSense SDK</description>
+  </item>
+  <item>
+    <title>carla-simulator / carla</title>
+    <link>https://github.com/carla-simulator/carla</link>
+    <description>Open-source simulator for autonomous driving research.</description>
+  </item>
+  <item>
+    <title>godotengine / godot</title>
+    <link>https://github.com/godotengine/godot</link>
+    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
+  </item>
+  <item>
+    <title>facebookresearch / faiss</title>
+    <link>https://github.com/facebookresearch/faiss</link>
+    <description>A library for efficient similarity search and clustering of dense vectors.</description>
+  </item>
+  <item>
+    <title>PX4 / PX4-Autopilot</title>
+    <link>https://github.com/PX4/PX4-Autopilot</link>
+    <description>PX4 Autopilot Software</description>
+  </item>
+  <item>
+    <title>78 / xiaozhi-esp32</title>
+    <link>https://github.com/78/xiaozhi-esp32</link>
+    <description>An MCP-based chatbot | 一个基于MCP的聊天机器人</description>
+  </item>
+  <item>
+    <title>ggml-org / llama.cpp</title>
+    <link>https://github.com/ggml-org/llama.cpp</link>
+    <description>LLM inference in C/C++</description>
+  </item>
+  <item>
+    <title>microsoft / onnxruntime</title>
+    <link>https://github.com/microsoft/onnxruntime</link>
+    <description>ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</description>
+  </item>
+  <item>
+    <title>electron / electron</title>
+    <link>https://github.com/electron/electron</link>
+    <description>Build cross-platform desktop apps with JavaScript, HTML, and CSS</description>
+  </item>
+  <item>
+    <title>zeek / zeek</title>
+    <link>https://github.com/zeek/zeek</link>
+    <description>Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</description>
+  </item>
+  <item>
+    <title>ml-explore / mlx</title>
+    <link>https://github.com/ml-explore/mlx</link>
+    <description>MLX: An array framework for Apple silicon</description>
+  </item>
+  <item>
+    <title>microsoft / terminal</title>
+    <link>https://github.com/microsoft/terminal</link>
+    <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
   </item>
 </channel>
 </rss>

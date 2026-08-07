@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 19862,
-      "forks": 3076,
-      "added_stars": "57 stars this week"
+      "stars": 19875,
+      "forks": 3077,
+      "added_stars": "62 stars this week"
     },
     {
       "title": "triton-lang / triton-ascend",
@@ -20,9 +20,9 @@
       "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 129,
-      "forks": 173,
-      "added_stars": "10 stars this week"
+      "stars": 131,
+      "forks": 174,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "tenstorrent / tt-mlir",
@@ -40,9 +40,19 @@
       "description": "A compiler for homomorphic encryption",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 757,
+      "stars": 760,
       "forks": 150,
-      "added_stars": "2 stars this week"
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "intel / intel-xpu-backend-for-triton",
+      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
+      "description": "OpenAI Triton backend for Intel® GPUs",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 264,
+      "forks": 105,
+      "added_stars": "1 star this week"
     },
     {
       "title": "facebookexperimental / triton",
@@ -55,14 +65,14 @@
       "added_stars": "4 stars this week"
     },
     {
-      "title": "intel / intel-xpu-backend-for-triton",
-      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
-      "description": "OpenAI Triton backend for Intel® GPUs",
+      "title": "openxla / stablehlo",
+      "url": "https://github.com/openxla/stablehlo",
+      "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 264,
-      "forks": 106,
-      "added_stars": "2 stars this week"
+      "stars": 679,
+      "forks": 213,
+      "added_stars": "3 stars this week"
     }
   ]
 }

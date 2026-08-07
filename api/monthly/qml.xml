@@ -4,7 +4,7 @@
   <title>GitHub Qml Languages Daily Trending</title>
   <description>Daily Trending of Qml Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:17:14 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
   <item>
     <title>caelestia-dots / shell</title>
     <link>https://github.com/caelestia-dots/shell</link>
@@ -16,14 +16,19 @@
     <description>Usability-first dotfiles</description>
   </item>
   <item>
-    <title>Swordfish90 / cool-retro-term</title>
-    <link>https://github.com/Swordfish90/cool-retro-term</link>
-    <description>A good looking terminal emulator which mimics the old cathode display...</description>
+    <title>AvengeMedia / DankMaterialShell</title>
+    <link>https://github.com/AvengeMedia/DankMaterialShell</link>
+    <description>Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.</description>
   </item>
   <item>
     <title>mylinuxforwork / dotfiles</title>
     <link>https://github.com/mylinuxforwork/dotfiles</link>
     <description>The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.</description>
+  </item>
+  <item>
+    <title>Swordfish90 / cool-retro-term</title>
+    <link>https://github.com/Swordfish90/cool-retro-term</link>
+    <description>A good looking terminal emulator which mimics the old cathode display...</description>
   </item>
   <item>
     <title>snowarch / iNiR</title>
@@ -44,11 +49,6 @@
     <title>Darkkal44 / qylock</title>
     <link>https://github.com/Darkkal44/qylock</link>
     <description>A cozy collection of sddm-themes &amp; quickshell lockscreen setups.</description>
-  </item>
-  <item>
-    <title>AvengeMedia / DankMaterialShell</title>
-    <link>https://github.com/AvengeMedia/DankMaterialShell</link>
-    <description>Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.</description>
   </item>
   <item>
     <title>luisbocanegra / plasma-panel-colorizer</title>
@@ -79,6 +79,11 @@
     <title>vinceliuice / WhiteSur-kde</title>
     <link>https://github.com/vinceliuice/WhiteSur-kde</link>
     <description>MacOS big sur theme for kde plasma</description>
+  </item>
+  <item>
+    <title>jaxparrow07 / liquidglass-kde-widgets</title>
+    <link>https://github.com/jaxparrow07/liquidglass-kde-widgets</link>
+    <description>Liquid Glass Widgets (MacOS) for KDE Plasma</description>
   </item>
 </channel>
 </rss>

@@ -2,27 +2,17 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
-    {
-      "title": "golang-standards / project-layout",
-      "url": "https://github.com/golang-standards/project-layout",
-      "description": "Standard Go Project Layout",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 56402,
-      "forks": 5432,
-      "added_stars": "56 stars this week"
-    },
     {
       "title": "deepseek-ai / DeepSeek-LLM",
       "url": "https://github.com/deepseek-ai/DeepSeek-LLM",
       "description": "DeepSeek LLM: Let there be answers",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 7203,
-      "forks": 1270,
-      "added_stars": "40 stars this week"
+      "stars": 7208,
+      "forks": 1279,
+      "added_stars": "44 stars this week"
     },
     {
       "title": "ROCKNIX / distribution",
@@ -30,29 +20,19 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1473,
-      "forks": 323,
-      "added_stars": "23 stars this week"
+      "stars": 1475,
+      "forks": 324,
+      "added_stars": "22 stars this week"
     },
     {
-      "title": "openwrt / packages",
-      "url": "https://github.com/openwrt/packages",
-      "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
+      "title": "golang-standards / project-layout",
+      "url": "https://github.com/golang-standards/project-layout",
+      "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4573,
-      "forks": 3933,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "HaveAGitGat / Tdarr",
-      "url": "https://github.com/HaveAGitGat/Tdarr",
-      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4261,
-      "forks": 120,
-      "added_stars": "17 stars this week"
+      "stars": 56410,
+      "forks": 5433,
+      "added_stars": "61 stars this week"
     },
     {
       "title": "open-telemetry / opentelemetry-proto",
@@ -65,14 +45,34 @@
       "added_stars": "4 stars this week"
     },
     {
+      "title": "HaveAGitGat / Tdarr",
+      "url": "https://github.com/HaveAGitGat/Tdarr",
+      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4261,
+      "forks": 120,
+      "added_stars": "16 stars this week"
+    },
+    {
       "title": "open-telemetry / opentelemetry-specification",
       "url": "https://github.com/open-telemetry/opentelemetry-specification",
       "description": "Specifications for OpenTelemetry",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4301,
+      "stars": 4302,
       "forks": 992,
-      "added_stars": "7 stars this week"
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "openwrt / packages",
+      "url": "https://github.com/openwrt/packages",
+      "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4574,
+      "forks": 3934,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "geneontology / go-ontology",
@@ -85,16 +85,6 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "twilio / twilio-oai",
-      "url": "https://github.com/twilio/twilio-oai",
-      "description": "The Twilio OpenAPI Specification",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 167,
-      "forks": 105,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "upbound / build",
       "url": "https://github.com/upbound/build",
       "description": "Upbound build and CI scripts",
@@ -105,34 +95,34 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "foostan / crkbd",
-      "url": "https://github.com/foostan/crkbd",
-      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 7581,
-      "forks": 1098,
-      "added_stars": "20 stars this week"
-    },
-    {
-      "title": "dbt-labs / dbt-utils",
-      "url": "https://github.com/dbt-labs/dbt-utils",
-      "description": "Utility functions for dbt projects.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1786,
-      "forks": 630,
-      "added_stars": "4 stars this week"
-    },
-    {
       "title": "LibreELEC / LibreELEC.tv",
       "url": "https://github.com/LibreELEC/LibreELEC.tv",
       "description": "Just enough OS for KODI",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 2793,
-      "forks": 1193,
-      "added_stars": "5 stars this week"
+      "stars": 2794,
+      "forks": 1195,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "foostan / crkbd",
+      "url": "https://github.com/foostan/crkbd",
+      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7583,
+      "forks": 1098,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "githubnext / agentics",
+      "url": "https://github.com/githubnext/agentics",
+      "description": "A sample pack of GitHub Agentic Workflows!",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 886,
+      "forks": 130,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "pfsense / FreeBSD-ports",
@@ -145,24 +135,34 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "awesome-selfhosted / awesome-selfhosted-data",
-      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
-      "description": "machine-readable data for https://awesome-selfhosted.net",
+      "title": "uber-go / guide",
+      "url": "https://github.com/uber-go/guide",
+      "description": "The Uber Go Style Guide.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1086,
-      "forks": 1236,
-      "added_stars": "9 stars this week"
+      "stars": 17645,
+      "forks": 1811,
+      "added_stars": "14 stars this week"
     },
     {
-      "title": "jobbole / awesome-python-cn",
-      "url": "https://github.com/jobbole/awesome-python-cn",
-      "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
+      "title": "dbt-labs / dbt-utils",
+      "url": "https://github.com/dbt-labs/dbt-utils",
+      "description": "Utility functions for dbt projects.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 30533,
-      "forks": 7944,
-      "added_stars": "26 stars this week"
+      "stars": 1787,
+      "forks": 630,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "twilio / twilio-oai",
+      "url": "https://github.com/twilio/twilio-oai",
+      "description": "The Twilio OpenAPI Specification",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 167,
+      "forks": 105,
+      "added_stars": "1 star this week"
     }
   ]
 }

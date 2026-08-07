@@ -2,17 +2,37 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
+    {
+      "title": "huggingface / agents-course",
+      "url": "https://github.com/huggingface/agents-course",
+      "description": "This repository contains the Hugging Face Agents Course.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 30743,
+      "forks": 2193,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "langchain-ai / docs",
+      "url": "https://github.com/langchain-ai/docs",
+      "description": "Unified LangChain documentation.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 392,
+      "forks": 2577,
+      "added_stars": "1 star today"
+    },
     {
       "title": "twbs / bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 174567,
-      "forks": 78690,
-      "added_stars": "18 stars today"
+      "stars": 174565,
+      "forks": 78686,
+      "added_stars": "8 stars today"
     },
     {
       "title": "cloudflare / cloudflare-docs",
@@ -20,9 +40,19 @@
       "description": "Cloudflare’s documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 5048,
-      "forks": 16227,
+      "stars": 5051,
+      "forks": 16236,
       "added_stars": "5 stars today"
+    },
+    {
+      "title": "dair-ai / Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 77319,
+      "forks": 8495,
+      "added_stars": "28 stars today"
     },
     {
       "title": "getsentry / sentry-docs",
@@ -35,24 +65,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "dair-ai / Prompt-Engineering-Guide",
-      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "title": "apache / doris-website",
+      "url": "https://github.com/apache/doris-website",
+      "description": "Apache Doris Website",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 77296,
-      "forks": 8495,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "langchain-ai / docs",
-      "url": "https://github.com/langchain-ai/docs",
-      "description": "Unified LangChain documentation.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 391,
-      "forks": 2568,
-      "added_stars": "0 stars today"
+      "stars": 132,
+      "forks": 450,
+      "added_stars": "1 star today"
     },
     {
       "title": "wasp-lang / open-saas",
@@ -60,48 +80,18 @@
       "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 15167,
-      "forks": 1811,
-      "added_stars": "13 stars today"
+      "stars": 15171,
+      "forks": 1812,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "prisma / web",
-      "url": "https://github.com/prisma/web",
-      "description": "📚 Prisma Web Monorepo",
+      "title": "newrelic / docs-website",
+      "url": "https://github.com/newrelic/docs-website",
+      "description": "Source code for @newrelic docs. We welcome pull requests and questions on our docs!",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 1095,
-      "forks": 979,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "withastro / docs",
-      "url": "https://github.com/withastro/docs",
-      "description": "Astro documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 1672,
-      "forks": 1868,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "langfuse / langfuse-docs",
-      "url": "https://github.com/langfuse/langfuse-docs",
-      "description": "🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 231,
-      "forks": 274,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "wandb / docs",
-      "url": "https://github.com/wandb/docs",
-      "description": "The product documentation for Weights & Biases, published at https://docs.wandb.ai",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 23,
-      "forks": 54,
+      "stars": 197,
+      "forks": 1458,
       "added_stars": "0 stars today"
     },
     {
@@ -115,44 +105,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "ionic-team / capacitor-docs",
-      "url": "https://github.com/ionic-team/capacitor-docs",
-      "description": "",
+      "title": "microsoft / aspire.dev",
+      "url": "https://github.com/microsoft/aspire.dev",
+      "description": "The official website for all things aspire.dev.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 48,
-      "forks": 732,
+      "stars": 187,
+      "forks": 81,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "MetaMask / metamask-docs",
-      "url": "https://github.com/MetaMask/metamask-docs",
-      "description": "Developer documentation for MetaMask",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 856,
-      "forks": 2047,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "expressjs / expressjs.com",
-      "url": "https://github.com/expressjs/expressjs.com",
-      "description": "The Express.js Website",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 5359,
-      "forks": 2232,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "huggingface / agents-course",
-      "url": "https://github.com/huggingface/agents-course",
-      "description": "This repository contains the Hugging Face Agents Course.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 30718,
-      "forks": 2192,
-      "added_stars": "37 stars today"
     },
     {
       "title": "detekt / detekt",
@@ -161,28 +121,38 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 7020,
-      "forks": 852,
+      "forks": 854,
       "added_stars": "1 star today"
     },
     {
-      "title": "mintlify / docs",
-      "url": "https://github.com/mintlify/docs",
-      "description": "Official Mintlify documentation",
+      "title": "solana-foundation / solana-com",
+      "url": "https://github.com/solana-foundation/solana-com",
+      "description": "The solana.com website.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 427,
-      "forks": 237,
+      "stars": 492,
+      "forks": 380,
       "added_stars": "0 stars today"
     },
     {
-      "title": "enactic / openarm",
-      "url": "https://github.com/enactic/openarm",
-      "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
+      "title": "discord / discord-api-docs",
+      "url": "https://github.com/discord/discord-api-docs",
+      "description": "Official Discord Developer Docs",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 2814,
-      "forks": 307,
-      "added_stars": "4 stars today"
+      "stars": 6452,
+      "forks": 1374,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "esphome / esphome.io",
+      "url": "https://github.com/esphome/esphome.io",
+      "description": "Source for esphome.io documentation files.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 450,
+      "forks": 2346,
+      "added_stars": "0 stars today"
     }
   ]
 }

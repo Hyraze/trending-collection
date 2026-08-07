@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "TencentCloud / TencentDB-Agent-Memory",
@@ -10,9 +10,9 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15284,
-      "forks": 1390,
-      "added_stars": "5,445 stars this week"
+      "stars": 16631,
+      "forks": 1498,
+      "added_stars": "6,444 stars this week"
     },
     {
       "title": "different-ai / openwork",
@@ -20,69 +20,9 @@
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21142,
-      "forks": 2072,
-      "added_stars": "3,665 stars this week"
-    },
-    {
-      "title": "pingdotgg / t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 16847,
-      "forks": 3767,
-      "added_stars": "1,235 stars this week"
-    },
-    {
-      "title": "opengeos / GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5466,
-      "forks": 539,
-      "added_stars": "1,618 stars this week"
-    },
-    {
-      "title": "Koenkk / zigbee2mqtt",
-      "url": "https://github.com/Koenkk/zigbee2mqtt",
-      "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 15474,
-      "forks": 1978,
-      "added_stars": "136 stars this week"
-    },
-    {
-      "title": "moeru-ai / airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 47039,
-      "forks": 4651,
-      "added_stars": "1,823 stars this week"
-    },
-    {
-      "title": "directus / directus",
-      "url": "https://github.com/directus/directus",
-      "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 37168,
-      "forks": 4884,
-      "added_stars": "405 stars this week"
-    },
-    {
-      "title": "pascalorg / editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 21149,
-      "forks": 2699,
-      "added_stars": "1,775 stars this week"
+      "stars": 21326,
+      "forks": 2084,
+      "added_stars": "2,939 stars this week"
     },
     {
       "title": "tailwindlabs / tailwindcss",
@@ -90,9 +30,79 @@
       "description": "A utility-first CSS framework for rapid UI development.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 96928,
-      "forks": 5552,
-      "added_stars": "709 stars this week"
+      "stars": 97044,
+      "forks": 5565,
+      "added_stars": "992 stars this week"
+    },
+    {
+      "title": "Koenkk / zigbee2mqtt",
+      "url": "https://github.com/Koenkk/zigbee2mqtt",
+      "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 15476,
+      "forks": 1977,
+      "added_stars": "132 stars this week"
+    },
+    {
+      "title": "moeru-ai / airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 47164,
+      "forks": 4664,
+      "added_stars": "1,369 stars this week"
+    },
+    {
+      "title": "opengeos / GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 5525,
+      "forks": 546,
+      "added_stars": "1,057 stars this week"
+    },
+    {
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 17048,
+      "forks": 3836,
+      "added_stars": "1,168 stars this week"
+    },
+    {
+      "title": "CyberTimon / RapidRAW",
+      "url": "https://github.com/CyberTimon/RapidRAW",
+      "description": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 9240,
+      "forks": 477,
+      "added_stars": "207 stars this week"
+    },
+    {
+      "title": "vuejs / core",
+      "url": "https://github.com/vuejs/core",
+      "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 54145,
+      "forks": 9174,
+      "added_stars": "110 stars this week"
+    },
+    {
+      "title": "usekaneo / kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 7538,
+      "forks": 604,
+      "added_stars": "3,078 stars this week"
     },
     {
       "title": "appwrite / appwrite",
@@ -100,39 +110,9 @@
       "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 56788,
+      "stars": 56795,
       "forks": 5607,
-      "added_stars": "112 stars this week"
-    },
-    {
-      "title": "diegosouzapw / OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 40948,
-      "forks": 5410,
-      "added_stars": "6,753 stars this week"
-    },
-    {
-      "title": "traycerai / traycer",
-      "url": "https://github.com/traycerai/traycer",
-      "description": "Traycer: Nerve Center for Agentic Coding",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 1101,
-      "forks": 132,
-      "added_stars": "272 stars this week"
-    },
-    {
-      "title": "zszz3 / AgentRecall",
-      "url": "https://github.com/zszz3/AgentRecall",
-      "description": "",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 720,
-      "forks": 52,
-      "added_stars": "277 stars this week"
+      "added_stars": "100 stars this week"
     },
     {
       "title": "cypress-io / cypress",
@@ -140,19 +120,69 @@
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 50916,
-      "forks": 3636,
-      "added_stars": "292 stars this week"
+      "stars": 50919,
+      "forks": 3645,
+      "added_stars": "297 stars this week"
     },
     {
-      "title": "modelcontextprotocol / typescript-sdk",
-      "url": "https://github.com/modelcontextprotocol/typescript-sdk",
-      "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 13082,
-      "forks": 2047,
-      "added_stars": "87 stars this week"
+      "stars": 41815,
+      "forks": 5545,
+      "added_stars": "6,704 stars this week"
+    },
+    {
+      "title": "pascalorg / editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 21178,
+      "forks": 2702,
+      "added_stars": "1,211 stars this week"
+    },
+    {
+      "title": "Narcooo / inkos",
+      "url": "https://github.com/Narcooo/inkos",
+      "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8784,
+      "forks": 1661,
+      "added_stars": "333 stars this week"
+    },
+    {
+      "title": "can1357 / oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 22539,
+      "forks": 2136,
+      "added_stars": "1,739 stars this week"
+    },
+    {
+      "title": "rohitg00 / agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 26665,
+      "forks": 2264,
+      "added_stars": "681 stars this week"
+    },
+    {
+      "title": "traycerai / traycer",
+      "url": "https://github.com/traycerai/traycer",
+      "description": "Traycer: Nerve Center for Agentic Coding",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 1121,
+      "forks": 137,
+      "added_stars": "294 stars this week"
     }
   ]
 }

@@ -2,8 +2,18 @@
   "title": "GitHub Move Languages Daily Trending",
   "description": "Daily Trending of Move Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
+    {
+      "title": "MystenLabs / deepbookv3",
+      "url": "https://github.com/MystenLabs/deepbookv3",
+      "description": "Deepbook V3",
+      "language": "Move",
+      "languageColor": "#4a137a",
+      "stars": 205,
+      "forks": 95,
+      "added_stars": "1 star this week"
+    },
     {
       "title": "LayerZero-Labs / LayerZero-v2",
       "url": "https://github.com/LayerZero-Labs/LayerZero-v2",
@@ -13,16 +23,6 @@
       "stars": 788,
       "forks": 496,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "MystenLabs / deepbookv3",
-      "url": "https://github.com/MystenLabs/deepbookv3",
-      "description": "Deepbook V3",
-      "language": "Move",
-      "languageColor": "#4a137a",
-      "stars": 206,
-      "forks": 94,
-      "added_stars": "1 star this week"
     }
   ]
 }

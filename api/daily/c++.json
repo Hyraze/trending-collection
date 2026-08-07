@@ -2,207 +2,17 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
-    {
-      "title": "gabime / spdlog",
-      "url": "https://github.com/gabime/spdlog",
-      "description": "Fast C++ logging library.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 29434,
-      "forks": 5376,
-      "added_stars": "82 stars today"
-    },
-    {
-      "title": "google / googletest",
-      "url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 38899,
-      "forks": 10838,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "nlohmann / json",
-      "url": "https://github.com/nlohmann/json",
-      "description": "JSON for Modern C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 50297,
-      "forks": 7454,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "SwagSoftware / KisakCOD",
-      "url": "https://github.com/SwagSoftware/KisakCOD",
-      "description": "COD4 Open Source Reimplementation",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 399,
-      "forks": 44,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 122848,
-      "forks": 21369,
-      "added_stars": "144 stars today"
-    },
-    {
-      "title": "mltframework / shotcut",
-      "url": "https://github.com/mltframework/shotcut",
-      "description": "cross-platform (Qt), open-source (GPLv3) video editor",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 14840,
-      "forks": 1463,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "orailnoor / cross-platform-llm-client",
-      "url": "https://github.com/orailnoor/cross-platform-llm-client",
-      "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 815,
-      "forks": 172,
-      "added_stars": "31 stars today"
-    },
     {
       "title": "FEX-Emu / FEX",
       "url": "https://github.com/FEX-Emu/FEX",
       "description": "A fast usermode x86 and x86-64 emulator for Arm64 Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7823,
-      "forks": 311,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "LadybirdBrowser / ladybird",
-      "url": "https://github.com/LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 64779,
-      "forks": 3096,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "ai-dynamo / nixl",
-      "url": "https://github.com/ai-dynamo/nixl",
-      "description": "NVIDIA Inference Xfer Library (NIXL)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1176,
-      "forks": 392,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "MariaDB / server",
-      "url": "https://github.com/MariaDB/server",
-      "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8039,
-      "forks": 2082,
-      "added_stars": "111 stars today"
-    },
-    {
-      "title": "iree-org / iree",
-      "url": "https://github.com/iree-org/iree",
-      "description": "A retargetable MLIR-based machine learning compiler and runtime toolkit.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3877,
-      "forks": 974,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "envoyproxy / envoy",
-      "url": "https://github.com/envoyproxy/envoy",
-      "description": "Cloud-native high-performance edge/middle/service proxy",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 28722,
-      "forks": 5536,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "dyang886 / Game-Cheats-Manager",
-      "url": "https://github.com/dyang886/Game-Cheats-Manager",
-      "description": "Easily download and manage single-player game cheats for your convenience",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 13872,
-      "forks": 473,
-      "added_stars": "49 stars today"
-    },
-    {
-      "title": "ArduPilot / ardupilot",
-      "url": "https://github.com/ArduPilot/ardupilot",
-      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15626,
-      "forks": 21174,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "NVIDIA / nccl",
-      "url": "https://github.com/NVIDIA/nccl",
-      "description": "Optimized primitives for collective multi-GPU communication",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 4943,
-      "forks": 1361,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "godotengine / godot",
-      "url": "https://github.com/godotengine/godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 115228,
-      "forks": 26257,
-      "added_stars": "93 stars today"
-    },
-    {
-      "title": "telegramdesktop / tdesktop",
-      "url": "https://github.com/telegramdesktop/tdesktop",
-      "description": "Telegram Desktop messaging app",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 32521,
-      "forks": 7033,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "google / or-tools",
-      "url": "https://github.com/google/or-tools",
-      "description": "Google's Operations Research tools:",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 13860,
-      "forks": 2454,
+      "stars": 7827,
+      "forks": 313,
       "added_stars": "6 stars today"
-    },
-    {
-      "title": "EsotericSoftware / spine-runtimes",
-      "url": "https://github.com/EsotericSoftware/spine-runtimes",
-      "description": "2D skeletal animation runtimes for Spine.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5231,
-      "forks": 3126,
-      "added_stars": "2 stars today"
     },
     {
       "title": "tensorflow / tensorflow",
@@ -210,19 +20,219 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 196881,
-      "forks": 75874,
-      "added_stars": "77 stars today"
+      "stars": 196896,
+      "forks": 75903,
+      "added_stars": "53 stars today"
     },
     {
-      "title": "bitcoin / bitcoin",
-      "url": "https://github.com/bitcoin/bitcoin",
-      "description": "Bitcoin Core integration/staging tree",
+      "title": "ai-dynamo / nixl",
+      "url": "https://github.com/ai-dynamo/nixl",
+      "description": "NVIDIA Inference Xfer Library (NIXL)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 89791,
-      "forks": 39254,
+      "stars": 1178,
+      "forks": 392,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Fincept-Corporation / FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 29939,
+      "forks": 4211,
+      "added_stars": "149 stars today"
+    },
+    {
+      "title": "orailnoor / cross-platform-llm-client",
+      "url": "https://github.com/orailnoor/cross-platform-llm-client",
+      "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 836,
+      "forks": 175,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "google / googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 38906,
+      "forks": 10839,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "gabime / spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 29447,
+      "forks": 5386,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "cloudflare / workerd",
+      "url": "https://github.com/cloudflare/workerd",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8521,
+      "forks": 693,
+      "added_stars": "57 stars today"
+    },
+    {
+      "title": "colmap / colmap",
+      "url": "https://github.com/colmap/colmap",
+      "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 12412,
+      "forks": 2106,
       "added_stars": "13 stars today"
+    },
+    {
+      "title": "nlohmann / json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 50310,
+      "forks": 7455,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "MariaDB / server",
+      "url": "https://github.com/MariaDB/server",
+      "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8052,
+      "forks": 2082,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "realsenseai / librealsense",
+      "url": "https://github.com/realsenseai/librealsense",
+      "description": "RealSense SDK",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8938,
+      "forks": 5035,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "carla-simulator / carla",
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 14264,
+      "forks": 4648,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "godotengine / godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 115283,
+      "forks": 26273,
+      "added_stars": "59 stars today"
+    },
+    {
+      "title": "facebookresearch / faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 40684,
+      "forks": 4484,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "PX4 / PX4-Autopilot",
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 12352,
+      "forks": 15826,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "78 / xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 28708,
+      "forks": 6545,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 122937,
+      "forks": 21400,
+      "added_stars": "102 stars today"
+    },
+    {
+      "title": "microsoft / onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 21293,
+      "forks": 4099,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "electron / electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 122381,
+      "forks": 17387,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "zeek / zeek",
+      "url": "https://github.com/zeek/zeek",
+      "description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 7848,
+      "forks": 1393,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "ml-explore / mlx",
+      "url": "https://github.com/ml-explore/mlx",
+      "description": "MLX: An array framework for Apple silicon",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 27857,
+      "forks": 2093,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "microsoft / terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 104511,
+      "forks": 9490,
+      "added_stars": "21 stars today"
     }
   ]
 }

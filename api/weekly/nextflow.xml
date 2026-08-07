@@ -4,7 +4,7 @@
   <title>GitHub Nextflow Languages Daily Trending</title>
   <description>Daily Trending of Nextflow Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
   <item>
     <title>nf-core / modules</title>
     <link>https://github.com/nf-core/modules</link>
@@ -14,6 +14,11 @@
     <title>nf-core / rnaseq</title>
     <link>https://github.com/nf-core/rnaseq</link>
     <description>RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.</description>
+  </item>
+  <item>
+    <title>nf-core / sarek</title>
+    <link>https://github.com/nf-core/sarek</link>
+    <description>Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing</description>
   </item>
 </channel>
 </rss>

@@ -2,107 +2,77 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
-    {
-      "title": "php / php-src",
-      "url": "https://github.com/php/php-src",
-      "description": "The PHP Interpreter",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 40281,
-      "forks": 8112,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "antirez / ds4",
-      "url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 20701,
-      "forks": 1844,
-      "added_stars": "115 stars today"
-    },
-    {
-      "title": "obsproject / obs-studio",
-      "url": "https://github.com/obsproject/obs-studio",
-      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 74605,
-      "forks": 9603,
-      "added_stars": "52 stars today"
-    },
-    {
-      "title": "lz4 / lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 11992,
-      "forks": 1571,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 30566,
-      "forks": 11386,
-      "added_stars": "8 stars today"
-    },
     {
       "title": "git / git",
       "url": "https://github.com/git/git",
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 62421,
-      "forks": 28224,
-      "added_stars": "34 stars today"
+      "stars": 62443,
+      "forks": 28221,
+      "added_stars": "33 stars today"
     },
     {
-      "title": "linux-rdma / rdma-core",
-      "url": "https://github.com/linux-rdma/rdma-core",
-      "description": "RDMA core userspace libraries and daemons",
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2335,
-      "forks": 893,
-      "added_stars": "1 star today"
+      "stars": 65096,
+      "forks": 4090,
+      "added_stars": "273 stars today"
     },
     {
-      "title": "daos-stack / daos",
-      "url": "https://github.com/daos-stack/daos",
-      "description": "DAOS Storage Stack (client libraries, storage engine, control plane)",
+      "title": "hashcat / hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 962,
-      "forks": 351,
-      "added_stars": "0 stars today"
+      "stars": 26488,
+      "forks": 3515,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "vedderb / bldc",
-      "url": "https://github.com/vedderb/bldc",
-      "description": "The VESC motor control firmware",
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3322,
-      "forks": 1902,
-      "added_stars": "1 star today"
+      "stars": 16137,
+      "forks": 9686,
+      "added_stars": "17 stars today"
     },
     {
-      "title": "nothings / stb",
-      "url": "https://github.com/nothings/stb",
-      "description": "stb single-file public domain libraries for C/C++",
+      "title": "fluent / fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34349,
-      "forks": 8073,
-      "added_stars": "9 stars today"
+      "stars": 8014,
+      "forks": 1963,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Mbed-TLS / mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 6859,
+      "forks": 2945,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "FreeRTOS / FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4400,
+      "forks": 1589,
+      "added_stars": "5 stars today"
     },
     {
       "title": "lvgl / lvgl",
@@ -110,59 +80,89 @@
       "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24305,
-      "forks": 4279,
-      "added_stars": "14 stars today"
+      "stars": 24317,
+      "forks": 4280,
+      "added_stars": "17 stars today"
     },
     {
-      "title": "armel / uv-k1-k5v3-firmware-custom",
-      "url": "https://github.com/armel/uv-k1-k5v3-firmware-custom",
-      "description": "This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel",
+      "title": "esnet / iperf",
+      "url": "https://github.com/esnet/iperf",
+      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 564,
-      "forks": 141,
-      "added_stars": "0 stars today"
+      "stars": 8676,
+      "forks": 1438,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "betaflight / betaflight",
-      "url": "https://github.com/betaflight/betaflight",
-      "description": "Open Source Flight Controller Firmware",
+      "title": "dayanch96 / YTMusicUltimate",
+      "url": "https://github.com/dayanch96/YTMusicUltimate",
+      "description": "The best tweak for YouTube Music iOS.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11317,
-      "forks": 3946,
-      "added_stars": "7 stars today"
+      "stars": 2474,
+      "forks": 9444,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "sonic-net / sonic-buildimage",
-      "url": "https://github.com/sonic-net/sonic-buildimage",
-      "description": "Scripts which perform an installable binary image build for SONiC",
+      "title": "uber / h3",
+      "url": "https://github.com/uber/h3",
+      "description": "Hexagonal hierarchical geospatial indexing system",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1008,
-      "forks": 1906,
-      "added_stars": "0 stars today"
+      "stars": 6449,
+      "forks": 603,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "radareorg / radare2",
-      "url": "https://github.com/radareorg/radare2",
-      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "title": "srwi / EverythingToolbar",
+      "url": "https://github.com/srwi/EverythingToolbar",
+      "description": "Everything integration for the Windows taskbar.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24505,
-      "forks": 3292,
-      "added_stars": "10 stars today"
+      "stars": 14514,
+      "forks": 557,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "FRRouting / frr",
-      "url": "https://github.com/FRRouting/frr",
-      "description": "The FRRouting Protocol Suite",
+      "title": "nrfconnect / sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4232,
-      "forks": 1584,
+      "stars": 1397,
+      "forks": 1566,
       "added_stars": "3 stars today"
+    },
+    {
+      "title": "allinurl / goaccess",
+      "url": "https://github.com/allinurl/goaccess",
+      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 20757,
+      "forks": 1190,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "google / XNNPACK",
+      "url": "https://github.com/google/XNNPACK",
+      "description": "High-efficiency floating-point neural network inference operators for mobile, server, and Web",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2413,
+      "forks": 536,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "openssl / openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 30571,
+      "forks": 11387,
+      "added_stars": "8 stars today"
     }
   ]
 }

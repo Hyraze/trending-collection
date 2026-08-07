@@ -4,11 +4,16 @@
   <title>GitHub Ruby Languages Daily Trending</title>
   <description>Daily Trending of Ruby Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:11:48 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
   <item>
-    <title>opf / openproject</title>
-    <link>https://github.com/opf/openproject</link>
-    <description>OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub</description>
+    <title>Homebrew / brew</title>
+    <link>https://github.com/Homebrew/brew</link>
+    <description>🍺 The Package Manager for Everywhere</description>
+  </item>
+  <item>
+    <title>Freika / dawarich</title>
+    <link>https://github.com/Freika/dawarich</link>
+    <description>Your favorite self-hostable alternative to Google Timeline (Google Location History)</description>
   </item>
   <item>
     <title>DataDog / dd-trace-rb</title>
@@ -16,64 +21,14 @@
     <description>Datadog&#x27;s client library for Ruby</description>
   </item>
   <item>
+    <title>opf / openproject</title>
+    <link>https://github.com/opf/openproject</link>
+    <description>OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub</description>
+  </item>
+  <item>
     <title>ruby / rubygems</title>
     <link>https://github.com/ruby/rubygems</link>
     <description>Library packaging and distribution for Ruby.</description>
-  </item>
-  <item>
-    <title>rubysec / ruby-advisory-db</title>
-    <link>https://github.com/rubysec/ruby-advisory-db</link>
-    <description>A database of vulnerable Ruby Gems</description>
-  </item>
-  <item>
-    <title>postalserver / postal</title>
-    <link>https://github.com/postalserver/postal</link>
-    <description>📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail</description>
-  </item>
-  <item>
-    <title>zammad / zammad</title>
-    <link>https://github.com/zammad/zammad</link>
-    <description>Zammad is a web based open source helpdesk/customer support system.</description>
-  </item>
-  <item>
-    <title>spree / spree</title>
-    <link>https://github.com/spree/spree</link>
-    <description>Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.</description>
-  </item>
-  <item>
-    <title>theforeman / foreman</title>
-    <link>https://github.com/theforeman/foreman</link>
-    <description>an application that automates the lifecycle of servers</description>
-  </item>
-  <item>
-    <title>sidekiq / sidekiq</title>
-    <link>https://github.com/sidekiq/sidekiq</link>
-    <description>Simple, efficient background processing for Ruby</description>
-  </item>
-  <item>
-    <title>discourse / discourse</title>
-    <link>https://github.com/discourse/discourse</link>
-    <description>A platform for community discussion. Free, open, simple.</description>
-  </item>
-  <item>
-    <title>faker-ruby / faker</title>
-    <link>https://github.com/faker-ruby/faker</link>
-    <description>A library for generating fake data such as names, addresses, and phone numbers.</description>
-  </item>
-  <item>
-    <title>rack / rack</title>
-    <link>https://github.com/rack/rack</link>
-    <description>A modular Ruby web server interface.</description>
-  </item>
-  <item>
-    <title>decidim / decidim</title>
-    <link>https://github.com/decidim/decidim</link>
-    <description>The participatory democracy framework. A generator and multiple gems made with Ruby on Rails</description>
-  </item>
-  <item>
-    <title>Homebrew / homebrew-cask</title>
-    <link>https://github.com/Homebrew/homebrew-cask</link>
-    <description>🍻 A CLI workflow for the administration of macOS applications distributed as binaries</description>
   </item>
   <item>
     <title>rubocop / rubocop</title>
@@ -81,19 +36,24 @@
     <description>A Ruby static code analyzer and formatter, based on the community Ruby style guide.</description>
   </item>
   <item>
-    <title>rails / rails</title>
-    <link>https://github.com/rails/rails</link>
-    <description>Ruby on Rails</description>
+    <title>googleapis / google-cloud-ruby</title>
+    <link>https://github.com/googleapis/google-cloud-ruby</link>
+    <description>Google Cloud Client Library for Ruby</description>
   </item>
   <item>
-    <title>Homebrew / brew</title>
-    <link>https://github.com/Homebrew/brew</link>
-    <description>🍺 The Package Manager for Everywhere</description>
+    <title>Homebrew / homebrew-cask</title>
+    <link>https://github.com/Homebrew/homebrew-cask</link>
+    <description>🍻 A CLI workflow for the administration of macOS applications distributed as binaries</description>
   </item>
   <item>
-    <title>hashicorp / vagrant</title>
-    <link>https://github.com/hashicorp/vagrant</link>
-    <description>Vagrant is a tool for building and distributing development environments.</description>
+    <title>chef / chef</title>
+    <link>https://github.com/chef/chef</link>
+    <description>Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale</description>
+  </item>
+  <item>
+    <title>rubysec / ruby-advisory-db</title>
+    <link>https://github.com/rubysec/ruby-advisory-db</link>
+    <description>A database of vulnerable Ruby Gems</description>
   </item>
   <item>
     <title>Homebrew / homebrew-core</title>
@@ -101,14 +61,49 @@
     <description>🍻 Default formulae for the missing package manager for macOS (or Linux)</description>
   </item>
   <item>
-    <title>department-of-veterans-affairs / vets-api</title>
-    <link>https://github.com/department-of-veterans-affairs/vets-api</link>
-    <description>API powering VA.gov</description>
+    <title>spree / spree</title>
+    <link>https://github.com/spree/spree</link>
+    <description>Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.</description>
   </item>
   <item>
-    <title>18F / identity-idp</title>
-    <link>https://github.com/18F/identity-idp</link>
-    <description>Login.gov Core App: Identity Provider (IdP)</description>
+    <title>fastlane / fastlane</title>
+    <link>https://github.com/fastlane/fastlane</link>
+    <description>🚀 The easiest way to automate building and releasing your iOS and Android apps</description>
+  </item>
+  <item>
+    <title>rapid7 / metasploit-framework</title>
+    <link>https://github.com/rapid7/metasploit-framework</link>
+    <description>Metasploit Framework</description>
+  </item>
+  <item>
+    <title>hashicorp / vagrant</title>
+    <link>https://github.com/hashicorp/vagrant</link>
+    <description>Vagrant is a tool for building and distributing development environments.</description>
+  </item>
+  <item>
+    <title>sidekiq / sidekiq</title>
+    <link>https://github.com/sidekiq/sidekiq</link>
+    <description>Simple, efficient background processing for Ruby</description>
+  </item>
+  <item>
+    <title>mastodon / mastodon</title>
+    <link>https://github.com/mastodon/mastodon</link>
+    <description>Your self-hosted, globally interconnected microblogging community</description>
+  </item>
+  <item>
+    <title>dependabot / dependabot-core</title>
+    <link>https://github.com/dependabot/dependabot-core</link>
+    <description>🤖 Dependabot&#x27;s core logic for creating update PRs.</description>
+  </item>
+  <item>
+    <title>DataDog / datadog-api-client-ruby</title>
+    <link>https://github.com/DataDog/datadog-api-client-ruby</link>
+    <description>Ruby client for the Datadog API</description>
+  </item>
+  <item>
+    <title>discourse / discourse</title>
+    <link>https://github.com/discourse/discourse</link>
+    <description>A platform for community discussion. Free, open, simple.</description>
   </item>
 </channel>
 </rss>

@@ -4,16 +4,11 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 06 Aug 2026 05:15:00 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
     <description>Nix Packages collection &amp; NixOS</description>
-  </item>
-  <item>
-    <title>nix-community / home-manager</title>
-    <link>https://github.com/nix-community/home-manager</link>
-    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
   <item>
     <title>supabase / postgres</title>
@@ -26,9 +21,14 @@
     <description>A collection of NixOS modules covering hardware quirks.</description>
   </item>
   <item>
-    <title>nix-darwin / nix-darwin</title>
-    <link>https://github.com/nix-darwin/nix-darwin</link>
-    <description>Manage your macOS using Nix</description>
+    <title>nix-community / home-manager</title>
+    <link>https://github.com/nix-community/home-manager</link>
+    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+  </item>
+  <item>
+    <title>feel-co / hjem</title>
+    <link>https://github.com/feel-co/hjem</link>
+    <description>Streamlined, elegant $HOME management with Nix</description>
   </item>
   <item>
     <title>numtide / system-manager</title>
@@ -56,14 +56,19 @@
     <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
   </item>
   <item>
-    <title>microvm-nix / microvm.nix</title>
-    <link>https://github.com/microvm-nix/microvm.nix</link>
-    <description>NixOS MicroVMs</description>
+    <title>nix-darwin / nix-darwin</title>
+    <link>https://github.com/nix-darwin/nix-darwin</link>
+    <description>Manage your macOS using Nix</description>
   </item>
   <item>
-    <title>feel-co / hjem</title>
-    <link>https://github.com/feel-co/hjem</link>
-    <description>Streamlined, elegant $HOME management with Nix</description>
+    <title>NixOS / nix.dev</title>
+    <link>https://github.com/NixOS/nix.dev</link>
+    <description>Official documentation for getting things done with Nix.</description>
+  </item>
+  <item>
+    <title>nix-community / NixOS-WSL</title>
+    <link>https://github.com/nix-community/NixOS-WSL</link>
+    <description>NixOS on WSL [maintainer=@nzbr]</description>
   </item>
 </channel>
 </rss>

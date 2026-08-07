@@ -2,17 +2,27 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
-      "title": "opf / openproject",
-      "url": "https://github.com/opf/openproject",
-      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub",
+      "title": "Homebrew / brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The Package Manager for Everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 15768,
-      "forks": 3408,
-      "added_stars": "9 stars today"
+      "stars": 49096,
+      "forks": 11267,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "Freika / dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 10026,
+      "forks": 348,
+      "added_stars": "13 stars today"
     },
     {
       "title": "DataDog / dd-trace-rb",
@@ -25,6 +35,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "opf / openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 15779,
+      "forks": 3410,
+      "added_stars": "16 stars today"
+    },
+    {
       "title": "ruby / rubygems",
       "url": "https://github.com/ruby/rubygems",
       "description": "Library packaging and distribution for Ruby.",
@@ -32,6 +52,46 @@
       "languageColor": "#701516",
       "stars": 3949,
       "forks": 1928,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "rubocop / rubocop",
+      "url": "https://github.com/rubocop/rubocop",
+      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 12897,
+      "forks": 3121,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "googleapis / google-cloud-ruby",
+      "url": "https://github.com/googleapis/google-cloud-ruby",
+      "description": "Google Cloud Client Library for Ruby",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 1422,
+      "forks": 573,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Homebrew / homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 22151,
+      "forks": 11793,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "chef / chef",
+      "url": "https://github.com/chef/chef",
+      "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 8229,
+      "forks": 2520,
       "added_stars": "0 stars today"
     },
     {
@@ -45,24 +105,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "postalserver / postal",
-      "url": "https://github.com/postalserver/postal",
-      "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+      "title": "Homebrew / homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 16723,
-      "forks": 1267,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "zammad / zammad",
-      "url": "https://github.com/zammad/zammad",
-      "description": "Zammad is a web based open source helpdesk/customer support system.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 5830,
-      "forks": 1029,
-      "added_stars": "3 stars today"
+      "stars": 15482,
+      "forks": 13721,
+      "added_stars": "5 stars today"
     },
     {
       "title": "spree / spree",
@@ -70,109 +120,29 @@
       "description": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 15602,
-      "forks": 5284,
-      "added_stars": "4 stars today"
+      "stars": 15605,
+      "forks": 5285,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "theforeman / foreman",
-      "url": "https://github.com/theforeman/foreman",
-      "description": "an application that automates the lifecycle of servers",
+      "title": "fastlane / fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 2899,
-      "forks": 1035,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "sidekiq / sidekiq",
-      "url": "https://github.com/sidekiq/sidekiq",
-      "description": "Simple, efficient background processing for Ruby",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 13554,
-      "forks": 2482,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "discourse / discourse",
-      "url": "https://github.com/discourse/discourse",
-      "description": "A platform for community discussion. Free, open, simple.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 47606,
-      "forks": 8979,
+      "stars": 41950,
+      "forks": 6024,
       "added_stars": "9 stars today"
     },
     {
-      "title": "faker-ruby / faker",
-      "url": "https://github.com/faker-ruby/faker",
-      "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+      "title": "rapid7 / metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 11930,
-      "forks": 3217,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rack / rack",
-      "url": "https://github.com/rack/rack",
-      "description": "A modular Ruby web server interface.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 5127,
-      "forks": 1679,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "decidim / decidim",
-      "url": "https://github.com/decidim/decidim",
-      "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 1799,
-      "forks": 475,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Homebrew / homebrew-cask",
-      "url": "https://github.com/Homebrew/homebrew-cask",
-      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 22148,
-      "forks": 11784,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "rubocop / rubocop",
-      "url": "https://github.com/rubocop/rubocop",
-      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 12895,
-      "forks": 3119,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rails / rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 58673,
-      "forks": 22348,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "Homebrew / brew",
-      "url": "https://github.com/Homebrew/brew",
-      "description": "🍺 The Package Manager for Everywhere",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 49088,
-      "forks": 11268,
-      "added_stars": "29 stars today"
+      "stars": 38755,
+      "forks": 14933,
+      "added_stars": "10 stars today"
     },
     {
       "title": "hashicorp / vagrant",
@@ -180,39 +150,59 @@
       "description": "Vagrant is a tool for building and distributing development environments.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 27198,
+      "stars": 27199,
       "forks": 4401,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Homebrew / homebrew-core",
-      "url": "https://github.com/Homebrew/homebrew-core",
-      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 15481,
-      "forks": 13718,
       "added_stars": "2 stars today"
     },
     {
-      "title": "department-of-veterans-affairs / vets-api",
-      "url": "https://github.com/department-of-veterans-affairs/vets-api",
-      "description": "API powering VA.gov",
+      "title": "sidekiq / sidekiq",
+      "url": "https://github.com/sidekiq/sidekiq",
+      "description": "Simple, efficient background processing for Ruby",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 262,
-      "forks": 95,
+      "stars": 13552,
+      "forks": 2481,
       "added_stars": "0 stars today"
     },
     {
-      "title": "18F / identity-idp",
-      "url": "https://github.com/18F/identity-idp",
-      "description": "Login.gov Core App: Identity Provider (IdP)",
+      "title": "mastodon / mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 584,
-      "forks": 166,
+      "stars": 50178,
+      "forks": 7477,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "dependabot / dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 5714,
+      "forks": 1482,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "DataDog / datadog-api-client-ruby",
+      "url": "https://github.com/DataDog/datadog-api-client-ruby",
+      "description": "Ruby client for the Datadog API",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 44,
+      "forks": 20,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "discourse / discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 47610,
+      "forks": 8980,
+      "added_stars": "8 stars today"
     }
   ]
 }

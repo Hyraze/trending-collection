@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "openmaptiles / openmaptiles",
@@ -11,7 +11,7 @@
       "language": "PLpgSQL",
       "languageColor": "#336790",
       "stars": 3133,
-      "forks": 672,
+      "forks": 673,
       "added_stars": "33 stars this month"
     },
     {
@@ -22,7 +22,7 @@
       "languageColor": "#336790",
       "stars": 190,
       "forks": 262,
-      "added_stars": "16 stars this month"
+      "added_stars": "15 stars this month"
     },
     {
       "title": "guchengwuyue / yshop-drink",
@@ -30,7 +30,7 @@
       "description": "yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 1509,
+      "stars": 1510,
       "forks": 384,
       "added_stars": "56 stars this month"
     },
@@ -41,8 +41,8 @@
       "language": "PLpgSQL",
       "languageColor": "#336790",
       "stars": 2788,
-      "forks": 317,
-      "added_stars": "40 stars this month"
+      "forks": 318,
+      "added_stars": "39 stars this month"
     },
     {
       "title": "pgmq / pgmq",
@@ -50,19 +50,9 @@
       "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 5059,
+      "stars": 5062,
       "forks": 141,
       "added_stars": "60 stars this month"
-    },
-    {
-      "title": "NikolayS / PgQue",
-      "url": "https://github.com/NikolayS/PgQue",
-      "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 1774,
-      "forks": 38,
-      "added_stars": "61 stars this month"
     }
   ]
 }

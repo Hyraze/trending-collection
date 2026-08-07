@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,19 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 45726,
-      "forks": 3936,
-      "added_stars": "130 stars this week"
+      "stars": 45751,
+      "forks": 3939,
+      "added_stars": "140 stars this week"
+    },
+    {
+      "title": "simonmichael / hledger",
+      "url": "https://github.com/simonmichael/hledger",
+      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 4616,
+      "forks": 402,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "koalaman / shellcheck",
@@ -20,29 +30,9 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 39821,
-      "forks": 1938,
-      "added_stars": "45 stars this week"
-    },
-    {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 3179,
-      "forks": 755,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 12336,
-      "forks": 502,
-      "added_stars": "14 stars this week"
+      "stars": 39827,
+      "forks": 1939,
+      "added_stars": "47 stars this week"
     },
     {
       "title": "digital-asset / daml",
@@ -53,6 +43,16 @@
       "stars": 912,
       "forks": 256,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 12338,
+      "forks": 501,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "haskell / cabal",
@@ -70,19 +70,19 @@
       "description": "Official Haskell IDE support via the language server protocol (LSP)",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2941,
+      "stars": 2942,
       "forks": 451,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19199,
-      "forks": 1327,
-      "added_stars": "103 stars this week"
+      "stars": 3179,
+      "forks": 755,
+      "added_stars": "1 star this week"
     },
     {
       "title": "IntersectMBO / plutus",
@@ -95,36 +95,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1505,
-      "forks": 64,
-      "added_stars": "38 stars this week"
-    },
-    {
-      "title": "tweag / tricorder",
-      "url": "https://github.com/tweag/tricorder",
-      "description": "Tricorder provides simple, fast, focused feedback when hacking on Haskell (with or without LLM agents).",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 44,
-      "forks": 2,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27496,
-      "forks": 1219,
-      "added_stars": "20 stars this week"
-    },
-    {
       "title": "nammayatri / nammayatri",
       "url": "https://github.com/nammayatri/nammayatri",
       "description": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
@@ -135,6 +105,36 @@
       "added_stars": "4 stars this week"
     },
     {
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 1511,
+      "forks": 65,
+      "added_stars": "39 stars this week"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27500,
+      "forks": 1219,
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "elm / compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 7854,
+      "forks": 688,
+      "added_stars": "10 stars this week"
+    },
+    {
       "title": "cardano-foundation / cardano-wallet",
       "url": "https://github.com/cardano-foundation/cardano-wallet",
       "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.",
@@ -143,16 +143,6 @@
       "stars": 822,
       "forks": 232,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "simonmichael / hledger",
-      "url": "https://github.com/simonmichael/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 4614,
-      "forks": 402,
-      "added_stars": "17 stars this week"
     },
     {
       "title": "commercialhaskell / stack",
@@ -175,26 +165,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "elm / compiler",
-      "url": "https://github.com/elm/compiler",
-      "description": "Compiler for Elm, a functional language for reliable webapps.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 7852,
-      "forks": 688,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "halogenandtoast / ArkhamHorror",
-      "url": "https://github.com/halogenandtoast/ArkhamHorror",
-      "description": "An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced, endorsed, or supported by, or affiliated with Fantasy Flight Games.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 400,
-      "forks": 136,
-      "added_stars": "3 stars this week"
-    },
-    {
       "title": "agda / agda",
       "url": "https://github.com/agda/agda",
       "description": "Agda is a dependently typed programming language / interactive theorem prover.",
@@ -202,7 +172,7 @@
       "languageColor": "#5e5086",
       "stars": 2907,
       "forks": 420,
-      "added_stars": "6 stars this week"
+      "added_stars": "7 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:17:14 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
   "items": [
     {
       "title": "gradle / gradle",
@@ -10,9 +10,19 @@
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 18758,
-      "forks": 5333,
+      "stars": 18760,
+      "forks": 5340,
       "added_stars": "218 stars this month"
+    },
+    {
+      "title": "nextflow-io / nextflow",
+      "url": "https://github.com/nextflow-io/nextflow",
+      "description": "A DSL for data-driven computational pipelines",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 3458,
+      "forks": 799,
+      "added_stars": "32 stars this month"
     },
     {
       "title": "rundeck / rundeck",
@@ -22,17 +32,7 @@
       "languageColor": "#4298b8",
       "stars": 6254,
       "forks": 984,
-      "added_stars": "47 stars this month"
-    },
-    {
-      "title": "nextflow-io / nextflow",
-      "url": "https://github.com/nextflow-io/nextflow",
-      "description": "A DSL for data-driven computational pipelines",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 3456,
-      "forks": 799,
-      "added_stars": "30 stars this month"
+      "added_stars": "43 stars this month"
     },
     {
       "title": "apache / grails-core",
@@ -41,8 +41,8 @@
       "language": "Groovy",
       "languageColor": "#4298b8",
       "stars": 2924,
-      "forks": 972,
-      "added_stars": "7 stars this month"
+      "forks": 973,
+      "added_stars": "8 stars this month"
     },
     {
       "title": "openboxes / openboxes",
@@ -50,9 +50,9 @@
       "description": "OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 870,
+      "stars": 871,
       "forks": 494,
-      "added_stars": "19 stars this month"
+      "added_stars": "20 stars this month"
     }
   ]
 }

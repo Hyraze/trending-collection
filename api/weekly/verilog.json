@@ -2,17 +2,17 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
-      "title": "YosysHQ / picorv32",
-      "url": "https://github.com/YosysHQ/picorv32",
-      "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
+      "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 4303,
-      "forks": 987,
-      "added_stars": "13 stars this week"
+      "stars": 701,
+      "forks": 518,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "analogdevicesinc / hdl",
@@ -21,18 +21,18 @@
       "language": "Verilog",
       "languageColor": "#b2b7f8",
       "stars": 1990,
-      "forks": 1671,
+      "forks": 1670,
       "added_stars": "9 stars this week"
     },
     {
-      "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
-      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
-      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
+      "title": "YosysHQ / picorv32",
+      "url": "https://github.com/YosysHQ/picorv32",
+      "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 699,
-      "forks": 518,
-      "added_stars": "5 stars this week"
+      "stars": 4307,
+      "forks": 988,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "The-OpenROAD-Project / OpenROAD",
@@ -40,9 +40,9 @@
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 2945,
-      "forks": 977,
-      "added_stars": "34 stars this week"
+      "stars": 2950,
+      "forks": 978,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "EttusResearch / uhd",
@@ -50,8 +50,18 @@
       "description": "The USRP™ Hardware Driver Repository",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 1257,
+      "stars": 1258,
       "forks": 775,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "TinyTapeout / ttsky-verilog-template",
+      "url": "https://github.com/TinyTapeout/ttsky-verilog-template",
+      "description": "Submission template for Tiny Tapeout SKY130 (ChipFoundry) shuttles - Verilog HDL Projects",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 49,
+      "forks": 467,
       "added_stars": "2 stars this week"
     },
     {
@@ -60,19 +70,9 @@
       "description": "",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 2188,
-      "forks": 518,
+      "stars": 2190,
+      "forks": 519,
       "added_stars": "13 stars this week"
-    },
-    {
-      "title": "TinyTapeout / ttsky-verilog-template",
-      "url": "https://github.com/TinyTapeout/ttsky-verilog-template",
-      "description": "Submission template for Tiny Tapeout SKY130 (ChipFoundry) shuttles - Verilog HDL Projects",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 47,
-      "forks": 467,
-      "added_stars": "0 stars this week"
     }
   ]
 }

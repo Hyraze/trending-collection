@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:15:00 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
   "items": [
     {
       "title": "E3SM-Project / E3SM",
@@ -15,22 +15,12 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "ecmwf-ifs / ectrans",
-      "url": "https://github.com/ecmwf-ifs/ectrans",
-      "description": "Efficient and scalable spectral transforms",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 26,
-      "forks": 61,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "Reference-LAPACK / lapack",
       "url": "https://github.com/Reference-LAPACK/lapack",
       "description": "LAPACK development repository",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1883,
+      "stars": 1884,
       "forks": 510,
       "added_stars": "2 stars this week"
     },
@@ -41,28 +31,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 1727,
-      "forks": 868,
+      "forks": 867,
       "added_stars": "7 stars this week"
-    },
-    {
-      "title": "firemodels / fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 860,
-      "forks": 687,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1178,
-      "forks": 492,
-      "added_stars": "4 stars this week"
     },
     {
       "title": "MetOffice / lfric_core",
@@ -75,14 +45,54 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "ecmwf / fckit",
-      "url": "https://github.com/ecmwf/fckit",
-      "description": "A Fortran toolkit for interoperating Fortran with C/C++",
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 48,
-      "forks": 21,
+      "stars": 1180,
+      "forks": 491,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "ecmwf-ifs / ectrans",
+      "url": "https://github.com/ecmwf-ifs/ectrans",
+      "description": "Efficient and scalable spectral transforms",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 26,
+      "forks": 61,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "firemodels / fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 861,
+      "forks": 687,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1650,
+      "forks": 391,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "grimme-lab / xtb",
+      "url": "https://github.com/grimme-lab/xtb",
+      "description": "Semiempirical Extended Tight-Binding Program Package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 825,
+      "forks": 202,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "GEOS-ESM / MAPL",
@@ -95,26 +105,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1650,
-      "forks": 391,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "grimme-lab / xtb",
-      "url": "https://github.com/grimme-lab/xtb",
-      "description": "Semiempirical Extended Tight-Binding Program Package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 824,
-      "forks": 202,
-      "added_stars": "3 stars this week"
-    },
-    {
       "title": "OpenFAST / openfast",
       "url": "https://github.com/OpenFAST/openfast",
       "description": "Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
@@ -123,6 +113,16 @@
       "stars": 944,
       "forks": 533,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "ecmwf / fckit",
+      "url": "https://github.com/ecmwf/fckit",
+      "description": "A Fortran toolkit for interoperating Fortran with C/C++",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 48,
+      "forks": 21,
+      "added_stars": "0 stars this week"
     }
   ]
 }

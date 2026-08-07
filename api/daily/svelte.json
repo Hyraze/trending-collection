@@ -2,47 +2,17 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
   "items": [
     {
-      "title": "seanmorley15 / AdventureLog",
-      "url": "https://github.com/seanmorley15/AdventureLog",
-      "description": "Self-hostable travel tracker and trip planner.",
+      "title": "Finsys / dockhand",
+      "url": "https://github.com/Finsys/dockhand",
+      "description": "Dockhand - Docker management you will like.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 3460,
-      "forks": 234,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "dbgate / dbgate",
-      "url": "https://github.com/dbgate/dbgate",
-      "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 7187,
-      "forks": 445,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "b14ckyy / Kite-GC",
-      "url": "https://github.com/b14ckyy/Kite-GC",
-      "description": "Kite Ground Control (Kite GC) is a modern, cross-platform ground control station for INAV, ArduPilot and PX4 aircraft — planes, multirotors, VTOL, helicopters, rovers and boats.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 87,
-      "forks": 13,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "imputnet / cobalt",
-      "url": "https://github.com/imputnet/cobalt",
-      "description": "best way to save what you love",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 41977,
-      "forks": 3610,
-      "added_stars": "19 stars today"
+      "stars": 5512,
+      "forks": 218,
+      "added_stars": "11 stars today"
     },
     {
       "title": "open-webui / desktop",
@@ -50,19 +20,49 @@
       "description": "Open WebUI Desktop 🌐",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 2485,
+      "stars": 2494,
       "forks": 240,
-      "added_stars": "9 stars today"
+      "added_stars": "11 stars today"
     },
     {
-      "title": "VERT-sh / VERT",
-      "url": "https://github.com/VERT-sh/VERT",
-      "description": "The next-generation file converter. Open source, fully local* and free forever.",
+      "title": "Abdenasser / neohtop",
+      "url": "https://github.com/Abdenasser/neohtop",
+      "description": "💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 15332,
-      "forks": 814,
-      "added_stars": "4 stars today"
+      "stars": 9224,
+      "forks": 293,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Xyphyn / photon",
+      "url": "https://github.com/Xyphyn/photon",
+      "description": "A faster, prettier, and nicer fediverse client",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 542,
+      "forks": 63,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "dbgate / dbgate",
+      "url": "https://github.com/dbgate/dbgate",
+      "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 7190,
+      "forks": 446,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "seanmorley15 / AdventureLog",
+      "url": "https://github.com/seanmorley15/AdventureLog",
+      "description": "Self-hostable travel tracker and trip planner.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 3462,
+      "forks": 234,
+      "added_stars": "2 stars today"
     },
     {
       "title": "mistweaverco / bananas",
@@ -70,28 +70,18 @@
       "description": "Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 6537,
+      "stars": 6542,
       "forks": 289,
-      "added_stars": "1 star today"
+      "added_stars": "6 stars today"
     },
     {
-      "title": "Finsys / dockhand",
-      "url": "https://github.com/Finsys/dockhand",
-      "description": "Dockhand - Docker management you will like.",
+      "title": "binimum / tidal-ui",
+      "url": "https://github.com/binimum/tidal-ui",
+      "description": "Simple Tidal frontend. Modified version on tidal.squid.wtf",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 5503,
-      "forks": 217,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "rajnandan1 / kener",
-      "url": "https://github.com/rajnandan1/kener",
-      "description": "Stunning status pages, batteries included!",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 5084,
-      "forks": 288,
+      "stars": 1359,
+      "forks": 128,
       "added_stars": "0 stars today"
     }
   ]
