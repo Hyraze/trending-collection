@@ -4,16 +4,11 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:22:21 GMT</pubDate>
   <item>
     <title>block / buzz</title>
     <link>https://github.com/block/buzz</link>
     <description>A hive mind communication platform</description>
-  </item>
-  <item>
-    <title>agavra / tuicr</title>
-    <link>https://github.com/agavra/tuicr</link>
-    <description>a code review TUI with vim keybindings</description>
   </item>
   <item>
     <title>1jehuang / jcode</title>
@@ -21,19 +16,19 @@
     <description>The most RAM efficient harness</description>
   </item>
   <item>
+    <title>raphamorim / rio</title>
+    <link>https://github.com/raphamorim/rio</link>
+    <description>A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.</description>
+  </item>
+  <item>
     <title>sharkdp / bat</title>
     <link>https://github.com/sharkdp/bat</link>
     <description>A cat(1) clone with wings.</description>
   </item>
   <item>
-    <title>dani-garcia / vaultwarden</title>
-    <link>https://github.com/dani-garcia/vaultwarden</link>
-    <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
-  </item>
-  <item>
-    <title>clockworklabs / SpacetimeDB</title>
-    <link>https://github.com/clockworklabs/SpacetimeDB</link>
-    <description>Development at the speed of light</description>
+    <title>agavra / tuicr</title>
+    <link>https://github.com/agavra/tuicr</link>
+    <description>a code review TUI with vim keybindings</description>
   </item>
   <item>
     <title>BurntSushi / ripgrep</title>
@@ -41,19 +36,19 @@
     <description>ripgrep recursively searches directories for a regex pattern while respecting your gitignore</description>
   </item>
   <item>
-    <title>openai / codex</title>
-    <link>https://github.com/openai/codex</link>
-    <description>Lightweight coding agent that runs in your terminal</description>
-  </item>
-  <item>
-    <title>astral-sh / uv</title>
-    <link>https://github.com/astral-sh/uv</link>
-    <description>An extremely fast Python package and project manager, written in Rust.</description>
+    <title>dani-garcia / vaultwarden</title>
+    <link>https://github.com/dani-garcia/vaultwarden</link>
+    <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
   </item>
   <item>
     <title>moghtech / komodo</title>
     <link>https://github.com/moghtech/komodo</link>
     <description>🦎 a tool to build and deploy software on many servers 🦎</description>
+  </item>
+  <item>
+    <title>jdx / mise</title>
+    <link>https://github.com/jdx/mise</link>
+    <description>dev tools, env vars, task runner</description>
   </item>
   <item>
     <title>rustdesk / rustdesk</title>
@@ -66,14 +61,19 @@
     <description>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</description>
   </item>
   <item>
-    <title>sinelaw / fresh</title>
-    <link>https://github.com/sinelaw/fresh</link>
-    <description>Terminal based IDE &amp; text editor: easy, powerful and fast</description>
+    <title>servo / servo</title>
+    <link>https://github.com/servo/servo</link>
+    <description>Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</description>
   </item>
   <item>
-    <title>modelcontextprotocol / rust-sdk</title>
-    <link>https://github.com/modelcontextprotocol/rust-sdk</link>
-    <description>The official Rust SDK for the Model Context Protocol</description>
+    <title>openai / codex</title>
+    <link>https://github.com/openai/codex</link>
+    <description>Lightweight coding agent that runs in your terminal</description>
+  </item>
+  <item>
+    <title>FalkorDB / FalkorDB</title>
+    <link>https://github.com/FalkorDB/FalkorDB</link>
+    <description>A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).</description>
   </item>
   <item>
     <title>tokio-rs / tokio</title>
@@ -81,29 +81,29 @@
     <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
   </item>
   <item>
+    <title>sinelaw / fresh</title>
+    <link>https://github.com/sinelaw/fresh</link>
+    <description>Terminal based IDE &amp; text editor: easy, powerful and fast</description>
+  </item>
+  <item>
     <title>zed-industries / zed</title>
     <link>https://github.com/zed-industries/zed</link>
     <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
   </item>
   <item>
-    <title>servo / servo</title>
-    <link>https://github.com/servo/servo</link>
-    <description>Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</description>
+    <title>risingwavelabs / risingwave</title>
+    <link>https://github.com/risingwavelabs/risingwave</link>
+    <description>Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.</description>
   </item>
   <item>
-    <title>cjpais / Handy</title>
-    <link>https://github.com/cjpais/Handy</link>
-    <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+    <title>pimalaya / himalaya</title>
+    <link>https://github.com/pimalaya/himalaya</link>
+    <description>CLI to manage emails</description>
   </item>
   <item>
-    <title>rust-lang / cargo</title>
-    <link>https://github.com/rust-lang/cargo</link>
-    <description>The Rust package manager</description>
-  </item>
-  <item>
-    <title>raphamorim / rio</title>
-    <link>https://github.com/raphamorim/rio</link>
-    <description>A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.</description>
+    <title>warp-tech / warpgate</title>
+    <link>https://github.com/warp-tech/warpgate</link>
+    <description>Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn&#x27;t need additional client-side software</description>
   </item>
 </channel>
 </rss>

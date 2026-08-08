@@ -4,31 +4,11 @@
   <title>GitHub Bikeshed Languages Daily Trending</title>
   <description>Daily Trending of Bikeshed Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
     <title>webmachinelearning / webmcp</title>
     <link>https://github.com/webmachinelearning/webmcp</link>
     <description>🤖 WebMCP</description>
-  </item>
-  <item>
-    <title>immersive-web / webxr</title>
-    <link>https://github.com/immersive-web/webxr</link>
-    <description>Repository for the WebXR Device API Specification.</description>
-  </item>
-  <item>
-    <title>w3c / webappsec-permissions-policy</title>
-    <link>https://github.com/w3c/webappsec-permissions-policy</link>
-    <description>A mechanism to selectively enable and disable browser features and APIs</description>
-  </item>
-  <item>
-    <title>WebAudio / web-audio-api</title>
-    <link>https://github.com/WebAudio/web-audio-api</link>
-    <description>The Web Audio API v1.0, developed by the W3C Audio WG</description>
-  </item>
-  <item>
-    <title>w3c / ServiceWorker</title>
-    <link>https://github.com/w3c/ServiceWorker</link>
-    <description>Service Workers</description>
   </item>
   <item>
     <title>w3c / csswg-drafts</title>
@@ -36,14 +16,19 @@
     <description>CSS Working Group Editor Drafts</description>
   </item>
   <item>
-    <title>w3c / resource-timing</title>
-    <link>https://github.com/w3c/resource-timing</link>
-    <description>Resource Timing</description>
+    <title>immersive-web / webxr</title>
+    <link>https://github.com/immersive-web/webxr</link>
+    <description>Repository for the WebXR Device API Specification.</description>
   </item>
   <item>
-    <title>gpuweb / gpuweb</title>
-    <link>https://github.com/gpuweb/gpuweb</link>
-    <description>Where the GPU for the Web work happens!</description>
+    <title>WebAudio / web-audio-api</title>
+    <link>https://github.com/WebAudio/web-audio-api</link>
+    <description>The Web Audio API v1.0, developed by the W3C Audio WG</description>
+  </item>
+  <item>
+    <title>w3c / webappsec-permissions-policy</title>
+    <link>https://github.com/w3c/webappsec-permissions-policy</link>
+    <description>A mechanism to selectively enable and disable browser features and APIs</description>
   </item>
 </channel>
 </rss>

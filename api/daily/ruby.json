@@ -2,76 +2,96 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
-    {
-      "title": "Homebrew / brew",
-      "url": "https://github.com/Homebrew/brew",
-      "description": "🍺 The Package Manager for Everywhere",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 49096,
-      "forks": 11267,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "Freika / dawarich",
-      "url": "https://github.com/Freika/dawarich",
-      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 10026,
-      "forks": 348,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "DataDog / dd-trace-rb",
-      "url": "https://github.com/DataDog/dd-trace-rb",
-      "description": "Datadog's client library for Ruby",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 415,
-      "forks": 414,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "opf / openproject",
       "url": "https://github.com/opf/openproject",
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 15779,
-      "forks": 3410,
-      "added_stars": "16 stars today"
+      "stars": 15793,
+      "forks": 3414,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "ruby / rubygems",
-      "url": "https://github.com/ruby/rubygems",
-      "description": "Library packaging and distribution for Ruby.",
+      "title": "mastodon / mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 3949,
-      "forks": 1928,
-      "added_stars": "0 stars today"
+      "stars": 50176,
+      "forks": 7476,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "rubocop / rubocop",
-      "url": "https://github.com/rubocop/rubocop",
-      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+      "title": "fastlane / fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 12897,
-      "forks": 3121,
-      "added_stars": "2 stars today"
+      "stars": 41955,
+      "forks": 6025,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "googleapis / google-cloud-ruby",
-      "url": "https://github.com/googleapis/google-cloud-ruby",
-      "description": "Google Cloud Client Library for Ruby",
+      "title": "discourse / discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 1422,
-      "forks": 573,
+      "stars": 47617,
+      "forks": 8980,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "midudev / autoskills",
+      "url": "https://github.com/midudev/autoskills",
+      "description": "One command. Your entire AI skill stack. Installed.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 6670,
+      "forks": 603,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "antiwork / gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "See what sticks",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 9527,
+      "forks": 2006,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "docusealco / docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 18220,
+      "forks": 1813,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "gitlabhq / gitlabhq",
+      "url": "https://github.com/gitlabhq/gitlabhq",
+      "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 24527,
+      "forks": 5980,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ruby / ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 23668,
+      "forks": 5626,
       "added_stars": "0 stars today"
     },
     {
@@ -80,19 +100,39 @@
       "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 22151,
-      "forks": 11793,
-      "added_stars": "6 stars today"
+      "stars": 22152,
+      "forks": 11801,
+      "added_stars": "1 star today"
     },
     {
-      "title": "chef / chef",
-      "url": "https://github.com/chef/chef",
-      "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+      "title": "Homebrew / homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 8229,
-      "forks": 2520,
-      "added_stars": "0 stars today"
+      "stars": 15484,
+      "forks": 13723,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "spree / spree",
+      "url": "https://github.com/spree/spree",
+      "description": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 15607,
+      "forks": 5287,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "github-linguist / linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 13624,
+      "forks": 5327,
+      "added_stars": "1 star today"
     },
     {
       "title": "rubysec / ruby-advisory-db",
@@ -105,84 +145,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "Homebrew / homebrew-core",
-      "url": "https://github.com/Homebrew/homebrew-core",
-      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+      "title": "zammad / zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 15482,
-      "forks": 13721,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "spree / spree",
-      "url": "https://github.com/spree/spree",
-      "description": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 15605,
-      "forks": 5285,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "fastlane / fastlane",
-      "url": "https://github.com/fastlane/fastlane",
-      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 41950,
-      "forks": 6024,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "rapid7 / metasploit-framework",
-      "url": "https://github.com/rapid7/metasploit-framework",
-      "description": "Metasploit Framework",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 38755,
-      "forks": 14933,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "hashicorp / vagrant",
-      "url": "https://github.com/hashicorp/vagrant",
-      "description": "Vagrant is a tool for building and distributing development environments.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 27199,
-      "forks": 4401,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "sidekiq / sidekiq",
-      "url": "https://github.com/sidekiq/sidekiq",
-      "description": "Simple, efficient background processing for Ruby",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 13552,
-      "forks": 2481,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "mastodon / mastodon",
-      "url": "https://github.com/mastodon/mastodon",
-      "description": "Your self-hosted, globally interconnected microblogging community",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 50178,
-      "forks": 7477,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "dependabot / dependabot-core",
-      "url": "https://github.com/dependabot/dependabot-core",
-      "description": "🤖 Dependabot's core logic for creating update PRs.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 5714,
-      "forks": 1482,
-      "added_stars": "1 star today"
+      "stars": 5834,
+      "forks": 1028,
+      "added_stars": "4 stars today"
     },
     {
       "title": "DataDog / datadog-api-client-ruby",
@@ -195,14 +165,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "discourse / discourse",
-      "url": "https://github.com/discourse/discourse",
-      "description": "A platform for community discussion. Free, open, simple.",
+      "title": "solidusio / solidus",
+      "url": "https://github.com/solidusio/solidus",
+      "description": "🛒 Solidus, the open-source eCommerce framework for industry trailblazers.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 47610,
-      "forks": 8980,
-      "added_stars": "8 stars today"
+      "stars": 5318,
+      "forks": 1398,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "18F / identity-idp",
+      "url": "https://github.com/18F/identity-idp",
+      "description": "Login.gov Core App: Identity Provider (IdP)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 584,
+      "forks": 166,
+      "added_stars": "0 stars today"
     }
   ]
 }

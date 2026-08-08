@@ -2,18 +2,8 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
-    {
-      "title": "argoproj / argo-helm",
-      "url": "https://github.com/argoproj/argo-helm",
-      "description": "ArgoProj Helm Charts",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 2339,
-      "forks": 2097,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "temporalio / helm-charts",
       "url": "https://github.com/temporalio/helm-charts",
@@ -25,14 +15,44 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "prometheus-community / helm-charts",
-      "url": "https://github.com/prometheus-community/helm-charts",
-      "description": "Prometheus community Helm charts",
+      "title": "thmsgbrt / thmsgbrt",
+      "url": "https://github.com/thmsgbrt/thmsgbrt",
+      "description": "My awesome README.md",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 6165,
-      "forks": 5380,
-      "added_stars": "1 star today"
+      "stars": 539,
+      "forks": 1379,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "argoproj / argo-helm",
+      "url": "https://github.com/argoproj/argo-helm",
+      "description": "ArgoProj Helm Charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 2339,
+      "forks": 2098,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "codefresh-contrib / gitops-certification-examples",
+      "url": "https://github.com/codefresh-contrib/gitops-certification-examples",
+      "description": "GitOps Certification Level 1 examples",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 302,
+      "forks": 5945,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "renovatebot / helm-charts",
+      "url": "https://github.com/renovatebot/helm-charts",
+      "description": "",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 140,
+      "forks": 83,
+      "added_stars": "0 stars today"
     },
     {
       "title": "goharbor / harbor-helm",
@@ -45,36 +65,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "amzn / selling-partner-api-models",
-      "url": "https://github.com/amzn/selling-partner-api-models",
-      "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 887,
-      "forks": 790,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "aws / eks-charts",
-      "url": "https://github.com/aws/eks-charts",
-      "description": "Amazon EKS Helm chart repository",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 1302,
-      "forks": 1082,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "thmsgbrt / thmsgbrt",
-      "url": "https://github.com/thmsgbrt/thmsgbrt",
-      "description": "My awesome README.md",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 539,
-      "forks": 1380,
-      "added_stars": "1 star today"
-    },
-    {
       "title": "FairwindsOps / charts",
       "url": "https://github.com/FairwindsOps/charts",
       "description": "Fairwinds helm chart repository",
@@ -83,6 +73,26 @@
       "stars": 154,
       "forks": 179,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "amzn / selling-partner-api-models",
+      "url": "https://github.com/amzn/selling-partner-api-models",
+      "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 888,
+      "forks": 790,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "swagger-api / swagger-codegen",
+      "url": "https://github.com/swagger-api/swagger-codegen",
+      "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 17779,
+      "forks": 5966,
+      "added_stars": "1 star today"
     }
   ]
 }

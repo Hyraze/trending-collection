@@ -4,21 +4,31 @@
   <title>GitHub Kotlin Languages Daily Trending</title>
   <description>Daily Trending of Kotlin Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
-  <item>
-    <title>JetBrains / kotlin</title>
-    <link>https://github.com/JetBrains/kotlin</link>
-    <description>The Kotlin Programming Language.</description>
-  </item>
-  <item>
-    <title>MatsuriDayo / NekoBoxForAndroid</title>
-    <link>https://github.com/MatsuriDayo/NekoBoxForAndroid</link>
-    <description>NekoBox for Android / sing-box / universal proxy toolchain for Android</description>
-  </item>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
     <title>bannedbook / fanqiang</title>
     <link>https://github.com/bannedbook/fanqiang</link>
     <description>翻墙-科学上网</description>
+  </item>
+  <item>
+    <title>android / compose-samples</title>
+    <link>https://github.com/android/compose-samples</link>
+    <description>Official Jetpack Compose samples.</description>
+  </item>
+  <item>
+    <title>rukamori / ArchiveTune</title>
+    <link>https://github.com/rukamori/ArchiveTune</link>
+    <description>🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!</description>
+  </item>
+  <item>
+    <title>LanRhyme / MicYou</title>
+    <link>https://github.com/LanRhyme/MicYou</link>
+    <description>MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.</description>
+  </item>
+  <item>
+    <title>xororz / local-dream</title>
+    <link>https://github.com/xororz/local-dream</link>
+    <description>Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.</description>
   </item>
   <item>
     <title>kitsumed / ShizuCallRecorder</title>
@@ -26,9 +36,24 @@
     <description>ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!</description>
   </item>
   <item>
+    <title>embabel / embabel-agent</title>
+    <link>https://github.com/embabel/embabel-agent</link>
+    <description>Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/</description>
+  </item>
+  <item>
     <title>misaka10032w / Han1meViewer</title>
     <link>https://github.com/misaka10032w/Han1meViewer</link>
     <description>hanime1的三方客户端，提高了一些播放体验</description>
+  </item>
+  <item>
+    <title>mihonapp / mihon</title>
+    <link>https://github.com/mihonapp/mihon</link>
+    <description>Free and open source manga reader for Android</description>
+  </item>
+  <item>
+    <title>samolego / Canta</title>
+    <link>https://github.com/samolego/Canta</link>
+    <description>Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.</description>
   </item>
   <item>
     <title>Dev4Mod / WaEnhancer</title>
@@ -36,39 +61,24 @@
     <description>WhatsApp tools for Android</description>
   </item>
   <item>
-    <title>thunderbird / thunderbird-android</title>
-    <link>https://github.com/thunderbird/thunderbird-android</link>
-    <description>Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)</description>
+    <title>maxrave-dev / SimpMusic</title>
+    <link>https://github.com/maxrave-dev/SimpMusic</link>
+    <description>A cross-platform music app using YouTube Music for backend</description>
   </item>
   <item>
-    <title>Kotlin / kotlin-lsp</title>
-    <link>https://github.com/Kotlin/kotlin-lsp</link>
-    <description>Kotlin Language Server and plugin for Visual Studio Code</description>
+    <title>TeamAmaze / AmazeFileManager</title>
+    <link>https://github.com/TeamAmaze/AmazeFileManager</link>
+    <description>Material design file manager for Android</description>
   </item>
   <item>
-    <title>KotatsuApp / Kotatsu</title>
-    <link>https://github.com/KotatsuApp/Kotatsu</link>
-    <description>Manga reader for Android</description>
+    <title>cwuom / NeriPlayer</title>
+    <link>https://github.com/cwuom/NeriPlayer</link>
+    <description>A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵</description>
   </item>
   <item>
-    <title>android / nowinandroid</title>
-    <link>https://github.com/android/nowinandroid</link>
-    <description>A fully functional Android app built entirely with Kotlin and Jetpack Compose</description>
-  </item>
-  <item>
-    <title>signalapp / Signal-Android</title>
-    <link>https://github.com/signalapp/Signal-Android</link>
-    <description>A private messenger for Android.</description>
-  </item>
-  <item>
-    <title>Ujhhgtg / WeKit</title>
-    <link>https://github.com/Ujhhgtg/WeKit</link>
-    <description>WeChat, now with superpowers</description>
-  </item>
-  <item>
-    <title>libre-tube / LibreTube</title>
-    <link>https://github.com/libre-tube/LibreTube</link>
-    <description>An alternative frontend for YouTube, for Android.</description>
+    <title>jqssun / android-airplay-server</title>
+    <link>https://github.com/jqssun/android-airplay-server</link>
+    <description>First open-source AirPlay receiver implementation for Android with mirroring, video and audio support</description>
   </item>
 </channel>
 </rss>

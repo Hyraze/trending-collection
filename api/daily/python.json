@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
       "title": "goauthentik / authentik",
@@ -10,19 +10,29 @@
       "description": "The authentication glue you need.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23198,
-      "forks": 1778,
-      "added_stars": "138 stars today"
+      "stars": 23645,
+      "forks": 1811,
+      "added_stars": "530 stars today"
     },
     {
-      "title": "huangruiteng / loopx",
-      "url": "https://github.com/huangruiteng/loopx",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "title": "semantica-agi / semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2992,
-      "forks": 221,
-      "added_stars": "847 stars today"
+      "stars": 2380,
+      "forks": 308,
+      "added_stars": "122 stars today"
+    },
+    {
+      "title": "666ghj / MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 70552,
+      "forks": 10993,
+      "added_stars": "141 stars today"
     },
     {
       "title": "Significant-Gravitas / AutoGPT",
@@ -30,119 +40,29 @@
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 186083,
-      "forks": 46055,
-      "added_stars": "37 stars today"
+      "stars": 186348,
+      "forks": 46060,
+      "added_stars": "355 stars today"
     },
     {
-      "title": "tirth8205 / code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "title": "google / skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 29114,
-      "forks": 2687,
-      "added_stars": "237 stars today"
+      "stars": 16297,
+      "forks": 1294,
+      "added_stars": "327 stars today"
     },
     {
-      "title": "SimplifyJobs / Summer2027-Internships",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "title": "Comfy-Org / ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 46034,
-      "forks": 3221,
-      "added_stars": "97 stars today"
-    },
-    {
-      "title": "usestrix / strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 49407,
-      "forks": 5248,
-      "added_stars": "492 stars today"
-    },
-    {
-      "title": "frappe / hrms",
-      "url": "https://github.com/frappe/hrms",
-      "description": "Open Source HR and Payroll Software",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 8520,
-      "forks": 2573,
-      "added_stars": "49 stars today"
-    },
-    {
-      "title": "unclecode / crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 77083,
-      "forks": 7965,
-      "added_stars": "714 stars today"
-    },
-    {
-      "title": "Comfy-Org / workflow_templates",
-      "url": "https://github.com/Comfy-Org/workflow_templates",
-      "description": "ComfyUI template workflows",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 736,
-      "forks": 159,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "ComposioHQ / awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 71974,
-      "forks": 8159,
-      "added_stars": "96 stars today"
-    },
-    {
-      "title": "aws / agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2255,
-      "forks": 227,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "langchain-ai / open-swe",
-      "url": "https://github.com/langchain-ai/open-swe",
-      "description": "An Open-Source Asynchronous Coding Agent",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 10499,
-      "forks": 1220,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "browser-use / video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 19895,
-      "forks": 2470,
-      "added_stars": "185 stars today"
-    },
-    {
-      "title": "NousResearch / hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 226686,
-      "forks": 44246,
-      "added_stars": "610 stars today"
+      "stars": 124675,
+      "forks": 14769,
+      "added_stars": "338 stars today"
     },
     {
       "title": "donnemartin / system-design-primer",
@@ -150,39 +70,109 @@
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 362088,
-      "forks": 57693,
-      "added_stars": "733 stars today"
+      "stars": 362282,
+      "forks": 57716,
+      "added_stars": "294 stars today"
     },
     {
-      "title": "livekit / agents",
-      "url": "https://github.com/livekit/agents",
-      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "title": "android / skills",
+      "url": "https://github.com/android/skills",
+      "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12711,
-      "forks": 3512,
-      "added_stars": "54 stars today"
+      "stars": 6617,
+      "forks": 386,
+      "added_stars": "47 stars today"
     },
     {
-      "title": "Unclecheng-li / VulnClaw",
-      "url": "https://github.com/Unclecheng-li/VulnClaw",
-      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "title": "tirth8205 / code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2608,
-      "forks": 348,
-      "added_stars": "64 stars today"
+      "stars": 29365,
+      "forks": 2695,
+      "added_stars": "450 stars today"
     },
     {
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "title": "harvard-edge / cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32852,
-      "forks": 3242,
-      "added_stars": "101 stars today"
+      "stars": 27813,
+      "forks": 3496,
+      "added_stars": "36 stars today"
+    },
+    {
+      "title": "p1ngul1n0 / blackbird",
+      "url": "https://github.com/p1ngul1n0/blackbird",
+      "description": "An OSINT tool to search for accounts by username and email in social networks.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 7406,
+      "forks": 832,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 33252,
+      "forks": 3755,
+      "added_stars": "55 stars today"
+    },
+    {
+      "title": "huangruiteng / loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3425,
+      "forks": 271,
+      "added_stars": "624 stars today"
+    },
+    {
+      "title": "wshobson / agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 38603,
+      "forks": 4119,
+      "added_stars": "58 stars today"
+    },
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 140614,
+      "forks": 22611,
+      "added_stars": "125 stars today"
+    },
+    {
+      "title": "NVIDIA-NeMo / Speech",
+      "url": "https://github.com/NVIDIA-NeMo/Speech",
+      "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 18020,
+      "forks": 3539,
+      "added_stars": "82 stars today"
+    },
+    {
+      "title": "kijai / ComfyUI-KJNodes",
+      "url": "https://github.com/kijai/ComfyUI-KJNodes",
+      "description": "Various custom nodes for ComfyUI",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2992,
+      "forks": 330,
+      "added_stars": "16 stars today"
     }
   ]
 }

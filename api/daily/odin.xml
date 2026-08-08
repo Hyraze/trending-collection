@@ -4,7 +4,7 @@
   <title>GitHub Odin Languages Daily Trending</title>
   <description>Daily Trending of Odin Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
     <title>odin-lang / Odin</title>
     <link>https://github.com/odin-lang/Odin</link>
@@ -14,6 +14,11 @@
     <title>odin-lang / examples</title>
     <link>https://github.com/odin-lang/examples</link>
     <description>Examples of idiomatic Odin code</description>
+  </item>
+  <item>
+    <title>DanielGavin / ols</title>
+    <link>https://github.com/DanielGavin/ols</link>
+    <description>Language server for Odin</description>
   </item>
 </channel>
 </rss>

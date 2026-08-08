@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Daily Trending",
   "description": "Daily Trending of Glsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
       "title": "KhronosGroup / SPIRV-Cross",
@@ -11,8 +11,28 @@
       "language": "GLSL",
       "languageColor": "#5686a5",
       "stars": 2481,
-      "forks": 697,
+      "forks": 698,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cizia64 / CrossMix-OS",
+      "url": "https://github.com/cizia64/CrossMix-OS",
+      "description": "Enhanced OS for the TrimUI Smart Pro",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": 973,
+      "forks": 92,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "sixthsurge / photon",
+      "url": "https://github.com/sixthsurge/photon",
+      "description": "A gameplay-focused shader pack for Minecraft",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": 1860,
+      "forks": 313,
+      "added_stars": "0 stars today"
     },
     {
       "title": "SaschaWillems / Vulkan",
@@ -25,34 +45,24 @@
       "added_stars": "2 stars today"
     },
     {
-      "title": "cizia64 / CrossMix-OS",
-      "url": "https://github.com/cizia64/CrossMix-OS",
-      "description": "Enhanced OS for the TrimUI Smart Pro",
+      "title": "0xhckr / ghostty-shaders",
+      "url": "https://github.com/0xhckr/ghostty-shaders",
+      "description": "A repository containing many free shaders to use with ghostty (the terminal)",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 971,
-      "forks": 92,
-      "added_stars": "0 stars today"
+      "stars": 1467,
+      "forks": 96,
+      "added_stars": "1 star today"
     },
     {
-      "title": "dyphire / mpv-config",
-      "url": "https://github.com/dyphire/mpv-config",
-      "description": "本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)",
+      "title": "HaringPro / Revelation",
+      "url": "https://github.com/HaringPro/Revelation",
+      "description": "An explorative shaderpack for Minecraft: Java Edition",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 1822,
-      "forks": 84,
+      "stars": 608,
+      "forks": 35,
       "added_stars": "2 stars today"
-    },
-    {
-      "title": "X0nk / Bliss-Shader",
-      "url": "https://github.com/X0nk/Bliss-Shader",
-      "description": "A minecraft shader which is an edit of chocapic v9",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 1002,
-      "forks": 132,
-      "added_stars": "0 stars today"
     }
   ]
 }

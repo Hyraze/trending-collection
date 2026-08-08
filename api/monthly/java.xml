@@ -4,21 +4,21 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>iflytek / skillhub</title>
     <link>https://github.com/iflytek/skillhub</link>
     <description>Self-hosted, open-source agent skill registry for enterprises. Publish &amp; version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.</description>
   </item>
   <item>
-    <title>Anuken / Mindustry</title>
-    <link>https://github.com/Anuken/Mindustry</link>
-    <description>The automation tower defense RTS</description>
-  </item>
-  <item>
     <title>jenkinsci / jenkins</title>
     <link>https://github.com/jenkinsci/jenkins</link>
     <description>Jenkins automation server</description>
+  </item>
+  <item>
+    <title>Anuken / Mindustry</title>
+    <link>https://github.com/Anuken/Mindustry</link>
+    <description>The automation tower defense RTS</description>
   </item>
   <item>
     <title>kestra-io / kestra</title>
@@ -31,6 +31,11 @@
     <description>Free and Open Source, Distributed, RESTful Search Engine</description>
   </item>
   <item>
+    <title>NationalSecurityAgency / ghidra</title>
+    <link>https://github.com/NationalSecurityAgency/ghidra</link>
+    <description>Ghidra is a software reverse engineering (SRE) framework</description>
+  </item>
+  <item>
     <title>yuliskov / SmartTube</title>
     <link>https://github.com/yuliskov/SmartTube</link>
     <description>Browse media content with your own rules on Android TV</description>
@@ -39,41 +44,6 @@
     <title>OtterMind / Chat2DB</title>
     <link>https://github.com/OtterMind/Chat2DB</link>
     <description>🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</description>
-  </item>
-  <item>
-    <title>freeok / so-novel</title>
-    <link>https://github.com/freeok/so-novel</link>
-    <description>小说下载｜网文下载 | 网络小说</description>
-  </item>
-  <item>
-    <title>modelcontextprotocol / java-sdk</title>
-    <link>https://github.com/modelcontextprotocol/java-sdk</link>
-    <description>The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI</description>
-  </item>
-  <item>
-    <title>github / copilot-sdk</title>
-    <link>https://github.com/github/copilot-sdk</link>
-    <description>Multi-platform SDK for integrating GitHub Copilot Agent into apps and services</description>
-  </item>
-  <item>
-    <title>NationalSecurityAgency / ghidra</title>
-    <link>https://github.com/NationalSecurityAgency/ghidra</link>
-    <description>Ghidra is a software reverse engineering (SRE) framework</description>
-  </item>
-  <item>
-    <title>openjdk / jdk</title>
-    <link>https://github.com/openjdk/jdk</link>
-    <description>JDK main-line development https://openjdk.org/projects/jdk</description>
-  </item>
-  <item>
-    <title>iluwatar / java-design-patterns</title>
-    <link>https://github.com/iluwatar/java-design-patterns</link>
-    <description>Design patterns implemented in Java</description>
-  </item>
-  <item>
-    <title>skylot / jadx</title>
-    <link>https://github.com/skylot/jadx</link>
-    <description>Dex to Java decompiler</description>
   </item>
   <item>
     <title>termux / termux-app</title>
@@ -86,19 +56,34 @@
     <description>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</description>
   </item>
   <item>
-    <title>dataease / dataease</title>
-    <link>https://github.com/dataease/dataease</link>
-    <description>🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.</description>
+    <title>modelcontextprotocol / java-sdk</title>
+    <link>https://github.com/modelcontextprotocol/java-sdk</link>
+    <description>The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI</description>
   </item>
   <item>
-    <title>LawnchairLauncher / lawnchair</title>
-    <link>https://github.com/LawnchairLauncher/lawnchair</link>
-    <description>No clever tagline needed.</description>
+    <title>freeok / so-novel</title>
+    <link>https://github.com/freeok/so-novel</link>
+    <description>小说下载｜网文下载 | 网络小说</description>
   </item>
   <item>
-    <title>PaperMC / Paper</title>
-    <link>https://github.com/PaperMC/Paper</link>
-    <description>The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</description>
+    <title>github / copilot-sdk</title>
+    <link>https://github.com/github/copilot-sdk</link>
+    <description>Multi-platform SDK for integrating GitHub Copilot Agent into apps and services</description>
+  </item>
+  <item>
+    <title>iluwatar / java-design-patterns</title>
+    <link>https://github.com/iluwatar/java-design-patterns</link>
+    <description>Design patterns implemented in Java</description>
+  </item>
+  <item>
+    <title>openjdk / jdk</title>
+    <link>https://github.com/openjdk/jdk</link>
+    <description>JDK main-line development https://openjdk.org/projects/jdk</description>
+  </item>
+  <item>
+    <title>skylot / jadx</title>
+    <link>https://github.com/skylot/jadx</link>
+    <description>Dex to Java decompiler</description>
   </item>
   <item>
     <title>krahets / hello-algo</title>
@@ -106,9 +91,24 @@
     <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现</description>
   </item>
   <item>
-    <title>apache / cassandra</title>
-    <link>https://github.com/apache/cassandra</link>
-    <description>Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.</description>
+    <title>LawnchairLauncher / lawnchair</title>
+    <link>https://github.com/LawnchairLauncher/lawnchair</link>
+    <description>No clever tagline needed.</description>
+  </item>
+  <item>
+    <title>dataease / dataease</title>
+    <link>https://github.com/dataease/dataease</link>
+    <description>🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.</description>
+  </item>
+  <item>
+    <title>PaperMC / Paper</title>
+    <link>https://github.com/PaperMC/Paper</link>
+    <description>The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</description>
+  </item>
+  <item>
+    <title>opensearch-project / OpenSearch</title>
+    <link>https://github.com/opensearch-project/OpenSearch</link>
+    <description>🔎 Open source distributed and RESTful search engine.</description>
   </item>
   <item>
     <title>kunal-kushwaha / DSA-Bootcamp-Java</title>
@@ -116,9 +116,9 @@
     <description>This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms + interview preparation bootcamp of WeMakeDevs.</description>
   </item>
   <item>
-    <title>apache / doris</title>
-    <link>https://github.com/apache/doris</link>
-    <description>Apache Doris is a real-time analytics and hybrid search database for AI agents.</description>
+    <title>apache / cassandra</title>
+    <link>https://github.com/apache/cassandra</link>
+    <description>Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "embabel / embabel-agent",
@@ -10,29 +10,9 @@
       "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3995,
+      "stars": 4014,
       "forks": 398,
-      "added_stars": "154 stars this week"
-    },
-    {
-      "title": "LegadoTeam / legado",
-      "url": "https://github.com/LegadoTeam/legado",
-      "description": "Legado 3.0 Book Reader with powerful controls",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 615,
-      "forks": 181,
-      "added_stars": "150 stars this week"
-    },
-    {
-      "title": "rikkahub / rikkahub",
-      "url": "https://github.com/rikkahub/rikkahub",
-      "description": "RikkaHub is an Android APP that supports for multiple LLM providers.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 6704,
-      "forks": 533,
-      "added_stars": "250 stars this week"
+      "added_stars": "176 stars this week"
     },
     {
       "title": "JingMatrix / Vector",
@@ -40,29 +20,9 @@
       "description": "Modern Xposed Framework",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 12007,
-      "forks": 805,
-      "added_stars": "128 stars this week"
-    },
-    {
-      "title": "RikkaApps / Shizuku",
-      "url": "https://github.com/RikkaApps/Shizuku",
-      "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 28476,
-      "forks": 2804,
-      "added_stars": "321 stars this week"
-    },
-    {
-      "title": "AAswordman / Operit",
-      "url": "https://github.com/AAswordman/Operit",
-      "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 6584,
-      "forks": 534,
-      "added_stars": "292 stars this week"
+      "stars": 12026,
+      "forks": 806,
+      "added_stars": "125 stars this week"
     },
     {
       "title": "2dust / v2rayNG",
@@ -70,79 +30,29 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 60720,
-      "forks": 7892,
-      "added_stars": "427 stars this week"
+      "stars": 60782,
+      "forks": 7902,
+      "added_stars": "425 stars this week"
     },
     {
-      "title": "Dev4Mod / WaEnhancer",
-      "url": "https://github.com/Dev4Mod/WaEnhancer",
-      "description": "WhatsApp tools for Android",
+      "title": "LegadoTeam / legado",
+      "url": "https://github.com/LegadoTeam/legado",
+      "description": "Legado 3.0 Book Reader with powerful controls",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1617,
-      "forks": 216,
-      "added_stars": "21 stars this week"
+      "stars": 638,
+      "forks": 184,
+      "added_stars": "157 stars this week"
     },
     {
-      "title": "JetBrains / kotlin",
-      "url": "https://github.com/JetBrains/kotlin",
-      "description": "The Kotlin Programming Language.",
+      "title": "rikkahub / rikkahub",
+      "url": "https://github.com/rikkahub/rikkahub",
+      "description": "RikkaHub is an Android APP that supports for multiple LLM providers.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 53320,
-      "forks": 6389,
-      "added_stars": "153 stars this week"
-    },
-    {
-      "title": "topjohnwu / Magisk",
-      "url": "https://github.com/topjohnwu/Magisk",
-      "description": "The Magic Mask for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 62080,
-      "forks": 18198,
-      "added_stars": "161 stars this week"
-    },
-    {
-      "title": "tiann / KernelSU",
-      "url": "https://github.com/tiann/KernelSU",
-      "description": "A Kernel based root solution for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 17665,
-      "forks": 3832,
-      "added_stars": "149 stars this week"
-    },
-    {
-      "title": "aistra0528 / Hail",
-      "url": "https://github.com/aistra0528/Hail",
-      "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 6378,
-      "forks": 230,
-      "added_stars": "65 stars this week"
-    },
-    {
-      "title": "gkd-kit / gkd",
-      "url": "https://github.com/gkd-kit/gkd",
-      "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 40713,
-      "forks": 1927,
-      "added_stars": "174 stars this week"
-    },
-    {
-      "title": "keiyoushi / extensions-source",
-      "url": "https://github.com/keiyoushi/extensions-source",
-      "description": "Source code of extensions in https://github.com/keiyoushi/extensions",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 4491,
-      "forks": 1539,
-      "added_stars": "37 stars this week"
+      "stars": 6719,
+      "forks": 537,
+      "added_stars": "231 stars this week"
     },
     {
       "title": "tharunbirla / LibreCuts",
@@ -150,39 +60,59 @@
       "description": "LibreCuts is a free, open-source video editor for Android that prioritizes simplicity and efficiency.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 420,
-      "forks": 60,
-      "added_stars": "93 stars this week"
+      "stars": 424,
+      "forks": 61,
+      "added_stars": "83 stars this week"
+    },
+    {
+      "title": "topjohnwu / Magisk",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "description": "The Magic Mask for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 62102,
+      "forks": 18205,
+      "added_stars": "165 stars this week"
+    },
+    {
+      "title": "JetBrains / kotlin",
+      "url": "https://github.com/JetBrains/kotlin",
+      "description": "The Kotlin Programming Language.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 53321,
+      "forks": 6390,
+      "added_stars": "154 stars this week"
+    },
+    {
+      "title": "AAswordman / Operit",
+      "url": "https://github.com/AAswordman/Operit",
+      "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 6614,
+      "forks": 536,
+      "added_stars": "287 stars this week"
+    },
+    {
+      "title": "RikkaApps / Shizuku",
+      "url": "https://github.com/RikkaApps/Shizuku",
+      "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 28510,
+      "forks": 2813,
+      "added_stars": "316 stars this week"
     },
     {
       "title": "thejaustin / ShizukuPlus",
       "url": "https://github.com/thejaustin/ShizukuPlus",
-      "description": "[ UNSTABLE ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [WIP - Development slowed due to new job]",
+      "description": "[ UNSTABLE ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 631,
+      "stars": 640,
       "forks": 39,
-      "added_stars": "83 stars this week"
-    },
-    {
-      "title": "thunderbird / thunderbird-android",
-      "url": "https://github.com/thunderbird/thunderbird-android",
-      "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 13803,
-      "forks": 2778,
-      "added_stars": "46 stars this week"
-    },
-    {
-      "title": "recloudstream / cloudstream",
-      "url": "https://github.com/recloudstream/cloudstream",
-      "description": "Android app for streaming and downloading media.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 10371,
-      "forks": 987,
-      "added_stars": "76 stars this week"
+      "added_stars": "87 stars this week"
     },
     {
       "title": "MatsuriDayo / NekoBoxForAndroid",
@@ -190,19 +120,29 @@
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 22202,
-      "forks": 1790,
-      "added_stars": "144 stars this week"
+      "stars": 22208,
+      "forks": 1792,
+      "added_stars": "149 stars this week"
     },
     {
-      "title": "zly2006 / zhihu-plus-plus",
-      "url": "https://github.com/zly2006/zhihu-plus-plus",
-      "description": "Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验",
+      "title": "rukamori / ArchiveTune",
+      "url": "https://github.com/rukamori/ArchiveTune",
+      "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3644,
-      "forks": 177,
-      "added_stars": "116 stars this week"
+      "stars": 4280,
+      "forks": 180,
+      "added_stars": "214 stars this week"
+    },
+    {
+      "title": "keiyoushi / extensions-source",
+      "url": "https://github.com/keiyoushi/extensions-source",
+      "description": "Source code of extensions in https://github.com/keiyoushi/extensions",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 4497,
+      "forks": 1543,
+      "added_stars": "38 stars this week"
     },
     {
       "title": "wxxsfxyzm / InstallerX-Revived",
@@ -210,9 +150,79 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6037,
+      "stars": 6051,
       "forks": 235,
-      "added_stars": "205 stars this week"
+      "added_stars": "204 stars this week"
+    },
+    {
+      "title": "zly2006 / zhihu-plus-plus",
+      "url": "https://github.com/zly2006/zhihu-plus-plus",
+      "description": "Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 3660,
+      "forks": 177,
+      "added_stars": "106 stars this week"
+    },
+    {
+      "title": "maxrave-dev / SimpMusic",
+      "url": "https://github.com/maxrave-dev/SimpMusic",
+      "description": "A cross-platform music app using YouTube Music for backend",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 10322,
+      "forks": 513,
+      "added_stars": "144 stars this week"
+    },
+    {
+      "title": "recloudstream / cloudstream",
+      "url": "https://github.com/recloudstream/cloudstream",
+      "description": "Android app for streaming and downloading media.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 10382,
+      "forks": 987,
+      "added_stars": "76 stars this week"
+    },
+    {
+      "title": "square / leakcanary",
+      "url": "https://github.com/square/leakcanary",
+      "description": "A memory leak detection library for Android.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 29970,
+      "forks": 3990,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "tiann / KernelSU",
+      "url": "https://github.com/tiann/KernelSU",
+      "description": "A Kernel based root solution for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 17682,
+      "forks": 3841,
+      "added_stars": "143 stars this week"
+    },
+    {
+      "title": "Aliothmoon / MAA-Meow",
+      "url": "https://github.com/Aliothmoon/MAA-Meow",
+      "description": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 1228,
+      "forks": 57,
+      "added_stars": "66 stars this week"
+    },
+    {
+      "title": "gkd-kit / gkd",
+      "url": "https://github.com/gkd-kit/gkd",
+      "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 40737,
+      "forks": 1927,
+      "added_stars": "188 stars this week"
     }
   ]
 }

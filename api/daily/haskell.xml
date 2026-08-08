@@ -4,31 +4,11 @@
   <title>GitHub Haskell Languages Daily Trending</title>
   <description>Daily Trending of Haskell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
-    <title>simonmichael / hledger</title>
-    <link>https://github.com/simonmichael/hledger</link>
-    <description>Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</description>
-  </item>
-  <item>
-    <title>wireapp / wire-server</title>
-    <link>https://github.com/wireapp/wire-server</link>
-    <description>🇪🇺 Wire back-end services</description>
-  </item>
-  <item>
-    <title>digital-asset / daml</title>
-    <link>https://github.com/digital-asset/daml</link>
-    <description>The Daml smart contract language</description>
-  </item>
-  <item>
-    <title>ad-si / Perspec</title>
-    <link>https://github.com/ad-si/Perspec</link>
-    <description>Scriptable desktop app to correct the perspective of images</description>
-  </item>
-  <item>
-    <title>IntersectMBO / plutus</title>
-    <link>https://github.com/IntersectMBO/plutus</link>
-    <description>The Plutus language implementation and tools</description>
+    <title>jgm / pandoc</title>
+    <link>https://github.com/jgm/pandoc</link>
+    <description>Universal markup converter</description>
   </item>
   <item>
     <title>koalaman / shellcheck</title>
@@ -36,34 +16,9 @@
     <description>ShellCheck, a static analysis tool for shell scripts</description>
   </item>
   <item>
-    <title>IntersectMBO / cardano-node</title>
-    <link>https://github.com/IntersectMBO/cardano-node</link>
-    <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
-  </item>
-  <item>
-    <title>PostgREST / postgrest</title>
-    <link>https://github.com/PostgREST/postgrest</link>
-    <description>REST API for any Postgres database</description>
-  </item>
-  <item>
-    <title>IntersectMBO / cardano-ledger</title>
-    <link>https://github.com/IntersectMBO/cardano-ledger</link>
-    <description>The ledger implementation and specifications of the Cardano blockchain.</description>
-  </item>
-  <item>
-    <title>haskell / haskell-language-server</title>
-    <link>https://github.com/haskell/haskell-language-server</link>
-    <description>Official Haskell IDE support via the language server protocol (LSP)</description>
-  </item>
-  <item>
-    <title>cardano-foundation / cardano-wallet</title>
-    <link>https://github.com/cardano-foundation/cardano-wallet</link>
-    <description>HTTP server &amp; command-line for managing UTxOs and HD wallets in Cardano.</description>
-  </item>
-  <item>
-    <title>jgm / pandoc</title>
-    <link>https://github.com/jgm/pandoc</link>
-    <description>Universal markup converter</description>
+    <title>monoscope-tech / monoscope</title>
+    <link>https://github.com/monoscope-tech/monoscope</link>
+    <description>Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.</description>
   </item>
   <item>
     <title>simplex-chat / simplex-chat</title>
@@ -71,34 +26,19 @@
     <description>SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!</description>
   </item>
   <item>
-    <title>commercialhaskell / stack</title>
-    <link>https://github.com/commercialhaskell/stack</link>
-    <description>The Haskell Tool Stack</description>
+    <title>CategoricalData / hydra</title>
+    <link>https://github.com/CategoricalData/hydra</link>
+    <description>Graph programming language</description>
   </item>
   <item>
-    <title>unisonweb / unison</title>
-    <link>https://github.com/unisonweb/unison</link>
-    <description>A friendly programming language from the future</description>
-  </item>
-  <item>
-    <title>agda / agda</title>
-    <link>https://github.com/agda/agda</link>
-    <description>Agda is a dependently typed programming language / interactive theorem prover.</description>
+    <title>PostgREST / postgrest</title>
+    <link>https://github.com/PostgREST/postgrest</link>
+    <description>REST API for any Postgres database</description>
   </item>
   <item>
     <title>hadolint / hadolint</title>
     <link>https://github.com/hadolint/hadolint</link>
     <description>Dockerfile linter, validate inline bash, written in Haskell</description>
-  </item>
-  <item>
-    <title>IntersectMBO / ouroboros-network</title>
-    <link>https://github.com/IntersectMBO/ouroboros-network</link>
-    <description>Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.</description>
-  </item>
-  <item>
-    <title>nammayatri / nammayatri</title>
-    <link>https://github.com/nammayatri/nammayatri</link>
-    <description>A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</description>
   </item>
 </channel>
 </rss>

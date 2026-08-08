@@ -2,27 +2,17 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
-    {
-      "title": "EchoMusicApp / Echo-Music",
-      "url": "https://github.com/EchoMusicApp/Echo-Music",
-      "description": "A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuitive user experience.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 3222,
-      "forks": 190,
-      "added_stars": "974 stars this month"
-    },
     {
       "title": "A-EDev / Flow",
       "url": "https://github.com/A-EDev/Flow",
       "description": "A modern, feature-rich YouTube and YouTube Music client with local recommendation for Android built with Jetpack Compose",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1805,
-      "forks": 71,
-      "added_stars": "493 stars this month"
+      "stars": 1816,
+      "forks": 70,
+      "added_stars": "501 stars this month"
     },
     {
       "title": "RikkaApps / Shizuku",
@@ -30,29 +20,19 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 28476,
-      "forks": 2804,
+      "stars": 28510,
+      "forks": 2813,
       "added_stars": "1,409 stars this month"
     },
     {
-      "title": "recloudstream / cloudstream",
-      "url": "https://github.com/recloudstream/cloudstream",
-      "description": "Android app for streaming and downloading media.",
+      "title": "EchoMusicApp / Echo-Music",
+      "url": "https://github.com/EchoMusicApp/Echo-Music",
+      "description": "A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuitive user experience.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10371,
-      "forks": 987,
-      "added_stars": "385 stars this month"
-    },
-    {
-      "title": "rukamori / ArchiveTune",
-      "url": "https://github.com/rukamori/ArchiveTune",
-      "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 4253,
-      "forks": 180,
-      "added_stars": "963 stars this month"
+      "stars": 3246,
+      "forks": 192,
+      "added_stars": "974 stars this month"
     },
     {
       "title": "embabel / embabel-agent",
@@ -60,19 +40,29 @@
       "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3995,
+      "stars": 4014,
       "forks": 398,
-      "added_stars": "257 stars this month"
+      "added_stars": "282 stars this month"
     },
     {
-      "title": "JetBrains / kotlin",
-      "url": "https://github.com/JetBrains/kotlin",
-      "description": "The Kotlin Programming Language.",
+      "title": "rukamori / ArchiveTune",
+      "url": "https://github.com/rukamori/ArchiveTune",
+      "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 53320,
-      "forks": 6389,
-      "added_stars": "546 stars this month"
+      "stars": 4280,
+      "forks": 180,
+      "added_stars": "969 stars this month"
+    },
+    {
+      "title": "recloudstream / cloudstream",
+      "url": "https://github.com/recloudstream/cloudstream",
+      "description": "Android app for streaming and downloading media.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 10382,
+      "forks": 987,
+      "added_stars": "384 stars this month"
     },
     {
       "title": "HuangZhuoRui / LocationSpoofer",
@@ -80,19 +70,9 @@
       "description": "一款虚拟定位软件，功能单一，纯定位，需要root以及Lsposed。",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 780,
-      "forks": 177,
-      "added_stars": "324 stars this month"
-    },
-    {
-      "title": "mihonapp / mihon",
-      "url": "https://github.com/mihonapp/mihon",
-      "description": "Free and open source manga reader for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 22612,
-      "forks": 1381,
-      "added_stars": "802 stars this month"
+      "stars": 787,
+      "forks": 178,
+      "added_stars": "323 stars this month"
     },
     {
       "title": "permissionlesstech / bitchat-android",
@@ -100,29 +80,19 @@
       "description": "decentralized mesh chat",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7326,
-      "forks": 1808,
-      "added_stars": "1,839 stars this month"
+      "stars": 7336,
+      "forks": 1814,
+      "added_stars": "1,844 stars this month"
     },
     {
-      "title": "meshtastic / Meshtastic-Android",
-      "url": "https://github.com/meshtastic/Meshtastic-Android",
-      "description": "Android application for Meshtastic",
+      "title": "JetBrains / kotlin",
+      "url": "https://github.com/JetBrains/kotlin",
+      "description": "The Kotlin Programming Language.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1771,
-      "forks": 497,
-      "added_stars": "72 stars this month"
-    },
-    {
-      "title": "xororz / local-dream",
-      "url": "https://github.com/xororz/local-dream",
-      "description": "Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 3172,
-      "forks": 208,
-      "added_stars": "332 stars this month"
+      "stars": 53321,
+      "forks": 6390,
+      "added_stars": "528 stars this month"
     },
     {
       "title": "wxxsfxyzm / InstallerX-Revived",
@@ -130,9 +100,29 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6038,
+      "stars": 6052,
       "forks": 235,
-      "added_stars": "615 stars this month"
+      "added_stars": "623 stars this month"
+    },
+    {
+      "title": "thejaustin / ShizukuPlus",
+      "url": "https://github.com/thejaustin/ShizukuPlus",
+      "description": "[ UNSTABLE ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 640,
+      "forks": 39,
+      "added_stars": "225 stars this month"
+    },
+    {
+      "title": "meshtastic / Meshtastic-Android",
+      "url": "https://github.com/meshtastic/Meshtastic-Android",
+      "description": "Android application for Meshtastic",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 1775,
+      "forks": 497,
+      "added_stars": "74 stars this month"
     },
     {
       "title": "amir1376 / ab-download-manager",
@@ -140,49 +130,9 @@
       "description": "A Download Manager that speeds up your downloads",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 17114,
+      "stars": 17131,
       "forks": 888,
-      "added_stars": "708 stars this month"
-    },
-    {
-      "title": "CCBlueX / LiquidBounce",
-      "url": "https://github.com/CCBlueX/LiquidBounce",
-      "description": "A free Minecraft hacked client (utility mod) for Fabric",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 2302,
-      "forks": 684,
-      "added_stars": "71 stars this month"
-    },
-    {
-      "title": "thejaustin / ShizukuPlus",
-      "url": "https://github.com/thejaustin/ShizukuPlus",
-      "description": "[ UNSTABLE ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [WIP - Development slowed due to new job]",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 632,
-      "forks": 39,
-      "added_stars": "222 stars this month"
-    },
-    {
-      "title": "AAswordman / Operit",
-      "url": "https://github.com/AAswordman/Operit",
-      "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 6584,
-      "forks": 534,
-      "added_stars": "1,069 stars this month"
-    },
-    {
-      "title": "JingMatrix / Vector",
-      "url": "https://github.com/JingMatrix/Vector",
-      "description": "Modern Xposed Framework",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 12007,
-      "forks": 805,
-      "added_stars": "434 stars this month"
+      "added_stars": "715 stars this month"
     },
     {
       "title": "rikkahub / rikkahub",
@@ -190,9 +140,29 @@
       "description": "RikkaHub is an Android APP that supports for multiple LLM providers.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6704,
-      "forks": 533,
-      "added_stars": "855 stars this month"
+      "stars": 6719,
+      "forks": 537,
+      "added_stars": "851 stars this month"
+    },
+    {
+      "title": "xororz / local-dream",
+      "url": "https://github.com/xororz/local-dream",
+      "description": "Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 3182,
+      "forks": 207,
+      "added_stars": "336 stars this month"
+    },
+    {
+      "title": "AAswordman / Operit",
+      "url": "https://github.com/AAswordman/Operit",
+      "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 6614,
+      "forks": 536,
+      "added_stars": "1,085 stars this month"
     },
     {
       "title": "topjohnwu / Magisk",
@@ -200,9 +170,29 @@
       "description": "The Magic Mask for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 62081,
-      "forks": 18198,
-      "added_stars": "679 stars this month"
+      "stars": 62102,
+      "forks": 18205,
+      "added_stars": "680 stars this month"
+    },
+    {
+      "title": "yashab-cyber / opendroid",
+      "url": "https://github.com/yashab-cyber/opendroid",
+      "description": "Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 571,
+      "forks": 78,
+      "added_stars": "381 stars this month"
+    },
+    {
+      "title": "JingMatrix / Vector",
+      "url": "https://github.com/JingMatrix/Vector",
+      "description": "Modern Xposed Framework",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 12027,
+      "forks": 806,
+      "added_stars": "443 stars this month"
     },
     {
       "title": "aistra0528 / Hail",
@@ -210,9 +200,29 @@
       "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6378,
+      "stars": 6384,
       "forks": 230,
-      "added_stars": "239 stars this month"
+      "added_stars": "242 stars this month"
+    },
+    {
+      "title": "aniyomiorg / aniyomi",
+      "url": "https://github.com/aniyomiorg/aniyomi",
+      "description": "An app for manga and anime",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 7583,
+      "forks": 629,
+      "added_stars": "133 stars this month"
+    },
+    {
+      "title": "mihonapp / mihon",
+      "url": "https://github.com/mihonapp/mihon",
+      "description": "Free and open source manga reader for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 22640,
+      "forks": 1385,
+      "added_stars": "819 stars this month"
     },
     {
       "title": "Kyant0 / AndroidLiquidGlass",
@@ -220,9 +230,9 @@
       "description": "Compose Multiplatform Liquid Glass effect",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3129,
+      "stars": 3142,
       "forks": 268,
-      "added_stars": "228 stars this month"
+      "added_stars": "235 stars this month"
     },
     {
       "title": "ReVanced / revanced-manager",
@@ -230,9 +240,9 @@
       "description": "💊 Application to use ReVanced on Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 28894,
+      "stars": 28904,
       "forks": 1119,
-      "added_stars": "553 stars this month"
+      "added_stars": "545 stars this month"
     }
   ]
 }

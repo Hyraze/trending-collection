@@ -4,21 +4,11 @@
   <title>GitHub Cmake Languages Daily Trending</title>
   <description>Daily Trending of Cmake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
     <title>microsoft / vcpkg</title>
     <link>https://github.com/microsoft/vcpkg</link>
     <description>C++ Library Manager for Windows, Linux, and MacOS</description>
-  </item>
-  <item>
-    <title>bilke / cmake-modules</title>
-    <link>https://github.com/bilke/cmake-modules</link>
-    <description>Additional CMake functionality. Most of the modules are from Rylie Pavlik (https://github.com/rpavlik/cmake-modules)</description>
-  </item>
-  <item>
-    <title>flathub / shared-modules</title>
-    <link>https://github.com/flathub/shared-modules</link>
-    <description>Common Flatpak modules that can be used as a git submodule</description>
   </item>
   <item>
     <title>corrosion-rs / corrosion</title>
@@ -26,9 +16,14 @@
     <description>Marrying Rust and CMake - Easy Rust and C/C++ Integration!</description>
   </item>
   <item>
-    <title>editorconfig / editorconfig-core-test</title>
-    <link>https://github.com/editorconfig/editorconfig-core-test</link>
-    <description>Testings for EditorConfig Core</description>
+    <title>shinchiro / mpv-winbuild-cmake</title>
+    <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
+    <description>CMake-based MinGW-w64 Cross Toolchain</description>
+  </item>
+  <item>
+    <title>bilke / cmake-modules</title>
+    <link>https://github.com/bilke/cmake-modules</link>
+    <description>Additional CMake functionality. Most of the modules are from Rylie Pavlik (https://github.com/rpavlik/cmake-modules)</description>
   </item>
   <item>
     <title>boostorg / cmake</title>
@@ -36,14 +31,14 @@
     <description>CMake support infrastructure Boost submodule</description>
   </item>
   <item>
-    <title>minecraft-linux / mcpelauncher-manifest</title>
-    <link>https://github.com/minecraft-linux/mcpelauncher-manifest</link>
-    <description>The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.</description>
+    <title>flathub / shared-modules</title>
+    <link>https://github.com/flathub/shared-modules</link>
+    <description>Common Flatpak modules that can be used as a git submodule</description>
   </item>
   <item>
-    <title>arsenm / sanitizers-cmake</title>
-    <link>https://github.com/arsenm/sanitizers-cmake</link>
-    <description>CMake modules to help use sanitizers</description>
+    <title>GEOS-ESM / GEOSgcm</title>
+    <link>https://github.com/GEOS-ESM/GEOSgcm</link>
+    <description>GEOS Earth System Model GEOSgcm Fixture</description>
   </item>
   <item>
     <title>steinbergmedia / vst3sdk</title>
@@ -51,19 +46,14 @@
     <description>VST 3 Plug-In SDK</description>
   </item>
   <item>
-    <title>autowarefoundation / autoware_msgs</title>
-    <link>https://github.com/autowarefoundation/autoware_msgs</link>
-    <description></description>
+    <title>TheLartians / PackageProject.cmake</title>
+    <link>https://github.com/TheLartians/PackageProject.cmake</link>
+    <description>🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.</description>
   </item>
   <item>
-    <title>jrl-umi3218 / jrl-cmakemodules</title>
-    <link>https://github.com/jrl-umi3218/jrl-cmakemodules</link>
-    <description>CMake utility toolbox</description>
-  </item>
-  <item>
-    <title>KIT-MRT / mrt_cmake_modules</title>
-    <link>https://github.com/KIT-MRT/mrt_cmake_modules</link>
-    <description>Automated catkin project handling framework</description>
+    <title>ecmwf / ecbuild</title>
+    <link>https://github.com/ecmwf/ecbuild</link>
+    <description>A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</description>
   </item>
 </channel>
 </rss>

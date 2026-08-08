@@ -2,7 +2,7 @@
   "title": "GitHub Adblock-filter-list Languages Daily Trending",
   "description": "Daily Trending of Adblock-filter-list Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "uBlockOrigin / uAssets",
@@ -10,9 +10,9 @@
       "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 5928,
+      "stars": 5930,
       "forks": 1022,
-      "added_stars": "22 stars this week"
+      "added_stars": "18 stars this week"
     },
     {
       "title": "easylist / easylist",
@@ -20,9 +20,9 @@
       "description": "EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 3078,
+      "stars": 3079,
       "forks": 898,
-      "added_stars": "8 stars this week"
+      "added_stars": "9 stars this week"
     },
     {
       "title": "AdguardTeam / AdGuardSDNSFilter",
@@ -30,29 +30,19 @@
       "description": "AdGuard DNS filter",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 1329,
-      "forks": 185,
-      "added_stars": "6 stars this week"
+      "stars": 1331,
+      "forks": 187,
+      "added_stars": "5 stars this week"
     },
     {
-      "title": "MajkiIT / polish-ads-filter",
-      "url": "https://github.com/MajkiIT/polish-ads-filter",
-      "description": "CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard",
+      "title": "AdguardTeam / FiltersRegistry",
+      "url": "https://github.com/AdguardTeam/FiltersRegistry",
+      "description": "Known filters subscriptions transformed for better compatibility with AdGuard",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": 734,
-      "forks": 100,
+      "stars": 355,
+      "forks": 73,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "AdguardTeam / AdguardFilters",
-      "url": "https://github.com/AdguardTeam/AdguardFilters",
-      "description": "AdGuard Content Blocking Filters",
-      "language": "Adblock Filter List",
-      "languageColor": "#800000",
-      "stars": 4441,
-      "forks": 820,
-      "added_stars": "15 stars this week"
     }
   ]
 }

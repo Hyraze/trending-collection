@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "wrf-model / WRF",
@@ -10,19 +10,9 @@
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1727,
+      "stars": 1729,
       "forks": 867,
-      "added_stars": "42 stars this month"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1180,
-      "forks": 491,
-      "added_stars": "18 stars this month"
+      "added_stars": "41 stars this month"
     },
     {
       "title": "firemodels / fds",
@@ -42,17 +32,17 @@
       "languageColor": "#4d41b1",
       "stars": 944,
       "forks": 533,
-      "added_stars": "20 stars this month"
+      "added_stars": "19 stars this month"
     },
     {
-      "title": "MetOffice / lfric_core",
-      "url": "https://github.com/MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 26,
-      "forks": 67,
-      "added_stars": "1 star this month"
+      "stars": 1180,
+      "forks": 491,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "MCSclimate / MCT",
@@ -65,14 +55,24 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "MetOffice / lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 26,
+      "forks": 67,
+      "added_stars": "1 star this month"
+    },
+    {
       "title": "ElmerCSC / elmerfem",
       "url": "https://github.com/ElmerCSC/elmerfem",
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1650,
+      "stars": 1651,
       "forks": 391,
-      "added_stars": "32 stars this month"
+      "added_stars": "34 stars this month"
     },
     {
       "title": "grimme-lab / xtb",
@@ -80,19 +80,9 @@
       "description": "Semiempirical Extended Tight-Binding Program Package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 825,
-      "forks": 202,
-      "added_stars": "17 stars this month"
-    },
-    {
-      "title": "MITgcm / MITgcm",
-      "url": "https://github.com/MITgcm/MITgcm",
-      "description": "M.I.T General Circulation Model master code and documentation repository",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 403,
-      "forks": 293,
-      "added_stars": "1 star this month"
+      "stars": 826,
+      "forks": 203,
+      "added_stars": "16 stars this month"
     },
     {
       "title": "JuliaPackaging / Yggdrasil",
@@ -101,28 +91,18 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 402,
-      "forks": 744,
+      "forks": 745,
       "added_stars": "1 star this month"
     },
     {
-      "title": "MetOffice / lfric_apps",
-      "url": "https://github.com/MetOffice/lfric_apps",
-      "description": "LFRic Applications",
+      "title": "MITgcm / MITgcm",
+      "url": "https://github.com/MITgcm/MITgcm",
+      "description": "M.I.T General Circulation Model master code and documentation repository",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 31,
-      "forks": 108,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "MFlowCode / MFC",
-      "url": "https://github.com/MFlowCode/MFC",
-      "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 392,
-      "forks": 158,
-      "added_stars": "13 stars this month"
+      "stars": 404,
+      "forks": 293,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "NGEET / fates",

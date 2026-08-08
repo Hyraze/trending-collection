@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
       "title": "webmachinelearning / webmcp",
@@ -10,9 +10,19 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 2950,
+      "stars": 2954,
       "forks": 189,
-      "added_stars": "8 stars today"
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "w3c / csswg-drafts",
+      "url": "https://github.com/w3c/csswg-drafts",
+      "description": "CSS Working Group Editor Drafts",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 4855,
+      "forks": 803,
+      "added_stars": "0 stars today"
     },
     {
       "title": "immersive-web / webxr",
@@ -22,16 +32,6 @@
       "languageColor": "#5562ac",
       "stars": 3147,
       "forks": 423,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "w3c / webappsec-permissions-policy",
-      "url": "https://github.com/w3c/webappsec-permissions-policy",
-      "description": "A mechanism to selectively enable and disable browser features and APIs",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 429,
-      "forks": 180,
       "added_stars": "0 stars today"
     },
     {
@@ -45,43 +45,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "w3c / ServiceWorker",
-      "url": "https://github.com/w3c/ServiceWorker",
-      "description": "Service Workers",
+      "title": "w3c / webappsec-permissions-policy",
+      "url": "https://github.com/w3c/webappsec-permissions-policy",
+      "description": "A mechanism to selectively enable and disable browser features and APIs",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 3632,
-      "forks": 323,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "w3c / csswg-drafts",
-      "url": "https://github.com/w3c/csswg-drafts",
-      "description": "CSS Working Group Editor Drafts",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 4855,
-      "forks": 803,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "w3c / resource-timing",
-      "url": "https://github.com/w3c/resource-timing",
-      "description": "Resource Timing",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 134,
-      "forks": 40,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "gpuweb / gpuweb",
-      "url": "https://github.com/gpuweb/gpuweb",
-      "description": "Where the GPU for the Web work happens!",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 5447,
-      "forks": 375,
+      "stars": 429,
+      "forks": 180,
       "added_stars": "0 stars today"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "verilator / verilator",
@@ -10,9 +10,9 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3820,
+      "stars": 3821,
       "forks": 869,
-      "added_stars": "35 stars this week"
+      "added_stars": "32 stars this week"
     },
     {
       "title": "lowRISC / opentitan",
@@ -20,9 +20,9 @@
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3577,
-      "forks": 1077,
-      "added_stars": "9 stars this week"
+      "stars": 3580,
+      "forks": 1078,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "lowRISC / ibex",
@@ -30,19 +30,19 @@
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 2001,
+      "stars": 2003,
       "forks": 783,
-      "added_stars": "7 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
-      "title": "pulp-platform / axi",
-      "url": "https://github.com/pulp-platform/axi",
-      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "title": "chipsalliance / caliptra-rtl",
+      "url": "https://github.com/chipsalliance/caliptra-rtl",
+      "description": "HW Design Collateral for Caliptra RoT IP",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 1649,
-      "forks": 364,
-      "added_stars": "9 stars this week"
+      "stars": 148,
+      "forks": 101,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "chipsalliance / caliptra-ss",
@@ -65,44 +65,24 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "pulp-platform / axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 1649,
+      "forks": 364,
+      "added_stars": "9 stars this week"
+    },
+    {
       "title": "adam-maj / tiny-gpu",
       "url": "https://github.com/adam-maj/tiny-gpu",
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12818,
-      "forks": 1226,
-      "added_stars": "35 stars this week"
-    },
-    {
-      "title": "pulp-platform / axi_riscv_atomics",
-      "url": "https://github.com/pulp-platform/axi_riscv_atomics",
-      "description": "AXI Adapter(s) for RISC-V Atomic Operations",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 67,
-      "forks": 24,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "chipsalliance / caliptra-rtl",
-      "url": "https://github.com/chipsalliance/caliptra-rtl",
-      "description": "HW Design Collateral for Caliptra RoT IP",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 148,
-      "forks": 101,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "pulp-platform / register_interface",
-      "url": "https://github.com/pulp-platform/register_interface",
-      "description": "Generic Register Interface (contains various adapters)",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 141,
-      "forks": 39,
-      "added_stars": "0 stars this week"
+      "stars": 12819,
+      "forks": 1227,
+      "added_stars": "30 stars this week"
     },
     {
       "title": "pulp-platform / riscv-dbg",
@@ -122,6 +102,16 @@
       "languageColor": "#DAE1C2",
       "stars": 59,
       "forks": 17,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "pulp-platform / register_interface",
+      "url": "https://github.com/pulp-platform/register_interface",
+      "description": "Generic Register Interface (contains various adapters)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 141,
+      "forks": 39,
       "added_stars": "0 stars this week"
     }
   ]

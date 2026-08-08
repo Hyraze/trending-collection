@@ -2,47 +2,17 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
-      "title": "koreader / koreader",
-      "url": "https://github.com/koreader/koreader",
-      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+      "title": "ibhagwan / fzf-lua",
+      "url": "https://github.com/ibhagwan/fzf-lua",
+      "description": "Improved fzf.vim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 28750,
-      "forks": 1850,
-      "added_stars": "140 stars today"
-    },
-    {
-      "title": "nvim-lua / kickstart.nvim",
-      "url": "https://github.com/nvim-lua/kickstart.nvim",
-      "description": "A launch point for your personal nvim configuration",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 31225,
-      "forks": 46811,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "neovim / nvim-lspconfig",
-      "url": "https://github.com/neovim/nvim-lspconfig",
-      "description": "Quickstart configs for Nvim LSP",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 13842,
-      "forks": 2474,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "folke / lazy.nvim",
-      "url": "https://github.com/folke/lazy.nvim",
-      "description": "💤 A modern plugin manager for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 21383,
-      "forks": 586,
-      "added_stars": "8 stars today"
+      "stars": 4406,
+      "forks": 262,
+      "added_stars": "1 star today"
     },
     {
       "title": "Kong / kong",
@@ -50,69 +20,89 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 43935,
+      "stars": 43947,
       "forks": 5197,
-      "added_stars": "8 stars today"
+      "added_stars": "15 stars today"
     },
     {
-      "title": "coder / claudecode.nvim",
-      "url": "https://github.com/coder/claudecode.nvim",
-      "description": "🧩 Claude Code Neovim IDE Extension",
+      "title": "LazyVim / LazyVim",
+      "url": "https://github.com/LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 2985,
-      "forks": 211,
-      "added_stars": "0 stars today"
+      "stars": 27111,
+      "forks": 1809,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "amzxyz / rime-wanxiang",
-      "url": "https://github.com/amzxyz/rime-wanxiang",
-      "description": "「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066",
+      "title": "neovim / nvim-lspconfig",
+      "url": "https://github.com/neovim/nvim-lspconfig",
+      "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4311,
-      "forks": 159,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "Kong / kong-pongo",
-      "url": "https://github.com/Kong/kong-pongo",
-      "description": "Tooling to run plugin tests with Kong and Kong Enterprise",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 173,
-      "forks": 70,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "jitsi / docker-jitsi-meet",
-      "url": "https://github.com/jitsi/docker-jitsi-meet",
-      "description": "Jitsi Meet on Docker",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3593,
-      "forks": 1567,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "MeanderingProgrammer / render-markdown.nvim",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
-      "description": "Improve viewing Markdown in Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4883,
-      "forks": 131,
+      "stars": 13844,
+      "forks": 2476,
       "added_stars": "3 stars today"
     },
     {
-      "title": "ibhagwan / fzf-lua",
-      "url": "https://github.com/ibhagwan/fzf-lua",
-      "description": "Improved fzf.vim written in lua",
+      "title": "opentibiabr / otclient",
+      "url": "https://github.com/opentibiabr/otclient",
+      "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4405,
-      "forks": 262,
-      "added_stars": "5 stars today"
+      "stars": 513,
+      "forks": 485,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "koreader / koreader",
+      "url": "https://github.com/koreader/koreader",
+      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 28796,
+      "forks": 1855,
+      "added_stars": "49 stars today"
+    },
+    {
+      "title": "finlater / weread.koplugin",
+      "url": "https://github.com/finlater/weread.koplugin",
+      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，并做到进度、阅读时长同步，阅读时间上报。",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 402,
+      "forks": 72,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "ThePrimeagen / harpoon",
+      "url": "https://github.com/ThePrimeagen/harpoon",
+      "description": "",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 9186,
+      "forks": 490,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "opentibiabr / canary",
+      "url": "https://github.com/opentibiabr/canary",
+      "description": "Canary Server 15.25 for OpenTibia community.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 624,
+      "forks": 869,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "olimorris / codecompanion.nvim",
+      "url": "https://github.com/olimorris/codecompanion.nvim",
+      "description": "✨ AI Coding, Vim Style",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 6786,
+      "forks": 444,
+      "added_stars": "2 stars today"
     }
   ]
 }

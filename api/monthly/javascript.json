@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "pbakaus / impeccable",
@@ -10,9 +10,9 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 56368,
-      "forks": 3426,
-      "added_stars": "12,655 stars this month"
+      "stars": 56753,
+      "forks": 3459,
+      "added_stars": "12,795 stars this month"
     },
     {
       "title": "openai / codex-plugin-cc",
@@ -20,9 +20,9 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 31462,
-      "forks": 2142,
-      "added_stars": "5,550 stars this month"
+      "stars": 31512,
+      "forks": 2147,
+      "added_stars": "5,140 stars this month"
     },
     {
       "title": "earthtojake / text-to-cad",
@@ -30,9 +30,9 @@
       "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 12983,
-      "forks": 1373,
-      "added_stars": "5,338 stars this month"
+      "stars": 13052,
+      "forks": 1378,
+      "added_stars": "5,329 stars this month"
     },
     {
       "title": "asgeirtj / system_prompts_leaks",
@@ -40,9 +40,9 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 62475,
-      "forks": 10264,
-      "added_stars": "11,899 stars this month"
+      "stars": 62532,
+      "forks": 10278,
+      "added_stars": "10,060 stars this month"
     },
     {
       "title": "fastify / fastify",
@@ -50,29 +50,9 @@
       "description": "Fast and low overhead web framework, for Node.js",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 36976,
-      "forks": 2970,
-      "added_stars": "502 stars this month"
-    },
-    {
-      "title": "NomaDamas / k-skill",
-      "url": "https://github.com/NomaDamas/k-skill",
-      "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 7034,
-      "forks": 832,
-      "added_stars": "1,024 stars this month"
-    },
-    {
-      "title": "kunchenguid / lavish-axi",
-      "url": "https://github.com/kunchenguid/lavish-axi",
-      "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 2597,
-      "forks": 223,
-      "added_stars": "948 stars this month"
+      "stars": 36983,
+      "forks": 2971,
+      "added_stars": "491 stars this month"
     },
     {
       "title": "eslint / eslint",
@@ -80,39 +60,19 @@
       "description": "Find and fix problems in your JavaScript code.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 27449,
-      "forks": 5151,
-      "added_stars": "251 stars this month"
+      "stars": 27450,
+      "forks": 5150,
+      "added_stars": "243 stars this month"
     },
     {
-      "title": "OpenWhispr / openwhispr",
-      "url": "https://github.com/OpenWhispr/openwhispr",
-      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "title": "NomaDamas / k-skill",
+      "url": "https://github.com/NomaDamas/k-skill",
+      "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5246,
-      "forks": 736,
-      "added_stars": "940 stars this month"
-    },
-    {
-      "title": "webpack / webpack",
-      "url": "https://github.com/webpack/webpack",
-      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 65987,
-      "forks": 9533,
-      "added_stars": "358 stars this month"
-    },
-    {
-      "title": "tradesdontlie / tradingview-mcp",
-      "url": "https://github.com/tradesdontlie/tradingview-mcp",
-      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 5515,
-      "forks": 2412,
-      "added_stars": "1,325 stars this month"
+      "stars": 7040,
+      "forks": 833,
+      "added_stars": "1,012 stars this month"
     },
     {
       "title": "vercel / next.js",
@@ -120,19 +80,49 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 141663,
-      "forks": 31697,
-      "added_stars": "2,039 stars this month"
+      "stars": 141681,
+      "forks": 31706,
+      "added_stars": "2,028 stars this month"
     },
     {
-      "title": "saadeghi / daisyui",
-      "url": "https://github.com/saadeghi/daisyui",
-      "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
+      "title": "OpenWhispr / openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 41996,
-      "forks": 1671,
-      "added_stars": "730 stars this month"
+      "stars": 5260,
+      "forks": 740,
+      "added_stars": "937 stars this month"
+    },
+    {
+      "title": "webpack / webpack",
+      "url": "https://github.com/webpack/webpack",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 65988,
+      "forks": 9534,
+      "added_stars": "348 stars this month"
+    },
+    {
+      "title": "kunchenguid / lavish-axi",
+      "url": "https://github.com/kunchenguid/lavish-axi",
+      "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 2621,
+      "forks": 225,
+      "added_stars": "927 stars this month"
+    },
+    {
+      "title": "tradesdontlie / tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 5535,
+      "forks": 2418,
+      "added_stars": "1,326 stars this month"
     },
     {
       "title": "nodejs / node",
@@ -140,19 +130,9 @@
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 118814,
-      "forks": 36373,
-      "added_stars": "1,427 stars this month"
-    },
-    {
-      "title": "WorldFlowAI / everything-claude-code",
-      "url": "https://github.com/WorldFlowAI/everything-claude-code",
-      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 1013,
-      "forks": 190,
-      "added_stars": "608 stars this month"
+      "stars": 118827,
+      "forks": 36385,
+      "added_stars": "1,401 stars this month"
     },
     {
       "title": "ilysenko / codex-desktop-linux",
@@ -160,19 +140,19 @@
       "description": "Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3458,
-      "forks": 436,
-      "added_stars": "1,341 stars this month"
+      "stars": 3482,
+      "forks": 440,
+      "added_stars": "1,353 stars this month"
     },
     {
-      "title": "microsoft / power-platform-skills",
-      "url": "https://github.com/microsoft/power-platform-skills",
-      "description": "A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
+      "title": "WorldFlowAI / everything-claude-code",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 627,
-      "forks": 128,
-      "added_stars": "211 stars this month"
+      "stars": 1057,
+      "forks": 200,
+      "added_stars": "675 stars this month"
     },
     {
       "title": "projectdiscovery / nuclei-templates",
@@ -180,9 +160,19 @@
       "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 12766,
-      "forks": 3612,
-      "added_stars": "192 stars this month"
+      "stars": 12768,
+      "forks": 3616,
+      "added_stars": "193 stars this month"
+    },
+    {
+      "title": "microsoft / power-platform-skills",
+      "url": "https://github.com/microsoft/power-platform-skills",
+      "description": "A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 639,
+      "forks": 129,
+      "added_stars": "225 stars this month"
     },
     {
       "title": "lodash / lodash",
@@ -190,9 +180,19 @@
       "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 61290,
-      "forks": 7196,
-      "added_stars": "106 stars this month"
+      "stars": 61294,
+      "forks": 7197,
+      "added_stars": "108 stars this month"
+    },
+    {
+      "title": "saadeghi / daisyui",
+      "url": "https://github.com/saadeghi/daisyui",
+      "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 42003,
+      "forks": 1671,
+      "added_stars": "668 stars this month"
     },
     {
       "title": "GargantuaX / gemini-watermark-remover",
@@ -200,9 +200,9 @@
       "description": "A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5209,
+      "stars": 5218,
       "forks": 831,
-      "added_stars": "604 stars this month"
+      "added_stars": "583 stars this month"
     }
   ]
 }

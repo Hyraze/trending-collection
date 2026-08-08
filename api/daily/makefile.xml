@@ -4,21 +4,11 @@
   <title>GitHub Makefile Languages Daily Trending</title>
   <description>Daily Trending of Makefile Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
-    <title>open-telemetry / opentelemetry-proto</title>
-    <link>https://github.com/open-telemetry/opentelemetry-proto</link>
-    <description>OpenTelemetry protocol (OTLP) specification and Protobuf definitions</description>
-  </item>
-  <item>
-    <title>open-telemetry / opentelemetry-specification</title>
-    <link>https://github.com/open-telemetry/opentelemetry-specification</link>
-    <description>Specifications for OpenTelemetry</description>
-  </item>
-  <item>
-    <title>ROCKNIX / distribution</title>
-    <link>https://github.com/ROCKNIX/distribution</link>
-    <description></description>
+    <title>dbt-labs / dbt-utils</title>
+    <link>https://github.com/dbt-labs/dbt-utils</link>
+    <description>Utility functions for dbt projects.</description>
   </item>
   <item>
     <title>golang-standards / project-layout</title>
@@ -26,9 +16,9 @@
     <description>Standard Go Project Layout</description>
   </item>
   <item>
-    <title>uber-go / guide</title>
-    <link>https://github.com/uber-go/guide</link>
-    <description>The Uber Go Style Guide.</description>
+    <title>open-telemetry / opentelemetry-proto</title>
+    <link>https://github.com/open-telemetry/opentelemetry-proto</link>
+    <description>OpenTelemetry protocol (OTLP) specification and Protobuf definitions</description>
   </item>
   <item>
     <title>LibreELEC / LibreELEC.tv</title>
@@ -36,24 +26,19 @@
     <description>Just enough OS for KODI</description>
   </item>
   <item>
-    <title>dbt-labs / dbt-utils</title>
-    <link>https://github.com/dbt-labs/dbt-utils</link>
-    <description>Utility functions for dbt projects.</description>
+    <title>ROCKNIX / distribution</title>
+    <link>https://github.com/ROCKNIX/distribution</link>
+    <description></description>
   </item>
   <item>
-    <title>upbound / build</title>
-    <link>https://github.com/upbound/build</link>
-    <description>Upbound build and CI scripts</description>
+    <title>openwrt / packages</title>
+    <link>https://github.com/openwrt/packages</link>
+    <description>Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</description>
   </item>
   <item>
-    <title>jobbole / awesome-python-cn</title>
-    <link>https://github.com/jobbole/awesome-python-cn</link>
-    <description>Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。</description>
-  </item>
-  <item>
-    <title>awesome-selfhosted / awesome-selfhosted-data</title>
-    <link>https://github.com/awesome-selfhosted/awesome-selfhosted-data</link>
-    <description>machine-readable data for https://awesome-selfhosted.net</description>
+    <title>freebsd / freebsd-ports</title>
+    <link>https://github.com/freebsd/freebsd-ports</link>
+    <description>FreeBSD ports tree (read-only mirror)</description>
   </item>
   <item>
     <title>SiftScience / sift-ios</title>
@@ -61,14 +46,14 @@
     <description>Sift iOS SDK</description>
   </item>
   <item>
-    <title>twilio / twilio-oai</title>
-    <link>https://github.com/twilio/twilio-oai</link>
-    <description>The Twilio OpenAPI Specification</description>
+    <title>upbound / build</title>
+    <link>https://github.com/upbound/build</link>
+    <description>Upbound build and CI scripts</description>
   </item>
   <item>
-    <title>moul / http2curl</title>
-    <link>https://github.com/moul/http2curl</link>
-    <description>📐 Convert Golang&#x27;s http.Request to CURL command line</description>
+    <title>open-telemetry / opentelemetry-proto-go</title>
+    <link>https://github.com/open-telemetry/opentelemetry-proto-go</link>
+    <description>Generated code for OpenTelemetry protobuf data model</description>
   </item>
   <item>
     <title>deepseek-ai / DeepSeek-LLM</title>
@@ -76,9 +61,34 @@
     <description>DeepSeek LLM: Let there be answers</description>
   </item>
   <item>
-    <title>HaveAGitGat / Tdarr</title>
-    <link>https://github.com/HaveAGitGat/Tdarr</link>
-    <description>Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux &amp; Docker)</description>
+    <title>PartialVolume / shredos.x86_64</title>
+    <link>https://github.com/PartialVolume/shredos.x86_64</link>
+    <description>Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe</description>
+  </item>
+  <item>
+    <title>Ysurac / openmptcprouter</title>
+    <link>https://github.com/Ysurac/openmptcprouter</link>
+    <description>OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt</description>
+  </item>
+  <item>
+    <title>moul / http2curl</title>
+    <link>https://github.com/moul/http2curl</link>
+    <description>📐 Convert Golang&#x27;s http.Request to CURL command line</description>
+  </item>
+  <item>
+    <title>uber-go / guide</title>
+    <link>https://github.com/uber-go/guide</link>
+    <description>The Uber Go Style Guide.</description>
+  </item>
+  <item>
+    <title>twilio / twilio-oai</title>
+    <link>https://github.com/twilio/twilio-oai</link>
+    <description>The Twilio OpenAPI Specification</description>
+  </item>
+  <item>
+    <title>open-telemetry / opentelemetry-specification</title>
+    <link>https://github.com/open-telemetry/opentelemetry-specification</link>
+    <description>Specifications for OpenTelemetry</description>
   </item>
 </channel>
 </rss>

@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>1jehuang / jcode</title>
     <link>https://github.com/1jehuang/jcode</link>
@@ -19,11 +19,6 @@
     <title>Pumpkin-MC / Pumpkin</title>
     <link>https://github.com/Pumpkin-MC/Pumpkin</link>
     <description>Empowering everyone to host fast and efficient Minecraft servers.</description>
-  </item>
-  <item>
-    <title>Zackriya-Solutions / meetily</title>
-    <link>https://github.com/Zackriya-Solutions/meetily</link>
-    <description>Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes</description>
   </item>
   <item>
     <title>t8y2 / dbx</title>
@@ -41,19 +36,14 @@
     <description>git worktrees + tmux windows for zero-friction parallel dev</description>
   </item>
   <item>
+    <title>Zackriya-Solutions / meetily</title>
+    <link>https://github.com/Zackriya-Solutions/meetily</link>
+    <description>Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes</description>
+  </item>
+  <item>
     <title>dani-garcia / vaultwarden</title>
     <link>https://github.com/dani-garcia/vaultwarden</link>
     <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
-  </item>
-  <item>
-    <title>TencentCloud / CubeSandbox</title>
-    <link>https://github.com/TencentCloud/CubeSandbox</link>
-    <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
-  </item>
-  <item>
-    <title>tokio-rs / tokio</title>
-    <link>https://github.com/tokio-rs/tokio</link>
-    <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
   </item>
   <item>
     <title>rustdesk / rustdesk</title>
@@ -61,9 +51,9 @@
     <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
   </item>
   <item>
-    <title>DioxusLabs / dioxus</title>
-    <link>https://github.com/DioxusLabs/dioxus</link>
-    <description>Fullstack app framework for web, desktop, and mobile.</description>
+    <title>astral-sh / uv</title>
+    <link>https://github.com/astral-sh/uv</link>
+    <description>An extremely fast Python package and project manager, written in Rust.</description>
   </item>
   <item>
     <title>rustfs / rustfs</title>
@@ -71,9 +61,14 @@
     <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
   </item>
   <item>
-    <title>rivet-dev / agentos</title>
-    <link>https://github.com/rivet-dev/agentos</link>
-    <description>Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly &amp; V8 isolates.</description>
+    <title>DioxusLabs / dioxus</title>
+    <link>https://github.com/DioxusLabs/dioxus</link>
+    <description>Fullstack app framework for web, desktop, and mobile.</description>
+  </item>
+  <item>
+    <title>tokio-rs / tokio</title>
+    <link>https://github.com/tokio-rs/tokio</link>
+    <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
   </item>
   <item>
     <title>andrewrabert / jellium-desktop</title>
@@ -86,24 +81,14 @@
     <description>Empowering everyone to build reliable and efficient software.</description>
   </item>
   <item>
-    <title>tonhowtf / omniget</title>
-    <link>https://github.com/tonhowtf/omniget</link>
-    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
-  </item>
-  <item>
     <title>biomejs / biome</title>
     <link>https://github.com/biomejs/biome</link>
     <description>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</description>
   </item>
   <item>
-    <title>junhoyeo / tokscale</title>
-    <link>https://github.com/junhoyeo/tokscale</link>
-    <description>🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.</description>
-  </item>
-  <item>
-    <title>screenpipe / screenpipe</title>
-    <link>https://github.com/screenpipe/screenpipe</link>
-    <description>YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps</description>
+    <title>tonhowtf / omniget</title>
+    <link>https://github.com/tonhowtf/omniget</link>
+    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
   </item>
   <item>
     <title>denoland / deno</title>
@@ -111,9 +96,19 @@
     <description>A modern runtime for JavaScript and TypeScript.</description>
   </item>
   <item>
-    <title>astral-sh / uv</title>
-    <link>https://github.com/astral-sh/uv</link>
-    <description>An extremely fast Python package and project manager, written in Rust.</description>
+    <title>screenpipe / screenpipe</title>
+    <link>https://github.com/screenpipe/screenpipe</link>
+    <description>YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps</description>
+  </item>
+  <item>
+    <title>TencentCloud / CubeSandbox</title>
+    <link>https://github.com/TencentCloud/CubeSandbox</link>
+    <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
+  </item>
+  <item>
+    <title>AprilNEA / OpenLogi</title>
+    <link>https://github.com/AprilNEA/OpenLogi</link>
+    <description>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.</description>
   </item>
 </channel>
 </rss>

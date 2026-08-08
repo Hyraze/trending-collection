@@ -2,7 +2,7 @@
   "title": "GitHub Hlsl Languages Daily Trending",
   "description": "Daily Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "Blinue / Magpie",
@@ -10,9 +10,9 @@
       "description": "A general-purpose window upscaler for Windows 10/11.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 14310,
+      "stars": 14313,
       "forks": 584,
-      "added_stars": "209 stars this month"
+      "added_stars": "204 stars this month"
     },
     {
       "title": "JamesCJ60 / Universal-x86-Tuning-Utility",
@@ -20,9 +20,9 @@
       "description": "Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 2744,
+      "stars": 2747,
       "forks": 88,
-      "added_stars": "65 stars this month"
+      "added_stars": "66 stars this month"
     },
     {
       "title": "clshortfuse / renodx",
@@ -30,19 +30,9 @@
       "description": "Renovation Engine for DirectX Games",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 1565,
+      "stars": 1567,
       "forks": 116,
       "added_stars": "90 stars this month"
-    },
-    {
-      "title": "leotorrez / ZZMI-Package",
-      "url": "https://github.com/leotorrez/ZZMI-Package",
-      "description": "NOT INTENDED FOR WIDE USE",
-      "language": "HLSL",
-      "languageColor": "#aace60",
-      "stars": 49,
-      "forks": 10,
-      "added_stars": "2 stars this month"
     },
     {
       "title": "crosire / reshade-shaders",
@@ -55,14 +45,24 @@
       "added_stars": "7 stars this month"
     },
     {
+      "title": "leotorrez / ZZMI-Package",
+      "url": "https://github.com/leotorrez/ZZMI-Package",
+      "description": "NOT INTENDED FOR WIDE USE",
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 49,
+      "forks": 10,
+      "added_stars": "2 stars this month"
+    },
+    {
       "title": "ray-cast / ray-mmd",
       "url": "https://github.com/ray-cast/ray-mmd",
       "description": "🎨 The project is designed to create a physically-based rendering at mikumikudance.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 1904,
+      "stars": 1905,
       "forks": 574,
-      "added_stars": "15 stars this month"
+      "added_stars": "16 stars this month"
     }
   ]
 }

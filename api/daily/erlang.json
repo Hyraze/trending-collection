@@ -2,38 +2,8 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
-    {
-      "title": "emqx / emqx",
-      "url": "https://github.com/emqx/emqx",
-      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 16599,
-      "forks": 2544,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "erlang / otp",
-      "url": "https://github.com/erlang/otp",
-      "description": "Erlang/OTP",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 12321,
-      "forks": 3267,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "blt / port_compiler",
-      "url": "https://github.com/blt/port_compiler",
-      "description": "A rebar3 port compiler",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 69,
-      "forks": 40,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "WhatsApp / erlfmt",
       "url": "https://github.com/WhatsApp/erlfmt",
@@ -55,6 +25,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "blt / port_compiler",
+      "url": "https://github.com/blt/port_compiler",
+      "description": "A rebar3 port compiler",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 69,
+      "forks": 40,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "ninenines / cowboy",
       "url": "https://github.com/ninenines/cowboy",
       "description": "Small, fast, modern HTTP server for Erlang/OTP.",
@@ -62,7 +42,7 @@
       "languageColor": "#B83998",
       "stars": 7523,
       "forks": 1169,
-      "added_stars": "2 stars today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "eproxus / meck",
@@ -75,13 +55,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "apache / couchdb",
-      "url": "https://github.com/apache/couchdb",
-      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+      "title": "erlang / otp",
+      "url": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 6933,
-      "forks": 1077,
+      "stars": 12321,
+      "forks": 3267,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "hexpm / hex_core",
+      "url": "https://github.com/hexpm/hex_core",
+      "description": "Reference implementation of Hex specifications.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 105,
+      "forks": 34,
       "added_stars": "0 stars today"
     },
     {
@@ -95,16 +85,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "ninenines / ranch",
-      "url": "https://github.com/ninenines/ranch",
-      "description": "Socket acceptor pool for TCP protocols.",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 1242,
-      "forks": 337,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "ninenines / cowlib",
       "url": "https://github.com/ninenines/cowlib",
       "description": "Support library for manipulating Web protocols.",
@@ -112,16 +92,6 @@
       "languageColor": "#B83998",
       "stars": 296,
       "forks": 190,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hexpm / hex_core",
-      "url": "https://github.com/hexpm/hex_core",
-      "description": "Reference implementation of Hex specifications.",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 105,
-      "forks": 34,
       "added_stars": "0 stars today"
     }
   ]

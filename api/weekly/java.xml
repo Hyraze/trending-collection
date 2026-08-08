@@ -4,21 +4,16 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:22:21 GMT</pubDate>
   <item>
     <title>github / copilot-sdk</title>
     <link>https://github.com/github/copilot-sdk</link>
     <description>Multi-platform SDK for integrating GitHub Copilot Agent into apps and services</description>
   </item>
   <item>
-    <title>iluwatar / java-design-patterns</title>
-    <link>https://github.com/iluwatar/java-design-patterns</link>
-    <description>Design patterns implemented in Java</description>
-  </item>
-  <item>
-    <title>termux / termux-app</title>
-    <link>https://github.com/termux/termux-app</link>
-    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
+    <title>google / guava</title>
+    <link>https://github.com/google/guava</link>
+    <description>Google core libraries for Java</description>
   </item>
   <item>
     <title>dbeaver / dbeaver</title>
@@ -26,19 +21,14 @@
     <description>Free universal database tool and SQL client</description>
   </item>
   <item>
-    <title>DrKLO / Telegram</title>
-    <link>https://github.com/DrKLO/Telegram</link>
-    <description>Telegram for Android source</description>
+    <title>termux / termux-app</title>
+    <link>https://github.com/termux/termux-app</link>
+    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
   </item>
   <item>
-    <title>emanuele-f / PCAPdroid</title>
-    <link>https://github.com/emanuele-f/PCAPdroid</link>
-    <description>No-root network monitor, firewall and PCAP dumper for Android</description>
-  </item>
-  <item>
-    <title>google / guava</title>
-    <link>https://github.com/google/guava</link>
-    <description>Google core libraries for Java</description>
+    <title>iluwatar / java-design-patterns</title>
+    <link>https://github.com/iluwatar/java-design-patterns</link>
+    <description>Design patterns implemented in Java</description>
   </item>
   <item>
     <title>ashishps1 / awesome-system-design-resources</title>
@@ -51,19 +41,39 @@
     <description>Ghidra is a software reverse engineering (SRE) framework</description>
   </item>
   <item>
+    <title>DrKLO / Telegram</title>
+    <link>https://github.com/DrKLO/Telegram</link>
+    <description>Telegram for Android source</description>
+  </item>
+  <item>
+    <title>emanuele-f / PCAPdroid</title>
+    <link>https://github.com/emanuele-f/PCAPdroid</link>
+    <description>No-root network monitor, firewall and PCAP dumper for Android</description>
+  </item>
+  <item>
     <title>spring-projects / spring-framework</title>
     <link>https://github.com/spring-projects/spring-framework</link>
     <description>Spring Framework</description>
   </item>
   <item>
-    <title>woheller69 / FreeDroidWarn</title>
-    <link>https://github.com/woheller69/FreeDroidWarn</link>
-    <description></description>
+    <title>bazelbuild / bazel</title>
+    <link>https://github.com/bazelbuild/bazel</link>
+    <description>a fast, scalable, multi-language and extensible build system</description>
   </item>
   <item>
-    <title>jenkinsci / jenkins</title>
-    <link>https://github.com/jenkinsci/jenkins</link>
-    <description>Jenkins automation server</description>
+    <title>camunda / camunda</title>
+    <link>https://github.com/camunda/camunda</link>
+    <description>Process Orchestration Framework</description>
+  </item>
+  <item>
+    <title>openjdk / jdk</title>
+    <link>https://github.com/openjdk/jdk</link>
+    <description>JDK main-line development https://openjdk.org/projects/jdk</description>
+  </item>
+  <item>
+    <title>TheAlgorithms / Java</title>
+    <link>https://github.com/TheAlgorithms/Java</link>
+    <description>All Algorithms implemented in Java</description>
   </item>
   <item>
     <title>TeamNewPipe / NewPipe</title>
@@ -71,34 +81,19 @@
     <description>A libre lightweight streaming front-end for Android.</description>
   </item>
   <item>
-    <title>quarkusio / quarkus</title>
-    <link>https://github.com/quarkusio/quarkus</link>
-    <description>Quarkus: Supersonic Subatomic Java.</description>
+    <title>neoforged / NeoForge</title>
+    <link>https://github.com/neoforged/NeoForge</link>
+    <description>Neo Modding API for Minecraft: Java Edition, based on Forge</description>
   </item>
   <item>
-    <title>DependencyTrack / dependency-track</title>
-    <link>https://github.com/DependencyTrack/dependency-track</link>
-    <description>Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.</description>
+    <title>TGX-Android / Telegram-X</title>
+    <link>https://github.com/TGX-Android/Telegram-X</link>
+    <description>The main repository of Telegram X — official alternative Telegram client for Android.</description>
   </item>
   <item>
-    <title>NotHarshhaa / DevOps-Projects</title>
-    <link>https://github.com/NotHarshhaa/DevOps-Projects</link>
-    <description>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.</description>
-  </item>
-  <item>
-    <title>StarRocks / starrocks</title>
-    <link>https://github.com/StarRocks/starrocks</link>
-    <description>The world&#x27;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</description>
-  </item>
-  <item>
-    <title>alibaba / fastjson2</title>
-    <link>https://github.com/alibaba/fastjson2</link>
-    <description>🚄 FASTJSON2 is a Java JSON library with excellent performance.</description>
-  </item>
-  <item>
-    <title>JabRef / jabref</title>
-    <link>https://github.com/JabRef/jabref</link>
-    <description>Desktop app for managing BibTeX and BibLaTeX (.bib) libraries</description>
+    <title>woheller69 / FreeDroidWarn</title>
+    <link>https://github.com/woheller69/FreeDroidWarn</link>
+    <description></description>
   </item>
   <item>
     <title>spring-projects / spring-boot</title>
@@ -111,19 +106,19 @@
     <description>An API/Schema registry - stores APIs and Schemas.</description>
   </item>
   <item>
-    <title>alibaba / arthas</title>
-    <link>https://github.com/alibaba/arthas</link>
-    <description>Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas</description>
-  </item>
-  <item>
-    <title>camunda / camunda</title>
-    <link>https://github.com/camunda/camunda</link>
-    <description>Process Orchestration Framework</description>
+    <title>JabRef / jabref</title>
+    <link>https://github.com/JabRef/jabref</link>
+    <description>Desktop app for managing BibTeX and BibLaTeX (.bib) libraries</description>
   </item>
   <item>
     <title>apache / maven</title>
     <link>https://github.com/apache/maven</link>
     <description>Apache Maven core</description>
+  </item>
+  <item>
+    <title>liquibase / liquibase</title>
+    <link>https://github.com/liquibase/liquibase</link>
+    <description>Main Liquibase Source</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "tabler / tabler",
@@ -10,29 +10,9 @@
       "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 41425,
-      "forks": 4400,
-      "added_stars": "46 stars this week"
-    },
-    {
-      "title": "arthelokyo / astrowind",
-      "url": "https://github.com/arthelokyo/astrowind",
-      "description": "⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 5862,
-      "forks": 1654,
-      "added_stars": "28 stars this week"
-    },
-    {
-      "title": "chrismwilliams / astro-theme-cactus",
-      "url": "https://github.com/chrismwilliams/astro-theme-cactus",
-      "description": "A simple Astro theme. Use it to create your blog or website.",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 1702,
-      "forks": 276,
-      "added_stars": "10 stars this week"
+      "stars": 41430,
+      "forks": 4399,
+      "added_stars": "49 stars this week"
     },
     {
       "title": "satnaing / astro-paper",
@@ -40,19 +20,39 @@
       "description": "A minimal, accessible and SEO-friendly Astro blog theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 4929,
+      "stars": 4931,
       "forks": 1053,
-      "added_stars": "32 stars this week"
+      "added_stars": "31 stars this week"
     },
     {
-      "title": "jcalado / voxdmr-site",
-      "url": "https://github.com/jcalado/voxdmr-site",
-      "description": "voxDMR: Apps for DMR talkgroups.",
+      "title": "arthelokyo / astrowind",
+      "url": "https://github.com/arthelokyo/astrowind",
+      "description": "⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 35,
-      "forks": 7,
-      "added_stars": "0 stars this week"
+      "stars": 5864,
+      "forks": 1655,
+      "added_stars": "29 stars this week"
+    },
+    {
+      "title": "CuteLeaf / Firefly",
+      "url": "https://github.com/CuteLeaf/Firefly",
+      "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 1831,
+      "forks": 1413,
+      "added_stars": "59 stars this week"
+    },
+    {
+      "title": "saicaca / fuwari",
+      "url": "https://github.com/saicaca/fuwari",
+      "description": "✨A static blog template built with Astro.",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 4880,
+      "forks": 1237,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "spicetify / docs",
@@ -61,28 +61,38 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": 192,
-      "forks": 603,
+      "forks": 602,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "saicaca / fuwari",
-      "url": "https://github.com/saicaca/fuwari",
-      "description": "✨A static blog template built with Astro.",
+      "title": "chrismwilliams / astro-theme-cactus",
+      "url": "https://github.com/chrismwilliams/astro-theme-cactus",
+      "description": "A simple Astro theme. Use it to create your blog or website.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 4878,
-      "forks": 1240,
-      "added_stars": "30 stars this week"
+      "stars": 1703,
+      "forks": 276,
+      "added_stars": "10 stars this week"
     },
     {
-      "title": "CuteLeaf / Firefly",
-      "url": "https://github.com/CuteLeaf/Firefly",
-      "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
+      "title": "samber / awesome-prometheus-alerts",
+      "url": "https://github.com/samber/awesome-prometheus-alerts",
+      "description": "🚨 Collection of Prometheus alerting rules",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 1825,
-      "forks": 1406,
-      "added_stars": "57 stars this week"
+      "stars": 8133,
+      "forks": 1165,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "jcalado / voxdmr-site",
+      "url": "https://github.com/jcalado/voxdmr-site",
+      "description": "voxDMR: Apps for DMR talkgroups.",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 37,
+      "forks": 7,
+      "added_stars": "1 star this week"
     }
   ]
 }

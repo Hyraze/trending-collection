@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "chrislgarry / Apollo-11",
@@ -10,9 +10,9 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 71901,
-      "forks": 7962,
-      "added_stars": "3,764 stars this month"
+      "stars": 71942,
+      "forks": 7964,
+      "added_stars": "3,803 stars this month"
     },
     {
       "title": "pret / pokered",
@@ -20,9 +20,9 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4863,
-      "forks": 1279,
-      "added_stars": "78 stars this month"
+      "stars": 4865,
+      "forks": 1281,
+      "added_stars": "80 stars this month"
     },
     {
       "title": "ROCm / rocm-libraries",
@@ -31,7 +31,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 398,
-      "forks": 364,
+      "forks": 365,
       "added_stars": "25 stars this month"
     },
     {
@@ -41,18 +41,8 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 3059,
-      "forks": 994,
-      "added_stars": "64 stars this month"
-    },
-    {
-      "title": "riscv / riscv-arch-test",
-      "url": "https://github.com/riscv/riscv-arch-test",
-      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 765,
-      "forks": 346,
-      "added_stars": "29 stars this month"
+      "forks": 995,
+      "added_stars": "60 stars this month"
     },
     {
       "title": "Rangi42 / polishedcrystal",
@@ -60,9 +50,9 @@
       "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1599,
-      "forks": 328,
-      "added_stars": "41 stars this month"
+      "stars": 1601,
+      "forks": 329,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "JSsixtyfour / smashremix",
@@ -70,9 +60,9 @@
       "description": "",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 940,
-      "forks": 76,
-      "added_stars": "11 stars this month"
+      "stars": 941,
+      "forks": 77,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "apple / swift-crypto",
@@ -80,7 +70,7 @@
       "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1709,
+      "stars": 1710,
       "forks": 215,
       "added_stars": "10 stars this month"
     },
@@ -110,9 +100,29 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 18613,
+      "stars": 18617,
       "forks": 2087,
-      "added_stars": "129 stars this month"
+      "added_stars": "131 stars this month"
+    },
+    {
+      "title": "riscv / riscv-arch-test",
+      "url": "https://github.com/riscv/riscv-arch-test",
+      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 765,
+      "forks": 346,
+      "added_stars": "28 stars this month"
+    },
+    {
+      "title": "espressif / esp-dl",
+      "url": "https://github.com/espressif/esp-dl",
+      "description": "Espressif deep-learning library for AIoT applications",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1104,
+      "forks": 219,
+      "added_stars": "35 stars this month"
     },
     {
       "title": "pret / pokecrystal",
@@ -123,26 +133,6 @@
       "stars": 2484,
       "forks": 964,
       "added_stars": "25 stars this month"
-    },
-    {
-      "title": "espressif / esp-dl",
-      "url": "https://github.com/espressif/esp-dl",
-      "description": "Espressif deep-learning library for AIoT applications",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1102,
-      "forks": 218,
-      "added_stars": "34 stars this month"
-    },
-    {
-      "title": "hasherezade / malware_training_vol1",
-      "url": "https://github.com/hasherezade/malware_training_vol1",
-      "description": "Materials for Windows Malware Analysis training (volume 1)",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2090,
-      "forks": 208,
-      "added_stars": "11 stars this month"
     },
     {
       "title": "SheerSt / pokewilds",
@@ -160,9 +150,9 @@
       "description": "This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 287,
+      "stars": 288,
       "forks": 59,
-      "added_stars": "11 stars this month"
+      "added_stars": "12 stars this month"
     },
     {
       "title": "bitdump / BLHeli",
@@ -171,8 +161,18 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 2224,
-      "forks": 1145,
+      "forks": 1146,
       "added_stars": "10 stars this month"
+    },
+    {
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3770,
+      "forks": 120,
+      "added_stars": "74 stars this month"
     },
     {
       "title": "cemu-project / cemu_graphic_packs",
@@ -180,9 +180,9 @@
       "description": "Community Graphic Packs for Cemu",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1466,
+      "stars": 1467,
       "forks": 598,
-      "added_stars": "13 stars this month"
+      "added_stars": "14 stars this month"
     }
   ]
 }

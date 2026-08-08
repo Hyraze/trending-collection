@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "huggingface / speech-to-speech",
@@ -10,9 +10,9 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11456,
-      "forks": 1422,
-      "added_stars": "6,090 stars this month"
+      "stars": 11593,
+      "forks": 1433,
+      "added_stars": "6,147 stars this month"
     },
     {
       "title": "HKUDS / DeepTutor",
@@ -20,9 +20,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32795,
-      "forks": 4277,
-      "added_stars": "7,645 stars this month"
+      "stars": 33022,
+      "forks": 4288,
+      "added_stars": "7,778 stars this month"
     },
     {
       "title": "Shubhamsaboo / awesome-llm-apps",
@@ -30,29 +30,9 @@
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 131144,
-      "forks": 19337,
-      "added_stars": "14,892 stars this month"
-    },
-    {
-      "title": "HKUDS / Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 30085,
-      "forks": 4848,
-      "added_stars": "12,134 stars this month"
-    },
-    {
-      "title": "bradautomates / claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 14312,
-      "forks": 1375,
-      "added_stars": "10,428 stars this month"
+      "stars": 131348,
+      "forks": 19359,
+      "added_stars": "15,067 stars this month"
     },
     {
       "title": "tirth8205 / code-review-graph",
@@ -60,9 +40,29 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 29118,
-      "forks": 2687,
-      "added_stars": "9,787 stars this month"
+      "stars": 29367,
+      "forks": 2695,
+      "added_stars": "10,208 stars this month"
+    },
+    {
+      "title": "HKUDS / Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 30260,
+      "forks": 4871,
+      "added_stars": "12,068 stars this month"
+    },
+    {
+      "title": "bradautomates / claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 14464,
+      "forks": 1388,
+      "added_stars": "9,642 stars this month"
     },
     {
       "title": "usestrix / strix",
@@ -70,19 +70,9 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 49408,
-      "forks": 5248,
-      "added_stars": "11,911 stars this month"
-    },
-    {
-      "title": "Graphify-Labs / graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 103595,
-      "forks": 10065,
-      "added_stars": "25,396 stars this month"
+      "stars": 49682,
+      "forks": 5284,
+      "added_stars": "11,602 stars this month"
     },
     {
       "title": "virgiliojr94 / book-to-skill",
@@ -90,9 +80,19 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17736,
-      "forks": 1893,
-      "added_stars": "9,526 stars this month"
+      "stars": 18381,
+      "forks": 1976,
+      "added_stars": "10,214 stars this month"
+    },
+    {
+      "title": "Graphify-Labs / graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 104059,
+      "forks": 10104,
+      "added_stars": "25,130 stars this month"
     },
     {
       "title": "Robbyant / lingbot-map",
@@ -100,29 +100,9 @@
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16295,
-      "forks": 1816,
-      "added_stars": "6,428 stars this month"
-    },
-    {
-      "title": "ahujasid / blender-mcp",
-      "url": "https://github.com/ahujasid/blender-mcp",
-      "description": "Open-source MCP to use Blender with any LLM",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 25575,
-      "forks": 2440,
-      "added_stars": "2,067 stars this month"
-    },
-    {
-      "title": "unclecode / crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 77084,
-      "forks": 7965,
-      "added_stars": "5,892 stars this month"
+      "stars": 16319,
+      "forks": 1819,
+      "added_stars": "6,328 stars this month"
     },
     {
       "title": "ansible / ansible",
@@ -130,9 +110,39 @@
       "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 70243,
-      "forks": 24321,
-      "added_stars": "1,214 stars this month"
+      "stars": 70261,
+      "forks": 24323,
+      "added_stars": "1,215 stars this month"
+    },
+    {
+      "title": "unclecode / crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 77219,
+      "forks": 7982,
+      "added_stars": "6,116 stars this month"
+    },
+    {
+      "title": "ahujasid / blender-mcp",
+      "url": "https://github.com/ahujasid/blender-mcp",
+      "description": "Open-source MCP to use Blender with any LLM",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 25609,
+      "forks": 2439,
+      "added_stars": "2,076 stars this month"
+    },
+    {
+      "title": "thinking-machines-lab / tinker-cookbook",
+      "url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+      "description": "Post-training with Tinker",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3995,
+      "forks": 505,
+      "added_stars": "424 stars this month"
     },
     {
       "title": "dottxt-ai / outlines",
@@ -140,59 +150,9 @@
       "description": "Structured Outputs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15525,
-      "forks": 839,
-      "added_stars": "1,152 stars this month"
-    },
-    {
-      "title": "blader / humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 34061,
-      "forks": 3064,
-      "added_stars": "6,359 stars this month"
-    },
-    {
-      "title": "paperless-ngx / paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 44041,
-      "forks": 2993,
-      "added_stars": "1,339 stars this month"
-    },
-    {
-      "title": "AgriciDaniel / claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 13535,
-      "forks": 1974,
-      "added_stars": "2,943 stars this month"
-    },
-    {
-      "title": "harbor-framework / harbor",
-      "url": "https://github.com/harbor-framework/harbor",
-      "description": "Framework for evaluating and improving agents",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3959,
-      "forks": 1493,
-      "added_stars": "967 stars this month"
-    },
-    {
-      "title": "MoonshotAI / kimi-cli",
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 11118,
-      "forks": 1285,
-      "added_stars": "2,054 stars this month"
+      "stars": 15534,
+      "forks": 841,
+      "added_stars": "1,153 stars this month"
     },
     {
       "title": "donnemartin / system-design-primer",
@@ -200,19 +160,59 @@
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 362088,
-      "forks": 57693,
-      "added_stars": "6,259 stars this month"
+      "stars": 362284,
+      "forks": 57716,
+      "added_stars": "6,345 stars this month"
     },
     {
-      "title": "home-assistant / core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "title": "paperless-ngx / paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 89781,
-      "forks": 38294,
-      "added_stars": "1,913 stars this month"
+      "stars": 44077,
+      "forks": 3001,
+      "added_stars": "1,363 stars this month"
+    },
+    {
+      "title": "AgriciDaniel / claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 13635,
+      "forks": 1990,
+      "added_stars": "2,943 stars this month"
+    },
+    {
+      "title": "MoonshotAI / kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11133,
+      "forks": 1287,
+      "added_stars": "2,070 stars this month"
+    },
+    {
+      "title": "blader / humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 34250,
+      "forks": 3079,
+      "added_stars": "6,458 stars this month"
+    },
+    {
+      "title": "harbor-framework / harbor",
+      "url": "https://github.com/harbor-framework/harbor",
+      "description": "Framework for evaluating and improving agents",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4006,
+      "forks": 1498,
+      "added_stars": "995 stars this month"
     },
     {
       "title": "livekit / agents",
@@ -220,19 +220,9 @@
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12711,
-      "forks": 3512,
-      "added_stars": "1,487 stars this month"
-    },
-    {
-      "title": "python / cpython",
-      "url": "https://github.com/python/cpython",
-      "description": "The Python programming language",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 74219,
-      "forks": 35154,
-      "added_stars": "1,238 stars this month"
+      "stars": 12730,
+      "forks": 3519,
+      "added_stars": "1,491 stars this month"
     }
   ]
 }

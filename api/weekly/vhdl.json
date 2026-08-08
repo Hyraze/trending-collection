@@ -2,27 +2,27 @@
   "title": "GitHub Vhdl Languages Daily Trending",
   "description": "Daily Trending of Vhdl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
-    {
-      "title": "ghdl / ghdl",
-      "url": "https://github.com/ghdl/ghdl",
-      "description": "VHDL 2008/93/87 simulator",
-      "language": "VHDL",
-      "languageColor": "#adb2cb",
-      "stars": 2858,
-      "forks": 424,
-      "added_stars": "5 stars this week"
-    },
     {
       "title": "stnolting / neorv32",
       "url": "https://github.com/stnolting/neorv32",
       "description": "🖥️ A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
       "language": "VHDL",
       "languageColor": "#adb2cb",
-      "stars": 2217,
-      "forks": 370,
-      "added_stars": "22 stars this week"
+      "stars": 2218,
+      "forks": 371,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "ghdl / ghdl",
+      "url": "https://github.com/ghdl/ghdl",
+      "description": "VHDL 2008/93/87 simulator",
+      "language": "VHDL",
+      "languageColor": "#adb2cb",
+      "stars": 2859,
+      "forks": 424,
+      "added_stars": "6 stars this week"
     }
   ]
 }

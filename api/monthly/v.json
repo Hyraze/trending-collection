@@ -2,7 +2,7 @@
   "title": "GitHub V Languages Daily Trending",
   "description": "Daily Trending of V Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "vlang / v",
@@ -10,19 +10,9 @@
       "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
       "language": "V",
       "languageColor": "#4f87c4",
-      "stars": 37783,
+      "stars": 37785,
       "forks": 2265,
-      "added_stars": "149 stars this month"
-    },
-    {
-      "title": "vlang / v-analyzer",
-      "url": "https://github.com/vlang/v-analyzer",
-      "description": "The @vlang language server, for all your editing needs like go-to-definition, code completion, type hints, and more.",
-      "language": "V",
-      "languageColor": "#4f87c4",
-      "stars": 206,
-      "forks": 29,
-      "added_stars": "2 stars this month"
+      "added_stars": "150 stars this month"
     }
   ]
 }

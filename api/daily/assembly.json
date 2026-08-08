@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
       "title": "ROCm / rocm-libraries",
@@ -11,77 +11,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 398,
-      "forks": 364,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "openhwgroup / cva6",
-      "url": "https://github.com/openhwgroup/cva6",
-      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 3059,
-      "forks": 994,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "BLAKE3-team / BLAKE3",
-      "url": "https://github.com/BLAKE3-team/BLAKE3",
-      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 6358,
-      "forks": 469,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "vxunderground / MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 18613,
-      "forks": 2087,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "apple / swift-nio-ssl",
-      "url": "https://github.com/apple/swift-nio-ssl",
-      "description": "TLS Support for SwiftNIO, based on BoringSSL.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 433,
-      "forks": 169,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "riscv / riscv-arch-test",
-      "url": "https://github.com/riscv/riscv-arch-test",
-      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 765,
-      "forks": 346,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "livekit / rust-sdks",
-      "url": "https://github.com/livekit/rust-sdks",
-      "description": "LiveKit realtime and server SDKs for Rust",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 476,
-      "forks": 208,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "z88dk / z88dk",
-      "url": "https://github.com/z88dk/z88dk",
-      "description": "The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1110,
-      "forks": 203,
+      "forks": 365,
       "added_stars": "0 stars today"
     },
     {
@@ -95,24 +25,34 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "RibShark / OmniDrive",
-      "url": "https://github.com/RibShark/OmniDrive",
-      "description": "",
+      "title": "apple / swift-nio-ssl",
+      "url": "https://github.com/apple/swift-nio-ssl",
+      "description": "TLS Support for SwiftNIO, based on BoringSSL.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1014,
-      "forks": 53,
+      "stars": 433,
+      "forks": 169,
       "added_stars": "0 stars today"
     },
     {
-      "title": "PlummersSoftwareLLC / TinyRetroPad",
-      "url": "https://github.com/PlummersSoftwareLLC/TinyRetroPad",
-      "description": "",
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1684,
-      "forks": 109,
-      "added_stars": "4 stars today"
+      "stars": 3770,
+      "forks": 120,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "briansmith / ring",
+      "url": "https://github.com/briansmith/ring",
+      "description": "An experiment.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 4102,
+      "forks": 798,
+      "added_stars": "0 stars today"
     },
     {
       "title": "espressif / esp-dl",
@@ -120,19 +60,29 @@
       "description": "Espressif deep-learning library for AIoT applications",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1102,
-      "forks": 218,
-      "added_stars": "4 stars today"
+      "stars": 1104,
+      "forks": 219,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "Rangi42 / polishedcrystal",
-      "url": "https://github.com/Rangi42/polishedcrystal",
-      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+      "title": "BLAKE3-team / BLAKE3",
+      "url": "https://github.com/BLAKE3-team/BLAKE3",
+      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1599,
-      "forks": 328,
-      "added_stars": "2 stars today"
+      "stars": 6359,
+      "forks": 469,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "riscv-software-src / riscv-tests",
+      "url": "https://github.com/riscv-software-src/riscv-tests",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1228,
+      "forks": 559,
+      "added_stars": "0 stars today"
     },
     {
       "title": "boostorg / context",
@@ -142,6 +92,76 @@
       "languageColor": "#6E4C13",
       "stars": 361,
       "forks": 183,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bitdump / BLHeli",
+      "url": "https://github.com/bitdump/BLHeli",
+      "description": "BLHeli for brushless ESC firmware",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2224,
+      "forks": 1146,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "apple / swift-crypto",
+      "url": "https://github.com/apple/swift-crypto",
+      "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1710,
+      "forks": 215,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "PlummersSoftwareLLC / TinyRetroPad",
+      "url": "https://github.com/PlummersSoftwareLLC/TinyRetroPad",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1686,
+      "forks": 109,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "apache / arrow-go",
+      "url": "https://github.com/apache/arrow-go",
+      "description": "Official Go implementation of Apache Arrow",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 393,
+      "forks": 135,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "openhwgroup / cva6",
+      "url": "https://github.com/openhwgroup/cva6",
+      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3059,
+      "forks": 995,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 18617,
+      "forks": 2087,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "riscv / riscv-arch-test",
+      "url": "https://github.com/riscv/riscv-arch-test",
+      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 765,
+      "forks": 346,
       "added_stars": "0 stars today"
     },
     {
@@ -155,24 +175,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "bitdump / BLHeli",
-      "url": "https://github.com/bitdump/BLHeli",
-      "description": "BLHeli for brushless ESC firmware",
+      "title": "livekit / rust-sdks",
+      "url": "https://github.com/livekit/rust-sdks",
+      "description": "LiveKit realtime and server SDKs for Rust",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2224,
-      "forks": 1145,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "pret / pokered",
-      "url": "https://github.com/pret/pokered",
-      "description": "Disassembly of Pokémon Red/Blue",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 4863,
-      "forks": 1279,
-      "added_stars": "4 stars today"
+      "stars": 476,
+      "forks": 208,
+      "added_stars": "1 star today"
     }
   ]
 }

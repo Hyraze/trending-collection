@@ -2,27 +2,37 @@
   "title": "GitHub Restructuredtext Languages Daily Trending",
   "description": "Daily Trending of Restructuredtext Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
-    {
-      "title": "odoo / documentation",
-      "url": "https://github.com/odoo/documentation",
-      "description": "Odoo documentation sources",
-      "language": "reStructuredText",
-      "languageColor": "#141414",
-      "stars": 1294,
-      "forks": 11970,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "godotengine / godot-docs",
       "url": "https://github.com/godotengine/godot-docs",
       "description": "Godot Engine official documentation",
       "language": "reStructuredText",
       "languageColor": "#141414",
-      "stars": 5591,
-      "forks": 3740,
-      "added_stars": "6 stars today"
+      "stars": 5594,
+      "forks": 3741,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "python / peps",
+      "url": "https://github.com/python/peps",
+      "description": "Python Enhancement Proposals",
+      "language": "reStructuredText",
+      "languageColor": "#141414",
+      "stars": 4987,
+      "forks": 1793,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "odoo / documentation",
+      "url": "https://github.com/odoo/documentation",
+      "description": "Odoo documentation sources",
+      "language": "reStructuredText",
+      "languageColor": "#141414",
+      "stars": 1295,
+      "forks": 11972,
+      "added_stars": "1 star today"
     }
   ]
 }

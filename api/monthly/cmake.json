@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,19 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27334,
-      "forks": 7662,
-      "added_stars": "143 stars this month"
+      "stars": 27336,
+      "forks": 7664,
+      "added_stars": "144 stars this month"
+    },
+    {
+      "title": "shinchiro / mpv-winbuild-cmake",
+      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
+      "description": "CMake-based MinGW-w64 Cross Toolchain",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1684,
+      "forks": 227,
+      "added_stars": "59 stars this month"
     },
     {
       "title": "KIT-MRT / mrt_cmake_modules",
@@ -25,16 +35,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "shinchiro / mpv-winbuild-cmake",
-      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
-      "description": "CMake-based MinGW-w64 Cross Toolchain",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1683,
-      "forks": 227,
-      "added_stars": "57 stars this month"
-    },
-    {
       "title": "minecraft-linux / mcpelauncher-manifest",
       "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
       "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
@@ -42,7 +42,7 @@
       "languageColor": "#DA3434",
       "stars": 1605,
       "forks": 127,
-      "added_stars": "38 stars this month"
+      "added_stars": "35 stars this month"
     },
     {
       "title": "Andersama / obs-asio",
@@ -70,19 +70,19 @@
       "description": "Official KiCad Footprint Libraries for Kicad version 5",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 688,
-      "forks": 699,
+      "stars": 689,
+      "forks": 700,
       "added_stars": "4 stars this month"
     },
     {
-      "title": "jrl-umi3218 / jrl-cmakemodules",
-      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
-      "description": "CMake utility toolbox",
+      "title": "corrosion-rs / corrosion",
+      "url": "https://github.com/corrosion-rs/corrosion",
+      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 78,
-      "forks": 57,
-      "added_stars": "1 star this month"
+      "stars": 1475,
+      "forks": 149,
+      "added_stars": "13 stars this month"
     }
   ]
 }

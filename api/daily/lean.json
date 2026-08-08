@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
       "title": "harbor-framework / terminal-bench-science",
@@ -10,19 +10,9 @@
       "description": "Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 237,
-      "forks": 191,
+      "stars": 238,
+      "forks": 204,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "leanprover / comparator",
-      "url": "https://github.com/leanprover/comparator",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 118,
-      "forks": 21,
-      "added_stars": "2 stars today"
     },
     {
       "title": "leanprover / verso",
@@ -30,19 +20,29 @@
       "description": "Lean documentation authoring tool",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 370,
-      "forks": 120,
-      "added_stars": "0 stars today"
+      "stars": 371,
+      "forks": 119,
+      "added_stars": "1 star today"
     },
     {
-      "title": "argumentcomputer / ix",
-      "url": "https://github.com/argumentcomputer/ix",
-      "description": "a zero-knowledge proof-carrying code platform for Lean 4",
+      "title": "leanprover-community / physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 85,
-      "forks": 3,
-      "added_stars": "1 star today"
+      "stars": 674,
+      "forks": 151,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "teorth / analysis",
+      "url": "https://github.com/teorth/analysis",
+      "description": "A Lean companion to Analysis I",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1847,
+      "forks": 261,
+      "added_stars": "3 stars today"
     },
     {
       "title": "google-deepmind / formal-conjectures",
@@ -50,8 +50,8 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1166,
-      "forks": 400,
+      "stars": 1167,
+      "forks": 404,
       "added_stars": "1 star today"
     },
     {
@@ -60,39 +60,29 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 8708,
-      "forks": 929,
+      "stars": 8713,
+      "forks": 930,
       "added_stars": "10 stars today"
     },
     {
-      "title": "emberian / dregg",
-      "url": "https://github.com/emberian/dregg",
-      "description": "Distributed object-capability authorization with ZK proofs",
+      "title": "leanprover / cslib",
+      "url": "https://github.com/leanprover/cslib",
+      "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 29,
-      "forks": 6,
-      "added_stars": "1 star today"
+      "stars": 642,
+      "forks": 177,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "leanprover / lean-eval",
-      "url": "https://github.com/leanprover/lean-eval",
-      "description": "Comparator-based Lean formal mathematics eval",
+      "title": "leanprover-community / batteries",
+      "url": "https://github.com/leanprover-community/batteries",
+      "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 33,
-      "forks": 36,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 3766,
-      "forks": 1566,
-      "added_stars": "6 stars today"
+      "stars": 413,
+      "forks": 157,
+      "added_stars": "0 stars today"
     }
   ]
 }

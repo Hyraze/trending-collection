@@ -2,18 +2,8 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
-    {
-      "title": "emqx / emqx",
-      "url": "https://github.com/emqx/emqx",
-      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 16599,
-      "forks": 2544,
-      "added_stars": "22 stars this week"
-    },
     {
       "title": "erlang / otp",
       "url": "https://github.com/erlang/otp",
@@ -22,7 +12,17 @@
       "languageColor": "#B83998",
       "stars": 12321,
       "forks": 3267,
-      "added_stars": "14 stars this week"
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "emqx / emqx",
+      "url": "https://github.com/emqx/emqx",
+      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 16598,
+      "forks": 2545,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "WhatsApp / erlfmt",
@@ -55,13 +55,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "ninenines / ranch",
-      "url": "https://github.com/ninenines/ranch",
-      "description": "Socket acceptor pool for TCP protocols.",
+      "title": "erlang-lager / lager",
+      "url": "https://github.com/erlang-lager/lager",
+      "description": "A logging framework for Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 1242,
-      "forks": 337,
+      "stars": 1130,
+      "forks": 446,
       "added_stars": "0 stars this week"
     },
     {
@@ -75,26 +75,6 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "erlang-lager / lager",
-      "url": "https://github.com/erlang-lager/lager",
-      "description": "A logging framework for Erlang/OTP",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 1130,
-      "forks": 446,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "processone / ejabberd",
-      "url": "https://github.com/processone/ejabberd",
-      "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 6711,
-      "forks": 1546,
-      "added_stars": "3 stars this week"
-    },
-    {
       "title": "apache / couchdb",
       "url": "https://github.com/apache/couchdb",
       "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
@@ -102,27 +82,7 @@
       "languageColor": "#B83998",
       "stars": 6933,
       "forks": 1077,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "potatosalad / erlang-jose",
-      "url": "https://github.com/potatosalad/erlang-jose",
-      "description": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 336,
-      "forks": 120,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "erlang / rebar3",
-      "url": "https://github.com/erlang/rebar3",
-      "description": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 1815,
-      "forks": 528,
-      "added_stars": "1 star this week"
+      "added_stars": "4 stars this week"
     }
   ]
 }

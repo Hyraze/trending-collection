@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c++ Languages Daily Trending",
   "description": "Daily Trending of Objective-c++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "KhronosGroup / MoltenVK",
@@ -10,9 +10,19 @@
       "description": "MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": 5776,
-      "forks": 538,
-      "added_stars": "72 stars this month"
+      "stars": 5775,
+      "forks": 539,
+      "added_stars": "66 stars this month"
+    },
+    {
+      "title": "gree / unity-webview",
+      "url": "https://github.com/gree/unity-webview",
+      "description": "",
+      "language": "Objective-C++",
+      "languageColor": "#6866fb",
+      "stars": 2653,
+      "forks": 733,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "microsoft / onnxruntime-swift-package-manager",
@@ -25,22 +35,12 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "gree / unity-webview",
-      "url": "https://github.com/gree/unity-webview",
-      "description": "",
-      "language": "Objective-C++",
-      "languageColor": "#6866fb",
-      "stars": 2652,
-      "forks": 733,
-      "added_stars": "17 stars this month"
-    },
-    {
       "title": "thusvill / LiveWallpaperMacOS",
       "url": "https://github.com/thusvill/LiveWallpaperMacOS",
       "description": "This is a Opensource Live wallpaper solution for MacOS",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": 913,
+      "stars": 912,
       "forks": 51,
       "added_stars": "38 stars this month"
     },
@@ -50,9 +50,9 @@
       "description": "Liquid Glass in React Native",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": 1606,
+      "stars": 1609,
       "forks": 60,
-      "added_stars": "62 stars this month"
+      "added_stars": "58 stars this month"
     },
     {
       "title": "sbmpost / AutoRaise",
@@ -60,9 +60,9 @@
       "description": "AutoRaise (and focus) a window when hovering over it with the mouse",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": 2752,
+      "stars": 2753,
       "forks": 119,
-      "added_stars": "34 stars this month"
+      "added_stars": "35 stars this month"
     }
   ]
 }

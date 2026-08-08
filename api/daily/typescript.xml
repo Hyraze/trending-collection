@@ -4,11 +4,11 @@
   <title>GitHub Typescript Languages Daily Trending</title>
   <description>Daily Trending of Typescript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
-    <title>TencentCloud / TencentDB-Agent-Memory</title>
-    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
-    <description>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
+    <title>PrimeIntellect-ai / prime-agent</title>
+    <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
+    <description>A self-improving RLM agent for coding workflows and long-running autonomous tasks.</description>
   </item>
   <item>
     <title>cloudflare / computer</title>
@@ -16,14 +16,14 @@
     <description>Give your agent a computer 👾</description>
   </item>
   <item>
-    <title>AdventDevInc / kudu</title>
-    <link>https://github.com/AdventDevInc/kudu</link>
-    <description>Free Windows, Mac and Linux cleaner, scanner, and more.</description>
+    <title>TencentCloud / TencentDB-Agent-Memory</title>
+    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
+    <description>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
   </item>
   <item>
-    <title>melgarafael / DeskcommCRM</title>
-    <link>https://github.com/melgarafael/DeskcommCRM</link>
-    <description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.</description>
+    <title>tashfeenahmed / freellmapi</title>
+    <link>https://github.com/tashfeenahmed/freellmapi</link>
+    <description>OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.</description>
   </item>
   <item>
     <title>iOfficeAI / AionUi</title>
@@ -31,9 +31,19 @@
     <description>Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!</description>
   </item>
   <item>
-    <title>expo / expo</title>
-    <link>https://github.com/expo/expo</link>
-    <description>An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.</description>
+    <title>open-mercato / open-mercato</title>
+    <link>https://github.com/open-mercato/open-mercato</link>
+    <description>AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural and domain decisions (multi-tenancy, RBAC, event flow, pricing, sales pipeline,CRM/ERP processes) are already made conventions and specs so agents (Cursor, Claude Code, Codex) arch. decisions without reinventing. Ship production grade with AI Agents.</description>
+  </item>
+  <item>
+    <title>element-plus / element-plus</title>
+    <link>https://github.com/element-plus/element-plus</link>
+    <description>🎉 A Vue.js 3 UI Library made by Element team</description>
+  </item>
+  <item>
+    <title>payloadcms / payload</title>
+    <link>https://github.com/payloadcms/payload</link>
+    <description>Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.</description>
   </item>
   <item>
     <title>makeplane / plane</title>
@@ -41,59 +51,34 @@
     <description>🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.</description>
   </item>
   <item>
-    <title>anomalyco / opencode</title>
-    <link>https://github.com/anomalyco/opencode</link>
-    <description>The open source coding agent.</description>
+    <title>CodebuffAI / freebuff</title>
+    <link>https://github.com/CodebuffAI/freebuff</link>
+    <description>The free coding agent</description>
   </item>
   <item>
-    <title>MadsLorentzen / ai-job-search</title>
-    <link>https://github.com/MadsLorentzen/ai-job-search</link>
-    <description>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</description>
+    <title>firecrawl / firecrawl</title>
+    <link>https://github.com/firecrawl/firecrawl</link>
+    <description>The context API to search, scrape, and interact with the web at scale. 🔥</description>
   </item>
   <item>
-    <title>ever-co / ever-gauzy</title>
-    <link>https://github.com/ever-co/ever-gauzy</link>
-    <description>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co</description>
+    <title>CopilotKit / CopilotKit</title>
+    <link>https://github.com/CopilotKit/CopilotKit</link>
+    <description>The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol</description>
   </item>
   <item>
-    <title>microsoft / vscode</title>
-    <link>https://github.com/microsoft/vscode</link>
-    <description>Visual Studio Code</description>
+    <title>earendil-works / pi</title>
+    <link>https://github.com/earendil-works/pi</link>
+    <description>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI</description>
   </item>
   <item>
-    <title>CherryHQ / cherry-studio</title>
-    <link>https://github.com/CherryHQ/cherry-studio</link>
-    <description>AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs</description>
+    <title>satnaing / shadcn-admin</title>
+    <link>https://github.com/satnaing/shadcn-admin</link>
+    <description>Admin Dashboard UI built with Shadcn and Vite.</description>
   </item>
   <item>
-    <title>QwenLM / qwen-code</title>
-    <link>https://github.com/QwenLM/qwen-code</link>
-    <description>An open-source AI coding agent that lives in your terminal.</description>
-  </item>
-  <item>
-    <title>playcanvas / supersplat</title>
-    <link>https://github.com/playcanvas/supersplat</link>
-    <description>3D Gaussian Splat Editor</description>
-  </item>
-  <item>
-    <title>FlowiseAI / Flowise</title>
-    <link>https://github.com/FlowiseAI/Flowise</link>
-    <description>Build AI Agents, Visually</description>
-  </item>
-  <item>
-    <title>KnockOutEZ / wigolo</title>
-    <link>https://github.com/KnockOutEZ/wigolo</link>
-    <description>The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.</description>
-  </item>
-  <item>
-    <title>promptfoo / promptfoo</title>
-    <link>https://github.com/promptfoo/promptfoo</link>
-    <description>Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.</description>
-  </item>
-  <item>
-    <title>abhigyanpatwari / GitNexus</title>
-    <link>https://github.com/abhigyanpatwari/GitNexus</link>
-    <description>GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration</description>
+    <title>deepcoldy / botmux</title>
+    <link>https://github.com/deepcoldy/botmux</link>
+    <description>Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI session</description>
   </item>
 </channel>
 </rss>

@@ -4,26 +4,11 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
-    <title>koreader / koreader</title>
-    <link>https://github.com/koreader/koreader</link>
-    <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
-  </item>
-  <item>
-    <title>nvim-lua / kickstart.nvim</title>
-    <link>https://github.com/nvim-lua/kickstart.nvim</link>
-    <description>A launch point for your personal nvim configuration</description>
-  </item>
-  <item>
-    <title>neovim / nvim-lspconfig</title>
-    <link>https://github.com/neovim/nvim-lspconfig</link>
-    <description>Quickstart configs for Nvim LSP</description>
-  </item>
-  <item>
-    <title>folke / lazy.nvim</title>
-    <link>https://github.com/folke/lazy.nvim</link>
-    <description>💤 A modern plugin manager for Neovim</description>
+    <title>ibhagwan / fzf-lua</title>
+    <link>https://github.com/ibhagwan/fzf-lua</link>
+    <description>Improved fzf.vim written in lua</description>
   </item>
   <item>
     <title>Kong / kong</title>
@@ -31,34 +16,44 @@
     <description>🦍 The API and AI Gateway</description>
   </item>
   <item>
-    <title>coder / claudecode.nvim</title>
-    <link>https://github.com/coder/claudecode.nvim</link>
-    <description>🧩 Claude Code Neovim IDE Extension</description>
+    <title>LazyVim / LazyVim</title>
+    <link>https://github.com/LazyVim/LazyVim</link>
+    <description>Neovim config for the lazy</description>
   </item>
   <item>
-    <title>amzxyz / rime-wanxiang</title>
-    <link>https://github.com/amzxyz/rime-wanxiang</link>
-    <description>「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066</description>
+    <title>neovim / nvim-lspconfig</title>
+    <link>https://github.com/neovim/nvim-lspconfig</link>
+    <description>Quickstart configs for Nvim LSP</description>
   </item>
   <item>
-    <title>Kong / kong-pongo</title>
-    <link>https://github.com/Kong/kong-pongo</link>
-    <description>Tooling to run plugin tests with Kong and Kong Enterprise</description>
+    <title>opentibiabr / otclient</title>
+    <link>https://github.com/opentibiabr/otclient</link>
+    <description>An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize</description>
   </item>
   <item>
-    <title>jitsi / docker-jitsi-meet</title>
-    <link>https://github.com/jitsi/docker-jitsi-meet</link>
-    <description>Jitsi Meet on Docker</description>
+    <title>koreader / koreader</title>
+    <link>https://github.com/koreader/koreader</link>
+    <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
   </item>
   <item>
-    <title>MeanderingProgrammer / render-markdown.nvim</title>
-    <link>https://github.com/MeanderingProgrammer/render-markdown.nvim</link>
-    <description>Improve viewing Markdown in Neovim</description>
+    <title>finlater / weread.koplugin</title>
+    <link>https://github.com/finlater/weread.koplugin</link>
+    <description>微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，并做到进度、阅读时长同步，阅读时间上报。</description>
   </item>
   <item>
-    <title>ibhagwan / fzf-lua</title>
-    <link>https://github.com/ibhagwan/fzf-lua</link>
-    <description>Improved fzf.vim written in lua</description>
+    <title>ThePrimeagen / harpoon</title>
+    <link>https://github.com/ThePrimeagen/harpoon</link>
+    <description></description>
+  </item>
+  <item>
+    <title>opentibiabr / canary</title>
+    <link>https://github.com/opentibiabr/canary</link>
+    <description>Canary Server 15.25 for OpenTibia community.</description>
+  </item>
+  <item>
+    <title>olimorris / codecompanion.nvim</title>
+    <link>https://github.com/olimorris/codecompanion.nvim</link>
+    <description>✨ AI Coding, Vim Style</description>
   </item>
 </channel>
 </rss>

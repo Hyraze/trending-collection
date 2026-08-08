@@ -2,7 +2,7 @@
   "title": "GitHub Webassembly Languages Daily Trending",
   "description": "Daily Trending of Webassembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "AssemblyScript / assemblyscript",
@@ -10,19 +10,9 @@
       "description": "A TypeScript-like language for WebAssembly.",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": 17986,
-      "forks": 694,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "WebAssembly / binaryen",
-      "url": "https://github.com/WebAssembly/binaryen",
-      "description": "Optimizer and compiler/toolchain library for WebAssembly",
-      "language": "WebAssembly",
-      "languageColor": "#04133b",
-      "stars": 8590,
-      "forks": 873,
-      "added_stars": "10 stars this week"
+      "stars": 17985,
+      "forks": 695,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "WebAssembly / wasi-threads",
@@ -35,24 +25,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "WebAssembly / component-model",
-      "url": "https://github.com/WebAssembly/component-model",
-      "description": "Repository for design and specification of the Component Model",
+      "title": "WebAssembly / binaryen",
+      "url": "https://github.com/WebAssembly/binaryen",
+      "description": "Optimizer and compiler/toolchain library for WebAssembly",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": 1348,
-      "forks": 126,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "iRath96 / webNBT",
-      "url": "https://github.com/iRath96/webNBT",
-      "description": "An HTML5 NBT-editor based on emscripten",
-      "language": "WebAssembly",
-      "languageColor": "#04133b",
-      "stars": 279,
-      "forks": 49,
-      "added_stars": "0 stars this week"
+      "stars": 8592,
+      "forks": 873,
+      "added_stars": "10 stars this week"
     }
   ]
 }

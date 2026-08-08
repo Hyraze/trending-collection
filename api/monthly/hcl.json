@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -10,8 +10,8 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4995,
-      "forks": 4404,
+      "stars": 4996,
+      "forks": 4405,
       "added_stars": "16 stars this month"
     },
     {
@@ -22,7 +22,17 @@
       "languageColor": "#844FBA",
       "stars": 2077,
       "forks": 1253,
-      "added_stars": "22 stars this month"
+      "added_stars": "21 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 581,
+      "forks": 3809,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "hashicorp / agent-skills",
@@ -30,9 +40,9 @@
       "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 785,
-      "forks": 116,
-      "added_stars": "86 stars this month"
+      "stars": 786,
+      "forks": 117,
+      "added_stars": "85 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -40,9 +50,9 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3253,
-      "forks": 4627,
-      "added_stars": "12 stars this month"
+      "stars": 3254,
+      "forks": 4626,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-iam",
@@ -62,17 +72,7 @@
       "languageColor": "#844FBA",
       "stars": 1222,
       "forks": 568,
-      "added_stars": "26 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 581,
-      "forks": 3808,
-      "added_stars": "3 stars this month"
+      "added_stars": "27 stars this month"
     },
     {
       "title": "hashicorp / terraform-provider-awscc",
@@ -90,9 +90,9 @@
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1046,
+      "stars": 1047,
       "forks": 771,
-      "added_stars": "4 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
       "title": "cashapp / hermit-packages",
@@ -113,16 +113,6 @@
       "stars": 676,
       "forks": 665,
       "added_stars": "4 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 120,
-      "forks": 202,
-      "added_stars": "0 stars this month"
     }
   ]
 }

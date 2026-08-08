@@ -2,57 +2,17 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
-      "title": "simonmichael / hledger",
-      "url": "https://github.com/simonmichael/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4616,
-      "forks": 402,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "wireapp / wire-server",
-      "url": "https://github.com/wireapp/wire-server",
-      "description": "🇪🇺 Wire back-end services",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2783,
-      "forks": 332,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "digital-asset / daml",
-      "url": "https://github.com/digital-asset/daml",
-      "description": "The Daml smart contract language",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 912,
-      "forks": 256,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ad-si / Perspec",
-      "url": "https://github.com/ad-si/Perspec",
-      "description": "Scriptable desktop app to correct the perspective of images",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 748,
-      "forks": 38,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "IntersectMBO / plutus",
-      "url": "https://github.com/IntersectMBO/plutus",
-      "description": "The Plutus language implementation and tools",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1635,
-      "forks": 509,
-      "added_stars": "0 stars today"
+      "stars": 45768,
+      "forks": 3942,
+      "added_stars": "21 stars today"
     },
     {
       "title": "koalaman / shellcheck",
@@ -60,18 +20,38 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 39827,
+      "stars": 39832,
       "forks": 1939,
-      "added_stars": "8 stars today"
+      "added_stars": "6 stars today"
     },
     {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 3179,
-      "forks": 755,
+      "stars": 1517,
+      "forks": 65,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 19211,
+      "forks": 1337,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "CategoricalData / hydra",
+      "url": "https://github.com/CategoricalData/hydra",
+      "description": "Graph programming language",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 191,
+      "forks": 25,
       "added_stars": "0 stars today"
     },
     {
@@ -80,89 +60,9 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27500,
-      "forks": 1219,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "IntersectMBO / cardano-ledger",
-      "url": "https://github.com/IntersectMBO/cardano-ledger",
-      "description": "The ledger implementation and specifications of the Cardano blockchain.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 290,
-      "forks": 177,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "haskell / haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2942,
-      "forks": 451,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "cardano-foundation / cardano-wallet",
-      "url": "https://github.com/cardano-foundation/cardano-wallet",
-      "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 822,
-      "forks": 232,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "jgm / pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 45751,
-      "forks": 3939,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 19205,
-      "forks": 1336,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "commercialhaskell / stack",
-      "url": "https://github.com/commercialhaskell/stack",
-      "description": "The Haskell Tool Stack",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 4073,
-      "forks": 848,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "unisonweb / unison",
-      "url": "https://github.com/unisonweb/unison",
-      "description": "A friendly programming language from the future",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 6693,
-      "forks": 306,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2907,
-      "forks": 420,
-      "added_stars": "1 star today"
+      "stars": 27501,
+      "forks": 1220,
+      "added_stars": "4 stars today"
     },
     {
       "title": "hadolint / hadolint",
@@ -170,29 +70,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12338,
+      "stars": 12340,
       "forks": 501,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "IntersectMBO / ouroboros-network",
-      "url": "https://github.com/IntersectMBO/ouroboros-network",
-      "description": "Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 293,
-      "forks": 105,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "nammayatri / nammayatri",
-      "url": "https://github.com/nammayatri/nammayatri",
-      "description": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2530,
-      "forks": 389,
-      "added_stars": "0 stars today"
+      "added_stars": "2 stars today"
     }
   ]
 }

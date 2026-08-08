@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
       "title": "github / copilot.vim",
@@ -11,167 +11,7 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 11665,
-      "forks": 795,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "vim / vim",
-      "url": "https://github.com/vim/vim",
-      "description": "The official Vim repository",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 40731,
-      "forks": 6107,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "neovim / neovim",
-      "url": "https://github.com/neovim/neovim",
-      "description": "Vim-fork focused on extensibility and usability",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 101667,
-      "forks": 7009,
-      "added_stars": "37 stars today"
-    },
-    {
-      "title": "VundleVim / Vundle.vim",
-      "url": "https://github.com/VundleVim/Vundle.vim",
-      "description": "Vundle, the plug-in manager for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 23925,
-      "forks": 2539,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 35742,
-      "forks": 1938,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "preservim / tagbar",
-      "url": "https://github.com/preservim/tagbar",
-      "description": "Vim plugin that displays tags in a window, ordered by scope",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 6226,
-      "forks": 476,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21756,
-      "forks": 1074,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "dense-analysis / ale",
-      "url": "https://github.com/dense-analysis/ale",
-      "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 14016,
-      "forks": 1485,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "editorconfig / editorconfig-vim",
-      "url": "https://github.com/editorconfig/editorconfig-vim",
-      "description": "EditorConfig plugin for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 3166,
-      "forks": 143,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tpope / vim-sensible",
-      "url": "https://github.com/tpope/vim-sensible",
-      "description": "sensible.vim: Defaults everyone can agree on",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 5294,
-      "forks": 272,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "pangloss / vim-javascript",
-      "url": "https://github.com/pangloss/vim-javascript",
-      "description": "Vastly improved Javascript indentation and syntax support in Vim.",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 3786,
-      "forks": 351,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "altercation / vim-colors-solarized",
-      "url": "https://github.com/altercation/vim-colors-solarized",
-      "description": "precision colorscheme for the vim text editor",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 6593,
-      "forks": 1707,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "junegunn / vim-easy-align",
-      "url": "https://github.com/junegunn/vim-easy-align",
-      "description": "🌻 A Vim alignment plugin",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4242,
-      "forks": 122,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "sainnhe / everforest",
-      "url": "https://github.com/sainnhe/everforest",
-      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4149,
-      "forks": 147,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "ggml-org / llama.vim",
-      "url": "https://github.com/ggml-org/llama.vim",
-      "description": "Vim plugin for LLM-assisted code/text completion",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 2130,
-      "forks": 115,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "Yggdroot / indentLine",
-      "url": "https://github.com/Yggdroot/indentLine",
-      "description": "A vim plugin to display the indention levels with thin vertical lines",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4123,
-      "forks": 234,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "morhetz / gruvbox",
-      "url": "https://github.com/morhetz/gruvbox",
-      "description": "Retro groove color scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 15660,
-      "forks": 1127,
+      "forks": 794,
       "added_stars": "3 stars today"
     },
     {
@@ -185,44 +25,94 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "tpope / vim-unimpaired",
-      "url": "https://github.com/tpope/vim-unimpaired",
-      "description": "unimpaired.vim: Pairs of handy bracket mappings",
+      "title": "sainnhe / everforest",
+      "url": "https://github.com/sainnhe/everforest",
+      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 3465,
-      "forks": 206,
+      "stars": 4153,
+      "forks": 147,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21758,
+      "forks": 1075,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "preservim / vim-markdown",
+      "url": "https://github.com/preservim/vim-markdown",
+      "description": "Markdown Vim Mode",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 4811,
+      "forks": 519,
       "added_stars": "0 stars today"
     },
     {
-      "title": "preservim / nerdcommenter",
-      "url": "https://github.com/preservim/nerdcommenter",
-      "description": "Vim plugin for intensely nerdy commenting powers",
+      "title": "neovim / neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 5007,
-      "forks": 442,
+      "stars": 101688,
+      "forks": 7013,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "vim / vim",
+      "url": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 40737,
+      "forks": 6108,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 35740,
+      "forks": 1938,
       "added_stars": "0 stars today"
     },
     {
-      "title": "mattn / vim-lsp-settings",
-      "url": "https://github.com/mattn/vim-lsp-settings",
-      "description": "Auto configurations for Language Server for vim-lsp",
+      "title": "morhetz / gruvbox",
+      "url": "https://github.com/morhetz/gruvbox",
+      "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 1415,
-      "forks": 247,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hrsh7th / vim-vsnip",
-      "url": "https://github.com/hrsh7th/vim-vsnip",
-      "description": "Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 917,
-      "forks": 41,
+      "stars": 15661,
+      "forks": 1127,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "preservim / tagbar",
+      "url": "https://github.com/preservim/tagbar",
+      "description": "Vim plugin that displays tags in a window, ordered by scope",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 6226,
+      "forks": 476,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "mhinz / vim-signify",
+      "url": "https://github.com/mhinz/vim-signify",
+      "description": "➕ Show a diff using Vim its sign column.",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 2728,
+      "forks": 113,
+      "added_stars": "0 stars today"
     }
   ]
 }

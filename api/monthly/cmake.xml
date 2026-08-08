@@ -4,21 +4,21 @@
   <title>GitHub Cmake Languages Daily Trending</title>
   <description>Daily Trending of Cmake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>microsoft / vcpkg</title>
     <link>https://github.com/microsoft/vcpkg</link>
     <description>C++ Library Manager for Windows, Linux, and MacOS</description>
   </item>
   <item>
-    <title>KIT-MRT / mrt_cmake_modules</title>
-    <link>https://github.com/KIT-MRT/mrt_cmake_modules</link>
-    <description>Automated catkin project handling framework</description>
-  </item>
-  <item>
     <title>shinchiro / mpv-winbuild-cmake</title>
     <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
     <description>CMake-based MinGW-w64 Cross Toolchain</description>
+  </item>
+  <item>
+    <title>KIT-MRT / mrt_cmake_modules</title>
+    <link>https://github.com/KIT-MRT/mrt_cmake_modules</link>
+    <description>Automated catkin project handling framework</description>
   </item>
   <item>
     <title>minecraft-linux / mcpelauncher-manifest</title>
@@ -41,9 +41,9 @@
     <description>Official KiCad Footprint Libraries for Kicad version 5</description>
   </item>
   <item>
-    <title>jrl-umi3218 / jrl-cmakemodules</title>
-    <link>https://github.com/jrl-umi3218/jrl-cmakemodules</link>
-    <description>CMake utility toolbox</description>
+    <title>corrosion-rs / corrosion</title>
+    <link>https://github.com/corrosion-rs/corrosion</link>
+    <description>Marrying Rust and CMake - Easy Rust and C/C++ Integration!</description>
   </item>
 </channel>
 </rss>

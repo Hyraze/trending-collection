@@ -2,8 +2,18 @@
   "title": "GitHub Open-policy-agent Languages Daily Trending",
   "description": "Daily Trending of Open-policy-agent Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 06 Aug 2026 05:11:48 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
+    {
+      "title": "DataDog / security-agent-policies",
+      "url": "https://github.com/DataDog/security-agent-policies",
+      "description": "Policies for Security Agent - compliance and runtime checks",
+      "language": "Open Policy Agent",
+      "languageColor": "#7d9199",
+      "stars": 26,
+      "forks": 8,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "Azure / azure-policy",
       "url": "https://github.com/Azure/azure-policy",
@@ -12,16 +22,6 @@
       "languageColor": "#7d9199",
       "stars": 1688,
       "forks": 1155,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Checkmarx / kics",
-      "url": "https://github.com/Checkmarx/kics",
-      "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
-      "language": "Open Policy Agent",
-      "languageColor": "#7d9199",
-      "stars": 2682,
-      "forks": 379,
       "added_stars": "0 stars today"
     }
   ]

@@ -2,57 +2,27 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
-      "title": "DataExpert-io / data-engineer-handbook",
-      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
-      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+      "title": "jackfrued / Python-100-Days",
+      "url": "https://github.com/jackfrued/Python-100-Days",
+      "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 43273,
-      "forks": 8904,
-      "added_stars": "161 stars today"
+      "stars": 184975,
+      "forks": 55693,
+      "added_stars": "58 stars today"
     },
     {
-      "title": "lyogavin / airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
+      "title": "microsoft / Data-Science-For-Beginners",
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 29676,
-      "forks": 3171,
-      "added_stars": "603 stars today"
-    },
-    {
-      "title": "microsoft / generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 116828,
-      "forks": 61747,
-      "added_stars": "143 stars today"
-    },
-    {
-      "title": "karpathy / micrograd",
-      "url": "https://github.com/karpathy/micrograd",
-      "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 17027,
-      "forks": 2702,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "Pierian-Data / Complete-Python-3-Bootcamp",
-      "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
-      "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 29700,
-      "forks": 87256,
-      "added_stars": "4 stars today"
+      "stars": 36535,
+      "forks": 7403,
+      "added_stars": "19 stars today"
     },
     {
       "title": "anthropics / prompt-eng-interactive-tutorial",
@@ -60,89 +30,69 @@
       "description": "Anthropic's Interactive Prompt Engineering Tutorial",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 37565,
+      "stars": 37576,
       "forks": 4129,
-      "added_stars": "20 stars today"
+      "added_stars": "16 stars today"
     },
     {
-      "title": "datawhalechina / llm-universe",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+      "title": "karpathy / micrograd",
+      "url": "https://github.com/karpathy/micrograd",
+      "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 13732,
-      "forks": 1393,
-      "added_stars": "7 stars today"
+      "stars": 17034,
+      "forks": 2709,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "anthropics / courses",
-      "url": "https://github.com/anthropics/courses",
-      "description": "Anthropic's educational courses",
+      "title": "DataExpert-io / data-engineer-handbook",
+      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 22545,
-      "forks": 2423,
-      "added_stars": "14 stars today"
+      "stars": 43384,
+      "forks": 8960,
+      "added_stars": "120 stars today"
     },
     {
-      "title": "GokuMohandas / Made-With-ML",
-      "url": "https://github.com/GokuMohandas/Made-With-ML",
-      "description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+      "title": "higgsfield-ai / higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 48998,
-      "forks": 7706,
-      "added_stars": "12 stars today"
+      "stars": 4037,
+      "forks": 690,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "charliedream1 / ai_quant_trade",
-      "url": "https://github.com/charliedream1/ai_quant_trade",
-      "description": "股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易",
+      "title": "datawhalechina / self-llm",
+      "url": "https://github.com/datawhalechina/self-llm",
+      "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 6115,
-      "forks": 1165,
-      "added_stars": "14 stars today"
+      "stars": 31613,
+      "forks": 3074,
+      "added_stars": "19 stars today"
     },
     {
-      "title": "ed-donner / agents",
-      "url": "https://github.com/ed-donner/agents",
-      "description": "Repo for the Complete Agentic AI Engineering Course",
+      "title": "gepa-ai / gepa",
+      "url": "https://github.com/gepa-ai/gepa",
+      "description": "Optimize prompts, code, and more with AI-powered Reflective Optimization",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 5880,
-      "forks": 5013,
-      "added_stars": "8 stars today"
+      "stars": 6028,
+      "forks": 498,
+      "added_stars": "17 stars today"
     },
     {
-      "title": "dscripka / openWakeWord",
-      "url": "https://github.com/dscripka/openWakeWord",
-      "description": "An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.",
+      "title": "datawhalechina / happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
+      "description": "📚 从零开始构建大模型",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 2632,
-      "forks": 318,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "NirDiamant / GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
-      "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 23664,
-      "forks": 3976,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "NirDiamant / agents-towards-production",
-      "url": "https://github.com/NirDiamant/agents-towards-production",
-      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 21251,
-      "forks": 2818,
-      "added_stars": "11 stars today"
+      "stars": 32723,
+      "forks": 3102,
+      "added_stars": "24 stars today"
     },
     {
       "title": "facebookresearch / segment-anything",
@@ -151,38 +101,28 @@
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
       "stars": 54658,
-      "forks": 6353,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "DataTalksClub / llm-zoomcamp",
-      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
-      "description": "LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 6995,
-      "forks": 1282,
+      "forks": 6354,
       "added_stars": "6 stars today"
     },
     {
-      "title": "langchain-ai / langchain-academy",
-      "url": "https://github.com/langchain-ai/langchain-academy",
-      "description": "",
+      "title": "microsoft / fabric-samples",
+      "url": "https://github.com/microsoft/fabric-samples",
+      "description": "Samples and data for Microsoft Fabric Learn content",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 2792,
-      "forks": 1820,
-      "added_stars": "2 stars today"
+      "stars": 608,
+      "forks": 510,
+      "added_stars": "1 star today"
     },
     {
-      "title": "Lordog / dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "title": "patchy631 / ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 48138,
-      "forks": 5766,
-      "added_stars": "174 stars today"
+      "stars": 36889,
+      "forks": 6092,
+      "added_stars": "10 stars today"
     },
     {
       "title": "PolymathicAI / the_well",
@@ -190,8 +130,48 @@
       "description": "A 15TB Collection of Physics Simulation Datasets",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 4308,
-      "forks": 549,
+      "stars": 4317,
+      "forks": 550,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "anthropics / courses",
+      "url": "https://github.com/anthropics/courses",
+      "description": "Anthropic's educational courses",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 22554,
+      "forks": 2423,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "UFund-Me / Qbot",
+      "url": "https://github.com/UFund-Me/Qbot",
+      "description": "[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini: https://github.com/Charmve/iQuant",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 18276,
+      "forks": 2573,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "Lifelong-Robot-Learning / LIBERO",
+      "url": "https://github.com/Lifelong-Robot-Learning/LIBERO",
+      "description": "Benchmarking Knowledge Transfer in Lifelong Robot Learning",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 2158,
+      "forks": 452,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "openai / openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 75162,
+      "forks": 12698,
       "added_stars": "16 stars today"
     }
   ]

@@ -2,8 +2,28 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
+    {
+      "title": "argoproj / argocd-example-apps",
+      "url": "https://github.com/argoproj/argocd-example-apps",
+      "description": "Example Apps to Demonstrate Argo CD",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 2154,
+      "forks": 10185,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "kubernetes-monitoring / kubernetes-mixin",
+      "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
+      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 2435,
+      "forks": 640,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "prometheus-operator / kube-prometheus",
       "url": "https://github.com/prometheus-operator/kube-prometheus",
@@ -12,37 +32,7 @@
       "languageColor": "#0064bd",
       "stars": 7716,
       "forks": 2043,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "argoproj / argocd-example-apps",
-      "url": "https://github.com/argoproj/argocd-example-apps",
-      "description": "Example Apps to Demonstrate Argo CD",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 2154,
-      "forks": 10181,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "kubernetes-monitoring / kubernetes-mixin",
-      "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
-      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 2434,
-      "forks": 640,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "google / jsonnet",
-      "url": "https://github.com/google/jsonnet",
-      "description": "Jsonnet - The data templating language",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 7549,
-      "forks": 472,
-      "added_stars": "1 star today"
     }
   ]
 }

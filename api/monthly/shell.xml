@@ -4,7 +4,7 @@
   <title>GitHub Shell Languages Daily Trending</title>
   <description>Daily Trending of Shell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>mattpocock / skills</title>
     <link>https://github.com/mattpocock/skills</link>
@@ -16,24 +16,14 @@
     <description>Skills for teaching agents how to build on Cloudflare.</description>
   </item>
   <item>
-    <title>pystardust / ani-cli</title>
-    <link>https://github.com/pystardust/ani-cli</link>
-    <description>A cli tool to browse and play anime</description>
-  </item>
-  <item>
-    <title>Astrosp / Awesome-OSINT-List</title>
-    <link>https://github.com/Astrosp/Awesome-OSINT-List</link>
-    <description>📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust &amp; safety, AI.</description>
-  </item>
-  <item>
     <title>basecamp / omarchy</title>
     <link>https://github.com/basecamp/omarchy</link>
     <description>Beautiful, Modern &amp; Opinionated Linux</description>
   </item>
   <item>
-    <title>tw93 / Mole</title>
-    <link>https://github.com/tw93/Mole</link>
-    <description>🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.</description>
+    <title>pystardust / ani-cli</title>
+    <link>https://github.com/pystardust/ani-cli</link>
+    <description>A cli tool to browse and play anime</description>
   </item>
   <item>
     <title>nvm-sh / nvm</title>
@@ -46,14 +36,19 @@
     <description>🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</description>
   </item>
   <item>
+    <title>termux / termux-packages</title>
+    <link>https://github.com/termux/termux-packages</link>
+    <description>A package build system for Termux.</description>
+  </item>
+  <item>
     <title>obra / superpowers</title>
     <link>https://github.com/obra/superpowers</link>
     <description>An agentic skills framework &amp; software development methodology that works.</description>
   </item>
   <item>
-    <title>termux / termux-packages</title>
-    <link>https://github.com/termux/termux-packages</link>
-    <description>A package build system for Termux.</description>
+    <title>n8n-io / skills</title>
+    <link>https://github.com/n8n-io/skills</link>
+    <description></description>
   </item>
   <item>
     <title>themactep / thingino-firmware</title>
@@ -61,9 +56,9 @@
     <description>Open-source firmware for Ingenic SoC IP cameras</description>
   </item>
   <item>
-    <title>n8n-io / skills</title>
-    <link>https://github.com/n8n-io/skills</link>
-    <description></description>
+    <title>Astrosp / Awesome-OSINT-List</title>
+    <link>https://github.com/Astrosp/Awesome-OSINT-List</link>
+    <description>📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust &amp; safety, AI.</description>
   </item>
   <item>
     <title>1N3 / Sn1per</title>
@@ -74,16 +69,6 @@
     <title>jqssun / android-titanium-browser</title>
     <link>https://github.com/jqssun/android-titanium-browser</link>
     <description>Secure open-source Android browser with support for extensions</description>
-  </item>
-  <item>
-    <title>fujibee / agmsg</title>
-    <link>https://github.com/fujibee/agmsg</link>
-    <description>Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini &amp; Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.</description>
-  </item>
-  <item>
-    <title>a2aproject / A2A</title>
-    <link>https://github.com/a2aproject/A2A</link>
-    <description>Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.</description>
   </item>
 </channel>
 </rss>

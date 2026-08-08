@@ -2,7 +2,7 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "permissionlesstech / bitchat",
@@ -10,9 +10,9 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 34678,
-      "forks": 5533,
-      "added_stars": "8,701 stars this month"
+      "stars": 34741,
+      "forks": 5546,
+      "added_stars": "8,777 stars this month"
     },
     {
       "title": "diegosouzapw / OmniRoute",
@@ -20,9 +20,9 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 41815,
-      "forks": 5545,
-      "added_stars": "29,383 stars this month"
+      "stars": 42626,
+      "forks": 5680,
+      "added_stars": "29,603 stars this month"
     },
     {
       "title": "stablyai / orca",
@@ -30,19 +30,9 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 39094,
-      "forks": 2754,
-      "added_stars": "26,353 stars this month"
-    },
-    {
-      "title": "emilkowalski / skills",
-      "url": "https://github.com/emilkowalski/skills",
-      "description": "Skills for Designers and Engineers.",
-      "language": "all",
-      "languageColor": null,
-      "stars": 26455,
-      "forks": 1429,
-      "added_stars": "21,162 stars this month"
+      "stars": 39728,
+      "forks": 2792,
+      "added_stars": "26,566 stars this month"
     },
     {
       "title": "koala73 / worldmonitor",
@@ -50,9 +40,19 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 79443,
-      "forks": 11877,
-      "added_stars": "18,274 stars this month"
+      "stars": 79711,
+      "forks": 11908,
+      "added_stars": "18,482 stars this month"
+    },
+    {
+      "title": "emilkowalski / skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "description": "Skills for Designers and Engineers.",
+      "language": "all",
+      "languageColor": null,
+      "stars": 26940,
+      "forks": 1468,
+      "added_stars": "21,584 stars this month"
     },
     {
       "title": "Nutlope / hallmark",
@@ -60,9 +60,9 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 22360,
-      "forks": 1138,
-      "added_stars": "18,764 stars this month"
+      "stars": 22598,
+      "forks": 1147,
+      "added_stars": "19,043 stars this month"
     },
     {
       "title": "tt-a1i / archify",
@@ -70,19 +70,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 9911,
-      "forks": 778,
-      "added_stars": "7,074 stars this month"
-    },
-    {
-      "title": "huggingface / speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "description": "Build local voice agents with open-source models",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 11456,
-      "forks": 1422,
-      "added_stars": "6,090 stars this month"
+      "stars": 10175,
+      "forks": 793,
+      "added_stars": "7,289 stars this month"
     },
     {
       "title": "1jehuang / jcode",
@@ -90,29 +80,19 @@
       "description": "The most RAM efficient harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16237,
-      "forks": 1825,
-      "added_stars": "8,110 stars this month"
+      "stars": 16366,
+      "forks": 1838,
+      "added_stars": "8,216 stars this month"
     },
     {
-      "title": "iOfficeAI / OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "languageColor": "#178600",
-      "stars": 26250,
-      "forks": 1767,
-      "added_stars": "17,847 stars this month"
-    },
-    {
-      "title": "wonderwhy-er / DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 9234,
-      "forks": 1115,
-      "added_stars": "3,118 stars this month"
+      "title": "huggingface / speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11593,
+      "forks": 1433,
+      "added_stars": "6,147 stars this month"
     },
     {
       "title": "HKUDS / DeepTutor",
@@ -120,39 +100,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32795,
-      "forks": 4277,
-      "added_stars": "7,645 stars this month"
-    },
-    {
-      "title": "MadsLorentzen / ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 30565,
-      "forks": 10402,
-      "added_stars": "23,601 stars this month"
-    },
-    {
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 131143,
-      "forks": 19336,
-      "added_stars": "14,892 stars this month"
-    },
-    {
-      "title": "OpenCut-app / OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 81357,
-      "forks": 8060,
-      "added_stars": "20,061 stars this month"
+      "stars": 33022,
+      "forks": 4288,
+      "added_stars": "7,778 stars this month"
     },
     {
       "title": "microsoft / AI-For-Beginners",
@@ -160,19 +110,19 @@
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 62797,
-      "forks": 12193,
-      "added_stars": "10,946 stars this month"
+      "stars": 63233,
+      "forks": 12258,
+      "added_stars": "11,438 stars this month"
     },
     {
-      "title": "pbakaus / impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 56368,
-      "forks": 3426,
-      "added_stars": "12,655 stars this month"
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 131347,
+      "forks": 19359,
+      "added_stars": "15,067 stars this month"
     },
     {
       "title": "pingdotgg / t3code",
@@ -180,19 +130,29 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 17048,
-      "forks": 3837,
-      "added_stars": "3,746 stars this month"
+      "stars": 17269,
+      "forks": 3893,
+      "added_stars": "3,919 stars this month"
     },
     {
-      "title": "every-app / open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
+      "title": "OpenCut-app / OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10762,
-      "forks": 1234,
-      "added_stars": "6,602 stars this month"
+      "stars": 81562,
+      "forks": 8079,
+      "added_stars": "20,187 stars this month"
+    },
+    {
+      "title": "wonderwhy-er / DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 9262,
+      "forks": 1116,
+      "added_stars": "3,139 stars this month"
     },
     {
       "title": "zhaoxuya520 / reverse-skill",
@@ -200,29 +160,39 @@
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 19981,
-      "forks": 2735,
-      "added_stars": "12,319 stars this month"
+      "stars": 20601,
+      "forks": 2840,
+      "added_stars": "12,996 stars this month"
     },
     {
-      "title": "HKUDS / Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 30085,
-      "forks": 4848,
-      "added_stars": "12,134 stars this month"
+      "title": "iOfficeAI / OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "languageColor": "#178600",
+      "stars": 26566,
+      "forks": 1797,
+      "added_stars": "17,141 stars this month"
     },
     {
-      "title": "bradautomates / claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 14311,
-      "forks": 1375,
-      "added_stars": "10,428 stars this month"
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 56753,
+      "forks": 3459,
+      "added_stars": "12,795 stars this month"
+    },
+    {
+      "title": "every-app / open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 10867,
+      "forks": 1245,
+      "added_stars": "6,711 stars this month"
     },
     {
       "title": "tirth8205 / code-review-graph",
@@ -230,9 +200,39 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 29116,
-      "forks": 2687,
-      "added_stars": "9,787 stars this month"
+      "stars": 29366,
+      "forks": 2695,
+      "added_stars": "10,208 stars this month"
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 208960,
+      "forks": 18041,
+      "added_stars": "49,783 stars this month"
+    },
+    {
+      "title": "HKUDS / Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 30260,
+      "forks": 4871,
+      "added_stars": "12,068 stars this month"
+    },
+    {
+      "title": "bradautomates / claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 14464,
+      "forks": 1388,
+      "added_stars": "9,642 stars this month"
     }
   ]
 }

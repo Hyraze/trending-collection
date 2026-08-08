@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "kem-a / AppManager",
@@ -10,9 +10,9 @@
       "description": "MacOS style AppImage installer and management application",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1333,
-      "forks": 27,
-      "added_stars": "91 stars this week"
+      "stars": 1349,
+      "forks": 29,
+      "added_stars": "105 stars this week"
     },
     {
       "title": "linuxmint / timeshift",
@@ -20,18 +20,18 @@
       "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 4218,
+      "stars": 4219,
       "forks": 151,
-      "added_stars": "16 stars this week"
+      "added_stars": "15 stars this week"
     },
     {
-      "title": "tkashkin / GameHub",
-      "url": "https://github.com/tkashkin/GameHub",
-      "description": "All your games in one place",
+      "title": "ErikReider / SwayNotificationCenter",
+      "url": "https://github.com/ErikReider/SwayNotificationCenter",
+      "description": "A simple GTK based notification daemon for any Wayland compositor",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 2822,
-      "forks": 206,
+      "stars": 2552,
+      "forks": 98,
       "added_stars": "7 stars this week"
     },
     {
@@ -40,29 +40,9 @@
       "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 5517,
-      "forks": 319,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "christianloopp / komorebi",
-      "url": "https://github.com/christianloopp/komorebi",
-      "description": "A beautiful and customizable wallpapers manager for Linux",
-      "language": "Vala",
-      "languageColor": "#a56de2",
-      "stars": 3749,
-      "forks": 256,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "ErikReider / SwayNotificationCenter",
-      "url": "https://github.com/ErikReider/SwayNotificationCenter",
-      "description": "A simple GTK based notification daemon for any Wayland compositor",
-      "language": "Vala",
-      "languageColor": "#a56de2",
-      "stars": 2551,
-      "forks": 98,
-      "added_stars": "7 stars this week"
+      "stars": 5547,
+      "forks": 321,
+      "added_stars": "37 stars this week"
     },
     {
       "title": "BuddiesOfBudgie / budgie-desktop",
@@ -75,14 +55,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "Vysp3r / ProtonPlus",
-      "url": "https://github.com/Vysp3r/ProtonPlus",
-      "description": "A modern compatibility tools manager",
+      "title": "christianloopp / komorebi",
+      "url": "https://github.com/christianloopp/komorebi",
+      "description": "A beautiful and customizable wallpapers manager for Linux",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1655,
-      "forks": 50,
-      "added_stars": "11 stars this week"
+      "stars": 3749,
+      "forks": 256,
+      "added_stars": "4 stars this week"
     }
   ]
 }

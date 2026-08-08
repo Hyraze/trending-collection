@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "Mininglamp-OSS / octo-ios",
@@ -10,9 +10,9 @@
       "description": "OCTO iOS Client — Open-source enterprise IM",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 405,
-      "forks": 56,
-      "added_stars": "292 stars this month"
+      "stars": 433,
+      "forks": 59,
+      "added_stars": "317 stars this month"
     },
     {
       "title": "maderix / ANE",
@@ -20,7 +20,7 @@
       "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 7233,
+      "stars": 7234,
       "forks": 961,
       "added_stars": "315 stars this month"
     },
@@ -30,19 +30,9 @@
       "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 10638,
-      "forks": 385,
-      "added_stars": "278 stars this month"
-    },
-    {
-      "title": "sparkle-project / Sparkle",
-      "url": "https://github.com/sparkle-project/Sparkle",
-      "description": "A software update framework for macOS",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 9435,
-      "forks": 1125,
-      "added_stars": "188 stars this month"
+      "stars": 10647,
+      "forks": 387,
+      "added_stars": "279 stars this month"
     },
     {
       "title": "opa334 / TrollStore",
@@ -50,9 +40,19 @@
       "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 21893,
+      "stars": 21901,
       "forks": 1627,
-      "added_stars": "244 stars this month"
+      "added_stars": "234 stars this month"
+    },
+    {
+      "title": "sparkle-project / Sparkle",
+      "url": "https://github.com/sparkle-project/Sparkle",
+      "description": "A software update framework for macOS",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 9443,
+      "forks": 1125,
+      "added_stars": "189 stars this month"
     },
     {
       "title": "git-up / GitUp",
@@ -60,19 +60,9 @@
       "description": "The Git interface you've been missing all your life has finally arrived.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 12088,
-      "forks": 1484,
-      "added_stars": "67 stars this month"
-    },
-    {
-      "title": "realm / realm-swift",
-      "url": "https://github.com/realm/realm-swift",
-      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 16614,
-      "forks": 2237,
-      "added_stars": "15 stars this month"
+      "stars": 12089,
+      "forks": 1486,
+      "added_stars": "68 stars this month"
     },
     {
       "title": "PojavLauncherTeam / PojavLauncher_iOS",
@@ -81,18 +71,18 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 3203,
-      "forks": 1315,
-      "added_stars": "44 stars this month"
+      "forks": 1322,
+      "added_stars": "43 stars this month"
     },
     {
-      "title": "Hammerspoon / hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "description": "Staggeringly powerful macOS desktop automation with Lua",
+      "title": "realm / realm-swift",
+      "url": "https://github.com/realm/realm-swift",
+      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 15869,
-      "forks": 707,
-      "added_stars": "189 stars this month"
+      "stars": 16615,
+      "forks": 2237,
+      "added_stars": "16 stars this month"
     },
     {
       "title": "gnachman / iTerm2",
@@ -100,9 +90,29 @@
       "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 17911,
-      "forks": 1452,
+      "stars": 17913,
+      "forks": 1453,
       "added_stars": "143 stars this month"
+    },
+    {
+      "title": "objective-see / LuLu",
+      "url": "https://github.com/objective-see/LuLu",
+      "description": "LuLu is the free open-source macOS firewall",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 13028,
+      "forks": 589,
+      "added_stars": "150 stars this month"
+    },
+    {
+      "title": "Hammerspoon / hammerspoon",
+      "url": "https://github.com/Hammerspoon/hammerspoon",
+      "description": "Staggeringly powerful macOS desktop automation with Lua",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 15895,
+      "forks": 707,
+      "added_stars": "221 stars this month"
     },
     {
       "title": "google / GoogleUtilities",
@@ -125,16 +135,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "google / promises",
-      "url": "https://github.com/google/promises",
-      "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 3828,
-      "forks": 314,
-      "added_stars": "3 stars this month"
-    },
-    {
       "title": "google / gtm-session-fetcher",
       "url": "https://github.com/google/gtm-session-fetcher",
       "description": "Google Toolbox for Mac - Session Fetcher",
@@ -145,13 +145,23 @@
       "added_stars": "4 stars this month"
     },
     {
+      "title": "google / promises",
+      "url": "https://github.com/google/promises",
+      "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 3827,
+      "forks": 314,
+      "added_stars": "3 stars this month"
+    },
+    {
       "title": "openid / AppAuth-iOS",
       "url": "https://github.com/openid/AppAuth-iOS",
       "description": "iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 2020,
-      "forks": 858,
+      "forks": 859,
       "added_stars": "7 stars this month"
     },
     {
@@ -160,9 +170,9 @@
       "description": "Enables iOS and macOS apps to sign in with Google.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 736,
-      "forks": 277,
-      "added_stars": "8 stars this month"
+      "stars": 737,
+      "forks": 278,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "SDWebImage / SDWebImage",
@@ -170,9 +180,9 @@
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 25638,
+      "stars": 25639,
       "forks": 5961,
-      "added_stars": "16 stars this month"
+      "added_stars": "15 stars this month"
     },
     {
       "title": "adjust / ios_sdk",
@@ -185,16 +195,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "dcloudio / uni-app",
-      "url": "https://github.com/dcloudio/uni-app",
-      "description": "A cross-platform framework using Vue.js",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 41594,
-      "forks": 3709,
-      "added_stars": "76 stars this month"
-    },
-    {
       "title": "kstenerud / KSCrash",
       "url": "https://github.com/kstenerud/KSCrash",
       "description": "The Ultimate iOS Crash Reporter",
@@ -202,7 +202,7 @@
       "languageColor": "#438eff",
       "stars": 4476,
       "forks": 739,
-      "added_stars": "10 stars this month"
+      "added_stars": "9 stars this month"
     }
   ]
 }

@@ -2,67 +2,27 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
-      "title": "datawhalechina / vibe-vibe",
-      "url": "https://github.com/datawhalechina/vibe-vibe",
-      "description": "AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn",
+      "title": "autowarefoundation / autoware",
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 5874,
-      "forks": 473,
-      "added_stars": "5 stars today"
+      "stars": 11950,
+      "forks": 3678,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "laradock / laradock",
-      "url": "https://github.com/laradock/laradock",
-      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+      "title": "goldbergyoni / nodebestpractices",
+      "url": "https://github.com/goldbergyoni/nodebestpractices",
+      "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 12657,
-      "forks": 4360,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "vulhub / vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21088,
-      "forks": 4797,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "redhat-openshift-ecosystem / certified-operators",
-      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
-      "description": "Production catalog for Red Hat Certified Operator Bundles",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 82,
-      "forks": 647,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "dotnet / dotnet-docker",
-      "url": "https://github.com/dotnet/dotnet-docker",
-      "description": "Official container images for .NET",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 4859,
-      "forks": 1973,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "nordquant / dbt-student-repo",
-      "url": "https://github.com/nordquant/dbt-student-repo",
-      "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21,
-      "forks": 2853,
-      "added_stars": "0 stars today"
+      "stars": 105492,
+      "forks": 10710,
+      "added_stars": "6 stars today"
     },
     {
       "title": "streetsidesoftware / cspell-cli",
@@ -72,36 +32,6 @@
       "languageColor": "#384d54",
       "stars": 132,
       "forks": 12,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "autowarefoundation / autoware",
-      "url": "https://github.com/autowarefoundation/autoware",
-      "description": "Autoware - the world's leading open-source software project for autonomous driving",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 11949,
-      "forks": 3678,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "MicrosoftDocs / windows-powershell-docs",
-      "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
-      "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 502,
-      "forks": 632,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "kubernetes-sigs / contributor-playground",
-      "url": "https://github.com/kubernetes-sigs/contributor-playground",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 281,
-      "forks": 2056,
       "added_stars": "0 stars today"
     },
     {
@@ -110,48 +40,58 @@
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2548,
-      "forks": 303,
+      "stars": 2549,
+      "forks": 304,
       "added_stars": "1 star today"
     },
     {
-      "title": "aws-amplify / amplify-hosting",
-      "url": "https://github.com/aws-amplify/amplify-hosting",
-      "description": "AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.",
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 480,
-      "forks": 123,
+      "stars": 21094,
+      "forks": 4797,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "dotnet / dotnet-docker",
+      "url": "https://github.com/dotnet/dotnet-docker",
+      "description": "Official container images for .NET",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4860,
+      "forks": 1973,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "datawhalechina / vibe-vibe",
+      "url": "https://github.com/datawhalechina/vibe-vibe",
+      "description": "AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 5879,
+      "forks": 474,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "TechHutTV / homelab",
+      "url": "https://github.com/TechHutTV/homelab",
+      "description": "Homelab stacks, templates, and more fun resources!",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 3050,
+      "forks": 284,
       "added_stars": "0 stars today"
     },
     {
-      "title": "docker-library / python",
-      "url": "https://github.com/docker-library/python",
-      "description": "Docker Official Image packaging for Python",
+      "title": "nodejs / docker-node",
+      "url": "https://github.com/nodejs/docker-node",
+      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2770,
-      "forks": 1109,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "docker-library / php",
-      "url": "https://github.com/docker-library/php",
-      "description": "Docker Official Image packaging for PHP",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 4033,
-      "forks": 2015,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "piyushsachdeva / CKA-2024",
-      "url": "https://github.com/piyushsachdeva/CKA-2024",
-      "description": "This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 1132,
-      "forks": 1916,
+      "stars": 8578,
+      "forks": 1990,
       "added_stars": "0 stars today"
     }
   ]

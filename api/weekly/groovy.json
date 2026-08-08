@@ -2,7 +2,7 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "gradle / gradle",
@@ -10,9 +10,9 @@
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 18760,
+      "stars": 18765,
       "forks": 5340,
-      "added_stars": "28 stars this week"
+      "added_stars": "32 stars this week"
     },
     {
       "title": "nextflow-io / nextflow",
@@ -30,19 +30,9 @@
       "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 6254,
+      "stars": 6255,
       "forks": 984,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "gravitee-io / issues",
-      "url": "https://github.com/gravitee-io/issues",
-      "description": "Gravitee.io - API Platform - Issues",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 68,
-      "forks": 28,
-      "added_stars": "0 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "apache / grails-core",
@@ -53,6 +43,16 @@
       "stars": 2924,
       "forks": 973,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "gravitee-io / issues",
+      "url": "https://github.com/gravitee-io/issues",
+      "description": "Gravitee.io - API Platform - Issues",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 68,
+      "forks": 28,
+      "added_stars": "0 stars this week"
     }
   ]
 }

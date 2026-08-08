@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "tidyverse / dplyr",
@@ -10,7 +10,7 @@
       "description": "dplyr: A grammar of data manipulation",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5055,
+      "stars": 5056,
       "forks": 2123,
       "added_stars": "10 stars this week"
     },
@@ -20,9 +20,9 @@
       "description": "An implementation of the Grammar of Graphics in R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 6980,
+      "stars": 6981,
       "forks": 2129,
-      "added_stars": "9 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "satijalab / seurat",
@@ -41,7 +41,17 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 3906,
-      "forks": 1051,
+      "forks": 1050,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "rstudio / shiny",
+      "url": "https://github.com/rstudio/shiny",
+      "description": "Easy interactive web applications with R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5674,
+      "forks": 1889,
       "added_stars": "2 stars this week"
     },
     {
@@ -55,14 +65,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "rstudio / shiny",
-      "url": "https://github.com/rstudio/shiny",
-      "description": "Easy interactive web applications with R",
+      "title": "nflverse / nflverse-data",
+      "url": "https://github.com/nflverse/nflverse-data",
+      "description": "Automated nflverse data repository",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5674,
-      "forks": 1889,
-      "added_stars": "3 stars this week"
+      "stars": 374,
+      "forks": 39,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "jinworks / CellChat",
@@ -72,17 +82,7 @@
       "languageColor": "#198CE7",
       "stars": 645,
       "forks": 109,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "posit-dev / skills",
-      "url": "https://github.com/posit-dev/skills",
-      "description": "A collection of Claude Skills from Posit",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 461,
-      "forks": 38,
-      "added_stars": "14 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "hadley / r4ds",
@@ -90,29 +90,9 @@
       "description": "R for data science: a book",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5128,
-      "forks": 4435,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "swirldev / swirl_courses",
-      "url": "https://github.com/swirldev/swirl_courses",
-      "description": "🎓 A collection of interactive courses for the swirl R package.",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 4576,
-      "forks": 7201,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "nflverse / nflverse-data",
-      "url": "https://github.com/nflverse/nflverse-data",
-      "description": "Automated nflverse data repository",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 374,
-      "forks": 39,
-      "added_stars": "4 stars this week"
+      "stars": 5129,
+      "forks": 4433,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "sqjin / CellChat",
@@ -133,6 +113,26 @@
       "stars": 554,
       "forks": 173,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "posit-dev / skills",
+      "url": "https://github.com/posit-dev/skills",
+      "description": "A collection of Claude Skills from Posit",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 462,
+      "forks": 38,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "swirldev / swirl_courses",
+      "url": "https://github.com/swirldev/swirl_courses",
+      "description": "🎓 A collection of interactive courses for the swirl R package.",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 4578,
+      "forks": 7201,
+      "added_stars": "3 stars this week"
     }
   ]
 }

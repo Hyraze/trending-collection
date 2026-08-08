@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
       "title": "MetOffice / lfric_core",
@@ -15,13 +15,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "GEOS-ESM / MAPL",
-      "url": "https://github.com/GEOS-ESM/MAPL",
-      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
+      "title": "NGEET / fates",
+      "url": "https://github.com/NGEET/fates",
+      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 43,
-      "forks": 25,
+      "stars": 130,
+      "forks": 109,
       "added_stars": "0 stars today"
     },
     {
@@ -45,14 +45,44 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "title": "GEOS-ESM / MAPL",
+      "url": "https://github.com/GEOS-ESM/MAPL",
+      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1727,
-      "forks": 867,
+      "stars": 43,
+      "forks": 25,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 436,
+      "forks": 475,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "MPAS-Dev / MPAS-Model",
+      "url": "https://github.com/MPAS-Dev/MPAS-Model",
+      "description": "Repository for MPAS models and shared framework releases.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 311,
+      "forks": 416,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1651,
+      "forks": 391,
+      "added_stars": "2 stars today"
     },
     {
       "title": "OpenFAST / openfast",
@@ -62,26 +92,6 @@
       "languageColor": "#4d41b1",
       "stars": 944,
       "forks": 533,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1180,
-      "forks": 491,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "NGEET / fates",
-      "url": "https://github.com/NGEET/fates",
-      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 130,
-      "forks": 109,
       "added_stars": "0 stars today"
     }
   ]

@@ -2,27 +2,27 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
-      "title": "flutter / samples",
-      "url": "https://github.com/flutter/samples",
-      "description": "A collection of Flutter examples and demos",
+      "title": "AppFlowy-IO / AppFlowy",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy",
+      "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 19227,
-      "forks": 7868,
-      "added_stars": "1 star today"
+      "stars": 75070,
+      "forks": 5798,
+      "added_stars": "50 stars today"
     },
     {
-      "title": "TNT-Likely / BeeCount",
-      "url": "https://github.com/TNT-Likely/BeeCount",
-      "description": "Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebDAV/S3 sync · AI capture · MCP | 本地优先的跨端记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP",
+      "title": "flutter / agent-plugins",
+      "url": "https://github.com/flutter/agent-plugins",
+      "description": "",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 2054,
-      "forks": 277,
-      "added_stars": "3 stars today"
+      "stars": 2801,
+      "forks": 166,
+      "added_stars": "11 stars today"
     },
     {
       "title": "hiddify / hiddify-app",
@@ -30,8 +30,58 @@
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 31930,
-      "forks": 2918,
+      "stars": 31945,
+      "forks": 2919,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "ente / ente",
+      "url": "https://github.com/ente/ente",
+      "description": "💚 End-to-end encrypted cloud for everything.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 28200,
+      "forks": 1745,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "1812z / HyperIsland",
+      "url": "https://github.com/1812z/HyperIsland",
+      "description": "HyperOS 3 Dynamic Island Enhancer",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 418,
+      "forks": 38,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "localsend / localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 87019,
+      "forks": 4820,
+      "added_stars": "138 stars today"
+    },
+    {
+      "title": "Chevey339 / kelivo",
+      "url": "https://github.com/Chevey339/kelivo",
+      "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 3577,
+      "forks": 371,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "KRTirtho / spotube",
+      "url": "https://github.com/KRTirtho/spotube",
+      "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 48223,
+      "forks": 2239,
       "added_stars": "32 stars today"
     },
     {
@@ -40,9 +90,49 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 47890,
-      "forks": 3022,
-      "added_stars": "110 stars today"
+      "stars": 47978,
+      "forks": 3026,
+      "added_stars": "112 stars today"
+    },
+    {
+      "title": "KaringX / karing",
+      "url": "https://github.com/KaringX/karing",
+      "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 14138,
+      "forks": 1196,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "iebb / NekokoLPA2",
+      "url": "https://github.com/iebb/NekokoLPA2",
+      "description": "NekokoLPA2",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 290,
+      "forks": 22,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "gokadzev / Musify",
+      "url": "https://github.com/gokadzev/Musify",
+      "description": "Unlock the full potential of music: Stream effortlessly with one app!",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 4113,
+      "forks": 375,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "rrousselGit / riverpod",
+      "url": "https://github.com/rrousselGit/riverpod",
+      "description": "A reactive caching and data-binding framework. Riverpod makes working with asynchronous code a breeze.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 7361,
+      "forks": 1104,
+      "added_stars": "1 star today"
     },
     {
       "title": "bdero / flutter_scene",
@@ -50,129 +140,59 @@
       "description": "A realtime 3D engine for Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 627,
-      "forks": 59,
-      "added_stars": "31 stars today"
+      "stars": 634,
+      "forks": 60,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "ente / ente",
-      "url": "https://github.com/ente/ente",
-      "description": "💚 End-to-end encrypted cloud for everything.",
+      "title": "venera-app / venera",
+      "url": "https://github.com/venera-app/venera",
+      "description": "A comic app",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 28192,
-      "forks": 1746,
-      "added_stars": "22 stars today"
+      "stars": 10712,
+      "forks": 547,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "flutter / flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "title": "firebase / flutterfire",
+      "url": "https://github.com/firebase/flutterfire",
+      "description": "🔥 A collection of Firebase plugins for Flutter apps.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 178256,
-      "forks": 30934,
-      "added_stars": "34 stars today"
+      "stars": 9247,
+      "forks": 4103,
+      "added_stars": "1 star today"
     },
     {
-      "title": "wanghongenpin / proxypin",
-      "url": "https://github.com/wanghongenpin/proxypin",
-      "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
+      "title": "fluxerapp / flutter_client",
+      "url": "https://github.com/fluxerapp/flutter_client",
+      "description": "Official Fluxer Mobile client built on the Flutter framework.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 13676,
-      "forks": 1180,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "Chevey339 / kelivo",
-      "url": "https://github.com/Chevey339/kelivo",
-      "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 3559,
-      "forks": 368,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "UnboundTechCo / defyxVPN",
-      "url": "https://github.com/UnboundTechCo/defyxVPN",
-      "description": "A modern, secure VPN application built with Flutter that provides internet freedom and privacy protection.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 734,
-      "forks": 68,
+      "stars": 333,
+      "forks": 34,
       "added_stars": "6 stars today"
     },
     {
-      "title": "dart-lang / http",
-      "url": "https://github.com/dart-lang/http",
-      "description": "A composable API for making HTTP requests in Dart.",
+      "title": "TomBursch / kitchenowl",
+      "url": "https://github.com/TomBursch/kitchenowl",
+      "description": "KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 1105,
-      "forks": 417,
-      "added_stars": "0 stars today"
+      "stars": 3593,
+      "forks": 225,
+      "added_stars": "52 stars today"
     },
     {
-      "title": "getlantern / lantern",
-      "url": "https://github.com/getlantern/lantern",
-      "description": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
+      "title": "techjarves / Uncensored-Local-AI-Multiplatform",
+      "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
+      "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 15858,
-      "forks": 11067,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "dart-lang / sdk",
-      "url": "https://github.com/dart-lang/sdk",
-      "description": "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 11239,
-      "forks": 1851,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "jacobaraujo7 / remote_pi",
-      "url": "https://github.com/jacobaraujo7/remote_pi",
-      "description": "Control your Pi coding agent from your phone. Pair with a one-time QR code and chat with your local agent — even when you're away from your computer.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 180,
-      "forks": 49,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "flutter / website",
-      "url": "https://github.com/flutter/website",
-      "description": "Flutter documentation web site",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 3108,
-      "forks": 3479,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "flutter / packages",
-      "url": "https://github.com/flutter/packages",
-      "description": "A collection of useful packages maintained by the Flutter team",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 5269,
-      "forks": 3835,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "omnimind-ai / OmniBot",
-      "url": "https://github.com/omnimind-ai/OmniBot",
-      "description": "Your on-phone / mobile AI Agent / Claw, capable of operating terminals and performing a wide range of tasks in the Android world || 你的手机 AI 代理，她可以操作终端，也可以完成 Android 世界的广泛任务",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 1983,
-      "forks": 120,
-      "added_stars": "5 stars today"
+      "stars": 1003,
+      "forks": 218,
+      "added_stars": "7 stars today"
     }
   ]
 }

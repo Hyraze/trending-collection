@@ -2,37 +2,17 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
-    {
-      "title": "maderix / ANE",
-      "url": "https://github.com/maderix/ANE",
-      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 7233,
-      "forks": 961,
-      "added_stars": "15 stars this week"
-    },
-    {
-      "title": "opa334 / TrollStore",
-      "url": "https://github.com/opa334/TrollStore",
-      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 21893,
-      "forks": 1627,
-      "added_stars": "57 stars this week"
-    },
     {
       "title": "gnachman / iTerm2",
       "url": "https://github.com/gnachman/iTerm2",
       "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 17911,
-      "forks": 1452,
-      "added_stars": "29 stars this week"
+      "stars": 17913,
+      "forks": 1453,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "realm / realm-swift",
@@ -40,19 +20,19 @@
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 16614,
+      "stars": 16615,
       "forks": 2237,
-      "added_stars": "6 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
-      "title": "geode-sdk / ios-launcher",
-      "url": "https://github.com/geode-sdk/ios-launcher",
-      "description": "Manages installing and launching Geometry Dash for iOS",
+      "title": "opa334 / TrollStore",
+      "url": "https://github.com/opa334/TrollStore",
+      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 664,
-      "forks": 241,
-      "added_stars": "12 stars this week"
+      "stars": 21901,
+      "forks": 1627,
+      "added_stars": "57 stars this week"
     },
     {
       "title": "git-up / GitUp",
@@ -60,9 +40,29 @@
       "description": "The Git interface you've been missing all your life has finally arrived.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 12088,
-      "forks": 1484,
-      "added_stars": "10 stars this week"
+      "stars": 12089,
+      "forks": 1486,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "objective-see / LuLu",
+      "url": "https://github.com/objective-see/LuLu",
+      "description": "LuLu is the free open-source macOS firewall",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 13028,
+      "forks": 589,
+      "added_stars": "36 stars this week"
+    },
+    {
+      "title": "Mininglamp-OSS / octo-ios",
+      "url": "https://github.com/Mininglamp-OSS/octo-ios",
+      "description": "OCTO iOS Client — Open-source enterprise IM",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 433,
+      "forks": 59,
+      "added_stars": "74 stars this week"
     },
     {
       "title": "AFNetworking / AFNetworking",
@@ -70,19 +70,19 @@
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 33413,
+      "stars": 33412,
       "forks": 10602,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Hammerspoon / hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "description": "Staggeringly powerful macOS desktop automation with Lua",
+      "title": "geode-sdk / ios-launcher",
+      "url": "https://github.com/geode-sdk/ios-launcher",
+      "description": "Manages installing and launching Geometry Dash for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 15869,
-      "forks": 707,
-      "added_stars": "39 stars this week"
+      "stars": 665,
+      "forks": 241,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "google / GoogleDataTransport",
@@ -95,14 +95,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "BranchMetrics / ios-branch-sdk-spm",
-      "url": "https://github.com/BranchMetrics/ios-branch-sdk-spm",
-      "description": "Branch iOS SDK Swift Package Manager distribution",
+      "title": "amplitude / Amplitude-iOS",
+      "url": "https://github.com/amplitude/Amplitude-iOS",
+      "description": "Native iOS/tvOS/macOS SDK",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 27,
-      "forks": 18,
-      "added_stars": "0 stars this week"
+      "stars": 328,
+      "forks": 195,
+      "added_stars": "1 star this week"
     },
     {
       "title": "google / gtm-session-fetcher",
@@ -112,16 +112,16 @@
       "languageColor": "#438eff",
       "stars": 291,
       "forks": 196,
-      "added_stars": "3 stars this week"
+      "added_stars": "1 star this week"
     },
     {
-      "title": "amplitude / Amplitude-iOS",
-      "url": "https://github.com/amplitude/Amplitude-iOS",
-      "description": "Native iOS/tvOS/macOS SDK",
+      "title": "CocoaLumberjack / CocoaLumberjack",
+      "url": "https://github.com/CocoaLumberjack/CocoaLumberjack",
+      "description": "A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 327,
-      "forks": 195,
+      "stars": 13329,
+      "forks": 2274,
       "added_stars": "0 stars this week"
     },
     {
@@ -135,13 +135,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "onfido / onfido-ios-sdk",
-      "url": "https://github.com/onfido/onfido-ios-sdk",
-      "description": "A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.",
+      "title": "youtube / youtube-ios-player-helper",
+      "url": "https://github.com/youtube/youtube-ios-player-helper",
+      "description": "Lightweight helper library that allows iOS developers to add inline playback of YouTube videos through a WebView",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 109,
-      "forks": 57,
+      "stars": 1705,
+      "forks": 717,
       "added_stars": "0 stars this week"
     },
     {
@@ -150,19 +150,19 @@
       "description": "Snapshot view unit tests for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 1858,
+      "stars": 1859,
       "forks": 229,
       "added_stars": "3 stars this week"
     },
     {
-      "title": "PojavLauncherTeam / PojavLauncher_iOS",
-      "url": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS",
-      "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS",
+      "title": "SVProgressHUD / SVProgressHUD",
+      "url": "https://github.com/SVProgressHUD/SVProgressHUD",
+      "description": "A clean and lightweight progress HUD for your iOS and tvOS app.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 3203,
-      "forks": 1315,
-      "added_stars": "10 stars this week"
+      "stars": 12453,
+      "forks": 2666,
+      "added_stars": "0 stars this week"
     }
   ]
 }

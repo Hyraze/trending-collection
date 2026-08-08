@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "mattpocock / skills",
@@ -10,9 +10,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 207395,
-      "forks": 17911,
-      "added_stars": "49,283 stars this month"
+      "stars": 208961,
+      "forks": 18041,
+      "added_stars": "49,783 stars this month"
     },
     {
       "title": "cloudflare / skills",
@@ -20,29 +20,9 @@
       "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2565,
-      "forks": 240,
-      "added_stars": "509 stars this month"
-    },
-    {
-      "title": "pystardust / ani-cli",
-      "url": "https://github.com/pystardust/ani-cli",
-      "description": "A cli tool to browse and play anime",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 13446,
-      "forks": 852,
-      "added_stars": "430 stars this month"
-    },
-    {
-      "title": "Astrosp / Awesome-OSINT-List",
-      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
-      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 4126,
-      "forks": 538,
-      "added_stars": "477 stars this month"
+      "stars": 2575,
+      "forks": 242,
+      "added_stars": "515 stars this month"
     },
     {
       "title": "basecamp / omarchy",
@@ -50,19 +30,19 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 24360,
-      "forks": 2445,
-      "added_stars": "600 stars this month"
+      "stars": 24385,
+      "forks": 2453,
+      "added_stars": "619 stars this month"
     },
     {
-      "title": "tw93 / Mole",
-      "url": "https://github.com/tw93/Mole",
-      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
+      "title": "pystardust / ani-cli",
+      "url": "https://github.com/pystardust/ani-cli",
+      "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 62338,
-      "forks": 2196,
-      "added_stars": "4,378 stars this month"
+      "stars": 13453,
+      "forks": 853,
+      "added_stars": "421 stars this month"
     },
     {
       "title": "nvm-sh / nvm",
@@ -70,9 +50,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 94359,
-      "forks": 10322,
-      "added_stars": "463 stars this month"
+      "stars": 94368,
+      "forks": 10329,
+      "added_stars": "455 stars this month"
     },
     {
       "title": "ohmyzsh / ohmyzsh",
@@ -80,19 +60,9 @@
       "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 189075,
-      "forks": 26581,
-      "added_stars": "1,068 stars this month"
-    },
-    {
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 268220,
-      "forks": 23967,
-      "added_stars": "21,857 stars this month"
+      "stars": 189081,
+      "forks": 26579,
+      "added_stars": "1,051 stars this month"
     },
     {
       "title": "termux / termux-packages",
@@ -100,19 +70,19 @@
       "description": "A package build system for Termux.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 16735,
-      "forks": 4283,
-      "added_stars": "225 stars this month"
+      "stars": 16743,
+      "forks": 4282,
+      "added_stars": "226 stars this month"
     },
     {
-      "title": "themactep / thingino-firmware",
-      "url": "https://github.com/themactep/thingino-firmware",
-      "description": "Open-source firmware for Ingenic SoC IP cameras",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1990,
-      "forks": 283,
-      "added_stars": "223 stars this month"
+      "stars": 268800,
+      "forks": 24002,
+      "added_stars": "21,587 stars this month"
     },
     {
       "title": "n8n-io / skills",
@@ -120,9 +90,29 @@
       "description": "",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 412,
+      "stars": 415,
       "forks": 46,
       "added_stars": "118 stars this month"
+    },
+    {
+      "title": "themactep / thingino-firmware",
+      "url": "https://github.com/themactep/thingino-firmware",
+      "description": "Open-source firmware for Ingenic SoC IP cameras",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1999,
+      "forks": 283,
+      "added_stars": "226 stars this month"
+    },
+    {
+      "title": "Astrosp / Awesome-OSINT-List",
+      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
+      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4133,
+      "forks": 539,
+      "added_stars": "483 stars this month"
     },
     {
       "title": "1N3 / Sn1per",
@@ -130,9 +120,9 @@
       "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 10726,
-      "forks": 2139,
-      "added_stars": "470 stars this month"
+      "stars": 10734,
+      "forks": 2141,
+      "added_stars": "471 stars this month"
     },
     {
       "title": "jqssun / android-titanium-browser",
@@ -140,29 +130,9 @@
       "description": "Secure open-source Android browser with support for extensions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1894,
-      "forks": 70,
-      "added_stars": "519 stars this month"
-    },
-    {
-      "title": "fujibee / agmsg",
-      "url": "https://github.com/fujibee/agmsg",
-      "description": "Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1405,
-      "forks": 130,
-      "added_stars": "450 stars this month"
-    },
-    {
-      "title": "a2aproject / A2A",
-      "url": "https://github.com/a2aproject/A2A",
-      "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 25226,
-      "forks": 2551,
-      "added_stars": "613 stars this month"
+      "stars": 1910,
+      "forks": 71,
+      "added_stars": "524 stars this month"
     }
   ]
 }

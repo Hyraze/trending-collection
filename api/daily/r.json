@@ -2,28 +2,8 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
-    {
-      "title": "jinworks / CellChat",
-      "url": "https://github.com/jinworks/CellChat",
-      "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 645,
-      "forks": 109,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tidyverse / ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 6980,
-      "forks": 2129,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "satijalab / seurat",
       "url": "https://github.com/satijalab/seurat",
@@ -35,24 +15,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "posit-dev / skills",
-      "url": "https://github.com/posit-dev/skills",
-      "description": "A collection of Claude Skills from Posit",
+      "title": "jinworks / CellChat",
+      "url": "https://github.com/jinworks/CellChat",
+      "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 461,
-      "forks": 38,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "tidyverse / dplyr",
-      "url": "https://github.com/tidyverse/dplyr",
-      "description": "dplyr: A grammar of data manipulation",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5055,
-      "forks": 2123,
-      "added_stars": "1 star today"
+      "stars": 645,
+      "forks": 109,
+      "added_stars": "2 stars today"
     },
     {
       "title": "swirldev / swirl_courses",
@@ -60,19 +30,9 @@
       "description": "🎓 A collection of interactive courses for the swirl R package.",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 4576,
+      "stars": 4578,
       "forks": 7201,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "rstudio / renv",
-      "url": "https://github.com/rstudio/renv",
-      "description": "renv: Project environments for R.",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 1160,
-      "forks": 169,
-      "added_stars": "0 stars today"
     },
     {
       "title": "rdpeng / ProgrammingAssignment2",
@@ -81,7 +41,17 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 889,
-      "forks": 143390,
+      "forks": 143393,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "tidyverse / ggplot2",
+      "url": "https://github.com/tidyverse/ggplot2",
+      "description": "An implementation of the Grammar of Graphics in R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 6981,
+      "forks": 2129,
       "added_stars": "0 stars today"
     }
   ]

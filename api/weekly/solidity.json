@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -11,8 +11,38 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 27208,
-      "forks": 12403,
-      "added_stars": "21 stars this week"
+      "forks": 12401,
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "foundry-rs / forge-std",
+      "url": "https://github.com/foundry-rs/forge-std",
+      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1053,
+      "forks": 513,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "Uniswap / v4-periphery",
+      "url": "https://github.com/Uniswap/v4-periphery",
+      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 899,
+      "forks": 660,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "GNSPS / solidity-bytes-utils",
+      "url": "https://github.com/GNSPS/solidity-bytes-utils",
+      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 563,
+      "forks": 112,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "ethereum / ERCs",
@@ -25,14 +55,14 @@
       "added_stars": "7 stars this week"
     },
     {
-      "title": "foundry-rs / forge-std",
-      "url": "https://github.com/foundry-rs/forge-std",
-      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "title": "0xProject / 0x-settler",
+      "url": "https://github.com/0xProject/0x-settler",
+      "description": "0x settlement contracts using Permit2",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1051,
-      "forks": 513,
-      "added_stars": "0 stars this week"
+      "stars": 106,
+      "forks": 70,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -40,7 +70,7 @@
       "description": "ERC4626 Property Tests",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 220,
+      "stars": 221,
       "forks": 42,
       "added_stars": "0 stars this week"
     },
@@ -55,6 +85,26 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "OpenZeppelin / openzeppelin-foundry-upgrades",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades",
+      "description": "Foundry library for deploying and managing upgradeable contracts",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 257,
+      "forks": 42,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "Arachnid / solidity-stringutils",
+      "url": "https://github.com/Arachnid/solidity-stringutils",
+      "description": "Basic string utilities for Solidity",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1155,
+      "forks": 372,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "dapphub / ds-test",
       "url": "https://github.com/dapphub/ds-test",
       "description": "Assertions, equality checks and other test helpers",
@@ -65,24 +115,34 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "0xProject / 0x-settler",
-      "url": "https://github.com/0xProject/0x-settler",
-      "description": "0x settlement contracts using Permit2",
+      "title": "cowprotocol / contracts",
+      "url": "https://github.com/cowprotocol/contracts",
+      "description": "Smart contracts for CoW Protocol",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 105,
-      "forks": 69,
-      "added_stars": "2 stars this week"
+      "stars": 158,
+      "forks": 56,
+      "added_stars": "0 stars this week"
     },
     {
-      "title": "GNSPS / solidity-bytes-utils",
-      "url": "https://github.com/GNSPS/solidity-bytes-utils",
-      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 563,
-      "forks": 112,
-      "added_stars": "0 stars this week"
+      "stars": 2526,
+      "forks": 1310,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "Vectorized / solady",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 3347,
+      "forks": 483,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "morpho-org / vault-v2",
@@ -95,54 +155,14 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "Uniswap / v4-periphery",
-      "url": "https://github.com/Uniswap/v4-periphery",
-      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
+      "title": "across-protocol / contracts",
+      "url": "https://github.com/across-protocol/contracts",
+      "description": "Smart contracts for Across protocol",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 899,
-      "forks": 660,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "transmissions11 / solmate",
-      "url": "https://github.com/transmissions11/solmate",
-      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 4288,
-      "forks": 707,
+      "stars": 152,
+      "forks": 89,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "aave / aave-v4",
-      "url": "https://github.com/aave/aave-v4",
-      "description": "Aave V4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 195,
-      "forks": 112,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 2525,
-      "forks": 1310,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "succinctlabs / sp1-contracts",
-      "url": "https://github.com/succinctlabs/sp1-contracts",
-      "description": "Smart contracts for onchain verification of SP1.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 147,
-      "forks": 44,
-      "added_stars": "0 stars this week"
     }
   ]
 }

@@ -2,37 +2,27 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
-    {
-      "title": "leanprover / lean4",
-      "url": "https://github.com/leanprover/lean4",
-      "description": "Lean 4 programming language and theorem prover",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 8708,
-      "forks": 929,
-      "added_stars": "76 stars this week"
-    },
     {
       "title": "harbor-framework / terminal-bench-science",
       "url": "https://github.com/harbor-framework/terminal-bench-science",
       "description": "Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 237,
-      "forks": 191,
-      "added_stars": "15 stars this week"
+      "stars": 238,
+      "forks": 204,
+      "added_stars": "16 stars this week"
     },
     {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
+      "title": "leanprover / lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 3766,
-      "forks": 1566,
-      "added_stars": "43 stars this week"
+      "stars": 8713,
+      "forks": 930,
+      "added_stars": "76 stars this week"
     },
     {
       "title": "leanprover-community / mathlib3",
@@ -42,7 +32,7 @@
       "languageColor": "#ccc",
       "stars": 1665,
       "forks": 289,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "leanprover / verso",
@@ -50,9 +40,19 @@
       "description": "Lean documentation authoring tool",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 370,
-      "forks": 120,
-      "added_stars": "1 star this week"
+      "stars": 371,
+      "forks": 119,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 3776,
+      "forks": 1571,
+      "added_stars": "44 stars this week"
     },
     {
       "title": "leanprover-community / aesop",
@@ -65,64 +65,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "leanprover-community / quote4",
-      "url": "https://github.com/leanprover-community/quote4",
-      "description": "Intuitive, type-safe expression quotations for Lean 4.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 111,
-      "forks": 26,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "leanprover / lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 116,
-      "forks": 28,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "leanprover-community / plausible",
-      "url": "https://github.com/leanprover-community/plausible",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 112,
-      "forks": 28,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "leanprover-community / ProofWidgets4",
-      "url": "https://github.com/leanprover-community/ProofWidgets4",
-      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 221,
-      "forks": 46,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "leanprover-community / batteries",
       "url": "https://github.com/leanprover-community/batteries",
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 413,
-      "forks": 156,
+      "forks": 157,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "leanprover-community / LeanSearchClient",
-      "url": "https://github.com/leanprover-community/LeanSearchClient",
-      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 35,
-      "forks": 10,
-      "added_stars": "0 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "prometheus-community / helm-charts",
@@ -12,7 +12,7 @@
       "languageColor": "#724b3b",
       "stars": 6165,
       "forks": 5380,
-      "added_stars": "19 stars this month"
+      "added_stars": "18 stars this month"
     },
     {
       "title": "renovatebot / helm-charts",
@@ -35,24 +35,24 @@
       "added_stars": "26 stars this month"
     },
     {
-      "title": "amzn / selling-partner-api-models",
-      "url": "https://github.com/amzn/selling-partner-api-models",
-      "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 887,
-      "forks": 790,
-      "added_stars": "20 stars this month"
-    },
-    {
       "title": "argoproj / argo-helm",
       "url": "https://github.com/argoproj/argo-helm",
       "description": "ArgoProj Helm Charts",
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": 2339,
-      "forks": 2097,
-      "added_stars": "20 stars this month"
+      "forks": 2098,
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "amzn / selling-partner-api-models",
+      "url": "https://github.com/amzn/selling-partner-api-models",
+      "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 888,
+      "forks": 790,
+      "added_stars": "19 stars this month"
     },
     {
       "title": "aws / eks-charts",
@@ -83,16 +83,6 @@
       "stars": 554,
       "forks": 447,
       "added_stars": "6 stars this month"
-    },
-    {
-      "title": "goauthentik / helm",
-      "url": "https://github.com/goauthentik/helm",
-      "description": "Helm chart for authentik",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 181,
-      "forks": 67,
-      "added_stars": "3 stars this month"
     }
   ]
 }

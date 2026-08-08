@@ -2,7 +2,7 @@
   "title": "GitHub Mermaid Languages Daily Trending",
   "description": "Daily Trending of Mermaid Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "MicrosoftDocs / defender-docs",
@@ -30,29 +30,9 @@
       "description": "Open Source Azure AI documentation including, azure ai, azure studio, machine learning, genomics, open-datasets, and search",
       "language": "Mermaid",
       "languageColor": "#ff3670",
-      "stars": 164,
-      "forks": 491,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "MicrosoftDocs / SupportArticles-docs",
-      "url": "https://github.com/MicrosoftDocs/SupportArticles-docs",
-      "description": "A public version to sync with SupportArticles-docs-pr",
-      "language": "Mermaid",
-      "languageColor": "#ff3670",
-      "stars": 245,
-      "forks": 1199,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "MicrosoftDocs / powerbi-docs",
-      "url": "https://github.com/MicrosoftDocs/powerbi-docs",
-      "description": "",
-      "language": "Mermaid",
-      "languageColor": "#ff3670",
-      "stars": 586,
-      "forks": 980,
-      "added_stars": "4 stars this week"
+      "stars": 165,
+      "forks": 493,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "MicrosoftDocs / power-automate-docs",
@@ -65,13 +45,23 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "MicrosoftDocs / dynamics-365-unified-operations-public",
-      "url": "https://github.com/MicrosoftDocs/dynamics-365-unified-operations-public",
-      "description": "Documentation for Microsoft Dynamics 365 apps such as Dynamics 365 Finance, Dynamics 365 Commerce, Dynamics 365 Supply Chain Management, and Dynamics 365 Human Resources",
+      "title": "MicrosoftDocs / powerbi-docs",
+      "url": "https://github.com/MicrosoftDocs/powerbi-docs",
+      "description": "",
       "language": "Mermaid",
       "languageColor": "#ff3670",
-      "stars": 387,
-      "forks": 863,
+      "stars": 586,
+      "forks": 980,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "MicrosoftDocs / SupportArticles-docs",
+      "url": "https://github.com/MicrosoftDocs/SupportArticles-docs",
+      "description": "A public version to sync with SupportArticles-docs-pr",
+      "language": "Mermaid",
+      "languageColor": "#ff3670",
+      "stars": 245,
+      "forks": 1200,
       "added_stars": "0 stars this week"
     }
   ]

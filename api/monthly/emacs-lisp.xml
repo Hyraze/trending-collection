@@ -4,16 +4,16 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
-  <item>
-    <title>xenodium / agent-shell</title>
-    <link>https://github.com/xenodium/agent-shell</link>
-    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
-  </item>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>dakra / ghostel</title>
     <link>https://github.com/dakra/ghostel</link>
     <description>Terminal emulator powered by libghostty</description>
+  </item>
+  <item>
+    <title>xenodium / agent-shell</title>
+    <link>https://github.com/xenodium/agent-shell</link>
+    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
   </item>
   <item>
     <title>karthink / gptel</title>
@@ -21,19 +21,14 @@
     <description>A simple, extensible LLM client for Emacs</description>
   </item>
   <item>
-    <title>syl20bnr / spacemacs</title>
-    <link>https://github.com/syl20bnr/spacemacs</link>
-    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
-  </item>
-  <item>
     <title>doomemacs / core</title>
     <link>https://github.com/doomemacs/core</link>
     <description>An Emacs framework for the stubborn martian hacker</description>
   </item>
   <item>
-    <title>magit / magit</title>
-    <link>https://github.com/magit/magit</link>
-    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
+    <title>syl20bnr / spacemacs</title>
+    <link>https://github.com/syl20bnr/spacemacs</link>
+    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
   </item>
   <item>
     <title>emacs-mirror / emacs</title>
@@ -41,9 +36,9 @@
     <description>Mirror of GNU Emacs</description>
   </item>
   <item>
-    <title>melpa / melpa</title>
-    <link>https://github.com/melpa/melpa</link>
-    <description>Recipes and build machinery for the biggest Emacs package repo</description>
+    <title>magit / magit</title>
+    <link>https://github.com/magit/magit</link>
+    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
   </item>
   <item>
     <title>flycheck / flycheck</title>
@@ -51,29 +46,9 @@
     <description>On the fly syntax checking for GNU Emacs</description>
   </item>
   <item>
-    <title>doomemacs / modules</title>
-    <link>https://github.com/doomemacs/modules</link>
-    <description>Official module library for Doom Emacs</description>
-  </item>
-  <item>
-    <title>qjcg / awesome-typst</title>
-    <link>https://github.com/qjcg/awesome-typst</link>
-    <description>Awesome Typst Links</description>
-  </item>
-  <item>
-    <title>jrblevin / markdown-mode</title>
-    <link>https://github.com/jrblevin/markdown-mode</link>
-    <description>Emacs Markdown Mode</description>
-  </item>
-  <item>
-    <title>bbatsov / projectile</title>
-    <link>https://github.com/bbatsov/projectile</link>
-    <description>Project Interaction Library for Emacs</description>
-  </item>
-  <item>
-    <title>abo-abo / hydra</title>
-    <link>https://github.com/abo-abo/hydra</link>
-    <description>make Emacs bindings that stick around</description>
+    <title>melpa / melpa</title>
+    <link>https://github.com/melpa/melpa</link>
+    <description>Recipes and build machinery for the biggest Emacs package repo</description>
   </item>
   <item>
     <title>manzaltu / claude-code-ide.el</title>
@@ -81,19 +56,24 @@
     <description>Claude Code IDE integration for Emacs</description>
   </item>
   <item>
+    <title>qjcg / awesome-typst</title>
+    <link>https://github.com/qjcg/awesome-typst</link>
+    <description>Awesome Typst Links</description>
+  </item>
+  <item>
     <title>google-coral / coralnpu</title>
     <link>https://github.com/google-coral/coralnpu</link>
     <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
   </item>
   <item>
-    <title>abo-abo / ace-window</title>
-    <link>https://github.com/abo-abo/ace-window</link>
-    <description>Quickly switch windows in Emacs</description>
+    <title>doomemacs / modules</title>
+    <link>https://github.com/doomemacs/modules</link>
+    <description>Official module library for Doom Emacs</description>
   </item>
   <item>
-    <title>yoshiki / yaml-mode</title>
-    <link>https://github.com/yoshiki/yaml-mode</link>
-    <description>The emacs major mode for editing files in the YAML data serialization format.</description>
+    <title>dgutov / diff-hl</title>
+    <link>https://github.com/dgutov/diff-hl</link>
+    <description>Emacs package for highlighting uncommitted changes</description>
   </item>
 </channel>
 </rss>

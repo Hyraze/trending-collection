@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
       "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
@@ -10,49 +10,9 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2997,
+      "stars": 3005,
       "forks": 297,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "yurineko73 / Godot-MCP-Native",
-      "url": "https://github.com/yurineko73/Godot-MCP-Native",
-      "description": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 629,
-      "forks": 59,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "Orama-Interactive / Pixelorama",
-      "url": "https://github.com/Orama-Interactive/Pixelorama",
-      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 10060,
-      "forks": 533,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "GDQuest / learn-gdscript",
-      "url": "https://github.com/GDQuest/learn-gdscript",
-      "description": "Learn Godot's GDScript programming language from zero, right in your browser, for free.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 2753,
-      "forks": 234,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Maaack / Godot-Game-Template",
-      "url": "https://github.com/Maaack/Godot-Game-Template",
-      "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 1578,
-      "forks": 102,
-      "added_stars": "1 star today"
+      "added_stars": "8 stars today"
     },
     {
       "title": "godotengine / godot-demo-projects",
@@ -60,8 +20,48 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 9290,
-      "forks": 2206,
+      "stars": 9295,
+      "forks": 2207,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "ramokz / phantom-camera",
+      "url": "https://github.com/ramokz/phantom-camera",
+      "description": "A Camera addon for Godot 4. Inspired by Cinemachine.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 3497,
+      "forks": 134,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "hi-godot / godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 1491,
+      "forks": 95,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "dialogic-godot / dialogic",
+      "url": "https://github.com/dialogic-godot/dialogic",
+      "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 5886,
+      "forks": 341,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "youichi-uda / godot-mcp-pro",
+      "url": "https://github.com/youichi-uda/godot-mcp-pro",
+      "description": "162 MCP tools for AI-powered Godot 4 development. Scene, animation, 3D, physics, particles, audio, shader, input simulation, runtime analysis, navigation, testing & more. $15 one-time.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 553,
+      "forks": 73,
       "added_stars": "2 stars today"
     },
     {
@@ -70,39 +70,39 @@
       "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 5809,
+      "stars": 5810,
       "forks": 364,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "Orama-Interactive / Pixelorama",
+      "url": "https://github.com/Orama-Interactive/Pixelorama",
+      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 10066,
+      "forks": 533,
       "added_stars": "5 stars today"
     },
     {
-      "title": "gdquest-demos / godot-open-rpg",
-      "url": "https://github.com/gdquest-demos/godot-open-rpg",
-      "description": "Learn to create turn-based combat with this Open Source RPG demo ⚔",
+      "title": "yurineko73 / Godot-MCP-Native",
+      "url": "https://github.com/yurineko73/Godot-MCP-Native",
+      "description": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2918,
-      "forks": 350,
+      "stars": 637,
+      "forks": 60,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "mbrlabs / Lorien",
+      "url": "https://github.com/mbrlabs/Lorien",
+      "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 6755,
+      "forks": 304,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "Alexofp / BDCC",
-      "url": "https://github.com/Alexofp/BDCC",
-      "description": "Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 334,
-      "forks": 122,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hi-godot / godot-ai",
-      "url": "https://github.com/hi-godot/godot-ai",
-      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 1477,
-      "forks": 95,
-      "added_stars": "19 stars today"
     }
   ]
 }

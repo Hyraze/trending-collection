@@ -4,56 +4,56 @@
   <title>GitHub Ruby Languages Daily Trending</title>
   <description>Daily Trending of Ruby Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
-  <item>
-    <title>Homebrew / brew</title>
-    <link>https://github.com/Homebrew/brew</link>
-    <description>🍺 The Package Manager for Everywhere</description>
-  </item>
-  <item>
-    <title>Freika / dawarich</title>
-    <link>https://github.com/Freika/dawarich</link>
-    <description>Your favorite self-hostable alternative to Google Timeline (Google Location History)</description>
-  </item>
-  <item>
-    <title>DataDog / dd-trace-rb</title>
-    <link>https://github.com/DataDog/dd-trace-rb</link>
-    <description>Datadog&#x27;s client library for Ruby</description>
-  </item>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
     <title>opf / openproject</title>
     <link>https://github.com/opf/openproject</link>
     <description>OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub</description>
   </item>
   <item>
-    <title>ruby / rubygems</title>
-    <link>https://github.com/ruby/rubygems</link>
-    <description>Library packaging and distribution for Ruby.</description>
+    <title>mastodon / mastodon</title>
+    <link>https://github.com/mastodon/mastodon</link>
+    <description>Your self-hosted, globally interconnected microblogging community</description>
   </item>
   <item>
-    <title>rubocop / rubocop</title>
-    <link>https://github.com/rubocop/rubocop</link>
-    <description>A Ruby static code analyzer and formatter, based on the community Ruby style guide.</description>
+    <title>fastlane / fastlane</title>
+    <link>https://github.com/fastlane/fastlane</link>
+    <description>🚀 The easiest way to automate building and releasing your iOS and Android apps</description>
   </item>
   <item>
-    <title>googleapis / google-cloud-ruby</title>
-    <link>https://github.com/googleapis/google-cloud-ruby</link>
-    <description>Google Cloud Client Library for Ruby</description>
+    <title>discourse / discourse</title>
+    <link>https://github.com/discourse/discourse</link>
+    <description>A platform for community discussion. Free, open, simple.</description>
+  </item>
+  <item>
+    <title>midudev / autoskills</title>
+    <link>https://github.com/midudev/autoskills</link>
+    <description>One command. Your entire AI skill stack. Installed.</description>
+  </item>
+  <item>
+    <title>antiwork / gumroad</title>
+    <link>https://github.com/antiwork/gumroad</link>
+    <description>See what sticks</description>
+  </item>
+  <item>
+    <title>docusealco / docuseal</title>
+    <link>https://github.com/docusealco/docuseal</link>
+    <description>Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</description>
+  </item>
+  <item>
+    <title>gitlabhq / gitlabhq</title>
+    <link>https://github.com/gitlabhq/gitlabhq</link>
+    <description>GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com</description>
+  </item>
+  <item>
+    <title>ruby / ruby</title>
+    <link>https://github.com/ruby/ruby</link>
+    <description>The Ruby Programming Language</description>
   </item>
   <item>
     <title>Homebrew / homebrew-cask</title>
     <link>https://github.com/Homebrew/homebrew-cask</link>
     <description>🍻 A CLI workflow for the administration of macOS applications distributed as binaries</description>
-  </item>
-  <item>
-    <title>chef / chef</title>
-    <link>https://github.com/chef/chef</link>
-    <description>Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale</description>
-  </item>
-  <item>
-    <title>rubysec / ruby-advisory-db</title>
-    <link>https://github.com/rubysec/ruby-advisory-db</link>
-    <description>A database of vulnerable Ruby Gems</description>
   </item>
   <item>
     <title>Homebrew / homebrew-core</title>
@@ -66,34 +66,19 @@
     <description>Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.</description>
   </item>
   <item>
-    <title>fastlane / fastlane</title>
-    <link>https://github.com/fastlane/fastlane</link>
-    <description>🚀 The easiest way to automate building and releasing your iOS and Android apps</description>
+    <title>github-linguist / linguist</title>
+    <link>https://github.com/github-linguist/linguist</link>
+    <description>Language Savant. If your repository&#x27;s language is being reported incorrectly, send us a pull request!</description>
   </item>
   <item>
-    <title>rapid7 / metasploit-framework</title>
-    <link>https://github.com/rapid7/metasploit-framework</link>
-    <description>Metasploit Framework</description>
+    <title>rubysec / ruby-advisory-db</title>
+    <link>https://github.com/rubysec/ruby-advisory-db</link>
+    <description>A database of vulnerable Ruby Gems</description>
   </item>
   <item>
-    <title>hashicorp / vagrant</title>
-    <link>https://github.com/hashicorp/vagrant</link>
-    <description>Vagrant is a tool for building and distributing development environments.</description>
-  </item>
-  <item>
-    <title>sidekiq / sidekiq</title>
-    <link>https://github.com/sidekiq/sidekiq</link>
-    <description>Simple, efficient background processing for Ruby</description>
-  </item>
-  <item>
-    <title>mastodon / mastodon</title>
-    <link>https://github.com/mastodon/mastodon</link>
-    <description>Your self-hosted, globally interconnected microblogging community</description>
-  </item>
-  <item>
-    <title>dependabot / dependabot-core</title>
-    <link>https://github.com/dependabot/dependabot-core</link>
-    <description>🤖 Dependabot&#x27;s core logic for creating update PRs.</description>
+    <title>zammad / zammad</title>
+    <link>https://github.com/zammad/zammad</link>
+    <description>Zammad is a web based open source helpdesk/customer support system.</description>
   </item>
   <item>
     <title>DataDog / datadog-api-client-ruby</title>
@@ -101,9 +86,14 @@
     <description>Ruby client for the Datadog API</description>
   </item>
   <item>
-    <title>discourse / discourse</title>
-    <link>https://github.com/discourse/discourse</link>
-    <description>A platform for community discussion. Free, open, simple.</description>
+    <title>solidusio / solidus</title>
+    <link>https://github.com/solidusio/solidus</link>
+    <description>🛒 Solidus, the open-source eCommerce framework for industry trailblazers.</description>
+  </item>
+  <item>
+    <title>18F / identity-idp</title>
+    <link>https://github.com/18F/identity-idp</link>
+    <description>Login.gov Core App: Identity Provider (IdP)</description>
   </item>
 </channel>
 </rss>

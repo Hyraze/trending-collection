@@ -4,91 +4,11 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
     <title>github / copilot.vim</title>
     <link>https://github.com/github/copilot.vim</link>
     <description>Neovim plugin for GitHub Copilot</description>
-  </item>
-  <item>
-    <title>vim / vim</title>
-    <link>https://github.com/vim/vim</link>
-    <description>The official Vim repository</description>
-  </item>
-  <item>
-    <title>neovim / neovim</title>
-    <link>https://github.com/neovim/neovim</link>
-    <description>Vim-fork focused on extensibility and usability</description>
-  </item>
-  <item>
-    <title>VundleVim / Vundle.vim</title>
-    <link>https://github.com/VundleVim/Vundle.vim</link>
-    <description>Vundle, the plug-in manager for Vim</description>
-  </item>
-  <item>
-    <title>junegunn / vim-plug</title>
-    <link>https://github.com/junegunn/vim-plug</link>
-    <description>🌺 Minimalist Vim Plugin Manager</description>
-  </item>
-  <item>
-    <title>preservim / tagbar</title>
-    <link>https://github.com/preservim/tagbar</link>
-    <description>Vim plugin that displays tags in a window, ordered by scope</description>
-  </item>
-  <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
-  </item>
-  <item>
-    <title>dense-analysis / ale</title>
-    <link>https://github.com/dense-analysis/ale</link>
-    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
-  </item>
-  <item>
-    <title>editorconfig / editorconfig-vim</title>
-    <link>https://github.com/editorconfig/editorconfig-vim</link>
-    <description>EditorConfig plugin for Vim</description>
-  </item>
-  <item>
-    <title>tpope / vim-sensible</title>
-    <link>https://github.com/tpope/vim-sensible</link>
-    <description>sensible.vim: Defaults everyone can agree on</description>
-  </item>
-  <item>
-    <title>pangloss / vim-javascript</title>
-    <link>https://github.com/pangloss/vim-javascript</link>
-    <description>Vastly improved Javascript indentation and syntax support in Vim.</description>
-  </item>
-  <item>
-    <title>altercation / vim-colors-solarized</title>
-    <link>https://github.com/altercation/vim-colors-solarized</link>
-    <description>precision colorscheme for the vim text editor</description>
-  </item>
-  <item>
-    <title>junegunn / vim-easy-align</title>
-    <link>https://github.com/junegunn/vim-easy-align</link>
-    <description>🌻 A Vim alignment plugin</description>
-  </item>
-  <item>
-    <title>sainnhe / everforest</title>
-    <link>https://github.com/sainnhe/everforest</link>
-    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
-  </item>
-  <item>
-    <title>ggml-org / llama.vim</title>
-    <link>https://github.com/ggml-org/llama.vim</link>
-    <description>Vim plugin for LLM-assisted code/text completion</description>
-  </item>
-  <item>
-    <title>Yggdroot / indentLine</title>
-    <link>https://github.com/Yggdroot/indentLine</link>
-    <description>A vim plugin to display the indention levels with thin vertical lines</description>
-  </item>
-  <item>
-    <title>morhetz / gruvbox</title>
-    <link>https://github.com/morhetz/gruvbox</link>
-    <description>Retro groove color scheme for Vim</description>
   </item>
   <item>
     <title>tpope / vim-commentary</title>
@@ -96,24 +16,49 @@
     <description>commentary.vim: comment stuff out</description>
   </item>
   <item>
-    <title>tpope / vim-unimpaired</title>
-    <link>https://github.com/tpope/vim-unimpaired</link>
-    <description>unimpaired.vim: Pairs of handy bracket mappings</description>
+    <title>sainnhe / everforest</title>
+    <link>https://github.com/sainnhe/everforest</link>
+    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
-    <title>preservim / nerdcommenter</title>
-    <link>https://github.com/preservim/nerdcommenter</link>
-    <description>Vim plugin for intensely nerdy commenting powers</description>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
-    <title>mattn / vim-lsp-settings</title>
-    <link>https://github.com/mattn/vim-lsp-settings</link>
-    <description>Auto configurations for Language Server for vim-lsp</description>
+    <title>preservim / vim-markdown</title>
+    <link>https://github.com/preservim/vim-markdown</link>
+    <description>Markdown Vim Mode</description>
   </item>
   <item>
-    <title>hrsh7th / vim-vsnip</title>
-    <link>https://github.com/hrsh7th/vim-vsnip</link>
-    <description>Snippet plugin for vim/nvim that supports LSP/VSCode&#x27;s snippet format.</description>
+    <title>neovim / neovim</title>
+    <link>https://github.com/neovim/neovim</link>
+    <description>Vim-fork focused on extensibility and usability</description>
+  </item>
+  <item>
+    <title>vim / vim</title>
+    <link>https://github.com/vim/vim</link>
+    <description>The official Vim repository</description>
+  </item>
+  <item>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
+  </item>
+  <item>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
+  </item>
+  <item>
+    <title>preservim / tagbar</title>
+    <link>https://github.com/preservim/tagbar</link>
+    <description>Vim plugin that displays tags in a window, ordered by scope</description>
+  </item>
+  <item>
+    <title>mhinz / vim-signify</title>
+    <link>https://github.com/mhinz/vim-signify</link>
+    <description>➕ Show a diff using Vim its sign column.</description>
   </item>
 </channel>
 </rss>

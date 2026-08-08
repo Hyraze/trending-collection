@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "syl20bnr / spacemacs",
@@ -10,9 +10,9 @@
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 24575,
+      "stars": 24576,
       "forks": 4837,
-      "added_stars": "6 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "karthink / gptel",
@@ -20,19 +20,9 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3470,
-      "forks": 420,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1703,
-      "forks": 212,
-      "added_stars": "38 stars this week"
+      "stars": 3471,
+      "forks": 421,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "doomemacs / core",
@@ -40,9 +30,9 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22554,
-      "forks": 3160,
-      "added_stars": "35 stars this week"
+      "stars": 22560,
+      "forks": 3161,
+      "added_stars": "37 stars this week"
     },
     {
       "title": "magit / magit",
@@ -50,9 +40,9 @@
       "description": "It's Magit! A Git Porcelain inside Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 7189,
+      "stars": 7190,
       "forks": 874,
-      "added_stars": "12 stars this week"
+      "added_stars": "13 stars this week"
     },
     {
       "title": "emacs-lsp / lsp-mode",
@@ -65,6 +55,16 @@
       "added_stars": "3 stars this week"
     },
     {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1705,
+      "forks": 212,
+      "added_stars": "36 stars this week"
+    },
+    {
       "title": "melpa / melpa",
       "url": "https://github.com/melpa/melpa",
       "description": "Recipes and build machinery for the biggest Emacs package repo",
@@ -75,34 +75,34 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "dnouri / pi-coding-agent",
-      "url": "https://github.com/dnouri/pi-coding-agent",
-      "description": "Emacs frontend for the Pi coding agent",
+      "title": "MatthewZMD / aidermacs",
+      "url": "https://github.com/MatthewZMD/aidermacs",
+      "description": "AI Pair Programming in Emacs with Aider",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 247,
-      "forks": 32,
-      "added_stars": "5 stars this week"
+      "stars": 922,
+      "forks": 78,
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "Fuco1 / smartparens",
-      "url": "https://github.com/Fuco1/smartparens",
-      "description": "Minor mode for Emacs that deals with parens pairs and tries to be smart about it.",
+      "title": "mmontone / emacs-inspector",
+      "url": "https://github.com/mmontone/emacs-inspector",
+      "description": "Inspection tool for Emacs Lisp objects.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1942,
-      "forks": 199,
+      "stars": 121,
+      "forks": 11,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "emacs-mirror / emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
+      "title": "flycheck / flycheck",
+      "url": "https://github.com/flycheck/flycheck",
+      "description": "On the fly syntax checking for GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5141,
-      "forks": 1393,
-      "added_stars": "12 stars this week"
+      "stars": 2530,
+      "forks": 460,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "zkry / yaml.el",
@@ -115,14 +115,44 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "d12frosted / vulpea",
-      "url": "https://github.com/d12frosted/vulpea",
-      "description": "Database layer for org-mode notes with async indexing, rich queries, backlink discovery, and external change detection. Scales to 100k+ notes.",
+      "title": "jwiegley / emacs-async",
+      "url": "https://github.com/jwiegley/emacs-async",
+      "description": "Simple library for asynchronous processing in Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 436,
-      "forks": 23,
+      "stars": 911,
+      "forks": 72,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "magit / forge",
+      "url": "https://github.com/magit/forge",
+      "description": "Work with Git forges from the comfort of Magit",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1565,
+      "forks": 139,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "Wilfred / helpful",
+      "url": "https://github.com/Wilfred/helpful",
+      "description": "A better Emacs *help* buffer",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1295,
+      "forks": 72,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "org-roam / org-roam",
+      "url": "https://github.com/org-roam/org-roam",
+      "description": "Rudimentary Roam replica with Org-mode",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 6007,
+      "forks": 490,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "dakra / ghostel",
@@ -130,9 +160,19 @@
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 840,
+      "stars": 843,
       "forks": 48,
-      "added_stars": "37 stars this week"
+      "added_stars": "34 stars this week"
+    },
+    {
+      "title": "clojure-emacs / cider",
+      "url": "https://github.com/clojure-emacs/cider",
+      "description": "The Clojure Interactive Development Environment that Rocks for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3673,
+      "forks": 654,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "google-coral / coralnpu",
@@ -140,9 +180,59 @@
       "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2502,
+      "stars": 2503,
       "forks": 320,
       "added_stars": "15 stars this week"
+    },
+    {
+      "title": "protesilaos / modus-themes",
+      "url": "https://github.com/protesilaos/modus-themes",
+      "description": "Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 892,
+      "forks": 74,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "copilot-emacs / copilot.el",
+      "url": "https://github.com/copilot-emacs/copilot.el",
+      "description": "An unofficial Copilot plugin for Emacs.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2326,
+      "forks": 171,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "manzaltu / claude-code-ide.el",
+      "url": "https://github.com/manzaltu/claude-code-ide.el",
+      "description": "Claude Code IDE integration for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1638,
+      "forks": 111,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "dnouri / pi-coding-agent",
+      "url": "https://github.com/dnouri/pi-coding-agent",
+      "description": "Emacs frontend for the Pi coding agent",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 249,
+      "forks": 32,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "Wilfred / elisp-refs",
+      "url": "https://github.com/Wilfred/elisp-refs",
+      "description": "semantic code search for emacs lisp",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 132,
+      "forks": 19,
+      "added_stars": "1 star this week"
     },
     {
       "title": "rust-lang / rust-mode",
@@ -150,9 +240,19 @@
       "description": "Emacs configuration for Rust",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1262,
+      "stars": 1263,
       "forks": 196,
-      "added_stars": "4 stars this week"
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "Alexander-Miller / treemacs",
+      "url": "https://github.com/Alexander-Miller/treemacs",
+      "description": "",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2348,
+      "forks": 168,
+      "added_stars": "3 stars this week"
     }
   ]
 }

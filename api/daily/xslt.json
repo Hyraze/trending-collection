@@ -2,8 +2,18 @@
   "title": "GitHub Xslt Languages Daily Trending",
   "description": "Daily Trending of Xslt Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
+    {
+      "title": "LOLBAS-Project / LOLBAS",
+      "url": "https://github.com/LOLBAS-Project/LOLBAS",
+      "description": "Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)",
+      "language": "XSLT",
+      "languageColor": "#EB8CEB",
+      "stars": 8728,
+      "forks": 1160,
+      "added_stars": "3 stars today"
+    },
     {
       "title": "ZUGFeRD / mustangproject",
       "url": "https://github.com/ZUGFeRD/mustangproject",
@@ -12,26 +22,16 @@
       "languageColor": "#EB8CEB",
       "stars": 447,
       "forks": 228,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "LOLBAS-Project / LOLBAS",
-      "url": "https://github.com/LOLBAS-Project/LOLBAS",
-      "description": "Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)",
+      "title": "usnistgov / oscal-content",
+      "url": "https://github.com/usnistgov/oscal-content",
+      "description": "NIST SP 800-53 content and other OSCAL content examples",
       "language": "XSLT",
       "languageColor": "#EB8CEB",
-      "stars": 8727,
-      "forks": 1158,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "usnistgov / OSCAL",
-      "url": "https://github.com/usnistgov/OSCAL",
-      "description": "Open Security Controls Assessment Language (OSCAL)",
-      "language": "XSLT",
-      "languageColor": "#EB8CEB",
-      "stars": 936,
-      "forks": 249,
+      "stars": 459,
+      "forks": 186,
       "added_stars": "0 stars today"
     }
   ]

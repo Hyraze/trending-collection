@@ -4,7 +4,7 @@
   <title>GitHub Swift Languages Daily Trending</title>
   <description>Daily Trending of Swift Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>permissionlesstech / bitchat</title>
     <link>https://github.com/permissionlesstech/bitchat</link>
@@ -16,11 +16,6 @@
     <description>Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.</description>
   </item>
   <item>
-    <title>nikitabobko / AeroSpace</title>
-    <link>https://github.com/nikitabobko/AeroSpace</link>
-    <description>AeroSpace is an i3-like tiling window manager for macOS</description>
-  </item>
-  <item>
     <title>Ebullioscopic / Atoll</title>
     <link>https://github.com/Ebullioscopic/Atoll</link>
     <description>Dynamic Island for macOS</description>
@@ -29,6 +24,11 @@
     <title>steipete / CodexBar</title>
     <link>https://github.com/steipete/CodexBar</link>
     <description>Show usage stats for OpenAI Codex and Claude Code, without having to login.</description>
+  </item>
+  <item>
+    <title>nikitabobko / AeroSpace</title>
+    <link>https://github.com/nikitabobko/AeroSpace</link>
+    <description>AeroSpace is an i3-like tiling window manager for macOS</description>
   </item>
   <item>
     <title>jaywcjlove / awesome-mac</title>
@@ -46,24 +46,9 @@
     <description>Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.</description>
   </item>
   <item>
-    <title>Beingpax / VoiceInk</title>
-    <link>https://github.com/Beingpax/VoiceInk</link>
-    <description>The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with no subscription</description>
-  </item>
-  <item>
     <title>TelegramMessenger / Telegram-iOS</title>
     <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
     <description>Telegram-iOS</description>
-  </item>
-  <item>
-    <title>tranvuongquocdat / SideScreen</title>
-    <link>https://github.com/tranvuongquocdat/SideScreen</link>
-    <description></description>
-  </item>
-  <item>
-    <title>openai / tart</title>
-    <link>https://github.com/openai/tart</link>
-    <description>macOS and Linux VMs on Apple Silicon to use in CI and other automations</description>
   </item>
   <item>
     <title>momenbasel / PureMac</title>
@@ -71,19 +56,9 @@
     <description>Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.</description>
   </item>
   <item>
-    <title>minh-ton / reynard-browser</title>
-    <link>https://github.com/minh-ton/reynard-browser</link>
-    <description>An experimental Gecko-based web browser for iOS 13+.</description>
-  </item>
-  <item>
-    <title>kitlangton / Hex</title>
-    <link>https://github.com/kitlangton/Hex</link>
-    <description>VOICE → WORDS</description>
-  </item>
-  <item>
-    <title>FluidInference / FluidAudio</title>
-    <link>https://github.com/FluidInference/FluidAudio</link>
-    <description>Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.</description>
+    <title>Beingpax / VoiceInk</title>
+    <link>https://github.com/Beingpax/VoiceInk</link>
+    <description>The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with no subscription</description>
   </item>
   <item>
     <title>ronitsingh10 / FineTune</title>
@@ -91,9 +66,34 @@
     <description>FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.</description>
   </item>
   <item>
+    <title>utmapp / UTM</title>
+    <link>https://github.com/utmapp/UTM</link>
+    <description>Virtual machines for iOS and macOS</description>
+  </item>
+  <item>
+    <title>tranvuongquocdat / SideScreen</title>
+    <link>https://github.com/tranvuongquocdat/SideScreen</link>
+    <description></description>
+  </item>
+  <item>
+    <title>minh-ton / reynard-browser</title>
+    <link>https://github.com/minh-ton/reynard-browser</link>
+    <description>An experimental Gecko-based web browser for iOS 13+.</description>
+  </item>
+  <item>
     <title>RevenueCat / purchases-ios</title>
     <link>https://github.com/RevenueCat/purchases-ios</link>
     <description>In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</description>
+  </item>
+  <item>
+    <title>FluidInference / FluidAudio</title>
+    <link>https://github.com/FluidInference/FluidAudio</link>
+    <description>Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.</description>
+  </item>
+  <item>
+    <title>kitlangton / Hex</title>
+    <link>https://github.com/kitlangton/Hex</link>
+    <description>VOICE → WORDS</description>
   </item>
   <item>
     <title>p0deje / Maccy</title>
@@ -101,9 +101,9 @@
     <description>Lightweight clipboard manager for macOS</description>
   </item>
   <item>
-    <title>Starmel / OpenSuperWhisper</title>
-    <link>https://github.com/Starmel/OpenSuperWhisper</link>
-    <description>macOS dictation app</description>
+    <title>frankea / Whisky</title>
+    <link>https://github.com/frankea/Whisky</link>
+    <description>Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI</description>
   </item>
   <item>
     <title>darrylmorley / whatcable</title>

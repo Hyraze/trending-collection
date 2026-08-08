@@ -4,61 +4,11 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
-    <title>esengine / DeepSeek-Reasonix</title>
-    <link>https://github.com/esengine/DeepSeek-Reasonix</link>
-    <description>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
-  </item>
-  <item>
-    <title>multica-ai / multica</title>
-    <link>https://github.com/multica-ai/multica</link>
-    <description>Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.</description>
-  </item>
-  <item>
-    <title>coder / coder</title>
-    <link>https://github.com/coder/coder</link>
-    <description>Secure environments for developers and their agents</description>
-  </item>
-  <item>
-    <title>DataDog / datadog-agent</title>
-    <link>https://github.com/DataDog/datadog-agent</link>
-    <description>Main repository for Datadog Agent</description>
-  </item>
-  <item>
-    <title>google / osv-scanner</title>
-    <link>https://github.com/google/osv-scanner</link>
-    <description>Vulnerability scanner written in Go which uses the data provided by https://osv.dev</description>
-  </item>
-  <item>
-    <title>hashicorp / terraform</title>
-    <link>https://github.com/hashicorp/terraform</link>
-    <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
-  </item>
-  <item>
-    <title>syncthing / syncthing</title>
-    <link>https://github.com/syncthing/syncthing</link>
-    <description>Open Source Continuous File Synchronization</description>
-  </item>
-  <item>
-    <title>junegunn / fzf</title>
-    <link>https://github.com/junegunn/fzf</link>
-    <description>🌸 A command-line fuzzy finder</description>
-  </item>
-  <item>
-    <title>getarcaneapp / arcane</title>
-    <link>https://github.com/getarcaneapp/arcane</link>
-    <description>Modern Docker Management, Designed for Everyone</description>
-  </item>
-  <item>
-    <title>infiniflow / ragflow</title>
-    <link>https://github.com/infiniflow/ragflow</link>
-    <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
-  </item>
-  <item>
-    <title>gastownhall / beads</title>
-    <link>https://github.com/gastownhall/beads</link>
-    <description>Beads - A memory upgrade for your coding agent</description>
+    <title>chenyme / grok2api</title>
+    <link>https://github.com/chenyme/grok2api</link>
+    <description>Multi-account API gateway for Grok Build, Grok Web, and Grok Console</description>
   </item>
   <item>
     <title>pranshuparmar / witr</title>
@@ -66,14 +16,14 @@
     <description>Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.</description>
   </item>
   <item>
-    <title>akuity / kargo</title>
-    <link>https://github.com/akuity/kargo</link>
-    <description>Application lifecycle orchestration</description>
+    <title>esengine / DeepSeek-Reasonix</title>
+    <link>https://github.com/esengine/DeepSeek-Reasonix</link>
+    <description>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
   </item>
   <item>
-    <title>sundowndev / phoneinfoga</title>
-    <link>https://github.com/sundowndev/phoneinfoga</link>
-    <description>Information gathering framework for phone numbers</description>
+    <title>apernet / hysteria</title>
+    <link>https://github.com/apernet/hysteria</link>
+    <description>Hysteria is a powerful, lightning fast and censorship resistant proxy.</description>
   </item>
   <item>
     <title>aquasecurity / trivy</title>
@@ -81,49 +31,89 @@
     <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
   </item>
   <item>
-    <title>chenyme / grok2api</title>
-    <link>https://github.com/chenyme/grok2api</link>
-    <description>Multi-account API gateway for Grok Build, Grok Web, and Grok Console</description>
+    <title>gophish / gophish</title>
+    <link>https://github.com/gophish/gophish</link>
+    <description>Open-Source Phishing Toolkit</description>
   </item>
   <item>
-    <title>YouROK / TorrServer</title>
-    <link>https://github.com/YouROK/TorrServer</link>
-    <description>Torrent stream server</description>
+    <title>coder / coder</title>
+    <link>https://github.com/coder/coder</link>
+    <description>Secure environments for developers and their agents</description>
   </item>
   <item>
-    <title>komari-monitor / komari</title>
-    <link>https://github.com/komari-monitor/komari</link>
-    <description>A simple server monitor tool.</description>
+    <title>google / osv-scanner</title>
+    <link>https://github.com/google/osv-scanner</link>
+    <description>Vulnerability scanner written in Go which uses the data provided by https://osv.dev</description>
   </item>
   <item>
-    <title>larksuite / cli</title>
-    <link>https://github.com/larksuite/cli</link>
-    <description>The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.</description>
+    <title>usememos / memos</title>
+    <link>https://github.com/usememos/memos</link>
+    <description>Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.</description>
   </item>
   <item>
-    <title>vxcontrol / pentagi</title>
-    <link>https://github.com/vxcontrol/pentagi</link>
-    <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+    <title>akuity / kargo</title>
+    <link>https://github.com/akuity/kargo</link>
+    <description>Application lifecycle orchestration</description>
   </item>
   <item>
-    <title>derailed / k9s</title>
-    <link>https://github.com/derailed/k9s</link>
-    <description>🐶 Kubernetes CLI To Manage Your Clusters In Style!</description>
+    <title>agent-substrate / substrate</title>
+    <link>https://github.com/agent-substrate/substrate</link>
+    <description>Agent Substrate: the core system</description>
   </item>
   <item>
-    <title>nicholas-fedor / watchtower</title>
-    <link>https://github.com/nicholas-fedor/watchtower</link>
-    <description>Automate Docker container image updates</description>
+    <title>kubernetes-sigs / kind</title>
+    <link>https://github.com/kubernetes-sigs/kind</link>
+    <description>Kubernetes IN Docker - local clusters for testing Kubernetes</description>
   </item>
   <item>
-    <title>Tencent / WeKnora</title>
-    <link>https://github.com/Tencent/WeKnora</link>
-    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+    <title>openbao / openbao</title>
+    <link>https://github.com/openbao/openbao</link>
+    <description>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
   </item>
   <item>
-    <title>harness / harness</title>
-    <link>https://github.com/harness/harness</link>
-    <description>Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.</description>
+    <title>jackc / pgx</title>
+    <link>https://github.com/jackc/pgx</link>
+    <description>PostgreSQL driver and toolkit for Go</description>
+  </item>
+  <item>
+    <title>nektos / act</title>
+    <link>https://github.com/nektos/act</link>
+    <description>Run your GitHub Actions locally 🚀</description>
+  </item>
+  <item>
+    <title>veops / oneterm</title>
+    <link>https://github.com/veops/oneterm</link>
+    <description>Provide secure access and control over all infrastructure</description>
+  </item>
+  <item>
+    <title>Wei-Shaw / sub2api</title>
+    <link>https://github.com/Wei-Shaw/sub2api</link>
+    <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
+  </item>
+  <item>
+    <title>livekit / livekit</title>
+    <link>https://github.com/livekit/livekit</link>
+    <description>End-to-end realtime stack for connecting humans and AI</description>
+  </item>
+  <item>
+    <title>higress-group / higress</title>
+    <link>https://github.com/higress-group/higress</link>
+    <description>🤖 AI Gateway | AI Native API Gateway</description>
+  </item>
+  <item>
+    <title>sundowndev / phoneinfoga</title>
+    <link>https://github.com/sundowndev/phoneinfoga</link>
+    <description>Information gathering framework for phone numbers</description>
+  </item>
+  <item>
+    <title>containers / kubernetes-mcp-server</title>
+    <link>https://github.com/containers/kubernetes-mcp-server</link>
+    <description>Model Context Protocol (MCP) server for Kubernetes and OpenShift</description>
+  </item>
+  <item>
+    <title>jesseduffield / lazygit</title>
+    <link>https://github.com/jesseduffield/lazygit</link>
+    <description>simple terminal UI for git commands</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "E3SM-Project / E3SM",
@@ -12,17 +12,7 @@
       "languageColor": "#4d41b1",
       "stars": 436,
       "forks": 475,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "Reference-LAPACK / lapack",
-      "url": "https://github.com/Reference-LAPACK/lapack",
-      "description": "LAPACK development repository",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1884,
-      "forks": 510,
-      "added_stars": "2 stars this week"
+      "added_stars": "0 stars this week"
     },
     {
       "title": "wrf-model / WRF",
@@ -30,9 +20,9 @@
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1727,
+      "stars": 1729,
       "forks": 867,
-      "added_stars": "7 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "MetOffice / lfric_core",
@@ -45,14 +35,34 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1180,
-      "forks": 491,
+      "stars": 1651,
+      "forks": 391,
       "added_stars": "6 stars this week"
+    },
+    {
+      "title": "GEOS-ESM / MAPL",
+      "url": "https://github.com/GEOS-ESM/MAPL",
+      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 43,
+      "forks": 25,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "firemodels / fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 861,
+      "forks": 687,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "ecmwf-ifs / ectrans",
@@ -65,44 +75,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "firemodels / fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 861,
-      "forks": 687,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1650,
-      "forks": 391,
-      "added_stars": "6 stars this week"
-    },
-    {
       "title": "grimme-lab / xtb",
       "url": "https://github.com/grimme-lab/xtb",
       "description": "Semiempirical Extended Tight-Binding Program Package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 825,
-      "forks": 202,
+      "stars": 826,
+      "forks": 203,
       "added_stars": "4 stars this week"
-    },
-    {
-      "title": "GEOS-ESM / MAPL",
-      "url": "https://github.com/GEOS-ESM/MAPL",
-      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 43,
-      "forks": 25,
-      "added_stars": "1 star this week"
     },
     {
       "title": "OpenFAST / openfast",
@@ -115,13 +95,23 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "ecmwf / fckit",
-      "url": "https://github.com/ecmwf/fckit",
-      "description": "A Fortran toolkit for interoperating Fortran with C/C++",
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 48,
-      "forks": 21,
+      "stars": 1180,
+      "forks": 491,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "GEOS-ESM / GOCART",
+      "url": "https://github.com/GEOS-ESM/GOCART",
+      "description": "GOCART Aerosol model including process library and framework interfaces (MAPL, NUOPC, and CCPP)",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 27,
+      "forks": 22,
       "added_stars": "0 stars this week"
     }
   ]

@@ -2,28 +2,8 @@
   "title": "GitHub Scss Languages Daily Trending",
   "description": "Daily Trending of Scss Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
-    {
-      "title": "vinceliuice / MacTahoe-gtk-theme",
-      "url": "https://github.com/vinceliuice/MacTahoe-gtk-theme",
-      "description": "MacOS Tahoe theme for gtk desktops",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 1420,
-      "forks": 73,
-      "added_stars": "28 stars this week"
-    },
-    {
-      "title": "uswds / uswds",
-      "url": "https://github.com/uswds/uswds",
-      "description": "The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 7141,
-      "forks": 1098,
-      "added_stars": "7 stars this week"
-    },
     {
       "title": "material-components / material-web",
       "url": "https://github.com/material-components/material-web",
@@ -31,8 +11,28 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": 11157,
-      "forks": 1135,
-      "added_stars": "23 stars this week"
+      "forks": 1136,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "uswds / uswds",
+      "url": "https://github.com/uswds/uswds",
+      "description": "The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 7144,
+      "forks": 1098,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "vinceliuice / MacTahoe-gtk-theme",
+      "url": "https://github.com/vinceliuice/MacTahoe-gtk-theme",
+      "description": "MacOS Tahoe theme for gtk desktops",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 1428,
+      "forks": 73,
+      "added_stars": "31 stars this week"
     },
     {
       "title": "academicpages / academicpages.github.io",
@@ -40,39 +40,19 @@
       "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 17416,
-      "forks": 8214,
-      "added_stars": "34 stars this week"
+      "stars": 17419,
+      "forks": 8266,
+      "added_stars": "33 stars this week"
     },
     {
-      "title": "Ileriayo / markdown-badges",
-      "url": "https://github.com/Ileriayo/markdown-badges",
-      "description": "The largest curated collection of markdown badges for your personal developer branding, profile, and projects.",
+      "title": "just-the-docs / just-the-docs",
+      "url": "https://github.com/just-the-docs/just-the-docs",
+      "description": "A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 16909,
-      "forks": 1795,
-      "added_stars": "38 stars this week"
-    },
-    {
-      "title": "cobiwave / simplefolio",
-      "url": "https://github.com/cobiwave/simplefolio",
-      "description": "⚡️ A minimal portfolio template for Developers",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 14205,
-      "forks": 6086,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "odoo / design-themes",
-      "url": "https://github.com/odoo/design-themes",
-      "description": "",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 196,
-      "forks": 353,
-      "added_stars": "0 stars this week"
+      "stars": 9116,
+      "forks": 3791,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "opensearch-project / documentation-website",
@@ -85,16 +65,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "just-the-docs / just-the-docs",
-      "url": "https://github.com/just-the-docs/just-the-docs",
-      "description": "A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 9116,
-      "forks": 3792,
-      "added_stars": "9 stars this week"
-    },
-    {
       "title": "primer / css",
       "url": "https://github.com/primer/css",
       "description": "Primer is GitHub's design system. This is the CSS implementation",
@@ -102,17 +72,7 @@
       "languageColor": "#c6538c",
       "stars": 13000,
       "forks": 1289,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "conventional-commits / conventionalcommits.org",
-      "url": "https://github.com/conventional-commits/conventionalcommits.org",
-      "description": "The conventional commits specification",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 9141,
-      "forks": 683,
-      "added_stars": "30 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "nordtheme / nord",
@@ -120,9 +80,9 @@
       "description": "An arctic, north-bluish color palette.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 6862,
+      "stars": 6861,
       "forks": 189,
-      "added_stars": "5 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
       "title": "ubuntu / yaru",
@@ -130,19 +90,19 @@
       "description": "All Ubuntu Yaru GNOME themes",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 1541,
+      "stars": 1542,
       "forks": 218,
       "added_stars": "3 stars this week"
     },
     {
-      "title": "catppuccin / discord",
-      "url": "https://github.com/catppuccin/discord",
-      "description": "🎮 Soothing pastel theme for Discord",
+      "title": "odoo / design-themes",
+      "url": "https://github.com/odoo/design-themes",
+      "description": "",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 1399,
-      "forks": 187,
-      "added_stars": "6 stars this week"
+      "stars": 196,
+      "forks": 353,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "angelbruni / Geckium",
@@ -155,6 +115,16 @@
       "added_stars": "4 stars this week"
     },
     {
+      "title": "okta / okta-developer-docs",
+      "url": "https://github.com/okta/okta-developer-docs",
+      "description": "okta-developer-docs",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 177,
+      "forks": 671,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "thingsym / hugo-theme-techdoc",
       "url": "https://github.com/thingsym/hugo-theme-techdoc",
       "description": "The Techdoc is a Hugo Theme for technical documentation.",
@@ -165,14 +135,34 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "foreverphoenix / the-phoenix-flavour",
-      "url": "https://github.com/foreverphoenix/the-phoenix-flavour",
-      "description": "A Wabbajack list for Skyrim Special Edition.",
+      "title": "conventional-commits / conventionalcommits.org",
+      "url": "https://github.com/conventional-commits/conventionalcommits.org",
+      "description": "The conventional commits specification",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 67,
-      "forks": 18,
-      "added_stars": "0 stars this week"
+      "stars": 9141,
+      "forks": 683,
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "cobiwave / simplefolio",
+      "url": "https://github.com/cobiwave/simplefolio",
+      "description": "⚡️ A minimal portfolio template for Developers",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 14208,
+      "forks": 6086,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "catppuccin / discord",
+      "url": "https://github.com/catppuccin/discord",
+      "description": "🎮 Soothing pastel theme for Discord",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 1399,
+      "forks": 187,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "appsecco / dvna",
@@ -183,6 +173,16 @@
       "stars": 778,
       "forks": 926,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "foreverphoenix / the-phoenix-flavour",
+      "url": "https://github.com/foreverphoenix/the-phoenix-flavour",
+      "description": "A Wabbajack list for Skyrim Special Edition.",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 67,
+      "forks": 18,
+      "added_stars": "0 stars this week"
     }
   ]
 }

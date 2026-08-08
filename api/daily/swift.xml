@@ -4,7 +4,27 @@
   <title>GitHub Swift Languages Daily Trending</title>
   <description>Daily Trending of Swift Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
+  <item>
+    <title>LiveContainer / LiveContainer</title>
+    <link>https://github.com/LiveContainer/LiveContainer</link>
+    <description>Run iOS apps without actually installing them!</description>
+  </item>
+  <item>
+    <title>alienator88 / Pearcleaner</title>
+    <link>https://github.com/alienator88/Pearcleaner</link>
+    <description>A free, source-available and fair-code licensed mac app cleaner</description>
+  </item>
+  <item>
+    <title>zachlatta / freeflow</title>
+    <link>https://github.com/zachlatta/freeflow</link>
+    <description>Free &amp; fast alternative to Wispr Flow</description>
+  </item>
+  <item>
+    <title>rxhanson / Rectangle</title>
+    <link>https://github.com/rxhanson/Rectangle</link>
+    <description>Move and resize windows on macOS with keyboard shortcuts and snap areas</description>
+  </item>
   <item>
     <title>h3nock / remux</title>
     <link>https://github.com/h3nock/remux</link>
@@ -16,44 +36,24 @@
     <description>TheBoringNotch: Not so boring notch That Rocks 🎸🎶</description>
   </item>
   <item>
-    <title>Lakr233 / vphone-cli</title>
-    <link>https://github.com/Lakr233/vphone-cli</link>
-    <description></description>
+    <title>minh-ton / reynard-browser</title>
+    <link>https://github.com/minh-ton/reynard-browser</link>
+    <description>An experimental Gecko-based web browser for iOS 13+.</description>
   </item>
   <item>
-    <title>BarutSRB / OmniWM</title>
-    <link>https://github.com/BarutSRB/OmniWM</link>
-    <description>MacOS Niri and Hyprland inspired tiling window manager that&#x27;s developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.</description>
+    <title>whoeevee / EeveeSpotifyReborn</title>
+    <link>https://github.com/whoeevee/EeveeSpotifyReborn</link>
+    <description>A tweak to enhance Spotify experience</description>
   </item>
   <item>
-    <title>ChartsOrg / Charts</title>
-    <link>https://github.com/ChartsOrg/Charts</link>
-    <description>Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</description>
+    <title>RevenueCat / purchases-ios</title>
+    <link>https://github.com/RevenueCat/purchases-ios</link>
+    <description>In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</description>
   </item>
   <item>
-    <title>swiftlang / swift-subprocess</title>
-    <link>https://github.com/swiftlang/swift-subprocess</link>
-    <description>Subprocess is a cross-platform package for spawning processes in Swift.</description>
-  </item>
-  <item>
-    <title>pointfreeco / swift-composable-architecture</title>
-    <link>https://github.com/pointfreeco/swift-composable-architecture</link>
-    <description>A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</description>
-  </item>
-  <item>
-    <title>matthartman / ghost-pepper</title>
-    <link>https://github.com/matthartman/ghost-pepper</link>
-    <description>100% private on-device voice models for speech-to-text and meeting transcription on macOS</description>
-  </item>
-  <item>
-    <title>TelegramMessenger / Telegram-iOS</title>
-    <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
-    <description>Telegram-iOS</description>
-  </item>
-  <item>
-    <title>zachlatta / freeflow</title>
-    <link>https://github.com/zachlatta/freeflow</link>
-    <description>Free &amp; fast alternative to Wispr Flow</description>
+    <title>crossoverJie / SkillDeck</title>
+    <link>https://github.com/crossoverJie/SkillDeck</link>
+    <description>Native macOS SwiftUI app for managing multiple AI code agent skills</description>
   </item>
   <item>
     <title>nikitabobko / AeroSpace</title>
@@ -61,29 +61,19 @@
     <description>AeroSpace is an i3-like tiling window manager for macOS</description>
   </item>
   <item>
-    <title>signalapp / Signal-iOS</title>
-    <link>https://github.com/signalapp/Signal-iOS</link>
-    <description>A private messenger for iOS.</description>
+    <title>wxtsky / CodeIsland</title>
+    <link>https://github.com/wxtsky/CodeIsland</link>
+    <description>Real-time AI coding agent status panel in your MacBook notch — live status, approvals &amp; replies for 13 AI tools, with iPhone &amp; Apple Watch companions</description>
   </item>
   <item>
-    <title>linearmouse / linearmouse</title>
-    <link>https://github.com/linearmouse/linearmouse</link>
-    <description>The mouse and trackpad utility for Mac.</description>
+    <title>robinebers / openusage</title>
+    <link>https://github.com/robinebers/openusage</link>
+    <description>Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.</description>
   </item>
   <item>
-    <title>swiftlang / swift</title>
-    <link>https://github.com/swiftlang/swift</link>
-    <description>The Swift Programming Language</description>
-  </item>
-  <item>
-    <title>airbnb / lottie-ios</title>
-    <link>https://github.com/airbnb/lottie-ios</link>
-    <description>An iOS library to natively render After Effects vector animations</description>
-  </item>
-  <item>
-    <title>altic-dev / FluidVoice</title>
-    <link>https://github.com/altic-dev/FluidVoice</link>
-    <description>Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.</description>
+    <title>getsentry / sentry-cocoa</title>
+    <link>https://github.com/getsentry/sentry-cocoa</link>
+    <description>The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.</description>
   </item>
 </channel>
 </rss>

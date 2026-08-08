@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
       "title": "mattpocock / skills",
@@ -10,9 +10,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 207389,
-      "forks": 17911,
-      "added_stars": "1,873 stars today"
+      "stars": 208958,
+      "forks": 18041,
+      "added_stars": "2,152 stars today"
     },
     {
       "title": "obra / superpowers",
@@ -20,29 +20,19 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 268219,
-      "forks": 23967,
-      "added_stars": "858 stars today"
+      "stars": 268799,
+      "forks": 24002,
+      "added_stars": "782 stars today"
     },
     {
-      "title": "n8n-io / skills",
-      "url": "https://github.com/n8n-io/skills",
-      "description": "",
+      "title": "romkatv / powerlevel10k",
+      "url": "https://github.com/romkatv/powerlevel10k",
+      "description": "A Zsh theme",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 412,
-      "forks": 46,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "msitarzewski / agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 138974,
-      "forks": 22701,
-      "added_stars": "216 stars today"
+      "stars": 54875,
+      "forks": 2437,
+      "added_stars": "4 stars today"
     },
     {
       "title": "nvm-sh / nvm",
@@ -50,59 +40,79 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 94359,
-      "forks": 10322,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "Astrosp / Awesome-OSINT-List",
-      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
-      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 4126,
-      "forks": 538,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "github / copilot-cli",
-      "url": "https://github.com/github/copilot-cli",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11065,
-      "forks": 1873,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "BtbN / FFmpeg-Builds",
-      "url": "https://github.com/BtbN/FFmpeg-Builds",
-      "description": "",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11423,
-      "forks": 1491,
+      "stars": 94368,
+      "forks": 10329,
       "added_stars": "11 stars today"
     },
     {
-      "title": "acmesh-official / acme.sh",
-      "url": "https://github.com/acmesh-official/acme.sh",
-      "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 47419,
-      "forks": 5652,
+      "stars": 139119,
+      "forks": 22733,
+      "added_stars": "165 stars today"
+    },
+    {
+      "title": "expo / skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2372,
+      "forks": 125,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "kodekloudhub / certified-kubernetes-administrator-course",
+      "url": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+      "description": "Certified Kubernetes Administrator - CKA Course",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 10715,
+      "forks": 9584,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "nelvko / clash-for-linux-install",
+      "url": "https://github.com/nelvko/clash-for-linux-install",
+      "description": "😼 优雅地使用基于 clash/mihomo 的代理环境",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 14366,
+      "forks": 1597,
       "added_stars": "15 stars today"
     },
     {
-      "title": "1N3 / Sn1per",
-      "url": "https://github.com/1N3/Sn1per",
-      "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
+      "title": "d3 / d3",
+      "url": "https://github.com/d3/d3",
+      "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 10726,
-      "forks": 2139,
-      "added_stars": "11 stars today"
+      "stars": 113396,
+      "forks": 22687,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 24385,
+      "forks": 2453,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "eugr / spark-vllm-docker",
+      "url": "https://github.com/eugr/spark-vllm-docker",
+      "description": "Docker configuration for running VLLM on dual DGX Sparks",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1985,
+      "forks": 353,
+      "added_stars": "16 stars today"
     },
     {
       "title": "llm-d / llm-d",
@@ -110,49 +120,29 @@
       "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 3990,
-      "forks": 660,
-      "added_stars": "4 stars today"
+      "stars": 3994,
+      "forks": 662,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "cloudflare / skills",
-      "url": "https://github.com/cloudflare/skills",
-      "description": "Skills for teaching agents how to build on Cloudflare.",
+      "title": "mack-a / v2ray-agent",
+      "url": "https://github.com/mack-a/v2ray-agent",
+      "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2565,
-      "forks": 240,
+      "stars": 21627,
+      "forks": 5530,
       "added_stars": "10 stars today"
     },
     {
-      "title": "dockur / windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
+      "title": "VoltAgent / awesome-claude-code-subagents",
+      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 52771,
-      "forks": 4579,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "hestiacp / hestiacp",
-      "url": "https://github.com/hestiacp/hestiacp",
-      "description": "Hestia Control Panel | A lightweight and powerful control panel for the modern web.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 4449,
-      "forks": 914,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "PolyArch / humanize",
-      "url": "https://github.com/PolyArch/humanize",
-      "description": "From Automated Idea Factory to Realization",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1374,
-      "forks": 123,
-      "added_stars": "5 stars today"
+      "stars": 24112,
+      "forks": 2797,
+      "added_stars": "40 stars today"
     },
     {
       "title": "xiv3r / Burpsuite-Professional",
@@ -160,39 +150,9 @@
       "description": "Burpsuite Professional Latest Version 2026",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2845,
+      "stars": 2851,
       "forks": 689,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "nyldn / claude-octopus",
-      "url": "https://github.com/nyldn/claude-octopus",
-      "description": "Surface AI blindspots before you ship. Put up to 8 AI models on every research, design or coding task.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 3938,
-      "forks": 368,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "a2aproject / A2A",
-      "url": "https://github.com/a2aproject/A2A",
-      "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 25226,
-      "forks": 2551,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "bitnami / containers",
-      "url": "https://github.com/bitnami/containers",
-      "description": "Bitnami container images",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 4447,
-      "forks": 6838,
-      "added_stars": "1 star today"
+      "added_stars": "8 stars today"
     }
   ]
 }

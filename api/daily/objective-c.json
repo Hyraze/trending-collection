@@ -2,27 +2,57 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
-      "title": "SDWebImage / SDWebImage",
-      "url": "https://github.com/SDWebImage/SDWebImage",
-      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "title": "Mininglamp-OSS / octo-ios",
+      "url": "https://github.com/Mininglamp-OSS/octo-ios",
+      "description": "OCTO iOS Client — Open-source enterprise IM",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 25638,
-      "forks": 5961,
+      "stars": 432,
+      "forks": 59,
+      "added_stars": "42 stars today"
+    },
+    {
+      "title": "gnachman / iTerm2",
+      "url": "https://github.com/gnachman/iTerm2",
+      "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 17913,
+      "forks": 1453,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "git-up / GitUp",
+      "url": "https://github.com/git-up/GitUp",
+      "description": "The Git interface you've been missing all your life has finally arrived.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 12089,
+      "forks": 1486,
       "added_stars": "1 star today"
     },
     {
-      "title": "google / GoogleUtilities",
-      "url": "https://github.com/google/GoogleUtilities",
-      "description": "",
+      "title": "keycastr / keycastr",
+      "url": "https://github.com/keycastr/keycastr",
+      "description": "KeyCastr, an open-source keystroke visualizer",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 134,
-      "forks": 74,
-      "added_stars": "0 stars today"
+      "stars": 15019,
+      "forks": 574,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "objective-see / LuLu",
+      "url": "https://github.com/objective-see/LuLu",
+      "description": "LuLu is the free open-source macOS firewall",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 13028,
+      "forks": 589,
+      "added_stars": "4 stars today"
     },
     {
       "title": "google / GoogleDataTransport",
@@ -35,12 +65,22 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "google / GoogleUtilities",
+      "url": "https://github.com/google/GoogleUtilities",
+      "description": "",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 134,
+      "forks": 74,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "google / promises",
       "url": "https://github.com/google/promises",
       "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 3828,
+      "stars": 3827,
       "forks": 314,
       "added_stars": "0 stars today"
     },
@@ -65,63 +105,73 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "realm / realm-swift",
-      "url": "https://github.com/realm/realm-swift",
-      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
+      "title": "SDWebImage / SDWebImage",
+      "url": "https://github.com/SDWebImage/SDWebImage",
+      "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 16614,
-      "forks": 2237,
+      "stars": 25639,
+      "forks": 5961,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "amplitude / Amplitude-iOS",
+      "url": "https://github.com/amplitude/Amplitude-iOS",
+      "description": "Native iOS/tvOS/macOS SDK",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 328,
+      "forks": 195,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "AliSoftware / OHHTTPStubs",
+      "url": "https://github.com/AliSoftware/OHHTTPStubs",
+      "description": "Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 5072,
+      "forks": 597,
       "added_stars": "0 stars today"
     },
     {
-      "title": "PureLayout / PureLayout",
-      "url": "https://github.com/PureLayout/PureLayout",
-      "description": "The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.",
+      "title": "adjust / ios_sdk",
+      "url": "https://github.com/adjust/ios_sdk",
+      "description": "This is the iOS SDK of",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 7595,
-      "forks": 730,
+      "stars": 672,
+      "forks": 312,
       "added_stars": "0 stars today"
     },
     {
-      "title": "dzenbot / DZNEmptyDataSet",
-      "url": "https://github.com/dzenbot/DZNEmptyDataSet",
-      "description": "A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display",
+      "title": "Flipboard / FLAnimatedImage",
+      "url": "https://github.com/Flipboard/FLAnimatedImage",
+      "description": "Performant animated GIF engine for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 12016,
-      "forks": 1711,
+      "stars": 7947,
+      "forks": 1207,
       "added_stars": "0 stars today"
     },
     {
-      "title": "SVProgressHUD / SVProgressHUD",
-      "url": "https://github.com/SVProgressHUD/SVProgressHUD",
-      "description": "A clean and lightweight progress HUD for your iOS and tvOS app.",
+      "title": "AzureAD / microsoft-authentication-library-common-for-objc",
+      "url": "https://github.com/AzureAD/microsoft-authentication-library-common-for-objc",
+      "description": "Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL)",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 12453,
-      "forks": 2666,
+      "stars": 64,
+      "forks": 42,
       "added_stars": "0 stars today"
     },
     {
-      "title": "WenchaoD / FSCalendar",
-      "url": "https://github.com/WenchaoD/FSCalendar",
-      "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
+      "title": "jdg / MBProgressHUD",
+      "url": "https://github.com/jdg/MBProgressHUD",
+      "description": "MBProgressHUD + Customizations",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 10646,
-      "forks": 1945,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bugsnag / bugsnag-cocoa",
-      "url": "https://github.com/bugsnag/bugsnag-cocoa",
-      "description": "BugSnag error monitoring & exception reporter for iOS, macOS, tvOS and watchOS",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 263,
-      "forks": 126,
+      "stars": 15935,
+      "forks": 3562,
       "added_stars": "0 stars today"
     }
   ]

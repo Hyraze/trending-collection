@@ -4,7 +4,7 @@
   <title>GitHub Swift Languages Daily Trending</title>
   <description>Daily Trending of Swift Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:22:21 GMT</pubDate>
   <item>
     <title>Lakr233 / vphone-cli</title>
     <link>https://github.com/Lakr233/vphone-cli</link>
@@ -16,44 +16,9 @@
     <description>A tool to enforce Swift style and conventions.</description>
   </item>
   <item>
-    <title>LiveContainer / LiveContainer</title>
-    <link>https://github.com/LiveContainer/LiveContainer</link>
-    <description>Run iOS apps without actually installing them!</description>
-  </item>
-  <item>
     <title>utmapp / UTM</title>
     <link>https://github.com/utmapp/UTM</link>
     <description>Virtual machines for iOS and macOS</description>
-  </item>
-  <item>
-    <title>home-assistant / iOS</title>
-    <link>https://github.com/home-assistant/iOS</link>
-    <description>📱 Home Assistant for Apple platforms</description>
-  </item>
-  <item>
-    <title>quoid / userscripts</title>
-    <link>https://github.com/quoid/userscripts</link>
-    <description>An open-source userscript manager for Safari</description>
-  </item>
-  <item>
-    <title>TelegramMessenger / Telegram-iOS</title>
-    <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
-    <description>Telegram-iOS</description>
-  </item>
-  <item>
-    <title>swiftlang / swift</title>
-    <link>https://github.com/swiftlang/swift</link>
-    <description>The Swift Programming Language</description>
-  </item>
-  <item>
-    <title>ronitsingh10 / FineTune</title>
-    <link>https://github.com/ronitsingh10/FineTune</link>
-    <description>FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.</description>
-  </item>
-  <item>
-    <title>Ranchero-Software / NetNewsWire</title>
-    <link>https://github.com/Ranchero-Software/NetNewsWire</link>
-    <description>RSS reader for macOS and iOS.</description>
   </item>
   <item>
     <title>nikitabobko / AeroSpace</title>
@@ -61,19 +26,54 @@
     <description>AeroSpace is an i3-like tiling window manager for macOS</description>
   </item>
   <item>
-    <title>apple / swift-nio</title>
-    <link>https://github.com/apple/swift-nio</link>
-    <description>Event-driven network application framework for high performance protocol servers &amp; clients, non-blocking.</description>
-  </item>
-  <item>
-    <title>FluidInference / FluidAudio</title>
-    <link>https://github.com/FluidInference/FluidAudio</link>
-    <description>Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.</description>
-  </item>
-  <item>
     <title>Alamofire / Alamofire</title>
     <link>https://github.com/Alamofire/Alamofire</link>
     <description>Elegant HTTP Networking in Swift</description>
+  </item>
+  <item>
+    <title>TelegramMessenger / Telegram-iOS</title>
+    <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
+    <description>Telegram-iOS</description>
+  </item>
+  <item>
+    <title>LiveContainer / LiveContainer</title>
+    <link>https://github.com/LiveContainer/LiveContainer</link>
+    <description>Run iOS apps without actually installing them!</description>
+  </item>
+  <item>
+    <title>Ranchero-Software / NetNewsWire</title>
+    <link>https://github.com/Ranchero-Software/NetNewsWire</link>
+    <description>RSS reader for macOS and iOS.</description>
+  </item>
+  <item>
+    <title>ronitsingh10 / FineTune</title>
+    <link>https://github.com/ronitsingh10/FineTune</link>
+    <description>FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.</description>
+  </item>
+  <item>
+    <title>swiftlang / swift</title>
+    <link>https://github.com/swiftlang/swift</link>
+    <description>The Swift Programming Language</description>
+  </item>
+  <item>
+    <title>groue / GRDB.swift</title>
+    <link>https://github.com/groue/GRDB.swift</link>
+    <description>A toolkit for SQLite databases, with a focus on application development</description>
+  </item>
+  <item>
+    <title>pointfreeco / swift-composable-architecture</title>
+    <link>https://github.com/pointfreeco/swift-composable-architecture</link>
+    <description>A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</description>
+  </item>
+  <item>
+    <title>BarutSRB / OmniWM</title>
+    <link>https://github.com/BarutSRB/OmniWM</link>
+    <description>MacOS Niri and Hyprland inspired tiling window manager that&#x27;s developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.</description>
+  </item>
+  <item>
+    <title>h3nock / remux</title>
+    <link>https://github.com/h3nock/remux</link>
+    <description>A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.</description>
   </item>
 </channel>
 </rss>

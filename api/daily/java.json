@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
       "title": "google / guava",
@@ -10,139 +10,49 @@
       "description": "Google core libraries for Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 51658,
-      "forks": 11164,
-      "added_stars": "13 stars today"
+      "stars": 51769,
+      "forks": 11176,
+      "added_stars": "152 stars today"
     },
     {
-      "title": "YunaiV / ruoyi-vue-pro",
-      "url": "https://github.com/YunaiV/ruoyi-vue-pro",
-      "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+      "title": "OtterMind / Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 38579,
-      "forks": 8344,
-      "added_stars": "32 stars today"
+      "stars": 27843,
+      "forks": 3003,
+      "added_stars": "105 stars today"
     },
     {
-      "title": "elastic / elasticsearch",
-      "url": "https://github.com/elastic/elasticsearch",
-      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "title": "questdb / questdb",
+      "url": "https://github.com/questdb/questdb",
+      "description": "QuestDB is a high performance, open-source, time-series database",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 77795,
-      "forks": 26054,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "ashishps1 / awesome-system-design-resources",
-      "url": "https://github.com/ashishps1/awesome-system-design-resources",
-      "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 40335,
-      "forks": 8588,
-      "added_stars": "56 stars today"
-    },
-    {
-      "title": "MisterBooo / LeetCodeAnimation",
-      "url": "https://github.com/MisterBooo/LeetCodeAnimation",
-      "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 76676,
-      "forks": 13895,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "TheAlgorithms / Java",
-      "url": "https://github.com/TheAlgorithms/Java",
-      "description": "All Algorithms implemented in Java",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 66113,
-      "forks": 21245,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "mateaix / mateclaw",
-      "url": "https://github.com/mateaix/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 833,
-      "forks": 276,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "OpenAPITools / openapi-generator",
-      "url": "https://github.com/OpenAPITools/openapi-generator",
-      "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 26651,
-      "forks": 7634,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "dbeaver / dbeaver",
-      "url": "https://github.com/dbeaver/dbeaver",
-      "description": "Free universal database tool and SQL client",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 51332,
-      "forks": 4322,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "xuxueli / xxl-job",
-      "url": "https://github.com/xuxueli/xxl-job",
-      "description": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 30431,
-      "forks": 11485,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "GeyserMC / Geyser",
-      "url": "https://github.com/GeyserMC/Geyser",
-      "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5732,
-      "forks": 856,
+      "stars": 17237,
+      "forks": 1639,
       "added_stars": "2 stars today"
     },
     {
-      "title": "keycloak / keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "title": "apache / tomcat",
+      "url": "https://github.com/apache/tomcat",
+      "description": "Apache Tomcat",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 36045,
-      "forks": 8737,
-      "added_stars": "16 stars today"
+      "stars": 8226,
+      "forks": 5390,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "StarRocks / starrocks",
-      "url": "https://github.com/StarRocks/starrocks",
-      "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+      "title": "baomidou / mybatis-plus",
+      "url": "https://github.com/baomidou/mybatis-plus",
+      "description": "An powerful enhanced toolkit of MyBatis for simplify development",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 11975,
-      "forks": 2514,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "krahets / hello-algo",
-      "url": "https://github.com/krahets/hello-algo",
-      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 129240,
-      "forks": 15492,
-      "added_stars": "54 stars today"
+      "stars": 17460,
+      "forks": 4452,
+      "added_stars": "12 stars today"
     },
     {
       "title": "spring-projects / spring-ai",
@@ -150,59 +60,139 @@
       "description": "An Application Framework for AI Engineering",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9259,
-      "forks": 2803,
-      "added_stars": "9 stars today"
+      "stars": 9267,
+      "forks": 2806,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "OpenLineage / OpenLineage",
-      "url": "https://github.com/OpenLineage/OpenLineage",
-      "description": "An Open Standard for lineage metadata collection",
+      "title": "YunaiV / ruoyi-vue-pro",
+      "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+      "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2587,
-      "forks": 506,
-      "added_stars": "4 stars today"
+      "stars": 38603,
+      "forks": 8346,
+      "added_stars": "47 stars today"
     },
     {
-      "title": "androidx / media",
-      "url": "https://github.com/androidx/media",
-      "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android",
+      "title": "quarkusio / quarkus",
+      "url": "https://github.com/quarkusio/quarkus",
+      "description": "Quarkus: Supersonic Subatomic Java.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2933,
-      "forks": 891,
-      "added_stars": "2 stars today"
+      "stars": 15813,
+      "forks": 3264,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "liquibase / liquibase",
-      "url": "https://github.com/liquibase/liquibase",
-      "description": "Main Liquibase Source",
+      "title": "apache / cassandra",
+      "url": "https://github.com/apache/cassandra",
+      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5576,
-      "forks": 1962,
-      "added_stars": "2 stars today"
+      "stars": 10060,
+      "forks": 4105,
+      "added_stars": "1 star today"
     },
     {
-      "title": "microg / GmsCore",
-      "url": "https://github.com/microg/GmsCore",
-      "description": "Free implementation of Play Services",
+      "title": "kunal-kushwaha / DSA-Bootcamp-Java",
+      "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+      "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 14138,
-      "forks": 3007,
-      "added_stars": "11 stars today"
+      "stars": 23422,
+      "forks": 13483,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "emanuele-f / PCAPdroid",
-      "url": "https://github.com/emanuele-f/PCAPdroid",
-      "description": "No-root network monitor, firewall and PCAP dumper for Android",
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4393,
-      "forks": 520,
-      "added_stars": "10 stars today"
+      "stars": 72054,
+      "forks": 7886,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "DataDog / dd-trace-java",
+      "url": "https://github.com/DataDog/dd-trace-java",
+      "description": "Datadog APM client for Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 727,
+      "forks": 350,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "debezium / debezium",
+      "url": "https://github.com/debezium/debezium",
+      "description": "Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 12989,
+      "forks": 2993,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "Mininglamp-OSS / octo-android",
+      "url": "https://github.com/Mininglamp-OSS/octo-android",
+      "description": "OCTO Android Client — Open-source enterprise IM",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 410,
+      "forks": 50,
+      "added_stars": "75 stars today"
+    },
+    {
+      "title": "jeecgboot / JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 47320,
+      "forks": 16138,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "dbeaver / dbeaver",
+      "url": "https://github.com/dbeaver/dbeaver",
+      "description": "Free universal database tool and SQL client",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 51342,
+      "forks": 4325,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "spring-projects / spring-boot",
+      "url": "https://github.com/spring-projects/spring-boot",
+      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 81283,
+      "forks": 42118,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "keycloak / keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 36057,
+      "forks": 8741,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "opendataloader-project / opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 28254,
+      "forks": 2695,
+      "added_stars": "41 stars today"
     }
   ]
 }

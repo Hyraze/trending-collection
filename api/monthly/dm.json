@@ -2,8 +2,18 @@
   "title": "GitHub Dm Languages Daily Trending",
   "description": "Daily Trending of Dm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
+    {
+      "title": "cmss13-devs / cmss13",
+      "url": "https://github.com/cmss13-devs/cmss13",
+      "description": "Contains the code for CM-SS13",
+      "language": "DM",
+      "languageColor": "#447265",
+      "stars": 172,
+      "forks": 934,
+      "added_stars": "4 stars this month"
+    },
     {
       "title": "tgstation / tgstation",
       "url": "https://github.com/tgstation/tgstation",
@@ -15,6 +25,16 @@
       "added_stars": "4 stars this month"
     },
     {
+      "title": "ParadiseSS13 / Paradise",
+      "url": "https://github.com/ParadiseSS13/Paradise",
+      "description": "Paradise Station's GitHub main repository.",
+      "language": "DM",
+      "languageColor": "#447265",
+      "stars": 446,
+      "forks": 1326,
+      "added_stars": "3 stars this month"
+    },
+    {
       "title": "goonstation / goonstation",
       "url": "https://github.com/goonstation/goonstation",
       "description": "Repository for the Goonstation branch of SS13",
@@ -23,16 +43,6 @@
       "stars": 403,
       "forks": 1814,
       "added_stars": "3 stars this month"
-    },
-    {
-      "title": "cmss13-devs / cmss13",
-      "url": "https://github.com/cmss13-devs/cmss13",
-      "description": "Contains the code for CM-SS13",
-      "language": "DM",
-      "languageColor": "#447265",
-      "stars": 172,
-      "forks": 934,
-      "added_stars": "4 stars this month"
     }
   ]
 }

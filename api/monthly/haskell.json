@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "koalaman / shellcheck",
@@ -10,9 +10,9 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 39827,
+      "stars": 39832,
       "forks": 1939,
-      "added_stars": "204 stars this month"
+      "added_stars": "209 stars this month"
     },
     {
       "title": "simplex-chat / simplex-chat",
@@ -20,9 +20,9 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19205,
-      "forks": 1336,
-      "added_stars": "1,457 stars this month"
+      "stars": 19211,
+      "forks": 1337,
+      "added_stars": "1,388 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -30,9 +30,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12338,
+      "stars": 12340,
       "forks": 501,
-      "added_stars": "78 stars this month"
+      "added_stars": "77 stars this month"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -40,9 +40,9 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1511,
+      "stars": 1517,
       "forks": 65,
-      "added_stars": "217 stars this month"
+      "added_stars": "210 stars this month"
     },
     {
       "title": "agda / agda",
@@ -52,7 +52,7 @@
       "languageColor": "#5e5086",
       "stars": 2907,
       "forks": 420,
-      "added_stars": "23 stars this month"
+      "added_stars": "22 stars this month"
     },
     {
       "title": "haskell / cabal",
@@ -61,7 +61,27 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 1743,
-      "forks": 743,
+      "forks": 744,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 45768,
+      "forks": 3942,
+      "added_stars": "565 stars this month"
+    },
+    {
+      "title": "commercialhaskell / stack",
+      "url": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 4073,
+      "forks": 848,
       "added_stars": "5 stars this month"
     },
     {
@@ -72,27 +92,7 @@
       "languageColor": "#5e5086",
       "stars": 3179,
       "forks": 755,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "commercialhaskell / stack",
-      "url": "https://github.com/commercialhaskell/stack",
-      "description": "The Haskell Tool Stack",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 4073,
-      "forks": 848,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "jgm / pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 45751,
-      "forks": 3939,
-      "added_stars": "570 stars this month"
+      "added_stars": "2 stars this month"
     },
     {
       "title": "PostgREST / postgrest",
@@ -100,9 +100,9 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27500,
-      "forks": 1219,
-      "added_stars": "114 stars this month"
+      "stars": 27501,
+      "forks": 1220,
+      "added_stars": "113 stars this month"
     },
     {
       "title": "simonmichael / hledger",
@@ -110,9 +110,9 @@
       "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4616,
+      "stars": 4620,
       "forks": 402,
-      "added_stars": "53 stars this month"
+      "added_stars": "56 stars this month"
     },
     {
       "title": "mtolly / onyx",
@@ -122,7 +122,7 @@
       "languageColor": "#5e5086",
       "stars": 288,
       "forks": 22,
-      "added_stars": "4 stars this month"
+      "added_stars": "3 stars this month"
     },
     {
       "title": "haskell / haskell-language-server",
@@ -150,9 +150,9 @@
       "description": "Compiler for Elm, a functional language for reliable webapps.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 7854,
+      "stars": 7863,
       "forks": 688,
-      "added_stars": "50 stars this month"
+      "added_stars": "51 stars this month"
     }
   ]
 }

@@ -2,27 +2,27 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
-    {
-      "title": "caelestia-dots / shell",
-      "url": "https://github.com/caelestia-dots/shell",
-      "description": "A fluid, morphing shell for your Linux desktop",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 11020,
-      "forks": 783,
-      "added_stars": "678 stars this month"
-    },
     {
       "title": "end-4 / dots-hyprland",
       "url": "https://github.com/end-4/dots-hyprland",
       "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 15445,
+      "stars": 15465,
       "forks": 1291,
-      "added_stars": "475 stars this month"
+      "added_stars": "485 stars this month"
+    },
+    {
+      "title": "caelestia-dots / shell",
+      "url": "https://github.com/caelestia-dots/shell",
+      "description": "A fluid, morphing shell for your Linux desktop",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 11052,
+      "forks": 783,
+      "added_stars": "689 stars this month"
     },
     {
       "title": "AvengeMedia / DankMaterialShell",
@@ -30,9 +30,9 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 7522,
-      "forks": 468,
-      "added_stars": "415 stars this month"
+      "stars": 7526,
+      "forks": 470,
+      "added_stars": "410 stars this month"
     },
     {
       "title": "mylinuxforwork / dotfiles",
@@ -40,9 +40,9 @@
       "description": "The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 4945,
-      "forks": 365,
-      "added_stars": "104 stars this month"
+      "stars": 4948,
+      "forks": 368,
+      "added_stars": "102 stars this month"
     },
     {
       "title": "Swordfish90 / cool-retro-term",
@@ -50,19 +50,9 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 25875,
-      "forks": 998,
-      "added_stars": "142 stars this month"
-    },
-    {
-      "title": "snowarch / iNiR",
-      "url": "https://github.com/snowarch/iNiR",
-      "description": "A Niri shell illogical-impulse based - with some modifications..",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 1365,
-      "forks": 77,
-      "added_stars": "145 stars this month"
+      "stars": 25877,
+      "forks": 999,
+      "added_stars": "141 stars this month"
     },
     {
       "title": "anthonycaccese / 240-MP",
@@ -72,7 +62,17 @@
       "languageColor": "#44a51c",
       "stars": 374,
       "forks": 36,
-      "added_stars": "96 stars this month"
+      "added_stars": "91 stars this month"
+    },
+    {
+      "title": "snowarch / iNiR",
+      "url": "https://github.com/snowarch/iNiR",
+      "description": "A Niri shell illogical-impulse based - with some modifications..",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 1370,
+      "forks": 78,
+      "added_stars": "145 stars this month"
     },
     {
       "title": "liixini / skwd-wall",
@@ -80,9 +80,9 @@
       "description": "An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 574,
+      "stars": 576,
       "forks": 20,
-      "added_stars": "112 stars this month"
+      "added_stars": "113 stars this month"
     },
     {
       "title": "Darkkal44 / qylock",
@@ -90,19 +90,9 @@
       "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 2421,
+      "stars": 2428,
       "forks": 97,
-      "added_stars": "229 stars this month"
-    },
-    {
-      "title": "luisbocanegra / plasma-panel-colorizer",
-      "url": "https://github.com/luisbocanegra/plasma-panel-colorizer",
-      "description": "Latte-Dock and WM status bar customization for the KDE Plasma panels",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 1134,
-      "forks": 29,
-      "added_stars": "43 stars this month"
+      "added_stars": "230 stars this month"
     },
     {
       "title": "Keyitdev / sddm-astronaut-theme",
@@ -110,9 +100,19 @@
       "description": "Series of modern looking themes for SDDM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 3131,
-      "forks": 200,
-      "added_stars": "119 stars this month"
+      "stars": 3136,
+      "forks": 201,
+      "added_stars": "124 stars this month"
+    },
+    {
+      "title": "luisbocanegra / plasma-panel-colorizer",
+      "url": "https://github.com/luisbocanegra/plasma-panel-colorizer",
+      "description": "Latte-Dock and WM status bar customization for the KDE Plasma panels",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 1137,
+      "forks": 29,
+      "added_stars": "43 stars this month"
     },
     {
       "title": "luisbocanegra / plasma-smart-video-wallpaper-reborn",
@@ -120,7 +120,7 @@
       "description": "Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 547,
+      "stars": 548,
       "forks": 33,
       "added_stars": "23 stars this month"
     },
@@ -132,7 +132,7 @@
       "languageColor": "#44a51c",
       "stars": 2728,
       "forks": 119,
-      "added_stars": "5 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "xarbit / plasma6-applet-appgrid",
@@ -140,9 +140,9 @@
       "description": "AppGrid for Plasma is a modern alternative to Kickoff and Kicker. A grid launcher for KDE Plasma 6 — unified search, KRunner integration, animations.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 427,
+      "stars": 428,
       "forks": 12,
-      "added_stars": "21 stars this month"
+      "added_stars": "22 stars this month"
     },
     {
       "title": "vinceliuice / WhiteSur-kde",
@@ -153,16 +153,6 @@
       "stars": 1231,
       "forks": 91,
       "added_stars": "20 stars this month"
-    },
-    {
-      "title": "jaxparrow07 / liquidglass-kde-widgets",
-      "url": "https://github.com/jaxparrow07/liquidglass-kde-widgets",
-      "description": "Liquid Glass Widgets (MacOS) for KDE Plasma",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 99,
-      "forks": 7,
-      "added_stars": "32 stars this month"
     }
   ]
 }

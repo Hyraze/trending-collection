@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "twbs / bootstrap",
@@ -10,19 +10,9 @@
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 174565,
-      "forks": 78686,
-      "added_stars": "342 stars this month"
-    },
-    {
-      "title": "cloudflare / cloudflare-docs",
-      "url": "https://github.com/cloudflare/cloudflare-docs",
-      "description": "Cloudflare’s documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 5051,
-      "forks": 16236,
-      "added_stars": "162 stars this month"
+      "stars": 174569,
+      "forks": 78681,
+      "added_stars": "337 stars this month"
     },
     {
       "title": "huggingface / agents-course",
@@ -30,9 +20,19 @@
       "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 30743,
-      "forks": 2193,
-      "added_stars": "942 stars this month"
+      "stars": 30770,
+      "forks": 2194,
+      "added_stars": "952 stars this month"
+    },
+    {
+      "title": "cloudflare / cloudflare-docs",
+      "url": "https://github.com/cloudflare/cloudflare-docs",
+      "description": "Cloudflare’s documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 5058,
+      "forks": 16247,
+      "added_stars": "163 stars this month"
     },
     {
       "title": "npm / documentation",
@@ -41,18 +41,8 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 693,
-      "forks": 4118,
-      "added_stars": "27 stars this month"
-    },
-    {
-      "title": "wasp-lang / open-saas",
-      "url": "https://github.com/wasp-lang/open-saas",
-      "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 15171,
-      "forks": 1812,
-      "added_stars": "363 stars this month"
+      "forks": 4121,
+      "added_stars": "25 stars this month"
     },
     {
       "title": "langchain-ai / docs",
@@ -61,8 +51,18 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 392,
-      "forks": 2577,
-      "added_stars": "26 stars this month"
+      "forks": 2578,
+      "added_stars": "27 stars this month"
+    },
+    {
+      "title": "wasp-lang / open-saas",
+      "url": "https://github.com/wasp-lang/open-saas",
+      "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 15183,
+      "forks": 1817,
+      "added_stars": "367 stars this month"
     },
     {
       "title": "dair-ai / Prompt-Engineering-Guide",
@@ -70,9 +70,9 @@
       "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 77319,
-      "forks": 8495,
-      "added_stars": "1,203 stars this month"
+      "stars": 77338,
+      "forks": 8498,
+      "added_stars": "1,199 stars this month"
     },
     {
       "title": "solana-foundation / solana-com",
@@ -82,7 +82,7 @@
       "languageColor": "#fcb32c",
       "stars": 492,
       "forks": 380,
-      "added_stars": "12 stars this month"
+      "added_stars": "11 stars this month"
     },
     {
       "title": "esphome / esphome.io",
@@ -90,19 +90,9 @@
       "description": "Source for esphome.io documentation files.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 450,
-      "forks": 2346,
-      "added_stars": "5 stars this month"
-    },
-    {
-      "title": "detekt / detekt",
-      "url": "https://github.com/detekt/detekt",
-      "description": "Static code analysis for Kotlin",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 7020,
-      "forks": 854,
-      "added_stars": "41 stars this month"
+      "stars": 451,
+      "forks": 2347,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "newrelic / docs-website",
@@ -115,6 +105,16 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "detekt / detekt",
+      "url": "https://github.com/detekt/detekt",
+      "description": "Static code analysis for Kotlin",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 7021,
+      "forks": 855,
+      "added_stars": "37 stars this month"
+    },
+    {
       "title": "hashicorp / web-unified-docs",
       "url": "https://github.com/hashicorp/web-unified-docs",
       "description": "Hashicorp Unified Docs",
@@ -122,7 +122,7 @@
       "languageColor": "#fcb32c",
       "stars": 78,
       "forks": 252,
-      "added_stars": "7 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "withastro / docs",
@@ -130,8 +130,8 @@
       "description": "Astro documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 1672,
-      "forks": 1870,
+      "stars": 1673,
+      "forks": 1872,
       "added_stars": "20 stars this month"
     },
     {
@@ -150,9 +150,9 @@
       "description": "Official Discord Developer Docs",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 6452,
+      "stars": 6454,
       "forks": 1374,
-      "added_stars": "34 stars this month"
+      "added_stars": "35 stars this month"
     },
     {
       "title": "expressjs / expressjs.com",
@@ -160,9 +160,9 @@
       "description": "The Express.js Website",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 5359,
-      "forks": 2232,
-      "added_stars": "9 stars this month"
+      "stars": 5360,
+      "forks": 2234,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "prisma / web",
@@ -171,7 +171,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 1095,
-      "forks": 981,
+      "forks": 983,
       "added_stars": "12 stars this month"
     },
     {
@@ -181,7 +181,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 157,
-      "forks": 687,
+      "forks": 691,
       "added_stars": "7 stars this month"
     },
     {
@@ -200,9 +200,9 @@
       "description": "The Hugging Face course on Transformers",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 4110,
+      "stars": 4112,
       "forks": 1386,
-      "added_stars": "77 stars this month"
+      "added_stars": "74 stars this month"
     }
   ]
 }

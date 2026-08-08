@@ -2,17 +2,17 @@
   "title": "GitHub Autoit Languages Daily Trending",
   "description": "Daily Trending of Autoit Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
-      "title": "rcmaehl / WhyNotWin11",
-      "url": "https://github.com/rcmaehl/WhyNotWin11",
-      "description": "Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!",
+      "title": "KovaaK / InterAccel",
+      "url": "https://github.com/KovaaK/InterAccel",
+      "description": "QuakeLive style mouse acceleration across your entire OS and any game",
       "language": "AutoIt",
       "languageColor": "#1C3552",
-      "stars": 6392,
-      "forks": 420,
-      "added_stars": "4 stars this week"
+      "stars": 338,
+      "forks": 44,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "Bioruebe / UniExtract2",
@@ -22,7 +22,7 @@
       "languageColor": "#1C3552",
       "stars": 4393,
       "forks": 387,
-      "added_stars": "8 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "rcmaehl / MSEdgeRedirect",
@@ -32,7 +32,17 @@
       "languageColor": "#1C3552",
       "stars": 5855,
       "forks": 121,
-      "added_stars": "10 stars this week"
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "rcmaehl / WhyNotWin11",
+      "url": "https://github.com/rcmaehl/WhyNotWin11",
+      "description": "Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!",
+      "language": "AutoIt",
+      "languageColor": "#1C3552",
+      "stars": 6391,
+      "forks": 420,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "SegoCode / AutoWall",
@@ -43,16 +53,6 @@
       "stars": 746,
       "forks": 64,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "KovaaK / InterAccel",
-      "url": "https://github.com/KovaaK/InterAccel",
-      "description": "QuakeLive style mouse acceleration across your entire OS and any game",
-      "language": "AutoIt",
-      "languageColor": "#1C3552",
-      "stars": 338,
-      "forks": 44,
-      "added_stars": "0 stars this week"
     }
   ]
 }

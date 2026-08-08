@@ -2,7 +2,7 @@
   "title": "GitHub Autohotkey Languages Daily Trending",
   "description": "Daily Trending of Autohotkey Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "NatroTeam / NatroMacro",
@@ -10,9 +10,9 @@
       "description": "A Bee Swarm Simulator macro for Windows",
       "language": "AutoHotkey",
       "languageColor": "#6594b9",
-      "stars": 2390,
+      "stars": 2393,
       "forks": 231,
-      "added_stars": "24 stars this month"
+      "added_stars": "27 stars this month"
     },
     {
       "title": "Pulover / PuloversMacroCreator",
@@ -25,16 +25,6 @@
       "added_stars": "9 stars this month"
     },
     {
-      "title": "CloudTracey / arknights-frame-assistant",
-      "url": "https://github.com/CloudTracey/arknights-frame-assistant",
-      "description": "明日方舟帧操小助手 ArknightsFrameAssistant，简称 AFA。这是一个用于优化明日方舟 PC 端体验的简单小工具，提供全按键自定义、高精度操作等功能",
-      "language": "AutoHotkey",
-      "languageColor": "#6594b9",
-      "stars": 383,
-      "forks": 8,
-      "added_stars": "96 stars this month"
-    },
-    {
       "title": "CemuUser8 / mouse2joystick_custom_CEMU",
       "url": "https://github.com/CemuUser8/mouse2joystick_custom_CEMU",
       "description": "An AutoHotkey Script to allow the use of Mouse and Keyboard control in CEMU. This uses vJoy and provides several additional features over regular keyboard control, like: the ability to control the camera with the mouse, toggle walking speed, in BotW use MouseWheel to change weapons, a separate Toggle key for ZL useful for locking onto a target …",
@@ -43,6 +33,16 @@
       "stars": 212,
       "forks": 56,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "CloudTracey / arknights-frame-assistant",
+      "url": "https://github.com/CloudTracey/arknights-frame-assistant",
+      "description": "明日方舟帧操小助手 ArknightsFrameAssistant，简称 AFA。这是一个用于优化明日方舟 PC 端体验的简单小工具，提供全按键自定义、高精度操作等功能",
+      "language": "AutoHotkey",
+      "languageColor": "#6594b9",
+      "stars": 384,
+      "forks": 9,
+      "added_stars": "93 stars this month"
     }
   ]
 }

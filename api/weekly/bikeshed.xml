@@ -4,7 +4,7 @@
   <title>GitHub Bikeshed Languages Daily Trending</title>
   <description>Daily Trending of Bikeshed Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:22:21 GMT</pubDate>
   <item>
     <title>webmachinelearning / webmcp</title>
     <link>https://github.com/webmachinelearning/webmcp</link>
@@ -14,11 +14,6 @@
     <title>w3c / csswg-drafts</title>
     <link>https://github.com/w3c/csswg-drafts</link>
     <description>CSS Working Group Editor Drafts</description>
-  </item>
-  <item>
-    <title>gpuweb / gpuweb</title>
-    <link>https://github.com/gpuweb/gpuweb</link>
-    <description>Where the GPU for the Web work happens!</description>
   </item>
   <item>
     <title>w3c / ServiceWorker</title>
@@ -31,19 +26,19 @@
     <description>A mechanism to selectively enable and disable browser features and APIs</description>
   </item>
   <item>
-    <title>immersive-web / webxr</title>
-    <link>https://github.com/immersive-web/webxr</link>
-    <description>Repository for the WebXR Device API Specification.</description>
-  </item>
-  <item>
     <title>WebAudio / web-audio-api</title>
     <link>https://github.com/WebAudio/web-audio-api</link>
     <description>The Web Audio API v1.0, developed by the W3C Audio WG</description>
   </item>
   <item>
-    <title>patcg-individual-drafts / topics</title>
-    <link>https://github.com/patcg-individual-drafts/topics</link>
-    <description>The Topics API</description>
+    <title>gpuweb / gpuweb</title>
+    <link>https://github.com/gpuweb/gpuweb</link>
+    <description>Where the GPU for the Web work happens!</description>
+  </item>
+  <item>
+    <title>immersive-web / webxr</title>
+    <link>https://github.com/immersive-web/webxr</link>
+    <description>Repository for the WebXR Device API Specification.</description>
   </item>
   <item>
     <title>w3c / webextensions</title>
@@ -51,9 +46,9 @@
     <description>Charter and administrivia for the WebExtensions Community Group (WECG)</description>
   </item>
   <item>
-    <title>WICG / first-party-sets</title>
-    <link>https://github.com/WICG/first-party-sets</link>
-    <description></description>
+    <title>patcg-individual-drafts / topics</title>
+    <link>https://github.com/patcg-individual-drafts/topics</link>
+    <description>The Topics API</description>
   </item>
 </channel>
 </rss>

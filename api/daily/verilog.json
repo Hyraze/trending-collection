@@ -2,18 +2,8 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
-    {
-      "title": "analogdevicesinc / hdl",
-      "url": "https://github.com/analogdevicesinc/hdl",
-      "description": "HDL libraries and projects",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 1990,
-      "forks": 1670,
-      "added_stars": "1 star today"
-    },
     {
       "title": "YosysHQ / picorv32",
       "url": "https://github.com/YosysHQ/picorv32",
@@ -22,7 +12,7 @@
       "languageColor": "#b2b7f8",
       "stars": 4307,
       "forks": 988,
-      "added_stars": "4 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "The-OpenROAD-Project / OpenROAD",
@@ -30,9 +20,39 @@
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 2950,
-      "forks": 978,
-      "added_stars": "4 stars today"
+      "stars": 2951,
+      "forks": 980,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "The-OpenROAD-Project / OpenSTA",
+      "url": "https://github.com/The-OpenROAD-Project/OpenSTA",
+      "description": "OpenSTA engine",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 597,
+      "forks": 265,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "analogdevicesinc / hdl",
+      "url": "https://github.com/analogdevicesinc/hdl",
+      "description": "HDL libraries and projects",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 1992,
+      "forks": 1670,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "corundum / corundum",
+      "url": "https://github.com/corundum/corundum",
+      "description": "Open source FPGA-based NIC and platform for in-network compute",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 2413,
+      "forks": 547,
+      "added_stars": "0 stars today"
     },
     {
       "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
@@ -40,18 +60,8 @@
       "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 701,
+      "stars": 702,
       "forks": 518,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "XUANTIE-RV / openc910",
-      "url": "https://github.com/XUANTIE-RV/openc910",
-      "description": "OpenXuantie - OpenC910 Core",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 1462,
-      "forks": 397,
       "added_stars": "0 stars today"
     },
     {
@@ -62,7 +72,17 @@
       "languageColor": "#b2b7f8",
       "stars": 1258,
       "forks": 775,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "vortexgpgpu / vortex",
+      "url": "https://github.com/vortexgpgpu/vortex",
+      "description": "",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 2190,
+      "forks": 520,
+      "added_stars": "2 stars today"
     }
   ]
 }

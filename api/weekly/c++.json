@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "microsoft / microsoft-ui-xaml",
@@ -10,19 +10,9 @@
       "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7833,
+      "stars": 7836,
       "forks": 874,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "geo-tp / ESP32-Bit-Pirate",
-      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5356,
-      "forks": 430,
-      "added_stars": "737 stars this week"
+      "added_stars": "39 stars this week"
     },
     {
       "title": "godotengine / godot",
@@ -30,9 +20,19 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 115283,
-      "forks": 26273,
-      "added_stars": "519 stars this week"
+      "stars": 115329,
+      "forks": 26285,
+      "added_stars": "509 stars this week"
+    },
+    {
+      "title": "cloudflare / workerd",
+      "url": "https://github.com/cloudflare/workerd",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8530,
+      "forks": 694,
+      "added_stars": "100 stars this week"
     },
     {
       "title": "FEX-Emu / FEX",
@@ -40,9 +40,19 @@
       "description": "A fast usermode x86 and x86-64 emulator for Arm64 Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7827,
-      "forks": 313,
-      "added_stars": "71 stars this week"
+      "stars": 7830,
+      "forks": 315,
+      "added_stars": "73 stars this week"
+    },
+    {
+      "title": "geo-tp / ESP32-Bit-Pirate",
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 5364,
+      "forks": 432,
+      "added_stars": "459 stars this week"
     },
     {
       "title": "MaaAssistantArknights / MaaAssistantArknights",
@@ -50,69 +60,9 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 22359,
-      "forks": 2761,
-      "added_stars": "190 stars this week"
-    },
-    {
-      "title": "lightvector / KataGo",
-      "url": "https://github.com/lightvector/KataGo",
-      "description": "GTP engine and self-play learning in Go",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 4928,
-      "forks": 738,
-      "added_stars": "50 stars this week"
-    },
-    {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 196896,
-      "forks": 75903,
-      "added_stars": "356 stars this week"
-    },
-    {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 122937,
-      "forks": 21400,
-      "added_stars": "921 stars this week"
-    },
-    {
-      "title": "MariaDB / server",
-      "url": "https://github.com/MariaDB/server",
-      "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8052,
-      "forks": 2082,
-      "added_stars": "146 stars this week"
-    },
-    {
-      "title": "aria2 / aria2",
-      "url": "https://github.com/aria2/aria2",
-      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41660,
-      "forks": 3888,
-      "added_stars": "88 stars this week"
-    },
-    {
-      "title": "trustwallet / wallet-core",
-      "url": "https://github.com/trustwallet/wallet-core",
-      "description": "Cross-platform, cross-blockchain wallet library.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3547,
-      "forks": 1970,
-      "added_stars": "3 stars this week"
+      "stars": 22371,
+      "forks": 2764,
+      "added_stars": "178 stars this week"
     },
     {
       "title": "wazuh / wazuh",
@@ -120,49 +70,19 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16445,
-      "forks": 2422,
-      "added_stars": "111 stars this week"
+      "stars": 16456,
+      "forks": 2425,
+      "added_stars": "105 stars this week"
     },
     {
-      "title": "argotorg / solidity",
-      "url": "https://github.com/argotorg/solidity",
-      "description": "Solidity, the Smart Contract Programming Language",
+      "title": "barry-ran / QtScrcpy",
+      "url": "https://github.com/barry-ran/QtScrcpy",
+      "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25693,
-      "forks": 6143,
-      "added_stars": "25 stars this week"
-    },
-    {
-      "title": "ClickHouse / ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a real-time analytics database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 49101,
-      "forks": 8754,
-      "added_stars": "169 stars this week"
-    },
-    {
-      "title": "orailnoor / cross-platform-llm-client",
-      "url": "https://github.com/orailnoor/cross-platform-llm-client",
-      "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 836,
-      "forks": 175,
-      "added_stars": "143 stars this week"
-    },
-    {
-      "title": "RPCS3 / rpcs3",
-      "url": "https://github.com/RPCS3/rpcs3",
-      "description": "PlayStation 3 emulator and debugger",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 19377,
-      "forks": 2367,
-      "added_stars": "74 stars this week"
+      "stars": 31229,
+      "forks": 3716,
+      "added_stars": "443 stars this week"
     },
     {
       "title": "dyang886 / Game-Cheats-Manager",
@@ -170,49 +90,139 @@
       "description": "Easily download and manage single-player game cheats for your convenience",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 13955,
-      "forks": 477,
-      "added_stars": "330 stars this week"
+      "stars": 13977,
+      "forks": 476,
+      "added_stars": "346 stars this week"
     },
     {
-      "title": "osquery / osquery",
-      "url": "https://github.com/osquery/osquery",
-      "description": "SQL powered operating system instrumentation, monitoring, and analytics.",
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23431,
-      "forks": 2589,
-      "added_stars": "18 stars this week"
+      "stars": 196914,
+      "forks": 75920,
+      "added_stars": "346 stars this week"
     },
     {
-      "title": "deepseek-ai / FlashMLA",
-      "url": "https://github.com/deepseek-ai/FlashMLA",
-      "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+      "title": "ClickHouse / ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12824,
-      "forks": 1115,
+      "stars": 49116,
+      "forks": 8755,
+      "added_stars": "165 stars this week"
+    },
+    {
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 123033,
+      "forks": 21437,
+      "added_stars": "894 stars this week"
+    },
+    {
+      "title": "aria2 / aria2",
+      "url": "https://github.com/aria2/aria2",
+      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41666,
+      "forks": 3888,
+      "added_stars": "96 stars this week"
+    },
+    {
+      "title": "argotorg / solidity",
+      "url": "https://github.com/argotorg/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 25692,
+      "forks": 6143,
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "RPCS3 / rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3",
+      "description": "PlayStation 3 emulator and debugger",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 19385,
+      "forks": 2369,
+      "added_stars": "77 stars this week"
+    },
+    {
+      "title": "aseprite / aseprite",
+      "url": "https://github.com/aseprite/aseprite",
+      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 38588,
+      "forks": 8600,
+      "added_stars": "161 stars this week"
+    },
+    {
+      "title": "orailnoor / cross-platform-llm-client",
+      "url": "https://github.com/orailnoor/cross-platform-llm-client",
+      "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 856,
+      "forks": 179,
+      "added_stars": "160 stars this week"
+    },
+    {
+      "title": "microsoft / winget-cli",
+      "url": "https://github.com/microsoft/winget-cli",
+      "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 26287,
+      "forks": 1773,
+      "added_stars": "43 stars this week"
+    },
+    {
+      "title": "lightvector / KataGo",
+      "url": "https://github.com/lightvector/KataGo",
+      "description": "GTP engine and self-play learning in Go",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4932,
+      "forks": 740,
+      "added_stars": "50 stars this week"
+    },
+    {
+      "title": "PCSX2 / pcsx2",
+      "url": "https://github.com/PCSX2/pcsx2",
+      "description": "PCSX2 - The Playstation 2 Emulator",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 15273,
+      "forks": 2106,
       "added_stars": "38 stars this week"
     },
     {
-      "title": "MarlinFirmware / Marlin",
-      "url": "https://github.com/MarlinFirmware/Marlin",
-      "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers. Marlin supports all common platforms. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+      "title": "google / googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17516,
-      "forks": 19720,
-      "added_stars": "13 stars this week"
+      "stars": 38910,
+      "forks": 10839,
+      "added_stars": "33 stars this week"
     },
     {
-      "title": "mltframework / shotcut",
-      "url": "https://github.com/mltframework/shotcut",
-      "description": "cross-platform (Qt), open-source (GPLv3) video editor",
+      "title": "official-stockfish / Stockfish",
+      "url": "https://github.com/official-stockfish/Stockfish",
+      "description": "A free and strong UCI chess engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14855,
-      "forks": 1464,
-      "added_stars": "190 stars this week"
+      "stars": 16258,
+      "forks": 2973,
+      "added_stars": "65 stars this week"
     }
   ]
 }

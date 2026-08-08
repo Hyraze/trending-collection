@@ -4,16 +4,11 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
     <title>harbor-framework / terminal-bench-science</title>
     <link>https://github.com/harbor-framework/terminal-bench-science</link>
     <description>Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal</description>
-  </item>
-  <item>
-    <title>leanprover / comparator</title>
-    <link>https://github.com/leanprover/comparator</link>
-    <description></description>
   </item>
   <item>
     <title>leanprover / verso</title>
@@ -21,9 +16,14 @@
     <description>Lean documentation authoring tool</description>
   </item>
   <item>
-    <title>argumentcomputer / ix</title>
-    <link>https://github.com/argumentcomputer/ix</link>
-    <description>a zero-knowledge proof-carrying code platform for Lean 4</description>
+    <title>leanprover-community / physlib</title>
+    <link>https://github.com/leanprover-community/physlib</link>
+    <description>A project to digitalise results from physics into Lean.</description>
+  </item>
+  <item>
+    <title>teorth / analysis</title>
+    <link>https://github.com/teorth/analysis</link>
+    <description>A Lean companion to Analysis I</description>
   </item>
   <item>
     <title>google-deepmind / formal-conjectures</title>
@@ -36,19 +36,14 @@
     <description>Lean 4 programming language and theorem prover</description>
   </item>
   <item>
-    <title>emberian / dregg</title>
-    <link>https://github.com/emberian/dregg</link>
-    <description>Distributed object-capability authorization with ZK proofs</description>
+    <title>leanprover / cslib</title>
+    <link>https://github.com/leanprover/cslib</link>
+    <description>The Lean Computer Science Library (CSLib)</description>
   </item>
   <item>
-    <title>leanprover / lean-eval</title>
-    <link>https://github.com/leanprover/lean-eval</link>
-    <description>Comparator-based Lean formal mathematics eval</description>
-  </item>
-  <item>
-    <title>leanprover-community / mathlib4</title>
-    <link>https://github.com/leanprover-community/mathlib4</link>
-    <description>The math library of Lean 4</description>
+    <title>leanprover-community / batteries</title>
+    <link>https://github.com/leanprover-community/batteries</link>
+    <description>The &quot;batteries included&quot; extended library for the Lean programming language and theorem prover</description>
   </item>
 </channel>
 </rss>

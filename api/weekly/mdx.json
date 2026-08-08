@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "twbs / bootstrap",
@@ -10,29 +10,9 @@
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 174565,
-      "forks": 78686,
-      "added_stars": "74 stars this week"
-    },
-    {
-      "title": "huggingface / agents-course",
-      "url": "https://github.com/huggingface/agents-course",
-      "description": "This repository contains the Hugging Face Agents Course.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 30743,
-      "forks": 2193,
-      "added_stars": "217 stars this week"
-    },
-    {
-      "title": "solana-foundation / solana-com",
-      "url": "https://github.com/solana-foundation/solana-com",
-      "description": "The solana.com website.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 492,
-      "forks": 380,
-      "added_stars": "4 stars this week"
+      "stars": 174569,
+      "forks": 78681,
+      "added_stars": "69 stars this week"
     },
     {
       "title": "langchain-ai / docs",
@@ -41,18 +21,18 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 392,
-      "forks": 2577,
+      "forks": 2578,
       "added_stars": "10 stars this week"
     },
     {
-      "title": "dair-ai / Prompt-Engineering-Guide",
-      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "title": "huggingface / agents-course",
+      "url": "https://github.com/huggingface/agents-course",
+      "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 77319,
-      "forks": 8495,
-      "added_stars": "205 stars this week"
+      "stars": 30770,
+      "forks": 2194,
+      "added_stars": "225 stars this week"
     },
     {
       "title": "discord / discord-api-docs",
@@ -60,9 +40,29 @@
       "description": "Official Discord Developer Docs",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 6452,
+      "stars": 6454,
       "forks": 1374,
-      "added_stars": "9 stars this week"
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "withastro / docs",
+      "url": "https://github.com/withastro/docs",
+      "description": "Astro documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1673,
+      "forks": 1872,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "cloudflare / cloudflare-docs",
+      "url": "https://github.com/cloudflare/cloudflare-docs",
+      "description": "Cloudflare’s documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 5058,
+      "forks": 16247,
+      "added_stars": "36 stars this week"
     },
     {
       "title": "getsentry / sentry-docs",
@@ -71,18 +71,8 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 441,
-      "forks": 1692,
+      "forks": 1693,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "cloudflare / cloudflare-docs",
-      "url": "https://github.com/cloudflare/cloudflare-docs",
-      "description": "Cloudflare’s documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 5051,
-      "forks": 16236,
-      "added_stars": "34 stars this week"
     },
     {
       "title": "esphome / esphome.io",
@@ -90,9 +80,9 @@
       "description": "Source for esphome.io documentation files.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 450,
-      "forks": 2346,
-      "added_stars": "1 star this week"
+      "stars": 451,
+      "forks": 2347,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "react / react-native-website",
@@ -101,18 +91,28 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 2153,
-      "forks": 6261,
-      "added_stars": "1 star this week"
+      "forks": 6262,
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "wasp-lang / open-saas",
-      "url": "https://github.com/wasp-lang/open-saas",
-      "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
+      "title": "dair-ai / Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 15171,
-      "forks": 1812,
-      "added_stars": "72 stars this week"
+      "stars": 77338,
+      "forks": 8498,
+      "added_stars": "209 stars this week"
+    },
+    {
+      "title": "prisma / web",
+      "url": "https://github.com/prisma/web",
+      "description": "📚 Prisma Web Monorepo",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1095,
+      "forks": 983,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "enactic / openarm",
@@ -120,7 +120,7 @@
       "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 2817,
+      "stars": 2821,
       "forks": 307,
       "added_stars": "32 stars this week"
     },
@@ -135,36 +135,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "hashicorp / web-unified-docs",
-      "url": "https://github.com/hashicorp/web-unified-docs",
-      "description": "Hashicorp Unified Docs",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 78,
-      "forks": 252,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "tauri-apps / tauri-docs",
-      "url": "https://github.com/tauri-apps/tauri-docs",
-      "description": "The source for all Tauri project documentation.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 1127,
-      "forks": 884,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "prisma / web",
-      "url": "https://github.com/prisma/web",
-      "description": "📚 Prisma Web Monorepo",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 1095,
-      "forks": 981,
-      "added_stars": "3 stars this week"
-    },
-    {
       "title": "camunda / camunda-docs",
       "url": "https://github.com/camunda/camunda-docs",
       "description": "Camunda 8 Documentation, including all components and features",
@@ -173,36 +143,6 @@
       "stars": 68,
       "forks": 241,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "huggingface / course",
-      "url": "https://github.com/huggingface/course",
-      "description": "The Hugging Face course on Transformers",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 4110,
-      "forks": 1386,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "smartcontractkit / documentation",
-      "url": "https://github.com/smartcontractkit/documentation",
-      "description": "https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 525,
-      "forks": 472,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "ton-blockchain / docs",
-      "url": "https://github.com/ton-blockchain/docs",
-      "description": "TON developer documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 55,
-      "forks": 89,
-      "added_stars": "2 stars this week"
     },
     {
       "title": "mintlify / docs",
@@ -225,14 +165,54 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "npm / documentation",
-      "url": "https://github.com/npm/documentation",
-      "description": "Documentation for the npm registry, website, and command-line interface.",
+      "title": "smartcontractkit / documentation",
+      "url": "https://github.com/smartcontractkit/documentation",
+      "description": "https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 693,
-      "forks": 4118,
-      "added_stars": "3 stars this week"
+      "stars": 525,
+      "forks": 472,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "ton-blockchain / docs",
+      "url": "https://github.com/ton-blockchain/docs",
+      "description": "TON developer documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 56,
+      "forks": 89,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "huggingface / course",
+      "url": "https://github.com/huggingface/course",
+      "description": "The Hugging Face course on Transformers",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 4112,
+      "forks": 1386,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "solana-foundation / solana-com",
+      "url": "https://github.com/solana-foundation/solana-com",
+      "description": "The solana.com website.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 492,
+      "forks": 380,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "gpxstudio / gpx.studio",
+      "url": "https://github.com/gpxstudio/gpx.studio",
+      "description": "the online GPX file editor",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 1154,
+      "forks": 250,
+      "added_stars": "16 stars this week"
     }
   ]
 }

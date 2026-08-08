@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepSeek-LLM",
@@ -10,9 +10,9 @@
       "description": "DeepSeek LLM: Let there be answers",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 7208,
+      "stars": 7212,
       "forks": 1279,
-      "added_stars": "229 stars this month"
+      "added_stars": "220 stars this month"
     },
     {
       "title": "openwrt / packages",
@@ -20,9 +20,19 @@
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4574,
+      "stars": 4576,
       "forks": 3934,
-      "added_stars": "42 stars this month"
+      "added_stars": "43 stars this month"
+    },
+    {
+      "title": "golang-standards / project-layout",
+      "url": "https://github.com/golang-standards/project-layout",
+      "description": "Standard Go Project Layout",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 56415,
+      "forks": 5431,
+      "added_stars": "228 stars this month"
     },
     {
       "title": "HaveAGitGat / Tdarr",
@@ -32,7 +42,7 @@
       "languageColor": "#427819",
       "stars": 4261,
       "forks": 120,
-      "added_stars": "74 stars this month"
+      "added_stars": "71 stars this month"
     },
     {
       "title": "ROCKNIX / distribution",
@@ -40,9 +50,19 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1475,
+      "stars": 1477,
       "forks": 324,
-      "added_stars": "86 stars this month"
+      "added_stars": "85 stars this month"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-specification",
+      "url": "https://github.com/open-telemetry/opentelemetry-specification",
+      "description": "Specifications for OpenTelemetry",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4302,
+      "forks": 992,
+      "added_stars": "31 stars this month"
     },
     {
       "title": "awesome-selfhosted / awesome-selfhosted-data",
@@ -51,18 +71,8 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": 1086,
-      "forks": 1237,
+      "forks": 1239,
       "added_stars": "54 stars this month"
-    },
-    {
-      "title": "golang-standards / project-layout",
-      "url": "https://github.com/golang-standards/project-layout",
-      "description": "Standard Go Project Layout",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 56410,
-      "forks": 5433,
-      "added_stars": "228 stars this month"
     },
     {
       "title": "open-telemetry / opentelemetry-proto",
@@ -75,34 +85,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "open-telemetry / opentelemetry-specification",
-      "url": "https://github.com/open-telemetry/opentelemetry-specification",
-      "description": "Specifications for OpenTelemetry",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4302,
-      "forks": 992,
-      "added_stars": "32 stars this month"
-    },
-    {
       "title": "freebsd / freebsd-ports",
       "url": "https://github.com/freebsd/freebsd-ports",
       "description": "FreeBSD ports tree (read-only mirror)",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1194,
+      "stars": 1195,
       "forks": 865,
-      "added_stars": "15 stars this month"
-    },
-    {
-      "title": "foostan / crkbd",
-      "url": "https://github.com/foostan/crkbd",
-      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 7583,
-      "forks": 1098,
-      "added_stars": "75 stars this month"
+      "added_stars": "16 stars this month"
     },
     {
       "title": "NetBSD / pkgsrc",
@@ -122,7 +112,17 @@
       "languageColor": "#427819",
       "stars": 251,
       "forks": 47,
-      "added_stars": "7 stars this month"
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "LibreELEC / LibreELEC.tv",
+      "url": "https://github.com/LibreELEC/LibreELEC.tv",
+      "description": "Just enough OS for KODI",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 2795,
+      "forks": 1193,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "Ysurac / openmptcprouter",
@@ -132,16 +132,6 @@
       "languageColor": "#427819",
       "stars": 2448,
       "forks": 348,
-      "added_stars": "22 stars this month"
-    },
-    {
-      "title": "LibreELEC / LibreELEC.tv",
-      "url": "https://github.com/LibreELEC/LibreELEC.tv",
-      "description": "Just enough OS for KODI",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 2794,
-      "forks": 1195,
       "added_stars": "21 stars this month"
     },
     {
@@ -150,9 +140,29 @@
       "description": "A sample pack of GitHub Agentic Workflows!",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 886,
+      "stars": 890,
       "forks": 130,
-      "added_stars": "69 stars this month"
+      "added_stars": "71 stars this month"
+    },
+    {
+      "title": "foostan / crkbd",
+      "url": "https://github.com/foostan/crkbd",
+      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7582,
+      "forks": 1099,
+      "added_stars": "73 stars this month"
+    },
+    {
+      "title": "PartialVolume / shredos.x86_64",
+      "url": "https://github.com/PartialVolume/shredos.x86_64",
+      "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 3103,
+      "forks": 138,
+      "added_stars": "41 stars this month"
     }
   ]
 }

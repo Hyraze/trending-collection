@@ -4,7 +4,7 @@
   <title>GitHub Ruby Languages Daily Trending</title>
   <description>Daily Trending of Ruby Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>rails / rails</title>
     <link>https://github.com/rails/rails</link>
@@ -16,14 +16,14 @@
     <description>GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com</description>
   </item>
   <item>
-    <title>docusealco / docuseal</title>
-    <link>https://github.com/docusealco/docuseal</link>
-    <description>Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</description>
-  </item>
-  <item>
     <title>discourse / discourse</title>
     <link>https://github.com/discourse/discourse</link>
     <description>A platform for community discussion. Free, open, simple.</description>
+  </item>
+  <item>
+    <title>docusealco / docuseal</title>
+    <link>https://github.com/docusealco/docuseal</link>
+    <description>Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</description>
   </item>
   <item>
     <title>Freika / dawarich</title>
@@ -36,6 +36,11 @@
     <description>🤖 Dependabot&#x27;s core logic for creating update PRs.</description>
   </item>
   <item>
+    <title>Homebrew / brew</title>
+    <link>https://github.com/Homebrew/brew</link>
+    <description>🍺 The Package Manager for Everywhere</description>
+  </item>
+  <item>
     <title>opf / openproject</title>
     <link>https://github.com/opf/openproject</link>
     <description>OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us on GitHub</description>
@@ -46,9 +51,9 @@
     <description>Metasploit Framework</description>
   </item>
   <item>
-    <title>Homebrew / brew</title>
-    <link>https://github.com/Homebrew/brew</link>
-    <description>🍺 The Package Manager for Everywhere</description>
+    <title>ruby / ruby</title>
+    <link>https://github.com/ruby/ruby</link>
+    <description>The Ruby Programming Language</description>
   </item>
   <item>
     <title>chatwoot / chatwoot</title>
@@ -59,16 +64,6 @@
     <title>antiwork / gumroad</title>
     <link>https://github.com/antiwork/gumroad</link>
     <description>See what sticks</description>
-  </item>
-  <item>
-    <title>ruby / ruby</title>
-    <link>https://github.com/ruby/ruby</link>
-    <description>The Ruby Programming Language</description>
-  </item>
-  <item>
-    <title>freeCodeCamp / devdocs</title>
-    <link>https://github.com/freeCodeCamp/devdocs</link>
-    <description>API Documentation Browser</description>
   </item>
   <item>
     <title>Homebrew / homebrew-cask</title>
@@ -101,6 +96,11 @@
     <description>Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.</description>
   </item>
   <item>
+    <title>freeCodeCamp / devdocs</title>
+    <link>https://github.com/freeCodeCamp/devdocs</link>
+    <description>API Documentation Browser</description>
+  </item>
+  <item>
     <title>zammad / zammad</title>
     <link>https://github.com/zammad/zammad</link>
     <description>Zammad is a web based open source helpdesk/customer support system.</description>
@@ -111,19 +111,14 @@
     <description>Google Cloud Client Library for Ruby</description>
   </item>
   <item>
-    <title>huginn / huginn</title>
-    <link>https://github.com/huginn/huginn</link>
-    <description>Create agents that monitor and act on your behalf. Your agents are standing by!</description>
+    <title>postalserver / postal</title>
+    <link>https://github.com/postalserver/postal</link>
+    <description>📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail</description>
   </item>
   <item>
     <title>github-linguist / linguist</title>
     <link>https://github.com/github-linguist/linguist</link>
     <description>Language Savant. If your repository&#x27;s language is being reported incorrectly, send us a pull request!</description>
-  </item>
-  <item>
-    <title>fastlane / fastlane</title>
-    <link>https://github.com/fastlane/fastlane</link>
-    <description>🚀 The easiest way to automate building and releasing your iOS and Android apps</description>
   </item>
 </channel>
 </rss>

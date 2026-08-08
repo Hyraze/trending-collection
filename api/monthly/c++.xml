@@ -4,7 +4,7 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>abseil / abseil-cpp</title>
     <link>https://github.com/abseil/abseil-cpp</link>
@@ -36,19 +36,14 @@
     <description>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</description>
   </item>
   <item>
-    <title>aseprite / aseprite</title>
-    <link>https://github.com/aseprite/aseprite</link>
-    <description>Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)</description>
-  </item>
-  <item>
     <title>moonshine-ai / moonshine</title>
     <link>https://github.com/moonshine-ai/moonshine</link>
     <description>Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces</description>
   </item>
   <item>
-    <title>tensorflow / tensorflow</title>
-    <link>https://github.com/tensorflow/tensorflow</link>
-    <description>An Open Source Machine Learning Framework for Everyone</description>
+    <title>hyprwm / Hyprland</title>
+    <link>https://github.com/hyprwm/Hyprland</link>
+    <description>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#x27;t sacrifice on its looks.</description>
   </item>
   <item>
     <title>google-ai-edge / LiteRT</title>
@@ -61,14 +56,14 @@
     <description>Community maintained hardware plugin for vLLM on Ascend</description>
   </item>
   <item>
-    <title>catchorg / Catch2</title>
-    <link>https://github.com/catchorg/Catch2</link>
-    <description>A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</description>
+    <title>aseprite / aseprite</title>
+    <link>https://github.com/aseprite/aseprite</link>
+    <description>Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)</description>
   </item>
   <item>
-    <title>hyprwm / Hyprland</title>
-    <link>https://github.com/hyprwm/Hyprland</link>
-    <description>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#x27;t sacrifice on its looks.</description>
+    <title>tensorflow / tensorflow</title>
+    <link>https://github.com/tensorflow/tensorflow</link>
+    <description>An Open Source Machine Learning Framework for Everyone</description>
   </item>
   <item>
     <title>microsoft / terminal</title>
@@ -76,44 +71,14 @@
     <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
   </item>
   <item>
+    <title>catchorg / Catch2</title>
+    <link>https://github.com/catchorg/Catch2</link>
+    <description>A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</description>
+  </item>
+  <item>
     <title>YimMenu / YimMenuV2</title>
     <link>https://github.com/YimMenu/YimMenuV2</link>
     <description>Experimental menu for GTA 5: Enhanced</description>
-  </item>
-  <item>
-    <title>gabime / spdlog</title>
-    <link>https://github.com/gabime/spdlog</link>
-    <description>Fast C++ logging library.</description>
-  </item>
-  <item>
-    <title>godotengine / godot</title>
-    <link>https://github.com/godotengine/godot</link>
-    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
-  </item>
-  <item>
-    <title>huxingyi / autoremesher</title>
-    <link>https://github.com/huxingyi/autoremesher</link>
-    <description>Automatic quad remeshing tool</description>
-  </item>
-  <item>
-    <title>nlohmann / json</title>
-    <link>https://github.com/nlohmann/json</link>
-    <description>JSON for Modern C++</description>
-  </item>
-  <item>
-    <title>ocornut / imgui</title>
-    <link>https://github.com/ocornut/imgui</link>
-    <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
-  </item>
-  <item>
-    <title>shadps4-emu / shadPS4</title>
-    <link>https://github.com/shadps4-emu/shadPS4</link>
-    <description>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</description>
-  </item>
-  <item>
-    <title>LibreCAD / LibreCAD</title>
-    <link>https://github.com/LibreCAD/LibreCAD</link>
-    <description>LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customizable, and has dozens of translations.</description>
   </item>
   <item>
     <title>protocolbuffers / protobuf</title>
@@ -121,14 +86,49 @@
     <description>Protocol Buffers - Google&#x27;s data interchange format</description>
   </item>
   <item>
-    <title>nasa / fprime</title>
-    <link>https://github.com/nasa/fprime</link>
-    <description>F´ - A flight software and embedded systems framework</description>
+    <title>nlohmann / json</title>
+    <link>https://github.com/nlohmann/json</link>
+    <description>JSON for Modern C++</description>
+  </item>
+  <item>
+    <title>gabime / spdlog</title>
+    <link>https://github.com/gabime/spdlog</link>
+    <description>Fast C++ logging library.</description>
+  </item>
+  <item>
+    <title>shadps4-emu / shadPS4</title>
+    <link>https://github.com/shadps4-emu/shadPS4</link>
+    <description>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</description>
+  </item>
+  <item>
+    <title>godotengine / godot</title>
+    <link>https://github.com/godotengine/godot</link>
+    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
+  </item>
+  <item>
+    <title>ocornut / imgui</title>
+    <link>https://github.com/ocornut/imgui</link>
+    <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
   </item>
   <item>
     <title>ClickHouse / ClickHouse</title>
     <link>https://github.com/ClickHouse/ClickHouse</link>
     <description>ClickHouse® is a real-time analytics database management system</description>
+  </item>
+  <item>
+    <title>LibreCAD / LibreCAD</title>
+    <link>https://github.com/LibreCAD/LibreCAD</link>
+    <description>LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customizable, and has dozens of translations.</description>
+  </item>
+  <item>
+    <title>nasa / fprime</title>
+    <link>https://github.com/nasa/fprime</link>
+    <description>F´ - A flight software and embedded systems framework</description>
+  </item>
+  <item>
+    <title>amnezia-vpn / amnezia-client</title>
+    <link>https://github.com/amnezia-vpn/amnezia-client</link>
+    <description>Amnezia VPN Client (Desktop+Mobile)</description>
   </item>
 </channel>
 </rss>

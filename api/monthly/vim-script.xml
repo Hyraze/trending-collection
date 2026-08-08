@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
@@ -21,14 +21,14 @@
     <description>The official Vim repository</description>
   </item>
   <item>
-    <title>junegunn / vim-plug</title>
-    <link>https://github.com/junegunn/vim-plug</link>
-    <description>🌺 Minimalist Vim Plugin Manager</description>
-  </item>
-  <item>
     <title>sainnhe / everforest</title>
     <link>https://github.com/sainnhe/everforest</link>
     <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
+  </item>
+  <item>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
     <title>fatih / vim-go</title>
@@ -51,9 +51,9 @@
     <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
-    <title>tpope / vim-rhubarb</title>
-    <link>https://github.com/tpope/vim-rhubarb</link>
-    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
+    <title>andymass / vim-matchup</title>
+    <link>https://github.com/andymass/vim-matchup</link>
+    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
   </item>
   <item>
     <title>preservim / nerdtree</title>
@@ -61,19 +61,14 @@
     <description>A tree explorer plugin for vim.</description>
   </item>
   <item>
-    <title>andymass / vim-matchup</title>
-    <link>https://github.com/andymass/vim-matchup</link>
-    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
-  </item>
-  <item>
     <title>tpope / vim-sensible</title>
     <link>https://github.com/tpope/vim-sensible</link>
     <description>sensible.vim: Defaults everyone can agree on</description>
   </item>
   <item>
-    <title>romainl / vim-cool</title>
-    <link>https://github.com/romainl/vim-cool</link>
-    <description>A very simple plugin that makes hlsearch more useful.</description>
+    <title>tpope / vim-rhubarb</title>
+    <link>https://github.com/tpope/vim-rhubarb</link>
+    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
   </item>
   <item>
     <title>amix / vimrc</title>
@@ -81,19 +76,34 @@
     <description>The ultimate Vim configuration (vimrc)</description>
   </item>
   <item>
-    <title>mhinz / vim-galore</title>
-    <link>https://github.com/mhinz/vim-galore</link>
-    <description>🎓 All things Vim!</description>
-  </item>
-  <item>
     <title>easymotion / vim-easymotion</title>
     <link>https://github.com/easymotion/vim-easymotion</link>
     <description>Vim motions on speed!</description>
   </item>
   <item>
-    <title>mg979 / vim-visual-multi</title>
-    <link>https://github.com/mg979/vim-visual-multi</link>
-    <description>Multiple cursors plugin for vim/neovim</description>
+    <title>mhinz / vim-galore</title>
+    <link>https://github.com/mhinz/vim-galore</link>
+    <description>🎓 All things Vim!</description>
+  </item>
+  <item>
+    <title>jbranchaud / til</title>
+    <link>https://github.com/jbranchaud/til</link>
+    <description>📝 Today I Learned</description>
+  </item>
+  <item>
+    <title>hrsh7th / vim-vsnip</title>
+    <link>https://github.com/hrsh7th/vim-vsnip</link>
+    <description>Snippet plugin for vim/nvim that supports LSP/VSCode&#x27;s snippet format.</description>
+  </item>
+  <item>
+    <title>romainl / vim-cool</title>
+    <link>https://github.com/romainl/vim-cool</link>
+    <description>A very simple plugin that makes hlsearch more useful.</description>
+  </item>
+  <item>
+    <title>prabirshrestha / vim-lsp</title>
+    <link>https://github.com/prabirshrestha/vim-lsp</link>
+    <description>async language server protocol plugin for vim and neovim</description>
   </item>
 </channel>
 </rss>

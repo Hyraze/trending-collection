@@ -4,41 +4,21 @@
   <title>GitHub Nim Languages Daily Trending</title>
   <description>Daily Trending of Nim Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
     <title>zedeus / nitter</title>
     <link>https://github.com/zedeus/nitter</link>
     <description>Alternative Twitter front-end</description>
   </item>
   <item>
-    <title>vacp2p / nim-libp2p</title>
-    <link>https://github.com/vacp2p/nim-libp2p</link>
-    <description>libp2p implementation in Nim</description>
-  </item>
-  <item>
-    <title>status-im / nimbus-eth1</title>
-    <link>https://github.com/status-im/nimbus-eth1</link>
-    <description>Nimbus: an Ethereum Execution Client for Resource-Restricted Devices</description>
-  </item>
-  <item>
-    <title>logos-messaging / logos-delivery</title>
-    <link>https://github.com/logos-messaging/logos-delivery</link>
-    <description>Logos Messaging protocols implemented in Nim</description>
-  </item>
-  <item>
-    <title>nim-lang / packages</title>
-    <link>https://github.com/nim-lang/packages</link>
-    <description>List of packages for Nimble</description>
-  </item>
-  <item>
-    <title>status-im / nimbus-eth2</title>
-    <link>https://github.com/status-im/nimbus-eth2</link>
-    <description>Nim implementation of the Ethereum Beacon Chain</description>
-  </item>
-  <item>
     <title>status-im / nim-stew</title>
     <link>https://github.com/status-im/nim-stew</link>
     <description>stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.</description>
+  </item>
+  <item>
+    <title>vacp2p / nim-libp2p</title>
+    <link>https://github.com/vacp2p/nim-libp2p</link>
+    <description>libp2p implementation in Nim</description>
   </item>
 </channel>
 </rss>

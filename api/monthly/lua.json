@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "koreader / koreader",
@@ -10,9 +10,9 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 28750,
-      "forks": 1850,
-      "added_stars": "1,194 stars this month"
+      "stars": 28796,
+      "forks": 1855,
+      "added_stars": "1,203 stars this month"
     },
     {
       "title": "PathOfBuildingCommunity / PathOfBuilding",
@@ -20,7 +20,7 @@
       "description": "Offline build planner for Path of Exile.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5403,
+      "stars": 5404,
       "forks": 2391,
       "added_stars": "100 stars this month"
     },
@@ -30,19 +30,9 @@
       "description": "The Cloud-Native API Gateway and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 16963,
+      "stars": 16968,
       "forks": 2913,
-      "added_stars": "165 stars this month"
-    },
-    {
-      "title": "neovim / nvim-lspconfig",
-      "url": "https://github.com/neovim/nvim-lspconfig",
-      "description": "Quickstart configs for Nvim LSP",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 13842,
-      "forks": 2474,
-      "added_stars": "82 stars this month"
+      "added_stars": "161 stars this month"
     },
     {
       "title": "Kong / kong",
@@ -50,39 +40,19 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 43935,
+      "stars": 43947,
       "forks": 5197,
-      "added_stars": "227 stars this month"
+      "added_stars": "230 stars this month"
     },
     {
-      "title": "catppuccin / nvim",
-      "url": "https://github.com/catppuccin/nvim",
-      "description": "🍨 Soothing pastel theme for Neovim",
+      "title": "neovim / nvim-lspconfig",
+      "url": "https://github.com/neovim/nvim-lspconfig",
+      "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 7563,
-      "forks": 337,
-      "added_stars": "69 stars this month"
-    },
-    {
-      "title": "ntop / ntopng",
-      "url": "https://github.com/ntop/ntopng",
-      "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 8068,
-      "forks": 758,
-      "added_stars": "144 stars this month"
-    },
-    {
-      "title": "folke / flash.nvim",
-      "url": "https://github.com/folke/flash.nvim",
-      "description": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4190,
-      "forks": 86,
-      "added_stars": "59 stars this month"
+      "stars": 13844,
+      "forks": 2476,
+      "added_stars": "82 stars this month"
     },
     {
       "title": "bol-van / zapret-win-bundle",
@@ -92,17 +62,37 @@
       "languageColor": "#000080",
       "stars": 1808,
       "forks": 257,
-      "added_stars": "82 stars this month"
+      "added_stars": "80 stars this month"
     },
     {
-      "title": "ibhagwan / fzf-lua",
-      "url": "https://github.com/ibhagwan/fzf-lua",
-      "description": "Improved fzf.vim written in lua",
+      "title": "finlater / weread.koplugin",
+      "url": "https://github.com/finlater/weread.koplugin",
+      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，并做到进度、阅读时长同步，阅读时间上报。",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4405,
-      "forks": 262,
-      "added_stars": "62 stars this month"
+      "stars": 402,
+      "forks": 72,
+      "added_stars": "280 stars this month"
+    },
+    {
+      "title": "catppuccin / nvim",
+      "url": "https://github.com/catppuccin/nvim",
+      "description": "🍨 Soothing pastel theme for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 7564,
+      "forks": 337,
+      "added_stars": "72 stars this month"
+    },
+    {
+      "title": "ntop / ntopng",
+      "url": "https://github.com/ntop/ntopng",
+      "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 8069,
+      "forks": 758,
+      "added_stars": "144 stars this month"
     },
     {
       "title": "Footagesus / WindUI",
@@ -110,19 +100,19 @@
       "description": "WindUI is a open source UI library for Roblox Script Hubs",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 320,
-      "forks": 307,
-      "added_stars": "27 stars this month"
+      "stars": 321,
+      "forks": 312,
+      "added_stars": "29 stars this month"
     },
     {
-      "title": "AndyHazz / bookshelf.koplugin",
-      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
-      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
+      "title": "folke / flash.nvim",
+      "url": "https://github.com/folke/flash.nvim",
+      "description": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 529,
-      "forks": 17,
-      "added_stars": "192 stars this month"
+      "stars": 4192,
+      "forks": 87,
+      "added_stars": "59 stars this month"
     },
     {
       "title": "id577 / FS25_AdvancedDamageSystem",
@@ -135,14 +125,24 @@
       "added_stars": "28 stars this month"
     },
     {
-      "title": "sindrets / diffview.nvim",
-      "url": "https://github.com/sindrets/diffview.nvim",
-      "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+      "title": "ibhagwan / fzf-lua",
+      "url": "https://github.com/ibhagwan/fzf-lua",
+      "description": "Improved fzf.vim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5755,
-      "forks": 207,
-      "added_stars": "88 stars this month"
+      "stars": 4406,
+      "forks": 262,
+      "added_stars": "63 stars this month"
+    },
+    {
+      "title": "AndyHazz / bookshelf.koplugin",
+      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
+      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 533,
+      "forks": 17,
+      "added_stars": "187 stars this month"
     },
     {
       "title": "overextended / ox_inventory",
@@ -152,7 +152,17 @@
       "languageColor": "#000080",
       "stars": 564,
       "forks": 1082,
-      "added_stars": "12 stars this month"
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "sindrets / diffview.nvim",
+      "url": "https://github.com/sindrets/diffview.nvim",
+      "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 5751,
+      "forks": 207,
+      "added_stars": "86 stars this month"
     },
     {
       "title": "hrsh7th / nvim-cmp",
@@ -162,27 +172,17 @@
       "languageColor": "#000080",
       "stars": 9479,
       "forks": 436,
-      "added_stars": "31 stars this month"
+      "added_stars": "30 stars this month"
     },
     {
-      "title": "NeogitOrg / neogit",
-      "url": "https://github.com/NeogitOrg/neogit",
-      "description": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+      "title": "yetone / avante.nvim",
+      "url": "https://github.com/yetone/avante.nvim",
+      "description": "Use your Neovim like using Cursor AI IDE!",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5574,
-      "forks": 355,
-      "added_stars": "79 stars this month"
-    },
-    {
-      "title": "opentibiabr / otclient",
-      "url": "https://github.com/opentibiabr/otclient",
-      "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 513,
-      "forks": 484,
-      "added_stars": "20 stars this month"
+      "stars": 18111,
+      "forks": 842,
+      "added_stars": "127 stars this month"
     },
     {
       "title": "olimorris / codecompanion.nvim",
@@ -195,24 +195,24 @@
       "added_stars": "101 stars this month"
     },
     {
+      "title": "opentibiabr / otclient",
+      "url": "https://github.com/opentibiabr/otclient",
+      "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 513,
+      "forks": 485,
+      "added_stars": "19 stars this month"
+    },
+    {
       "title": "rittermod / FS25_RealisticLivestockRM",
       "url": "https://github.com/rittermod/FS25_RealisticLivestockRM",
       "description": "FS25_RealisticLivestock - Ritter version",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 149,
+      "stars": 150,
       "forks": 15,
       "added_stars": "16 stars this month"
-    },
-    {
-      "title": "yetone / avante.nvim",
-      "url": "https://github.com/yetone/avante.nvim",
-      "description": "Use your Neovim like using Cursor AI IDE!",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 18108,
-      "forks": 842,
-      "added_stars": "128 stars this month"
     }
   ]
 }

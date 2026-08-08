@@ -4,16 +4,11 @@
   <title>GitHub Elixir Languages Daily Trending</title>
   <description>Daily Trending of Elixir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:22:21 GMT</pubDate>
   <item>
     <title>elixir-lang / elixir</title>
     <link>https://github.com/elixir-lang/elixir</link>
     <description>Simple from zero to scale</description>
-  </item>
-  <item>
-    <title>blockscout / blockscout</title>
-    <link>https://github.com/blockscout/blockscout</link>
-    <description>Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</description>
   </item>
   <item>
     <title>plausible / analytics</title>
@@ -21,9 +16,14 @@
     <description>Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.</description>
   </item>
   <item>
-    <title>openai / symphony</title>
-    <link>https://github.com/openai/symphony</link>
-    <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
+    <title>phoenixframework / phoenix</title>
+    <link>https://github.com/phoenixframework/phoenix</link>
+    <description>Peace of mind from prototype to production</description>
+  </item>
+  <item>
+    <title>blockscout / blockscout</title>
+    <link>https://github.com/blockscout/blockscout</link>
+    <description>Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</description>
   </item>
   <item>
     <title>supabase / realtime</title>
@@ -31,14 +31,14 @@
     <description>Broadcast, Presence, and Postgres Changes via WebSockets</description>
   </item>
   <item>
+    <title>openai / symphony</title>
+    <link>https://github.com/openai/symphony</link>
+    <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
+  </item>
+  <item>
     <title>teslamate-org / teslamate</title>
     <link>https://github.com/teslamate-org/teslamate</link>
     <description>A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</description>
-  </item>
-  <item>
-    <title>phoenixframework / phoenix</title>
-    <link>https://github.com/phoenixframework/phoenix</link>
-    <description>Peace of mind from prototype to production</description>
   </item>
   <item>
     <title>firezone / firezone</title>
@@ -56,14 +56,14 @@
     <description>Cursor-based pagination for Elixir Ecto</description>
   </item>
   <item>
-    <title>carverauto / serviceradar</title>
-    <link>https://github.com/carverauto/serviceradar</link>
-    <description>Open-Source Network Management, Monitoring, ITOM, and Security Analytics</description>
-  </item>
-  <item>
     <title>ntrepid8 / ex_crypto</title>
     <link>https://github.com/ntrepid8/ex_crypto</link>
     <description>Wrapper around the Erlang crypto module for Elixir.</description>
+  </item>
+  <item>
+    <title>carverauto / serviceradar</title>
+    <link>https://github.com/carverauto/serviceradar</link>
+    <description>Open-Source Network Management, Monitoring, ITOM, and Security Analytics</description>
   </item>
   <item>
     <title>supabase / supavisor</title>
@@ -71,29 +71,9 @@
     <description>A cloud-native, multi-tenant Postgres connection pooler.</description>
   </item>
   <item>
-    <title>phoenixframework / phoenix_live_view</title>
-    <link>https://github.com/phoenixframework/phoenix_live_view</link>
-    <description>Rich, real-time user experiences with server-rendered HTML</description>
-  </item>
-  <item>
     <title>OffchainLabs / blockscout</title>
     <link>https://github.com/OffchainLabs/blockscout</link>
     <description></description>
-  </item>
-  <item>
-    <title>expert-lsp / expert</title>
-    <link>https://github.com/expert-lsp/expert</link>
-    <description>Official Elixir Language Server Protocol implementation</description>
-  </item>
-  <item>
-    <title>kieraneglin / pinchflat</title>
-    <link>https://github.com/kieraneglin/pinchflat</link>
-    <description>Your next YouTube media manager</description>
-  </item>
-  <item>
-    <title>hexpm / hex</title>
-    <link>https://github.com/hexpm/hex</link>
-    <description>Package manager for the Erlang ecosystem.</description>
   </item>
 </channel>
 </rss>

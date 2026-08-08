@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "koreader / koreader",
@@ -10,9 +10,9 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 28750,
-      "forks": 1850,
-      "added_stars": "518 stars this week"
+      "stars": 28796,
+      "forks": 1855,
+      "added_stars": "532 stars this week"
     },
     {
       "title": "PathOfBuildingCommunity / PathOfBuilding",
@@ -20,39 +20,19 @@
       "description": "Offline build planner for Path of Exile.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5403,
+      "stars": 5404,
       "forks": 2391,
-      "added_stars": "13 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
-      "title": "iDvel / rime-ice",
-      "url": "https://github.com/iDvel/rime-ice",
-      "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+      "title": "AnthonyGress / zen_ui.koplugin",
+      "url": "https://github.com/AnthonyGress/zen_ui.koplugin",
+      "description": "A clean, minimal UI for KOReader",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 18697,
-      "forks": 1156,
-      "added_stars": "105 stars this week"
-    },
-    {
-      "title": "apache / apisix",
-      "url": "https://github.com/apache/apisix",
-      "description": "The Cloud-Native API Gateway and AI Gateway",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 16963,
-      "forks": 2913,
-      "added_stars": "31 stars this week"
-    },
-    {
-      "title": "ntop / ntopng",
-      "url": "https://github.com/ntop/ntopng",
-      "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 8068,
-      "forks": 758,
-      "added_stars": "33 stars this week"
+      "stars": 444,
+      "forks": 30,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "beyond-all-reason / Beyond-All-Reason",
@@ -60,8 +40,48 @@
       "description": "Main game repository for Beyond All Reason.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4137,
+      "stars": 4139,
       "forks": 650,
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "Kong / kong",
+      "url": "https://github.com/Kong/kong",
+      "description": "🦍 The API and AI Gateway",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 43947,
+      "forks": 5197,
+      "added_stars": "56 stars this week"
+    },
+    {
+      "title": "apache / apisix",
+      "url": "https://github.com/apache/apisix",
+      "description": "The Cloud-Native API Gateway and AI Gateway",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 16968,
+      "forks": 2913,
+      "added_stars": "34 stars this week"
+    },
+    {
+      "title": "yetone / avante.nvim",
+      "url": "https://github.com/yetone/avante.nvim",
+      "description": "Use your Neovim like using Cursor AI IDE!",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 18111,
+      "forks": 842,
+      "added_stars": "30 stars this week"
+    },
+    {
+      "title": "neovim / nvim-lspconfig",
+      "url": "https://github.com/neovim/nvim-lspconfig",
+      "description": "Quickstart configs for Nvim LSP",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 13844,
+      "forks": 2476,
       "added_stars": "27 stars this week"
     },
     {
@@ -70,29 +90,19 @@
       "description": "Canary Server 15.25 for OpenTibia community.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 623,
-      "forks": 867,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "KristalTeam / Kristal",
-      "url": "https://github.com/KristalTeam/Kristal",
-      "description": "Deltarune fangame engine for Love2D",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 302,
-      "forks": 156,
+      "stars": 624,
+      "forks": 869,
       "added_stars": "4 stars this week"
     },
     {
-      "title": "rittermod / FS25_RealisticLivestockRM",
-      "url": "https://github.com/rittermod/FS25_RealisticLivestockRM",
-      "description": "FS25_RealisticLivestock - Ritter version",
+      "title": "LunarVim / LunarVim",
+      "url": "https://github.com/LunarVim/LunarVim",
+      "description": "🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 149,
-      "forks": 15,
-      "added_stars": "6 stars this week"
+      "stars": 19277,
+      "forks": 1494,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "tarantool / tarantool",
@@ -105,36 +115,6 @@
       "added_stars": "4 stars this week"
     },
     {
-      "title": "Kong / kong",
-      "url": "https://github.com/Kong/kong",
-      "description": "🦍 The API and AI Gateway",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 43935,
-      "forks": 5197,
-      "added_stars": "48 stars this week"
-    },
-    {
-      "title": "esmuellert / codediff.nvim",
-      "url": "https://github.com/esmuellert/codediff.nvim",
-      "description": "VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode's own diff algorithm in C.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 1504,
-      "forks": 88,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "AnthonyGress / zen_ui.koplugin",
-      "url": "https://github.com/AnthonyGress/zen_ui.koplugin",
-      "description": "A clean, minimal UI for KOReader",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 443,
-      "forks": 30,
-      "added_stars": "38 stars this week"
-    },
-    {
       "title": "jitsi / docker-jitsi-meet",
       "url": "https://github.com/jitsi/docker-jitsi-meet",
       "description": "Jitsi Meet on Docker",
@@ -145,34 +125,64 @@
       "added_stars": "4 stars this week"
     },
     {
-      "title": "tomasklaen / uosc",
-      "url": "https://github.com/tomasklaen/uosc",
-      "description": "Feature-rich minimalist proximity-based UI for MPV player.",
+      "title": "esmuellert / codediff.nvim",
+      "url": "https://github.com/esmuellert/codediff.nvim",
+      "description": "VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode's own diff algorithm in C.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3292,
-      "forks": 109,
-      "added_stars": "25 stars this week"
+      "stars": 1504,
+      "forks": 88,
+      "added_stars": "12 stars this week"
     },
     {
-      "title": "neovim / nvim-lspconfig",
-      "url": "https://github.com/neovim/nvim-lspconfig",
-      "description": "Quickstart configs for Nvim LSP",
+      "title": "finlater / weread.koplugin",
+      "url": "https://github.com/finlater/weread.koplugin",
+      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，并做到进度、阅读时长同步，阅读时间上报。",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 13842,
-      "forks": 2474,
-      "added_stars": "27 stars this week"
+      "stars": 402,
+      "forks": 72,
+      "added_stars": "63 stars this week"
     },
     {
-      "title": "overextended / ox_lib",
-      "url": "https://github.com/overextended/ox_lib",
-      "description": "A FiveM resource and script library for Lua and JS.",
+      "title": "ntop / ntopng",
+      "url": "https://github.com/ntop/ntopng",
+      "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 408,
-      "forks": 742,
-      "added_stars": "4 stars this week"
+      "stars": 8069,
+      "forks": 758,
+      "added_stars": "26 stars this week"
+    },
+    {
+      "title": "olimorris / codecompanion.nvim",
+      "url": "https://github.com/olimorris/codecompanion.nvim",
+      "description": "✨ AI Coding, Vim Style",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 6786,
+      "forks": 444,
+      "added_stars": "22 stars this week"
+    },
+    {
+      "title": "opentibiabr / otclient",
+      "url": "https://github.com/opentibiabr/otclient",
+      "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 513,
+      "forks": 485,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "overextended / ox_inventory",
+      "url": "https://github.com/overextended/ox_inventory",
+      "description": "Slot-based inventory with metadata.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 564,
+      "forks": 1082,
+      "added_stars": "2 stars this week"
     }
   ]
 }

@@ -4,16 +4,11 @@
   <title>GitHub Mdx Languages Daily Trending</title>
   <description>Daily Trending of Mdx Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>twbs / bootstrap</title>
     <link>https://github.com/twbs/bootstrap</link>
     <description>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</description>
-  </item>
-  <item>
-    <title>cloudflare / cloudflare-docs</title>
-    <link>https://github.com/cloudflare/cloudflare-docs</link>
-    <description>Cloudflare’s documentation</description>
   </item>
   <item>
     <title>huggingface / agents-course</title>
@@ -21,19 +16,24 @@
     <description>This repository contains the Hugging Face Agents Course.</description>
   </item>
   <item>
+    <title>cloudflare / cloudflare-docs</title>
+    <link>https://github.com/cloudflare/cloudflare-docs</link>
+    <description>Cloudflare’s documentation</description>
+  </item>
+  <item>
     <title>npm / documentation</title>
     <link>https://github.com/npm/documentation</link>
     <description>Documentation for the npm registry, website, and command-line interface.</description>
   </item>
   <item>
-    <title>wasp-lang / open-saas</title>
-    <link>https://github.com/wasp-lang/open-saas</link>
-    <description>A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.</description>
-  </item>
-  <item>
     <title>langchain-ai / docs</title>
     <link>https://github.com/langchain-ai/docs</link>
     <description>Unified LangChain documentation.</description>
+  </item>
+  <item>
+    <title>wasp-lang / open-saas</title>
+    <link>https://github.com/wasp-lang/open-saas</link>
+    <description>A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.</description>
   </item>
   <item>
     <title>dair-ai / Prompt-Engineering-Guide</title>
@@ -51,14 +51,14 @@
     <description>Source for esphome.io documentation files.</description>
   </item>
   <item>
-    <title>detekt / detekt</title>
-    <link>https://github.com/detekt/detekt</link>
-    <description>Static code analysis for Kotlin</description>
-  </item>
-  <item>
     <title>newrelic / docs-website</title>
     <link>https://github.com/newrelic/docs-website</link>
     <description>Source code for @newrelic docs. We welcome pull requests and questions on our docs!</description>
+  </item>
+  <item>
+    <title>detekt / detekt</title>
+    <link>https://github.com/detekt/detekt</link>
+    <description>Static code analysis for Kotlin</description>
   </item>
   <item>
     <title>hashicorp / web-unified-docs</title>

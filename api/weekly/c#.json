@@ -2,17 +2,37 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "title": "timescale / timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 62443,
-      "forks": 28221,
-      "added_stars": "33 stars today"
+      "stars": 23260,
+      "forks": 1131,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "lvgl / lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 24320,
+      "forks": 4284,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "madler / zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7005,
+      "forks": 2826,
+      "added_stars": "3 stars today"
     },
     {
       "title": "colbymchenry / codegraph",
@@ -20,19 +40,19 @@
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 65096,
-      "forks": 4090,
-      "added_stars": "273 stars today"
+      "stars": 65344,
+      "forks": 4109,
+      "added_stars": "294 stars today"
     },
     {
-      "title": "hashcat / hashcat",
-      "url": "https://github.com/hashcat/hashcat",
-      "description": "World's fastest and most advanced password recovery utility",
+      "title": "quickjs-ng / quickjs",
+      "url": "https://github.com/quickjs-ng/quickjs",
+      "description": "QuickJS, the Next Generation: a mighty JavaScript engine",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 26488,
-      "forks": 3515,
-      "added_stars": "7 stars today"
+      "stars": 3533,
+      "forks": 344,
+      "added_stars": "11 stars today"
     },
     {
       "title": "zephyrproject-rtos / zephyr",
@@ -40,19 +60,19 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16137,
-      "forks": 9686,
-      "added_stars": "17 stars today"
+      "stars": 16148,
+      "forks": 9698,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "fluent / fluent-bit",
-      "url": "https://github.com/fluent/fluent-bit",
-      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8014,
-      "forks": 1963,
-      "added_stars": "2 stars today"
+      "stars": 42554,
+      "forks": 7300,
+      "added_stars": "11 stars today"
     },
     {
       "title": "Mbed-TLS / mbedtls",
@@ -62,7 +82,37 @@
       "languageColor": "#555555",
       "stars": 6859,
       "forks": 2945,
-      "added_stars": "4 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "nicbarker / clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17772,
+      "forks": 696,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "DeusData / codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 38077,
+      "forks": 3032,
+      "added_stars": "254 stars today"
+    },
+    {
+      "title": "zmkfirmware / zmk",
+      "url": "https://github.com/zmkfirmware/zmk",
+      "description": "ZMK Firmware Repository",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4205,
+      "forks": 4080,
+      "added_stars": "3 stars today"
     },
     {
       "title": "FreeRTOS / FreeRTOS-Kernel",
@@ -71,98 +121,58 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 4400,
-      "forks": 1589,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "lvgl / lvgl",
-      "url": "https://github.com/lvgl/lvgl",
-      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 24317,
-      "forks": 4280,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "esnet / iperf",
-      "url": "https://github.com/esnet/iperf",
-      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 8676,
-      "forks": 1438,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "dayanch96 / YTMusicUltimate",
-      "url": "https://github.com/dayanch96/YTMusicUltimate",
-      "description": "The best tweak for YouTube Music iOS.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2474,
-      "forks": 9444,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "uber / h3",
-      "url": "https://github.com/uber/h3",
-      "description": "Hexagonal hierarchical geospatial indexing system",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6449,
-      "forks": 603,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "srwi / EverythingToolbar",
-      "url": "https://github.com/srwi/EverythingToolbar",
-      "description": "Everything integration for the Windows taskbar.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14514,
-      "forks": 557,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "nrfconnect / sdk-nrf",
-      "url": "https://github.com/nrfconnect/sdk-nrf",
-      "description": "nRF Connect SDK main repository",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1397,
-      "forks": 1566,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "allinurl / goaccess",
-      "url": "https://github.com/allinurl/goaccess",
-      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 20757,
-      "forks": 1190,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "google / XNNPACK",
-      "url": "https://github.com/google/XNNPACK",
-      "description": "High-efficiency floating-point neural network inference operators for mobile, server, and Web",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2413,
-      "forks": 536,
+      "forks": 1590,
       "added_stars": "1 star today"
     },
     {
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
+      "title": "asterisk / asterisk",
+      "url": "https://github.com/asterisk/asterisk",
+      "description": "The official Asterisk Project repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30571,
-      "forks": 11387,
-      "added_stars": "8 stars today"
+      "stars": 3431,
+      "forks": 1290,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "wolfSSL / wolfssl",
+      "url": "https://github.com/wolfSSL/wolfssl",
+      "description": "The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. wolfSSL supports up to TLS 1.3 and DTLS 1.3! Update to wolfSSL 5.9.1 for the latest CVE fixes.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2899,
+      "forks": 1014,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "Genymobile / scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 147161,
+      "forks": 13551,
+      "added_stars": "66 stars today"
+    },
+    {
+      "title": "facebook / zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27529,
+      "forks": 2549,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "microsoft / mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 13267,
+      "forks": 1150,
+      "added_stars": "1 star today"
     }
   ]
 }

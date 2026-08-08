@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>terraform-aws-modules / terraform-aws-eks</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
@@ -14,6 +14,11 @@
     <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
     <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
     <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
     <title>hashicorp / agent-skills</title>
@@ -36,11 +41,6 @@
     <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
-  </item>
-  <item>
     <title>hashicorp / terraform-provider-awscc</title>
     <link>https://github.com/hashicorp/terraform-provider-awscc</link>
     <description>Terraform AWS Cloud Control provider</description>
@@ -59,11 +59,6 @@
     <title>terraform-aws-modules / terraform-aws-ecs</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-ecs</link>
     <description>Terraform module to create AWS ECS resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-dynamodb-table</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table</link>
-    <description>Terraform module to create AWS DynamoDB resources 🇺🇦</description>
   </item>
 </channel>
 </rss>

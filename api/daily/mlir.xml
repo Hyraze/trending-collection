@@ -4,7 +4,7 @@
   <title>GitHub Mlir Languages Daily Trending</title>
   <description>Daily Trending of Mlir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
     <title>triton-lang / triton</title>
     <link>https://github.com/triton-lang/triton</link>
@@ -14,6 +14,11 @@
     <title>triton-lang / triton-ascend</title>
     <link>https://github.com/triton-lang/triton-ascend</link>
     <description>Triton language and compiler for Ascend NPU</description>
+  </item>
+  <item>
+    <title>intel / intel-xpu-backend-for-triton</title>
+    <link>https://github.com/intel/intel-xpu-backend-for-triton</link>
+    <description>OpenAI Triton backend for Intel® GPUs</description>
   </item>
   <item>
     <title>openxla / stablehlo</title>

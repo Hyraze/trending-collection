@@ -2,17 +2,27 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
+    {
+      "title": "Dadoum / anisette-v3-server",
+      "url": "https://github.com/Dadoum/anisette-v3-server",
+      "description": "sidestore's anisette-v3 compatible server",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 531,
+      "forks": 2296,
+      "added_stars": "1 star today"
+    },
     {
       "title": "abraunegg / onedrive",
       "url": "https://github.com/abraunegg/onedrive",
       "description": "OneDrive Client for Linux",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 12665,
-      "forks": 913,
-      "added_stars": "2 stars today"
+      "stars": 12668,
+      "forks": 912,
+      "added_stars": "5 stars today"
     }
   ]
 }

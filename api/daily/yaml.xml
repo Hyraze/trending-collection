@@ -4,21 +4,16 @@
   <title>GitHub Yaml Languages Daily Trending</title>
   <description>Daily Trending of Yaml Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
-  <item>
-    <title>kubeflow / community-distribution</title>
-    <link>https://github.com/kubeflow/community-distribution</link>
-    <description>Kubeflow Community Distribution</description>
-  </item>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
     <title>aquaproj / aqua-registry</title>
     <link>https://github.com/aquaproj/aqua-registry</link>
     <description>aqua&#x27;s Standard Registry</description>
   </item>
   <item>
-    <title>tyriis / home-ops</title>
-    <link>https://github.com/tyriis/home-ops</link>
-    <description>IaC for my HomeLab kubernetes cluster resources with Flux</description>
+    <title>kubeflow / community-distribution</title>
+    <link>https://github.com/kubeflow/community-distribution</link>
+    <description>Kubeflow Community Distribution</description>
   </item>
   <item>
     <title>GTFOBins / GTFOBins.github.io</title>
@@ -26,9 +21,19 @@
     <description>GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.</description>
   </item>
   <item>
-    <title>sublime-security / sublime-rules</title>
-    <link>https://github.com/sublime-security/sublime-rules</link>
-    <description>Sublime rules for email attack detection, prevention, and threat hunting.</description>
+    <title>blackjid / home-ops</title>
+    <link>https://github.com/blackjid/home-ops</link>
+    <description>Homelab GitOps repository. Cluster definition state via code.</description>
+  </item>
+  <item>
+    <title>tyriis / home-ops</title>
+    <link>https://github.com/tyriis/home-ops</link>
+    <description>IaC for my HomeLab kubernetes cluster resources with Flux</description>
+  </item>
+  <item>
+    <title>stashapp / CommunityScrapers</title>
+    <link>https://github.com/stashapp/CommunityScrapers</link>
+    <description>This is a public repository containing scrapers created by the Stash Community.</description>
   </item>
 </channel>
 </rss>

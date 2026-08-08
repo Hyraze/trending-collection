@@ -2,37 +2,17 @@
   "title": "GitHub Scss Languages Daily Trending",
   "description": "Daily Trending of Scss Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
-    {
-      "title": "Ileriayo / markdown-badges",
-      "url": "https://github.com/Ileriayo/markdown-badges",
-      "description": "The largest curated collection of markdown badges for your personal developer branding, profile, and projects.",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 16909,
-      "forks": 1795,
-      "added_stars": "165 stars this month"
-    },
     {
       "title": "academicpages / academicpages.github.io",
       "url": "https://github.com/academicpages/academicpages.github.io",
       "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 17416,
-      "forks": 8214,
-      "added_stars": "181 stars this month"
-    },
-    {
-      "title": "material-components / material-web",
-      "url": "https://github.com/material-components/material-web",
-      "description": "Material Design Web Components",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 11157,
-      "forks": 1135,
-      "added_stars": "105 stars this month"
+      "stars": 17419,
+      "forks": 8269,
+      "added_stars": "180 stars this month"
     },
     {
       "title": "LineageOS / lineage_wiki",
@@ -45,14 +25,44 @@
       "added_stars": "12 stars this month"
     },
     {
+      "title": "material-components / material-web",
+      "url": "https://github.com/material-components/material-web",
+      "description": "Material Design Web Components",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 11157,
+      "forks": 1136,
+      "added_stars": "104 stars this month"
+    },
+    {
+      "title": "vinceliuice / MacTahoe-gtk-theme",
+      "url": "https://github.com/vinceliuice/MacTahoe-gtk-theme",
+      "description": "MacOS Tahoe theme for gtk desktops",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 1428,
+      "forks": 73,
+      "added_stars": "95 stars this month"
+    },
+    {
       "title": "uswds / uswds",
       "url": "https://github.com/uswds/uswds",
       "description": "The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 7141,
+      "stars": 7144,
       "forks": 1098,
-      "added_stars": "22 stars this month"
+      "added_stars": "25 stars this month"
+    },
+    {
+      "title": "iris-hep / iris-hep.github.io",
+      "url": "https://github.com/iris-hep/iris-hep.github.io",
+      "description": "Institute for Research and Innovation in Software for High Energy Physics",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 38,
+      "forks": 484,
+      "added_stars": "1 star this month"
     },
     {
       "title": "odoo / design-themes",
@@ -72,17 +82,7 @@
       "languageColor": "#c6538c",
       "stars": 9141,
       "forks": 683,
-      "added_stars": "129 stars this month"
-    },
-    {
-      "title": "vinceliuice / MacTahoe-gtk-theme",
-      "url": "https://github.com/vinceliuice/MacTahoe-gtk-theme",
-      "description": "MacOS Tahoe theme for gtk desktops",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 1420,
-      "forks": 73,
-      "added_stars": "91 stars this month"
+      "added_stars": "127 stars this month"
     },
     {
       "title": "catppuccin / discord",
@@ -92,16 +92,6 @@
       "languageColor": "#c6538c",
       "stars": 1399,
       "forks": 187,
-      "added_stars": "29 stars this month"
-    },
-    {
-      "title": "primer / css",
-      "url": "https://github.com/primer/css",
-      "description": "Primer is GitHub's design system. This is the CSS implementation",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 13000,
-      "forks": 1289,
       "added_stars": "29 stars this month"
     },
     {
@@ -115,14 +105,34 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "primer / css",
+      "url": "https://github.com/primer/css",
+      "description": "Primer is GitHub's design system. This is the CSS implementation",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 13000,
+      "forks": 1289,
+      "added_stars": "27 stars this month"
+    },
+    {
       "title": "just-the-docs / just-the-docs",
       "url": "https://github.com/just-the-docs/just-the-docs",
       "description": "A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": 9116,
-      "forks": 3792,
-      "added_stars": "51 stars this month"
+      "forks": 3791,
+      "added_stars": "49 stars this month"
+    },
+    {
+      "title": "jekyll / minima",
+      "url": "https://github.com/jekyll/minima",
+      "description": "Minima is a one-size-fits-all Jekyll theme for writers.",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 3837,
+      "forks": 3801,
+      "added_stars": "18 stars this month"
     },
     {
       "title": "ubuntu / yaru",
@@ -130,9 +140,29 @@
       "description": "All Ubuntu Yaru GNOME themes",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 1541,
+      "stars": 1542,
       "forks": 218,
-      "added_stars": "8 stars this month"
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "nordtheme / nord",
+      "url": "https://github.com/nordtheme/nord",
+      "description": "An arctic, north-bluish color palette.",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 6861,
+      "forks": 189,
+      "added_stars": "27 stars this month"
+    },
+    {
+      "title": "angelbruni / Geckium",
+      "url": "https://github.com/angelbruni/Geckium",
+      "description": "Chrome 1 - 58 theme for Firefox 115+",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": 639,
+      "forks": 43,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "opensearch-project / documentation-website",
@@ -145,26 +175,6 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "nordtheme / nord",
-      "url": "https://github.com/nordtheme/nord",
-      "description": "An arctic, north-bluish color palette.",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 6862,
-      "forks": 189,
-      "added_stars": "28 stars this month"
-    },
-    {
-      "title": "angelbruni / Geckium",
-      "url": "https://github.com/angelbruni/Geckium",
-      "description": "Chrome 1 - 58 theme for Firefox 115+",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 639,
-      "forks": 43,
-      "added_stars": "15 stars this month"
-    },
-    {
       "title": "foreverphoenix / the-phoenix-flavour",
       "url": "https://github.com/foreverphoenix/the-phoenix-flavour",
       "description": "A Wabbajack list for Skyrim Special Edition.",
@@ -175,54 +185,34 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "aaaaalexis / obsidian-cupertino",
-      "url": "https://github.com/aaaaalexis/obsidian-cupertino",
-      "description": "A native look and feel Obsidian theme crafted for the way you think.",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 1217,
-      "forks": 46,
-      "added_stars": "60 stars this month"
-    },
-    {
       "title": "cobiwave / simplefolio",
       "url": "https://github.com/cobiwave/simplefolio",
       "description": "⚡️ A minimal portfolio template for Developers",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 14205,
+      "stars": 14208,
       "forks": 6086,
-      "added_stars": "49 stars this month"
+      "added_stars": "52 stars this month"
     },
     {
-      "title": "jekyll / minima",
-      "url": "https://github.com/jekyll/minima",
-      "description": "Minima is a one-size-fits-all Jekyll theme for writers.",
+      "title": "aaaaalexis / obsidian-cupertino",
+      "url": "https://github.com/aaaaalexis/obsidian-cupertino",
+      "description": "A native look and feel Obsidian theme crafted for the way you think.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 3835,
-      "forks": 3801,
-      "added_stars": "17 stars this month"
+      "stars": 1216,
+      "forks": 46,
+      "added_stars": "57 stars this month"
     },
     {
-      "title": "SlRvb / Obsidian--ITS-Theme",
-      "url": "https://github.com/SlRvb/Obsidian--ITS-Theme",
-      "description": "Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed.",
+      "title": "pages-themes / minimal",
+      "url": "https://github.com/pages-themes/minimal",
+      "description": "Minimal is a Jekyll theme for GitHub Pages",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": 761,
-      "forks": 130,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "pages-themes / architect",
-      "url": "https://github.com/pages-themes/architect",
-      "description": "Architect is a Jekyll theme for GitHub Pages",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": 373,
-      "forks": 937,
-      "added_stars": "1 star this month"
+      "stars": 1811,
+      "forks": 6399,
+      "added_stars": "9 stars this month"
     }
   ]
 }

@@ -4,7 +4,7 @@
   <title>GitHub Elixir Languages Daily Trending</title>
   <description>Daily Trending of Elixir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>elixir-lang / elixir</title>
     <link>https://github.com/elixir-lang/elixir</link>
@@ -31,19 +31,14 @@
     <description>Rich, real-time user experiences with server-rendered HTML</description>
   </item>
   <item>
-    <title>icoretech / codex-pooler</title>
-    <link>https://github.com/icoretech/codex-pooler</link>
-    <description>The full featured self-hosted Codex gateway, for teams, agents and you</description>
-  </item>
-  <item>
     <title>ash-project / ash</title>
     <link>https://github.com/ash-project/ash</link>
     <description>A declarative, extensible framework for building Elixir applications.</description>
   </item>
   <item>
-    <title>openai / symphony</title>
-    <link>https://github.com/openai/symphony</link>
-    <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
+    <title>icoretech / codex-pooler</title>
+    <link>https://github.com/icoretech/codex-pooler</link>
+    <description>The full featured self-hosted Codex gateway, for teams, agents and you</description>
   </item>
   <item>
     <title>plausible / analytics</title>
@@ -69,6 +64,11 @@
     <title>expert-lsp / expert</title>
     <link>https://github.com/expert-lsp/expert</link>
     <description>Official Elixir Language Server Protocol implementation</description>
+  </item>
+  <item>
+    <title>openai / symphony</title>
+    <link>https://github.com/openai/symphony</link>
+    <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
   </item>
 </channel>
 </rss>

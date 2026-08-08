@@ -4,16 +4,11 @@
   <title>GitHub Erlang Languages Daily Trending</title>
   <description>Daily Trending of Erlang Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>erlang / otp</title>
     <link>https://github.com/erlang/otp</link>
     <description>Erlang/OTP</description>
-  </item>
-  <item>
-    <title>emqx / emqx</title>
-    <link>https://github.com/emqx/emqx</link>
-    <description>The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles</description>
   </item>
   <item>
     <title>apache / couchdb</title>
@@ -21,14 +16,19 @@
     <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
   </item>
   <item>
-    <title>eproxus / meck</title>
-    <link>https://github.com/eproxus/meck</link>
-    <description>A mocking library for Erlang</description>
+    <title>emqx / emqx</title>
+    <link>https://github.com/emqx/emqx</link>
+    <description>The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles</description>
   </item>
   <item>
     <title>blt / port_compiler</title>
     <link>https://github.com/blt/port_compiler</link>
     <description>A rebar3 port compiler</description>
+  </item>
+  <item>
+    <title>eproxus / meck</title>
+    <link>https://github.com/eproxus/meck</link>
+    <description>A mocking library for Erlang</description>
   </item>
   <item>
     <title>processone / ejabberd</title>
@@ -46,9 +46,9 @@
     <description>Delayed Messaging for RabbitMQ</description>
   </item>
   <item>
-    <title>WhatsApp / erlfmt</title>
-    <link>https://github.com/WhatsApp/erlfmt</link>
-    <description>An automated code formatter for Erlang</description>
+    <title>seriyps / mtproto_proxy</title>
+    <link>https://github.com/seriyps/mtproto_proxy</link>
+    <description>High performance Erlang MTProto proxy that powers https://t.me/socksy_bot</description>
   </item>
 </channel>
 </rss>

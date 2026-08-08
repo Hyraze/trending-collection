@@ -4,41 +4,11 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:22:56 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:20:13 GMT</pubDate>
   <item>
-    <title>git / git</title>
-    <link>https://github.com/git/git</link>
-    <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
-  </item>
-  <item>
-    <title>colbymchenry / codegraph</title>
-    <link>https://github.com/colbymchenry/codegraph</link>
-    <description>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local</description>
-  </item>
-  <item>
-    <title>hashcat / hashcat</title>
-    <link>https://github.com/hashcat/hashcat</link>
-    <description>World&#x27;s fastest and most advanced password recovery utility</description>
-  </item>
-  <item>
-    <title>zephyrproject-rtos / zephyr</title>
-    <link>https://github.com/zephyrproject-rtos/zephyr</link>
-    <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
-  </item>
-  <item>
-    <title>fluent / fluent-bit</title>
-    <link>https://github.com/fluent/fluent-bit</link>
-    <description>Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows</description>
-  </item>
-  <item>
-    <title>Mbed-TLS / mbedtls</title>
-    <link>https://github.com/Mbed-TLS/mbedtls</link>
-    <description>An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</description>
-  </item>
-  <item>
-    <title>FreeRTOS / FreeRTOS-Kernel</title>
-    <link>https://github.com/FreeRTOS/FreeRTOS-Kernel</link>
-    <description>FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.</description>
+    <title>timescale / timescaledb</title>
+    <link>https://github.com/timescale/timescaledb</link>
+    <description>A time-series database for high-performance real-time analytics packaged as a Postgres extension</description>
   </item>
   <item>
     <title>lvgl / lvgl</title>
@@ -46,44 +16,79 @@
     <description>LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.</description>
   </item>
   <item>
-    <title>esnet / iperf</title>
-    <link>https://github.com/esnet/iperf</link>
-    <description>iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool</description>
+    <title>madler / zlib</title>
+    <link>https://github.com/madler/zlib</link>
+    <description>A massively spiffy yet delicately unobtrusive compression library.</description>
   </item>
   <item>
-    <title>dayanch96 / YTMusicUltimate</title>
-    <link>https://github.com/dayanch96/YTMusicUltimate</link>
-    <description>The best tweak for YouTube Music iOS.</description>
+    <title>colbymchenry / codegraph</title>
+    <link>https://github.com/colbymchenry/codegraph</link>
+    <description>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local</description>
   </item>
   <item>
-    <title>uber / h3</title>
-    <link>https://github.com/uber/h3</link>
-    <description>Hexagonal hierarchical geospatial indexing system</description>
+    <title>quickjs-ng / quickjs</title>
+    <link>https://github.com/quickjs-ng/quickjs</link>
+    <description>QuickJS, the Next Generation: a mighty JavaScript engine</description>
   </item>
   <item>
-    <title>srwi / EverythingToolbar</title>
-    <link>https://github.com/srwi/EverythingToolbar</link>
-    <description>Everything integration for the Windows taskbar.</description>
+    <title>zephyrproject-rtos / zephyr</title>
+    <link>https://github.com/zephyrproject-rtos/zephyr</link>
+    <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
   </item>
   <item>
-    <title>nrfconnect / sdk-nrf</title>
-    <link>https://github.com/nrfconnect/sdk-nrf</link>
-    <description>nRF Connect SDK main repository</description>
+    <title>curl / curl</title>
+    <link>https://github.com/curl/curl</link>
+    <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
   </item>
   <item>
-    <title>allinurl / goaccess</title>
-    <link>https://github.com/allinurl/goaccess</link>
-    <description>GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.</description>
+    <title>Mbed-TLS / mbedtls</title>
+    <link>https://github.com/Mbed-TLS/mbedtls</link>
+    <description>An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</description>
   </item>
   <item>
-    <title>google / XNNPACK</title>
-    <link>https://github.com/google/XNNPACK</link>
-    <description>High-efficiency floating-point neural network inference operators for mobile, server, and Web</description>
+    <title>nicbarker / clay</title>
+    <link>https://github.com/nicbarker/clay</link>
+    <description>High performance UI layout library in C.</description>
   </item>
   <item>
-    <title>openssl / openssl</title>
-    <link>https://github.com/openssl/openssl</link>
-    <description>General purpose TLS and crypto library</description>
+    <title>DeusData / codebase-memory-mcp</title>
+    <link>https://github.com/DeusData/codebase-memory-mcp</link>
+    <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</description>
+  </item>
+  <item>
+    <title>zmkfirmware / zmk</title>
+    <link>https://github.com/zmkfirmware/zmk</link>
+    <description>ZMK Firmware Repository</description>
+  </item>
+  <item>
+    <title>FreeRTOS / FreeRTOS-Kernel</title>
+    <link>https://github.com/FreeRTOS/FreeRTOS-Kernel</link>
+    <description>FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.</description>
+  </item>
+  <item>
+    <title>asterisk / asterisk</title>
+    <link>https://github.com/asterisk/asterisk</link>
+    <description>The official Asterisk Project repository.</description>
+  </item>
+  <item>
+    <title>wolfSSL / wolfssl</title>
+    <link>https://github.com/wolfSSL/wolfssl</link>
+    <description>The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. wolfSSL supports up to TLS 1.3 and DTLS 1.3! Update to wolfSSL 5.9.1 for the latest CVE fixes.</description>
+  </item>
+  <item>
+    <title>Genymobile / scrcpy</title>
+    <link>https://github.com/Genymobile/scrcpy</link>
+    <description>Display and control your Android device</description>
+  </item>
+  <item>
+    <title>facebook / zstd</title>
+    <link>https://github.com/facebook/zstd</link>
+    <description>Zstandard - Fast real-time compression algorithm</description>
+  </item>
+  <item>
+    <title>microsoft / mimalloc</title>
+    <link>https://github.com/microsoft/mimalloc</link>
+    <description>mimalloc is a compact general purpose allocator with excellent performance.</description>
   </item>
 </channel>
 </rss>

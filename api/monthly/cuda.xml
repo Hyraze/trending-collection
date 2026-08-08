@@ -4,16 +4,16 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
-  <item>
-    <title>deepseek-ai / DeepEP</title>
-    <link>https://github.com/deepseek-ai/DeepEP</link>
-    <description>DeepEP: an efficient expert-parallel communication library</description>
-  </item>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>thu-ml / SageAttention</title>
     <link>https://github.com/thu-ml/SageAttention</link>
     <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
+  </item>
+  <item>
+    <title>deepseek-ai / DeepEP</title>
+    <link>https://github.com/deepseek-ai/DeepEP</link>
+    <description>DeepEP: an efficient expert-parallel communication library</description>
   </item>
   <item>
     <title>deepseek-ai / DeepGEMM</title>
@@ -24,11 +24,6 @@
     <title>NVIDIA / cuvs</title>
     <link>https://github.com/NVIDIA/cuvs</link>
     <description>cuVS - a library for vector search and clustering on the GPU</description>
-  </item>
-  <item>
-    <title>HazyResearch / ThunderKittens</title>
-    <link>https://github.com/HazyResearch/ThunderKittens</link>
-    <description>Tile primitives for speedy kernels</description>
   </item>
   <item>
     <title>alibaba / rtp-llm</title>
@@ -46,9 +41,9 @@
     <description>NCCL Tests</description>
   </item>
   <item>
-    <title>mirage-project / mirage</title>
-    <link>https://github.com/mirage-project/mirage</link>
-    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
+    <title>HazyResearch / ThunderKittens</title>
+    <link>https://github.com/HazyResearch/ThunderKittens</link>
+    <description>Tile primitives for speedy kernels</description>
   </item>
   <item>
     <title>karpathy / llm.c</title>
@@ -61,24 +56,29 @@
     <description>Instant neural graphics primitives: lightning fast NeRF and more</description>
   </item>
   <item>
-    <title>florianmattana / sass-king</title>
-    <link>https://github.com/florianmattana/sass-king</link>
-    <description>Reverse engineering NVIDIA SASS instruction dictionary, kernel audits and pattern recognition across GPU architectures.</description>
-  </item>
-  <item>
     <title>Dao-AILab / causal-conv1d</title>
     <link>https://github.com/Dao-AILab/causal-conv1d</link>
     <description>Causal depthwise conv1d in CUDA, with a PyTorch interface</description>
   </item>
   <item>
-    <title>NVIDIA / raft</title>
-    <link>https://github.com/NVIDIA/raft</link>
-    <description>RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</description>
-  </item>
-  <item>
     <title>NVIDIA / cuopt</title>
     <link>https://github.com/NVIDIA/cuopt</link>
     <description>GPU accelerated decision optimization</description>
+  </item>
+  <item>
+    <title>mirage-project / mirage</title>
+    <link>https://github.com/mirage-project/mirage</link>
+    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
+  </item>
+  <item>
+    <title>florianmattana / sass-king</title>
+    <link>https://github.com/florianmattana/sass-king</link>
+    <description>Reverse engineering NVIDIA SASS instruction dictionary, kernel audits and pattern recognition across GPU architectures.</description>
+  </item>
+  <item>
+    <title>NVIDIA / raft</title>
+    <link>https://github.com/NVIDIA/raft</link>
+    <description>RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</description>
   </item>
 </channel>
 </rss>

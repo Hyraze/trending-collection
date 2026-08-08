@@ -4,7 +4,7 @@
   <title>GitHub Jupyter-notebook Languages Daily Trending</title>
   <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>microsoft / AI-For-Beginners</title>
     <link>https://github.com/microsoft/AI-For-Beginners</link>
@@ -41,19 +41,19 @@
     <description>Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform</description>
   </item>
   <item>
-    <title>jakevdp / PythonDataScienceHandbook</title>
-    <link>https://github.com/jakevdp/PythonDataScienceHandbook</link>
-    <description>Python Data Science Handbook: full text in Jupyter Notebooks</description>
-  </item>
-  <item>
-    <title>meta-llama / llama-cookbook</title>
-    <link>https://github.com/meta-llama/llama-cookbook</link>
-    <description>Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services</description>
-  </item>
-  <item>
     <title>microsoft / ML-For-Beginners</title>
     <link>https://github.com/microsoft/ML-For-Beginners</link>
     <description>12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</description>
+  </item>
+  <item>
+    <title>microsoft / Data-Science-For-Beginners</title>
+    <link>https://github.com/microsoft/Data-Science-For-Beginners</link>
+    <description>10 Weeks, 20 Lessons, Data Science for All!</description>
+  </item>
+  <item>
+    <title>jakevdp / PythonDataScienceHandbook</title>
+    <link>https://github.com/jakevdp/PythonDataScienceHandbook</link>
+    <description>Python Data Science Handbook: full text in Jupyter Notebooks</description>
   </item>
   <item>
     <title>chiphuyen / aie-book</title>
@@ -61,14 +61,19 @@
     <description>[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)</description>
   </item>
   <item>
+    <title>mrdbourke / pytorch-deep-learning</title>
+    <link>https://github.com/mrdbourke/pytorch-deep-learning</link>
+    <description>Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</description>
+  </item>
+  <item>
     <title>OpenBMB / MiniCPM</title>
     <link>https://github.com/OpenBMB/MiniCPM</link>
     <description>MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.</description>
   </item>
   <item>
-    <title>microsoft / Data-Science-For-Beginners</title>
-    <link>https://github.com/microsoft/Data-Science-For-Beginners</link>
-    <description>10 Weeks, 20 Lessons, Data Science for All!</description>
+    <title>romanmichaelpaolucci / Quant-Guild-Library</title>
+    <link>https://github.com/romanmichaelpaolucci/Quant-Guild-Library</link>
+    <description>A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci</description>
   </item>
   <item>
     <title>FareedKhan-dev / all-agentic-architectures</title>
@@ -81,21 +86,6 @@
     <description>AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术</description>
   </item>
   <item>
-    <title>mrdbourke / pytorch-deep-learning</title>
-    <link>https://github.com/mrdbourke/pytorch-deep-learning</link>
-    <description>Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</description>
-  </item>
-  <item>
-    <title>romanmichaelpaolucci / Quant-Guild-Library</title>
-    <link>https://github.com/romanmichaelpaolucci/Quant-Guild-Library</link>
-    <description>A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci</description>
-  </item>
-  <item>
-    <title>CompVis / stable-diffusion</title>
-    <link>https://github.com/CompVis/stable-diffusion</link>
-    <description>A latent text-to-image diffusion model</description>
-  </item>
-  <item>
     <title>jackfrued / Python-100-Days</title>
     <link>https://github.com/jackfrued/Python-100-Days</link>
     <description>Python - 100天从新手到大师</description>
@@ -106,9 +96,14 @@
     <description>This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.</description>
   </item>
   <item>
-    <title>ed-donner / agents</title>
-    <link>https://github.com/ed-donner/agents</link>
-    <description>Repo for the Complete Agentic AI Engineering Course</description>
+    <title>meta-llama / llama-cookbook</title>
+    <link>https://github.com/meta-llama/llama-cookbook</link>
+    <description>Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services</description>
+  </item>
+  <item>
+    <title>huggingface / blog</title>
+    <link>https://github.com/huggingface/blog</link>
+    <description>Public repo for HF blog posts</description>
   </item>
   <item>
     <title>NirDiamant / GenAI_Agents</title>

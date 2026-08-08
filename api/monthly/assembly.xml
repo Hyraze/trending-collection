@@ -4,7 +4,7 @@
   <title>GitHub Assembly Languages Daily Trending</title>
   <description>Daily Trending of Assembly Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>chrislgarry / Apollo-11</title>
     <link>https://github.com/chrislgarry/Apollo-11</link>
@@ -24,11 +24,6 @@
     <title>openhwgroup / cva6</title>
     <link>https://github.com/openhwgroup/cva6</link>
     <description>The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.</description>
-  </item>
-  <item>
-    <title>riscv / riscv-arch-test</title>
-    <link>https://github.com/riscv/riscv-arch-test</link>
-    <description>The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.</description>
   </item>
   <item>
     <title>Rangi42 / polishedcrystal</title>
@@ -61,9 +56,9 @@
     <description>Collection of malware source code for a variety of platforms in an array of different programming languages.</description>
   </item>
   <item>
-    <title>pret / pokecrystal</title>
-    <link>https://github.com/pret/pokecrystal</link>
-    <description>Disassembly of Pokémon Crystal</description>
+    <title>riscv / riscv-arch-test</title>
+    <link>https://github.com/riscv/riscv-arch-test</link>
+    <description>The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.</description>
   </item>
   <item>
     <title>espressif / esp-dl</title>
@@ -71,9 +66,9 @@
     <description>Espressif deep-learning library for AIoT applications</description>
   </item>
   <item>
-    <title>hasherezade / malware_training_vol1</title>
-    <link>https://github.com/hasherezade/malware_training_vol1</link>
-    <description>Materials for Windows Malware Analysis training (volume 1)</description>
+    <title>pret / pokecrystal</title>
+    <link>https://github.com/pret/pokecrystal</link>
+    <description>Disassembly of Pokémon Crystal</description>
   </item>
   <item>
     <title>SheerSt / pokewilds</title>
@@ -89,6 +84,11 @@
     <title>bitdump / BLHeli</title>
     <link>https://github.com/bitdump/BLHeli</link>
     <description>BLHeli for brushless ESC firmware</description>
+  </item>
+  <item>
+    <title>ebitengine / purego</title>
+    <link>https://github.com/ebitengine/purego</link>
+    <description>A library for calling C functions from Go without Cgo</description>
   </item>
   <item>
     <title>cemu-project / cemu_graphic_packs</title>

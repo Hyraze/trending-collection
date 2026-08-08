@@ -4,12 +4,7 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
-  <item>
-    <title>MoonshotAI / FlashKDA</title>
-    <link>https://github.com/MoonshotAI/FlashKDA</link>
-    <description>FlashKDA: high-performance Kimi Delta Attention kernels</description>
-  </item>
+  <pubDate>Sat, 08 Aug 2026 03:22:21 GMT</pubDate>
   <item>
     <title>thu-ml / SageAttention</title>
     <link>https://github.com/thu-ml/SageAttention</link>
@@ -36,6 +31,11 @@
     <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
   </item>
   <item>
+    <title>NVIDIA / cuopt</title>
+    <link>https://github.com/NVIDIA/cuopt</link>
+    <description>GPU accelerated decision optimization</description>
+  </item>
+  <item>
     <title>NVIDIA / cudf-spark-jni</title>
     <link>https://github.com/NVIDIA/cudf-spark-jni</link>
     <description>RAPIDS Accelerator JNI For Apache Spark</description>
@@ -44,16 +44,6 @@
     <title>NVIDIA / cub</title>
     <link>https://github.com/NVIDIA/cub</link>
     <description>[ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl</description>
-  </item>
-  <item>
-    <title>NVIDIA / cuopt</title>
-    <link>https://github.com/NVIDIA/cuopt</link>
-    <description>GPU accelerated decision optimization</description>
-  </item>
-  <item>
-    <title>computerhistory / AlexNet-Source-Code</title>
-    <link>https://github.com/computerhistory/AlexNet-Source-Code</link>
-    <description>This package contains the original 2012 AlexNet code.</description>
   </item>
   <item>
     <title>NVIDIA / nccl-tests</title>
@@ -66,24 +56,14 @@
     <description>CUDA Kernel Benchmarking Library</description>
   </item>
   <item>
-    <title>BBuf / how-to-optim-algorithm-in-cuda</title>
-    <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
-    <description>how to optimize some algorithm in cuda.</description>
-  </item>
-  <item>
-    <title>rapidsai / cugraph</title>
-    <link>https://github.com/rapidsai/cugraph</link>
-    <description>cuGraph - RAPIDS Graph Analytics Library</description>
-  </item>
-  <item>
-    <title>mirage-project / mirage</title>
-    <link>https://github.com/mirage-project/mirage</link>
-    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
-  </item>
-  <item>
     <title>NVIDIA / cuCollections</title>
     <link>https://github.com/NVIDIA/cuCollections</link>
     <description></description>
+  </item>
+  <item>
+    <title>BBuf / how-to-optim-algorithm-in-cuda</title>
+    <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
+    <description>how to optimize some algorithm in cuda.</description>
   </item>
   <item>
     <title>NVIDIA / cuvs</title>
@@ -91,9 +71,19 @@
     <description>cuVS - a library for vector search and clustering on the GPU</description>
   </item>
   <item>
+    <title>rapidsai / cugraph</title>
+    <link>https://github.com/rapidsai/cugraph</link>
+    <description>cuGraph - RAPIDS Graph Analytics Library</description>
+  </item>
+  <item>
     <title>NVIDIA / raft</title>
     <link>https://github.com/NVIDIA/raft</link>
     <description>RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</description>
+  </item>
+  <item>
+    <title>alibaba / rtp-llm</title>
+    <link>https://github.com/alibaba/rtp-llm</link>
+    <description>RTP-LLM: Alibaba&#x27;s high-performance LLM inference engine for diverse applications.</description>
   </item>
   <item>
     <title>Dao-AILab / causal-conv1d</title>
@@ -104,6 +94,11 @@
     <title>NVlabs / instant-ngp</title>
     <link>https://github.com/NVlabs/instant-ngp</link>
     <description>Instant neural graphics primitives: lightning fast NeRF and more</description>
+  </item>
+  <item>
+    <title>computerhistory / AlexNet-Source-Code</title>
+    <link>https://github.com/computerhistory/AlexNet-Source-Code</link>
+    <description>This package contains the original 2012 AlexNet code.</description>
   </item>
 </channel>
 </rss>

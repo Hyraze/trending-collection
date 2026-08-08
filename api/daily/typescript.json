@@ -2,17 +2,17 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
-      "title": "TencentCloud / TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "title": "PrimeIntellect-ai / prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16629,
-      "forks": 1498,
-      "added_stars": "1,057 stars today"
+      "stars": 6754,
+      "forks": 542,
+      "added_stars": "2,293 stars today"
     },
     {
       "title": "cloudflare / computer",
@@ -20,29 +20,29 @@
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4945,
-      "forks": 247,
-      "added_stars": "2,802 stars today"
+      "stars": 5836,
+      "forks": 295,
+      "added_stars": "872 stars today"
     },
     {
-      "title": "AdventDevInc / kudu",
-      "url": "https://github.com/AdventDevInc/kudu",
-      "description": "Free Windows, Mac and Linux cleaner, scanner, and more.",
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2039,
-      "forks": 165,
-      "added_stars": "24 stars today"
+      "stars": 17570,
+      "forks": 1573,
+      "added_stars": "1,367 stars today"
     },
     {
-      "title": "melgarafael / DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "title": "tashfeenahmed / freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 382,
-      "forks": 194,
-      "added_stars": "28 stars today"
+      "stars": 18044,
+      "forks": 2638,
+      "added_stars": "114 stars today"
     },
     {
       "title": "iOfficeAI / AionUi",
@@ -50,19 +50,39 @@
       "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 31616,
-      "forks": 3215,
-      "added_stars": "105 stars today"
+      "stars": 31681,
+      "forks": 3227,
+      "added_stars": "80 stars today"
     },
     {
-      "title": "expo / expo",
-      "url": "https://github.com/expo/expo",
-      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "title": "open-mercato / open-mercato",
+      "url": "https://github.com/open-mercato/open-mercato",
+      "description": "AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural and domain decisions (multi-tenancy, RBAC, event flow, pricing, sales pipeline,CRM/ERP processes) are already made conventions and specs so agents (Cursor, Claude Code, Codex) arch. decisions without reinventing. Ship production grade with AI Agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 51400,
-      "forks": 13349,
-      "added_stars": "35 stars today"
+      "stars": 1578,
+      "forks": 353,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "element-plus / element-plus",
+      "url": "https://github.com/element-plus/element-plus",
+      "description": "🎉 A Vue.js 3 UI Library made by Element team",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 27662,
+      "forks": 19845,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "payloadcms / payload",
+      "url": "https://github.com/payloadcms/payload",
+      "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 44042,
+      "forks": 4017,
+      "added_stars": "19 stars today"
     },
     {
       "title": "makeplane / plane",
@@ -70,119 +90,69 @@
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 55661,
-      "forks": 5251,
-      "added_stars": "95 stars today"
+      "stars": 55700,
+      "forks": 5266,
+      "added_stars": "65 stars today"
     },
     {
-      "title": "anomalyco / opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
+      "title": "CodebuffAI / freebuff",
+      "url": "https://github.com/CodebuffAI/freebuff",
+      "description": "The free coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 194400,
-      "forks": 24871,
-      "added_stars": "514 stars today"
+      "stars": 8584,
+      "forks": 1000,
+      "added_stars": "105 stars today"
     },
     {
-      "title": "MadsLorentzen / ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "title": "firecrawl / firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 30564,
-      "forks": 10402,
-      "added_stars": "318 stars today"
+      "stars": 162935,
+      "forks": 9172,
+      "added_stars": "583 stars today"
     },
     {
-      "title": "ever-co / ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "title": "CopilotKit / CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4295,
-      "forks": 855,
-      "added_stars": "52 stars today"
+      "stars": 36619,
+      "forks": 4525,
+      "added_stars": "74 stars today"
     },
     {
-      "title": "microsoft / vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 188456,
-      "forks": 41457,
-      "added_stars": "86 stars today"
+      "stars": 85338,
+      "forks": 10587,
+      "added_stars": "492 stars today"
     },
     {
-      "title": "CherryHQ / cherry-studio",
-      "url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "title": "satnaing / shadcn-admin",
+      "url": "https://github.com/satnaing/shadcn-admin",
+      "description": "Admin Dashboard UI built with Shadcn and Vite.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 49935,
-      "forks": 4730,
-      "added_stars": "328 stars today"
+      "stars": 13726,
+      "forks": 2113,
+      "added_stars": "210 stars today"
     },
     {
-      "title": "QwenLM / qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
+      "title": "deepcoldy / botmux",
+      "url": "https://github.com/deepcoldy/botmux",
+      "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI session",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 26801,
-      "forks": 2799,
-      "added_stars": "58 stars today"
-    },
-    {
-      "title": "playcanvas / supersplat",
-      "url": "https://github.com/playcanvas/supersplat",
-      "description": "3D Gaussian Splat Editor",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 9801,
-      "forks": 1101,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "FlowiseAI / Flowise",
-      "url": "https://github.com/FlowiseAI/Flowise",
-      "description": "Build AI Agents, Visually",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 55223,
-      "forks": 24859,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "KnockOutEZ / wigolo",
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4377,
-      "forks": 309,
-      "added_stars": "88 stars today"
-    },
-    {
-      "title": "promptfoo / promptfoo",
-      "url": "https://github.com/promptfoo/promptfoo",
-      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 24025,
-      "forks": 2165,
-      "added_stars": "48 stars today"
-    },
-    {
-      "title": "abhigyanpatwari / GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 45153,
-      "forks": 5002,
-      "added_stars": "43 stars today"
+      "stars": 998,
+      "forks": 190,
+      "added_stars": "16 stars today"
     }
   ]
 }

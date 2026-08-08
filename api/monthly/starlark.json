@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,19 +10,19 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8669,
-      "forks": 2610,
+      "stars": 8670,
+      "forks": 2611,
       "added_stars": "47 stars this month"
     },
     {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 22913,
-      "forks": 1417,
-      "added_stars": "124 stars this month"
+      "stars": 3928,
+      "forks": 302,
+      "added_stars": "61 stars this month"
     },
     {
       "title": "uber / hermetic_cc_toolchain",
@@ -35,24 +35,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 378,
-      "forks": 835,
-      "added_stars": "5 stars this month"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3925,
-      "forks": 302,
-      "added_stars": "58 stars this month"
+      "stars": 22916,
+      "forks": 1418,
+      "added_stars": "123 stars this month"
     },
     {
       "title": "bazelbuild / bazel-skylib",
@@ -65,24 +55,34 @@
       "added_stars": "3 stars this month"
     },
     {
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 294,
+      "forks": 115,
+      "added_stars": "2 stars this month"
+    },
+    {
       "title": "bazel-contrib / rules_python",
       "url": "https://github.com/bazel-contrib/rules_python",
       "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 682,
-      "forks": 707,
+      "forks": 708,
       "added_stars": "7 stars this month"
     },
     {
-      "title": "grpc / grpc-proto",
-      "url": "https://github.com/grpc/grpc-proto",
-      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 293,
-      "forks": 115,
-      "added_stars": "1 star this month"
+      "stars": 378,
+      "forks": 834,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "openconfig / gnoi",
@@ -95,6 +95,16 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "tilt-dev / tilt-extensions",
+      "url": "https://github.com/tilt-dev/tilt-extensions",
+      "description": "Extensions for Tilt",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 241,
+      "forks": 192,
+      "added_stars": "1 star this month"
+    },
+    {
       "title": "bazelbuild / rules_rust",
       "url": "https://github.com/bazelbuild/rules_rust",
       "description": "Rust rules for Bazel",
@@ -102,7 +112,7 @@
       "languageColor": "#76d275",
       "stars": 827,
       "forks": 637,
-      "added_stars": "11 stars this month"
+      "added_stars": "10 stars this month"
     },
     {
       "title": "bazel-contrib / rules_perl",
@@ -113,16 +123,6 @@
       "stars": 31,
       "forks": 49,
       "added_stars": "0 stars this month"
-    },
-    {
-      "title": "tilt-dev / tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 242,
-      "forks": 191,
-      "added_stars": "1 star this month"
     },
     {
       "title": "googleapis / api-common-protos",

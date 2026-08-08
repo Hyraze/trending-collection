@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "gpuweb / gpuweb",
@@ -12,7 +12,7 @@
       "languageColor": "#5562ac",
       "stars": 5447,
       "forks": 375,
-      "added_stars": "27 stars this month"
+      "added_stars": "25 stars this month"
     },
     {
       "title": "webmachinelearning / webmcp",
@@ -20,7 +20,7 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 2950,
+      "stars": 2954,
       "forks": 189,
       "added_stars": "212 stars this month"
     },
@@ -42,47 +42,7 @@
       "languageColor": "#5562ac",
       "stars": 4855,
       "forks": 803,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "patcg-individual-drafts / topics",
-      "url": "https://github.com/patcg-individual-drafts/topics",
-      "description": "The Topics API",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 873,
-      "forks": 888,
-      "added_stars": "9 stars this month"
-    },
-    {
-      "title": "w3c / ServiceWorker",
-      "url": "https://github.com/w3c/ServiceWorker",
-      "description": "Service Workers",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 3632,
-      "forks": 323,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "w3c / webextensions",
-      "url": "https://github.com/w3c/webextensions",
-      "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 706,
-      "forks": 90,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "w3c / webappsec-permissions-policy",
-      "url": "https://github.com/w3c/webappsec-permissions-policy",
-      "description": "A mechanism to selectively enable and disable browser features and APIs",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 429,
-      "forks": 180,
-      "added_stars": "3 stars this month"
+      "added_stars": "11 stars this month"
     },
     {
       "title": "immersive-web / webxr",
@@ -95,14 +55,44 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "WICG / declarative-partial-updates",
-      "url": "https://github.com/WICG/declarative-partial-updates",
-      "description": "",
+      "title": "w3c / webappsec-permissions-policy",
+      "url": "https://github.com/w3c/webappsec-permissions-policy",
+      "description": "A mechanism to selectively enable and disable browser features and APIs",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 120,
-      "forks": 11,
-      "added_stars": "12 stars this month"
+      "stars": 429,
+      "forks": 180,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "w3c / ServiceWorker",
+      "url": "https://github.com/w3c/ServiceWorker",
+      "description": "Service Workers",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 3632,
+      "forks": 323,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "patcg-individual-drafts / topics",
+      "url": "https://github.com/patcg-individual-drafts/topics",
+      "description": "The Topics API",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 873,
+      "forks": 888,
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "w3c / webextensions",
+      "url": "https://github.com/w3c/webextensions",
+      "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 706,
+      "forks": 91,
+      "added_stars": "3 stars this month"
     }
   ]
 }

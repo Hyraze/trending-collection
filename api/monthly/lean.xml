@@ -4,7 +4,7 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>leanprover-community / mathlib4</title>
     <link>https://github.com/leanprover-community/mathlib4</link>
@@ -41,11 +41,6 @@
     <description>Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)</description>
   </item>
   <item>
-    <title>leanprover-community / ProofWidgets4</title>
-    <link>https://github.com/leanprover-community/ProofWidgets4</link>
-    <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
-  </item>
-  <item>
     <title>leanprover-community / plausible</title>
     <link>https://github.com/leanprover-community/plausible</link>
     <description></description>
@@ -56,6 +51,11 @@
     <description>White-box automation for Lean 4</description>
   </item>
   <item>
+    <title>leanprover-community / ProofWidgets4</title>
+    <link>https://github.com/leanprover-community/ProofWidgets4</link>
+    <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
+  </item>
+  <item>
     <title>leanprover-community / quote4</title>
     <link>https://github.com/leanprover-community/quote4</link>
     <description>Intuitive, type-safe expression quotations for Lean 4.</description>
@@ -64,6 +64,16 @@
     <title>leanprover-community / mathlib3</title>
     <link>https://github.com/leanprover-community/mathlib3</link>
     <description>Lean 3&#x27;s obsolete mathematical components library: please use mathlib4</description>
+  </item>
+  <item>
+    <title>ImperialCollegeLondon / FLT</title>
+    <link>https://github.com/ImperialCollegeLondon/FLT</link>
+    <description>Ongoing Lean formalisation of the proof of Fermat&#x27;s Last Theorem</description>
+  </item>
+  <item>
+    <title>Verified-zkEVM / evm-asm</title>
+    <link>https://github.com/Verified-zkEVM/evm-asm</link>
+    <description></description>
   </item>
 </channel>
 </rss>

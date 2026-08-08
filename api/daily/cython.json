@@ -2,17 +2,47 @@
   "title": "GitHub Cython Languages Daily Trending",
   "description": "Daily Trending of Cython Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
+    {
+      "title": "cython / cython",
+      "url": "https://github.com/cython/cython",
+      "description": "The most widely used Python to C compiler",
+      "language": "Cython",
+      "languageColor": "#fedf5b",
+      "stars": 10819,
+      "forks": 1615,
+      "added_stars": "1 star today"
+    },
     {
       "title": "NVIDIA / cuda-python",
       "url": "https://github.com/NVIDIA/cuda-python",
       "description": "CUDA Python: Performance meets Productivity",
       "language": "Cython",
       "languageColor": "#fedf5b",
-      "stars": 3334,
-      "forks": 317,
+      "stars": 3335,
+      "forks": 318,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "TA-Lib / ta-lib-python",
+      "url": "https://github.com/TA-Lib/ta-lib-python",
+      "description": "Python wrapper for TA-Lib (http://ta-lib.org/).",
+      "language": "Cython",
+      "languageColor": "#fedf5b",
+      "stars": 12178,
+      "forks": 1995,
       "added_stars": "4 stars today"
+    },
+    {
+      "title": "ansible / pylibssh",
+      "url": "https://github.com/ansible/pylibssh",
+      "description": "Python bindings specific to Ansible use case for libssh https://www.libssh.org/",
+      "language": "Cython",
+      "languageColor": "#fedf5b",
+      "stars": 80,
+      "forks": 45,
+      "added_stars": "0 stars today"
     }
   ]
 }

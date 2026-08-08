@@ -4,16 +4,11 @@
   <title>GitHub Markdown Languages Daily Trending</title>
   <description>Daily Trending of Markdown Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>codecrafters-io / build-your-own-x</title>
     <link>https://github.com/codecrafters-io/build-your-own-x</link>
     <description>Master programming by recreating your favorite technologies from scratch.</description>
-  </item>
-  <item>
-    <title>ethereum / ethereum-org-website</title>
-    <link>https://github.com/ethereum/ethereum-org-website</link>
-    <description>Ethereum.org is a primary online resource for the Ethereum community.</description>
   </item>
   <item>
     <title>MicrosoftDocs / azure-docs</title>
@@ -21,9 +16,19 @@
     <description>Open source documentation of Microsoft Azure</description>
   </item>
   <item>
+    <title>ethereum / ethereum-org-website</title>
+    <link>https://github.com/ethereum/ethereum-org-website</link>
+    <description>Ethereum.org is a primary online resource for the Ethereum community.</description>
+  </item>
+  <item>
     <title>mdn / content</title>
     <link>https://github.com/mdn/content</link>
     <description>The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.</description>
+  </item>
+  <item>
+    <title>OAI / OpenAPI-Specification</title>
+    <link>https://github.com/OAI/OpenAPI-Specification</link>
+    <description>The OpenAPI Specification Repository</description>
   </item>
   <item>
     <title>mdn / translated-content</title>
@@ -36,14 +41,14 @@
     <description>Collaborative cheatsheets for console commands 📚.</description>
   </item>
   <item>
-    <title>microsoft / vscode-docs</title>
-    <link>https://github.com/microsoft/vscode-docs</link>
-    <description>Public documentation for Visual Studio Code</description>
-  </item>
-  <item>
     <title>docker / docs</title>
     <link>https://github.com/docker/docs</link>
     <description>Source repo for Docker&#x27;s Documentation</description>
+  </item>
+  <item>
+    <title>microsoft / vscode-docs</title>
+    <link>https://github.com/microsoft/vscode-docs</link>
+    <description>Public documentation for Visual Studio Code</description>
   </item>
   <item>
     <title>adr / madr</title>
@@ -56,11 +61,6 @@
     <description>🔥 A Complete List of GitHub Profile Badges and Achievements 🔥</description>
   </item>
   <item>
-    <title>OAI / OpenAPI-Specification</title>
-    <link>https://github.com/OAI/OpenAPI-Specification</link>
-    <description>The OpenAPI Specification Repository</description>
-  </item>
-  <item>
     <title>Anmol-Baranwal / Cool-GIFs-For-GitHub</title>
     <link>https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub</link>
     <description>🤝 Awesome List of GIFs &amp; avatars to use in GitHub.</description>
@@ -71,19 +71,14 @@
     <description>Protect your data against global mass surveillance programs.</description>
   </item>
   <item>
-    <title>ppy / osu-wiki</title>
-    <link>https://github.com/ppy/osu-wiki</link>
-    <description>home of the osu! wiki</description>
-  </item>
-  <item>
     <title>rust-lang / rfcs</title>
     <link>https://github.com/rust-lang/rfcs</link>
     <description>RFCs for changes to Rust</description>
   </item>
   <item>
-    <title>TRaSH-Guides / Guides</title>
-    <link>https://github.com/TRaSH-Guides/Guides</link>
-    <description>TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.</description>
+    <title>ppy / osu-wiki</title>
+    <link>https://github.com/ppy/osu-wiki</link>
+    <description>home of the osu! wiki</description>
   </item>
   <item>
     <title>adambard / learnxinyminutes-docs</title>
@@ -91,9 +86,9 @@
     <description>Code documentation written as code! How novel and totally my idea!</description>
   </item>
   <item>
-    <title>ellisonleao / magictools</title>
-    <link>https://github.com/ellisonleao/magictools</link>
-    <description>🎮 📝 A list of Game Development resources to make magic happen.</description>
+    <title>TRaSH-Guides / Guides</title>
+    <link>https://github.com/TRaSH-Guides/Guides</link>
+    <description>TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.</description>
   </item>
   <item>
     <title>swiftlang / swift-evolution</title>
@@ -104,6 +99,11 @@
     <title>SAP / styleguides</title>
     <link>https://github.com/SAP/styleguides</link>
     <description>This repository provides SAP style guides for coding and coding-related topics.</description>
+  </item>
+  <item>
+    <title>ellisonleao / magictools</title>
+    <link>https://github.com/ellisonleao/magictools</link>
+    <description>🎮 📝 A list of Game Development resources to make magic happen.</description>
   </item>
 </channel>
 </rss>

@@ -4,21 +4,21 @@
   <title>GitHub Verilog Languages Daily Trending</title>
   <description>Daily Trending of Verilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>The-OpenROAD-Project / OpenROAD</title>
     <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
     <description>OpenROAD&#x27;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</description>
   </item>
   <item>
-    <title>The-OpenROAD-Project / OpenROAD-flow-scripts</title>
-    <link>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</link>
-    <description>OpenROAD&#x27;s scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/</description>
-  </item>
-  <item>
     <title>OSCPU / yosys-sta</title>
     <link>https://github.com/OSCPU/yosys-sta</link>
     <description></description>
+  </item>
+  <item>
+    <title>The-OpenROAD-Project / OpenROAD-flow-scripts</title>
+    <link>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</link>
+    <description>OpenROAD&#x27;s scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/</description>
   </item>
   <item>
     <title>YosysHQ / picorv32</title>
@@ -31,11 +31,6 @@
     <description>OpenSTA engine</description>
   </item>
   <item>
-    <title>vortexgpgpu / vortex</title>
-    <link>https://github.com/vortexgpgpu/vortex</link>
-    <description></description>
-  </item>
-  <item>
     <title>EttusResearch / uhd</title>
     <link>https://github.com/EttusResearch/uhd</link>
     <description>The USRP™ Hardware Driver Repository</description>
@@ -44,6 +39,11 @@
     <title>analogdevicesinc / hdl</title>
     <link>https://github.com/analogdevicesinc/hdl</link>
     <description>HDL libraries and projects</description>
+  </item>
+  <item>
+    <title>vortexgpgpu / vortex</title>
+    <link>https://github.com/vortexgpgpu/vortex</link>
+    <description></description>
   </item>
   <item>
     <title>OpenPOWERFoundation / a2o</title>

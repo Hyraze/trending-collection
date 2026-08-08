@@ -2,97 +2,27 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
-      "title": "h3nock / remux",
-      "url": "https://github.com/h3nock/remux",
-      "description": "A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.",
+      "title": "LiveContainer / LiveContainer",
+      "url": "https://github.com/LiveContainer/LiveContainer",
+      "description": "Run iOS apps without actually installing them!",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 339,
-      "forks": 27,
-      "added_stars": "26 stars today"
+      "stars": 10661,
+      "forks": 851,
+      "added_stars": "30 stars today"
     },
     {
-      "title": "TheBoredTeam / boring.notch",
-      "url": "https://github.com/TheBoredTeam/boring.notch",
-      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
+      "title": "alienator88 / Pearcleaner",
+      "url": "https://github.com/alienator88/Pearcleaner",
+      "description": "A free, source-available and fair-code licensed mac app cleaner",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 10269,
-      "forks": 905,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "Lakr233 / vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 7579,
-      "forks": 1101,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "BarutSRB / OmniWM",
-      "url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 2364,
-      "forks": 89,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "ChartsOrg / Charts",
-      "url": "https://github.com/ChartsOrg/Charts",
-      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 28010,
-      "forks": 5993,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "swiftlang / swift-subprocess",
-      "url": "https://github.com/swiftlang/swift-subprocess",
-      "description": "Subprocess is a cross-platform package for spawning processes in Swift.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 712,
-      "forks": 66,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "pointfreeco / swift-composable-architecture",
-      "url": "https://github.com/pointfreeco/swift-composable-architecture",
-      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 14858,
-      "forks": 1674,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "matthartman / ghost-pepper",
-      "url": "https://github.com/matthartman/ghost-pepper",
-      "description": "100% private on-device voice models for speech-to-text and meeting transcription on macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 3066,
-      "forks": 185,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "TelegramMessenger / Telegram-iOS",
-      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
-      "description": "Telegram-iOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 8822,
-      "forks": 2773,
-      "added_stars": "8 stars today"
+      "stars": 14219,
+      "forks": 360,
+      "added_stars": "23 stars today"
     },
     {
       "title": "zachlatta / freeflow",
@@ -100,9 +30,79 @@
       "description": "Free & fast alternative to Wispr Flow",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2400,
-      "forks": 234,
-      "added_stars": "18 stars today"
+      "stars": 2409,
+      "forks": 236,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "rxhanson / Rectangle",
+      "url": "https://github.com/rxhanson/Rectangle",
+      "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 29652,
+      "forks": 970,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "h3nock / remux",
+      "url": "https://github.com/h3nock/remux",
+      "description": "A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 413,
+      "forks": 33,
+      "added_stars": "102 stars today"
+    },
+    {
+      "title": "TheBoredTeam / boring.notch",
+      "url": "https://github.com/TheBoredTeam/boring.notch",
+      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 10277,
+      "forks": 904,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "minh-ton / reynard-browser",
+      "url": "https://github.com/minh-ton/reynard-browser",
+      "description": "An experimental Gecko-based web browser for iOS 13+.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 1390,
+      "forks": 107,
+      "added_stars": "27 stars today"
+    },
+    {
+      "title": "whoeevee / EeveeSpotifyReborn",
+      "url": "https://github.com/whoeevee/EeveeSpotifyReborn",
+      "description": "A tweak to enhance Spotify experience",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2372,
+      "forks": 11014,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "RevenueCat / purchases-ios",
+      "url": "https://github.com/RevenueCat/purchases-ios",
+      "description": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 3046,
+      "forks": 435,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "crossoverJie / SkillDeck",
+      "url": "https://github.com/crossoverJie/SkillDeck",
+      "description": "Native macOS SwiftUI app for managing multiple AI code agent skills",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 523,
+      "forks": 38,
+      "added_stars": "6 stars today"
     },
     {
       "title": "nikitabobko / AeroSpace",
@@ -110,59 +110,39 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 22240,
-      "forks": 615,
-      "added_stars": "27 stars today"
+      "stars": 22273,
+      "forks": 617,
+      "added_stars": "32 stars today"
     },
     {
-      "title": "signalapp / Signal-iOS",
-      "url": "https://github.com/signalapp/Signal-iOS",
-      "description": "A private messenger for iOS.",
+      "title": "wxtsky / CodeIsland",
+      "url": "https://github.com/wxtsky/CodeIsland",
+      "description": "Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 13 AI tools, with iPhone & Apple Watch companions",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 12184,
-      "forks": 3471,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "linearmouse / linearmouse",
-      "url": "https://github.com/linearmouse/linearmouse",
-      "description": "The mouse and trackpad utility for Mac.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 6607,
-      "forks": 152,
+      "stars": 2283,
+      "forks": 266,
       "added_stars": "5 stars today"
     },
     {
-      "title": "swiftlang / swift",
-      "url": "https://github.com/swiftlang/swift",
-      "description": "The Swift Programming Language",
+      "title": "robinebers / openusage",
+      "url": "https://github.com/robinebers/openusage",
+      "description": "Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 70226,
-      "forks": 10788,
-      "added_stars": "6 stars today"
+      "stars": 3682,
+      "forks": 373,
+      "added_stars": "14 stars today"
     },
     {
-      "title": "airbnb / lottie-ios",
-      "url": "https://github.com/airbnb/lottie-ios",
-      "description": "An iOS library to natively render After Effects vector animations",
+      "title": "getsentry / sentry-cocoa",
+      "url": "https://github.com/getsentry/sentry-cocoa",
+      "description": "The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 26810,
-      "forks": 3827,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "altic-dev / FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 9393,
-      "forks": 620,
-      "added_stars": "31 stars today"
+      "stars": 1102,
+      "forks": 410,
+      "added_stars": "0 stars today"
     }
   ]
 }

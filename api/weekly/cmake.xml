@@ -4,26 +4,26 @@
   <title>GitHub Cmake Languages Daily Trending</title>
   <description>Daily Trending of Cmake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:25:04 GMT</pubDate>
-  <item>
-    <title>microsoft / vcpkg</title>
-    <link>https://github.com/microsoft/vcpkg</link>
-    <description>C++ Library Manager for Windows, Linux, and MacOS</description>
-  </item>
+  <pubDate>Sat, 08 Aug 2026 03:22:21 GMT</pubDate>
   <item>
     <title>shinchiro / mpv-winbuild-cmake</title>
     <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
     <description>CMake-based MinGW-w64 Cross Toolchain</description>
   </item>
   <item>
-    <title>jrl-umi3218 / jrl-cmakemodules</title>
-    <link>https://github.com/jrl-umi3218/jrl-cmakemodules</link>
-    <description>CMake utility toolbox</description>
+    <title>microsoft / vcpkg</title>
+    <link>https://github.com/microsoft/vcpkg</link>
+    <description>C++ Library Manager for Windows, Linux, and MacOS</description>
   </item>
   <item>
     <title>flathub / shared-modules</title>
     <link>https://github.com/flathub/shared-modules</link>
     <description>Common Flatpak modules that can be used as a git submodule</description>
+  </item>
+  <item>
+    <title>jrl-umi3218 / jrl-cmakemodules</title>
+    <link>https://github.com/jrl-umi3218/jrl-cmakemodules</link>
+    <description>CMake utility toolbox</description>
   </item>
   <item>
     <title>KiCad / kicad-footprints</title>
@@ -41,34 +41,9 @@
     <description>The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.</description>
   </item>
   <item>
-    <title>KiCad / kicad-symbols</title>
-    <link>https://github.com/KiCad/kicad-symbols</link>
-    <description>Official KiCad schematic symbol libraries for Kicad 5</description>
-  </item>
-  <item>
-    <title>ecmwf / ecbuild</title>
-    <link>https://github.com/ecmwf/ecbuild</link>
-    <description>A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</description>
-  </item>
-  <item>
-    <title>steinbergmedia / vst3sdk</title>
-    <link>https://github.com/steinbergmedia/vst3sdk</link>
-    <description>VST 3 Plug-In SDK</description>
-  </item>
-  <item>
-    <title>OpenMoonRay / openmoonray</title>
-    <link>https://github.com/OpenMoonRay/openmoonray</link>
-    <description>MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.</description>
-  </item>
-  <item>
-    <title>tier4 / tier4_autoware_msgs</title>
-    <link>https://github.com/tier4/tier4_autoware_msgs</link>
-    <description>TIER IV&#x27;s extension messages for Autoware</description>
-  </item>
-  <item>
-    <title>Andersama / obs-asio</title>
-    <link>https://github.com/Andersama/obs-asio</link>
-    <description>ASIO plugin for OBS-Studio</description>
+    <title>corrosion-rs / corrosion</title>
+    <link>https://github.com/corrosion-rs/corrosion</link>
+    <description>Marrying Rust and CMake - Easy Rust and C/C++ Integration!</description>
   </item>
   <item>
     <title>GEOS-ESM / GEOSgcm</title>
@@ -76,9 +51,19 @@
     <description>GEOS Earth System Model GEOSgcm Fixture</description>
   </item>
   <item>
-    <title>corrosion-rs / corrosion</title>
-    <link>https://github.com/corrosion-rs/corrosion</link>
-    <description>Marrying Rust and CMake - Easy Rust and C/C++ Integration!</description>
+    <title>KiCad / kicad-symbols</title>
+    <link>https://github.com/KiCad/kicad-symbols</link>
+    <description>Official KiCad schematic symbol libraries for Kicad 5</description>
+  </item>
+  <item>
+    <title>TheLartians / PackageProject.cmake</title>
+    <link>https://github.com/TheLartians/PackageProject.cmake</link>
+    <description>🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.</description>
+  </item>
+  <item>
+    <title>MarkSchofield / WindowsToolchain</title>
+    <link>https://github.com/MarkSchofield/WindowsToolchain</link>
+    <description>A repository containing a CMake toolchain for using MSVC</description>
   </item>
 </channel>
 </rss>

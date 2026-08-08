@@ -2,28 +2,8 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
-    {
-      "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
-      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
-      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 701,
-      "forks": 518,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "analogdevicesinc / hdl",
-      "url": "https://github.com/analogdevicesinc/hdl",
-      "description": "HDL libraries and projects",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 1990,
-      "forks": 1670,
-      "added_stars": "9 stars this week"
-    },
     {
       "title": "YosysHQ / picorv32",
       "url": "https://github.com/YosysHQ/picorv32",
@@ -35,13 +15,33 @@
       "added_stars": "15 stars this week"
     },
     {
+      "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 702,
+      "forks": 518,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "analogdevicesinc / hdl",
+      "url": "https://github.com/analogdevicesinc/hdl",
+      "description": "HDL libraries and projects",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 1992,
+      "forks": 1670,
+      "added_stars": "11 stars this week"
+    },
+    {
       "title": "The-OpenROAD-Project / OpenROAD",
       "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 2950,
-      "forks": 978,
+      "stars": 2951,
+      "forks": 980,
       "added_stars": "32 stars this week"
     },
     {
@@ -55,6 +55,16 @@
       "added_stars": "2 stars this week"
     },
     {
+      "title": "vortexgpgpu / vortex",
+      "url": "https://github.com/vortexgpgpu/vortex",
+      "description": "",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 2190,
+      "forks": 520,
+      "added_stars": "11 stars this week"
+    },
+    {
       "title": "TinyTapeout / ttsky-verilog-template",
       "url": "https://github.com/TinyTapeout/ttsky-verilog-template",
       "description": "Submission template for Tiny Tapeout SKY130 (ChipFoundry) shuttles - Verilog HDL Projects",
@@ -63,16 +73,6 @@
       "stars": 49,
       "forks": 467,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "vortexgpgpu / vortex",
-      "url": "https://github.com/vortexgpgpu/vortex",
-      "description": "",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 2190,
-      "forks": 519,
-      "added_stars": "13 stars this week"
     }
   ]
 }

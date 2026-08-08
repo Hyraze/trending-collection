@@ -4,11 +4,21 @@
   <title>GitHub Webassembly Languages Daily Trending</title>
   <description>Daily Trending of Webassembly Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 07 Aug 2026 04:27:12 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
   <item>
     <title>WebAssembly / binaryen</title>
     <link>https://github.com/WebAssembly/binaryen</link>
     <description>Optimizer and compiler/toolchain library for WebAssembly</description>
+  </item>
+  <item>
+    <title>WebAssembly / component-model</title>
+    <link>https://github.com/WebAssembly/component-model</link>
+    <description>Repository for design and specification of the Component Model</description>
+  </item>
+  <item>
+    <title>WebAssembly / shared-everything-threads</title>
+    <link>https://github.com/WebAssembly/shared-everything-threads</link>
+    <description>A draft proposal for spawning threads in WebAssembly</description>
   </item>
 </channel>
 </rss>

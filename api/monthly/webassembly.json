@@ -2,7 +2,7 @@
   "title": "GitHub Webassembly Languages Daily Trending",
   "description": "Daily Trending of Webassembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "WebAssembly / binaryen",
@@ -10,9 +10,29 @@
       "description": "Optimizer and compiler/toolchain library for WebAssembly",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": 8590,
+      "stars": 8592,
       "forks": 873,
-      "added_stars": "56 stars this month"
+      "added_stars": "58 stars this month"
+    },
+    {
+      "title": "WebAssembly / component-model",
+      "url": "https://github.com/WebAssembly/component-model",
+      "description": "Repository for design and specification of the Component Model",
+      "language": "WebAssembly",
+      "languageColor": "#04133b",
+      "stars": 1348,
+      "forks": 126,
+      "added_stars": "23 stars this month"
+    },
+    {
+      "title": "WebAssembly / shared-everything-threads",
+      "url": "https://github.com/WebAssembly/shared-everything-threads",
+      "description": "A draft proposal for spawning threads in WebAssembly",
+      "language": "WebAssembly",
+      "languageColor": "#04133b",
+      "stars": 96,
+      "forks": 6,
+      "added_stars": "4 stars this month"
     }
   ]
 }

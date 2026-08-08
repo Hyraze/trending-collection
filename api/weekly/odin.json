@@ -2,7 +2,7 @@
   "title": "GitHub Odin Languages Daily Trending",
   "description": "Daily Trending of Odin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "odin-lang / Odin",
@@ -10,19 +10,9 @@
       "description": "Odin Programming Language",
       "language": "Odin",
       "languageColor": "#60AFFE",
-      "stars": 11624,
+      "stars": 11630,
       "forks": 1046,
       "added_stars": "79 stars this week"
-    },
-    {
-      "title": "DanielGavin / ols",
-      "url": "https://github.com/DanielGavin/ols",
-      "description": "Language server for Odin",
-      "language": "Odin",
-      "languageColor": "#60AFFE",
-      "stars": 1133,
-      "forks": 175,
-      "added_stars": "16 stars this week"
     },
     {
       "title": "odin-lang / examples",
@@ -32,7 +22,27 @@
       "languageColor": "#60AFFE",
       "stars": 738,
       "forks": 100,
-      "added_stars": "13 stars this week"
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "laytan / odin-http",
+      "url": "https://github.com/laytan/odin-http",
+      "description": "A HTTP/1.1 client/server implementation for Odin.",
+      "language": "Odin",
+      "languageColor": "#60AFFE",
+      "stars": 428,
+      "forks": 47,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "DanielGavin / ols",
+      "url": "https://github.com/DanielGavin/ols",
+      "description": "Language server for Odin",
+      "language": "Odin",
+      "languageColor": "#60AFFE",
+      "stars": 1134,
+      "forks": 175,
+      "added_stars": "16 stars this week"
     }
   ]
 }

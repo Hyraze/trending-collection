@@ -2,8 +2,28 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
+    {
+      "title": "thanglequoc / vietnamese-provinces-database",
+      "url": "https://github.com/thanglequoc/vietnamese-provinces-database",
+      "description": "Comprehensive SQL and GIS datasets for Vietnamese administrative units, including provinces, districts, wards, and geospatial boundaries.",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 1748,
+      "forks": 417,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "pgpartman / pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 2790,
+      "forks": 318,
+      "added_stars": "1 star today"
+    },
     {
       "title": "guchengwuyue / yshop-drink",
       "url": "https://github.com/guchengwuyue/yshop-drink",
@@ -12,37 +32,17 @@
       "languageColor": "#336790",
       "stars": 1510,
       "forks": 384,
-      "added_stars": "3 stars today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "thanglequoc / vietnamese-provinces-database",
-      "url": "https://github.com/thanglequoc/vietnamese-provinces-database",
-      "description": "Comprehensive SQL and GIS datasets for Vietnamese administrative units, including provinces, districts, wards, and geospatial boundaries.",
+      "title": "pgmq / pgmq",
+      "url": "https://github.com/pgmq/pgmq",
+      "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 1746,
-      "forks": 416,
+      "stars": 5066,
+      "forks": 141,
       "added_stars": "4 stars today"
-    },
-    {
-      "title": "pgpartman / pg_partman",
-      "url": "https://github.com/pgpartman/pg_partman",
-      "description": "Partition management extension for PostgreSQL",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 2788,
-      "forks": 318,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Snowflake-Labs / modern-data-engineering-snowflake",
-      "url": "https://github.com/Snowflake-Labs/modern-data-engineering-snowflake",
-      "description": "Companion repository that goes along with Snowflake's \"Introduction to Modern Data Engineering with Snowflake\" course on Coursera",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 190,
-      "forks": 262,
-      "added_stars": "0 stars today"
     },
     {
       "title": "postgis / postgis",
@@ -50,7 +50,7 @@
       "description": "PostGIS spatial database extension to PostgreSQL [mirror]",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 2194,
+      "stars": 2195,
       "forks": 432,
       "added_stars": "1 star today"
     }

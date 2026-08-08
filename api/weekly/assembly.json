@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:25:04 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
   "items": [
     {
       "title": "pret / pokered",
@@ -10,29 +10,9 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4863,
-      "forks": 1279,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "openhwgroup / cva6",
-      "url": "https://github.com/openhwgroup/cva6",
-      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 3059,
-      "forks": 994,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "aws / aws-lc",
-      "url": "https://github.com/aws/aws-lc",
-      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 815,
-      "forks": 198,
-      "added_stars": "5 stars this week"
+      "stars": 4865,
+      "forks": 1281,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "ROCm / rocm-libraries",
@@ -41,7 +21,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 398,
-      "forks": 364,
+      "forks": 365,
       "added_stars": "7 stars this week"
     },
     {
@@ -55,6 +35,26 @@
       "added_stars": "8 stars this week"
     },
     {
+      "title": "aws / aws-lc",
+      "url": "https://github.com/aws/aws-lc",
+      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 815,
+      "forks": 198,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "openhwgroup / cva6",
+      "url": "https://github.com/openhwgroup/cva6",
+      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3059,
+      "forks": 995,
+      "added_stars": "10 stars this week"
+    },
+    {
       "title": "hiteshchoudhary / open-source-contribution",
       "url": "https://github.com/hiteshchoudhary/open-source-contribution",
       "description": "A repo to contribute in open source via README only. A dream repo for open source beginner",
@@ -65,12 +65,32 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "pret / pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2484,
+      "forks": 964,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 18617,
+      "forks": 2087,
+      "added_stars": "30 stars this week"
+    },
+    {
       "title": "apple / swift-crypto",
       "url": "https://github.com/apple/swift-crypto",
       "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1709,
+      "stars": 1710,
       "forks": 215,
       "added_stars": "2 stars this week"
     },
@@ -90,39 +110,9 @@
       "description": "",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 940,
-      "forks": 76,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2484,
-      "forks": 964,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "vxunderground / MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 18613,
-      "forks": 2087,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "Rangi42 / polishedcrystal",
-      "url": "https://github.com/Rangi42/polishedcrystal",
-      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1599,
-      "forks": 328,
-      "added_stars": "10 stars this week"
+      "stars": 941,
+      "forks": 77,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "SheerSt / pokewilds",
@@ -132,17 +122,37 @@
       "languageColor": "#6E4C13",
       "stars": 2873,
       "forks": 215,
-      "added_stars": "7 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
-      "title": "apple / swift-nio-ssl",
-      "url": "https://github.com/apple/swift-nio-ssl",
-      "description": "TLS Support for SwiftNIO, based on BoringSSL.",
+      "title": "apache / arrow-go",
+      "url": "https://github.com/apache/arrow-go",
+      "description": "Official Go implementation of Apache Arrow",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 433,
-      "forks": 169,
-      "added_stars": "1 star this week"
+      "stars": 393,
+      "forks": 135,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "Rangi42 / polishedcrystal",
+      "url": "https://github.com/Rangi42/polishedcrystal",
+      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1601,
+      "forks": 329,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "livekit / rust-sdks",
+      "url": "https://github.com/livekit/rust-sdks",
+      "description": "LiveKit realtime and server SDKs for Rust",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 476,
+      "forks": 208,
+      "added_stars": "4 stars this week"
     }
   ]
 }

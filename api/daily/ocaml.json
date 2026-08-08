@@ -2,37 +2,17 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
     {
-      "title": "semgrep / semgrep",
-      "url": "https://github.com/semgrep/semgrep",
-      "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+      "title": "bcpierce00 / unison",
+      "url": "https://github.com/bcpierce00/unison",
+      "description": "Unison file synchronizer",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 16134,
-      "forks": 1016,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "janestreet / magic-trace",
-      "url": "https://github.com/janestreet/magic-trace",
-      "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 6224,
-      "forks": 204,
+      "stars": 5429,
+      "forks": 272,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "ocaml / ocaml-lsp",
-      "url": "https://github.com/ocaml/ocaml-lsp",
-      "description": "OCaml Language Server Protocol implementation",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 909,
-      "forks": 161,
-      "added_stars": "0 stars today"
     },
     {
       "title": "opengrep / opengrep",
@@ -40,19 +20,19 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 2883,
+      "stars": 2888,
       "forks": 237,
-      "added_stars": "3 stars today"
+      "added_stars": "5 stars today"
     },
     {
-      "title": "janestreet / bonsai",
-      "url": "https://github.com/janestreet/bonsai",
-      "description": "A library for building dynamic webapps, using Js_of_ocaml",
+      "title": "semgrep / semgrep",
+      "url": "https://github.com/semgrep/semgrep",
+      "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1357,
-      "forks": 54,
-      "added_stars": "11 stars today"
+      "stars": 16145,
+      "forks": 1016,
+      "added_stars": "14 stars today"
     },
     {
       "title": "semgrep / ocaml-tree-sitter-core",
@@ -65,34 +45,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "ocaml / opam",
-      "url": "https://github.com/ocaml/opam",
-      "description": "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.",
+      "title": "ocaml / ocaml",
+      "url": "https://github.com/ocaml/ocaml",
+      "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1374,
-      "forks": 402,
+      "stars": 6515,
+      "forks": 1411,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "ocaml / ocaml-lsp",
+      "url": "https://github.com/ocaml/ocaml-lsp",
+      "description": "OCaml Language Server Protocol implementation",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 909,
+      "forks": 161,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "rocq-prover / rocq",
-      "url": "https://github.com/rocq-prover/rocq",
-      "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 5546,
-      "forks": 745,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "oxcaml / oxcaml",
-      "url": "https://github.com/oxcaml/oxcaml",
-      "description": "OCaml - Oxidized!",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 831,
-      "forks": 166,
-      "added_stars": "2 stars today"
     }
   ]
 }

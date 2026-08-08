@@ -2,37 +2,57 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:22:56 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:20:13 GMT",
   "items": [
-    {
-      "title": "JetBrains / kotlin",
-      "url": "https://github.com/JetBrains/kotlin",
-      "description": "The Kotlin Programming Language.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 53320,
-      "forks": 6389,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "MatsuriDayo / NekoBoxForAndroid",
-      "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
-      "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 22202,
-      "forks": 1790,
-      "added_stars": "22 stars today"
-    },
     {
       "title": "bannedbook / fanqiang",
       "url": "https://github.com/bannedbook/fanqiang",
       "description": "翻墙-科学上网",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 49540,
-      "forks": 8224,
-      "added_stars": "47 stars today"
+      "stars": 49660,
+      "forks": 8230,
+      "added_stars": "140 stars today"
+    },
+    {
+      "title": "android / compose-samples",
+      "url": "https://github.com/android/compose-samples",
+      "description": "Official Jetpack Compose samples.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 23356,
+      "forks": 5460,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "rukamori / ArchiveTune",
+      "url": "https://github.com/rukamori/ArchiveTune",
+      "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 4280,
+      "forks": 180,
+      "added_stars": "31 stars today"
+    },
+    {
+      "title": "LanRhyme / MicYou",
+      "url": "https://github.com/LanRhyme/MicYou",
+      "description": "MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 3202,
+      "forks": 151,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "xororz / local-dream",
+      "url": "https://github.com/xororz/local-dream",
+      "description": "Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 3182,
+      "forks": 207,
+      "added_stars": "19 stars today"
     },
     {
       "title": "kitsumed / ShizuCallRecorder",
@@ -40,9 +60,19 @@
       "description": "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1173,
+      "stars": 1183,
       "forks": 41,
-      "added_stars": "25 stars today"
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "embabel / embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 4014,
+      "forks": 398,
+      "added_stars": "29 stars today"
     },
     {
       "title": "misaka10032w / Han1meViewer",
@@ -50,9 +80,29 @@
       "description": "hanime1的三方客户端，提高了一些播放体验",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 212,
-      "forks": 17,
-      "added_stars": "43 stars today"
+      "stars": 237,
+      "forks": 19,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "mihonapp / mihon",
+      "url": "https://github.com/mihonapp/mihon",
+      "description": "Free and open source manga reader for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 22638,
+      "forks": 1385,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "samolego / Canta",
+      "url": "https://github.com/samolego/Canta",
+      "description": "Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 5474,
+      "forks": 128,
+      "added_stars": "11 stars today"
     },
     {
       "title": "Dev4Mod / WaEnhancer",
@@ -60,79 +110,49 @@
       "description": "WhatsApp tools for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1617,
-      "forks": 216,
-      "added_stars": "5 stars today"
+      "stars": 1619,
+      "forks": 215,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "thunderbird / thunderbird-android",
-      "url": "https://github.com/thunderbird/thunderbird-android",
-      "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
+      "title": "maxrave-dev / SimpMusic",
+      "url": "https://github.com/maxrave-dev/SimpMusic",
+      "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 13803,
-      "forks": 2778,
+      "stars": 10322,
+      "forks": 513,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "TeamAmaze / AmazeFileManager",
+      "url": "https://github.com/TeamAmaze/AmazeFileManager",
+      "description": "Material design file manager for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 6315,
+      "forks": 1682,
       "added_stars": "4 stars today"
     },
     {
-      "title": "Kotlin / kotlin-lsp",
-      "url": "https://github.com/Kotlin/kotlin-lsp",
-      "description": "Kotlin Language Server and plugin for Visual Studio Code",
+      "title": "cwuom / NeriPlayer",
+      "url": "https://github.com/cwuom/NeriPlayer",
+      "description": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3460,
-      "forks": 85,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "KotatsuApp / Kotatsu",
-      "url": "https://github.com/KotatsuApp/Kotatsu",
-      "description": "Manga reader for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 8793,
-      "forks": 873,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "android / nowinandroid",
-      "url": "https://github.com/android/nowinandroid",
-      "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 21636,
-      "forks": 4560,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "signalapp / Signal-Android",
-      "url": "https://github.com/signalapp/Signal-Android",
-      "description": "A private messenger for Android.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 29166,
-      "forks": 6831,
+      "stars": 2716,
+      "forks": 94,
       "added_stars": "9 stars today"
     },
     {
-      "title": "Ujhhgtg / WeKit",
-      "url": "https://github.com/Ujhhgtg/WeKit",
-      "description": "WeChat, now with superpowers",
+      "title": "jqssun / android-airplay-server",
+      "url": "https://github.com/jqssun/android-airplay-server",
+      "description": "First open-source AirPlay receiver implementation for Android with mirroring, video and audio support",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 454,
-      "forks": 98,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "libre-tube / LibreTube",
-      "url": "https://github.com/libre-tube/LibreTube",
-      "description": "An alternative frontend for YouTube, for Android.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 12418,
-      "forks": 637,
-      "added_stars": "3 stars today"
+      "stars": 191,
+      "forks": 31,
+      "added_stars": "14 stars today"
     }
   ]
 }

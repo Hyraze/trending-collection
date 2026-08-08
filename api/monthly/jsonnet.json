@@ -2,7 +2,7 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "kubernetes-monitoring / kubernetes-mixin",
@@ -10,7 +10,7 @@
       "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": 2434,
+      "stars": 2435,
       "forks": 640,
       "added_stars": "16 stars this month"
     },
@@ -31,18 +31,8 @@
       "language": "Jsonnet",
       "languageColor": "#0064bd",
       "stars": 2154,
-      "forks": 10181,
+      "forks": 10185,
       "added_stars": "18 stars this month"
-    },
-    {
-      "title": "google / jsonnet",
-      "url": "https://github.com/google/jsonnet",
-      "description": "Jsonnet - The data templating language",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 7549,
-      "forks": 472,
-      "added_stars": "19 stars this month"
     }
   ]
 }

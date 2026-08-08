@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 07 Aug 2026 04:27:12 GMT",
+  "pubDate": "Sat, 08 Aug 2026 03:24:29 GMT",
   "items": [
     {
       "title": "microsoft / AI-For-Beginners",
@@ -10,9 +10,9 @@
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 62797,
-      "forks": 12193,
-      "added_stars": "10,946 stars this month"
+      "stars": 63235,
+      "forks": 12258,
+      "added_stars": "11,438 stars this month"
     },
     {
       "title": "Lordog / dive-into-llms",
@@ -20,9 +20,9 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 48139,
-      "forks": 5766,
-      "added_stars": "6,227 stars this month"
+      "stars": 48261,
+      "forks": 5773,
+      "added_stars": "6,299 stars this month"
     },
     {
       "title": "microsoft / generative-ai-for-beginners",
@@ -30,9 +30,9 @@
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 116829,
-      "forks": 61747,
-      "added_stars": "4,332 stars this month"
+      "stars": 116944,
+      "forks": 61802,
+      "added_stars": "4,462 stars this month"
     },
     {
       "title": "lyogavin / airllm",
@@ -40,9 +40,9 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 29678,
-      "forks": 3171,
-      "added_stars": "7,545 stars this month"
+      "stars": 29928,
+      "forks": 3192,
+      "added_stars": "7,796 stars this month"
     },
     {
       "title": "DataExpert-io / data-engineer-handbook",
@@ -50,9 +50,9 @@
       "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 43274,
-      "forks": 8904,
-      "added_stars": "1,239 stars this month"
+      "stars": 43385,
+      "forks": 8960,
+      "added_stars": "1,348 stars this month"
     },
     {
       "title": "anthropics / claude-cookbooks",
@@ -60,9 +60,9 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 51072,
-      "forks": 6034,
-      "added_stars": "4,704 stars this month"
+      "stars": 51111,
+      "forks": 6039,
+      "added_stars": "4,662 stars this month"
     },
     {
       "title": "GoogleCloudPlatform / generative-ai",
@@ -70,9 +70,29 @@
       "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 17559,
-      "forks": 4395,
-      "added_stars": "409 stars this month"
+      "stars": 17565,
+      "forks": 4396,
+      "added_stars": "408 stars this month"
+    },
+    {
+      "title": "microsoft / ML-For-Beginners",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 89125,
+      "forks": 21853,
+      "added_stars": "1,479 stars this month"
+    },
+    {
+      "title": "microsoft / Data-Science-For-Beginners",
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 36535,
+      "forks": 7403,
+      "added_stars": "586 stars this month"
     },
     {
       "title": "jakevdp / PythonDataScienceHandbook",
@@ -80,9 +100,89 @@
       "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 49543,
-      "forks": 19091,
-      "added_stars": "795 stars this month"
+      "stars": 49556,
+      "forks": 19090,
+      "added_stars": "778 stars this month"
+    },
+    {
+      "title": "chiphuyen / aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
+      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 16900,
+      "forks": 2461,
+      "added_stars": "529 stars this month"
+    },
+    {
+      "title": "mrdbourke / pytorch-deep-learning",
+      "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+      "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 18638,
+      "forks": 5107,
+      "added_stars": "373 stars this month"
+    },
+    {
+      "title": "OpenBMB / MiniCPM",
+      "url": "https://github.com/OpenBMB/MiniCPM",
+      "description": "MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 10119,
+      "forks": 685,
+      "added_stars": "480 stars this month"
+    },
+    {
+      "title": "romanmichaelpaolucci / Quant-Guild-Library",
+      "url": "https://github.com/romanmichaelpaolucci/Quant-Guild-Library",
+      "description": "A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 1346,
+      "forks": 319,
+      "added_stars": "110 stars this month"
+    },
+    {
+      "title": "FareedKhan-dev / all-agentic-architectures",
+      "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+      "description": "35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 4071,
+      "forks": 713,
+      "added_stars": "346 stars this month"
+    },
+    {
+      "title": "Infrasys-AI / AISystem",
+      "url": "https://github.com/Infrasys-AI/AISystem",
+      "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 17523,
+      "forks": 2458,
+      "added_stars": "385 stars this month"
+    },
+    {
+      "title": "jackfrued / Python-100-Days",
+      "url": "https://github.com/jackfrued/Python-100-Days",
+      "description": "Python - 100天从新手到大师",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 184975,
+      "forks": 55693,
+      "added_stars": "1,324 stars this month"
+    },
+    {
+      "title": "NirDiamant / RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 28979,
+      "forks": 3530,
+      "added_stars": "630 stars this month"
     },
     {
       "title": "meta-llama / llama-cookbook",
@@ -92,127 +192,17 @@
       "languageColor": "#DA5B0B",
       "stars": 18554,
       "forks": 2765,
-      "added_stars": "184 stars this month"
+      "added_stars": "183 stars this month"
     },
     {
-      "title": "microsoft / ML-For-Beginners",
-      "url": "https://github.com/microsoft/ML-For-Beginners",
-      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "title": "huggingface / blog",
+      "url": "https://github.com/huggingface/blog",
+      "description": "Public repo for HF blog posts",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 89086,
-      "forks": 21844,
-      "added_stars": "1,478 stars this month"
-    },
-    {
-      "title": "chiphuyen / aie-book",
-      "url": "https://github.com/chiphuyen/aie-book",
-      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 16887,
-      "forks": 2461,
-      "added_stars": "534 stars this month"
-    },
-    {
-      "title": "OpenBMB / MiniCPM",
-      "url": "https://github.com/OpenBMB/MiniCPM",
-      "description": "MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 10115,
-      "forks": 683,
-      "added_stars": "514 stars this month"
-    },
-    {
-      "title": "microsoft / Data-Science-For-Beginners",
-      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
-      "description": "10 Weeks, 20 Lessons, Data Science for All!",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 36508,
-      "forks": 7401,
-      "added_stars": "598 stars this month"
-    },
-    {
-      "title": "FareedKhan-dev / all-agentic-architectures",
-      "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-      "description": "35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 4070,
-      "forks": 713,
-      "added_stars": "359 stars this month"
-    },
-    {
-      "title": "Infrasys-AI / AISystem",
-      "url": "https://github.com/Infrasys-AI/AISystem",
-      "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 17507,
-      "forks": 2456,
-      "added_stars": "375 stars this month"
-    },
-    {
-      "title": "mrdbourke / pytorch-deep-learning",
-      "url": "https://github.com/mrdbourke/pytorch-deep-learning",
-      "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 18635,
-      "forks": 5106,
-      "added_stars": "377 stars this month"
-    },
-    {
-      "title": "romanmichaelpaolucci / Quant-Guild-Library",
-      "url": "https://github.com/romanmichaelpaolucci/Quant-Guild-Library",
-      "description": "A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 1343,
-      "forks": 319,
-      "added_stars": "108 stars this month"
-    },
-    {
-      "title": "CompVis / stable-diffusion",
-      "url": "https://github.com/CompVis/stable-diffusion",
-      "description": "A latent text-to-image diffusion model",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 73291,
-      "forks": 10580,
-      "added_stars": "223 stars this month"
-    },
-    {
-      "title": "jackfrued / Python-100-Days",
-      "url": "https://github.com/jackfrued/Python-100-Days",
-      "description": "Python - 100天从新手到大师",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 184935,
-      "forks": 55694,
-      "added_stars": "1,311 stars this month"
-    },
-    {
-      "title": "NirDiamant / RAG_Techniques",
-      "url": "https://github.com/NirDiamant/RAG_Techniques",
-      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 28971,
-      "forks": 3529,
-      "added_stars": "640 stars this month"
-    },
-    {
-      "title": "ed-donner / agents",
-      "url": "https://github.com/ed-donner/agents",
-      "description": "Repo for the Complete Agentic AI Engineering Course",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 5880,
-      "forks": 5013,
-      "added_stars": "322 stars this month"
+      "stars": 3492,
+      "forks": 1042,
+      "added_stars": "39 stars this month"
     },
     {
       "title": "NirDiamant / GenAI_Agents",
@@ -220,9 +210,9 @@
       "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 23664,
-      "forks": 3976,
-      "added_stars": "685 stars this month"
+      "stars": 23683,
+      "forks": 3981,
+      "added_stars": "692 stars this month"
     }
   ]
 }
